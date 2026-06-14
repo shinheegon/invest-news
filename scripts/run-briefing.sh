@@ -5,6 +5,9 @@ set -uo pipefail
 # --- 경로 설정 ---
 PROJECT_DIR="/Users/shinheekon/Desktop/ai-project/news"
 export PATH="/Users/shinheekon/.local/bin:/Users/shinheekon/.local/node/bin:/usr/local/bin:/usr/bin:/bin:$PATH"
+
+# 로컬 비밀키(이메일 등) — 맥에만 보관, git에 안 올라감
+[ -f "$HOME/.news-briefing.env" ] && set -a && . "$HOME/.news-briefing.env" && set +a
 cd "$PROJECT_DIR" || exit 1
 
 LOG="$PROJECT_DIR/logs/run.log"

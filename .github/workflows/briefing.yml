@@ -1,10 +1,12 @@
 name: 투자 브리핑 (클라우드 자동 실행)
 
-# 맥이 꺼져 있어도 GitHub 클라우드에서 매일 자동 실행됩니다.
+# [현재 비활성] 클라우드 자동 실행은 꺼둠 — 맥 로컬 자동화 사용 중.
+# 클라우드(맥 꺼져도 작동)로 전환하려면 아래 schedule 주석을 풀고
+# 비밀키(CLAUDE_CODE_OAUTH_TOKEN, RESEND_API_KEY, VERCEL_TOKEN)를 등록하세요.
 on:
-  schedule:
-    - cron: "5 22 * * *"   # 한국시간 07:05 (UTC 22:05)
-    - cron: "5 10 * * *"   # 한국시간 19:05 (UTC 10:05)
+  # schedule:
+  #   - cron: "5 22 * * *"   # 한국시간 07:05 (UTC 22:05)
+  #   - cron: "5 10 * * *"   # 한국시간 19:05 (UTC 10:05)
   workflow_dispatch:        # 수동 실행 버튼 (Actions 탭에서)
     inputs:
       session:
