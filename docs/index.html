@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>📰 나만의 투자 브리핑</title>
+  <link rel="stylesheet" href="./style.css" />
+  <link rel="preconnect" href="https://cdn.jsdelivr.net" />
+</head>
+<body>
+  <header class="topbar">
+    <div class="wrap">
+      <h1>📰 나만의 투자 브리핑</h1>
+      <span id="updatedAt" class="muted">불러오는 중…</span>
+    </div>
+  </header>
+
+  <nav class="tabs wrap">
+    <button class="tab active" data-tab="latest">🗞️ 최신 브리핑</button>
+    <button class="tab" data-tab="analysis">🧠 분석·전망</button>
+    <button class="tab" data-tab="discovery">🌱 성장기업 발굴</button>
+    <button class="tab" data-tab="review">🕵️ 중간보스 검토</button>
+    <button class="tab" data-tab="synth">🧭 3일 중간 종합</button>
+    <button class="tab" data-tab="keywords">🔑 키워드 빈도·증감</button>
+    <button class="tab" data-tab="companies">🏢 회사 빈도·증감</button>
+    <button class="tab" data-tab="archive">🗂️ 아카이브</button>
+  </nav>
+
+  <main class="wrap">
+    <!-- 최신 브리핑 -->
+    <section id="tab-latest" class="panel active">
+      <article id="latestBody" class="md">불러오는 중…</article>
+    </section>
+
+    <!-- 분석·전망 -->
+    <section id="tab-analysis" class="panel">
+      <article id="analysisBody" class="md">불러오는 중…</article>
+    </section>
+
+    <!-- 성장기업 발굴 -->
+    <section id="tab-discovery" class="panel">
+      <article id="discoveryBody" class="md">불러오는 중…</article>
+      <h2 style="margin-top:28px">🔁 발굴기업 반복 등장 빈도</h2>
+      <p class="muted">여러 회차에 걸쳐 반복 발굴되는 종목일수록 신호가 강합니다. 증감율·누적 추적.</p>
+      <div class="chart-box"><canvas id="dcChart"></canvas></div>
+      <div class="table-scroll"><table id="dcTable" class="freq"></table></div>
+    </section>
+
+    <!-- 중간보스 검토 -->
+    <section id="tab-review" class="panel">
+      <article id="reviewBody" class="md">불러오는 중…</article>
+    </section>
+
+    <!-- 3일 종합 -->
+    <section id="tab-synth" class="panel">
+      <article id="synthBody" class="md">불러오는 중…</article>
+    </section>
+
+    <!-- 키워드 -->
+    <section id="tab-keywords" class="panel">
+      <h2>🔑 키워드 빈도 & 증감율</h2>
+      <p class="muted">전일 대비 증감율(▲/▼)과 7일·30일 누적 빈도. 헤더 클릭으로 정렬.</p>
+      <div class="chart-box"><canvas id="kwChart"></canvas></div>
+      <div class="table-scroll"><table id="kwTable" class="freq"></table></div>
+    </section>
+
+    <!-- 회사 -->
+    <section id="tab-companies" class="panel">
+      <h2>🏢 회사 언급 빈도 & 증감율</h2>
+      <p class="muted">언급 빈도 증감율과 누적. 발전 가능성/주목도 추세 파악용.</p>
+      <div class="chart-box"><canvas id="coChart"></canvas></div>
+      <div class="table-scroll"><table id="coTable" class="freq"></table></div>
+    </section>
+
+    <!-- 아카이브 -->
+    <section id="tab-archive" class="panel">
+      <h2>🗂️ 브리핑 아카이브</h2>
+      <div class="archive-layout">
+        <ul id="archiveList" class="archive-list"></ul>
+        <article id="archiveBody" class="md">왼쪽에서 브리핑을 선택하세요.</article>
+      </div>
+    </section>
+  </main>
+
+  <footer class="wrap muted">
+    <p>⚠️ 본 사이트는 공개 정보를 요약한 자료이며 투자 권유가 아닙니다. 모든 판단과 책임은 투자자 본인에게 있습니다.</p>
+  </footer>
+
+  <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/chart.js@4"></script>
+  <script src="./app.js"></script>
+</body>
+</html>

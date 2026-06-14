@@ -1,0 +1,65 @@
+name: 투자 브리핑 (클라우드 자동 실행)
+
+# 맥이 꺼져 있어도 GitHub 클라우드에서 매일 자동 실행됩니다.
+on:
+  schedule:
+    - cron: "5 22 * * *"   # 한국시간 07:05 (UTC 22:05)
+    - cron: "5 10 * * *"   # 한국시간 19:05 (UTC 10:05)
+  workflow_dispatch:        # 수동 실행 버튼 (Actions 탭에서)
+    inputs:
+      session:
+        description: "회차(AM/PM, 비우면 자동)"
+        required: false
+        default: ""
+
+concurrency:
+  group: briefing
+  cancel-in-progress: false
+
+permissions:
+  contents: write           # 데이터 커밋/푸시용
+
+jobs:
+  briefing:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    env:
+      VERCEL_TOKEN: ${{ secrets.VERCEL_TOKEN }}
+    steps:
+      - name: 저장소 체크아웃
+        uses: actions/checkout@v4
+
+      - name: Node 설치
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Claude Code 설치
+        run: npm install -g @anthropic-ai/claude-code
+
+      - name: 브리핑 생성 + 빌드 + 이메일
+        env:
+          CLAUDE_CODE_OAUTH_TOKEN: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
+          RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
+          TO_EMAIL: ${{ vars.TO_EMAIL || 'shinheegon@gmail.com' }}
+        run: |
+          chmod +x scripts/*.sh
+          bash scripts/ci-run.sh "${{ github.event.inputs.session }}"
+
+      - name: 데이터 커밋 & 푸시
+        run: |
+          git config user.name "invest-news-bot"
+          git config user.email "actions@github.com"
+          git add -A
+          if ! git diff --cached --quiet; then
+            git commit -m "briefing: $(TZ=Asia/Seoul date +%F\ %H:%M) [skip ci]"
+            git push
+          else
+            echo "변경 없음 — 커밋 생략"
+          fi
+
+      - name: Vercel 배포 (토큰 있으면)
+        if: ${{ env.VERCEL_TOKEN != '' }}
+        run: |
+          cd docs
+          npx --yes vercel deploy --prod --yes --token="$VERCEL_TOKEN"

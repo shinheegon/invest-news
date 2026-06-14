@@ -1,0 +1,9 @@
+logs/
+.DS_Store
+screenshots/
+*.log
+data/email-preview.html
+docs/deploy.out
+docs/deploy.err
+docs/.vercel/README.txt
+node_modules/
