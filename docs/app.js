@@ -56,6 +56,65 @@ function buildRows(map) {
   });
 }
 
+// ---------- 조기 신호: "뜨기 전 선점" 점수 ----------
+// 철학: 누적이 많이 쌓인 = 이미 떠버린 = 늦음. 누적은 적은데 막 출몰 시작한 종목을 우선.
+function daysBetween(a, b) {                  // b - a (일). ISO 'YYYY-MM-DD' 기준
+  const da = new Date(a.slice(0, 10)), db = new Date(b.slice(0, 10));
+  if (isNaN(da) || isNaN(db)) return 999;
+  return Math.round((db - da) / 86400000);
+}
+function globalLatestDate(map) {             // 데이터 전체의 가장 최신 날짜 = 기준 '오늘'
+  let latest = '';
+  for (const v of Object.values(map || {}))
+    for (const d of Object.keys(v.daily || {})) if (d > latest) latest = d;
+  return latest;
+}
+function earlyScore(v, latest) {
+  const daily = v.daily || {};
+  const dates = sortedDates(daily);
+  if (!dates.length || !latest) return null;
+  const total = v.count || 0;
+  const last3 = sumLast(daily, 3);                       // 최근 활동(아직 살아있는 신호)
+  const firstSeen = (v.firstSeen || dates[0]).slice(0, 10);
+  const ageDays = daysBetween(firstSeen, latest);        // 첫 등장 후 경과일(작을수록 새 종목)
+  // 조기 = 막 출몰(첫 등장 12일 이내) + 아직 활동 중 + 누적 적음(이미 떠버린 것 제외)
+  const isEarly = ageDays <= 12 && last3 > 0 && total <= 6;
+  if (!isEarly) return null;
+  // 점수: 신선할수록(ageDays 작을수록)↑ · 최근 모멘텀↑ · 누적 작을수록↑
+  const score = (13 - ageDays) * 2 + last3 * 3 + (7 - total);
+  return { score, total, last3, ageDays, firstSeen };
+}
+function buildEarlyRows(map) {
+  const latest = globalLatestDate(map);
+  return Object.entries(map || {}).map(([name, v]) => {
+    const e = earlyScore(v, latest);
+    if (!e) return null;
+    return { name, market: v.market || '', size: v.size || '', theme: v.theme || '',
+             total: e.total, last3: e.last3, ageDays: e.ageDays,
+             firstSeen: e.firstSeen, score: e.score };
+  }).filter(Boolean).sort((a, b) => b.score - a.score);
+}
+function renderEarlyTable(tableId, rows) {
+  const table = document.getElementById(tableId);
+  if (!table) return;
+  if (!rows.length) {
+    table.innerHTML = '<tbody><tr><td class="muted">아직 조기 신호 종목이 없습니다. 며칠 데이터가 쌓이면 막 출몰하는 소형주가 잡힙니다.</td></tr></tbody>';
+    return;
+  }
+  table.innerHTML =
+    '<thead><tr><th>🌱 종목</th><th>시장</th><th>연결 성장사업</th><th>첫 등장</th><th>최근활동</th><th>누적</th><th>선점점수</th></tr></thead>' +
+    '<tbody>' + rows.map(r =>
+      '<tr>' +
+      `<td>${r.name}${r.size ? ` <span class="tag">${r.size}</span>` : ''}</td>` +
+      `<td><span class="tag">${r.market}</span></td>` +
+      `<td class="muted">${r.theme || '—'}</td>` +
+      `<td class="muted">${(r.firstSeen || '').slice(5)} <span class="tag">D-${r.ageDays}</span></td>` +
+      `<td><span class="delta-up">↗ ${r.last3}</span></td>` +
+      `<td>${r.total}</td>` +
+      `<td><b>${r.score}</b></td>` +
+      '</tr>').join('') + '</tbody>';
+}
+
 let sortState = {};
 function renderFreqTable(tableId, rows, hasMarket) {
   const table = document.getElementById(tableId);
@@ -178,6 +237,7 @@ function setupTabs() {
   renderTopChart('dcChart', dcRows, '발굴기업');
   renderFreqTable('kwTable', kwRows, false);
   renderFreqTable('coTable', coRows, true);
+  renderEarlyTable('dcEarlyTable', buildEarlyRows(dc.companies));
   renderFreqTable('dcTable', dcRows, true);
 
   const updated = kw.updatedAt || co.updatedAt;
