@@ -201,6 +201,96 @@ async function loadArchive() {
   });
 }
 
+// ---------- 투자지표 (공포·탐욕 / 코인 / 증시) ----------
+function fgColor(v) {           // 0=공포(빨강) … 100=탐욕(초록)
+  if (v == null) return '#888';
+  if (v < 25) return '#e5484d';
+  if (v < 45) return '#f5a524';
+  if (v <= 55) return '#9aa0a6';
+  if (v <= 74) return '#86c34a';
+  return '#2faa54';
+}
+const FG_KO = { 'Extreme Fear': '극단적 공포', 'Fear': '공포', 'Neutral': '중립',
+                'Greed': '탐욕', 'Extreme Greed': '극단적 탐욕' };
+function paintGauge(prefix, value, label, timeText) {
+  const v = (value == null || isNaN(value)) ? null : Math.round(value);
+  const numEl = document.getElementById(prefix + 'Value');
+  const labEl = document.getElementById(prefix + 'Label');
+  const barEl = document.getElementById(prefix + 'Bar');
+  const timeEl = document.getElementById(prefix + 'Time');
+  const col = fgColor(v);
+  if (numEl) { numEl.textContent = v == null ? '—' : v; numEl.style.color = col; }
+  if (labEl) labEl.textContent = label || (v == null ? '데이터 없음' : '');
+  if (barEl) { barEl.style.width = (v == null ? 0 : v) + '%'; barEl.style.background = col; }
+  if (timeEl && timeText) timeEl.textContent = timeText;
+}
+async function loadCryptoFearGreed() {
+  try {
+    const r = await fetch('https://api.alternative.me/fng/?limit=1');
+    const j = await r.json();
+    const d = j.data && j.data[0];
+    if (!d) throw 0;
+    const v = parseInt(d.value, 10);
+    const ko = FG_KO[d.value_classification] || d.value_classification;
+    paintGauge('cgfg', v, `${ko} (${v})`, '');
+  } catch (e) { paintGauge('cgfg', null, '불러오기 실패'); }
+}
+const won = n => '₩' + Math.round(n).toLocaleString('ko-KR');
+const usd = n => '$' + n.toLocaleString('en-US', { maximumFractionDigits: 2 });
+function chg(p) {
+  if (p == null) return '<span class="delta-flat">—</span>';
+  const c = p >= 0 ? 'delta-up' : 'delta-down';
+  const a = p >= 0 ? '▲' : '▼';
+  return `<span class="${c}">${a} ${Math.abs(p).toFixed(2)}%</span>`;
+}
+async function loadCoinPrices() {
+  const table = document.getElementById('coinTable');
+  const coins = [['bitcoin', '비트코인(BTC)'], ['ethereum', '이더리움(ETH)'],
+                 ['solana', '솔라나(SOL)'], ['ripple', '리플(XRP)']];
+  try {
+    const ids = coins.map(c => c[0]).join(',');
+    const r = await fetch(`https://api.coingecko.com/api/v3/simple/price?ids=${ids}&vs_currencies=usd,krw&include_24hr_change=true`);
+    const j = await r.json();
+    table.innerHTML =
+      '<thead><tr><th>코인</th><th>달러</th><th>원화</th><th>24h</th></tr></thead><tbody>' +
+      coins.map(([id, name]) => {
+        const d = j[id]; if (!d) return '';
+        return `<tr><td>${name}</td><td>${usd(d.usd)}</td><td>${won(d.krw)}</td><td>${chg(d.usd_24h_change)}</td></tr>`;
+      }).join('') + '</tbody>';
+  } catch (e) {
+    table.innerHTML = '<tbody><tr><td class="muted">코인 시세를 불러오지 못했습니다(잠시 후 자동 재시도).</td></tr></tbody>';
+  }
+}
+async function loadMarketIndicators() {
+  const data = await getJSON(`${DATA}/market-indicators.json`);
+  const table = document.getElementById('indexTable');
+  if (!data) {
+    paintGauge('sfg', null, '다음 브리핑에서 갱신');
+    if (table) table.innerHTML = '<tbody><tr><td class="muted">증시 지표는 다음 브리핑(7시·19시)에 생성됩니다.</td></tr></tbody>';
+    return;
+  }
+  const when = data.updatedAt ? new Date(data.updatedAt).toLocaleString('ko-KR') : '';
+  // 주식 공포·탐욕
+  const sf = data.stock_fng || {};
+  paintGauge('sfg', sf.value, sf.value != null ? `${sf.label || ''} (${sf.value})` : '데이터 없음',
+             when ? `· ${when}` : '');
+  // 증시·매크로 지표 표
+  const rows = data.indices || [];
+  const idxTime = document.getElementById('idxTime');
+  if (idxTime && when) idxTime.textContent = `· 기준 ${when}`;
+  if (table) {
+    table.innerHTML = rows.length
+      ? '<thead><tr><th>지표</th><th>값</th><th>변동</th><th>출처</th></tr></thead><tbody>' +
+        rows.map(x => `<tr><td>${x.name || ''}</td><td>${x.value || '—'}</td>` +
+          `<td>${x.change ? `<span class="${(x.change+'').startsWith('-') ? 'delta-down' : 'delta-up'}">${x.change}</span>` : '—'}</td>` +
+          `<td>${x.source ? `<a href="${x.source}" target="_blank" rel="noopener">link</a>` : '—'}</td></tr>`).join('') + '</tbody>'
+      : '<tbody><tr><td class="muted">지표 데이터가 비어 있습니다.</td></tr></tbody>';
+  }
+}
+async function loadMarketTab() {
+  await Promise.all([loadCryptoFearGreed(), loadCoinPrices(), loadMarketIndicators()]);
+}
+
 // ---------- 탭 ----------
 function setupTabs() {
   document.querySelectorAll('.tab').forEach(t => t.onclick = () => {
@@ -245,4 +335,8 @@ function setupTabs() {
     updated ? `최종 갱신: ${new Date(updated).toLocaleString('ko-KR')}` : '아직 갱신 없음';
 
   await loadArchive();
+
+  // 투자지표: 최초 로드 + 코인 실시간 90초 자동 새로고침
+  await loadMarketTab();
+  setInterval(() => { loadCryptoFearGreed(); loadCoinPrices(); }, 90000);
 })();

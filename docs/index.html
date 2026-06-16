@@ -17,6 +17,7 @@
 
   <nav class="tabs wrap">
     <button class="tab active" data-tab="latest">🗞️ 최신 브리핑</button>
+    <button class="tab" data-tab="market">📉 투자지표</button>
     <button class="tab" data-tab="analysis">🧠 분석·전망</button>
     <button class="tab" data-tab="discovery">🌱 성장기업 발굴</button>
     <button class="tab" data-tab="review">🕵️ 중간보스 검토</button>
@@ -30,6 +31,35 @@
     <!-- 최신 브리핑 -->
     <section id="tab-latest" class="panel active">
       <article id="latestBody" class="md">불러오는 중…</article>
+    </section>
+
+    <!-- 투자지표 -->
+    <section id="tab-market" class="panel">
+      <h2>📉 투자지표 — 공포·탐욕 & 시장</h2>
+
+      <h3 style="margin-top:18px">😱 공포·탐욕 지수</h3>
+      <p class="muted">0=극단적 공포(저가 매수 심리권), 100=극단적 탐욕(과열). 코인은 실시간, 주식은 브리핑(7시·19시)마다 갱신.</p>
+      <div class="gauge-row">
+        <div class="gauge-card">
+          <div class="gauge-title">🪙 코인 공포·탐욕 <span class="muted" id="cgfgTime"></span></div>
+          <div class="gauge-num" id="cgfgValue">…</div>
+          <div class="gauge-label" id="cgfgLabel">불러오는 중…</div>
+          <div class="gauge-bar"><span id="cgfgBar"></span></div>
+        </div>
+        <div class="gauge-card">
+          <div class="gauge-title">📈 주식 공포·탐욕 (CNN) <span class="muted" id="sfgTime"></span></div>
+          <div class="gauge-num" id="sfgValue">…</div>
+          <div class="gauge-label" id="sfgLabel">브리핑에서 갱신</div>
+          <div class="gauge-bar"><span id="sfgBar"></span></div>
+        </div>
+      </div>
+
+      <h3 style="margin-top:24px">🪙 코인 시세 <span class="muted">(실시간)</span></h3>
+      <div class="table-scroll"><table id="coinTable" class="freq"></table></div>
+
+      <h3 style="margin-top:24px">📊 주요 증시·매크로 지표 <span class="muted" id="idxTime"></span></h3>
+      <p class="muted">브리핑마다 갱신되는 코스피·미국증시·금리·환율 등.</p>
+      <div class="table-scroll"><table id="indexTable" class="freq"></table></div>
     </section>
 
     <!-- 분석·전망 -->

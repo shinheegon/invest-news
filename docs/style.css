@@ -49,6 +49,16 @@ table.freq tbody tr:hover { background: #1c2330; }
 .delta-flat { color: var(--muted); }
 .tag { font-size: 0.72rem; padding: 1px 6px; border-radius: 6px; border: 1px solid var(--border); color: var(--muted); }
 
+/* 투자지표 게이지 */
+.gauge-row { display: grid; grid-template-columns: 1fr 1fr; gap: 14px; }
+.gauge-card { background: #0d1117; border: 1px solid var(--border); border-radius: 10px; padding: 16px; }
+.gauge-title { font-size: 0.9rem; color: var(--text); margin-bottom: 6px; }
+.gauge-num { font-size: 2.4rem; font-weight: 800; line-height: 1.1; }
+.gauge-label { font-size: 0.9rem; color: var(--muted); margin-bottom: 10px; }
+.gauge-bar { height: 10px; border-radius: 6px; background: #283041; overflow: hidden; }
+.gauge-bar > span { display: block; height: 100%; width: 0; transition: width .5s ease; }
+@media (max-width: 560px) { .gauge-row { grid-template-columns: 1fr; } }
+
 .archive-layout { display: grid; grid-template-columns: 220px 1fr; gap: 16px; }
 .archive-list { list-style: none; margin: 0; padding: 0; max-height: 70vh; overflow-y: auto; }
 .archive-list li { padding: 8px 10px; border: 1px solid var(--border); border-radius: 8px; margin-bottom: 6px; cursor: pointer; font-size: 0.86rem; }
