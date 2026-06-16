@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-06-16T16:50:00+09:00",
+  "updatedAt": "2026-06-16T19:58:00+09:00",
   "session": "PM",
   "stock_fng": { "value": 41, "label": "Fear", "source": "https://www.cnn.com/markets/fear-and-greed" },
   "indices": [
     { "name": "코스피", "value": "8,726.60", "change": "+2.11%", "source": "https://www.fnnews.com/news/202606161537472684" },
     { "name": "코스닥", "value": "1,018.68", "change": "-1.48%", "source": "https://www.asiae.co.kr/" },
-    { "name": "S&P 500", "value": "6,012.x", "change": "+1.65%", "source": "https://www.cnbc.com/markets/" },
-    { "name": "나스닥", "value": "—", "change": "+3.07%", "source": "https://www.cnbc.com/markets/" },
-    { "name": "다우", "value": "사상 최고", "change": "+0.92%", "source": "https://www.cnbc.com/markets/" },
+    { "name": "S&P 500", "value": "7,554.29", "change": "+1.65%", "source": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-june-15-2026" },
+    { "name": "나스닥", "value": "26,683.94", "change": "+3.07%", "source": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-june-15-2026" },
+    { "name": "다우", "value": "51,671.03", "change": "+0.92%", "source": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-june-15-2026" },
     { "name": "WTI 유가", "value": "$80선", "change": "3개월 최저", "source": "https://www.cnbc.com/2026/05/29/oil-prices-iran-ceasefire-us-trump-strait-hormuz-energy-costs.html" },
-    { "name": "美 10년물", "value": "약 4.5%", "change": "상승", "source": "https://www.financecalendar.com/event/fomc-rate-decision-june-2026/" },
+    { "name": "美 10년물", "value": "약 4.5%", "change": "FOMC 대기", "source": "https://www.financecalendar.com/event/fomc-rate-decision-june-2026/" },
     { "name": "국고채 3년", "value": "3.746%", "change": "상승", "source": "https://www.yna.co.kr/" },
     { "name": "원/달러", "value": "1,511.6", "change": "+0.5", "source": "https://www.fnnews.com/news/202606161537472684" }
   ]
