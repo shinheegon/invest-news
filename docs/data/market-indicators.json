@@ -1,0 +1,16 @@
+{
+  "updatedAt": "2026-06-16T19:00:00+09:00",
+  "session": "PM",
+  "stock_fng": { "value": 41, "label": "Fear", "source": "https://www.cnn.com/markets/fear-and-greed" },
+  "indices": [
+    { "name": "코스피", "value": "8,726.60", "change": "+2.11%", "source": "https://www.asiae.co.kr/" },
+    { "name": "코스닥", "value": "1,018.68", "change": "-1.48%", "source": "https://www.asiae.co.kr/" },
+    { "name": "S&P 500", "value": "51,671.03", "change": "+1.65%", "source": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-june-15-2026" },
+    { "name": "나스닥", "value": "7,554.29", "change": "+3.07%", "source": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-june-15-2026" },
+    { "name": "다우", "value": "26,683.94", "change": "+0.92%", "source": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-june-15-2026" },
+    { "name": "WTI 유가", "value": "$80.x", "change": "-4.5%", "source": "https://www.washingtontimes.com/news/2026/jun/15/even-deal-reopen-strait-hormuz-could-take-weeks-months-oil-fully-flow/" },
+    { "name": "美 10년물", "value": "약 4.5%", "change": "상승", "source": "https://news.bitcoin.com/warsh-faces-his-first-test-june-17-as-traders-hunt-for-hidden-signals-in-the-feds-dot-plot/" },
+    { "name": "국고채 3년", "value": "3.746%", "change": "상승", "source": "https://www.yna.co.kr/" },
+    { "name": "원/달러", "value": "1,511.6", "change": "+0.5", "source": "https://www.asiae.co.kr/" }
+  ]
+}

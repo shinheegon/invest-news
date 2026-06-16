@@ -1,85 +1,84 @@
-# 📰 투자 브리핑 — 2026-06-16 오전
-*생성: 2026-06-16 12:00 KST · 회차: AM*
+# 📰 투자 브리핑 — 2026-06-16 오후
+*생성: 2026-06-16 19:10 KST · 회차: PM*
 
 ## 🎯 한눈에 보기
-- **밤사이 미국증시 일제 급등**: 나스닥 +3.07%(7,554.29), S&P500 +1.65%(51,671.03), 다우 +0.92%(26,683.94). 미·이란 평화협정·호르무즈 재개방 기대가 위험선호를 끌어올림. [출처](https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-june-15-2026)
-- **국제유가 급락**: WTI -4.5% **$80**(3월초 이후 최저), 브렌트 ~$83. 유가 하락 → 인플레 압력 완화 기대. [출처](https://www.washingtontimes.com/news/2026/jun/15/even-deal-reopen-strait-hormuz-could-take-weeks-months-oil-fully-flow/)
-- **오늘~내일 최대 이벤트 = FOMC(6/16~17)**. 케빈 워시 신임 의장 첫 회의·점도표 발표. 동결(3.50~3.75%) 확률 97%+이나 시장은 **연내 인상 가능성 80%** 반영. '완화 편향' 문구 삭제 여부가 변수(결정·기자회견 6/17). [출처](https://www.fxstreet.com/analysis/kevin-warsh-opens-first-fed-meeting-june-16-with-rate-hold-expected-202606151326)
-- **韓 증시 강세 지속**: 6/15 코스피 **8,545.98(+5.2%, +422.36)** 8,500 탈환, 외국인 2거래일 연속 순매수. 단 코스닥은 1,034.03(+0.48%)로 상대 약세(외국인 -1.04조 순매도, 대형주로 자금 이동). [출처](https://en.bloomingbit.io/feed/news/114231)
+- **코스피 이틀 연속 급등, 8,700선 회복**: 6/16 코스피 **8,726.60(+2.11%, +180.62)**. 美·이란 종전 합의·유가 하락에 외국인 '나홀로 순매수'. 단 **코스닥은 1,018.68(-1.48%)** — 대형주 쏠림·코스닥 소외 심화. [출처](https://www.asiae.co.kr/)
+- **SK하이닉스 한때 240만원 터치·삼전 +1%대 → SK그룹 합산 시총 2,000조 돌파**. HBM 슈퍼사이클이 지수 엔진. [출처](https://www.asiae.co.kr/)
+- **밤사이 최대 이벤트 = FOMC(6/17 새벽 결정)**. 동결(3.50~3.75%) 확률 97%+이나, 워시 신임 의장의 **점도표 폐지·완화편향 삭제 가능성**이 변수. [출처](https://news.bitcoin.com/warsh-faces-his-first-test-june-17-as-traders-hunt-for-hidden-signals-in-the-feds-dot-plot/)
+- **국제유가 3개월 최저 $80선·다우 사상 최고**: 종전發 위험선호. 단 "원유 공급망 완전 정상화 최대 6개월"로 고물가 경계 잔존. [출처](https://www.washingtontimes.com/news/2026/jun/15/even-deal-reopen-strait-hormuz-could-take-weeks-months-oil-fully-flow/)
+- **신규 테마 확산**: AI DC 전력·광인프라(가온전선·대한광통신), 사이버보안주(KT·롯데카드 해킹發), 로봇주(현대차·현대오토에버)로 자금 확산.
 
 ## ⭐ 관심종목 동향
-- **SK하이닉스(000660)**: HBM 슈퍼사이클 주도, 2026년 HBM 물량 완판. 청주 13조 첨단패키징 투자 → 후공정 장비 추가 발주 사이클. [출처](https://news.skhynix.co.kr/2026-market-outlook/)
-- **삼성전자(005930)**: 2월 업계 최초 HBM4 양산 출하, 1Q HBM 점유율 ~30%. 평택 P4 증설로 HBM CAPA 2026년 50% 확대. [출처](https://www.epnc.co.kr/news/articleView.html?idxno=401451)
-- **한미반도체(042700)**: SK하이닉스가 한미반도체·한화세미텍에 HBM4용 TC본더 추가 발주(총 ~200억). 본딩 장비 경쟁 구도 형성. [출처](https://www.thelec.kr/news/articleView.html?idxno=50886)
-- 키워드 **HBM·AI데이터센터·금리인하**: HBM·AI DC 모멘텀 강세 지속. 금리인하 기대는 후퇴(FOMC 동결 유력+연내 인상론).
+- **SK하이닉스(000660)**: 6/16 장중 **240만원 터치**, SK 시총 2,000조 견인. HBM 완판·청주 13조 패키징 투자. [출처](https://www.asiae.co.kr/)
+- **삼성전자(005930)**: +1%대 상승, 외국인 매수. HBM4 양산·평택 P4 증설. [출처](https://www.asiae.co.kr/)
+- **한미반도체(042700)**: HBM TC본더 1위, SK하이닉스·한화세미텍 추가 발주 수혜 지속. [출처](https://www.thelec.kr/news/articleView.html?idxno=50886)
+- 키워드 **HBM·AI데이터센터**: 모멘텀 강세 / **금리인하**: FOMC 동결 유력+점도표 변수로 기대 후퇴.
 
 ## 📊 거시경제 지표·발표
 **미국**
-- 6/15 증시: 나스닥 +3.07% / S&P500 +1.65% / 다우 +0.92%. 보잉 +4.66%·엔비디아 +3.40%·아마존 +3.12% 견인. [출처](https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-june-15-2026)
-- FOMC(6/16~17): 기준금리 3.50~3.75% 동결 유력(CME 97.4%). 점도표·워시 기자회견 6/17. 강한 5월 고용+CPI 4.2%로 연내 인상 확률 80% 반영. [출처](https://www.indexbox.io/blog/fed-chair-warsh-faces-rate-decision-amid-bond-market-and-trump-pressure/)
-- 마이크론(MU) 분기 실적 발표 **6/24** 예정(HBM 가이던스 주목). [출처](https://www.fool.com/investing/2026/06/07/prediction-micron-technology-stock-could-go-parabo/)
+- FOMC 6/17 새벽(한국시간) 결정: 동결 유력(CME 97.4%). **워시 의장 점도표 폐지 여부**가 최대 관전. 5월 도매물가 +1.1%(예상 상회)·CPI 4.2%로 인플레 부담 잔존. [출처](https://news.bitcoin.com/warsh-faces-his-first-test-june-17-as-traders-hunt-for-hidden-signals-in-the-feds-dot-plot/)
+- 엔비디아 250억달러·오라클 200억달러 회사채 발행 → AI 인프라 자금조달 가속. [출처](https://www.hankyung.com/finance)
+- 마이크론(MU) 분기 실적 **6/24** 예정(HBM 가이던스 주목).
 
 **한국**
-- 6/15 코스피 **8,545.98(+5.2%)** / 코스닥 1,034.03(+0.48%). 외국인 코스피 2일 연속 순매수, 코스닥 -1.04조 순매도. [출처](https://en.bloomingbit.io/feed/news/114231)
-- 원/달러 ~1,513~1,518원대 고환율 지속. 기준금리 2.50%(8회 연속 동결). [출처](https://kr.investing.com/currencies/usd-krw)
+- 6/16 코스피 **8,726.60(+2.11%)** / 코스닥 **1,018.68(-1.48%)**. 외국인 코스피 나홀로 순매수. [출처](https://www.asiae.co.kr/)
+- 원/달러 1,511.6원 마감(+0.5). 국고채 3년물 장중 3.746%로 금리 상승. 기준금리 2.50%. [출처](https://www.yna.co.kr/)
 
 ## 🗣️ 주요 인물 발언 (팩트)
-- **트럼프(美 대통령)**: 호르무즈 해협 무료 재개방·美 해상봉쇄 즉시 해제 승인, "선박들이 해협을 통과하기 시작했다". 미·이란 평화협정 **6/19 스위스 서명** 예정(파키스탄 총리 확인). [출처](https://www.aljazeera.com/news/2026/6/15/trump-says-ships-starting-to-move-through-strait-of-hormuz)
-- **케빈 워시(Fed 의장)**: 6/17 첫 FOMC 기자회견 — '사전 신호(pre-signaling) 관행 축소' 의지가 '완화 편향' 문구 삭제로 이어질지 주목. [출처](https://www.indmoney.com/blog/us-stocks/fed-interest-rate-fomc-meet-market-impact-kevin-warsh)
-- **젠슨 황(엔비디아 CEO)**: 컴퓨텍스 2026(6/2)서 RTX 스파크 칩 공개 — 델·HP·MS·레노버 등 가을 신제품 탑재. AI PC 저변 확대. [출처](https://www.choicestock.co.kr/stock/news_view/136330?bu=)
+- **김민석 국무총리**: "중동전쟁 종전 후 국내 산업동향 정상화 대책을 미리 점검하라" 지시. [출처](https://www.edaily.co.kr/)
+- **케빈 워시(Fed 의장)**: 6/17 첫 FOMC — 점도표 폐지·'사전 신호' 축소 방침이 통화정책 커뮤니케이션 변화로 이어질지 주목. [출처](https://news.bitcoin.com/warsh-faces-his-first-test-june-17-as-traders-hunt-for-hidden-signals-in-the-feds-dot-plot/)
+- **구윤철(경제부총리)**: "민생물가 안정이 정부 1번 국정과제…모든 수단 총동원". [출처](https://www.fnnews.com/)
 
 ## 🏭 산업·사업 전망
-- **AI/반도체**: WSTS 2026 반도체 +25%(~9,750억달러), 메모리 +30%대. 마이크론 직전 분기 매출 +192%·HBM 완판. [출처](https://news.skhynix.co.kr/2026-market-outlook_yb/)
-- **HBM 후공정**: SK하이닉스 HBM4 양산 대비 TC본더(한미·한화세미텍)·테스트(테크윙 큐브프로버) 발주 모멘텀 지속. [출처](https://www.greened.kr/news/articleView.html?idxno=337622)
-- **AI데이터센터 전력**: '반도체 다음은 전력 슈퍼사이클'. 산일전기 美 블룸에너지 502억 변압기 계약 등 북미發 수주 훈풍이 중소형 소부장에 확산. [출처](https://biz.heraldcorp.com/article/10732525)
-- **방산/조선**: 한화 캐나다 잠수함(CPSP, 최대 60조·12척) **6월 중 사업자 선정 가능성** — 한화오션·HD현대중공업 vs 독일 TKMS. 증권사 한화오션 목표가 16만~18만원. [출처](https://www.e-science.co.kr/news/articleView.html?idxno=130545)
-- **휴머노이드**: 삼현이 글로벌 휴머노이드 기업에 관절 액추에이터 양산프로토 수주 — 국내 부품사 글로벌 공급망 진입 신호. [출처](https://www.etnews.com/20260615000317)
+- **반도체(HBM)**: SK하이닉스 240만원 터치·SK 시총 2,000조. 심텍 등 패키지기판이 엔비디아 베라루빈 수혜로 부각. [출처](https://www.hankyung.com/finance)
+- **AI데이터센터 전력·광인프라**: 가온전선 생산능력 2배 증설, 대한광통신 美 광케이블 355억, 일진파워 전력 EPC 수혜. [출처](https://www.asiae.co.kr/)
+- **전력/발전**: 두산에너빌리티 **오만 가스복합발전소 5,300억 수주**. [출처](https://www.edaily.co.kr/)
+- **방산/조선**: 종전에도 K-방산주 강세(유로사토리 출동), 한화오션 등 수주 모멘텀 지속. [출처](https://www.hankyung.com/finance)
+- **사이버보안**: KT·롯데카드 해킹 연쇄 → 보안주 급등(싸이버원 +27%·케이사인 +6.8%). [출처](https://www.sedaily.com/NewsView/2GXYOJAHYN)
 
 ## 📈 주목 상장사 & 발굴 후보
 | 회사(티커) | 시장 | 주목 이유 | 투자 고려 포인트(팩트) | 출처 |
 |---|---|---|---|---|
-| 엔비디아(NVDA) | 美 | 6/15 +3.40%, AI 자본지출 지속 | RTX 스파크로 AI PC 저변 확대 | [link](https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-june-15-2026) |
-| SK하이닉스(000660) | 韓 | HBM 완판·청주 13조 투자 | 후공정 발주 사이클 수혜 | [link](https://news.skhynix.co.kr/2026-market-outlook/) |
-| 한화오션(042660) | 韓 | 캐나다 잠수함 60조 선정 임박 | 이벤트 결과 변동성 큼 | [link](https://www.e-science.co.kr/news/articleView.html?idxno=130545) |
-| 테크윙(089030) | 韓 | 큐브프로버 SK하이닉스 퀄 통과 | HBM 테스트 발주 가시성 | [link](https://www.greened.kr/news/articleView.html?idxno=337622) |
-| 산일전기(062040) | 韓 | 블룸에너지 502억 변압기 계약 | 1Q 영익 +47.9%, 전력 슈퍼사이클 | [link](https://kr.investing.com/news/stock-market-news/article-1880389) |
+| SK하이닉스(000660) | 韓 | 240만원 터치·SK 시총 2,000조 | HBM 완판·후공정 발주 사이클 | [link](https://www.asiae.co.kr/) |
+| 두산에너빌리티(034020) | 韓 | 오만 5,300억 발전소 수주 | 전력 인프라 모멘텀 | [link](https://www.edaily.co.kr/) |
+| 제너셈(072950) | 韓 | SK하이닉스 장비 공급계약 급등 | HBM 후공정 자동화 소형주 | [link](https://www.mt.co.kr/) |
+| 대한광통신(010170) | 韓 | 美 AI DC 광케이블 355억 | ' 광 인프라' 신규 밸류체인 | [link](https://www.asiae.co.kr/) |
+| 심텍(222800) | 韓 | 엔비디아 베라루빈 기판 수혜 | 증권사 목표가 상향 | [link](https://www.hankyung.com/finance) |
 
-- 발굴 후보(소형 부품주): 삼현(437730)·테크윙(089030)·산일전기(062040)·디아이티(110990) — 상세는 발굴 탭.
+- 발굴 후보(소형 부품주): 제너셈·대한광통신·심텍·가온전선·일진파워 — 상세는 발굴 탭.
 
 ## 🧠 분석가 패널 (해석·예측 — 투자권유 아님)
-- 🟢 **낙관**: 중동 종전+유가 $80 → '인플레+유가' 이중악재 동시 해소, 외국인 순매수+수출 펀더멘털로 8천피 안착.
-- 🔴 **비관**: 호재는 6/15 +5.2% 폭등에 선반영(셀온뉴스). FOMC 완화편향 삭제·점도표 인상 시 금리·달러 동반 상승.
-- ⚪ **객관**: 동결은 97%+ 확정 → 변수는 점도표·기자회견 톤 둘뿐. +5.2% 후 단기 과열, FOMC 전 눌림은 자연스러움.
-- 🤝 **합의**: 오늘 한국장 방향성 **중립~강세(반도체 주도, FOMC 경계로 상단 제한)**. 핵심 조건 = 워시 톤·이란 6/19 서명.
-- **국내 종목 흐름**: SK하이닉스·삼성전자·한미반도체(반도체)·한화오션(방산조선)·두산에너빌리티(전력) 빈도 상승. 코스닥은 개별 수주株만 선별 상승.
-- **관전 포인트·리스크**: ①6/17 FOMC 점도표·기자회견 ②이란 6/19 서명 성사/연기(유가 되돌림) ③고환율·외국인 코스닥 순매도 지속.
+- 🟢 **낙관**: 외국인 코스피 순매수 지속+SK 시총 2,000조+AI 자본지출(엔비디아·오라클 회사채) 가속 → 9천피 경로 유효.
+- 🔴 **비관**: 이틀 +7% 급등에 호재 선반영. 워시가 점도표 폐지 시 '연준 좌표 상실'로 변동성↑, 코스닥 -1.48%는 좁은 장폭의 경고.
+- ⚪ **객관**: 6/17 동결은 97%+ 확정 → 변수는 점도표 존폐·기자회견 톤 둘뿐. 이틀 급등은 단기 과열, 종목 차별화가 핵심.
+- 🤝 **합의**: 내일(6/17) 한국장 **중립(반도체 견조 vs FOMC 결과 대기)**. 밤사이 FOMC가 방향 결정.
+- **국내 종목 흐름**: SK하이닉스·삼성전자·두산에너빌리티·현대차(로봇) 빈도 상승, 코스닥은 제너셈·심텍·보안주 등 개별 수주株만 선별 상승.
+- **관전 포인트·리스크**: ①6/17 FOMC 점도표 존폐·워시 기자회견 ②이란 6/19 서명 성사/연기 ③코스닥 외국인 이탈·고환율.
 
 ## 🌱 성장사업 핵심부품 소형주 발굴 (정보용)
 - 🌱 **조기 출몰(선점 후보 — 최우선)**:
-  - **삼현(437730)·중소형** [조기단계: 첫등장 D-1·누적 2회·신규↗] · [휴머노이드] 관절 액추에이터 · 6/15 글로벌 휴머노이드 기업 양산프로토 수주. [출처](https://www.etnews.com/20260615000317)
-  - **테크윙(089030)·중형** [조기단계: 첫등장 D-0·누적 1회·신규↗] · [HBM] 큐브프로버 테스트장비 · SK하이닉스 퀄 통과+삼성 확대. [출처](https://www.greened.kr/news/articleView.html?idxno=337622)
-  - **산일전기(062040)·중형** [조기단계: 첫등장 D-0·누적 1회·신규↗] · [AI데이터센터] 특수변압기 · 블룸에너지 502억 계약. [출처](https://kr.investing.com/news/stock-market-news/article-1880389)
-- 🔥 **누적 부상(이미 떠오름 — 참고)**: **한미반도체(042700·누적 20회)** TC본더 1위 — 빈도 최상위, 진입 늦을 수 있음.
+  - **제너셈(072950)·소형** [조기단계: 첫등장 D-0·누적 1회·신규↗] · [HBM] 후공정 자동화 장비 · 오늘 SK하이닉스 장비 공급계약에 급등. [출처](https://www.mt.co.kr/)
+  - **대한광통신(010170)·중형** [조기단계: 첫등장 D-0·누적 1회·신규↗] · [AI데이터센터] 광케이블 · 美 AI DC향 355억 2차 계약. [출처](https://www.asiae.co.kr/)
+  - **심텍(222800)·중형** [조기단계: 첫등장 D-0·누적 1회·신규↗] · [HBM/AI] 패키지기판 · 엔비디아 베라루빈 양산 수혜·목표가↑. [출처](https://www.hankyung.com/finance)
+- 🔥 **누적 부상(이미 떠오름 — 참고)**: **한미반도체(042700·누적 21회)** TC본더 1위 — 빈도 최상위, 진입 늦을 수 있음.
 
 ## 🕵️ 중간보스 최종 검토
-- ✅ **검토 결과**: 핵심 수치(美 지수·유가, 韓 코스피 8,545.98, FOMC 일정·확률) 1차 출처 교차확인 — 신뢰도 양호.
-- 🔍 **놓쳤다가 추가된 소형주**: 산일전기(062040, AI DC 변압기)·제룡전기(033100, 배전변압기)·한화세미텍(HBM TC본더, 상장 여부 미확인).
-- 🎯 **최종 의견**: 오늘 주목 소형 성장주 Top 3 — ①**테크윙**(HBM 테스트·발주 가시성) ②**산일전기**(전력 슈퍼사이클·실계약) ③**삼현**(휴머노이드 신규 모멘텀, 본계약 전환 확인 필요).
+- ✅ **검토 결과**: 한국장 확정 마감치 반영, '대형주 쏠림·코스닥 소외' 정확히 포착. 신규 소형주는 실계약/리포트 기반으로 팩트 견고.
+- 🔍 **놓쳤다가 추가된 소형주**: 싸이버원(356890)·케이사인(192250) — KT·롯데카드 해킹發 보안주 급등.
+- 🎯 **최종 의견**: 오늘 주목 소형 성장주 Top 3 — ①**제너셈**(SK하이닉스 장비 실계약) ②**대한광통신**(美 AI DC 광케이블) ③**심텍**(베라루빈 기판). *모두 D-0 신규 → 반복 출현 확인 권고.*
 
 ## 🔑 키워드 빈도·트렌드
-- **오늘 급부상**: 국제유가(재등장 ↑3)·FOMC(↑1)·HBM(↑1)·AI반도체(↑1)·호르무즈해협(↑1)
-- **최근 7일 상위**: AI반도체(17), 메모리슈퍼사이클(14), 호르무즈해협(13), FOMC(11), 금리동결(10)
-- **최근 30일 상위**: AI반도체(71), 메모리슈퍼사이클(42), 인플레이션(40), HBM(35), 코스피8000(26)
+- **오늘 급부상**: AI반도체(↑5)·코스피8000(↑4)·HBM(↑4)·국제유가(↑4·재점화)·FOMC(↑4)
+- **최근 7일 상위**: AI반도체(19), 메모리슈퍼사이클(15), 호르무즈해협(14), FOMC(12), 금리동결(11)
+- **최근 30일 상위**: AI반도체(53), 메모리슈퍼사이클(38), 인플레이션(29), 코스피8000(23), HBM(20)
 
 ## 🔗 출처 링크 모음
-- 美 증시 6/15: https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-june-15-2026
-- FOMC/워시: https://www.fxstreet.com/analysis/kevin-warsh-opens-first-fed-meeting-june-16-with-rate-hold-expected-202606151326
-- 코스피 6/15: https://en.bloomingbit.io/feed/news/114231
-- 이란 협정/호르무즈: https://www.aljazeera.com/news/2026/6/15/trump-says-ships-starting-to-move-through-strait-of-hormuz
-- 유가: https://www.washingtontimes.com/news/2026/jun/15/even-deal-reopen-strait-hormuz-could-take-weeks-months-oil-fully-flow/
-- HBM TC본더/테스트: https://www.thelec.kr/news/articleView.html?idxno=50886
-- 삼현 휴머노이드: https://www.etnews.com/20260615000317
-- 산일전기 변압기: https://kr.investing.com/news/stock-market-news/article-1880389
+- 코스피/코스닥 마감 6/16: https://www.asiae.co.kr/
+- FOMC/워시 점도표: https://news.bitcoin.com/warsh-faces-his-first-test-june-17-as-traders-hunt-for-hidden-signals-in-the-feds-dot-plot/
+- 유가/호르무즈: https://www.washingtontimes.com/news/2026/jun/15/even-deal-reopen-strait-hormuz-could-take-weeks-months-oil-fully-flow/
+- 보안주 급등: https://www.sedaily.com/NewsView/2GXYOJAHYN
+- 액침냉각 관련주: https://kr.investing.com/news/stock-market-news/article-93CH-1892912
+- HBM TC본더: https://www.thelec.kr/news/articleView.html?idxno=50886
 
 ---
 > ⚠️ **면책**: 본 브리핑은 공개 정보를 요약한 자료이며 투자 권유가 아닙니다.
