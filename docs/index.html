@@ -20,6 +20,7 @@
     <button class="tab" data-tab="market">📉 투자지표</button>
     <button class="tab" data-tab="analysis">🧠 분석·전망</button>
     <button class="tab" data-tab="discovery">🌱 성장기업 발굴</button>
+    <button class="tab" data-tab="leading">🔮 선행 신호</button>
     <button class="tab" data-tab="review">🕵️ 중간보스 검토</button>
     <button class="tab" data-tab="synth">🧭 3일 중간 종합</button>
     <button class="tab" data-tab="keywords">🔑 키워드 빈도·증감</button>
@@ -77,6 +78,12 @@
       <p class="muted">여러 회차에 걸쳐 반복 발굴되는 종목일수록 신호가 강합니다. 증감율·누적 추적.</p>
       <div class="chart-box"><canvas id="dcChart"></canvas></div>
       <div class="table-scroll"><table id="dcTable" class="freq"></table></div>
+    </section>
+
+    <!-- 선행 신호 -->
+    <section id="tab-leading" class="panel">
+      <p class="muted">시장이 알아채기 <b>전</b>에 감지하는 센서 — 과거에 소형주가 긍정 재평가받기 직전 나타난 선행신호를 학습해, 지금 막 신호가 켜졌지만 주가는 아직 조용한 종목(🟢)을 찾고, 이미 오른 종목(🔴) 추격은 경고합니다.</p>
+      <article id="leadingBody" class="md">불러오는 중…</article>
     </section>
 
     <!-- 중간보스 검토 -->

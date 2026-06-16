@@ -311,6 +311,8 @@ function setupTabs() {
     await getText(`${DATA}/analysis.md`), '분석·전망(3인 패널)은 다음 브리핑부터 생성됩니다.');
   renderMD(document.getElementById('discoveryBody'),
     await getText(`${DATA}/discovery.md`), '성장기업 발굴은 다음 브리핑부터 생성됩니다.');
+  renderMD(document.getElementById('leadingBody'),
+    await getText(`${DATA}/leading-signals.md`), '선행 신호 분석은 다음 브리핑부터 생성됩니다.');
   renderMD(document.getElementById('reviewBody'),
     await getText(`${DATA}/review.md`), '중간보스 최종 검토는 다음 브리핑부터 생성됩니다.');
   renderMD(document.getElementById('synthBody'),
