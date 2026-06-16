@@ -54,13 +54,17 @@
           <div class="gauge-bar"><span id="sfgBar"></span></div>
         </div>
       </div>
+      <h4 style="margin-top:16px">📉 공포·탐욕 추세 <span class="muted">(코인 30일 / 주식 누적)</span></h4>
+      <div class="chart-box"><canvas id="fgChart"></canvas></div>
 
       <h3 style="margin-top:24px">🪙 코인 시세 <span class="muted">(실시간)</span></h3>
       <div class="table-scroll"><table id="coinTable" class="freq"></table></div>
 
       <h3 style="margin-top:24px">📊 주요 증시·매크로 지표 <span class="muted" id="idxTime"></span></h3>
-      <p class="muted">브리핑마다 갱신되는 코스피·미국증시·금리·환율 등.</p>
+      <p class="muted">브리핑마다 갱신. <b>전회 대비 변동</b>과 추세를 함께 봅니다. (추세선은 며칠 쌓이면 길어집니다.)</p>
       <div class="table-scroll"><table id="indexTable" class="freq"></table></div>
+      <h4 style="margin-top:16px">📈 증시 지표 추세 <span class="muted">(시작=100 정규화 비교)</span></h4>
+      <div class="chart-box"><canvas id="idxChart"></canvas></div>
     </section>
 
     <!-- 분석·전망 -->

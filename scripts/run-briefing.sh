@@ -110,6 +110,10 @@ else
   echo "[$(ts)] ERROR session=$SESSION rc=$RC ($MAX_ATTEMPTS회 모두 실패)" >> "$LOG"
 fi
 
+# --- 투자지표 히스토리 누적(추세 그래프 원천) ---
+BRIEFING_DATE="$DATE" python3 "$PROJECT_DIR/scripts/track-indicators.py" >> "$LOG" 2>&1 || \
+  echo "[$(ts)] WARN track-indicators failed" >> "$LOG"
+
 # --- 사이트 빌드 + GitHub 배포 (git 원격이 설정된 경우에만 push) ---
 bash "$PROJECT_DIR/scripts/build-site.sh" >> "$LOG" 2>&1 || \
   echo "[$(ts)] WARN build-site failed" >> "$LOG"

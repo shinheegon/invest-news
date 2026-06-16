@@ -224,16 +224,69 @@ function paintGauge(prefix, value, label, timeText) {
   if (barEl) { barEl.style.width = (v == null ? 0 : v) + '%'; barEl.style.background = col; }
   if (timeEl && timeText) timeEl.textContent = timeText;
 }
+// 시계열 헬퍼 + 라인차트
+function seriesXY(map) { const d = Object.keys(map || {}).sort(); return { dates: d, vals: d.map(k => map[k]) }; }
+function lastDelta(map) { const { vals } = seriesXY(map); return vals.length < 2 ? null : Math.round((vals[vals.length-1] - vals[vals.length-2]) * 100) / 100; }
+function deltaTxt(d, unit) {
+  if (d == null) return '';
+  if (d === 0) return ' · 전회 —';
+  return ` · 전회 ${d > 0 ? '▲' : '▼'}${Math.abs(d)}${unit || ''}`;
+}
+function makeLineChart(canvasId, labels, datasets, yOpts) {
+  const ctx = document.getElementById(canvasId); if (!ctx) return;
+  if (charts[canvasId]) charts[canvasId].destroy();
+  charts[canvasId] = new Chart(ctx, {
+    type: 'line', data: { labels, datasets },
+    options: {
+      responsive: true, maintainAspectRatio: false,
+      interaction: { intersect: false, mode: 'index' },
+      plugins: { legend: { labels: { color: '#8b949e' } } },
+      scales: {
+        x: { ticks: { color: '#8b949e' }, grid: { color: '#283041' } },
+        y: Object.assign({ ticks: { color: '#8b949e' }, grid: { color: '#283041' } }, yOpts || {}),
+      },
+    },
+  });
+}
+
+let coinFGSeries = {}, stockFGSeries = {};
 async function loadCryptoFearGreed() {
   try {
-    const r = await fetch('https://api.alternative.me/fng/?limit=1');
+    const r = await fetch('https://api.alternative.me/fng/?limit=31');
     const j = await r.json();
-    const d = j.data && j.data[0];
-    if (!d) throw 0;
-    const v = parseInt(d.value, 10);
-    const ko = FG_KO[d.value_classification] || d.value_classification;
-    paintGauge('cgfg', v, `${ko} (${v})`, '');
-  } catch (e) { paintGauge('cgfg', null, '불러오기 실패'); }
+    const arr = (j.data || []).slice().reverse();   // 오래된→최신
+    coinFGSeries = {};
+    arr.forEach(d => {
+      const dt = new Date(parseInt(d.timestamp, 10) * 1000).toISOString().slice(0, 10);
+      coinFGSeries[dt] = parseInt(d.value, 10);
+    });
+    const last = arr[arr.length - 1];
+    const v = parseInt(last.value, 10);
+    const ko = FG_KO[last.value_classification] || last.value_classification;
+    paintGauge('cgfg', v, `${ko} (${v})${deltaTxt(lastDelta(coinFGSeries))}`, '');
+  } catch (e) { coinFGSeries = {}; paintGauge('cgfg', null, '불러오기 실패'); }
+}
+function renderFGChart() {
+  const dates = Array.from(new Set([...Object.keys(coinFGSeries), ...Object.keys(stockFGSeries)])).sort();
+  if (!dates.length) return;
+  makeLineChart('fgChart', dates.map(d => d.slice(5)), [
+    { label: '코인 공포·탐욕', data: dates.map(d => coinFGSeries[d] ?? null), borderColor: '#f5a524', backgroundColor: 'transparent', spanGaps: true, tension: .3, pointRadius: 0 },
+    { label: '주식 공포·탐욕', data: dates.map(d => stockFGSeries[d] ?? null), borderColor: '#2f81f7', backgroundColor: 'transparent', spanGaps: true, tension: .3, pointRadius: 3 },
+  ], { min: 0, max: 100 });
+}
+function renderIndexChart(series) {
+  const want = ['코스피', '코스닥', '나스닥', 'S&P 500', '원/달러'];
+  const keys = want.filter(k => series[k] && Object.keys(series[k]).length);
+  const dates = Array.from(new Set(keys.flatMap(k => Object.keys(series[k])))).sort();
+  if (!keys.length || !dates.length) { if (charts['idxChart']) charts['idxChart'].destroy(); return; }
+  const colors = ['#f85149', '#3fb950', '#2f81f7', '#f5a524', '#a371f7'];
+  const ds = keys.map((k, i) => {
+    const m = series[k]; const base = m[Object.keys(m).sort()[0]] || 1;
+    return { label: k, borderColor: colors[i % colors.length], backgroundColor: 'transparent', spanGaps: true, tension: .3,
+             pointRadius: dates.length < 3 ? 4 : 0,
+             data: dates.map(d => m[d] != null ? Math.round(m[d] / base * 1000) / 10 : null) };
+  });
+  makeLineChart('idxChart', dates.map(d => d.slice(5)), ds);
 }
 const won = n => '₩' + Math.round(n).toLocaleString('ko-KR');
 const usd = n => '$' + n.toLocaleString('en-US', { maximumFractionDigits: 2 });
@@ -263,6 +316,9 @@ async function loadCoinPrices() {
 }
 async function loadMarketIndicators() {
   const data = await getJSON(`${DATA}/market-indicators.json`);
+  const hist = await getJSON(`${DATA}/market-history.json`) || { series: {} };
+  stockFGSeries = (hist.series && hist.series['주식 공포·탐욕']) || {};
+  renderIndexChart(hist.series || {});
   const table = document.getElementById('indexTable');
   if (!data) {
     paintGauge('sfg', null, '다음 브리핑에서 갱신');
@@ -270,9 +326,9 @@ async function loadMarketIndicators() {
     return;
   }
   const when = data.updatedAt ? new Date(data.updatedAt).toLocaleString('ko-KR') : '';
-  // 주식 공포·탐욕
+  // 주식 공포·탐욕 (전회 대비 포함)
   const sf = data.stock_fng || {};
-  paintGauge('sfg', sf.value, sf.value != null ? `${sf.label || ''} (${sf.value})` : '데이터 없음',
+  paintGauge('sfg', sf.value, sf.value != null ? `${sf.label || ''} (${sf.value})${deltaTxt(lastDelta(stockFGSeries))}` : '데이터 없음',
              when ? `· ${when}` : '');
   // 증시·매크로 지표 표
   const rows = data.indices || [];
@@ -289,6 +345,7 @@ async function loadMarketIndicators() {
 }
 async function loadMarketTab() {
   await Promise.all([loadCryptoFearGreed(), loadCoinPrices(), loadMarketIndicators()]);
+  renderFGChart();
 }
 
 // ---------- 탭 ----------
