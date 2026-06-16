@@ -77,6 +77,11 @@ fi
 PROMPT="$(cat "$PROJECT_DIR/prompt/briefing-prompt.md")"
 echo "[$(ts)] START session=$SESSION date=$DATE count_mode=$COUNT_MODE" >> "$LOG"
 
+# --- 뉴스 RSS 전수 수집(브리핑 입력 코퍼스) — 누락 최소화 ---
+python3 "$PROJECT_DIR/scripts/collect-news.py" >> "$LOG" 2>&1 \
+  && echo "[$(ts)] NEWS collected" >> "$LOG" \
+  || echo "[$(ts)] WARN news collect failed (브리핑은 계속)" >> "$LOG"
+
 # --- ③ 타임아웃+재시도 루프로 헤드리스 Claude 실행 ---
 RC=1
 for attempt in $(seq 1 "$MAX_ATTEMPTS"); do

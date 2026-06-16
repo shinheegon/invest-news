@@ -3,6 +3,9 @@ logs/
 screenshots/
 *.log
 data/email-preview.html
+data/news-feed.txt
+data/news-feed.json
+data/.run-lock
 docs/deploy.out
 docs/deploy.err
 docs/.vercel/README.txt
