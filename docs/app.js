@@ -332,6 +332,10 @@ function setupTabs() {
   renderEarlyTable('dcEarlyTable', buildEarlyRows(dc.companies));
   renderFreqTable('dcTable', dcRows, true);
 
+  const ld = await getJSON(`${DATA}/leading-index.json`) || { companies: {} };
+  const ldRows = buildRows(ld.companies).sort((a, b) => b.total - a.total);
+  renderFreqTable('ldTable', ldRows, true);
+
   const updated = kw.updatedAt || co.updatedAt;
   document.getElementById('updatedAt').textContent =
     updated ? `최종 갱신: ${new Date(updated).toLocaleString('ko-KR')}` : '아직 갱신 없음';
