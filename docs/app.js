@@ -348,6 +348,48 @@ async function loadMarketTab() {
   renderFGChart();
 }
 
+// ---------- 매매일지 ----------
+const fmtNum = n => (n == null ? '—' : Number(n).toLocaleString('ko-KR'));
+function retCell(r) {
+  if (r == null) return '—';
+  const c = r >= 0 ? 'delta-up' : 'delta-down';
+  return `<span class="${c}">${r >= 0 ? '+' : ''}${r}%</span>`;
+}
+async function loadPortfolio() {
+  const pf = await getJSON(`${DATA}/portfolio.json`) || { positions: [], stats: {} };
+  const st = pf.stats || {};
+  const open = pf.positions.filter(p => p.status === 'open');
+  const closed = pf.positions.filter(p => p.status === 'closed');
+
+  const cards = [
+    ['보유 중', st.openCount ?? open.length, '#2f81f7'],
+    ['청산', st.closedCount ?? closed.length, '#8b949e'],
+    ['승률', st.winRate == null ? '—' : st.winRate + '%', (st.winRate ?? 0) >= 50 ? '#2faa54' : '#e5484d'],
+    ['평균 수익률', st.avgReturnPct == null ? '—' : (st.avgReturnPct >= 0 ? '+' : '') + st.avgReturnPct + '%', (st.avgReturnPct ?? 0) >= 0 ? '#f85149' : '#3fb950'],
+  ];
+  const statsEl = document.getElementById('pfStats');
+  if (statsEl) statsEl.innerHTML = cards.map(([t, v, c]) =>
+    `<div class="gauge-card"><div class="gauge-title">${t}</div><div class="gauge-num" style="color:${c}">${v}</div></div>`).join('');
+
+  const openT = document.getElementById('pfOpenTable');
+  if (openT) openT.innerHTML = open.length
+    ? '<thead><tr><th>종목</th><th>매수일</th><th>매수가</th><th>수량</th><th>테마</th><th>매수 사유</th></tr></thead><tbody>' +
+      open.map(p => `<tr><td>${p.name}</td><td class="muted">${p.buy.date}</td><td>${fmtNum(p.buy.price)}</td><td>${fmtNum(p.buy.qty)}</td><td class="muted">${p.theme || '—'}</td><td>${p.buy.reason || '—'}${p.buy.source ? ` <a href="${p.buy.source}" target="_blank" rel="noopener">link</a>` : ''}</td></tr>`).join('') + '</tbody>'
+    : '<tbody><tr><td class="muted">보유 중인 종목이 없습니다. 채팅으로 "OO 매수"라고 하면 기록됩니다.</td></tr></tbody>';
+
+  const closedT = document.getElementById('pfClosedTable');
+  if (closedT) closedT.innerHTML = closed.length
+    ? '<thead><tr><th>종목</th><th>매수가→매도가</th><th>수익률</th><th>손익</th><th>보유일</th><th>매도 사유</th></tr></thead><tbody>' +
+      closed.map(p => {
+        const pnl = p.pnl != null ? `<span class="${p.pnl >= 0 ? 'delta-up' : 'delta-down'}">${p.pnl >= 0 ? '+' : ''}${fmtNum(p.pnl)}</span>` : '—';
+        return `<tr><td>${p.name}</td><td>${fmtNum(p.buy.price)} → ${fmtNum(p.sell.price)}</td><td>${retCell(p.returnPct)}</td><td>${pnl}</td><td class="muted">${p.heldDays ?? '—'}일</td><td class="muted">${p.sell.reason || '—'}</td></tr>`;
+      }).join('') + '</tbody>'
+    : '<tbody><tr><td class="muted">청산 완료된 거래가 아직 없습니다.</td></tr></tbody>';
+
+  renderMD(document.getElementById('holdingsBody'),
+    await getText(`${DATA}/holdings-analysis.md`), '보유 종목이 없거나 아직 분석 전입니다. 매수 기록 후 다음 브리핑부터 추적 분석이 생성됩니다.');
+}
+
 // ---------- 탭 ----------
 function setupTabs() {
   document.querySelectorAll('.tab').forEach(t => t.onclick = () => {
@@ -398,6 +440,7 @@ function setupTabs() {
     updated ? `최종 갱신: ${new Date(updated).toLocaleString('ko-KR')}` : '아직 갱신 없음';
 
   await loadArchive();
+  await loadPortfolio();
 
   // 투자지표: 최초 로드 + 코인 실시간 90초 자동 새로고침
   await loadMarketTab();

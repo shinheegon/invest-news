@@ -8,7 +8,7 @@ cd "$PROJECT_DIR"
 mkdir -p docs/data/briefings
 
 # 1) 데이터 파일 복사 (없으면 건너뜀)
-for f in keyword-index.json company-index.json discovery-index.json leading-index.json market-indicators.json market-history.json latest.md synthesis-3day.md analysis.md discovery.md leading-signals.md review.md; do
+for f in keyword-index.json company-index.json discovery-index.json leading-index.json market-indicators.json market-history.json portfolio.json latest.md synthesis-3day.md analysis.md discovery.md leading-signals.md review.md holdings-analysis.md; do
   [ -f "data/$f" ] && cp "data/$f" "docs/data/$f"
 done
 

@@ -1,0 +1,15 @@
+{
+ "updatedAt": "2026-06-16T20:59:16+09:00",
+ "positions": [],
+ "stats": {
+  "openCount": 0,
+  "closedCount": 0,
+  "wins": 0,
+  "losses": 0,
+  "winRate": null,
+  "avgReturnPct": null,
+  "realizedPnl": 0.0,
+  "best": null,
+  "worst": null
+ }
+}
