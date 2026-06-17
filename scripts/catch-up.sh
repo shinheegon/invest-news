@@ -13,12 +13,20 @@ ts() { date '+%Y-%m-%d %H:%M:%S'; }
 DATE=$(date +%Y-%m-%d)
 H=$(date +%H); H=$((10#$H))   # 8진수 오해 방지
 
-# 이미 run-briefing이 돌고 있으면(잠금 존재·생존) 손대지 않는다
+# run-briefing이 돌고 있으면 보통 손대지 않는다. 단 **40분 넘게 잠금이 유지되면
+# hang(절전 중 멈춤 등)으로 보고 강제 정리** 후 보충 실행한다(좀비가 다음 회차를 막는 것 방지).
 LOCK="$PROJECT_DIR/data/.run-lock"
 if [ -f "$LOCK" ]; then
   PID="$(cat "$LOCK" 2>/dev/null)"
   if [ -n "${PID:-}" ] && kill -0 "$PID" 2>/dev/null; then
-    exit 0   # 실행 중 — 조용히 종료
+    AGE=$(( $(date +%s) - $(stat -f %m "$LOCK" 2>/dev/null || echo 0) ))
+    if [ "$AGE" -lt 2400 ]; then
+      exit 0   # 정상 실행 중(40분 이내) — 조용히 종료
+    fi
+    echo "[$(ts)] HUNG 감지 — 잠금 ${AGE}s 경과, 좀비 정리" >> "$LOG"
+    pkill -f "claude -p # 투자용 경제뉴스 브리핑 생성 지시문" 2>/dev/null
+    kill "$PID" 2>/dev/null
+    rm -f "$LOCK"
   fi
 fi
 

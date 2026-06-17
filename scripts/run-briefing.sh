@@ -37,6 +37,14 @@ fi
 echo $$ > "$LOCK"
 trap 'rm -f "$LOCK"' EXIT
 
+# --- ⭐ 잠들기 방지: 브리핑이 도는 내내 맥을 깨어있게 잡아둔다 ---
+# (실행 중 맥이 자면 claude도 타임아웃 타이머도 같이 얼어 무한 hang → 이게 핵심 원인이었음)
+# caffeinate -w $$ : 이 스크립트(pid $$)가 끝날 때까지만 유지하고 자동 종료.
+if command -v caffeinate >/dev/null 2>&1; then
+  caffeinate -i -m -s -w $$ &
+  echo "[$(ts)] CAFFEINATE on (실행 중 절전 방지)" >> "$LOG"
+fi
+
 # --- ② 타임아웃 실행 헬퍼(맥 기본 환경엔 timeout 명령이 없어 직접 구현) ---
 run_with_timeout() {
   local secs="$1"; shift
