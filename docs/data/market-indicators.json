@@ -1,16 +1,15 @@
 {
-  "updatedAt": "2026-06-16T20:36:00+09:00",
-  "session": "PM",
+  "updatedAt": "2026-06-17T11:50:00+09:00",
+  "session": "AM",
   "stock_fng": { "value": 41, "label": "Fear", "source": "https://www.cnn.com/markets/fear-and-greed" },
   "indices": [
-    { "name": "코스피", "value": "8,726.60", "change": "+2.11%", "source": "https://www.yna.co.kr/view/AKR20260616123300008" },
-    { "name": "코스닥", "value": "1,018.68", "change": "-1.48%", "source": "https://www.yna.co.kr/view/AKR20260616123300008" },
-    { "name": "S&P 500", "value": "7,554.29", "change": "+1.65%", "source": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-june-15-2026" },
-    { "name": "나스닥", "value": "26,683.94", "change": "+3.07%", "source": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-june-15-2026" },
-    { "name": "다우", "value": "51,671.03", "change": "+0.92%", "source": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-june-15-2026" },
-    { "name": "WTI 유가", "value": "$80선", "change": "3개월 최저", "source": "https://www.cnbc.com/2026/05/29/oil-prices-iran-ceasefire-us-trump-strait-hormuz-energy-costs.html" },
-    { "name": "美 10년물", "value": "약 4.5%", "change": "FOMC 대기", "source": "https://www.financecalendar.com/event/fomc-rate-decision-june-2026/" },
-    { "name": "국고채 3년", "value": "3.746%", "change": "상승", "source": "https://www.yna.co.kr/view/AKR20260616081500008" },
-    { "name": "원/달러", "value": "1,511.6", "change": "+0.5", "source": "https://www.yna.co.kr/view/AKR20260616131800002" }
+    { "name": "코스피", "value": "8,622.13", "change": "-1.20%(개장)", "source": "https://www.newspim.com/news/view/20260617000204" },
+    { "name": "코스닥", "value": "1,018.51", "change": "-0.02%(개장)", "source": "https://www.newspim.com/news/view/20260617000204" },
+    { "name": "S&P 500", "value": "7,548.60", "change": "-0.08%", "source": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-june-16-2026" },
+    { "name": "나스닥", "value": "26,376.34", "change": "-1.15%", "source": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-june-16-2026" },
+    { "name": "다우", "value": "52,000 근접", "change": "+0.64%(최고)", "source": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-june-16-2026" },
+    { "name": "美 10년물", "value": "4.46%", "change": "보합", "source": "https://tradingeconomics.com/united-states/government-bond-yield" },
+    { "name": "원/달러", "value": "1,512.4", "change": "+0.8(개장)", "source": "https://www.yna.co.kr/view/AKR20260617003900002" },
+    { "name": "브렌트유", "value": "70달러대", "change": "-5%대", "source": "https://www.yna.co.kr/view/AKR20260617004500072" }
   ]
 }
