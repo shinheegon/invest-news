@@ -1,17 +1,19 @@
 {
-  "updatedAt": "2026-06-17T19:02:00+09:00",
-  "session": "PM",
-  "stock_fng": { "value": 41, "label": "Fear", "source": "https://www.cnn.com/markets/fear-and-greed" },
+  "updatedAt": "2026-06-18T07:00:00+09:00",
+  "session": "AM",
+  "stock_fng": { "value": 38, "label": "Fear", "source": "https://www.cnn.com/markets/fear-and-greed" },
   "indices": [
-    { "name": "코스피", "value": "8,864.24", "change": "+1.58%", "source": "https://www.yna.co.kr/view/AKR20260617125000008" },
-    { "name": "코스닥", "value": "1,031.96", "change": "+1.30%", "source": "https://view.asiae.co.kr/article/2026061715374834945" },
-    { "name": "S&P 500", "value": "7,548.60", "change": "-0.6%", "source": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-june-16-2026" },
-    { "name": "나스닥", "value": "26,376.34", "change": "-1.2%", "source": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-june-16-2026" },
-    { "name": "다우", "value": "52,003", "change": "+0.64%(사상최고)", "source": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-june-16-2026" },
-    { "name": "VIX", "value": "16.41", "change": "+1.3%", "source": "https://fred.stlouisfed.org/series/VIXCLS" },
-    { "name": "美 10년물", "value": "4.46%", "change": "보합", "source": "https://tradingeconomics.com/united-states/government-bond-yield" },
-    { "name": "달러인덱스(DXY)", "value": "99.57", "change": "-0.06%", "source": "https://tradingeconomics.com/united-states/currency" },
-    { "name": "원/달러", "value": "1,513.4", "change": "+1.8", "source": "https://view.asiae.co.kr/article/2026061715333199175" },
-    { "name": "국고채 3년", "value": "3.710%", "change": "하락", "source": "https://www.yna.co.kr/view/AKR20260617142251008" }
+    { "name": "코스피", "value": "8,864.24", "change": "+1.58%(6/17 종가)", "source": "https://www.hankyung.com/article/202606171976i" },
+    { "name": "코스닥", "value": "1,031.96", "change": "+1.30%(6/17 종가)", "source": "https://view.asiae.co.kr/article/2026061715374834945" },
+    { "name": "S&P 500", "value": "7,481", "change": "-0.9%", "source": "https://www.yna.co.kr/view/AKR20260618010351072" },
+    { "name": "나스닥", "value": "26,007", "change": "-1.4%", "source": "https://www.yna.co.kr/view/AKR20260618010300072" },
+    { "name": "다우", "value": "51,483", "change": "-1.0%", "source": "https://www.yna.co.kr/view/AKR20260618010300072" },
+    { "name": "VIX", "value": "18.4", "change": "+12%", "source": "https://fred.stlouisfed.org/series/VIXCLS" },
+    { "name": "美 10년물", "value": "4.56%", "change": "+0.10", "source": "https://www.yna.co.kr/view/AKR20260618008700072" },
+    { "name": "美 2년물", "value": "4.20%", "change": "급등", "source": "https://www.yna.co.kr/view/AKR20260618008700072" },
+    { "name": "달러인덱스(DXY)", "value": "100.3", "change": "+0.7%", "source": "https://www.yna.co.kr/view/AKR20260618010351072" },
+    { "name": "원/달러", "value": "1,515.5", "change": "+2.1(역외)", "source": "https://www.yna.co.kr/view/AKR20260618002700002" },
+    { "name": "브렌트유", "value": "70.5", "change": "+0.7%", "source": "https://www.yna.co.kr/view/AKR20260618009100072" },
+    { "name": "국고채 3년", "value": "3.710%", "change": "보합(6/17)", "source": "https://www.yna.co.kr/view/AKR20260617142251008" }
   ]
 }
