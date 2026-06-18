@@ -39,6 +39,90 @@ function deltaCell(d) {
   return `<span class="delta-flat">—</span>`;
 }
 
+// ---------- 관심 종목 + 기사 아카이브 ----------
+const FAV_KEY = 'myFavCompanies';
+function loadFavs() { try { return new Set(JSON.parse(localStorage.getItem(FAV_KEY) || '[]')); } catch { return new Set(); } }
+function saveFavs() { try { localStorage.setItem(FAV_KEY, JSON.stringify([...FAVS])); } catch {} }
+let FAVS = loadFavs();
+let ARCHIVE = { companies: {} };
+let DCIDX = { companies: {} }, COIDX = { companies: {} }, LDIDX = { companies: {} };
+function isFav(name) { return FAVS.has(name); }
+function toggleFav(name) { if (FAVS.has(name)) FAVS.delete(name); else FAVS.add(name); saveFavs(); }
+
+function articlesFor(name) {
+  const c = ARCHIVE.companies[name];
+  return (c && c.articles) ? c.articles.slice() : [];
+}
+// 한 종목의 관련 기사 → 언론사별 그룹 HTML
+function articlesBySourceHTML(name) {
+  const arts = articlesFor(name).sort((a, b) => (b.date || '').localeCompare(a.date || ''));
+  if (!arts.length)
+    return '<div class="art-empty muted">아직 누적된 관련 기사가 없습니다. 다음 수집(7시·19시)부터 언론사별로 쌓입니다.</div>';
+  // 언론사 본사명 기준 그룹("한국경제·증권"·"한국경제·경제" → "한국경제")
+  const outlet = s => (s || '기타').split('·')[0].trim();
+  const bySrc = {};
+  arts.forEach(a => { const o = outlet(a.source); (bySrc[o] = bySrc[o] || []).push(a); });
+  const groups = Object.entries(bySrc).sort((a, b) => b[1].length - a[1].length);
+  return '<div class="art-groups">' + groups.map(([src, list]) =>
+    `<div class="art-group"><div class="art-src">📰 ${src} <span class="muted">${list.length}건</span></div>` +
+    '<ul class="art-list">' + list.map(a =>
+      `<li><span class="art-date muted">${(a.date || '').slice(5)}</span> ` +
+      (a.link ? `<a href="${a.link}" target="_blank" rel="noopener">${a.title}</a>` : a.title) +
+      (a.source && a.source.includes('·') ? ` <span class="art-sec muted">${a.source.split('·')[1]}</span>` : '') +
+      '</li>').join('') +
+    '</ul></div>').join('') + '</div>';
+}
+// 관심 ☆ 버튼 + 기사 펼치기 토글이 달린 종목명 셀 내용
+function companyCell(name, extraTag) {
+  return `<button class="star${isFav(name) ? ' on' : ''}" data-fav="${name}" title="관심 추가/해제">${isFav(name) ? '★' : '☆'}</button>` +
+         `<span class="dc-toggle" data-art="${name}" title="언론사별 관련 기사 보기">${name}${extraTag || ''} <span class="art-caret">▾</span></span>`;
+}
+function syncStars(name) {
+  document.querySelectorAll('.star').forEach(b => {
+    if (b.dataset.fav === name) { b.textContent = isFav(name) ? '★' : '☆'; b.classList.toggle('on', isFav(name)); }
+  });
+}
+// 종목명 셀(별·펼치기) 이벤트 바인딩 — 표 다시 그릴 때마다 호출
+function bindCompanyCells(table, colspan) {
+  table.querySelectorAll('.star').forEach(b => b.onclick = e => {
+    e.stopPropagation();
+    toggleFav(b.dataset.fav); syncStars(b.dataset.fav); renderFavTab();
+  });
+  table.querySelectorAll('.dc-toggle').forEach(t => t.onclick = () => {
+    const tr = t.closest('tr');
+    const next = tr.nextElementSibling;
+    if (next && next.classList.contains('art-row')) { next.remove(); t.classList.remove('open'); return; }
+    const art = document.createElement('tr');
+    art.className = 'art-row';
+    art.innerHTML = `<td colspan="${colspan}">${articlesBySourceHTML(t.dataset.art)}</td>`;
+    tr.after(art);
+    t.classList.add('open');
+  });
+}
+function favMeta(name) {
+  const v = DCIDX.companies[name] || COIDX.companies[name] || LDIDX.companies[name];
+  if (!v) return '<span class="muted">지수 데이터 없음</span>';
+  const d = dayDelta(v.daily);
+  return `<span class="tag">${v.market || ''}</span> ` +
+         `<span class="muted">오늘 ${d.today} · 7일 ${sumLast(v.daily, 7)} · 누적 ${v.count || 0}</span> ${deltaCell(d)}`;
+}
+function renderFavTab() {
+  const wrap = document.getElementById('favBody');
+  if (!wrap) return;
+  const names = [...FAVS];
+  if (!names.length) {
+    wrap.innerHTML = '<p class="muted">아직 관심 종목이 없습니다. 🌱 발굴 또는 🏢 회사 표에서 종목 옆 ☆를 눌러 추가하세요.</p>';
+    return;
+  }
+  wrap.innerHTML = names.map(n =>
+    `<div class="fav-card"><div class="fav-head">` +
+    `<button class="star on" data-fav="${n}" title="관심 해제">★</button> <b class="fav-name">${n}</b> ${favMeta(n)}` +
+    `</div>${articlesBySourceHTML(n)}</div>`).join('');
+  wrap.querySelectorAll('.star').forEach(b => b.onclick = () => {
+    toggleFav(b.dataset.fav); syncStars(b.dataset.fav); renderFavTab();
+  });
+}
+
 // ---------- 빈도 테이블 + 차트 ----------
 function buildRows(map) {
   return Object.entries(map || {}).map(([name, v]) => {
@@ -105,7 +189,7 @@ function renderEarlyTable(tableId, rows) {
     '<thead><tr><th>🌱 종목</th><th>시장</th><th>연결 성장사업</th><th>첫 등장</th><th>최근활동</th><th>누적</th><th>선점점수</th></tr></thead>' +
     '<tbody>' + rows.map(r =>
       '<tr>' +
-      `<td>${r.name}${r.size ? ` <span class="tag">${r.size}</span>` : ''}</td>` +
+      `<td class="dc-name">${companyCell(r.name, r.size ? ` <span class="tag">${r.size}</span>` : '')}</td>` +
       `<td><span class="tag">${r.market}</span></td>` +
       `<td class="muted">${r.theme || '—'}</td>` +
       `<td class="muted">${(r.firstSeen || '').slice(5)} <span class="tag">D-${r.ageDays}</span></td>` +
@@ -113,10 +197,11 @@ function renderEarlyTable(tableId, rows) {
       `<td>${r.total}</td>` +
       `<td><b>${r.score}</b></td>` +
       '</tr>').join('') + '</tbody>';
+  bindCompanyCells(table, 7);
 }
 
 let sortState = {};
-function renderFreqTable(tableId, rows, hasMarket) {
+function renderFreqTable(tableId, rows, hasMarket, interactive) {
   const table = document.getElementById(tableId);
   const cols = [
     { key: 'name', label: hasMarket ? '회사' : '키워드' },
@@ -140,7 +225,7 @@ function renderFreqTable(tableId, rows, hasMarket) {
     '<thead><tr>' + cols.map(c => `<th data-k="${c.key}">${c.label}</th>`).join('') + '</tr></thead>' +
     '<tbody>' + (rows.length ? rows.map(r =>
       '<tr>' +
-      `<td>${r.name}</td>` +
+      (interactive ? `<td class="dc-name">${companyCell(r.name)}</td>` : `<td>${r.name}</td>`) +
       (hasMarket ? `<td><span class="tag">${r.market}</span></td>` : '') +
       `<td>${r.today}</td>` +
       `<td>${deltaCell(r.delta)}</td>` +
@@ -151,10 +236,11 @@ function renderFreqTable(tableId, rows, hasMarket) {
       '</tr>').join('')
       : `<tr><td colspan="${cols.length}" class="muted">아직 데이터가 없습니다. 첫 브리핑이 실행되면 채워집니다.</td></tr>`) +
     '</tbody>';
+  if (interactive) bindCompanyCells(table, cols.length);
   table.querySelectorAll('th').forEach(th => th.onclick = () => {
     const k = th.dataset.k;
     if (st.key === k) st.dir *= -1; else { st.key = k; st.dir = -1; }
-    renderFreqTable(tableId, rows, hasMarket);
+    renderFreqTable(tableId, rows, hasMarket, interactive);
   });
 }
 
@@ -417,9 +503,11 @@ function setupTabs() {
   renderMD(document.getElementById('synthBody'),
     await getText(`${DATA}/synthesis-3day.md`), '3일 종합은 며칠간 데이터가 쌓이면 생성됩니다.');
 
+  ARCHIVE = await getJSON(`${DATA}/article-archive.json`) || { companies: {} };
   const kw = await getJSON(`${DATA}/keyword-index.json`) || { keywords: {} };
   const co = await getJSON(`${DATA}/company-index.json`) || { companies: {} };
   const dc = await getJSON(`${DATA}/discovery-index.json`) || { companies: {} };
+  DCIDX = dc; COIDX = co;
   const kwRows = buildRows(kw.keywords);
   const coRows = buildRows(co.companies);
   const dcRows = buildRows(dc.companies);
@@ -427,13 +515,16 @@ function setupTabs() {
   renderTopChart('coChart', coRows, '회사');
   renderTopChart('dcChart', dcRows, '발굴기업');
   renderFreqTable('kwTable', kwRows, false);
-  renderFreqTable('coTable', coRows, true);
+  renderFreqTable('coTable', coRows, true, true);
   renderEarlyTable('dcEarlyTable', buildEarlyRows(dc.companies));
-  renderFreqTable('dcTable', dcRows, true);
+  renderFreqTable('dcTable', dcRows, true, true);
 
   const ld = await getJSON(`${DATA}/leading-index.json`) || { companies: {} };
+  LDIDX = ld;
   const ldRows = buildRows(ld.companies).sort((a, b) => b.total - a.total);
-  renderFreqTable('ldTable', ldRows, true);
+  renderFreqTable('ldTable', ldRows, true, true);
+
+  renderFavTab();
 
   const updated = kw.updatedAt || co.updatedAt;
   document.getElementById('updatedAt').textContent =

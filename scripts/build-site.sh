@@ -7,8 +7,11 @@ cd "$PROJECT_DIR"
 
 mkdir -p docs/data/briefings
 
+# 0) 과거·신규 브리핑의 종목별 출처 링크를 기사 아카이브에 소급 병합(멱등)
+python3 scripts/backfill-archive.py || echo "WARN backfill-archive 실패(건너뜀)"
+
 # 1) 데이터 파일 복사 (없으면 건너뜀)
-for f in keyword-index.json company-index.json discovery-index.json leading-index.json market-indicators.json market-history.json portfolio.json latest.md synthesis-3day.md analysis.md discovery.md leading-signals.md review.md holdings-analysis.md; do
+for f in keyword-index.json company-index.json discovery-index.json leading-index.json article-archive.json market-indicators.json market-history.json portfolio.json latest.md synthesis-3day.md analysis.md discovery.md leading-signals.md review.md holdings-analysis.md; do
   [ -f "data/$f" ] && cp "data/$f" "docs/data/$f"
 done
 

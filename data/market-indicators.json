@@ -1,18 +1,19 @@
 {
-  "updatedAt": "2026-06-18T19:10:00+09:00",
-  "session": "PM",
-  "stock_fng": { "value": 40, "label": "Fear", "source": "https://www.cnn.com/markets/fear-and-greed" },
+  "updatedAt": "2026-06-19T07:10:00+09:00",
+  "session": "AM",
+  "stock_fng": { "value": 37, "label": "Fear", "source": "https://www.cnn.com/markets/fear-and-greed" },
   "indices": [
-    { "name": "코스피", "value": "9,063.84", "change": "+2.25%(사상 첫 9000)", "source": "https://www.hankyung.com/article/2026061847226" },
-    { "name": "코스닥", "value": "1,000.93", "change": "-3.01%", "source": "https://view.asiae.co.kr/article/2026061815342871062" },
-    { "name": "S&P 500", "value": "7,481", "change": "선물 +0.7%(6/18)", "source": "https://www.cnbc.com/2026/06/17/stock-market-today-live-updates.html" },
-    { "name": "나스닥", "value": "26,007", "change": "선물 +1.1%(6/18)", "source": "https://www.cnbc.com/2026/06/17/stock-market-today-live-updates.html" },
-    { "name": "다우", "value": "51,483", "change": "-1.0%(6/17 종가)", "source": "https://www.cnbc.com/2026/06/16/stock-market-today-live-updates.html" },
-    { "name": "VIX", "value": "18.4", "change": "+12%", "source": "https://fred.stlouisfed.org/series/VIXCLS" },
-    { "name": "美 10년물", "value": "4.56%", "change": "+0.10", "source": "https://www.yna.co.kr/view/AKR20260618008700072" },
-    { "name": "달러인덱스(DXY)", "value": "100.5", "change": "+0.2%", "source": "https://www.yna.co.kr/view/AKR20260618010351072" },
-    { "name": "원/달러", "value": "1,527.1", "change": "+13.7", "source": "https://www.yna.co.kr/view/AKR20260618135700002" },
-    { "name": "국고채 3년", "value": "3.750%", "change": "+0.04(매파 FOMC)", "source": "https://www.yna.co.kr/view/AKR20260618010300072" },
-    { "name": "브렌트유", "value": "69.8", "change": "-1.0%(이란 잠정합의)", "source": "https://www.bloomberg.com/news/articles/2026-06-17/asian-stocks-bonds-to-fall-on-hawkish-fed-signals-markets-wrap" }
+    { "name": "코스피", "value": "9,063.84", "change": "+2.25%(6/18 사상 첫 9000)", "source": "https://www.hankyung.com/article/2026061847226" },
+    { "name": "코스닥", "value": "1,000.93", "change": "-3.01%(6/18)", "source": "https://www.fnnews.com/news/202606181428103520" },
+    { "name": "S&P 500", "value": "7,500.58", "change": "+1.08%(6/18)", "source": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-june-18-2026" },
+    { "name": "나스닥", "value": "26,517.93", "change": "+1.91%(6/18)", "source": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-june-18-2026" },
+    { "name": "다우", "value": "51,564.70", "change": "+0.14%(6/18)", "source": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-june-18-2026" },
+    { "name": "러셀2000", "value": "2,977.16", "change": "+2.02%(6/18·소형주 반등)", "source": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-june-18-2026" },
+    { "name": "VIX", "value": "16.9", "change": "-8%(FOMC 충격 진정)", "source": "https://fred.stlouisfed.org/series/VIXCLS" },
+    { "name": "美 10년물", "value": "4.49%", "change": "-0.07", "source": "https://www.cnbc.com/quotes/US10Y" },
+    { "name": "달러인덱스(DXY)", "value": "100.72", "change": "+0.2%(15개월 최고권)", "source": "https://www.investing.com/indices/usdollar-historical-data" },
+    { "name": "원/달러", "value": "1,527.1", "change": "+13.7(야간 1,540)", "source": "https://www.yna.co.kr/view/AKR20260618135700002" },
+    { "name": "국고채 3년", "value": "3.750%", "change": "+0.04(매파 FOMC)", "source": "https://www.yna.co.kr/view/AKR20260618146400008" },
+    { "name": "WTI", "value": "76.54", "change": "-0.3%(이란 종전 기대)", "source": "https://fxdailyreport.com/wti-crude-oil-price-analysis-for-june-18-2026/" }
   ]
 }

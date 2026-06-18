@@ -66,6 +66,35 @@ table.freq tbody tr:hover { background: #1c2330; }
 .archive-list li.active { background: #112; border-color: var(--accent); }
 @media (max-width: 700px) { .archive-layout { grid-template-columns: 1fr; } }
 
+/* 관심 종목 ☆ + 언론사별 기사 펼치기 */
+.star { background: none; border: none; cursor: pointer; font-size: 1rem; color: var(--muted);
+  padding: 0 6px 0 0; line-height: 1; vertical-align: middle; }
+.star:hover { color: #f5c518; }
+.star.on { color: #f5c518; }
+.dc-name { white-space: normal; }
+.dc-toggle { cursor: pointer; border-bottom: 1px dashed transparent; }
+.dc-toggle:hover { border-bottom-color: var(--accent); }
+.art-caret { color: var(--muted); font-size: 0.75rem; transition: transform .2s; display: inline-block; }
+.dc-toggle.open .art-caret { transform: rotate(180deg); }
+.art-row > td { background: #0d1117; text-align: left; white-space: normal; padding: 12px 14px; }
+.art-groups { display: flex; flex-direction: column; gap: 12px; }
+.art-group { border-left: 2px solid var(--border); padding-left: 12px; }
+.art-src { font-size: 0.85rem; color: var(--text); font-weight: 600; margin-bottom: 4px; }
+.art-list { list-style: none; margin: 0; padding: 0; }
+.art-list li { font-size: 0.86rem; padding: 3px 0; }
+.art-list a { color: var(--accent); text-decoration: none; }
+.art-list a:hover { text-decoration: underline; }
+.art-date { margin-right: 6px; font-variant-numeric: tabular-nums; }
+.art-sec { font-size: 0.72rem; }
+.art-empty { padding: 4px 0; }
+
+/* 내 관심 탭 카드 */
+.fav-card { background: #0d1117; border: 1px solid var(--border); border-radius: 10px;
+  padding: 14px 16px; margin-bottom: 14px; }
+.fav-head { display: flex; align-items: center; flex-wrap: wrap; gap: 6px; margin-bottom: 10px;
+  padding-bottom: 8px; border-bottom: 1px solid var(--border); }
+.fav-name { font-size: 0.98rem; }
+
 /* 마크다운 렌더 */
 .md h1 { font-size: 1.35rem; border-bottom: 1px solid var(--border); padding-bottom: 8px; }
 .md h2 { font-size: 1.1rem; margin-top: 22px; }

@@ -66,6 +66,61 @@ def parse_items(xml):
         out.append({"title": title, "link": link})
     return out
 
+def _base_name(name):
+    """'우리로(046970)' -> '우리로' (티커·괄호 제거)."""
+    return re.sub(r"\(.*?\)", "", name).strip()
+
+def update_article_archive(all_items, now):
+    """수집된 기사를 발굴·회사·선행 종목명으로 매칭해 종목별로 '누적' 저장한다.
+    news-feed.json은 매번 덮어써 오늘치만 남지만, 이 아카이브는 과거 기사를 보존해
+    종목별로 '언론사별 기사 흐름'을 지속적으로 볼 수 있게 한다(링크 기준 중복 제거)."""
+    universe = {}  # base_name(소문자) -> 표시용 원본 종목명
+    for idx_file in ("discovery-index.json", "company-index.json", "leading-index.json"):
+        try:
+            with open(os.path.join(DATA, idx_file), encoding="utf-8") as f:
+                comps = json.load(f).get("companies", {})
+        except Exception:
+            continue
+        for full in comps:
+            b = _base_name(full)
+            if len(b) >= 2:
+                universe.setdefault(b.lower(), full)
+    if not universe:
+        return
+
+    path = os.path.join(DATA, "article-archive.json")
+    try:
+        with open(path, encoding="utf-8") as f:
+            archive = json.load(f)
+    except Exception:
+        archive = {"companies": {}}
+    archive.setdefault("companies", {})
+
+    today = now[:10]
+    for it in all_items:
+        title = it.get("title", "")
+        low = title.lower()
+        for b, full in universe.items():
+            if b in low:
+                entry = archive["companies"].setdefault(full, {"articles": []})
+                arts = entry["articles"]
+                link = it.get("link", "")
+                if any((link and a.get("link") == link) or a.get("title") == title for a in arts):
+                    continue  # 이미 있는 기사
+                arts.append({"date": today, "source": it.get("source", ""),
+                             "title": title, "link": link})
+
+    # 종목별 최신순 정렬 + 과대 누적 방지(종목당 최대 120건 보관)
+    for entry in archive["companies"].values():
+        entry["articles"].sort(key=lambda a: a.get("date", ""), reverse=True)
+        del entry["articles"][120:]
+
+    archive["updatedAt"] = now
+    with open(path, "w", encoding="utf-8") as f:
+        json.dump(archive, f, ensure_ascii=False, indent=1)
+    matched = sum(1 for e in archive["companies"].values() if e["articles"])
+    print(f"[collect] 기사 아카이브 갱신 · 종목 {matched}개에 누적 기사 보유")
+
 def main():
     all_items, per_source, seen = [], {}, set()
     for name, url in FEEDS:
@@ -102,6 +157,12 @@ def main():
         lines.append(f"- {it['title']}")
     with open(os.path.join(DATA, "news-feed.txt"), "w", encoding="utf-8") as f:
         f.write("\n".join(lines) + "\n")
+
+    # 종목별 기사 아카이브 누적(언론사별 흐름·내 관심 추적용)
+    try:
+        update_article_archive(all_items, now)
+    except Exception as e:
+        sys.stderr.write(f"[collect] 아카이브 갱신 실패: {e}\n")
 
     ok = sum(1 for v in per_source.values() if v)
     print(f"[collect] {len(all_items)}건 수집 · 피드 {ok}/{len(FEEDS)}개 성공")
