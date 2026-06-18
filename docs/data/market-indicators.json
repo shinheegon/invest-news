@@ -1,19 +1,18 @@
 {
-  "updatedAt": "2026-06-18T07:00:00+09:00",
-  "session": "AM",
-  "stock_fng": { "value": 38, "label": "Fear", "source": "https://www.cnn.com/markets/fear-and-greed" },
+  "updatedAt": "2026-06-18T19:10:00+09:00",
+  "session": "PM",
+  "stock_fng": { "value": 40, "label": "Fear", "source": "https://www.cnn.com/markets/fear-and-greed" },
   "indices": [
-    { "name": "코스피", "value": "8,864.24", "change": "+1.58%(6/17 종가)", "source": "https://www.hankyung.com/article/202606171976i" },
-    { "name": "코스닥", "value": "1,031.96", "change": "+1.30%(6/17 종가)", "source": "https://view.asiae.co.kr/article/2026061715374834945" },
-    { "name": "S&P 500", "value": "7,481", "change": "-0.9%", "source": "https://www.yna.co.kr/view/AKR20260618010351072" },
-    { "name": "나스닥", "value": "26,007", "change": "-1.4%", "source": "https://www.yna.co.kr/view/AKR20260618010300072" },
-    { "name": "다우", "value": "51,483", "change": "-1.0%", "source": "https://www.yna.co.kr/view/AKR20260618010300072" },
+    { "name": "코스피", "value": "9,063.84", "change": "+2.25%(사상 첫 9000)", "source": "https://www.hankyung.com/article/2026061847226" },
+    { "name": "코스닥", "value": "1,000.93", "change": "-3.01%", "source": "https://view.asiae.co.kr/article/2026061815342871062" },
+    { "name": "S&P 500", "value": "7,481", "change": "선물 +0.7%(6/18)", "source": "https://www.cnbc.com/2026/06/17/stock-market-today-live-updates.html" },
+    { "name": "나스닥", "value": "26,007", "change": "선물 +1.1%(6/18)", "source": "https://www.cnbc.com/2026/06/17/stock-market-today-live-updates.html" },
+    { "name": "다우", "value": "51,483", "change": "-1.0%(6/17 종가)", "source": "https://www.cnbc.com/2026/06/16/stock-market-today-live-updates.html" },
     { "name": "VIX", "value": "18.4", "change": "+12%", "source": "https://fred.stlouisfed.org/series/VIXCLS" },
     { "name": "美 10년물", "value": "4.56%", "change": "+0.10", "source": "https://www.yna.co.kr/view/AKR20260618008700072" },
-    { "name": "美 2년물", "value": "4.20%", "change": "급등", "source": "https://www.yna.co.kr/view/AKR20260618008700072" },
-    { "name": "달러인덱스(DXY)", "value": "100.3", "change": "+0.7%", "source": "https://www.yna.co.kr/view/AKR20260618010351072" },
-    { "name": "원/달러", "value": "1,515.5", "change": "+2.1(역외)", "source": "https://www.yna.co.kr/view/AKR20260618002700002" },
-    { "name": "브렌트유", "value": "70.5", "change": "+0.7%", "source": "https://www.yna.co.kr/view/AKR20260618009100072" },
-    { "name": "국고채 3년", "value": "3.710%", "change": "보합(6/17)", "source": "https://www.yna.co.kr/view/AKR20260617142251008" }
+    { "name": "달러인덱스(DXY)", "value": "100.5", "change": "+0.2%", "source": "https://www.yna.co.kr/view/AKR20260618010351072" },
+    { "name": "원/달러", "value": "1,527.1", "change": "+13.7", "source": "https://www.yna.co.kr/view/AKR20260618135700002" },
+    { "name": "국고채 3년", "value": "3.750%", "change": "+0.04(매파 FOMC)", "source": "https://www.yna.co.kr/view/AKR20260618010300072" },
+    { "name": "브렌트유", "value": "69.8", "change": "-1.0%(이란 잠정합의)", "source": "https://www.bloomberg.com/news/articles/2026-06-17/asian-stocks-bonds-to-fall-on-hawkish-fed-signals-markets-wrap" }
   ]
 }
