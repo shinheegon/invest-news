@@ -32,8 +32,10 @@ fi
 
 trigger() {  # $1 = AM|PM
   local sess="$1"
-  echo "[$(ts)] CATCHUP 누락 감지 → $DATE-$sess 보충 실행" >> "$LOG"
-  bash "$PROJECT_DIR/scripts/run-briefing.sh" "$sess" >> "$LOG" 2>&1 &
+  echo "[$(ts)] CATCHUP 누락 감지 → $DATE-$sess 보충 실행(foreground)" >> "$LOG"
+  # ⚠️ 반드시 foreground(백그라운드 & 금지): 워치독(launchd 잡)이 끝나면 자식 프로세스가
+  #    함께 종료돼 보충 실행이 시작도 못 한다. 동기 실행으로 끝까지 완주시킨다.
+  bash "$PROJECT_DIR/scripts/run-briefing.sh" "$sess" >> "$LOG" 2>&1
 }
 
 # AM 창: 07시 이후인데 오늘 AM 브리핑 파일이 없으면 보충

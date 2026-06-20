@@ -64,6 +64,23 @@ run_with_timeout() {
   return "$rc"
 }
 
+# --- 네트워크 복구 대기: 절전에서 깨어난 직후엔 WiFi가 아직 안 붙어 ConnectionRefused가 난다.
+#     인터넷이 붙을 때까지 최대 ~3분 기다린다(붙으면 즉시 진행). ---
+wait_for_network() {
+  local tries="${1:-18}"   # 18 x 10s = 최대 180초
+  local i=0
+  while [ "$i" -lt "$tries" ]; do
+    if curl -s -o /dev/null --max-time 6 https://api.anthropic.com/ping 2>/dev/null \
+       || curl -s -o /dev/null --max-time 6 https://www.google.com 2>/dev/null; then
+      [ "$i" -gt 0 ] && echo "[$(ts)] NET ready (${i}회 대기 후)" >> "$LOG"
+      return 0
+    fi
+    i=$((i + 1)); sleep 10
+  done
+  echo "[$(ts)] WARN 네트워크 미복구(${tries}회 대기 초과) — 그래도 시도" >> "$LOG"
+  return 1
+}
+
 # --- 회차(AM/PM) 판정: 인자 > 환경변수 > 현재시각 ---
 SESSION="${1:-${BRIEFING_SESSION:-}}"
 if [ -z "$SESSION" ]; then
@@ -84,6 +101,9 @@ fi
 
 PROMPT="$(cat "$PROJECT_DIR/prompt/briefing-prompt.md")"
 echo "[$(ts)] START session=$SESSION date=$DATE count_mode=$COUNT_MODE" >> "$LOG"
+
+# 절전 복귀 직후일 수 있으니 네트워크부터 기다린다
+wait_for_network 18
 
 # --- 뉴스 RSS 전수 수집(브리핑 입력 코퍼스) — 누락 최소화 ---
 python3 "$PROJECT_DIR/scripts/collect-news.py" >> "$LOG" 2>&1 \
@@ -108,6 +128,7 @@ for attempt in $(seq 1 "$MAX_ATTEMPTS"); do
   export COUNT_MODE="skip"
   if [ "$attempt" -lt "$MAX_ATTEMPTS" ]; then
     sleep "$RETRY_WAIT"
+    wait_for_network 18   # 재시도 전에도 네트워크 확인(깨어난 직후 대비)
   fi
 done
 
