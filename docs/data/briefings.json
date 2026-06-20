@@ -1,5 +1,5 @@
 {
-  "count": 11,
+  "count": 12,
   "briefings": [
     {
       "date": "2026-06-14",
@@ -55,6 +55,11 @@
       "date": "2026-06-19",
       "session": "PM",
       "file": "briefings/2026-06-19-PM.md"
+    },
+    {
+      "date": "2026-06-20",
+      "session": "PM",
+      "file": "briefings/2026-06-20-PM.md"
     }
   ]
 }
