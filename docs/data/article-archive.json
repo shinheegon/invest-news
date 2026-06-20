@@ -275,6 +275,18 @@
   "현대차(005380)": {
    "articles": [
     {
+     "date": "2026-06-20",
+     "source": "한국경제·경제",
+     "title": "현대차그룹, 보스턴다이내믹스 지분 100% 확보 나서나",
+     "link": "https://www.hankyung.com/article/202606197644g"
+    },
+    {
+     "date": "2026-06-20",
+     "source": "파이낸셜뉴스",
+     "title": "\"바다숲, 이름을 더하다\"…해수부·현대차·수산공단의 블루카본 동맹[이유범의 에코&에너지]",
+     "link": "https://www.fnnews.com/news/202606191451211021"
+    },
+    {
      "date": "2026-06-19",
      "source": "한국경제·증권",
      "title": "현대차 질주에 가려진 기아…증권가 \"재평가 가능성 주목\"",
@@ -1061,7 +1073,155 @@
      "link": "https://www.irobotnews.com/news/articleView.html?idxno=44285"
     }
    ]
+  },
+  "대한항공(003490)": {
+   "articles": [
+    {
+     "date": "2026-06-20",
+     "source": "한국경제·경제",
+     "title": "대한항공 \"아시아나 통합, 3년내 본격 시너지 낼 것\"",
+     "link": "https://www.hankyung.com/article/2026061974211"
+    }
+   ]
+  },
+  "현대로템(064350)": {
+   "articles": [
+    {
+     "date": "2026-06-20",
+     "source": "한국경제·경제",
+     "title": "현대로템, 모로코 전동차 유지보수 수주",
+     "link": "https://www.hankyung.com/article/2026061974241"
+    }
+   ]
+  },
+  "제이앤티씨(204270)": {
+   "articles": [
+    {
+     "date": "2026-06-20",
+     "source": "한국경제·경제",
+     "title": "제이앤티씨 상한가…\"유리기판 신기술 개발 성공\"",
+     "link": "https://www.hankyung.com/article/202606196113i"
+    },
+    {
+     "date": "2026-06-20",
+     "source": "아시아경제",
+     "title": "제이앤티씨, 세계 최초 유리두께 2.0mmT 고난이도 TGV 유리기판 개발 성공",
+     "link": "https://view.asiae.co.kr/article/2026061908202498016"
+    }
+   ]
+  },
+  "삼성물산(028260)": {
+   "articles": [
+    {
+     "date": "2026-06-20",
+     "source": "한국경제·증권",
+     "title": "주주환원 확대·삼전 지분 가치 상승…삼성물산, 12% 급등 [종목+]",
+     "link": "https://www.hankyung.com/article/2026061960856"
+    },
+    {
+     "date": "2026-06-20",
+     "source": "한국경제·증권",
+     "title": "\"삼성물산, SK스퀘어 대비 배당 예측 가능성 우위…목표가↑\"-DS",
+     "link": "https://www.hankyung.com/article/2026061956256"
+    }
+   ]
+  },
+  "키옥시아(285A)": {
+   "articles": [
+    {
+     "date": "2026-06-20",
+     "source": "한국경제·증권",
+     "title": "AI 훈풍 탄 키옥시아…베인캐피털, 150억달러 잭팟",
+     "link": "https://www.hankyung.com/article/202606195708i"
+    }
+   ]
+  },
+  "씨피시스템(180400)": {
+   "articles": [
+    {
+     "date": "2026-06-20",
+     "source": "한국경제·증권",
+     "title": "씨피시스템, 인텔 장비 밸류체인 진입 소식에 상한가",
+     "link": "https://www.hankyung.com/article/2026061960726"
+    }
+   ]
+  },
+  "KT&G(033780)": {
+   "articles": [
+    {
+     "date": "2026-06-20",
+     "source": "한국경제·증권",
+     "title": "\"KT&G, 해외 매출 증가·주주환원 확대…목표가↑\"-DS",
+     "link": "https://www.hankyung.com/article/2026061956516"
+    },
+    {
+     "date": "2026-06-20",
+     "source": "머니투데이·증권",
+     "title": "'거버넌스·회계·감사'로 주주 잡은 KT&G..사상 첫 6조클럽 눈앞",
+     "link": "https://news.mt.co.kr/mtview.php?no=2025091813434890486"
+    }
+   ]
+  },
+  "BGF리테일(282330)": {
+   "articles": [
+    {
+     "date": "2026-06-20",
+     "source": "한국경제·증권",
+     "title": "\"BGF리테일, 2분기 실적 서프라이즈 전망\"-한국",
+     "link": "https://www.hankyung.com/article/2026061957226"
+    }
+   ]
+  },
+  "HD현대중공업(329180)": {
+   "articles": [
+    {
+     "date": "2026-06-20",
+     "source": "한국경제·증권",
+     "title": "\"HD현대중공업, 엔진사업부의 새로운 먹거리 등장…목표가↑\"-KB",
+     "link": "https://www.hankyung.com/article/2026061956806"
+    }
+   ]
+  },
+  "삼성화재(000810)": {
+   "articles": [
+    {
+     "date": "2026-06-20",
+     "source": "한국경제·증권",
+     "title": "\"삼성화재, 보험 영업·투자 부문 모두 안정적 흐름…목표가↑\"-상상인",
+     "link": "https://www.hankyung.com/article/2026061956566"
+    }
+   ]
+  },
+  "NHN(181710)": {
+   "articles": [
+    {
+     "date": "2026-06-20",
+     "source": "한국경제·증권",
+     "title": "탄탄 본업에 'AI 클라우드' 엔진 단 NHN, 하반기 날아 오를까",
+     "link": "https://www.hankyung.com/article/202606184776i"
+    }
+   ]
+  },
+  "HEM파마(376270)": {
+   "articles": [
+    {
+     "date": "2026-06-20",
+     "source": "연합뉴스·경제",
+     "title": "HEM파마 \"나이스헬스디바이스코퍼레이션 주식 19억원에 취득\"",
+     "link": "https://www.yna.co.kr/view/AKR20260619152000008"
+    }
+   ]
+  },
+  "롯데케미칼(011170)": {
+   "articles": [
+    {
+     "date": "2026-06-20",
+     "source": "이데일리·경제",
+     "title": "[마켓인]한기평, 롯데케미칼 등급전망 ‘부정적’ 하향",
+     "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=05018406645483360"
+    }
+   ]
   }
  },
- "updatedAt": "2026-06-19T19:00:05+09:00"
+ "updatedAt": "2026-06-20T07:06:19+09:00"
 }
