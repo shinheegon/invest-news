@@ -3,6 +3,12 @@
   "SK하이닉스(000660)": {
    "articles": [
     {
+     "date": "2026-06-21",
+     "source": "한국경제·증권",
+     "title": "\"삼성·SK하이닉스에 '이것' 더해라\"…수익률 78% 낸 1위의 승부수",
+     "link": "https://www.hankyung.com/article/202606185415i"
+    },
+    {
      "date": "2026-06-20",
      "source": "한국경제·증권",
      "title": "\"SK하이닉스 대신 담았는데\"…한 달 새 40% 넘게 오른 기업 [종목+]",
@@ -388,6 +394,12 @@
   },
   "애플(AAPL)": {
    "articles": [
+    {
+     "date": "2026-06-21",
+     "source": "연합뉴스·경제",
+     "title": "삼성은 확대, 애플은 첫 출격…폴더블폰 판 바뀐다",
+     "link": "https://www.yna.co.kr/view/AKR20260619078600017"
+    },
     {
      "date": "2026-06-19",
      "source": "한국경제·증권",
@@ -1487,7 +1499,89 @@
      "link": "https://news.mt.co.kr/mtview.php?no=2025091907334018635"
     }
    ]
+  },
+  "KT(030200)": {
+   "articles": [
+    {
+     "date": "2026-06-21",
+     "source": "한국경제·증권",
+     "title": "\"KT&G, 해외 매출 증가·주주환원 확대…목표가↑\"-DS",
+     "link": "https://www.hankyung.com/article/2026061956516"
+    },
+    {
+     "date": "2026-06-21",
+     "source": "머니투데이·증권",
+     "title": "[더벨][이지트로닉스 줌인]SKT 해킹사태 여파, 통신 매출 '뚝'",
+     "link": "https://news.mt.co.kr/mtview.php?no=2025091914269652580"
+    },
+    {
+     "date": "2026-06-21",
+     "source": "머니투데이·증권",
+     "title": "상장 첫날부터 '따블'…KT·롯데카드 뚫리자 상한가 뚫는 보안주",
+     "link": "https://news.mt.co.kr/mtview.php?no=2025091910213571002"
+    },
+    {
+     "date": "2026-06-21",
+     "source": "머니투데이·증권",
+     "title": "KT 소액결제 사태 확대에…보안주 '불기둥'",
+     "link": "https://news.mt.co.kr/mtview.php?no=2025091909195834767"
+    },
+    {
+     "date": "2026-06-21",
+     "source": "머니투데이·증권",
+     "title": "'거버넌스·회계·감사'로 주주 잡은 KT&G..사상 첫 6조클럽 눈앞",
+     "link": "https://news.mt.co.kr/mtview.php?no=2025091813434890486"
+    },
+    {
+     "date": "2026-06-21",
+     "source": "CNBC·Markets",
+     "title": "Okta jumps 8%, tops first-quarter results on agentic AI demand",
+     "link": "https://www.cnbc.com/2026/05/28/okta-okta-earnings-q1-2027.html"
+    }
+   ]
+  },
+  "롯데카드": {
+   "articles": [
+    {
+     "date": "2026-06-21",
+     "source": "머니투데이·증권",
+     "title": "MBK, 롯데카드 '보안투자 소홀' 억울 \"71억→128억, 꾸준히 확대\"",
+     "link": "https://news.mt.co.kr/mtview.php?no=2025092115442719296"
+    },
+    {
+     "date": "2026-06-21",
+     "source": "머니투데이·증권",
+     "title": "한신평 \"롯데카드, 개인정보유출로 중장기 신용도 타격\"",
+     "link": "https://news.mt.co.kr/mtview.php?no=2025091917212585945"
+    },
+    {
+     "date": "2026-06-21",
+     "source": "머니투데이·증권",
+     "title": "상장 첫날부터 '따블'…KT·롯데카드 뚫리자 상한가 뚫는 보안주",
+     "link": "https://news.mt.co.kr/mtview.php?no=2025091910213571002"
+    }
+   ]
+  },
+  "청한전자": {
+   "articles": [
+    {
+     "date": "2026-06-21",
+     "source": "아시아경제",
+     "title": "MLCC 초호황기 진입…에이텀 자회사 청한전자 공급망 부각",
+     "link": "https://view.asiae.co.kr/article/2026061910123722985"
+    }
+   ]
+  },
+  "오성첨단소재(052420)": {
+   "articles": [
+    {
+     "date": "2026-06-21",
+     "source": "아시아경제",
+     "title": "오성첨단소재, 국내 자회사 매각 계약금 1060억원 확보…신규 사업 투자 기반 마련",
+     "link": "https://view.asiae.co.kr/article/2026061908334726635"
+    }
+   ]
   }
  },
- "updatedAt": "2026-06-20T19:00:05+09:00"
+ "updatedAt": "2026-06-21T08:02:03+09:00"
 }
