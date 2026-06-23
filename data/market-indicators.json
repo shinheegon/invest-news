@@ -1,17 +1,18 @@
 {
-  "updatedAt": "2026-06-23T14:55:00+09:00",
-  "session": "AM",
-  "note": "미국=6/22(월) 종가(밤사이 마감). 한국=6/23(화) 장중(개장~오전, 코스피·코스닥 동시 매도 사이드카 발동 후 반등 전환). 관전=美 5월 PCE·국민연금 7월 리밸런싱 매물·매파 연준.",
-  "stock_fng": { "value": 37, "label": "Fear", "source": "https://www.cnn.com/markets/fear-and-greed" },
+  "updatedAt": "2026-06-23T23:40:00+09:00",
+  "session": "PM",
+  "note": "한국=6/23(화) 마감='검은 화요일' 코스피 -9.99%(역대 5번째 하락률·역대 최대 낙폭). 외국인 4.16조·기관 4.55조 순매도, 개인 8.58조 순매수. 서킷브레이커(14:33)·매도 사이드카 발동. 미국=6/22(월) 종가(밤사이). 관전=금주 美 5월 PCE·세 마녀의 날·매파 워시 연준, 국민연금 7월 리밸런싱 매물.",
+  "stock_fng": { "value": 33, "label": "Fear", "source": "https://www.cnn.com/markets/fear-and-greed" },
   "indices": [
-    { "name": "코스피", "value": "9,083.54(개장)", "change": "장중 9000선 붕괴·매도 사이드카·외국인 1.6조 순매도", "source": "https://www.hankyung.com/article/202606232009i" },
-    { "name": "코스닥", "value": "958.64(개장)", "change": "매도 사이드카 발동 후 반등 전환", "source": "https://view.asiae.co.kr/article/2026062313072551690" },
+    { "name": "코스피", "value": "8,203.84", "change": "-9.99%(-910.71p·검은화요일)", "source": "https://view.asiae.co.kr/article/2026062315353520207" },
+    { "name": "코스닥", "value": "891.52", "change": "-7.94%(-76.88p·900선붕괴)", "source": "https://view.asiae.co.kr/article/2026062315355224194" },
+    { "name": "코스피200 변동성지수(VKOSPI)", "value": "90선 근접", "change": "장중 또 급등(공포 극대)", "source": "https://www.yna.co.kr/view/AKR20260623086151008" },
     { "name": "S&P 500", "value": "7,472.79", "change": "-0.37%(6/22)", "source": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-june-22-2026" },
-    { "name": "나스닥", "value": "26,166.60", "change": "-1.32%(6/22·기술주 약세)", "source": "https://www.hankyung.com/article/2026062316166" },
-    { "name": "다우", "value": "+148.01p", "change": "+0.29%(6/22·홀로 상승)", "source": "https://www.hankyung.com/article/2026062316166" },
-    { "name": "러셀2000", "value": "3,000", "change": "사상 첫 3,000 돌파(6/22)", "source": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-june-22-2026" },
+    { "name": "나스닥", "value": "26,166.60", "change": "-1.32%(6/22·기술주 매도 이틀째)", "source": "https://www.hankyung.com/article/2026062316166" },
+    { "name": "다우", "value": "+148.01p", "change": "+0.29%(6/22)", "source": "https://www.hankyung.com/article/2026062316166" },
     { "name": "VIX", "value": "17.28", "change": "+2.98%(6/22)", "source": "https://fred.stlouisfed.org/series/VIXCLS" },
-    { "name": "美 10년물", "value": "4.51%", "change": "약 2주 최고·채권금리 상승", "source": "https://www.investing.com/rates-bonds/u.s.-10-year-bond-yield" },
-    { "name": "원/달러", "value": "1,539.4(개장)", "change": "+2.4·보름만에 1,540원대·강달러", "source": "https://www.yna.co.kr/view/AKR20260623034100002" }
+    { "name": "美 10년물", "value": "4.51%", "change": "약 2주 최고·매파 워시 연준", "source": "https://www.investing.com/rates-bonds/u.s.-10-year-bond-yield" },
+    { "name": "韓 국고채 3년물", "value": "3.770%", "change": "↓(7월 국고채 바이백 예고)", "source": "https://www.yna.co.kr/view/AKR20260623142051008" },
+    { "name": "원/달러", "value": "1,539.1", "change": "+2.1(보름만에 1,540원 육박·강달러)", "source": "https://www.yna.co.kr/view/AKR20260623130300002" }
   ]
 }
