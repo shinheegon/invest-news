@@ -1,15 +1,18 @@
 {
-  "updatedAt": "2026-06-24T19:00:00+09:00",
-  "session": "PM",
-  "note": "한국=6/24(수) '검은 화요일(-9.99%)' 딛고 반등 마감: 코스피 +3.26%(8,471.02), 코스닥 +1.99%(909.30). 삼성전자 +9%대 시총 1위 탈환(90조 자사주 기대), SK하이닉스는 약세(7/10 美 ADR 45조 조달). 단 환율 1,541.8원 종가(금융위기 후 최고)·외국인 순매도·MSCI 선진 편입 12수 불발은 부담. 미국=6/23밤 반도체 투매 지속(마이크론 -13%)·매파 워시 연준(도이체방크 '연내 2회 인상' 전망). 호르무즈 긴장완화로 유가는 안정. 관전=국민연금 리밸런싱 유예 만료(1주 앞·최대 60조)·빚투 반대매매.",
-  "stock_fng": { "value": 30, "label": "Fear", "source": "https://www.cnn.com/markets/fear-and-greed" },
+  "updatedAt": "2026-06-25T07:12:00+09:00",
+  "session": "AM",
+  "note": "미국=6/24(수) 정규장 혼조: 다우 51,848.90(+0.35%)·S&P500 7,358.22(-0.10%)·나스닥 25,476.64(-0.43%). 그러나 장마감 후 마이크론 깜짝실적(Q3 매출 414.6억달러·예상 358.4억달러 상회, 매출총이익률 84.9%, 차분기 가이던스 약 500억달러)으로 시간외 +16%(정규 +12%) 급등 → '메모리 슈퍼사이클' 재확인이 6/25 한국장 반도체 심리 좌우. 호르무즈 통항 재개 기대로 국제유가 급락(브렌트 -4.33% $73.74, WTI -3.92% $70.34, 전쟁 전 수준 회복)·美 10년물 4.5% 하회. 단 매파 워시 연준(점도표 연내 인상 시사)으로 달러인덱스 100 회복·원/달러 1,541.8원(금융위기 후 최고). 관전=국민연금 리밸런싱 유예 만료(임박)·MSCI 선진 편입 또 불발.",
+  "stock_fng": { "value": 28, "label": "Fear", "source": "https://www.cnn.com/markets/fear-and-greed" },
   "indices": [
-    { "name": "코스피", "value": "8,471.02", "change": "+3.26% (+267.18p, 반등 마감)", "source": "https://view.asiae.co.kr/article/2026062415354832710" },
-    { "name": "코스닥", "value": "909.30", "change": "+1.99% (+17.78p)", "source": "https://view.asiae.co.kr/article/2026062415360538481" },
-    { "name": "코스피200 변동성지수(VKOSPI)", "value": "금융위기 이후 최고", "change": "공포 극대 지속", "source": "https://www.yna.co.kr/view/AKR20260624047051008" },
-    { "name": "나스닥", "value": "반도체 투매 지속(6/23밤)", "change": "마이크론 -13% 등 AI 거품 점검", "source": "https://www.hankyung.com/article/2026062440596" },
-    { "name": "美 6월 제조업 PMI", "value": "55.7", "change": "예상밖 깜짝 확장", "source": "https://www.hankyung.com/article/202606233909i" },
-    { "name": "국제유가(WTI)", "value": "4개월 최저권", "change": "↓ 호르무즈 긴장완화(경유가 2천원선 아래)", "source": "https://www.yna.co.kr/view/AKR20260624144900003" },
-    { "name": "원/달러", "value": "1,541.8", "change": "+2.7 (15:30 종가·금융위기 후 최고)", "source": "https://www.yna.co.kr/view/AKR20260624128100002" }
+    { "name": "코스피", "value": "8,471.02", "change": "전일 +3.26% (6/24 반등 마감)", "source": "https://view.asiae.co.kr/article/2026062415354832710" },
+    { "name": "코스닥", "value": "909.30", "change": "전일 +1.99%", "source": "https://view.asiae.co.kr/article/2026062415360538481" },
+    { "name": "다우", "value": "51,848.90", "change": "+0.35% (+182.06p, 6/24 종가)", "source": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-june-24-2026" },
+    { "name": "S&P 500", "value": "7,358.22", "change": "-0.10% (마이크론 실적 대기)", "source": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-june-24-2026" },
+    { "name": "나스닥", "value": "25,476.64", "change": "-0.43% (장후 마이크론 +16%)", "source": "https://www.cnbc.com/2026/06/24/micron-mu-earnings-report-q3-2026.html" },
+    { "name": "마이크론(MU)", "value": "+12% (시간외 +16%)", "change": "Q3 매출 414.6억$·GM 84.9%·차분기 가이던스 ~500억$", "source": "https://www.cnbc.com/2026/06/24/micron-mu-earnings-report-q3-2026.html" },
+    { "name": "美 10년물", "value": "4.5% 하회", "change": "↓ 유가 급락에 동반 하락", "source": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-june-24-2026" },
+    { "name": "달러인덱스(DXY)", "value": "100선 회복", "change": "+약 1% (매파 워시 연준)", "source": "https://www.fxstreet.com/analysis/back-above-100-kevin-warshs-first-fed-meeting-sparks-us-dollar-rally-202606181840" },
+    { "name": "국제유가(브렌트)", "value": "$73.74", "change": "-4.33% (호르무즈 통항 재개 기대·전쟁 전 수준)", "source": "https://www.yna.co.kr/view/AKR20260625005900072" },
+    { "name": "원/달러", "value": "1,541.8", "change": "6/24 종가 +2.7 (금융위기 후 최고)", "source": "https://www.yna.co.kr/view/AKR20260624128100002" }
   ]
 }
