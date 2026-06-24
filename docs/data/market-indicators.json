@@ -1,18 +1,16 @@
 {
-  "updatedAt": "2026-06-23T23:40:00+09:00",
-  "session": "PM",
-  "note": "한국=6/23(화) 마감='검은 화요일' 코스피 -9.99%(역대 5번째 하락률·역대 최대 낙폭). 외국인 4.16조·기관 4.55조 순매도, 개인 8.58조 순매수. 서킷브레이커(14:33)·매도 사이드카 발동. 미국=6/22(월) 종가(밤사이). 관전=금주 美 5월 PCE·세 마녀의 날·매파 워시 연준, 국민연금 7월 리밸런싱 매물.",
-  "stock_fng": { "value": 33, "label": "Fear", "source": "https://www.cnn.com/markets/fear-and-greed" },
+  "updatedAt": "2026-06-24T14:45:00+09:00",
+  "session": "AM",
+  "note": "미국=6/23(화 밤) 반도체 투매 지속, 마이크론 -13% 등 'AI 거품 점검' 매도. 단 호르무즈 긴장완화로 국제유가 4개월 최저·유가發 인플레 압력은 완화. 한국=6/24(수) 전일 '검은 화요일(-9.99%)' 딛고 반등 시도하나 장중 변동성 극대(코스닥 +1.5% 출발 후 등락, 코스피 8000선 위협↔8400선 등락). 악재 추가: MSCI 선진지수 편입 또 불발. 관전=국민연금 7월 리밸런싱(최대 60조)·매파 워시 연준·환율 1,535선.",
+  "stock_fng": { "value": 32, "label": "Fear", "source": "https://www.cnn.com/markets/fear-and-greed" },
   "indices": [
-    { "name": "코스피", "value": "8,203.84", "change": "-9.99%(-910.71p·검은화요일)", "source": "https://view.asiae.co.kr/article/2026062315353520207" },
-    { "name": "코스닥", "value": "891.52", "change": "-7.94%(-76.88p·900선붕괴)", "source": "https://view.asiae.co.kr/article/2026062315355224194" },
-    { "name": "코스피200 변동성지수(VKOSPI)", "value": "90선 근접", "change": "장중 또 급등(공포 극대)", "source": "https://www.yna.co.kr/view/AKR20260623086151008" },
-    { "name": "S&P 500", "value": "7,472.79", "change": "-0.37%(6/22)", "source": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-june-22-2026" },
-    { "name": "나스닥", "value": "26,166.60", "change": "-1.32%(6/22·기술주 매도 이틀째)", "source": "https://www.hankyung.com/article/2026062316166" },
-    { "name": "다우", "value": "+148.01p", "change": "+0.29%(6/22)", "source": "https://www.hankyung.com/article/2026062316166" },
-    { "name": "VIX", "value": "17.28", "change": "+2.98%(6/22)", "source": "https://fred.stlouisfed.org/series/VIXCLS" },
-    { "name": "美 10년물", "value": "4.51%", "change": "약 2주 최고·매파 워시 연준", "source": "https://www.investing.com/rates-bonds/u.s.-10-year-bond-yield" },
-    { "name": "韓 국고채 3년물", "value": "3.770%", "change": "↓(7월 국고채 바이백 예고)", "source": "https://www.yna.co.kr/view/AKR20260623142051008" },
-    { "name": "원/달러", "value": "1,539.1", "change": "+2.1(보름만에 1,540원 육박·강달러)", "source": "https://www.yna.co.kr/view/AKR20260623130300002" }
+    { "name": "코스피", "value": "8,200~8,400 등락(장중)", "change": "전일 -9.99% 반등 시도·변동성 극대", "source": "https://www.hankyung.com/article/202606244430i" },
+    { "name": "코스닥", "value": "905.13(개장)", "change": "+1.53%(+13.61p·900선 회복 시도)", "source": "https://view.asiae.co.kr/article/2026062409040695222" },
+    { "name": "코스피200 변동성지수(VKOSPI)", "value": "금융위기 이후 최고", "change": "공포 극대 지속", "source": "https://www.yna.co.kr/view/AKR20260624047000008" },
+    { "name": "나스닥", "value": "반도체 투매 지속", "change": "마이크론 -13% 등 또 급락(6/23 밤)", "source": "https://www.hankyung.com/article/2026062440596" },
+    { "name": "美 6월 제조업 PMI", "value": "55.7", "change": "예상밖 깜짝 증가(공장활동 확장)", "source": "https://www.hankyung.com/article/202606233909i" },
+    { "name": "국제유가(WTI)", "value": "4개월 최저", "change": "↓ 호르무즈 긴장완화", "source": "https://www.hankyung.com/article/2026062440097" },
+    { "name": "韓 국고채 3년물", "value": "3.795%", "change": "↑ 일제히 상승(장중)", "source": "https://www.yna.co.kr/view/AKR20260624089100008" },
+    { "name": "원/달러", "value": "1,534.9(개장)", "change": "-4.2(전일 1,539.1서 소폭 진정)", "source": "https://www.yna.co.kr/view/AKR20260624035800002" }
   ]
 }
