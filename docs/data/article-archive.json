@@ -3,6 +3,12 @@
   "SK하이닉스(000660)": {
    "articles": [
     {
+     "date": "2026-06-27",
+     "source": "news.sbs.co.kr",
+     "title": "- SK하이닉스(000660): 전일 약 8% 급락 마감(반도체 투심 악화). 다만 7월 10일 나스닥 ADR 상장(최대 45조 규모) 추진 — 글로벌 몸값 재평",
+     "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008626184"
+    },
+    {
      "date": "2026-06-26",
      "source": "한국경제·증권",
      "title": "주가 조정돼도…초고수의 픽은 'SK하이닉스·삼성전자'",
@@ -540,6 +546,24 @@
   },
   "삼성전자(005930)": {
    "articles": [
+    {
+     "date": "2026-06-27",
+     "source": "한국경제·경제",
+     "title": "뚝 떨어진 삼성전자 퇴직률…男 육아휴직은 2000명 돌파",
+     "link": "https://www.hankyung.com/article/202606260798g"
+    },
+    {
+     "date": "2026-06-27",
+     "source": "한국경제·경제",
+     "title": "\"해외로 갈 반도체를 광주에서?\"…삼성전자 술렁이는 까닭",
+     "link": "https://www.hankyung.com/article/202606258672g"
+    },
+    {
+     "date": "2026-06-27",
+     "source": "한국경제·증권",
+     "title": "SK하닉 '45조' 美 상장 노리는데…삼성전자 전망에 '깜짝' [강경주의 테크X]",
+     "link": "https://www.hankyung.com/article/2026062604096"
+    },
     {
      "date": "2026-06-26",
      "source": "한국경제·증권",
@@ -2227,6 +2251,12 @@
   "한미반도체(042700)": {
    "articles": [
     {
+     "date": "2026-06-27",
+     "source": "한국경제",
+     "title": "- 한미반도체(042700): HBM 본더 대표주로 메모리 슈퍼사이클 수혜 지속 거론되나, 칩플레이션발 변동성에 노출.",
+     "link": "https://www.hankyung.com/article/202606260069i"
+    },
+    {
      "date": "2026-06-26",
      "source": "한국경제·경제",
      "title": "한미반도체, AI칩용 'FC본더 3.5' 공개…\"글로벌 파운드리·OSAT 공급\"",
@@ -3761,6 +3791,18 @@
   "LS(006260)": {
    "articles": [
     {
+     "date": "2026-06-27",
+     "source": "CNBC·Finance",
+     "title": "OpenAI is reportedly delaying its IPO. Here's when Kalshi traders think it will announce",
+     "link": "https://www.cnbc.com/2026/06/26/openai-ipo-timeline-delayed-kalshi-predictions.html"
+    },
+    {
+     "date": "2026-06-27",
+     "source": "MarketWatch",
+     "title": "Tech stocks just had one of their worst weeks in a year. Here’s how AI momentum went off the rails.",
+     "link": "https://www.marketwatch.com/story/tech-stocks-just-had-one-of-their-worst-weeks-in-a-year-heres-how-ai-momentum-went-off-the-rails-d4596bae?mod=mw_rss_topstories"
+    },
+    {
      "date": "2026-06-26",
      "source": "이데일리·경제",
      "title": "Rokit, AprilBio Hit Limit-Up...HanAll Jumps on Own Catalyst[K-Bio Pulse]",
@@ -4483,7 +4525,155 @@
      "link": "https://view.asiae.co.kr/article/2026062509085687276"
     }
    ]
+  },
+  "KB금융(105560)": {
+   "articles": [
+    {
+     "date": "2026-06-27",
+     "source": "한국경제·경제",
+     "title": "[단독] 생산적금융·IMA 모두 잡는다…KB금융, 증권에 1조 투입",
+     "link": "https://www.hankyung.com/article/202606269955i"
+    }
+   ]
+  },
+  "온세미컨덕터(ON)": {
+   "articles": [
+    {
+     "date": "2026-06-27",
+     "source": "한국경제·증권",
+     "title": "온세미컨덕터, 시냅틱스 70억달러에 인수...피지컬AI 강화",
+     "link": "https://www.hankyung.com/article/202606260461i"
+    }
+   ]
+  },
+  "시냅틱스(SYNA)": {
+   "articles": [
+    {
+     "date": "2026-06-27",
+     "source": "한국경제·증권",
+     "title": "온세미컨덕터, 시냅틱스 70억달러에 인수...피지컬AI 강화",
+     "link": "https://www.hankyung.com/article/202606260461i"
+    }
+   ]
+  },
+  "하이트진로(000080)": {
+   "articles": [
+    {
+     "date": "2026-06-27",
+     "source": "연합뉴스·경제",
+     "title": "[신상잇슈] 해태제과 '쿨에디션'·하이트진로 'K팝스타 두꺼비'",
+     "link": "https://www.yna.co.kr/view/AKR20260626145100030"
+    }
+   ]
+  },
+  "삼부토건(001470)": {
+   "articles": [
+    {
+     "date": "2026-06-27",
+     "source": "연합뉴스·경제",
+     "title": "삼부토건, 유상증자…리빌드삼부홀딩스에 제3자배정",
+     "link": "https://www.yna.co.kr/view/AKR20260626160300008"
+    },
+    {
+     "date": "2026-06-27",
+     "source": "연합뉴스·경제",
+     "title": "삼부토건, 유상증자…한국자산신탁 등에 3자 배정",
+     "link": "https://www.yna.co.kr/view/AKR20260626159400008"
+    }
+   ]
+  },
+  "휴온스(243070)": {
+   "articles": [
+    {
+     "date": "2026-06-27",
+     "source": "이데일리·경제",
+     "title": "휴온스, 휴온스생명과학 흡수합병 절차 완료",
+     "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=06008966645485656"
+    },
+    {
+     "date": "2026-06-27",
+     "source": "아시아경제",
+     "title": "휴온스, 휴온스생명과학 흡수합병 완료…의약품 사업 일원화",
+     "link": "https://view.asiae.co.kr/article/2026062618174301471"
+    }
+   ]
+  },
+  "GC녹십자(006280)": {
+   "articles": [
+    {
+     "date": "2026-06-27",
+     "source": "이데일리·경제",
+     "title": "GC녹십자, 큐레보 매각에도 주가 하락하는 이유…상승 전환 포인트는?",
+     "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=02794566645485656"
+    }
+   ]
+  },
+  "마크로젠(038290)": {
+   "articles": [
+    {
+     "date": "2026-06-27",
+     "source": "이데일리·경제",
+     "title": "마크로젠, NGS 국내 1위서 디지털헬스케어 플랫폼 기업으로 전환…'수익성은 과제'",
+     "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=02728966645485656"
+    }
+   ]
+  },
+  "CATL(300750)": {
+   "articles": [
+    {
+     "date": "2026-06-27",
+     "source": "머니투데이·증권",
+     "title": "한국 배터리주는 아직인데…최고가 새로 쓴 CATL의 이유[차이나는 중국]",
+     "link": "https://news.mt.co.kr/mtview.php?no=2025091814040379933"
+    }
+   ]
+  },
+  "크레버스(096240)": {
+   "articles": [
+    {
+     "date": "2026-06-27",
+     "source": "머니투데이·증권",
+     "title": "[더벨]크레버스-퓨리오사AI, AI 기술 활용한 사업화 공동추진 MOU 체결",
+     "link": "https://news.mt.co.kr/mtview.php?no=2025091916059630423"
+    },
+    {
+     "date": "2026-06-27",
+     "source": "머니투데이·증권",
+     "title": "크레버스, 퓨리오사AI와 교육AI 인프라 통합 업무협약 체결",
+     "link": "https://news.mt.co.kr/mtview.php?no=2025091915224839904"
+    }
+   ]
+  },
+  "HPSP(403870)": {
+   "articles": [
+    {
+     "date": "2026-06-27",
+     "source": "아시아경제",
+     "title": "크레센도PE, HPSP '직접 경영' 굳히기…이기두 대표가 키 잡았다",
+     "link": "https://view.asiae.co.kr/article/2026062613375609545"
+    }
+   ]
+  },
+  "JP모건(JPM)": {
+   "articles": [
+    {
+     "date": "2026-06-27",
+     "source": "아시아경제",
+     "title": "\"코스피 1만5000 간다…한국은 가장 선호하는 시장\" JP모건 보고서",
+     "link": "https://view.asiae.co.kr/article/2026062520423996532"
+    }
+   ]
+  },
+  "에어레인(316140)": {
+   "articles": [
+    {
+     "date": "2026-06-27",
+     "source": "아시아경제",
+     "title": "- 🌱 에어레인(316140)·소: [기체분리막] 가스코리아 2026서 분리막 모듈·시스템 공개 — 수소·CCUS 밸류체인에 막 거론 시작.",
+     "link": "https://view.asiae.co.kr/article/2026062610482341085"
+    }
+   ]
   }
  },
- "updatedAt": "2026-06-26T19:32:45+09:00"
+ "updatedAt": "2026-06-27T07:10:46+09:00"
 }

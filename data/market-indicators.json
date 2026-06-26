@@ -1,16 +1,16 @@
 {
-  "updatedAt": "2026-06-26T19:40:00+09:00",
-  "session": "PM",
-  "stock_fng": { "value": 25.5, "label": "Fear", "source": "https://www.cnn.com/markets/fear-and-greed" },
+  "updatedAt": "2026-06-27T07:20:00+09:00",
+  "session": "AM",
+  "stock_fng": { "value": 23, "label": "Extreme Fear", "source": "https://www.cnn.com/markets/fear-and-greed" },
   "indices": [
     { "name": "코스피", "value": "8,411.21", "change": "-5.81%", "source": "https://view.asiae.co.kr/article/2026062615342245007" },
     { "name": "코스닥", "value": "851.37", "change": "-4.10%", "source": "https://view.asiae.co.kr/article/2026062615344056649" },
-    { "name": "S&P 500", "value": "7,357.49", "change": "-0.01%", "source": "https://www.hankyung.com/article/2026062689366" },
-    { "name": "나스닥", "value": "25,358.60", "change": "-0.46%", "source": "https://www.hankyung.com/article/2026062689366" },
-    { "name": "VIX", "value": "18.9", "change": "+1.4%", "source": "https://fred.stlouisfed.org/series/VIXCLS" },
-    { "name": "美 10년물", "value": "4.39%", "change": "-0.23%", "source": "https://www.investing.com/rates-bonds/u.s.-10-year-bond-yield" },
-    { "name": "달러인덱스(DXY)", "value": "101.68", "change": "강세권", "source": "https://finance.yahoo.com/quote/DX-Y.NYB/" },
-    { "name": "원/달러", "value": "1,532.0", "change": "-10.7", "source": "https://www.yna.co.kr/view/AKR20260626121500002" },
-    { "name": "국고채 3년물", "value": "3.722%", "change": "혼조", "source": "https://www.yna.co.kr/view/AKR20260626138451008" }
+    { "name": "S&P 500", "value": "7,354.02", "change": "-0.05%", "source": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-june-26-2026" },
+    { "name": "나스닥", "value": "25,297.62", "change": "-0.24%", "source": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-june-26-2026" },
+    { "name": "다우", "value": "51,876.11", "change": "-0.09%", "source": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-june-26-2026" },
+    { "name": "VIX", "value": "18.89", "change": "+1.2", "source": "https://finance.yahoo.com/quote/%5EVIX/" },
+    { "name": "美 10년물", "value": "4.40%", "change": "+0.04", "source": "https://finance.yahoo.com/quote/%5ETNX/" },
+    { "name": "달러인덱스(DXY)", "value": "101.25", "change": "+0.3", "source": "https://finance.yahoo.com/quote/DX-Y.NYB/" },
+    { "name": "원/달러", "value": "1,530원대", "change": "당국개입 추정(장중 1,549)", "source": "https://view.asiae.co.kr/article/2026062617173053175" }
   ]
 }
