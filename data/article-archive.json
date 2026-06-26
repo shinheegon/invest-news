@@ -3,6 +3,48 @@
   "SK하이닉스(000660)": {
    "articles": [
     {
+     "date": "2026-06-26",
+     "source": "한국경제·증권",
+     "title": "주가 조정돼도…초고수의 픽은 'SK하이닉스·삼성전자'",
+     "link": "https://www.hankyung.com/article/202606269750i"
+    },
+    {
+     "date": "2026-06-26",
+     "source": "한국경제·증권",
+     "title": "\"SK하이닉스, 올해 내년 영업익 294조원 435조원…목표가↑\"-하나",
+     "link": "https://www.hankyung.com/article/2026062690166"
+    },
+    {
+     "date": "2026-06-26",
+     "source": "연합뉴스·경제",
+     "title": "노동부, '불소 누출 반복' SK하이닉스 등 25곳 집중점검 착수",
+     "link": "https://www.yna.co.kr/view/AKR20260626055700530"
+    },
+    {
+     "date": "2026-06-26",
+     "source": "연합뉴스·경제",
+     "title": "[특징주] 삼성전자·SK하이닉스 장 초반 2% 내외 하락 중",
+     "link": "https://www.yna.co.kr/view/AKR20260626036400008"
+    },
+    {
+     "date": "2026-06-26",
+     "source": "연합뉴스·경제",
+     "title": "하나증권, SK하이닉스 목표주가 275만원→360만원 상향",
+     "link": "https://www.yna.co.kr/view/AKR20260626022700008"
+    },
+    {
+     "date": "2026-06-26",
+     "source": "이데일리·경제",
+     "title": "SK하이닉스 신입사원 초임, 月450만원…자발적 이직률 0.5%",
+     "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=02515766645485656"
+    },
+    {
+     "date": "2026-06-26",
+     "source": "파이낸셜뉴스",
+     "title": "노동부, '불소 누출' SK하이닉스 등 반도체 사업장 집중 점검",
+     "link": "https://www.fnnews.com/news/202606261032143445"
+    },
+    {
      "date": "2026-06-25",
      "source": "아시아경제",
      "title": "“2028년까지 공급부족\"…SK하이닉스, 2분기 영업이익 63조원 예상[클릭e종목]",
@@ -468,6 +510,24 @@
   },
   "삼성전자(005930)": {
    "articles": [
+    {
+     "date": "2026-06-26",
+     "source": "한국경제·증권",
+     "title": "주가 조정돼도…초고수의 픽은 'SK하이닉스·삼성전자'",
+     "link": "https://www.hankyung.com/article/202606269750i"
+    },
+    {
+     "date": "2026-06-26",
+     "source": "연합뉴스·경제",
+     "title": "[특징주] 삼성전자·SK하이닉스 장 초반 2% 내외 하락 중",
+     "link": "https://www.yna.co.kr/view/AKR20260626036400008"
+    },
+    {
+     "date": "2026-06-26",
+     "source": "연합뉴스·경제",
+     "title": "삼성전자 감사페스티벌 기간 전국 삼성스토어 방문객 75% 증가",
+     "link": "https://www.yna.co.kr/view/AKR20260626028600003"
+    },
     {
      "date": "2026-06-25",
      "source": "한국경제·경제",
@@ -947,6 +1007,30 @@
   "애플(AAPL)": {
    "articles": [
     {
+     "date": "2026-06-26",
+     "source": "한국경제·경제",
+     "title": "애플, 맥북·아이패드 가격 20% 인상",
+     "link": "https://www.hankyung.com/article/202606269143i"
+    },
+    {
+     "date": "2026-06-26",
+     "source": "한국경제·증권",
+     "title": "'애플의 충격'…美 반도체·산업재 순환매 주목",
+     "link": "https://www.hankyung.com/article/202606268973i"
+    },
+    {
+     "date": "2026-06-26",
+     "source": "한국경제·증권",
+     "title": "주요 지수 혼조 마감…'호실적' 마이크론↑ '가격 인상' 애플↓ [뉴욕증시 브리핑]",
+     "link": "https://www.hankyung.com/article/2026062689366"
+    },
+    {
+     "date": "2026-06-26",
+     "source": "한국경제·증권",
+     "title": "\"메모리 새 시대\"에 빅테크는 울상...애플, 결국 가격 인상 [빈난새의 개장전요것만]",
+     "link": "https://www.hankyung.com/article/202606258846i"
+    },
+    {
      "date": "2026-06-21",
      "source": "연합뉴스·경제",
      "title": "삼성은 확대, 애플은 첫 출격…폴더블폰 판 바뀐다",
@@ -974,6 +1058,12 @@
   },
   "가온전선(000500)": {
    "articles": [
+    {
+     "date": "2026-06-26",
+     "source": "이데일리·경제",
+     "title": "가온전선, 글로벌 전기차 공급망 진출…600억 규모 버스덕트 공급",
+     "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=02830646645485656"
+    },
     {
      "date": "2026-06-25",
      "source": "이데일리·경제",
@@ -1152,6 +1242,12 @@
   },
   "기아(000270)": {
    "articles": [
+    {
+     "date": "2026-06-26",
+     "source": "한국경제·경제",
+     "title": "기아, 2030년까지 전기차 14종 쏟아낸다…PV5 3종 공개",
+     "link": "https://www.hankyung.com/article/202606258583g"
+    },
     {
      "date": "2026-06-24",
      "source": "한국경제·경제",
@@ -1413,6 +1509,12 @@
   "카카오(035720)": {
    "articles": [
     {
+     "date": "2026-06-26",
+     "source": "한국경제·증권",
+     "title": "새 경영진 체제 '카카오게임즈'…3000억 실탄 들고 재도약 할까",
+     "link": "https://www.hankyung.com/article/202606269818i"
+    },
+    {
      "date": "2026-06-25",
      "source": "한국경제·경제",
      "title": "카카오의 영토 확장…마스턴캐피탈 인수",
@@ -1597,6 +1699,18 @@
   "스페이스X(SPCX)": {
    "articles": [
     {
+     "date": "2026-06-26",
+     "source": "한국경제·경제",
+     "title": "IPO 직후 빚내는 스페이스X…과열 자본시장 경고음 커진다",
+     "link": "https://www.hankyung.com/article/202606269110i"
+    },
+    {
+     "date": "2026-06-26",
+     "source": "아시아경제",
+     "title": "동양, 글로벌 VC펀드 투자 성과…스페이스X·오픈AI 효과",
+     "link": "https://view.asiae.co.kr/article/2026062610311089419"
+    },
+    {
      "date": "2026-06-25",
      "source": "한국경제·경제",
      "title": "스페이스X, 공매도 늘어…유통주식 적어 '숏스퀴즈' 위험 커",
@@ -1759,6 +1873,12 @@
   "에이텀(355690)": {
    "articles": [
     {
+     "date": "2026-06-26",
+     "source": "아시아경제",
+     "title": "[클릭 e종목]\"에이텀, 현대모비스 EV 핵심 공급사 선정…MLCC 호황에 실적 개선 기대\"",
+     "link": "https://view.asiae.co.kr/article/2026062608153125668"
+    },
+    {
      "date": "2026-06-19",
      "source": "아시아경제",
      "title": "MLCC 초호황기 진입…에이텀 자회사 청한전자 공급망 부각",
@@ -1880,6 +2000,12 @@
   },
   "신세계(004170)": {
    "articles": [
+    {
+     "date": "2026-06-26",
+     "source": "파이낸셜뉴스",
+     "title": "부산시, 신세계 센텀점서 '부산 브랜드숍' 팝업 운영",
+     "link": "https://www.fnnews.com/news/202606261008580946"
+    },
     {
      "date": "2026-06-24",
      "source": "아시아경제",
@@ -2023,6 +2149,12 @@
   "한미반도체(042700)": {
    "articles": [
     {
+     "date": "2026-06-26",
+     "source": "한국경제·경제",
+     "title": "한미반도체, AI칩용 'FC본더 3.5' 공개…\"글로벌 파운드리·OSAT 공급\"",
+     "link": "https://www.hankyung.com/article/202606269486i"
+    },
+    {
      "date": "2026-06-23",
      "source": "한국경제",
      "title": "- 한미반도체(042700): HBM TC본더 대장. 반도체 동반 약세 속 1% 초고수·외국인은 조정 시 반도체 집중 매수 정황.",
@@ -2138,6 +2270,24 @@
   },
   "마이크론(MU)": {
    "articles": [
+    {
+     "date": "2026-06-26",
+     "source": "한국경제·증권",
+     "title": "메모리 사이클 5년 더? 마이크론 뛰고, '호구' 빅테크 폭락 [김현석의 월스트리트나우]",
+     "link": "https://www.hankyung.com/article/202606268994i"
+    },
+    {
+     "date": "2026-06-26",
+     "source": "한국경제·증권",
+     "title": "주요 지수 혼조 마감…'호실적' 마이크론↑ '가격 인상' 애플↓ [뉴욕증시 브리핑]",
+     "link": "https://www.hankyung.com/article/2026062689366"
+    },
+    {
+     "date": "2026-06-26",
+     "source": "한국경제·증권",
+     "title": "\"사든 안 사든 돈부터 내라\"…다음 분기 더 좋다는 마이크론 [분석+]",
+     "link": "https://www.hankyung.com/article/2026062578166"
+    },
     {
      "date": "2026-06-25",
      "source": "한국경제·경제",
@@ -2685,6 +2835,18 @@
   "롯데케미칼(011170)": {
    "articles": [
     {
+     "date": "2026-06-26",
+     "source": "한국경제·경제",
+     "title": "\"원료 설계부터 협력\"…CJ제일제당·롯데케미칼, 패키징 소재 맞손",
+     "link": "https://www.hankyung.com/article/202606269225g"
+    },
+    {
+     "date": "2026-06-26",
+     "source": "연합뉴스·경제",
+     "title": "CJ제일제당·롯데케미칼, 고기능 신규 포장재 개발 '맞손'",
+     "link": "https://www.yna.co.kr/view/AKR20260626063100030"
+    },
+    {
      "date": "2026-06-23",
      "source": "연합뉴스·경제",
      "title": "롯데케미칼 수입신용장 한도 3.5억弗 늘려…나프타 수입 '숨통'",
@@ -2837,6 +2999,12 @@
   "이니텍(053350)": {
    "articles": [
     {
+     "date": "2026-06-26",
+     "source": "아시아경제",
+     "title": "이니텍, AI 공격 대응 위한 '제로트러스트 보안 전략' 공개…N2SF 전환 시장 공략 강화",
+     "link": "https://view.asiae.co.kr/article/2026062609085582954"
+    },
+    {
      "date": "2026-06-20",
      "source": "아시아경제",
      "title": "이니텍, 하이퍼놀로지와 AI·보안 기술 협력…AX 시장 공동 공략 나선다",
@@ -2954,6 +3122,12 @@
   },
   "KT(030200)": {
    "articles": [
+    {
+     "date": "2026-06-26",
+     "source": "연합뉴스·경제",
+     "title": "IBK투자 \"SKT, 2분기 실적 추정치 부합…이익회복 국면 진입\"",
+     "link": "https://www.yna.co.kr/view/AKR20260626022400008"
+    },
     {
      "date": "2026-06-25",
      "source": "한국경제·증권",
@@ -3301,6 +3475,12 @@
   "카카오게임즈(293490)": {
    "articles": [
     {
+     "date": "2026-06-26",
+     "source": "한국경제·증권",
+     "title": "새 경영진 체제 '카카오게임즈'…3000억 실탄 들고 재도약 할까",
+     "link": "https://www.hankyung.com/article/202606269818i"
+    },
+    {
      "date": "2026-06-23",
      "source": "한국경제·증권",
      "title": "\"대체 카카오게임즈 주가 언제 올라\"…日라인야후 품에 안겨 '반전'",
@@ -3322,6 +3502,12 @@
   },
   "현대건설(000720)": {
    "articles": [
+    {
+     "date": "2026-06-26",
+     "source": "연합뉴스·경제",
+     "title": "[게시판] 현대건설, 정호영 셰프와 '디에이치 방배' 미식 서비스 선봬",
+     "link": "https://www.yna.co.kr/view/AKR20260626040400003"
+    },
     {
      "date": "2026-06-23",
      "source": "한국경제·증권",
@@ -3441,6 +3627,12 @@
   "한국전력(015760)": {
    "articles": [
     {
+     "date": "2026-06-26",
+     "source": "연합뉴스·경제",
+     "title": "[특징주] 한국전력, '하반기도 전기요금 동결' 소식에 장초반 약세",
+     "link": "https://www.yna.co.kr/view/AKR20260626041900008"
+    },
+    {
      "date": "2026-06-24",
      "source": "아시아경제",
      "title": "[클릭 e종목]\"한국전력, 중동전쟁 여파에 2분기 실적 부진 전망…목표가↓\"",
@@ -3466,6 +3658,30 @@
   },
   "LS(006260)": {
    "articles": [
+    {
+     "date": "2026-06-26",
+     "source": "이데일리·경제",
+     "title": "Rokit, AprilBio Hit Limit-Up...HanAll Jumps on Own Catalyst[K-Bio Pulse]",
+     "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=02650246645485656"
+    },
+    {
+     "date": "2026-06-26",
+     "source": "CNBC·Finance",
+     "title": "Chicago Fed President Goolsbee says inflation is too high; Williams sees price pressures easing",
+     "link": "https://www.cnbc.com/2026/06/25/chicago-fed-president-goolsbee-says-inflation-is-too-high-calls-warsh-a-serious-guy.html"
+    },
+    {
+     "date": "2026-06-26",
+     "source": "CNBC·Finance",
+     "title": "Wendy's turns lower as meme rally fails to extend to a second day",
+     "link": "https://www.cnbc.com/2026/06/25/wendys-shares-soar-for-a-second-day-as-retail-investors-pile-into-their-new-meme-darling.html"
+    },
+    {
+     "date": "2026-06-26",
+     "source": "MarketWatch",
+     "title": "A world rejecting OPEC controls could usher in oil below $50 a barrel",
+     "link": "https://www.marketwatch.com/story/a-world-rejecting-opec-controls-could-usher-in-oil-below-50-a-barrel-3d7eda1b?mod=mw_rss_topstories"
+    },
     {
      "date": "2026-06-25",
      "source": "CNBC·Finance",
@@ -3851,6 +4067,12 @@
   "현대모비스(012330)": {
    "articles": [
     {
+     "date": "2026-06-26",
+     "source": "아시아경제",
+     "title": "[클릭 e종목]\"에이텀, 현대모비스 EV 핵심 공급사 선정…MLCC 호황에 실적 개선 기대\"",
+     "link": "https://view.asiae.co.kr/article/2026062608153125668"
+    },
+    {
      "date": "2026-06-24",
      "source": "한국경제·증권",
      "title": "\"현대모비스, 로봇 양산개발 핵심축 부상…목표가↑\"-한화",
@@ -3917,6 +4139,12 @@
   "셀트리온(068270)": {
    "articles": [
     {
+     "date": "2026-06-26",
+     "source": "연합뉴스·경제",
+     "title": "셀트리온, 바이오USA서 AI·ADC 기술력 알렸다",
+     "link": "https://www.yna.co.kr/view/AKR20260626015300017"
+    },
+    {
      "date": "2026-06-25",
      "source": "한국경제·증권",
      "title": "규제 문턱 낮아지는 美 바이오시밀러 시장…셀트리온 주가 '들썩'",
@@ -3952,6 +4180,18 @@
   },
   "테슬라(TSLA)": {
    "articles": [
+    {
+     "date": "2026-06-26",
+     "source": "이데일리·경제",
+     "title": "정부 '메이드 인 코리아' 힘싣는다지만…테슬라·BYD 전기차 수혜는 못 막아",
+     "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=02309126645485656"
+    },
+    {
+     "date": "2026-06-26",
+     "source": "이데일리·경제",
+     "title": "[미리보는 이데일리 신문] 테슬라 국내1위 등극…보조금 대수술 시급",
+     "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=06369766645485328"
+    },
     {
      "date": "2026-06-25",
      "source": "한국경제·증권",
@@ -3995,7 +4235,57 @@
      "link": "https://view.asiae.co.kr/article/2026062507581263199"
     }
    ]
+  },
+  "레인보우로보틱스(277810)": {
+   "articles": [
+    {
+     "date": "2026-06-26",
+     "source": "연합뉴스·경제",
+     "title": "컴포즈커피, 레인보우로보틱스 사옥에 '로봇바리스타' 매장 개장",
+     "link": "https://www.yna.co.kr/view/AKR20260626043500030"
+    }
+   ]
+  },
+  "포스코홀딩스(005490)": {
+   "articles": [
+    {
+     "date": "2026-06-26",
+     "source": "이데일리·경제",
+     "title": "포스코홀딩스, 지속가능경영보고서 발간…ESG 공시 체계 구축",
+     "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=03289846645485656"
+    }
+   ]
+  },
+  "HMM(011200)": {
+   "articles": [
+    {
+     "date": "2026-06-26",
+     "source": "이데일리·경제",
+     "title": "HMM, 글로벌 ESG 평가서 최고 등급 획득",
+     "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=03102886645485656"
+    }
+   ]
+  },
+  "티로보틱스(117730)": {
+   "articles": [
+    {
+     "date": "2026-06-26",
+     "source": "아시아경제",
+     "title": "- 티로보틱스(117730)·소 [조기: 신규 D-0·누적 1회] · [AI데이터센터·휴머노이드] AMR — 포드에너지 ESS 레퍼런스+휴머노이드 공개.",
+     "link": "https://view.asiae.co.kr/article/2026062508022690236"
+    }
+   ]
+  },
+  "코이즈(121850)": {
+   "articles": [
+    {
+     "date": "2026-06-26",
+     "source": "아시아경제",
+     "title": "- 코이즈(121850)·소 [조기: 신규 D-0] · [2차전지] 양극재 첨가제 — 제조기술 특허 출원.",
+     "link": "https://view.asiae.co.kr/article/2026062509332372956"
+    }
+   ]
   }
  },
- "updatedAt": "2026-06-25T20:08:28+09:00"
+ "updatedAt": "2026-06-26T13:00:07+09:00"
 }
