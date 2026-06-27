@@ -9,6 +9,18 @@
      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008626184"
     },
     {
+     "date": "2026-06-27",
+     "source": "파이낸셜뉴스",
+     "title": "韓 증시 좁았던 SK하이닉스, 나스닥서 '제값' 받는다",
+     "link": "https://www.fnnews.com/news/202606261926254257"
+    },
+    {
+     "date": "2026-06-27",
+     "source": "파이낸셜뉴스",
+     "title": "- SK하이닉스(000660): 전일 -8%대 급락했으나, 7월 ADR 나스닥 상장(최대 45조) 시 약 2.3조 패시브 수급 유입 기대가 하방을 일부 상쇄. 하",
+     "link": "https://www.fnnews.com/news/202606261756389834"
+    },
+    {
      "date": "2026-06-26",
      "source": "한국경제·증권",
      "title": "주가 조정돼도…초고수의 픽은 'SK하이닉스·삼성전자'",
@@ -1085,6 +1097,18 @@
   "애플(AAPL)": {
    "articles": [
     {
+     "date": "2026-06-27",
+     "source": "한국경제·경제",
+     "title": "\"지금이 제일 싸다\"…애플 한마디에 쿠팡부터 난리 [권 기자의 장바구니]",
+     "link": "https://www.hankyung.com/article/202606271306i"
+    },
+    {
+     "date": "2026-06-27",
+     "source": "한국경제·증권",
+     "title": "'메이드 인 USA' 인텔의 화려한 부활…애플·구글 업고 주가 237% 급등",
+     "link": "https://www.hankyung.com/article/202606269994i"
+    },
+    {
      "date": "2026-06-26",
      "source": "한국경제·경제",
      "title": "애플, 맥북·아이패드 가격 20% 인상",
@@ -1379,6 +1403,12 @@
   "에이직랜드(445090)": {
    "articles": [
     {
+     "date": "2026-06-27",
+     "source": "머니투데이",
+     "title": "- 에이직랜드(445090)·소 [조기: 누적 6회·↗] · [AI ASIC 디자인하우스] 국책 정부출연금 증가로 AI반도체 설계 수요.",
+     "link": "https://news.mt.co.kr/mtview.php?no=2026062610000000001"
+    },
+    {
      "date": "2026-06-18",
      "source": "머니투데이·증권",
      "title": "[수익 내비게이터] 국책과제 정부출연금 증가 추세…AI 반도체 기술력 입증 '에이직랜드' VS 글로벌 시장 프리미엄 가전 브랜드로 경쟁력 강화 'LG전자'",
@@ -1464,6 +1494,12 @@
   },
   "엔비디아(NVDA)": {
    "articles": [
+    {
+     "date": "2026-06-27",
+     "source": "이데일리·경제",
+     "title": "전북 엔비디아, 대구 테슬라?…전문가들 \"무리수 공약\", 왜",
+     "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=02492806645485984"
+    },
     {
      "date": "2026-06-26",
      "source": "한국경제·경제",
@@ -1552,6 +1588,12 @@
   },
   "인텔(INTC)": {
    "articles": [
+    {
+     "date": "2026-06-27",
+     "source": "한국경제·증권",
+     "title": "'메이드 인 USA' 인텔의 화려한 부활…애플·구글 업고 주가 237% 급등",
+     "link": "https://www.hankyung.com/article/202606269994i"
+    },
     {
      "date": "2026-06-25",
      "source": "아시아경제",
@@ -1800,6 +1842,24 @@
   },
   "스페이스X(SPCX)": {
    "articles": [
+    {
+     "date": "2026-06-27",
+     "source": "한국경제·증권",
+     "title": "스페이스X, 내달 7일 나스닥100 편입…\"6.6조원 수급 유입될 것\"",
+     "link": "https://www.hankyung.com/article/2026062713397"
+    },
+    {
+     "date": "2026-06-27",
+     "source": "한국경제·증권",
+     "title": "스페이스X 공모가 아래로 간다(83%) Fed 금리 안 올려(54%) [김현석의 월스트리트나우]",
+     "link": "https://www.hankyung.com/article/202606271163i"
+    },
+    {
+     "date": "2026-06-27",
+     "source": "이데일리·경제",
+     "title": "서학개미 순매수 1위 스페이스X, 내달 7일 나스닥100 편입된다",
+     "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=02410806645485984"
+    },
     {
      "date": "2026-06-26",
      "source": "한국경제·경제",
@@ -2384,6 +2444,12 @@
   },
   "마이크론(MU)": {
    "articles": [
+    {
+     "date": "2026-06-27",
+     "source": "한국경제·증권",
+     "title": "나스닥 5거래일째 하락…마이크론 6.69%↓ [뉴욕증시 브리핑]",
+     "link": "https://www.hankyung.com/article/2026062711497"
+    },
     {
      "date": "2026-06-26",
      "source": "한국경제·증권",
@@ -3661,6 +3727,12 @@
   "DL이앤씨(375500)": {
    "articles": [
     {
+     "date": "2026-06-27",
+     "source": "연합뉴스·경제",
+     "title": "DL이앤씨, 1.3조원 규모 목동6단지 재건축 시공사 선정",
+     "link": "https://www.yna.co.kr/view/AKR20260627041700003"
+    },
+    {
      "date": "2026-06-24",
      "source": "아시아경제",
      "title": "\"DL이앤씨, 사우디발 8500억 세금폭탄…오히려 매수 기회\"[클릭 e종목]",
@@ -3984,6 +4056,12 @@
   },
   "네온테크(306620)": {
    "articles": [
+    {
+     "date": "2026-06-27",
+     "source": "thebell.co.kr",
+     "title": "- 네온테크(306620)·소 [조기: 첫등장 D-4·누적 3회·↗] · [반도체 본딩장비] 150억 BW로 캐파·신성장 투트랙.",
+     "link": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202606260001"
+    },
     {
      "date": "2026-06-23",
      "source": "머니투데이",
@@ -4331,6 +4409,12 @@
   "테슬라(TSLA)": {
    "articles": [
     {
+     "date": "2026-06-27",
+     "source": "이데일리·경제",
+     "title": "전북 엔비디아, 대구 테슬라?…전문가들 \"무리수 공약\", 왜",
+     "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=02492806645485984"
+    },
+    {
      "date": "2026-06-26",
      "source": "이데일리·경제",
      "title": "정부 '메이드 인 코리아' 힘싣는다지만…테슬라·BYD 전기차 수혜는 못 막아",
@@ -4673,7 +4757,65 @@
      "link": "https://view.asiae.co.kr/article/2026062610482341085"
     }
    ]
+  },
+  "KB증권": {
+   "articles": [
+    {
+     "date": "2026-06-27",
+     "source": "한국경제·경제",
+     "title": "KB증권, 1조 규모 유상증자",
+     "link": "https://www.hankyung.com/article/2026062607901"
+    },
+    {
+     "date": "2026-06-27",
+     "source": "연합뉴스·경제",
+     "title": "KB증권, 1조원 주주배정 유상증자…\"IMA 등 미래 성장사업\"",
+     "link": "https://www.yna.co.kr/view/AKR20260626134351008"
+    },
+    {
+     "date": "2026-06-27",
+     "source": "연합뉴스·경제",
+     "title": "KB증권, 1조원 주주배정 유상증자 결정",
+     "link": "https://www.yna.co.kr/view/AKR20260626134300008"
+    },
+    {
+     "date": "2026-06-27",
+     "source": "아시아경제",
+     "title": "KB증권, 1조원 규모 주주배정 유상증자…IMA 진출 기반 마련",
+     "link": "https://view.asiae.co.kr/article/2026062617352993151"
+    }
+   ]
+  },
+  "소노인터내셔널": {
+   "articles": [
+    {
+     "date": "2026-06-27",
+     "source": "연합뉴스·경제",
+     "title": "'휴양콘도 운영업' 소노인터내셔널, 코스피 상장예비심사 신청",
+     "link": "https://www.yna.co.kr/view/AKR20260626155700008"
+    }
+   ]
+  },
+  "오스코텍(039200)": {
+   "articles": [
+    {
+     "date": "2026-06-27",
+     "source": "이데일리·경제",
+     "title": "김남규 라데팡스 대표 “오스코텍, SI·지분참여 등 모든 가능성 열어뒀다”",
+     "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=02689606645485656"
+    }
+   ]
+  },
+  "부강테크(279960)": {
+   "articles": [
+    {
+     "date": "2026-06-27",
+     "source": "연합뉴스",
+     "title": "- 부강테크(279960)·소 [조기: 첫등장 D-0·누적 1회·신규] · [배터리/수처리] 베올리아와 MOU로 배터리 수처리 신시장 진입.",
+     "link": "https://www.yna.co.kr/view/AKR20260626000000004"
+    }
+   ]
   }
  },
- "updatedAt": "2026-06-27T07:10:46+09:00"
+ "updatedAt": "2026-06-27T20:27:23+09:00"
 }
