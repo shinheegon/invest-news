@@ -3,6 +3,12 @@
   "SK하이닉스(000660)": {
    "articles": [
     {
+     "date": "2026-06-28",
+     "source": "한국경제",
+     "title": "- SK하이닉스(000660): 美 나스닥 상장 추진 — 상장 시 약 2.3조원 패시브 수급 유입 기대, ADR이 美 반도체 ETF 편입 예정. 협력사 소부장 밸",
+     "link": "https://www.hankyung.com/article/202606260039i"
+    },
+    {
      "date": "2026-06-27",
      "source": "news.sbs.co.kr",
      "title": "- SK하이닉스(000660): 전일 약 8% 급락 마감(반도체 투심 악화). 다만 7월 10일 나스닥 ADR 상장(최대 45조 규모) 추진 — 글로벌 몸값 재평",
@@ -1097,6 +1103,12 @@
   "애플(AAPL)": {
    "articles": [
     {
+     "date": "2026-06-28",
+     "source": "연합뉴스·경제",
+     "title": "애플도 올렸다…IT기기 '가격 인상' 도미노 시작되나",
+     "link": "https://www.yna.co.kr/view/AKR20260626131400017"
+    },
+    {
      "date": "2026-06-27",
      "source": "한국경제·경제",
      "title": "\"지금이 제일 싸다\"…애플 한마디에 쿠팡부터 난리 [권 기자의 장바구니]",
@@ -1653,6 +1665,12 @@
   "카카오(035720)": {
    "articles": [
     {
+     "date": "2026-06-28",
+     "source": "연합뉴스·경제",
+     "title": "카카오 기프티콘 환불 바뀐다…5만원 넘으면 95%",
+     "link": "https://www.yna.co.kr/view/AKR20260626141900017"
+    },
+    {
      "date": "2026-06-26",
      "source": "한국경제·증권",
      "title": "새 경영진 체제 '카카오게임즈'…3000억 실탄 들고 재도약 할까",
@@ -1842,6 +1860,12 @@
   },
   "스페이스X(SPCX)": {
    "articles": [
+    {
+     "date": "2026-06-28",
+     "source": "한국경제·증권",
+     "title": "스페이스X 팔고 '이것' 1조원치 담았다…개미들 '태세 전환'",
+     "link": "https://www.hankyung.com/article/2026062817127"
+    },
     {
      "date": "2026-06-27",
      "source": "한국경제·증권",
@@ -2310,6 +2334,12 @@
   },
   "한미반도체(042700)": {
    "articles": [
+    {
+     "date": "2026-06-28",
+     "source": "한국경제",
+     "title": "- 한미반도체(042700): HBM 검사·본딩 장비 핵심 공급사로 메모리 사이클의 직접 수혜 라인. (관련 테마 지속 거론)",
+     "link": "https://www.hankyung.com/article/2026062607851"
+    },
     {
      "date": "2026-06-27",
      "source": "한국경제",
@@ -3471,6 +3501,12 @@
   "LG전자(066570)": {
    "articles": [
     {
+     "date": "2026-06-28",
+     "source": "연합뉴스·경제",
+     "title": "LG전자, 미국 컨슈머리포트 세탁기·빌트인 냉장고 부문 석권",
+     "link": "https://www.yna.co.kr/view/AKR20260626153400003"
+    },
+    {
      "date": "2026-06-26",
      "source": "한국경제·경제",
      "title": "LG전자 \"엔비디아 만나 피지컬AI 협력 구체화\"",
@@ -3862,6 +3898,12 @@
   },
   "LS(006260)": {
    "articles": [
+    {
+     "date": "2026-06-28",
+     "source": "MarketWatch",
+     "title": "Americans’ 401(k) balances hit record levels last year. See how you compare.",
+     "link": "https://www.marketwatch.com/story/americans-401-k-balances-hit-record-levels-last-year-see-how-you-compare-facd32c4?mod=mw_rss_topstories"
+    },
     {
      "date": "2026-06-27",
      "source": "CNBC·Finance",
@@ -4475,6 +4517,12 @@
   "ISC(095340)": {
    "articles": [
     {
+     "date": "2026-06-28",
+     "source": "MarketWatch",
+     "title": "Discounted bond funds, especially at scandal-hit Wamco, may offer an investment opportunity",
+     "link": "https://www.marketwatch.com/story/discounted-bond-funds-especially-at-scandal-hit-wamco-may-offer-an-investment-opportunity-2afa77e8?mod=mw_rss_topstories"
+    },
+    {
      "date": "2026-06-25",
      "source": "아시아경제",
      "title": "스카이인텔리전스, 엔비디아 초청으로 세계 최대 규모 CISCE 국제 박람회 참가",
@@ -4815,7 +4863,91 @@
      "link": "https://www.yna.co.kr/view/AKR20260626000000004"
     }
    ]
+  },
+  "옵트론텍(082210)": {
+   "articles": [
+    {
+     "date": "2026-06-28",
+     "source": "연합뉴스·경제",
+     "title": "옵트론텍 \"계열사 OPTRONTEC에 77억원 출자\"",
+     "link": "https://www.yna.co.kr/view/AKR20260626097000008"
+    }
+   ]
+  },
+  "스마트레이더시스템(424960)": {
+   "articles": [
+    {
+     "date": "2026-06-28",
+     "source": "머니투데이·증권",
+     "title": "[주식민원처리반 2부] 스마트레이더시스템 vs 파크시스템스, 매매 포인트는?",
+     "link": "https://news.mt.co.kr/mtview.php?no=2025092008567046660"
+    }
+   ]
+  },
+  "셀리드(299660)": {
+   "articles": [
+    {
+     "date": "2026-06-28",
+     "source": "이데일리·경제",
+     "title": "[임상 업데이트] 셀리드, 코로나19 백신 3상 1차 평가지표 기준 미충족",
+     "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=02545286645485984"
+    },
+    {
+     "date": "2026-06-28",
+     "source": "이데일리·경제",
+     "title": "셀리드, 코로나19 백신 3상 ‘실패’…\"결과 보완할 추가 임상시험 설계 검토\"",
+     "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=05831846645485656"
+    }
+   ]
+  },
+  "이지트로닉스(382480)": {
+   "articles": [
+    {
+     "date": "2026-06-28",
+     "source": "머니투데이·증권",
+     "title": "[더벨][이지트로닉스 줌인]인도·중국 해외사업 성과 '관건'",
+     "link": "https://news.mt.co.kr/mtview.php?no=2025091914269635807"
+    },
+    {
+     "date": "2026-06-28",
+     "source": "머니투데이·증권",
+     "title": "[더벨][이지트로닉스 줌인]SKT 해킹사태 여파, 통신 매출 '뚝'",
+     "link": "https://news.mt.co.kr/mtview.php?no=2025091914269652580"
+    },
+    {
+     "date": "2026-06-28",
+     "source": "머니투데이·증권",
+     "title": "[더벨][이지트로닉스 줌인]2022년 상장 후 최대 손실 \"내년 BEP 목표\"",
+     "link": "https://news.mt.co.kr/mtview.php?no=2025091914269684619"
+    },
+    {
+     "date": "2026-06-28",
+     "source": "아시아경제",
+     "title": "이지트로닉스, 강민경 신임 대표이사 선임…미래 성장사업 확대",
+     "link": "https://view.asiae.co.kr/article/2026062514472928812"
+    }
+   ]
+  },
+  "코리아써키트(007810)": {
+   "articles": [
+    {
+     "date": "2026-06-28",
+     "source": "머니투데이·증권",
+     "title": "[고래사냥] 'LG전자, PS일렉트로닉스, 코리아써키트, 휴네시온!' 오늘 장 궁금종목 분석",
+     "link": "https://news.mt.co.kr/mtview.php?no=2025091905477046322"
+    }
+   ]
+  },
+  "소마젠(950200)": {
+   "articles": [
+    {
+     "date": "2026-06-28",
+     "source": "아시아경제",
+     "title": "소마젠, 美 뉴욕주 보건부 '임상 검사실 인증' 획득…글로벌 유전체 분석 경쟁력 입증",
+     "link": "https://view.asiae.co.kr/article/2026062513541063601"
+    }
+   ]
   }
  },
- "updatedAt": "2026-06-27T20:27:23+09:00"
+ "updatedAt": "2026-06-28T09:31:05+09:00"
 }
