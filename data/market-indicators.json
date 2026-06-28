@@ -1,16 +1,18 @@
 {
-  "updatedAt": "2026-06-28T12:50:00+09:00",
-  "session": "AM",
+  "updatedAt": "2026-06-28T19:35:00+09:00",
+  "session": "PM",
+  "note": "6/28(일) 휴장 — 코스피·코스닥·환율은 직전 거래일(6/26) 마감치, 美 지수는 직전 거래일 종가 기준.",
   "stock_fng": { "value": 23, "label": "Extreme Fear", "source": "https://www.cnn.com/markets/fear-and-greed" },
   "indices": [
     { "name": "코스피", "value": "8,411.21", "change": "-5.81%(직전 거래일)", "source": "https://www.hankyung.com/article/2026062602766" },
-    { "name": "코스닥", "value": "851.37", "change": "-4.10%(직전 거래일)", "source": "https://www.hankyung.com/article/202606260246i" },
+    { "name": "코스닥", "value": "851.37", "change": "-4.10%(직전 거래일)", "source": "https://www.hankyung.com/article/2026062608191" },
     { "name": "S&P 500", "value": "7,354.02", "change": "-0.05%", "source": "https://www.cnbc.com/2026/06/25/pce-inflation-report-may-2026-.html" },
     { "name": "나스닥", "value": "25,297.62", "change": "-0.24%(5거래일째 하락)", "source": "https://www.cnbc.com/2026/06/24/micron-mu-earnings-report-q3-2026.html" },
     { "name": "다우", "value": "51,876.11", "change": "-0.09%", "source": "https://www.cnbc.com/markets/" },
-    { "name": "VIX", "value": "18.89", "change": "사상 최고치권", "source": "https://finance.yahoo.com/quote/%5EVIX/" },
-    { "name": "美 10년물", "value": "4.39%", "change": "-0.07(주간)", "source": "https://www.cnbc.com/quotes/US10Y" },
-    { "name": "달러인덱스(DXY)", "value": "101.25", "change": "+0.3", "source": "https://finance.yahoo.com/quote/DX-Y.NYB/" },
-    { "name": "원/달러", "value": "1,532.0원", "change": "장중 1,549 찍고 -17원(당국개입 추정)", "source": "https://www.hankyung.com/article/2026062606157" }
+    { "name": "VIX", "value": "18.89", "change": "상승권", "source": "https://finance.yahoo.com/quote/%5EVIX/" },
+    { "name": "韓 VKOSPI", "value": "사상 최고치권", "change": "급등", "source": "https://www.hankyung.com/article/2026062607921" },
+    { "name": "美 10년물", "value": "4.39%", "change": "고공행진", "source": "https://www.hankyung.com/article/202606282206i" },
+    { "name": "WTI", "value": "70달러 아래", "change": "공급우려 해소 급락", "source": "https://www.yna.co.kr/view/AKR20260627004900072" },
+    { "name": "원/달러", "value": "1,532.0원", "change": "5일연속 상승(장중 1,549 터치)", "source": "https://www.hankyung.com/article/2026062606157" }
   ]
 }
