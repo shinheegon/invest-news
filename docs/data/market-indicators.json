@@ -1,19 +1,15 @@
 {
-  "updatedAt": "2026-06-29T19:20:00+09:00",
-  "session": "PM",
-  "note": "한국장 마감(6/29) 기준 — 코스피 약보합·코스닥 8% 폭등(역대 2위), 외국인 코스피 7.7조 역대최대 순매도. 美 지수·금리·VIX·DXY는 직전 거래일(6/26) 종가 및 6/29 장전 기준. 美 6/29 본장은 한국시간 밤 개장 예정.",
+  "updatedAt": "2026-06-30T07:25:00+09:00",
+  "session": "AM",
+  "note": "밤사이 美 본장(6/29) 마감 기준 — 다우 첫 52,000 돌파(알파벳 다우 편입), S&P500 +1.18%·나스닥 +2.07% 빅테크 안도 랠리. 韓 지수·환율은 6/29 한국장 마감 기준.",
   "stock_fng": { "value": 25, "label": "Fear", "source": "https://www.cnn.com/markets/fear-and-greed" },
   "indices": [
+    { "name": "S&P 500", "value": "7,440.43", "change": "+1.18%(6/29)", "source": "https://finance.yahoo.com/markets/stocks/live/stock-market-today-monday-june-29-224230573.html" },
+    { "name": "나스닥", "value": "25,820.14", "change": "+2.07%(6/29)", "source": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-june-29-2026" },
+    { "name": "다우", "value": "52,182.74", "change": "+0.59%(첫 52,000 돌파)", "source": "https://finance.yahoo.com/markets/stocks/live/stock-market-today-monday-june-29-224230573.html" },
     { "name": "코스피", "value": "8,394.65", "change": "-0.20%(6/29 마감)", "source": "https://www.hankyung.com/article/2026062943266" },
     { "name": "코스닥", "value": "920.57", "change": "+8.13%(6/29, 역대 2위)", "source": "https://www.yna.co.kr/view/AKR20260629080451008" },
-    { "name": "S&P 500", "value": "7,354.02", "change": "-0.05%(6/26)", "source": "https://www.cnbc.com/2026/06/25/pce-inflation-report-may-2026-.html" },
-    { "name": "나스닥", "value": "25,297.62", "change": "기술주 약세 지속(6/26)", "source": "https://www.hankyung.com/article/2026062711497" },
-    { "name": "다우", "value": "51,876.11", "change": "-0.09%(6/26)", "source": "https://www.cnbc.com/markets/" },
-    { "name": "VIX", "value": "18.41", "change": "-2.54%(6/26)", "source": "https://finance.yahoo.com/quote/%5EVIX/" },
-    { "name": "韓 VKOSPI", "value": "종가 역대 최고치 경신", "change": "또 급등", "source": "https://www.yna.co.kr/view/AKR20260629052151008" },
-    { "name": "美 10년물", "value": "4.39%", "change": "고공행진(인하기대 후퇴)", "source": "https://www.investing.com/rates-bonds/u.s.-10-year-bond-yield" },
-    { "name": "달러인덱스(DXY)", "value": "101.37", "change": "+0.01%", "source": "https://finance.yahoo.com/quote/DX-Y.NYB/" },
-    { "name": "국고채 3년물", "value": "3.733%", "change": "환율급등에 일제히 상승", "source": "https://www.yna.co.kr/view/AKR20260629138751008" },
-    { "name": "원/달러", "value": "1,545.20원", "change": "+13.2원(금융위기 후 최고)", "source": "https://www.yna.co.kr/view/AKR20260629120000002" }
+    { "name": "美 10년물", "value": "4.39%", "change": "-0.07%p(주간, in-line PCE)", "source": "https://tradingeconomics.com/united-states/government-bond-yield" },
+    { "name": "원/달러", "value": "1,545.20원", "change": "+13.2원(금융위기 후 최고)", "source": "https://www.mt.co.kr/economy/2026/06/29/2026062916190149329" }
   ]
 }
