@@ -1,15 +1,16 @@
 {
-  "updatedAt": "2026-06-30T07:25:00+09:00",
-  "session": "AM",
-  "note": "밤사이 美 본장(6/29) 마감 기준 — 다우 첫 52,000 돌파(알파벳 다우 편입), S&P500 +1.18%·나스닥 +2.07% 빅테크 안도 랠리. 韓 지수·환율은 6/29 한국장 마감 기준.",
+  "updatedAt": "2026-06-30T19:50:00+09:00",
+  "session": "PM",
+  "note": "韓 6/30 마감 — 코스피 +0.97%(반도체 반등, 기관 3.09조 순매수)·코스닥 -0.48%(2차전지·바이오 차익실현). 외국인 코스피 -3.66조 순매도 지속, 원/달러 1,549.4원(장중 1,550원 터치, 엔화 40년 최저). 美 지수는 6/29 본장 마감 기준(다우 첫 52,000 돌파).",
   "stock_fng": { "value": 25, "label": "Fear", "source": "https://www.cnn.com/markets/fear-and-greed" },
   "indices": [
+    { "name": "코스피", "value": "8,476.48", "change": "+0.97%(6/30 마감)", "source": "https://view.asiae.co.kr/article/2026063015365018549" },
+    { "name": "코스닥", "value": "916.18", "change": "-0.48%(6/30 마감)", "source": "https://view.asiae.co.kr/article/2026063015371222106" },
     { "name": "S&P 500", "value": "7,440.43", "change": "+1.18%(6/29)", "source": "https://finance.yahoo.com/markets/stocks/live/stock-market-today-monday-june-29-224230573.html" },
     { "name": "나스닥", "value": "25,820.14", "change": "+2.07%(6/29)", "source": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-june-29-2026" },
-    { "name": "다우", "value": "52,182.74", "change": "+0.59%(첫 52,000 돌파)", "source": "https://finance.yahoo.com/markets/stocks/live/stock-market-today-monday-june-29-224230573.html" },
-    { "name": "코스피", "value": "8,394.65", "change": "-0.20%(6/29 마감)", "source": "https://www.hankyung.com/article/2026062943266" },
-    { "name": "코스닥", "value": "920.57", "change": "+8.13%(6/29, 역대 2위)", "source": "https://www.yna.co.kr/view/AKR20260629080451008" },
-    { "name": "美 10년물", "value": "4.39%", "change": "-0.07%p(주간, in-line PCE)", "source": "https://tradingeconomics.com/united-states/government-bond-yield" },
-    { "name": "원/달러", "value": "1,545.20원", "change": "+13.2원(금융위기 후 최고)", "source": "https://www.mt.co.kr/economy/2026/06/29/2026062916190149329" }
+    { "name": "다우", "value": "52,182.74", "change": "+0.59%(6/29, 첫 52,000 돌파)", "source": "https://finance.yahoo.com/markets/stocks/live/stock-market-today-monday-june-29-224230573.html" },
+    { "name": "美 10년물", "value": "4.39%", "change": "-0.07%p(주간)", "source": "https://tradingeconomics.com/united-states/government-bond-yield" },
+    { "name": "韓 국고채 3년", "value": "3.703%", "change": "하락(외국인 순매수)", "source": "https://www.yna.co.kr/view/AKR20260630159051008" },
+    { "name": "원/달러", "value": "1,549.4원", "change": "+4.2원(장중 1,550원 터치)", "source": "https://view.asiae.co.kr/article/2026063015344807988" }
   ]
 }
