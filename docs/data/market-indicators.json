@@ -1,16 +1,16 @@
 {
-  "updatedAt": "2026-07-01T13:20:00+09:00",
-  "session": "AM",
-  "note": "美 6/30 상반기(2Q) 6년 만의 최대 상승·다우/S&P/나스닥 사상 최고치 마감('한국서 미중 정상회담' 훈풍+기술주). 단 5월 코어 PCE 3.4%(3년 최고)·연준 매파(카시카리 '연내 인상')로 금리인하 기대는 후퇴. 韓 7/1 개장 +1.36%(8,591) 상승 출발, 6월 수출 첫 1,000억달러·무역흑자 첫 300억달러 돌파 호재. 원/달러 1,551.9원(달러 강세·엔화 40년 최저).",
+  "updatedAt": "2026-07-01T19:00:00+09:00",
+  "session": "PM",
+  "note": "韓 7/1 반전 마감: 개장 +1.55%(장중 8,608 사상최고)에서 외국인 9거래일 연속 순매도(반도체 급락)로 코스피 -2.04%(8,303.41) 하락 마감. 코스닥은 중소형 강세로 +1.44%(929.35) 디커플링. 원/달러 1,555원 근접(금융위기 이후 최고 재경신). 밤사이 美는 6/30 상반기 사상최고 마감(S&P 7,499·나스닥 26,214·다우 첫 52,000선 돌파). 6월 수출 첫 1,000억달러·반도체 448억달러 호재에도 환율·외인 수급이 상단 억제.",
   "stock_fng": { "value": 27, "label": "Fear", "source": "https://www.cnn.com/markets/fear-and-greed" },
   "indices": [
-    { "name": "코스피", "value": "8,591.50", "change": "+1.36%(7/1 개장)", "source": "https://www.hankyung.com/article/2026070183906" },
-    { "name": "코스닥", "value": "924.09", "change": "+0.86%(7/1 개장)", "source": "https://view.asiae.co.kr/article/2026070109032489877" },
-    { "name": "S&P 500", "value": "사상 최고", "change": "상반기 6년 만 최대 상승(6/30 마감)", "source": "https://www.hankyung.com/article/2026070179926" },
-    { "name": "나스닥", "value": "사상 최고", "change": "기술주 주도 상승(6/30 마감)", "source": "https://www.hankyung.com/article/202607018028i" },
-    { "name": "다우", "value": "사상 최고", "change": "반기 마지막 날 상승(6/30)", "source": "https://www.hankyung.com/article/202606307816i" },
+    { "name": "코스피", "value": "8,303.41", "change": "-2.04%(-173.07, 7/1 마감)", "source": "https://view.asiae.co.kr/article/2026070115342008667" },
+    { "name": "코스닥", "value": "929.35", "change": "+1.44%(+13.17, 7/1 마감)", "source": "https://view.asiae.co.kr/article/2026070115344718942" },
+    { "name": "S&P 500", "value": "7,499.36", "change": "+0.79%(6/30 마감·상반기 +9.6%)", "source": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-june-30-2026" },
+    { "name": "나스닥", "value": "26,213.72", "change": "+1.52%(6/30·상반기 +12%)", "source": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-june-30-2026" },
+    { "name": "다우", "value": "52,319.20", "change": "+0.26%(6/30·첫 52,000선 돌파)", "source": "https://finance.yahoo.com/markets/stocks/live/stock-market-today-monday-june-29-224230573.html" },
     { "name": "美 10년물", "value": "4.44%", "change": "코어 PCE 3.4%·연준 매파", "source": "https://tradingeconomics.com/united-states/government-bond-yield" },
-    { "name": "달러인덱스(DXY)", "value": "101.5+", "change": "1년 만 최고권(6월 +2.5%)", "source": "https://www.fxstreet.com/news/united-states-dollar-index-holds-above-10150-ahead-of-us-pce-inflation-202606250730" },
-    { "name": "원/달러", "value": "1,551.9원", "change": "+2.5원(달러 강세·엔저)", "source": "https://www.yna.co.kr/view/AKR20260701043700002" }
+    { "name": "달러인덱스(DXY)", "value": "101.5+", "change": "1년 만 최고권", "source": "https://www.marketwatch.com/investing/index/dxy" },
+    { "name": "원/달러", "value": "1,555원 근접", "change": "금융위기 이후 최고 재경신", "source": "https://view.asiae.co.kr/article/2026070117130401032" }
   ]
 }
