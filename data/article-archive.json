@@ -33,6 +33,24 @@
      "link": "https://view.asiae.co.kr/article/2026070109005996390"
     },
     {
+     "date": "2026-07-01",
+     "source": "연합뉴스·경제",
+     "title": "정부 \"삼성전자·SK하이닉스 '성과급 백지화 공문설' 허위\"(종합)",
+     "link": "https://www.yna.co.kr/view/AKR20260701045151530"
+    },
+    {
+     "date": "2026-07-01",
+     "source": "연합뉴스·경제",
+     "title": "SK하이닉스, 메가프로젝트 반영 증권신고서 정정…투자위험 추가",
+     "link": "https://www.yna.co.kr/view/AKR20260701062000003"
+    },
+    {
+     "date": "2026-07-01",
+     "source": "한국경제",
+     "title": "- SK하이닉스(000660): 메모리 양대 축, 반도체 수출 사상 최고의 직접 수혜. 메가프로젝트 증권신고서 정정(투자위험 추가)은 확인 필요.",
+     "link": "https://www.hankyung.com/article/2026070183457"
+    },
+    {
      "date": "2026-06-30",
      "source": "연합뉴스",
      "title": "- SK하이닉스(000660): SK 2,100조 AI·반도체 베팅 핵심. 마이크론 'AI 파티 계속'·HBM 호황 지속 코멘트가 우호.",
@@ -703,6 +721,12 @@
      "link": "https://view.asiae.co.kr/article/2026070109005996390"
     },
     {
+     "date": "2026-07-01",
+     "source": "연합뉴스·경제",
+     "title": "정부 \"삼성전자·SK하이닉스 '성과급 백지화 공문설' 허위\"(종합)",
+     "link": "https://www.yna.co.kr/view/AKR20260701045151530"
+    },
+    {
      "date": "2026-06-30",
      "source": "한국경제",
      "title": "- 삼성전자(005930): 전일 -4.86% '셀온뉴스' 이후, 밤사이 美 반도체 랠리(SMH +3%)로 오늘 반등 시도 가능. 2,655조 국내투자 모멘텀 유",
@@ -1173,6 +1197,12 @@
      "source": "이데일리·경제",
      "title": "현대차 '썸머 페스타' 프로모션…싼타페 최대 400만원 할인",
      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=02935606645510256"
+    },
+    {
+     "date": "2026-07-01",
+     "source": "연합뉴스·경제",
+     "title": "김재준 군산시장 취임…\"현대차 9조 투자, 군산의 성장으로\"",
+     "link": "https://www.yna.co.kr/view/AKR20260701079700055"
     },
     {
      "date": "2026-06-30",
@@ -2881,6 +2911,12 @@
   "한미반도체(042700)": {
    "articles": [
     {
+     "date": "2026-07-01",
+     "source": "한국경제",
+     "title": "- 한미반도체(042700): HBM TC본더 핵심 공급사, 후공정 소부장 랠리 지속선(누적 발굴 상위 유지).",
+     "link": "https://www.hankyung.com/article/2026070180946"
+    },
+    {
      "date": "2026-06-30",
      "source": "한국경제",
      "title": "- 한미반도체(042700): HBM TC본더 핵심 공급사. 충청 HBM 패키징 거점화로 후공정 수혜 라인 유지.",
@@ -3912,6 +3948,12 @@
   },
   "대신증권(003540)": {
    "articles": [
+    {
+     "date": "2026-07-01",
+     "source": "아시아경제",
+     "title": "진승욱 대신증권 대표, '청소년 불법도박 근절 캠페인' 동참",
+     "link": "https://view.asiae.co.kr/article/2026070110442454306"
+    },
     {
      "date": "2026-06-22",
      "source": "아시아경제",
@@ -5215,6 +5257,12 @@
      "link": "https://www.yna.co.kr/view/AKR20260701034000002"
     },
     {
+     "date": "2026-07-01",
+     "source": "연합뉴스·경제",
+     "title": "경남은행·농협은행, 경남 외국인 유학생에 맞춤형 금융지원",
+     "link": "https://www.yna.co.kr/view/AKR20260701096700052"
+    },
+    {
      "date": "2026-06-30",
      "source": "연합뉴스·경제",
      "title": "[게시판] NH농협은행, 철강 구매기업에 공급망 금융 서비스",
@@ -5273,6 +5321,12 @@
   "테슬라(TSLA)": {
    "articles": [
     {
+     "date": "2026-07-01",
+     "source": "아시아경제",
+     "title": "\"테슬라 모델Y 매주 쏜다\" 신한투자증권, SOL LINK계좌 출시 이벤트",
+     "link": "https://view.asiae.co.kr/article/2026070110420340602"
+    },
+    {
      "date": "2026-06-30",
      "source": "한국경제·증권",
      "title": "\"테슬라 팔고 갈아탑니다\"…100억 부자들 몰려든 곳이",
@@ -5324,6 +5378,18 @@
   },
   "롯데칠성(005300)": {
    "articles": [
+    {
+     "date": "2026-07-01",
+     "source": "한국경제·경제",
+     "title": "롯데칠성, '핫식스' 디자인 재단장…\"브랜드 정체성 강화\"",
+     "link": "https://www.hankyung.com/article/202607018430g"
+    },
+    {
+     "date": "2026-07-01",
+     "source": "연합뉴스·경제",
+     "title": "[게시판] 롯데칠성음료, 에너지음료 '핫식스' 패키지 3년 만에 새단장",
+     "link": "https://www.yna.co.kr/view/AKR20260701067000030"
+    },
     {
      "date": "2026-06-25",
      "source": "연합뉴스·경제",
@@ -5560,6 +5626,12 @@
   },
   "하이트진로(000080)": {
    "articles": [
+    {
+     "date": "2026-07-01",
+     "source": "한국경제·경제",
+     "title": "하이트진로, 이번엔 '25% 칼로리 다운'…\"더 순하고 가볍게\"",
+     "link": "https://www.hankyung.com/article/202607018998g"
+    },
     {
      "date": "2026-06-27",
      "source": "연합뉴스·경제",
@@ -6021,6 +6093,12 @@
      "link": "https://www.hankyung.com/article/2026070180926"
     },
     {
+     "date": "2026-07-01",
+     "source": "한국경제·증권",
+     "title": "그룹사 1.2조 유증에 8% 떨어진 에코프로…초고수는 '줍줍'",
+     "link": "https://www.hankyung.com/article/202607018473i"
+    },
+    {
      "date": "2026-06-30",
      "source": "한국경제·경제",
      "title": "에코프로, 인니 니켈 제련소 프로젝트에 1.5조 투자",
@@ -6295,6 +6373,36 @@
      "source": "아시아경제",
      "title": "유진투자증권, '삼성전자 vs SK하이닉스' 수익률 경쟁 이벤트 진행",
      "link": "https://view.asiae.co.kr/article/2026070109005996390"
+    },
+    {
+     "date": "2026-07-01",
+     "source": "한국경제·경제",
+     "title": "삼성·SK 4755조원 투자…건설부터 소부장까지 '일자리 파급' 주목",
+     "link": "https://www.hankyung.com/article/2026070182967"
+    },
+    {
+     "date": "2026-07-01",
+     "source": "연합뉴스·경제",
+     "title": "SK, 글로벌 투자사 KKR 손잡고 국내최대 신재생에너지 기업 출범",
+     "link": "https://www.yna.co.kr/view/AKR20260701087900003"
+    },
+    {
+     "date": "2026-07-01",
+     "source": "연합뉴스·경제",
+     "title": "정부 \"삼성전자·SK하이닉스 '성과급 백지화 공문설' 허위\"(종합)",
+     "link": "https://www.yna.co.kr/view/AKR20260701045151530"
+    },
+    {
+     "date": "2026-07-01",
+     "source": "연합뉴스·경제",
+     "title": "SK하이닉스, 메가프로젝트 반영 증권신고서 정정…투자위험 추가",
+     "link": "https://www.yna.co.kr/view/AKR20260701062000003"
+    },
+    {
+     "date": "2026-07-01",
+     "source": "아시아경제",
+     "title": "KKR, SK와 국내 최대 재생에너지 플랫폼 본계약 체결",
+     "link": "https://view.asiae.co.kr/article/2026070111283177081"
     }
    ]
   },
@@ -6365,6 +6473,12 @@
      "source": "한국경제·증권",
      "title": "위메이드, 中 알리바바 계열 투자플랫폼으로 피인수 소식에 '上'",
      "link": "https://www.hankyung.com/article/2026070184296"
+    },
+    {
+     "date": "2026-07-01",
+     "source": "아시아경제",
+     "title": "[Why&Next]1세대 위메이드 중국에 매각…K게임 주도권 위협",
+     "link": "https://view.asiae.co.kr/article/2026070110212682253"
     }
    ]
   },
@@ -6501,6 +6615,18 @@
      "source": "MarketWatch",
      "title": "Trump discloses expanding financial empire, including Apple stock, celebration coins and crypto",
      "link": "https://www.marketwatch.com/story/trump-discloses-expanding-financial-empire-including-apple-stock-celebration-coins-and-crypto-8786ef64?mod=mw_rss_topstories"
+    },
+    {
+     "date": "2026-07-01",
+     "source": "MarketWatch",
+     "title": "Your aging parent has a new romance. Here’s how to protect your inheritance — without looking greedy.",
+     "link": "https://www.marketwatch.com/story/your-aging-parent-has-a-new-romance-heres-how-to-protect-your-inheritance-without-looking-greedy-cbc219ab?mod=mw_rss_topstories"
+    },
+    {
+     "date": "2026-07-01",
+     "source": "MarketWatch",
+     "title": "This threat to the chip rally has surged to its highest level since 2015",
+     "link": "https://www.marketwatch.com/story/the-chip-rally-has-a-dark-side-and-a-rare-market-risk-is-at-its-highest-level-since-2015-5114fba0?mod=mw_rss_topstories"
     }
    ]
   },
@@ -6569,7 +6695,17 @@
      "link": "https://view.asiae.co.kr/article/2026070108575181775"
     }
    ]
+  },
+  "알파벳(GOOGL)": {
+   "articles": [
+    {
+     "date": "2026-07-01",
+     "source": "연합뉴스·경제",
+     "title": "현대카드, 독자 브랜드 '알파벳카드' 출범…신상품 6종 출시",
+     "link": "https://www.yna.co.kr/view/AKR20260701079400002"
+    }
+   ]
   }
  },
- "updatedAt": "2026-07-01T10:21:00+09:00"
+ "updatedAt": "2026-07-01T12:36:40+09:00"
 }
