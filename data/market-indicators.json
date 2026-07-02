@@ -1,18 +1,18 @@
 {
-  "updatedAt": "2026-07-02T07:20:00+09:00",
-  "session": "AM",
-  "note": "밤사이 美 하반기 첫 거래일(7/1) 약보합 혼조: 다우 52,305.24(-0.03%, 장중 사상최고 후 냉각)·S&P 7,483.23(-0.22%)·나스닥 26,040.03(-0.66%, 반도체 약세=로테이션). 메타 +9%(클라우드 진출), ADP 6월 민간고용 9.8만(예상 11만 하회)=노동시장 둔화. 워시 '2% 목표 재확인·선제지침 없음'으로 국채금리·달러 안정, 원/달러 1,555→1,551.20원 상승분 반납. 국제유가 미·이란 협상 낙관에 브렌트 -2%. 러셀2000 등 소형주는 35년 만 최고 상반기(로테이션). 韓 7/1 마감치(코스피 8,303.41·코스닥 929.35) 병기.",
+  "updatedAt": "2026-07-02T19:05:00+09:00",
+  "session": "PM",
+  "note": "'메타 쇼크'發 반도체 피크아웃 패닉으로 韓 증시 폭락 마감: 코스피 7,648.09(-7.89%)·코스닥 866.72(-6.74%), 8000선 붕괴·매도 사이드카 발동. 삼성전자 -9%(30만원선 붕괴)·SK하이닉스 -14.5%(17년 만 최대 낙폭), 외국인 5조1천억 순매도. 원/달러 1,555.8원(금융위기 이후 최고 재경신). 6월 소비자물가 3.2%(2년6개월 최고, 석유류 24.2%·컴퓨터 22%)·국고채 3년물 3.747% 하락(안전자산 선호). 美 지표는 밤사이 발표 전이며 마이크론 프리마켓 -10%. US 지수는 7/1 마감치.",
   "stock_fng": { "value": 32, "label": "Fear", "source": "https://www.cnn.com/markets/fear-and-greed" },
   "indices": [
-    { "name": "코스피", "value": "8,303.41", "change": "-2.04%(7/1 마감·외인 9일 순매도)", "source": "https://view.asiae.co.kr/article/2026070115342008667" },
-    { "name": "코스닥", "value": "929.35", "change": "+1.44%(7/1 마감·중소형 순환매)", "source": "https://view.asiae.co.kr/article/2026070115344718942" },
+    { "name": "코스피", "value": "7,648.09", "change": "-7.89%(반도체 쇼크·8000붕괴)", "source": "https://www.yna.co.kr/view/AKR20260702137900008" },
+    { "name": "코스닥", "value": "866.72", "change": "-6.74%(매도 사이드카)", "source": "https://www.yna.co.kr/view/AKR20260702137900008" },
     { "name": "S&P 500", "value": "7,483.23", "change": "-0.22%(7/1 마감)", "source": "https://www.thestreet.com/stock-market-today/stock-market-today-july-1-2026-nasdaq-futures-slip-after-strongest-quarter-since-2020" },
     { "name": "나스닥", "value": "26,040.03", "change": "-0.66%(7/1·반도체 약세)", "source": "https://www.thestreet.com/stock-market-today/stock-market-today-july-1-2026-nasdaq-futures-slip-after-strongest-quarter-since-2020" },
-    { "name": "다우", "value": "52,305.24", "change": "-0.03%(7/1·장중 사상최고 후 냉각)", "source": "https://www.thestreet.com/stock-market-today/stock-market-today-july-1-2026-nasdaq-futures-slip-after-strongest-quarter-since-2020" },
-    { "name": "VIX", "value": "16.45", "change": "-6.8%(변동성 완화)", "source": "https://www.cnbc.com/quotes/.VIX" },
-    { "name": "美 10년물", "value": "4.40%", "change": "워시 발언에 안정(7주 저점권)", "source": "https://tradingeconomics.com/united-states/government-bond-yield" },
-    { "name": "달러인덱스(DXY)", "value": "101.1", "change": "+0.1%(강달러 유지)", "source": "https://www.cnbc.com/quotes/.DXY" },
-    { "name": "원/달러", "value": "1,551.20", "change": "상승분 반납(워시 완화, 7/1 마감)", "source": "https://www.yna.co.kr/view/AKR20260702004300002" },
-    { "name": "국제유가(브렌트)", "value": "2%↓", "change": "미·이란 협상 낙관", "source": "https://www.yna.co.kr/view/AKR20260702005100072" }
+    { "name": "다우", "value": "52,305.24", "change": "-0.03%(7/1 마감)", "source": "https://www.thestreet.com/stock-market-today/stock-market-today-july-1-2026-nasdaq-futures-slip-after-strongest-quarter-since-2020" },
+    { "name": "VIX", "value": "16.45", "change": "美 지표 대기(전일)", "source": "https://www.cnbc.com/quotes/.VIX" },
+    { "name": "美 10년물", "value": "4.40%", "change": "워시 발언 후 안정(전일)", "source": "https://www.hankyung.com/article/202607010593i" },
+    { "name": "달러인덱스(DXY)", "value": "101.1", "change": "강달러 유지(전일)", "source": "https://www.cnbc.com/quotes/.DXY" },
+    { "name": "원/달러", "value": "1,555.8", "change": "+0.9(금융위기 이후 최고)", "source": "https://www.yna.co.kr/view/AKR20260702132700002" },
+    { "name": "국고채 3년물", "value": "3.747%", "change": "하락(안전자산 선호)", "source": "https://www.yna.co.kr/view/AKR20260702144700008" }
   ]
 }
