@@ -15,6 +15,18 @@
      "link": "https://www.yna.co.kr/view/AKR20260703073600008"
     },
     {
+     "date": "2026-07-03",
+     "source": "아시아경제",
+     "title": "코스피 8000선 회복 마감…SK하이닉스 10%대 급등",
+     "link": "https://view.asiae.co.kr/article/2026070315505721842"
+    },
+    {
+     "date": "2026-07-03",
+     "source": "연합뉴스",
+     "title": "- SK하이닉스(000660): +10% 급반등(전일 -14.5%). KB증권 목표가 420만원 유지 속 \"2Q 영업익 66조 전망, LTA로 변동성 축소\"(상상",
+     "link": "https://www.yna.co.kr/view/AKR20260703034751008"
+    },
+    {
      "date": "2026-07-02",
      "source": "한국경제",
      "title": "- SK하이닉스(000660): HBM 최선호. \"투자 늘수록 실적 뛴다\"는 AI 반도체 랠리 수혜주지만 로테이션·외인 매도에 동반 눌림 가능.",
@@ -739,6 +751,12 @@
      "link": "https://www.yna.co.kr/view/AKR20260703034700008"
     },
     {
+     "date": "2026-07-03",
+     "source": "한국경제",
+     "title": "- 삼성전자(005930): +8% 급반등(전일 -9%). 파운드리는 앤트로픽 수주 행진 보도, 영남권 60조 투자(구미 휴머노이드·AIDC, 울산 전고체) 발표",
+     "link": "https://www.hankyung.com/article/2026070349191"
+    },
+    {
      "date": "2026-07-02",
      "source": "파이낸셜뉴스",
      "title": "\"5억 올인했더니 30억\"… 삼성전자 장기투자로 은퇴한다는 학원강사",
@@ -1265,6 +1283,60 @@
   "현대차(005380)": {
    "articles": [
     {
+     "date": "2026-07-03",
+     "source": "한국경제·경제",
+     "title": "인도, 현대차·기아에 수천억 과태료 면제",
+     "link": "https://www.hankyung.com/article/2026070349231"
+    },
+    {
+     "date": "2026-07-03",
+     "source": "한국경제·경제",
+     "title": "현대차그룹, 영남권에 42조 투자…AI 자율주행차·항공우주 거점 육성",
+     "link": "https://www.hankyung.com/article/202607034365g"
+    },
+    {
+     "date": "2026-07-03",
+     "source": "한국경제·경제",
+     "title": "[속보] 현대차, 항공 모빌리티, 우주 엔진·위성 인프라 구축",
+     "link": "https://www.hankyung.com/article/2026070345127"
+    },
+    {
+     "date": "2026-07-03",
+     "source": "한국경제·경제",
+     "title": "[속보] 현대차, 울산-배터리·대구-모터 제어·창원-열관리 생산라인 투자",
+     "link": "https://www.hankyung.com/article/2026070344847"
+    },
+    {
+     "date": "2026-07-03",
+     "source": "한국경제·경제",
+     "title": "[속보] 현대차, 울산에 EV 공장 포함 최첨단 AI제조 허브 구축",
+     "link": "https://www.hankyung.com/article/2026070344837"
+    },
+    {
+     "date": "2026-07-03",
+     "source": "한국경제·경제",
+     "title": "[속보] 현대차그룹, 영남권 42조 투자…AI·자율주행·우주 거점 육성",
+     "link": "https://www.hankyung.com/article/2026070344777"
+    },
+    {
+     "date": "2026-07-03",
+     "source": "연합뉴스·경제",
+     "title": "[속보] 현대차그룹, 10년간 영남권에 42조원 투자",
+     "link": "https://www.yna.co.kr/view/AKR20260703105900003"
+    },
+    {
+     "date": "2026-07-03",
+     "source": "연합뉴스·경제",
+     "title": "李대통령 '영남권 국민보고회' 참석…한화·현대차 등 투자 발표",
+     "link": "https://www.yna.co.kr/view/AKR20260703052700001"
+    },
+    {
+     "date": "2026-07-03",
+     "source": "연합뉴스·경제",
+     "title": "노동장관, 현대차·아워홈 등 제조업체에 산재 반복 근절 당부",
+     "link": "https://www.yna.co.kr/view/AKR20260703028400530"
+    },
+    {
      "date": "2026-07-02",
      "source": "한국경제·경제",
      "title": "현대차·기아, 상반기 美 최다 판매…'톱3 브랜드' 눈앞",
@@ -1541,6 +1613,12 @@
   "애플(AAPL)": {
    "articles": [
     {
+     "date": "2026-07-03",
+     "source": "한국경제·경제",
+     "title": "가전·캠핑용품도 판매…애플 리셀러숍의 변신",
+     "link": "https://www.hankyung.com/article/202607022447r"
+    },
+    {
      "date": "2026-07-02",
      "source": "한국경제·경제",
      "title": "'애플 독점' 고화질 영상 시장 흔든다…칩스앤미디어, 美 빅테크와 맞손",
@@ -1697,6 +1775,12 @@
      "source": "이데일리·경제",
      "title": "정연인 두산에너빌리티 부회장 \"AI 시대 전력난, 복합 에너지 해법으로 풀어야“",
      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=03352166645510912"
+    },
+    {
+     "date": "2026-07-03",
+     "source": "한국경제·경제",
+     "title": "SMR 전용 공장 짓는 두산…稅혜택 가장 많이 받을 듯",
+     "link": "https://www.hankyung.com/article/2026070349761"
     },
     {
      "date": "2026-07-02",
@@ -1891,6 +1975,18 @@
      "link": "https://www.hankyung.com/article/202607033456g"
     },
     {
+     "date": "2026-07-03",
+     "source": "한국경제·경제",
+     "title": "인도, 현대차·기아에 수천억 과태료 면제",
+     "link": "https://www.hankyung.com/article/2026070349231"
+    },
+    {
+     "date": "2026-07-03",
+     "source": "한국경제·경제",
+     "title": "[포토] 기아, 해양 환경보호에 전기차 지원",
+     "link": "https://www.hankyung.com/article/2026070349211"
+    },
+    {
      "date": "2026-07-02",
      "source": "한국경제·경제",
      "title": "현대차·기아, 상반기 美 최다 판매…'톱3 브랜드' 눈앞",
@@ -2018,6 +2114,12 @@
   },
   "삼성전기(009150)": {
    "articles": [
+    {
+     "date": "2026-07-03",
+     "source": "한국경제·경제",
+     "title": "[속보] 삼성전기, 부산에 15조 투자…패키지 기판·MLCC 마더라인 육성",
+     "link": "https://www.hankyung.com/article/2026070344317"
+    },
     {
      "date": "2026-07-02",
      "source": "한국경제·경제",
@@ -2147,6 +2249,18 @@
      "source": "한국경제·경제",
      "title": "美 수출통제 강화에…中암시장 엔비디아 가격 두 배 뛰었다",
      "link": "https://www.hankyung.com/article/202607033395i"
+    },
+    {
+     "date": "2026-07-03",
+     "source": "한국경제·증권",
+     "title": "월가 \"무조건 매수해라\"…'중국판 엔비디아' 떴다 [한경 프리미엄9 TODAY]",
+     "link": "https://www.hankyung.com/article/2026070349661"
+    },
+    {
+     "date": "2026-07-03",
+     "source": "한국경제·증권",
+     "title": "월가 \"무조건 매수해라\"…'중국판 엔비디아' 떴다",
+     "link": "https://www.hankyung.com/article/202607020712i"
     },
     {
      "date": "2026-07-01",
@@ -3939,6 +4053,18 @@
      "link": "https://www.hankyung.com/article/202607034093i"
     },
     {
+     "date": "2026-07-03",
+     "source": "연합뉴스·경제",
+     "title": "美캐피털그룹, KT&G 지분 8.2%로 확대…104만주 추가 매수",
+     "link": "https://www.yna.co.kr/view/AKR20260703099100030"
+    },
+    {
+     "date": "2026-07-03",
+     "source": "아시아경제",
+     "title": "美캐피털그룹, KT&G 주식 104만주 추가 매수…\"성장성 인정\"",
+     "link": "https://view.asiae.co.kr/article/2026070311541596949"
+    },
+    {
      "date": "2026-06-29",
      "source": "한국경제·경제",
      "title": "[카드뉴스] KT&G, 렉시스넥시스 '글로벌 100대 혁신기업' 4년 연속 선정",
@@ -4417,6 +4543,30 @@
      "source": "한국경제·경제",
      "title": "캐피털그룹, KT&G 지분 또 늘렸다…보유율 8.22%",
      "link": "https://www.hankyung.com/article/202607034093i"
+    },
+    {
+     "date": "2026-07-03",
+     "source": "한국경제·경제",
+     "title": "[속보] SKT 정재헌 \"울산에 1호 GW급 AIDC 건설…영남권에 140조 투자\"",
+     "link": "https://www.hankyung.com/article/2026070345427"
+    },
+    {
+     "date": "2026-07-03",
+     "source": "한국경제·경제",
+     "title": "[속보] SKT 정재헌 \"SK, 아시아 최대 AI 데이터센터 인프라 허브' 구축\"",
+     "link": "https://www.hankyung.com/article/2026070345307"
+    },
+    {
+     "date": "2026-07-03",
+     "source": "연합뉴스·경제",
+     "title": "美캐피털그룹, KT&G 지분 8.2%로 확대…104만주 추가 매수",
+     "link": "https://www.yna.co.kr/view/AKR20260703099100030"
+    },
+    {
+     "date": "2026-07-03",
+     "source": "아시아경제",
+     "title": "美캐피털그룹, KT&G 주식 104만주 추가 매수…\"성장성 인정\"",
+     "link": "https://view.asiae.co.kr/article/2026070311541596949"
     },
     {
      "date": "2026-07-01",
@@ -5145,6 +5295,12 @@
      "source": "한국경제·증권",
      "title": "\"LS일렉트릭, 2분기 신규 수주 2조 웃돌아…목표가↑\"-한국",
      "link": "https://www.hankyung.com/article/2026070331866"
+    },
+    {
+     "date": "2026-07-03",
+     "source": "CNBC·Economy",
+     "title": "Christine Lagarde leaves door open to early ECB exit, as she mulls French politics",
+     "link": "https://www.cnbc.com/2026/07/03/christine-lagarde-ecb-france-election.html"
     },
     {
      "date": "2026-07-02",
@@ -6209,6 +6365,18 @@
   "KB금융(105560)": {
    "articles": [
     {
+     "date": "2026-07-03",
+     "source": "한국경제·경제",
+     "title": "KB금융 회장 후보 6명 압축…양종희·이재근·이창권 등 경쟁",
+     "link": "https://www.hankyung.com/article/202607033868i"
+    },
+    {
+     "date": "2026-07-03",
+     "source": "연합뉴스·경제",
+     "title": "KB금융 차기 회장 후보 6명 압축…내달 다시 3명으로",
+     "link": "https://www.yna.co.kr/view/AKR20260703141100002"
+    },
+    {
      "date": "2026-06-29",
      "source": "한국경제·경제",
      "title": "KB금융, 취약계층 지원에 연내 6조9000억원 투입",
@@ -6665,6 +6833,12 @@
      "link": "https://www.yna.co.kr/view/AKR20260703020100008"
     },
     {
+     "date": "2026-07-03",
+     "source": "연합뉴스",
+     "title": "- 비에이치아이(083650)·소 [조기: 첫등장 D-3·누적 3회·↗] · [SMR] 열교환기·기자재 · 국가전략기술 지정 검토로 신호 강화.",
+     "link": "https://www.yna.co.kr/view/AKR20260703085900002"
+    },
+    {
      "date": "2026-06-29",
      "source": "이데일리",
      "title": "- 비에이치아이(083650)·소 [조기: 신규·↗] · [전력/원전] HRSG·발전 기자재 — 1000조·전력인프라 수혜 라인 신규 거론.",
@@ -6975,6 +7149,36 @@
      "link": "https://view.asiae.co.kr/article/2026070308214283487"
     },
     {
+     "date": "2026-07-03",
+     "source": "한국경제·경제",
+     "title": "삼성·SK·한화, 영남에 312조 투자…AI·로봇·우주 거점 만든다",
+     "link": "https://www.hankyung.com/article/2026070349751"
+    },
+    {
+     "date": "2026-07-03",
+     "source": "한국경제·경제",
+     "title": "[속보] SKT 정재헌 \"울산에 1호 GW급 AIDC 건설…영남권에 140조 투자\"",
+     "link": "https://www.hankyung.com/article/2026070345427"
+    },
+    {
+     "date": "2026-07-03",
+     "source": "한국경제·경제",
+     "title": "[속보] SKT 정재헌 \"SK, 아시아 최대 AI 데이터센터 인프라 허브' 구축\"",
+     "link": "https://www.hankyung.com/article/2026070345307"
+    },
+    {
+     "date": "2026-07-03",
+     "source": "연합뉴스·경제",
+     "title": "SK, 140조 승부수…영남에 '아시아 최대 AI허브' 만든다",
+     "link": "https://www.yna.co.kr/view/AKR20260703112300017"
+    },
+    {
+     "date": "2026-07-03",
+     "source": "아시아경제",
+     "title": "코스피 8000선 회복 마감…SK하이닉스 10%대 급등",
+     "link": "https://view.asiae.co.kr/article/2026070315505721842"
+    },
+    {
      "date": "2026-07-02",
      "source": "MarketWatch",
      "title": "Sandisk’s and Micron’s stocks sink as the rotation trade builds, but supply shortages should limit losses",
@@ -7263,6 +7467,18 @@
   "SKT(017670)": {
    "articles": [
     {
+     "date": "2026-07-03",
+     "source": "한국경제·경제",
+     "title": "[속보] SKT 정재헌 \"울산에 1호 GW급 AIDC 건설…영남권에 140조 투자\"",
+     "link": "https://www.hankyung.com/article/2026070345427"
+    },
+    {
+     "date": "2026-07-03",
+     "source": "한국경제·경제",
+     "title": "[속보] SKT 정재헌 \"SK, 아시아 최대 AI 데이터센터 인프라 허브' 구축\"",
+     "link": "https://www.hankyung.com/article/2026070345307"
+    },
+    {
      "date": "2026-07-01",
      "source": "머니투데이·증권",
      "title": "[더벨][이지트로닉스 줌인]SKT 해킹사태 여파, 통신 매출 '뚝'",
@@ -7335,6 +7551,12 @@
      "source": "MarketWatch",
      "title": "Why maxing out your 401(k) is a major financial mistake if you have credit-card and other punishing debt",
      "link": "https://www.marketwatch.com/story/why-maxing-out-your-401-k-is-a-major-financial-mistake-if-you-have-credit-card-and-other-punishing-debt-4c25beab?mod=mw_rss_topstories"
+    },
+    {
+     "date": "2026-07-03",
+     "source": "CNBC·Economy",
+     "title": "Christine Lagarde leaves door open to early ECB exit, as she mulls French politics",
+     "link": "https://www.cnbc.com/2026/07/03/christine-lagarde-ecb-france-election.html"
     },
     {
      "date": "2026-07-02",
@@ -7597,6 +7819,12 @@
   "삼성SDI(006400)": {
    "articles": [
     {
+     "date": "2026-07-03",
+     "source": "한국경제·증권",
+     "title": "[속보] 삼성SDI, 울산에 16조 투자…차세대 배터리 양산",
+     "link": "https://www.hankyung.com/article/2026070344587"
+    },
+    {
      "date": "2026-07-01",
      "source": "한국경제·경제",
      "title": "최주선 삼성SDI 사장 \"올해 턴어라운드\"",
@@ -7800,6 +8028,12 @@
   },
   "한미약품(128940)": {
    "articles": [
+    {
+     "date": "2026-07-03",
+     "source": "연합뉴스·경제",
+     "title": "[바이오스냅] 한미약품, 키움증권과 '이노베이션 데이'",
+     "link": "https://www.yna.co.kr/view/AKR20260703100000017"
+    },
     {
      "date": "2026-07-02",
      "source": "이데일리·경제",
@@ -8081,6 +8315,12 @@
      "source": "머니투데이·증권",
      "title": "LG디스플레이, 3분기 영업익 시장 기대치 넘어설듯-키움증권",
      "link": "https://news.mt.co.kr/mtview.php?no=2025091908071942506"
+    },
+    {
+     "date": "2026-07-03",
+     "source": "연합뉴스·경제",
+     "title": "[바이오스냅] 한미약품, 키움증권과 '이노베이션 데이'",
+     "link": "https://www.yna.co.kr/view/AKR20260703100000017"
     }
    ]
   },
@@ -8119,7 +8359,43 @@
      "link": "https://www.cnbc.com/2026/06/29/aerovironment-stock-soars-on-earnings-beat-backlog-grows-to-1point2b.html"
     }
    ]
+  },
+  "이오테크닉스(039030)": {
+   "articles": [
+    {
+     "date": "2026-07-03",
+     "source": "한국경제·증권",
+     "title": "'셀 코리아' 없다…外人, 이오테크닉스 2000억 매수",
+     "link": "https://www.hankyung.com/article/2026070349031"
+    },
+    {
+     "date": "2026-07-03",
+     "source": "한국경제·증권",
+     "title": "'셀 코리아'에도 담았다…외국인, 이오테크닉스에 베팅",
+     "link": "https://www.hankyung.com/article/202607034428i"
+    }
+   ]
+  },
+  "코웨이(021240)": {
+   "articles": [
+    {
+     "date": "2026-07-03",
+     "source": "연합뉴스·경제",
+     "title": "코웨이, 8월 말까지 '아이스 페스타'…정수기 대여료 반값 제공",
+     "link": "https://www.yna.co.kr/view/AKR20260703086200030"
+    }
+   ]
+  },
+  "하나기술(299030)": {
+   "articles": [
+    {
+     "date": "2026-07-03",
+     "source": "한국경제",
+     "title": "- 하나기술(299030)·소 [조기: 신규] · [전고체] WIP 장비 · 삼성 울산 16조 전고체 양산 → 장비 발주 사이클 최선단.",
+     "link": "https://www.hankyung.com/article/2026070345237"
+    }
+   ]
   }
  },
- "updatedAt": "2026-07-03T12:57:54+09:00"
+ "updatedAt": "2026-07-03T19:00:04+09:00"
 }

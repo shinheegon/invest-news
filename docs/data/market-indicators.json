@@ -1,17 +1,15 @@
 {
-  "updatedAt": "2026-07-03T13:05:00+09:00",
-  "session": "AM",
-  "note": "밤사이 美 증시는 '메타 쇼크'에도 방어적 순환매: 6월 고용 쇼크(비농업 +5.7만·예상 11.5만, ADP +9.8만, 실업률 4.2%·경활참가율 최저)로 금리인상 기대↓ → 다우 52,900.07 사상 최고(+1.14%)·S&P500 +0.49%·나스닥 +0.40%. 필라델피아반도체지수 급락(메타 유휴 AI컴퓨팅 매각→메모리 피크아웃 공포)이 전일 韓 증시 -7.9% 폭락(코스피 7,648)의 도화선이었으나, 오늘(7/3) 韓 증시는 강한 반등: 오전 코스피 7,800선 회복→장중 8,000선 상회, 기관 1.7조 순매수, 삼성전자·SK하이닉스 동반 반등('삼전닉스 줍줍'). KB증권 SK하이닉스 목표가 420만원 상향. 국고채 3년물 3.728%로 하락(고용부진→인하기대). 원/달러 1,544~1,550원(씨티 '3개월 내 1,500원' 전망). 관건은 삼전 2Q 실적·외국인 수급.",
-  "stock_fng": { "value": 31, "label": "Fear", "source": "https://www.cnn.com/markets/fear-and-greed" },
+  "updatedAt": "2026-07-03T19:10:00+09:00",
+  "session": "PM",
+  "stock_fng": { "value": 31, "label": "Fear", "source": "https://feargreedmeter.com/fear-and-greed-index" },
   "indices": [
-    { "name": "코스피", "value": "8,000선 회복(장중)", "change": "+급반등(전일 -7.89%)", "source": "https://www.hankyung.com/article/202607033617i" },
-    { "name": "코스닥", "value": "880선 반등(장중)", "change": "+반등(전일 -6.74%)", "source": "https://www.yna.co.kr/view/AKR20260703064500008" },
-    { "name": "S&P 500", "value": "-", "change": "+0.49%", "source": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-july-2-2026" },
-    { "name": "나스닥", "value": "-", "change": "+0.40%", "source": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-july-2-2026" },
-    { "name": "다우", "value": "52,900.07", "change": "+1.14%(사상 최고)", "source": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-july-2-2026" },
-    { "name": "VIX", "value": "15.82", "change": "-4.65%", "source": "https://finance.yahoo.com/quote/%5EVIX/" },
-    { "name": "美 10년물", "value": "4.46%", "change": "-0.02(고용부진→인하기대)", "source": "https://www.federalreserve.gov/releases/h15/" },
-    { "name": "韓 국고채 3년물", "value": "3.728%", "change": "-0.02(장중 하락)", "source": "https://www.yna.co.kr/view/AKR20260703072000008" },
-    { "name": "원/달러", "value": "1,544.5", "change": "-11.3(고용부진에 개장)", "source": "https://www.hankyung.com/article/2026070340127" }
+    { "name": "코스피", "value": "8,088.34", "change": "+5.76%", "source": "https://www.yna.co.kr/view/AKR20260703118500008" },
+    { "name": "코스닥", "value": "868.41", "change": "+0.19%", "source": "https://view.asiae.co.kr/article/2026070315343797150" },
+    { "name": "S&P 500", "value": "7,483.24", "change": "+0.00%", "source": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-july-2-2026" },
+    { "name": "나스닥", "value": "25,832.67", "change": "-0.80%", "source": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-july-2-2026" },
+    { "name": "다우", "value": "52,900.07", "change": "+1.14%", "source": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-july-2-2026" },
+    { "name": "VIX", "value": "16.15", "change": "-2.65%", "source": "https://finance.yahoo.com/quote/%5EVIX/" },
+    { "name": "美 10년물", "value": "4.46%", "change": "-0.02", "source": "https://www.cnbc.com/2026/07/02/us-treasury-yields-rise-as-investors-await-june-jobs-report.html" },
+    { "name": "원/달러", "value": "1,525.6", "change": "-30.2", "source": "https://www.yna.co.kr/view/AKR20260703110700002" }
   ]
 }
