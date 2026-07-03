@@ -2813,6 +2813,12 @@
   "메타(META)": {
    "articles": [
     {
+     "date": "2026-07-03",
+     "source": "한국경제·증권",
+     "title": "메타 헛기침에 코스피 발작…\"급락은 기우, 지금 더 담아야\" [분석+]",
+     "link": "https://www.hankyung.com/article/2026070220016"
+    },
+    {
      "date": "2026-07-02",
      "source": "한국경제·경제",
      "title": "\"메타, 남는 컴퓨팅 파워로 클라우드사업진출\"…주가 급등",
@@ -4991,6 +4997,18 @@
   "LS(006260)": {
    "articles": [
     {
+     "date": "2026-07-03",
+     "source": "CNBC·Economy",
+     "title": "Job seekers giving up: Labor force participation rate falls to lowest in 50 years, outside of Covid era",
+     "link": "https://www.cnbc.com/2026/07/02/job-seekers-giving-up-labor-force-participation-rate-falls-to-lowest-in-50-years-outside-of-covid-era.html"
+    },
+    {
+     "date": "2026-07-03",
+     "source": "CNBC·Economy",
+     "title": "U.S. job creation cools in June with payrolls growth of just 57,000; unemployment rate at 4.2%",
+     "link": "https://www.cnbc.com/2026/07/02/jobs-report-june-2026-.html"
+    },
+    {
      "date": "2026-07-02",
      "source": "CNBC·Economy",
      "title": "Private payrolls rose by 98,000 in June, less than expected, ADP reports",
@@ -5537,6 +5555,24 @@
   "현대모비스(012330)": {
    "articles": [
     {
+     "date": "2026-07-03",
+     "source": "한국경제·증권",
+     "title": "현대모비스, 해외 범퍼사업부 5000억에 매각",
+     "link": "https://www.hankyung.com/article/2026070229441"
+    },
+    {
+     "date": "2026-07-03",
+     "source": "한국경제·증권",
+     "title": "[단독]현대모비스 해외범퍼사업부 5000억에 서연이화 등 3곳에 매각",
+     "link": "https://www.hankyung.com/article/202607022928i"
+    },
+    {
+     "date": "2026-07-03",
+     "source": "한국경제·증권",
+     "title": "[단독] 현대모비스, 해외 범퍼사업부 매각",
+     "link": "https://www.hankyung.com/article/202607022919i"
+    },
+    {
      "date": "2026-06-26",
      "source": "아시아경제",
      "title": "[클릭 e종목]\"에이텀, 현대모비스 EV 핵심 공급사 선정…MLCC 호황에 실적 개선 기대\"",
@@ -5860,6 +5896,12 @@
   },
   "ISC(095340)": {
    "articles": [
+    {
+     "date": "2026-07-03",
+     "source": "MarketWatch",
+     "title": "Gamer trades in $1,000 of physical discs at GameStop, days after Sony announces end of disc era",
+     "link": "https://www.marketwatch.com/story/gamer-trades-in-1-000-of-physical-discs-at-gamestop-days-after-sony-announces-end-of-disc-era-bf8383b7?mod=mw_rss_topstories"
+    },
     {
      "date": "2026-07-01",
      "source": "MarketWatch",
@@ -6747,6 +6789,12 @@
   "SK(034730)": {
    "articles": [
     {
+     "date": "2026-07-03",
+     "source": "한국경제·경제",
+     "title": "SK그룹, 협력사에 1조4000억 지원",
+     "link": "https://www.hankyung.com/article/2026070227851"
+    },
+    {
      "date": "2026-07-02",
      "source": "MarketWatch",
      "title": "Sandisk’s and Micron’s stocks sink as the rotation trade builds, but supply shortages should limit losses",
@@ -7078,6 +7126,36 @@
   },
   "NC(036570)": {
    "articles": [
+    {
+     "date": "2026-07-03",
+     "source": "MarketWatch",
+     "title": "Trump’s real-estate licensing income in foreign countries nearly doubled — and now features Qatar and Romania",
+     "link": "https://www.marketwatch.com/story/trumps-real-estate-licensing-income-in-foreign-countries-nearly-doubled-and-now-features-qatar-and-romania-ebe3d73d?mod=mw_rss_topstories"
+    },
+    {
+     "date": "2026-07-03",
+     "source": "MarketWatch",
+     "title": "Gamer trades in $1,000 of physical discs at GameStop, days after Sony announces end of disc era",
+     "link": "https://www.marketwatch.com/story/gamer-trades-in-1-000-of-physical-discs-at-gamestop-days-after-sony-announces-end-of-disc-era-bf8383b7?mod=mw_rss_topstories"
+    },
+    {
+     "date": "2026-07-03",
+     "source": "MarketWatch",
+     "title": "Palantir’s stock bounces back as analyst cheers company’s unique AI advantage",
+     "link": "https://www.marketwatch.com/story/palantirs-stock-bounces-back-as-analyst-cheers-companys-unique-ai-advantage-2f28698d?mod=mw_rss_topstories"
+    },
+    {
+     "date": "2026-07-03",
+     "source": "MarketWatch",
+     "title": "‘Minions’ movies have been runaway hits — but is ‘franchise fatigue’ finally setting in?",
+     "link": "https://www.marketwatch.com/story/minions-movies-have-been-runaway-hits-but-is-franchise-fatigue-finally-setting-in-ba4f41da?mod=mw_rss_topstories"
+    },
+    {
+     "date": "2026-07-03",
+     "source": "MarketWatch",
+     "title": "Why maxing out your 401(k) is a major financial mistake if you have credit-card and other punishing debt",
+     "link": "https://www.marketwatch.com/story/why-maxing-out-your-401-k-is-a-major-financial-mistake-if-you-have-credit-card-and-other-punishing-debt-4c25beab?mod=mw_rss_topstories"
+    },
     {
      "date": "2026-07-02",
      "source": "CNBC·Economy",
@@ -7675,7 +7753,73 @@
      "link": "https://www.hankyung.com/article/202607022243i"
     }
    ]
+  },
+  "성호전자(043260)": {
+   "articles": [
+    {
+     "date": "2026-07-03",
+     "source": "한국경제·증권",
+     "title": "성호전자 \"최대주주 차입금 담보 제공 여력 충분…다음주 일부 상환할 것\"",
+     "link": "https://www.hankyung.com/article/2026070220266"
+    },
+    {
+     "date": "2026-07-03",
+     "source": "아시아경제",
+     "title": "성호전자 \"최대주주 주담대 추가 담보 여력 충분…선제적 담보 10% 추가 제공\"",
+     "link": "https://view.asiae.co.kr/article/2026070214290381818"
+    }
+   ]
+  },
+  "한국콜마(161890)": {
+   "articles": [
+    {
+     "date": "2026-07-03",
+     "source": "한국경제·증권",
+     "title": "한국콜마 10% 급등…사상 최대 수출에 K뷰티주 '방긋' [종목+]",
+     "link": "https://www.hankyung.com/article/2026070211866"
+    }
+   ]
+  },
+  "파라텍(033540)": {
+   "articles": [
+    {
+     "date": "2026-07-03",
+     "source": "아시아경제",
+     "title": "파라텍, 반도체·배터리 공장 이어 바이오 플랜트 소방공사도 수주",
+     "link": "https://view.asiae.co.kr/article/2026070214521040875"
+    }
+   ]
+  },
+  "넥스트아이(137940)": {
+   "articles": [
+    {
+     "date": "2026-07-03",
+     "source": "아시아경제",
+     "title": "\"넥스트아이, 뷰티사업 정상화로 실적 턴어라운드 전망\"",
+     "link": "https://view.asiae.co.kr/article/2026070208322318194"
+    }
+   ]
+  },
+  "감성코퍼레이션(036620)": {
+   "articles": [
+    {
+     "date": "2026-07-03",
+     "source": "아시아경제",
+     "title": "[클릭 e종목]\"감성코퍼레이션, '스노우피크'로 中 공략…체질 개선 본격화\"",
+     "link": "https://view.asiae.co.kr/article/2026070208265652833"
+    }
+   ]
+  },
+  "오비고(352910)": {
+   "articles": [
+    {
+     "date": "2026-07-03",
+     "source": "아시아경제",
+     "title": "오비고, 부품 견적 자동화 AI 솔루션 출시",
+     "link": "https://view.asiae.co.kr/article/2026070207594150421"
+    }
+   ]
   }
  },
- "updatedAt": "2026-07-02T19:00:07+09:00"
+ "updatedAt": "2026-07-03T07:08:15+09:00"
 }

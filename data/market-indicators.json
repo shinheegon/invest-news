@@ -1,18 +1,16 @@
 {
-  "updatedAt": "2026-07-02T19:05:00+09:00",
-  "session": "PM",
-  "note": "'메타 쇼크'發 반도체 피크아웃 패닉으로 韓 증시 폭락 마감: 코스피 7,648.09(-7.89%)·코스닥 866.72(-6.74%), 8000선 붕괴·매도 사이드카 발동. 삼성전자 -9%(30만원선 붕괴)·SK하이닉스 -14.5%(17년 만 최대 낙폭), 외국인 5조1천억 순매도. 원/달러 1,555.8원(금융위기 이후 최고 재경신). 6월 소비자물가 3.2%(2년6개월 최고, 석유류 24.2%·컴퓨터 22%)·국고채 3년물 3.747% 하락(안전자산 선호). 美 지표는 밤사이 발표 전이며 마이크론 프리마켓 -10%. US 지수는 7/1 마감치.",
-  "stock_fng": { "value": 32, "label": "Fear", "source": "https://www.cnn.com/markets/fear-and-greed" },
+  "updatedAt": "2026-07-03T07:25:00+09:00",
+  "session": "AM",
+  "note": "밤사이 美 증시는 '메타 쇼크'에도 방어적: 6월 고용 쇼크(비농업 +5.7만·예상 11.5만, 실업률 4.2%)로 금리인하 기대↑ → 다우 52,900.07 사상 최고(+1.14%)·S&P500 +0.49%·나스닥 +0.40%. 다만 마이크론 -10.57%·샌디스크 -10.62% 등 필라델피아반도체지수 6%+ 급락(메타 유휴 AI컴퓨팅 매각 선언→메모리 피크아웃 공포)이 전일 韓 증시 폭락의 도화선. 원/달러 1,555.8원(금융위기 이후 최고 유지). 美 10년물 4.46%로 하락. 오늘 韓 반등/추가조정 여부는 삼전 실적·외국인 수급 관건.",
+  "stock_fng": { "value": 31, "label": "Fear", "source": "https://www.cnn.com/markets/fear-and-greed" },
   "indices": [
-    { "name": "코스피", "value": "7,648.09", "change": "-7.89%(반도체 쇼크·8000붕괴)", "source": "https://www.yna.co.kr/view/AKR20260702137900008" },
-    { "name": "코스닥", "value": "866.72", "change": "-6.74%(매도 사이드카)", "source": "https://www.yna.co.kr/view/AKR20260702137900008" },
-    { "name": "S&P 500", "value": "7,483.23", "change": "-0.22%(7/1 마감)", "source": "https://www.thestreet.com/stock-market-today/stock-market-today-july-1-2026-nasdaq-futures-slip-after-strongest-quarter-since-2020" },
-    { "name": "나스닥", "value": "26,040.03", "change": "-0.66%(7/1·반도체 약세)", "source": "https://www.thestreet.com/stock-market-today/stock-market-today-july-1-2026-nasdaq-futures-slip-after-strongest-quarter-since-2020" },
-    { "name": "다우", "value": "52,305.24", "change": "-0.03%(7/1 마감)", "source": "https://www.thestreet.com/stock-market-today/stock-market-today-july-1-2026-nasdaq-futures-slip-after-strongest-quarter-since-2020" },
-    { "name": "VIX", "value": "16.45", "change": "美 지표 대기(전일)", "source": "https://www.cnbc.com/quotes/.VIX" },
-    { "name": "美 10년물", "value": "4.40%", "change": "워시 발언 후 안정(전일)", "source": "https://www.hankyung.com/article/202607010593i" },
-    { "name": "달러인덱스(DXY)", "value": "101.1", "change": "강달러 유지(전일)", "source": "https://www.cnbc.com/quotes/.DXY" },
-    { "name": "원/달러", "value": "1,555.8", "change": "+0.9(금융위기 이후 최고)", "source": "https://www.yna.co.kr/view/AKR20260702132700002" },
-    { "name": "국고채 3년물", "value": "3.747%", "change": "하락(안전자산 선호)", "source": "https://www.yna.co.kr/view/AKR20260702144700008" }
+    { "name": "코스피", "value": "7,648.09", "change": "-7.89%(전일·반도체 쇼크)", "source": "https://www.yna.co.kr/view/AKR20260702137900008" },
+    { "name": "코스닥", "value": "866.72", "change": "-6.74%(전일·사이드카)", "source": "https://www.ajunews.com/view/20260702160228899" },
+    { "name": "S&P 500", "value": "-", "change": "+0.49%", "source": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-july-2-2026" },
+    { "name": "나스닥", "value": "-", "change": "+0.40%", "source": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-july-2-2026" },
+    { "name": "다우", "value": "52,900.07", "change": "+1.14%(사상 최고)", "source": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-july-2-2026" },
+    { "name": "VIX", "value": "15.82", "change": "-4.65%", "source": "https://finance.yahoo.com/quote/%5EVIX/" },
+    { "name": "美 10년물", "value": "4.46%", "change": "-0.02(고용부진→인하기대)", "source": "https://www.federalreserve.gov/releases/h15/" },
+    { "name": "원/달러", "value": "1,555.8", "change": "+0.9(금융위기 이후 최고)", "source": "https://www.etoday.co.kr/news/view/2599718" }
   ]
 }
