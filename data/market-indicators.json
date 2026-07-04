@@ -1,15 +1,65 @@
 {
-  "updatedAt": "2026-07-03T19:10:00+09:00",
-  "session": "PM",
-  "stock_fng": { "value": 31, "label": "Fear", "source": "https://feargreedmeter.com/fear-and-greed-index" },
-  "indices": [
-    { "name": "코스피", "value": "8,088.34", "change": "+5.76%", "source": "https://www.yna.co.kr/view/AKR20260703118500008" },
-    { "name": "코스닥", "value": "868.41", "change": "+0.19%", "source": "https://view.asiae.co.kr/article/2026070315343797150" },
-    { "name": "S&P 500", "value": "7,483.24", "change": "+0.00%", "source": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-july-2-2026" },
-    { "name": "나스닥", "value": "25,832.67", "change": "-0.80%", "source": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-july-2-2026" },
-    { "name": "다우", "value": "52,900.07", "change": "+1.14%", "source": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-july-2-2026" },
-    { "name": "VIX", "value": "16.15", "change": "-2.65%", "source": "https://finance.yahoo.com/quote/%5EVIX/" },
-    { "name": "美 10년물", "value": "4.46%", "change": "-0.02", "source": "https://www.cnbc.com/2026/07/02/us-treasury-yields-rise-as-investors-await-june-jobs-report.html" },
-    { "name": "원/달러", "value": "1,525.6", "change": "-30.2", "source": "https://www.yna.co.kr/view/AKR20260703110700002" }
-  ]
+ "updatedAt": "2026-07-04T07:00:00+09:00",
+ "session": "AM",
+ "stock_fng": {
+  "value": 32,
+  "label": "Fear",
+  "source": "https://www.cnn.com/markets/fear-and-greed"
+ },
+ "indices": [
+  {
+   "name": "코스피",
+   "value": "8,088.34",
+   "change": "+5.76%",
+   "source": "https://www.yna.co.kr/view/AKR20260703118500008"
+  },
+  {
+   "name": "코스닥",
+   "value": "868.41",
+   "change": "+0.19%",
+   "source": "https://view.asiae.co.kr/article/2026070315343797150"
+  },
+  {
+   "name": "S&P 500",
+   "value": "7,483.24",
+   "change": "+0.01%",
+   "source": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-july-2-2026"
+  },
+  {
+   "name": "나스닥",
+   "value": "25,832.67",
+   "change": "-0.80%",
+   "source": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-july-2-2026"
+  },
+  {
+   "name": "다우",
+   "value": "52,900.07",
+   "change": "+1.14%",
+   "source": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-july-2-2026"
+  },
+  {
+   "name": "VIX",
+   "value": "16.15",
+   "change": "-",
+   "source": "https://www.advisorperspectives.com/dshort/updates/2026/07/02/treasury-yields-snapshot-july-2-2026"
+  },
+  {
+   "name": "美 10년물",
+   "value": "4.49%",
+   "change": "-",
+   "source": "https://www.advisorperspectives.com/dshort/updates/2026/07/02/treasury-yields-snapshot-july-2-2026"
+  },
+  {
+   "name": "달러인덱스(DXY)",
+   "value": "100.78",
+   "change": "-0.08%",
+   "source": "https://tradingeconomics.com/united-states/currency"
+  },
+  {
+   "name": "원/달러",
+   "value": "1,525.6",
+   "change": "-30.2원",
+   "source": "https://www.yna.co.kr/view/AKR20260703110700002"
+  }
+ ]
 }
