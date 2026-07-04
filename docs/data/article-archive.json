@@ -3,6 +3,18 @@
   "SK하이닉스(000660)": {
    "articles": [
     {
+     "date": "2026-07-04",
+     "source": "한국경제·증권",
+     "title": "미래에셋증권, SK하이닉스서 1.26조 조달…M&A 실탄 확보",
+     "link": "https://www.hankyung.com/article/202607035120i"
+    },
+    {
+     "date": "2026-07-04",
+     "source": "연합뉴스·경제",
+     "title": "미래에셋, 1조3천억 자금조달 추진…'큰 손' 된 SK하이닉스",
+     "link": "https://www.yna.co.kr/view/AKR20260703151000008"
+    },
+    {
      "date": "2026-07-03",
      "source": "한국경제·증권",
      "title": "\"SK하이닉스, 2Q 영업익 66조 전망…LTA로 변동성 줄어들 것\"-상상인",
@@ -709,18 +721,6 @@
      "source": "news.skhynix.co.kr",
      "title": "- SK하이닉스(000660): HBM 슈퍼사이클 주도, 2026년 HBM 물량 완판. 청주 13조 첨단패키징 투자 → 후공정 장비 추가 발주 사이클.",
      "link": "https://news.skhynix.co.kr/2026-market-outlook/"
-    },
-    {
-     "date": "2026-06-16",
-     "source": "연합뉴스",
-     "title": "- SK하이닉스(000660): 장중 240만원선 터치, SK 합산 시총 2,000조 견인. 추격매수 자제론 병존.",
-     "link": "https://www.yna.co.kr/view/AKR20260616036651008"
-    },
-    {
-     "date": "2026-06-15",
-     "source": "biz.newdaily.co.kr",
-     "title": "- SK하이닉스(000660): HBM4(Rubin 플랫폼) 점유율 UBS 추정 약 70%, 엔비디아 공급 기준 HBM 약 63% 1위. 52주 신고가권. 반도체",
-     "link": "https://biz.newdaily.co.kr/site/data/html/2026/03/30/2026033000155.html"
     }
    ]
   },
@@ -1282,6 +1282,12 @@
   },
   "현대차(005380)": {
    "articles": [
+    {
+     "date": "2026-07-04",
+     "source": "한국경제·경제",
+     "title": "삼성 SK 현대차 LG 한화, 영남에 312조 투자…우주·로봇 허브로",
+     "link": "https://www.hankyung.com/article/2026070349751"
+    },
     {
      "date": "2026-07-03",
      "source": "한국경제·경제",
@@ -1892,6 +1898,12 @@
   },
   "미래에셋증권(006800)": {
    "articles": [
+    {
+     "date": "2026-07-04",
+     "source": "한국경제·증권",
+     "title": "미래에셋증권, SK하이닉스서 1.26조 조달…M&A 실탄 확보",
+     "link": "https://www.hankyung.com/article/202607035120i"
+    },
     {
      "date": "2026-07-02",
      "source": "아시아경제",
@@ -2993,6 +3005,12 @@
   "메타(META)": {
    "articles": [
     {
+     "date": "2026-07-04",
+     "source": "한국경제·증권",
+     "title": "'믿을맨' 삼전닉스 반등…메타발 업황 우려 이겨낼까 [종목+]",
+     "link": "https://www.hankyung.com/article/2026070346796"
+    },
+    {
      "date": "2026-07-03",
      "source": "한국경제·증권",
      "title": "메타 헛기침에 코스피 발작…\"급락은 기우, 지금 더 담아야\" [분석+]",
@@ -3525,6 +3543,12 @@
   "마이크론(MU)": {
    "articles": [
     {
+     "date": "2026-07-04",
+     "source": "한국경제·경제",
+     "title": "\"삼전닉스, 마이크론 이상 성과 낼 것\"…역대급 실적 기대감",
+     "link": "https://www.hankyung.com/article/202607034795g"
+    },
+    {
      "date": "2026-07-02",
      "source": "아시아경제",
      "title": "[굿모닝 증시]마이크론 10% 뚝…韓증시 약세 출발 전망",
@@ -3836,6 +3860,12 @@
   },
   "대한항공(003490)": {
    "articles": [
+    {
+     "date": "2026-07-04",
+     "source": "한국경제·증권",
+     "title": "저점 매수 타이밍?…대한항공 사들이는 큰손들",
+     "link": "https://www.hankyung.com/article/202607035045i"
+    },
     {
      "date": "2026-07-01",
      "source": "아시아경제",
@@ -5279,6 +5309,12 @@
   "LS(006260)": {
    "articles": [
     {
+     "date": "2026-07-04",
+     "source": "이데일리·경제",
+     "title": "BL Pharmtech Hits Daily Limit…Samchundang Pharm Falls[K-bio pulse]",
+     "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=01180806645511240"
+    },
+    {
      "date": "2026-07-03",
      "source": "CNBC·Economy",
      "title": "Job seekers giving up: Labor force participation rate falls to lowest in 50 years, outside of Covid era",
@@ -5975,6 +6011,12 @@
   "셀트리온(068270)": {
    "articles": [
     {
+     "date": "2026-07-04",
+     "source": "한국경제·증권",
+     "title": "4개월만에 20% 밀린 셀트리온…실적발표 후 '50% 상승' 나온 이유",
+     "link": "https://www.hankyung.com/article/202607034379i"
+    },
+    {
      "date": "2026-07-02",
      "source": "한국경제·경제",
      "title": "삼성·SK·셀트리온, 충청에 392조 투자…반도체·바이오 산업 키운다",
@@ -6365,6 +6407,12 @@
   "KB금융(105560)": {
    "articles": [
     {
+     "date": "2026-07-04",
+     "source": "한국경제·경제",
+     "title": "KB금융 차기 회장 후보 6명 압축",
+     "link": "https://www.hankyung.com/article/2026070350681"
+    },
+    {
      "date": "2026-07-03",
      "source": "한국경제·경제",
      "title": "KB금융 회장 후보 6명 압축…양종희·이재근·이창권 등 경쟁",
@@ -6744,6 +6792,12 @@
   },
   "이지트로닉스(382480)": {
    "articles": [
+    {
+     "date": "2026-07-04",
+     "source": "이데일리",
+     "title": "- 이지트로닉스(382480)·소 [첫등장 D-6·누적 10회·↗] · [AI전력·DC망] 전력변환 모듈 — 정부 직류 전력망 산업화 시동, 실적 바닥·저주목.",
+     "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=04969206645510584"
+    },
     {
      "date": "2026-07-02",
      "source": "MarketWatch",
@@ -7125,6 +7179,18 @@
   "SK(034730)": {
    "articles": [
     {
+     "date": "2026-07-04",
+     "source": "한국경제·증권",
+     "title": "미래에셋증권, SK하이닉스서 1.26조 조달…M&A 실탄 확보",
+     "link": "https://www.hankyung.com/article/202607035120i"
+    },
+    {
+     "date": "2026-07-04",
+     "source": "연합뉴스·경제",
+     "title": "미래에셋, 1조3천억 자금조달 추진…'큰 손' 된 SK하이닉스",
+     "link": "https://www.yna.co.kr/view/AKR20260703151000008"
+    },
+    {
      "date": "2026-07-03",
      "source": "한국경제·경제",
      "title": "SK그룹, 협력사에 1조4000억 지원",
@@ -7457,6 +7523,12 @@
   "LG유플러스(032640)": {
    "articles": [
     {
+     "date": "2026-07-04",
+     "source": "연합뉴스·경제",
+     "title": "'5G 과장광고' LG유플러스, 28억원 과징금 취소 소송 패소",
+     "link": "https://www.yna.co.kr/view/AKR20260703147300004"
+    },
+    {
      "date": "2026-07-01",
      "source": "한국경제·증권",
      "title": "주가 눌린 LG유플러스, AIDC로 승부수…“8월 반등 신호 나온다”는 증권가",
@@ -7522,6 +7594,12 @@
   },
   "NC(036570)": {
    "articles": [
+    {
+     "date": "2026-07-04",
+     "source": "CNBC·Finance",
+     "title": "Don't throw away your shot to speak to an AI Alexander Hamilton at Boston's new finance museum",
+     "link": "https://www.cnbc.com/2026/07/03/the-museum-of-american-finance-opens-its-doors-in-boston.html"
+    },
     {
      "date": "2026-07-03",
      "source": "MarketWatch",
@@ -7993,6 +8071,12 @@
   "CJ제일제당(097950)": {
    "articles": [
     {
+     "date": "2026-07-04",
+     "source": "연합뉴스·경제",
+     "title": "[신상잇슈] CJ제일제당 '비비고 김부각'·벤슨-하츠투하츠 '레몬탱'",
+     "link": "https://www.yna.co.kr/view/AKR20260703124200030"
+    },
+    {
      "date": "2026-07-02",
      "source": "연합뉴스·경제",
      "title": "CJ제일제당, 수익·성장사업 중심으로 '사업구조 수술' 단행",
@@ -8395,7 +8479,319 @@
      "link": "https://www.hankyung.com/article/2026070345237"
     }
    ]
+  },
+  "한화(000880)": {
+   "articles": [
+    {
+     "date": "2026-07-04",
+     "source": "한국경제·경제",
+     "title": "삼성 SK 현대차 LG 한화, 영남에 312조 투자…우주·로봇 허브로",
+     "link": "https://www.hankyung.com/article/2026070349751"
+    },
+    {
+     "date": "2026-07-04",
+     "source": "한국경제·경제",
+     "title": "[속보] 한화 김동관 \"창원 국방 AI 데이터센터 건설에 10조 투자\"",
+     "link": "https://www.hankyung.com/article/2026070344727"
+    },
+    {
+     "date": "2026-07-04",
+     "source": "연합뉴스·경제",
+     "title": "한화, 우주·AI에 55조원 투자…영남권 중심 우주항공 생태계(종합)",
+     "link": "https://www.yna.co.kr/view/AKR20260703104152003"
+    },
+    {
+     "date": "2026-07-04",
+     "source": "연합뉴스·경제",
+     "title": "한화, 우주·AI에 55조원 투자…영남권 중심 우주항공 생태계",
+     "link": "https://www.yna.co.kr/view/AKR20260703104151003"
+    },
+    {
+     "date": "2026-07-04",
+     "source": "연합뉴스·경제",
+     "title": "[속보] 한화 김동관 \"우주항공·AI에 55조원 투자\"",
+     "link": "https://www.yna.co.kr/view/AKR20260703104100003"
+    },
+    {
+     "date": "2026-07-04",
+     "source": "연합뉴스·경제",
+     "title": "李대통령 '영남권 국민보고회' 참석…한화·현대차 등 투자 발표",
+     "link": "https://www.yna.co.kr/view/AKR20260703052700001"
+    },
+    {
+     "date": "2026-07-04",
+     "source": "연합뉴스·경제",
+     "title": "한화토탈, 고객사 제품 납품가격 t당 최대 20만원 인하",
+     "link": "https://www.yna.co.kr/view/AKR20260703092300003"
+    },
+    {
+     "date": "2026-07-04",
+     "source": "머니투데이·증권",
+     "title": "삼성전자, 메모리 반도체 빅사이클 호재…목표가 31%↑-한화",
+     "link": "https://news.mt.co.kr/mtview.php?no=2025091908324781631"
+    },
+    {
+     "date": "2026-07-04",
+     "source": "아시아경제",
+     "title": "한화투자증권 \"유튜브 채널 전면 개편\"",
+     "link": "https://view.asiae.co.kr/article/2026070210315035239"
+    },
+    {
+     "date": "2026-07-04",
+     "source": "아시아경제",
+     "title": "한화운용, 美 마시펜과 합작법인 '마시펜아시아' 설립…문화산업 투자",
+     "link": "https://view.asiae.co.kr/article/2026070208462298144"
+    }
+   ]
+  },
+  "제주항공(089590)": {
+   "articles": [
+    {
+     "date": "2026-07-04",
+     "source": "한국경제·경제",
+     "title": "제주항공, 제주FC와 해양 정화 활동",
+     "link": "https://www.hankyung.com/article/2026070349511"
+    }
+   ]
+  },
+  "한미사이언스(008930)": {
+   "articles": [
+    {
+     "date": "2026-07-04",
+     "source": "한국경제·증권",
+     "title": "한미사이언스 임종훈, 제3자에 지분 넘긴다",
+     "link": "https://www.hankyung.com/article/2026070229331"
+    },
+    {
+     "date": "2026-07-04",
+     "source": "이데일리·경제",
+     "title": "임종훈 한미정밀화학 대표, 한미사이언스 지분 2.5% 매각",
+     "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=05402166645510584"
+    }
+   ]
+  },
+  "우리금융지주(316140)": {
+   "articles": [
+    {
+     "date": "2026-07-04",
+     "source": "연합뉴스·경제",
+     "title": "[인사] 우리금융지주",
+     "link": "https://www.yna.co.kr/view/AKR20260703155100002"
+    }
+   ]
+  },
+  "베노티앤알(206400)": {
+   "articles": [
+    {
+     "date": "2026-07-04",
+     "source": "연합뉴스·경제",
+     "title": "베노티앤알, 100억원 제3자배정 유상증자",
+     "link": "https://www.yna.co.kr/view/AKR20260703136400008"
+    }
+   ]
+  },
+  "케이피엠테크(042040)": {
+   "articles": [
+    {
+     "date": "2026-07-04",
+     "source": "연합뉴스·경제",
+     "title": "케이피엠테크, 225억원 유상증자…텔콘알에프제약에 제3자배정",
+     "link": "https://www.yna.co.kr/view/AKR20260703129000008"
+    }
+   ]
+  },
+  "텔콘알에프제약(200230)": {
+   "articles": [
+    {
+     "date": "2026-07-04",
+     "source": "연합뉴스·경제",
+     "title": "케이피엠테크, 225억원 유상증자…텔콘알에프제약에 제3자배정",
+     "link": "https://www.yna.co.kr/view/AKR20260703129000008"
+    }
+   ]
+  },
+  "HJ중공업(097230)": {
+   "articles": [
+    {
+     "date": "2026-07-04",
+     "source": "연합뉴스·경제",
+     "title": "부산 벡스코 3전시장 실시설계적격자에 HJ중공업 컨소시엄",
+     "link": "https://www.yna.co.kr/view/AKR20260703064400051"
+    }
+   ]
+  },
+  "아모레퍼시픽(090430)": {
+   "articles": [
+    {
+     "date": "2026-07-04",
+     "source": "연합뉴스·경제",
+     "title": "아모레퍼시픽, '아마존 프라임데이'서 역대 최대 매출 달성",
+     "link": "https://www.yna.co.kr/view/AKR20260703056600030"
+    }
+   ]
+  },
+  "CJ대한통운(000120)": {
+   "articles": [
+    {
+     "date": "2026-07-04",
+     "source": "연합뉴스·경제",
+     "title": "CJ대한통운 건설부문, 옛 서울극장 부지 재개발 수주",
+     "link": "https://www.yna.co.kr/view/AKR20260703055000003"
+    }
+   ]
+  },
+  "NH투자증권(005940)": {
+   "articles": [
+    {
+     "date": "2026-07-04",
+     "source": "머니투데이·증권",
+     "title": "네이버, 글로벌 AI 업체 공세에도 국내 성과 거둘것-NH투자증권",
+     "link": "https://news.mt.co.kr/mtview.php?no=2025091908543525544"
+    }
+   ]
+  },
+  "글로벌에스엠(900070)": {
+   "articles": [
+    {
+     "date": "2026-07-04",
+     "source": "아시아경제",
+     "title": "글로벌에스엠, 4족 보행 로봇 프로젝트 업체 선정",
+     "link": "https://view.asiae.co.kr/article/2026070310505051014"
+    }
+   ]
+  },
+  "앱클론(174900)": {
+   "articles": [
+    {
+     "date": "2026-07-04",
+     "source": "아시아경제",
+     "title": "앱클론, \"CAR-T 치료제 네스페셀 임상 2상 대상자 모집 완료\"",
+     "link": "https://view.asiae.co.kr/article/2026070308543360376"
+    },
+    {
+     "date": "2026-07-04",
+     "source": "이데일리·경제",
+     "title": "[임상 업데이트] 앱클론, AT101 2상 대상자 모집 완료",
+     "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=01138166645511240"
+    }
+   ]
+  },
+  "플래티어(367000)": {
+   "articles": [
+    {
+     "date": "2026-07-04",
+     "source": "아시아경제",
+     "title": "플래티어, iM캐피탈 AI 사업 수주…금융 특화 AX 역량 입증",
+     "link": "https://view.asiae.co.kr/article/2026070308263005033"
+    }
+   ]
+  },
+  "오브젠(417860)": {
+   "articles": [
+    {
+     "date": "2026-07-04",
+     "source": "아시아경제",
+     "title": "\"오브젠, AI 보안 신사업까지 모멘텀 강화\"",
+     "link": "https://view.asiae.co.kr/article/2026070307353646664"
+    }
+   ]
+  },
+  "레드캡투어(038390)": {
+   "articles": [
+    {
+     "date": "2026-07-04",
+     "source": "아시아경제",
+     "title": "레드캡투어, 50억원 규모 분기배당 실시…주당 300원 현금배당",
+     "link": "https://view.asiae.co.kr/article/2026070214313654375"
+    }
+   ]
+  },
+  "서울옥션(063170)": {
+   "articles": [
+    {
+     "date": "2026-07-04",
+     "source": "아시아경제",
+     "title": "서울옥션, 상반기 낙찰총액 643억 돌파…지난해 연간 규모 95% 달성",
+     "link": "https://view.asiae.co.kr/article/2026070210242962910"
+    }
+   ]
+  },
+  "동국제약(086450)": {
+   "articles": [
+    {
+     "date": "2026-07-04",
+     "source": "아시아경제",
+     "title": "동국제약, 전립선비대증 개량신약 '유레스코' 중남미 진출",
+     "link": "https://view.asiae.co.kr/article/2026070209415184367"
+    }
+   ]
+  },
+  "다날(064260)": {
+   "articles": [
+    {
+     "date": "2026-07-04",
+     "source": "아시아경제",
+     "title": "다날, 강남에 '콘다' 키오스크 구축…\"12조 K의료관광 결제 잇는다\"",
+     "link": "https://view.asiae.co.kr/article/2026070209180438205"
+    }
+   ]
+  },
+  "한국주강(025890)": {
+   "articles": [
+    {
+     "date": "2026-07-04",
+     "source": "아시아경제",
+     "title": "한국주강, 고부가 주강 중심 사업 재편…\"하만규 대표 자사주 매입으로 책임경영 강화\"",
+     "link": "https://view.asiae.co.kr/article/2026070209140738573"
+    }
+   ]
+  },
+  "에스넷(038680)": {
+   "articles": [
+    {
+     "date": "2026-07-04",
+     "source": "아시아경제",
+     "title": "에스넷그룹, 책임경영 강화 위한 2026년 하반기 조직개편…AI 미래사업 역량 집중",
+     "link": "https://view.asiae.co.kr/article/2026070209031728906"
+    }
+   ]
+  },
+  "비엘팜텍(065170)": {
+   "articles": [
+    {
+     "date": "2026-07-04",
+     "source": "아시아경제",
+     "title": "비엘팜텍 \"BIO USA 2026서 분자접착제 항암제 글로벌 협력 성과 가시화\"",
+     "link": "https://view.asiae.co.kr/article/2026070208580588496"
+    },
+    {
+     "date": "2026-07-04",
+     "source": "이데일리·경제",
+     "title": "비엘팜텍, 성과 구체화에 '상한가'…삼천당제약은 하락[바이오맥짚기]",
+     "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=01177526645511240"
+    }
+   ]
+  },
+  "프레스티지바이오파마(950210)": {
+   "articles": [
+    {
+     "date": "2026-07-04",
+     "source": "아시아경제",
+     "title": "프레스티지바이오파마, 찰스리버레버토리즈와 전략적 업무협약 체결",
+     "link": "https://view.asiae.co.kr/article/2026070208280684710"
+    }
+   ]
+  },
+  "이수스페셜티케미컬(457190)": {
+   "articles": [
+    {
+     "date": "2026-07-04",
+     "source": "pinpointnews.co.kr",
+     "title": "- 이수스페셜티케미컬(457190)·중 [신규·검토 추가] · [전고체] 황화리튬 — 삼성SDI 16조 투자 최상류 소재.",
+     "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=437465"
+    }
+   ]
   }
  },
- "updatedAt": "2026-07-03T19:00:04+09:00"
+ "updatedAt": "2026-07-04T11:44:07+09:00"
 }
