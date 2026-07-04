@@ -727,6 +727,12 @@
   "삼성전자(005930)": {
    "articles": [
     {
+     "date": "2026-07-04",
+     "source": "한국경제·경제",
+     "title": "6억 성과급에도 \"돈 더 달라\"…삼성전자 '임금 전쟁' 2차전 [김대영의 노무스쿨]",
+     "link": "https://www.hankyung.com/article/202607034855g"
+    },
+    {
      "date": "2026-07-03",
      "source": "한국경제·경제",
      "title": "美매체 \"앤트로픽, 삼성전자와 AI칩 생산 논의\"",
@@ -1579,6 +1585,12 @@
   "아마존(AMZN)": {
    "articles": [
     {
+     "date": "2026-07-04",
+     "source": "아시아경제",
+     "title": "[주末머니]K-뷰티, 아마존 제품 순위 UP…\"이 종목 주목\"",
+     "link": "https://view.asiae.co.kr/article/2026070215372552439"
+    },
+    {
      "date": "2026-07-03",
      "source": "한국경제·경제",
      "title": "아이패드보다 제로모공패드…K뷰티, 美아마존서 또 잭팟 [장서우의 하입:hype]",
@@ -2387,6 +2399,12 @@
   "인텔(INTC)": {
    "articles": [
     {
+     "date": "2026-07-04",
+     "source": "한국경제·경제",
+     "title": "인텔도 2조3000억 쏟아부었다…반도체 판 뒤흔드는 나라 [테크로그]",
+     "link": "https://www.hankyung.com/article/202607034268g"
+    },
+    {
      "date": "2026-06-30",
      "source": "한국경제·증권",
      "title": "\"스탯·블루밍비트, 기관용 AI 인텔리전스 '블루밍비트 알파' 공개\"",
@@ -3009,6 +3027,12 @@
      "source": "한국경제·증권",
      "title": "'믿을맨' 삼전닉스 반등…메타발 업황 우려 이겨낼까 [종목+]",
      "link": "https://www.hankyung.com/article/2026070346796"
+    },
+    {
+     "date": "2026-07-04",
+     "source": "아시아경제",
+     "title": "메타의 클라우드 진출에 방긋 웃는 국내 기업은? [주末머니]",
+     "link": "https://view.asiae.co.kr/article/2026070215352191792"
     },
     {
      "date": "2026-07-03",
@@ -7191,6 +7215,12 @@
      "link": "https://www.yna.co.kr/view/AKR20260703151000008"
     },
     {
+     "date": "2026-07-04",
+     "source": "한국경제·증권",
+     "title": "블룸버그 \"SK하닉 ADR 상장 수수료율 0.5% 검토\"",
+     "link": "https://www.hankyung.com/article/2026070455447"
+    },
+    {
      "date": "2026-07-03",
      "source": "한국경제·경제",
      "title": "SK그룹, 협력사에 1조4000억 지원",
@@ -8789,9 +8819,91 @@
      "source": "pinpointnews.co.kr",
      "title": "- 이수스페셜티케미컬(457190)·중 [신규·검토 추가] · [전고체] 황화리튬 — 삼성SDI 16조 투자 최상류 소재.",
      "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=437465"
+    },
+    {
+     "date": "2026-07-04",
+     "source": "한국경제",
+     "title": "- 이수스페셜티케미컬(457190)·중 [누적 3회·↗] · [전고체] 황화리튬 40→150톤 증설 — 삼성SDI 16조의 최상류.",
+     "link": "https://www.hankyung.com/article/2026070344587"
+    }
+   ]
+  },
+  "BYD(1211.HK)": {
+   "articles": [
+    {
+     "date": "2026-07-04",
+     "source": "한국경제·경제",
+     "title": "BYD, 상반기 1만대 판매 돌파…단숨에 수입차 4위로",
+     "link": "https://www.hankyung.com/article/2026070349201"
+    }
+   ]
+  },
+  "삼천당제약(000250)": {
+   "articles": [
+    {
+     "date": "2026-07-04",
+     "source": "이데일리·경제",
+     "title": "비엘팜텍, 성과 구체화에 '상한가'…삼천당제약은 하락[바이오맥짚기]",
+     "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=01177526645511240"
+    }
+   ]
+  },
+  "GS리테일(007070)": {
+   "articles": [
+    {
+     "date": "2026-07-04",
+     "source": "머니투데이·증권",
+     "title": "시니어 채용 나선 GS리테일...'더 라이프 스타일 박람회'서 채용 설명",
+     "link": "https://news.mt.co.kr/mtview.php?no=2025091816172095704"
+    },
+    {
+     "date": "2026-07-04",
+     "source": "머니투데이·증권",
+     "title": "GS리테일, 3Q 소비쿠폰 수혜…성장세 돌아설 것-IBK",
+     "link": "https://news.mt.co.kr/mtview.php?no=2025091908342297017"
+    }
+   ]
+  },
+  "성호전자(043100)": {
+   "articles": [
+    {
+     "date": "2026-07-04",
+     "source": "아시아경제",
+     "title": "성호전자 \"최대주주 주담대 추가 담보 여력 충분…선제적 담보 10% 추가 제공\"",
+     "link": "https://view.asiae.co.kr/article/2026070214290381818"
+    }
+   ]
+  },
+  "케이엠제약(225430)": {
+   "articles": [
+    {
+     "date": "2026-07-04",
+     "source": "아시아경제",
+     "title": "케이엠제약, '뽀로로 치약' 앞세워 아시아 시장 수출 확대",
+     "link": "https://view.asiae.co.kr/article/2026070210333054190"
+    }
+   ]
+  },
+  "디케이락(105740)": {
+   "articles": [
+    {
+     "date": "2026-07-04",
+     "source": "biz.heraldcorp.com",
+     "title": "- 디케이락(105740)·소 [신규] · [SMR] 계장용 피팅·밸브 — 두산과 원전 핵심부품 공동 제작 이력, SMR 테마 기사엔 아직 미거명.",
+     "link": "https://biz.heraldcorp.com/article/10797677"
+    }
+   ]
+  },
+  "와이씨켐(112290)": {
+   "articles": [
+    {
+     "date": "2026-07-04",
+     "source": "한국경제",
+     "title": "- 와이씨켐(112290)·소 [누적 3회·↗] · [유리기판] 소재(PR·코팅제) — 장비주만 급등한 테마의 소재 공백.",
+     "link": "https://www.hankyung.com/article/2026070348851"
     }
    ]
   }
  },
- "updatedAt": "2026-07-04T11:44:07+09:00"
+ "updatedAt": "2026-07-04T19:00:08+09:00"
 }

@@ -1,6 +1,6 @@
 {
- "updatedAt": "2026-07-04T07:00:00+09:00",
- "session": "AM",
+ "updatedAt": "2026-07-04T19:05:00+09:00",
+ "session": "PM",
  "stock_fng": {
   "value": 32,
   "label": "Fear",
@@ -57,9 +57,9 @@
   },
   {
    "name": "원/달러",
-   "value": "1,525.6",
-   "change": "-30.2원",
-   "source": "https://www.yna.co.kr/view/AKR20260703110700002"
+   "value": "1,530.0",
+   "change": "야간장 -25.8원(주간 종가比 +4.4원)",
+   "source": "https://www.asiae.co.kr/article/2026070409364745443"
   }
  ]
 }
