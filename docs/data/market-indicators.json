@@ -1,6 +1,6 @@
 {
- "updatedAt": "2026-07-04T19:05:00+09:00",
- "session": "PM",
+ "updatedAt": "2026-07-05T07:11:15+09:00",
+ "session": "AM",
  "stock_fng": {
   "value": 32,
   "label": "Fear",
@@ -11,7 +11,7 @@
    "name": "코스피",
    "value": "8,088.34",
    "change": "+5.76%",
-   "source": "https://www.yna.co.kr/view/AKR20260703118500008"
+   "source": "https://view.asiae.co.kr/article/2026070315342686706"
   },
   {
    "name": "코스닥",
@@ -22,13 +22,13 @@
   {
    "name": "S&P 500",
    "value": "7,483.24",
-   "change": "+0.01%",
+   "change": "+0.0%",
    "source": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-july-2-2026"
   },
   {
    "name": "나스닥",
    "value": "25,832.67",
-   "change": "-0.80%",
+   "change": "-0.8%",
    "source": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-july-2-2026"
   },
   {
@@ -39,15 +39,15 @@
   },
   {
    "name": "VIX",
-   "value": "16.15",
-   "change": "-",
-   "source": "https://www.advisorperspectives.com/dshort/updates/2026/07/02/treasury-yields-snapshot-july-2-2026"
+   "value": "15.97",
+   "change": "-1.11%",
+   "source": "https://streetstats.finance/markets/volatility"
   },
   {
    "name": "美 10년물",
    "value": "4.49%",
-   "change": "-",
-   "source": "https://www.advisorperspectives.com/dshort/updates/2026/07/02/treasury-yields-snapshot-july-2-2026"
+   "change": "보합",
+   "source": "https://fred.stlouisfed.org/series/DGS10"
   },
   {
    "name": "달러인덱스(DXY)",
@@ -58,8 +58,8 @@
   {
    "name": "원/달러",
    "value": "1,530.0",
-   "change": "야간장 -25.8원(주간 종가比 +4.4원)",
-   "source": "https://www.asiae.co.kr/article/2026070409364745443"
+   "change": "+4.4",
+   "source": "https://www.yna.co.kr/view/AKR20260704003600002"
   }
  ]
 }
