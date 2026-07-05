@@ -3,6 +3,18 @@
   "SK하이닉스(000660)": {
    "articles": [
     {
+     "date": "2026-07-06",
+     "source": "한국경제·증권",
+     "title": "초고수들의 선택은 여전히 SK하이닉스…ADR 상장에 기대감↑",
+     "link": "https://www.hankyung.com/article/202607056048i"
+    },
+    {
+     "date": "2026-07-06",
+     "source": "파이낸셜뉴스",
+     "title": "삼성전자도, SK하이닉스도 아니다…상반기 코스피 '상승률 1위' 반전 종목은?",
+     "link": "https://www.fnnews.com/news/202607060505207549"
+    },
+    {
      "date": "2026-07-05",
      "source": "한국경제·증권",
      "title": "\"수수료만 2000억\"…SK하이닉스 역대급 상장에 월가 들썩",
@@ -709,23 +721,77 @@
      "source": "아시아경제",
      "title": "- SK하이닉스(000660): 장중 270만원 돌파, 2분기 영업이익 61조 전망·ADR 상장 모멘텀 거론. 단 고밸류·쏠림 부담.",
      "link": "https://view.asiae.co.kr/article/2026061810194735933"
-    },
-    {
-     "date": "2026-06-17",
-     "source": "한국경제",
-     "title": "- SK하이닉스(000660): 약세 출발 후 상승 전환 시도. \"메모리 수요 2만배\" 목표가 줄상향.",
-     "link": "https://www.hankyung.com/article/2026061601371"
-    },
-    {
-     "date": "2026-06-17",
-     "source": "연합뉴스",
-     "title": "- SK하이닉스(000660): 장중 5%대 급등하며 사상 첫 250만원 돌파, 종가도 신고가. 메모리 슈퍼사이클 기대가 견인.",
-     "link": "https://www.yna.co.kr/view/AKR20260617042652008"
     }
    ]
   },
   "삼성전자(005930)": {
    "articles": [
+    {
+     "date": "2026-07-06",
+     "source": "한국경제·경제",
+     "title": "삼성전자 사내 주택대출, '국평' 85㎡ 이하로 제한",
+     "link": "https://www.hankyung.com/article/2026070565981"
+    },
+    {
+     "date": "2026-07-06",
+     "source": "한국경제·경제",
+     "title": "'국평' 이하만 빌려준다…'최대 5억' 삼성전자 대출 근황",
+     "link": "https://www.hankyung.com/article/2026070565417"
+    },
+    {
+     "date": "2026-07-06",
+     "source": "한국경제·경제",
+     "title": "삼성전자 무풍 에어컨, 10년 만에 2000만대 판매",
+     "link": "https://www.hankyung.com/article/2026070564291"
+    },
+    {
+     "date": "2026-07-06",
+     "source": "한국경제·경제",
+     "title": "삼성전자 실적부터 FOMC 의사록까지…증시 향방은",
+     "link": "https://www.hankyung.com/article/202607056281i"
+    },
+    {
+     "date": "2026-07-06",
+     "source": "한국경제·증권",
+     "title": "삼성전자 100조 넘을까…AI랠리 분수령",
+     "link": "https://www.hankyung.com/article/2026070564551"
+    },
+    {
+     "date": "2026-07-06",
+     "source": "연합뉴스·경제",
+     "title": "삼성전자, 5억원 사내 주택자금 대출 대상 '국평' 이하로 제한",
+     "link": "https://www.yna.co.kr/view/AKR20260705041400003"
+    },
+    {
+     "date": "2026-07-06",
+     "source": "연합뉴스·경제",
+     "title": "삼성전자 무풍 에어컨 출시 10년…글로벌 누적판매 2천만대 넘어",
+     "link": "https://www.yna.co.kr/view/AKR20260705011100003"
+    },
+    {
+     "date": "2026-07-06",
+     "source": "연합뉴스·경제",
+     "title": "삼성전자 작년 정보보호 투자 4천억 넘겨…전자 관계사들도 증액",
+     "link": "https://www.yna.co.kr/view/AKR20260703113300003"
+    },
+    {
+     "date": "2026-07-06",
+     "source": "이데일리·경제",
+     "title": "삼성전자의 달러 스테이블코인 참여, 어떻게 볼 것인가",
+     "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=01134886645511568"
+    },
+    {
+     "date": "2026-07-06",
+     "source": "파이낸셜뉴스",
+     "title": "삼성전자도, SK하이닉스도 아니다…상반기 코스피 '상승률 1위' 반전 종목은?",
+     "link": "https://www.fnnews.com/news/202607060505207549"
+    },
+    {
+     "date": "2026-07-06",
+     "source": "아시아경제",
+     "title": "[마켓 ING]출렁이는 코스피, 삼성전자 실적 주목",
+     "link": "https://view.asiae.co.kr/article/2026070513525912103"
+    },
     {
      "date": "2026-07-05",
      "source": "연합뉴스·경제",
@@ -2281,6 +2347,12 @@
   "엔비디아(NVDA)": {
    "articles": [
     {
+     "date": "2026-07-06",
+     "source": "한국경제·경제",
+     "title": "中 내수 90% 장악한 '레드칩 원팀'…엔비디아 연합군 흔든다",
+     "link": "https://www.hankyung.com/article/2026070564121"
+    },
+    {
      "date": "2026-07-03",
      "source": "한국경제·경제",
      "title": "美 수출통제 강화에…中암시장 엔비디아 가격 두 배 뛰었다",
@@ -2492,6 +2564,12 @@
   },
   "카카오(035720)": {
    "articles": [
+    {
+     "date": "2026-07-06",
+     "source": "연합뉴스·경제",
+     "title": "카카오-기상청, 위험기상 대응 업무협약…모금 캠페인도",
+     "link": "https://www.yna.co.kr/view/AKR20260705015500017"
+    },
     {
      "date": "2026-07-02",
      "source": "연합뉴스·경제",
@@ -2766,6 +2844,18 @@
   },
   "스페이스X(SPCX)": {
    "articles": [
+    {
+     "date": "2026-07-06",
+     "source": "연합뉴스·경제",
+     "title": "우주도 플랫폼 시대…'한국판 스페이스X' 탄생할까",
+     "link": "https://www.yna.co.kr/view/AKR20260704036100017"
+    },
+    {
+     "date": "2026-07-06",
+     "source": "이데일리·경제",
+     "title": "국내 첫 ‘농림위성’, 스페이스X 팰컨9 타고 내일 우주로",
+     "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=01538326645511568"
+    },
     {
      "date": "2026-07-01",
      "source": "연합뉴스·경제",
@@ -4285,6 +4375,12 @@
   "LG화학(051910)": {
    "articles": [
     {
+     "date": "2026-07-06",
+     "source": "한국경제·경제",
+     "title": "LG화학, 앰코에 반도체 후공정 소재 공급",
+     "link": "https://www.hankyung.com/article/2026070564261"
+    },
+    {
      "date": "2026-07-01",
      "source": "연합뉴스·경제",
      "title": "LG화학, 'K-뉴딜 아카데미' 교육생 모집…AI 활용 실무 과정",
@@ -4851,6 +4947,12 @@
   "LG전자(066570)": {
    "articles": [
     {
+     "date": "2026-07-06",
+     "source": "연합뉴스·경제",
+     "title": "LG전자, 미국 보스턴에 초프리미엄 가전브랜드 SKS 경험 공간",
+     "link": "https://www.yna.co.kr/view/AKR20260705009400003"
+    },
+    {
      "date": "2026-07-03",
      "source": "한국경제·증권",
      "title": "\"LG전자, 2분기 호실적·신사업 본격화 긍정적…목표가↑\"-하나",
@@ -5273,6 +5375,12 @@
   "한화오션(042660)": {
    "articles": [
     {
+     "date": "2026-07-06",
+     "source": "이데일리·경제",
+     "title": "조선소 ‘마지막 수작업’ 물류 자동화 착수…삼성重·한화오션 실증",
+     "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=01594086645511568"
+    },
+    {
      "date": "2026-07-02",
      "source": "한국경제·경제",
      "title": "2년 표류 끝에…한화오션, 7.8조 KDDX 선도함 우선협상대상자 선정",
@@ -5341,6 +5449,12 @@
   "비츠로셀(082920)": {
    "articles": [
     {
+     "date": "2026-07-06",
+     "source": "한국경제·경제",
+     "title": "장승국 비츠로셀 대표 \"美 빅테크에 데이터센터 배터리 공급 추진\"",
+     "link": "https://www.hankyung.com/article/2026070564431"
+    },
+    {
      "date": "2026-06-23",
      "source": "한국경제",
      "title": "- 비츠로셀(082920)·소 [조기단계: 신규 부상·↗] · [AI데이터센터 백업전원] 리튬일차전지 · 美 빅테크 데이터센터용 배터리 공급 논의 공개로 막 부상",
@@ -5350,6 +5464,12 @@
   },
   "LS(006260)": {
    "articles": [
+    {
+     "date": "2026-07-06",
+     "source": "MarketWatch",
+     "title": "OPEC+ raises output levels again despite tumbling crude prices",
+     "link": "https://www.marketwatch.com/story/opec-raises-output-levels-again-despite-tumbling-crude-prices-534791c8?mod=mw_rss_topstories"
+    },
     {
      "date": "2026-07-04",
      "source": "이데일리·경제",
@@ -5749,6 +5869,12 @@
   "에스원(012750)": {
    "articles": [
     {
+     "date": "2026-07-06",
+     "source": "이데일리·경제",
+     "title": "에스원·에스텍시스템 ‘아파트 경비용역’ 입찰 담합 적발",
+     "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=01508806645511568"
+    },
+    {
      "date": "2026-06-24",
      "source": "한국경제·경제",
      "title": "[단독] '행동주의' FCP, 에스원에 주주가치 제고 요구",
@@ -6118,6 +6244,12 @@
   },
   "테슬라(TSLA)": {
    "articles": [
+    {
+     "date": "2026-07-06",
+     "source": "한국경제·증권",
+     "title": "2분기 실적 곧 내놓는 테슬라…현재 시점의 투자전략 짜보니",
+     "link": "https://www.hankyung.com/article/202607034684i"
+    },
     {
      "date": "2026-07-01",
      "source": "아시아경제",
@@ -7065,6 +7197,12 @@
   "에코프로(086520)": {
    "articles": [
     {
+     "date": "2026-07-06",
+     "source": "한국경제·경제",
+     "title": "10주년 맞은 에코프로비엠…\"인니 투자로 미래 10년 준비\"",
+     "link": "https://www.hankyung.com/article/2026070565231"
+    },
+    {
      "date": "2026-07-01",
      "source": "한국경제·증권",
      "title": "에코프로비엠, 1조2000억 규모 유상증자 결정…\"인니 투자\"",
@@ -7220,6 +7358,30 @@
   },
   "SK(034730)": {
    "articles": [
+    {
+     "date": "2026-07-06",
+     "source": "한국경제·증권",
+     "title": "수수료 2000억에 들썩…SK하닉 '초대형 미국 상장' 예고",
+     "link": "https://www.hankyung.com/article/2026070564737"
+    },
+    {
+     "date": "2026-07-06",
+     "source": "한국경제·증권",
+     "title": "초고수들의 선택은 여전히 SK하이닉스…ADR 상장에 기대감↑",
+     "link": "https://www.hankyung.com/article/202607056048i"
+    },
+    {
+     "date": "2026-07-06",
+     "source": "연합뉴스·경제",
+     "title": "LG전자, 미국 보스턴에 초프리미엄 가전브랜드 SKS 경험 공간",
+     "link": "https://www.yna.co.kr/view/AKR20260705009400003"
+    },
+    {
+     "date": "2026-07-06",
+     "source": "파이낸셜뉴스",
+     "title": "삼성전자도, SK하이닉스도 아니다…상반기 코스피 '상승률 1위' 반전 종목은?",
+     "link": "https://www.fnnews.com/news/202607060505207549"
+    },
     {
      "date": "2026-07-04",
      "source": "한국경제·증권",
@@ -7542,6 +7704,12 @@
   },
   "에코프로비엠(247540)": {
    "articles": [
+    {
+     "date": "2026-07-06",
+     "source": "한국경제·경제",
+     "title": "10주년 맞은 에코프로비엠…\"인니 투자로 미래 10년 준비\"",
+     "link": "https://www.hankyung.com/article/2026070565231"
+    },
     {
      "date": "2026-07-01",
      "source": "한국경제·증권",
@@ -8531,6 +8699,12 @@
   "한화(000880)": {
    "articles": [
     {
+     "date": "2026-07-06",
+     "source": "이데일리·경제",
+     "title": "조선소 ‘마지막 수작업’ 물류 자동화 착수…삼성重·한화오션 실증",
+     "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=01594086645511568"
+    },
+    {
      "date": "2026-07-04",
      "source": "한국경제·경제",
      "title": "삼성 SK 현대차 LG 한화, 영남에 312조 투자…우주·로봇 허브로",
@@ -8977,6 +9151,24 @@
   "이지트로닉스(377330)": {
    "articles": [
     {
+     "date": "2026-07-06",
+     "source": "머니투데이·증권",
+     "title": "[더벨][이지트로닉스 줌인]인도·중국 해외사업 성과 '관건'",
+     "link": "https://news.mt.co.kr/mtview.php?no=2025091914269635807"
+    },
+    {
+     "date": "2026-07-06",
+     "source": "머니투데이·증권",
+     "title": "[더벨][이지트로닉스 줌인]SKT 해킹사태 여파, 통신 매출 '뚝'",
+     "link": "https://news.mt.co.kr/mtview.php?no=2025091914269652580"
+    },
+    {
+     "date": "2026-07-06",
+     "source": "머니투데이·증권",
+     "title": "[더벨][이지트로닉스 줌인]2022년 상장 후 최대 손실 \"내년 BEP 목표\"",
+     "link": "https://news.mt.co.kr/mtview.php?no=2025091914269684619"
+    },
+    {
      "date": "2026-07-05",
      "source": "etoday.co.kr",
      "title": "- 이지트로닉스(377330)·소 [첫등장 D-7·누적 12회·↗] · [AI전력·DC망] 전력변환 모듈 — 방산용 전력변환 고객사 검증 통과·수주 임박. 리스크",
@@ -8985,5 +9177,5 @@
    ]
   }
  },
- "updatedAt": "2026-07-05T21:50:55+09:00"
+ "updatedAt": "2026-07-06T07:07:02+09:00"
 }
