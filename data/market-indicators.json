@@ -1,17 +1,18 @@
 {
- "updatedAt": "2026-07-05T07:11:15+09:00",
- "session": "AM",
+ "updatedAt": "2026-07-06T00:05:00+09:00",
+ "session": "PM",
+ "note": "주말(7/5 일요일) — 한·미 증시 휴장. 지수는 직전 거래일 종가(한국 7/3, 미국 7/2) 기준.",
  "stock_fng": {
   "value": 32,
   "label": "Fear",
-  "source": "https://www.cnn.com/markets/fear-and-greed"
+  "source": "https://feargreedmeter.com/"
  },
  "indices": [
   {
    "name": "코스피",
    "value": "8,088.34",
    "change": "+5.76%",
-   "source": "https://view.asiae.co.kr/article/2026070315342686706"
+   "source": "https://www.yna.co.kr/view/AKR20260703118500008"
   },
   {
    "name": "코스닥",
@@ -58,7 +59,7 @@
   {
    "name": "원/달러",
    "value": "1,530.0",
-   "change": "+4.4",
+   "change": "+4.4 (7/4 야간 마감)",
    "source": "https://www.yna.co.kr/view/AKR20260704003600002"
   }
  ]
