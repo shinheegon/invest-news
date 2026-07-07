@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-07-07T19:55:38+09:00",
+ "updatedAt": "2026-07-07T20:54:25+09:00",
  "cases": [
   {
    "name": "이지트로닉스(377330)",
@@ -150,6 +150,1078 @@
    ],
    "checks": [],
    "status": "pending"
+  },
+  {
+   "name": "다이나믹솔루션(070120)",
+   "type": "leading",
+   "market": "韓",
+   "flagDate": "2026-06-21",
+   "flagPrice": null,
+   "signals": [
+    "글로벌 전시 연속 참가",
+    "로봇손 신제품"
+   ],
+   "theme": "AI데이터센터",
+   "priceLog": [],
+   "checks": [],
+   "status": "pending",
+   "backfill": true
+  },
+  {
+   "name": "에스피지(058610)",
+   "type": "leading",
+   "market": "韓",
+   "flagDate": "2026-06-21",
+   "flagPrice": null,
+   "signals": [
+    "테마첫거론",
+    "국산화"
+   ],
+   "theme": "휴머노이드감속기",
+   "priceLog": [],
+   "checks": [],
+   "status": "pending",
+   "backfill": true
+  },
+  {
+   "name": "와이엠티(251370)",
+   "type": "leading",
+   "market": "韓",
+   "flagDate": "2026-06-22",
+   "flagPrice": null,
+   "signals": [
+    "국산화",
+    "테마첫거론"
+   ],
+   "theme": "반도체도금소재",
+   "priceLog": [],
+   "checks": [],
+   "status": "pending",
+   "backfill": true
+  },
+  {
+   "name": "필옵틱스(161580)",
+   "type": "leading",
+   "market": "韓",
+   "flagDate": "2026-06-22",
+   "flagPrice": null,
+   "signals": [
+    "양산장비레퍼런스(TGV)",
+    "테마첫거론"
+   ],
+   "theme": "AI반도체/유리기판",
+   "priceLog": [],
+   "checks": [],
+   "status": "pending",
+   "backfill": true
+  },
+  {
+   "name": "엠케이전자(033160)",
+   "type": "leading",
+   "market": "韓",
+   "flagDate": "2026-06-22",
+   "flagPrice": null,
+   "signals": [
+    "테마첫거론",
+    "글로벌수출확대"
+   ],
+   "theme": "HBM/반도체소재",
+   "priceLog": [],
+   "checks": [],
+   "status": "pending",
+   "backfill": true
+  },
+  {
+   "name": "나노팀(417010)",
+   "type": "leading",
+   "market": "韓",
+   "flagDate": "2026-06-22",
+   "flagPrice": null,
+   "signals": [
+    "대형고객공급계약",
+    "테마첫거론"
+   ],
+   "theme": "2차전지안전소재",
+   "priceLog": [],
+   "checks": [],
+   "status": "pending",
+   "backfill": true
+  },
+  {
+   "name": "덕산넵코어스(360030)",
+   "type": "leading",
+   "market": "韓",
+   "flagDate": "2026-06-22",
+   "flagPrice": null,
+   "signals": [
+    "드론국산화재부각",
+    "신규기술개발",
+    "테마첫거론"
+   ],
+   "theme": "대드론/방산",
+   "priceLog": [],
+   "checks": [],
+   "status": "pending",
+   "backfill": true
+  },
+  {
+   "name": "에스에너지(095910)",
+   "type": "leading",
+   "market": "韓",
+   "flagDate": "2026-06-22",
+   "flagPrice": null,
+   "signals": [
+    "국책과제주관",
+    "테마첫거론"
+   ],
+   "theme": "해상태양광",
+   "priceLog": [],
+   "checks": [],
+   "status": "pending",
+   "backfill": true
+  },
+  {
+   "name": "비츠로셀(082920)",
+   "type": "leading",
+   "market": "韓",
+   "flagDate": "2026-06-23",
+   "flagPrice": null,
+   "signals": [
+    "대형고객사공급논의",
+    "신사업매출가시화"
+   ],
+   "theme": "AI데이터센터 전력백업",
+   "priceLog": [],
+   "checks": [],
+   "status": "pending",
+   "backfill": true
+  },
+  {
+   "name": "마이크로디지탈(305090)",
+   "type": "leading",
+   "market": "韓",
+   "flagDate": "2026-06-23",
+   "flagPrice": null,
+   "signals": [
+    "대형고객검증진입"
+   ],
+   "theme": "바이오공정",
+   "priceLog": [],
+   "checks": [],
+   "status": "pending",
+   "backfill": true
+  },
+  {
+   "name": "네온테크(306620)",
+   "type": "leading",
+   "market": "韓",
+   "flagDate": "2026-06-23",
+   "flagPrice": null,
+   "signals": [
+    "캐파증설",
+    "BW조달"
+   ],
+   "theme": "반도체 본딩",
+   "priceLog": [],
+   "checks": [],
+   "status": "pending",
+   "backfill": true
+  },
+  {
+   "name": "이엠앤아이(481070)",
+   "type": "leading",
+   "market": "韓",
+   "flagDate": "2026-06-23",
+   "flagPrice": null,
+   "signals": [
+    "국책과제주관"
+   ],
+   "theme": "제조로봇",
+   "priceLog": [],
+   "checks": [],
+   "status": "pending",
+   "backfill": true
+  },
+  {
+   "name": "위지트(036090)",
+   "type": "leading",
+   "market": "韓",
+   "flagDate": "2026-06-23",
+   "flagPrice": null,
+   "signals": [
+    "자회사가치재평가"
+   ],
+   "theme": "반도체소부장",
+   "priceLog": [],
+   "checks": [],
+   "status": "pending",
+   "backfill": true
+  },
+  {
+   "name": "라온시큐어(042510)",
+   "type": "leading",
+   "market": "韓",
+   "flagDate": "2026-06-24",
+   "flagPrice": null,
+   "signals": [
+    "대표자사주매입",
+    "테마첫거론"
+   ],
+   "theme": "AI보안",
+   "priceLog": [],
+   "checks": [],
+   "status": "pending",
+   "backfill": true
+  },
+  {
+   "name": "캐프(065950)",
+   "type": "leading",
+   "market": "韓",
+   "flagDate": "2026-06-25",
+   "flagPrice": null,
+   "signals": [
+    "대형납품(스웨덴빌테마공급계약)",
+    "유럽시장진출",
+    "해외공급계약"
+   ],
+   "theme": "전장·수출",
+   "priceLog": [],
+   "checks": [],
+   "status": "pending",
+   "backfill": true
+  },
+  {
+   "name": "티로보틱스(117730)",
+   "type": "leading",
+   "market": "韓",
+   "flagDate": "2026-06-26",
+   "flagPrice": null,
+   "signals": [
+    "테마첫거론",
+    "대형납품(美ESS)"
+   ],
+   "theme": "휴머노이드·ESS",
+   "priceLog": [],
+   "checks": [],
+   "status": "pending",
+   "backfill": true
+  },
+  {
+   "name": "코이즈(121850)",
+   "type": "leading",
+   "market": "韓",
+   "flagDate": "2026-06-26",
+   "flagPrice": null,
+   "signals": [
+    "특허",
+    "신제품"
+   ],
+   "theme": "이차전지 첨가제",
+   "priceLog": [],
+   "checks": [],
+   "status": "pending",
+   "backfill": true
+  },
+  {
+   "name": "멕아이씨에스(057880)",
+   "type": "leading",
+   "market": "韓",
+   "flagDate": "2026-06-26",
+   "flagPrice": null,
+   "signals": [
+    "인증(FDA)",
+    "대형납품(美출하)"
+   ],
+   "theme": "의료기기",
+   "priceLog": [],
+   "checks": [],
+   "status": "pending",
+   "backfill": true
+  },
+  {
+   "name": "에어레인(316140)",
+   "type": "leading",
+   "market": "韓",
+   "flagDate": "2026-06-27",
+   "flagPrice": null,
+   "signals": [
+    "국산화",
+    "신제품"
+   ],
+   "theme": "수소·분리막",
+   "priceLog": [],
+   "checks": [],
+   "status": "pending",
+   "backfill": true
+  },
+  {
+   "name": "부강테크(279960)",
+   "type": "leading",
+   "market": "韓",
+   "flagDate": "2026-06-27",
+   "flagPrice": null,
+   "signals": [
+    "대형사MOU",
+    "신시장진출"
+   ],
+   "theme": "배터리수처리",
+   "priceLog": [],
+   "checks": [],
+   "status": "pending",
+   "backfill": true
+  },
+  {
+   "name": "에이루트(096690)",
+   "type": "leading",
+   "market": "韓",
+   "flagDate": "2026-06-30",
+   "flagPrice": null,
+   "signals": [
+    "해외수주",
+    "노광장비"
+   ],
+   "theme": "후공정",
+   "priceLog": [],
+   "checks": [],
+   "status": "pending",
+   "backfill": true
+  },
+  {
+   "name": "다이나믹솔루션(287410)",
+   "type": "leading",
+   "market": "韓",
+   "flagDate": "2026-06-30",
+   "flagPrice": null,
+   "signals": [
+    "캐파증설",
+    "HBM소재"
+   ],
+   "theme": "HBM",
+   "priceLog": [],
+   "checks": [],
+   "status": "pending",
+   "backfill": true
+  },
+  {
+   "name": "씨앤지하이테크(264660)",
+   "type": "leading",
+   "market": "韓",
+   "flagDate": "2026-06-30",
+   "flagPrice": null,
+   "signals": [
+    "공급계약",
+    "반도체장비"
+   ],
+   "theme": "반도체장비",
+   "priceLog": [],
+   "checks": [],
+   "status": "pending",
+   "backfill": true
+  },
+  {
+   "name": "코아시아씨엠(900790)",
+   "type": "leading",
+   "market": "韓",
+   "flagDate": "2026-06-30",
+   "flagPrice": null,
+   "signals": [
+    "테마첫거론",
+    "전장로봇광학"
+   ],
+   "theme": "로봇광학",
+   "priceLog": [],
+   "checks": [],
+   "status": "pending",
+   "backfill": true
+  },
+  {
+   "name": "케이엔에스(432470)",
+   "type": "leading",
+   "market": "韓",
+   "flagDate": "2026-07-01",
+   "flagPrice": null,
+   "signals": [
+    "테마첫거론",
+    "다크팩토리수혜"
+   ],
+   "theme": "피지컬AI",
+   "priceLog": [],
+   "checks": [],
+   "status": "pending",
+   "backfill": true
+  },
+  {
+   "name": "코아시아씨엠(378340)",
+   "type": "leading",
+   "market": "韓",
+   "flagDate": "2026-07-01",
+   "flagPrice": null,
+   "signals": [
+    "테마첫거론",
+    "전장·로봇확장"
+   ],
+   "theme": "전장/로봇",
+   "priceLog": [],
+   "checks": [],
+   "status": "pending",
+   "backfill": true
+  },
+  {
+   "name": "오텍(067170)",
+   "type": "leading",
+   "market": "韓",
+   "flagDate": "2026-07-01",
+   "flagPrice": null,
+   "signals": [
+    "사업확대공시",
+    "AIDC냉각수주"
+   ],
+   "theme": "AIDC냉각",
+   "priceLog": [],
+   "checks": [],
+   "status": "pending",
+   "backfill": true
+  },
+  {
+   "name": "유아이디(069330)",
+   "type": "leading",
+   "market": "韓",
+   "flagDate": "2026-07-01",
+   "flagPrice": null,
+   "signals": [
+    "M&A신사업",
+    "전장진출"
+   ],
+   "theme": "전장소재",
+   "priceLog": [],
+   "checks": [],
+   "status": "pending",
+   "backfill": true
+  },
+  {
+   "name": "멕아이씨에스(272110)",
+   "type": "leading",
+   "market": "韓",
+   "flagDate": "2026-07-01",
+   "flagPrice": null,
+   "signals": [
+    "해외인증",
+    "日ODM승인"
+   ],
+   "theme": "의료기기",
+   "priceLog": [],
+   "checks": [],
+   "status": "pending",
+   "backfill": true
+  },
+  {
+   "name": "대동금속(020808)",
+   "type": "leading",
+   "market": "韓",
+   "flagDate": "2026-07-02",
+   "flagPrice": null,
+   "signals": [
+    "신사업전환",
+    "반도체·방산진입"
+   ],
+   "theme": "첨단소재",
+   "priceLog": [],
+   "checks": [],
+   "status": "pending",
+   "backfill": true
+  },
+  {
+   "name": "뉴보텍(060260)",
+   "type": "leading",
+   "market": "韓",
+   "flagDate": "2026-07-02",
+   "flagPrice": null,
+   "signals": [
+    "테마첫거론",
+    "MOU"
+   ],
+   "theme": "AIDC냉각",
+   "priceLog": [],
+   "checks": [],
+   "status": "pending",
+   "backfill": true
+  },
+  {
+   "name": "솔루스첨단소재(336370)",
+   "type": "leading",
+   "market": "韓",
+   "flagDate": "2026-07-03",
+   "flagPrice": null,
+   "signals": [
+    "가동률↑",
+    "판매확대",
+    "판매확대(전지박40%)"
+   ],
+   "theme": "2차전지·로봇",
+   "priceLog": [],
+   "checks": [],
+   "status": "pending",
+   "backfill": true
+  },
+  {
+   "name": "글로벌에스엠(900070)",
+   "type": "leading",
+   "market": "韓",
+   "flagDate": "2026-07-03",
+   "flagPrice": null,
+   "signals": [
+    "프로젝트선정"
+   ],
+   "theme": "로봇·피지컬AI",
+   "priceLog": [],
+   "checks": [],
+   "status": "pending",
+   "backfill": true
+  },
+  {
+   "name": "하나기술(299030)",
+   "type": "leading",
+   "market": "韓",
+   "flagDate": "2026-07-03",
+   "flagPrice": null,
+   "signals": [
+    "정책·투자신호(전고체)"
+   ],
+   "theme": "전고체배터리",
+   "priceLog": [],
+   "checks": [],
+   "status": "pending",
+   "backfill": true
+  },
+  {
+   "name": "이수스페셜티케미컬(457190)",
+   "type": "leading",
+   "market": "韓",
+   "flagDate": "2026-07-03",
+   "flagPrice": null,
+   "signals": [
+    "소재국산화",
+    "정책·투자신호(전고체)"
+   ],
+   "theme": "전고체배터리",
+   "priceLog": [],
+   "checks": [],
+   "status": "pending",
+   "backfill": true
+  },
+  {
+   "name": "대한전선(001440)",
+   "type": "leading",
+   "market": "韓",
+   "flagDate": "2026-07-03",
+   "flagPrice": null,
+   "signals": [
+    "테마반복거론(HVDC)"
+   ],
+   "theme": "AI전력",
+   "priceLog": [],
+   "checks": [],
+   "status": "pending",
+   "backfill": true
+  },
+  {
+   "name": "일진전기(103590)",
+   "type": "leading",
+   "market": "韓",
+   "flagDate": "2026-07-03",
+   "flagPrice": null,
+   "signals": [
+    "테마반복거론"
+   ],
+   "theme": "AI전력",
+   "priceLog": [],
+   "checks": [],
+   "status": "pending",
+   "backfill": true
+  },
+  {
+   "name": "한국주강(025890)",
+   "type": "leading",
+   "market": "韓",
+   "flagDate": "2026-07-04",
+   "flagPrice": null,
+   "signals": [
+    "사업재편",
+    "자사주매입"
+   ],
+   "theme": "발전·플랜트",
+   "priceLog": [],
+   "checks": [],
+   "status": "pending",
+   "backfill": true
+  },
+  {
+   "name": "와이씨켐(112290)",
+   "type": "leading",
+   "market": "韓",
+   "flagDate": "2026-07-04",
+   "flagPrice": null,
+   "signals": [
+    "국산화·테마첫거론"
+   ],
+   "theme": "유리기판",
+   "priceLog": [],
+   "checks": [],
+   "status": "pending",
+   "backfill": true
+  },
+  {
+   "name": "디케이락(105740)",
+   "type": "leading",
+   "market": "韓",
+   "flagDate": "2026-07-04",
+   "flagPrice": null,
+   "signals": [
+    "정책수혜미거명",
+    "납품이력"
+   ],
+   "theme": "SMR",
+   "priceLog": [],
+   "checks": [],
+   "status": "pending",
+   "backfill": true
+  },
+  {
+   "name": "한국피아이엠",
+   "type": "leading",
+   "market": "韓",
+   "flagDate": "2026-07-04",
+   "flagPrice": null,
+   "signals": [
+    "글로벌고객사공급임박",
+    "테마첫거론"
+   ],
+   "theme": "휴머노이드",
+   "priceLog": [],
+   "checks": [],
+   "status": "pending",
+   "backfill": true
+  },
+  {
+   "name": "성호전자(043100)",
+   "type": "leading",
+   "market": "韓",
+   "flagDate": "2026-07-04",
+   "flagPrice": null,
+   "signals": [
+    "최대주주담보보강",
+    "수요연결(AI전력)"
+   ],
+   "theme": "AI전력",
+   "priceLog": [],
+   "checks": [],
+   "status": "pending",
+   "backfill": true
+  },
+  {
+   "name": "케이엔솔(053580)",
+   "type": "leading",
+   "market": "韓",
+   "flagDate": "2026-07-04",
+   "flagPrice": null,
+   "signals": [
+    "AIDC투자확대수혜",
+    "저주목"
+   ],
+   "theme": "AI데이터센터",
+   "priceLog": [],
+   "checks": [],
+   "status": "pending",
+   "backfill": true
+  },
+  {
+   "name": "한국피아이엠(448970)",
+   "type": "leading",
+   "market": "韓",
+   "flagDate": "2026-07-05",
+   "flagPrice": null,
+   "signals": [
+    "대형고객공급임박"
+   ],
+   "theme": "휴머노이드",
+   "priceLog": [],
+   "checks": [],
+   "status": "pending",
+   "backfill": true
+  },
+  {
+   "name": "나우로보틱스(458870)",
+   "type": "leading",
+   "market": "韓",
+   "flagDate": "2026-07-06",
+   "flagPrice": null,
+   "signals": [
+    "국산화특허",
+    "테마첫거론"
+   ],
+   "theme": "휴머노이드",
+   "priceLog": [],
+   "checks": [],
+   "status": "pending",
+   "backfill": true
+  },
+  {
+   "name": "케이지에이(281820)",
+   "type": "leading",
+   "market": "韓",
+   "flagDate": "2026-07-07",
+   "flagPrice": null,
+   "signals": [
+    "테마첫거론",
+    "공동개발계약"
+   ],
+   "theme": "차세대배터리(LTO·ESS)",
+   "priceLog": [],
+   "checks": [],
+   "status": "pending",
+   "backfill": true
+  },
+  {
+   "name": "디알젬(263690)",
+   "type": "leading",
+   "market": "韓",
+   "flagDate": "2026-07-07",
+   "flagPrice": null,
+   "signals": [
+    "제조인증 획득"
+   ],
+   "theme": "AI헬스케어",
+   "priceLog": [],
+   "checks": [],
+   "status": "pending",
+   "backfill": true
+  },
+  {
+   "name": "엠젠솔루션(032790)",
+   "type": "leading",
+   "market": "韓",
+   "flagDate": "2026-07-07",
+   "flagPrice": null,
+   "signals": [
+    "정부 실증사업 참여"
+   ],
+   "theme": "피지컬AI",
+   "priceLog": [],
+   "checks": [],
+   "status": "pending",
+   "backfill": true
+  },
+  {
+   "name": "KH바텍(060720)",
+   "type": "discovery",
+   "market": "韓",
+   "flagDate": "2026-06-21",
+   "flagPrice": null,
+   "signals": [],
+   "theme": "휴머노이드(감속기진출)",
+   "priceLog": [],
+   "checks": [],
+   "status": "pending",
+   "backfill": true
+  },
+  {
+   "name": "삼화콘덴서(001820)",
+   "type": "discovery",
+   "market": "韓",
+   "flagDate": "2026-06-21",
+   "flagPrice": null,
+   "signals": [],
+   "theme": "피지컬AI",
+   "priceLog": [],
+   "checks": [],
+   "status": "pending",
+   "backfill": true
+  },
+  {
+   "name": "씨에스윈드(112610)",
+   "type": "discovery",
+   "market": "韓",
+   "flagDate": "2026-06-22",
+   "flagPrice": null,
+   "signals": [],
+   "theme": "전력/풍력",
+   "priceLog": [],
+   "checks": [],
+   "status": "pending",
+   "backfill": true
+  },
+  {
+   "name": "와이솔(122990)",
+   "type": "discovery",
+   "market": "韓",
+   "flagDate": "2026-06-23",
+   "flagPrice": null,
+   "signals": [],
+   "theme": "부품수직계열화",
+   "priceLog": [],
+   "checks": [],
+   "status": "pending",
+   "backfill": true
+  },
+  {
+   "name": "클로봇(466100)",
+   "type": "discovery",
+   "market": "韓",
+   "flagDate": "2026-06-23",
+   "flagPrice": null,
+   "signals": [],
+   "theme": "로봇/물류자동화",
+   "priceLog": [],
+   "checks": [],
+   "status": "pending",
+   "backfill": true
+  },
+  {
+   "name": "삼기(122350)",
+   "type": "discovery",
+   "market": "韓",
+   "flagDate": "2026-06-24",
+   "flagPrice": null,
+   "signals": [],
+   "theme": "휴머노이드",
+   "priceLog": [],
+   "checks": [],
+   "status": "pending",
+   "backfill": true
+  },
+  {
+   "name": "씨메스(415620)",
+   "type": "discovery",
+   "market": "韓",
+   "flagDate": "2026-06-26",
+   "flagPrice": null,
+   "signals": [],
+   "theme": "로봇",
+   "priceLog": [],
+   "checks": [],
+   "status": "pending",
+   "backfill": true
+  },
+  {
+   "name": "가온칩스(399720)",
+   "type": "discovery",
+   "market": "韓",
+   "flagDate": "2026-06-26",
+   "flagPrice": null,
+   "signals": [],
+   "theme": "AI반도체-디자인",
+   "priceLog": [],
+   "checks": [],
+   "status": "pending",
+   "backfill": true
+  },
+  {
+   "name": "칩스앤미디어(199290)",
+   "type": "discovery",
+   "market": "韓",
+   "flagDate": "2026-06-26",
+   "flagPrice": null,
+   "signals": [],
+   "theme": "AI반도체-IP",
+   "priceLog": [],
+   "checks": [],
+   "status": "pending",
+   "backfill": true
+  },
+  {
+   "name": "케이쓰리아이(456020)",
+   "type": "discovery",
+   "market": "韓",
+   "flagDate": "2026-06-30",
+   "flagPrice": null,
+   "signals": [],
+   "theme": "피지컬AI",
+   "priceLog": [],
+   "checks": [],
+   "status": "pending",
+   "backfill": true
+  },
+  {
+   "name": "미래산업(025560)",
+   "type": "discovery",
+   "market": "韓",
+   "flagDate": "2026-06-30",
+   "flagPrice": null,
+   "signals": [],
+   "theme": "반도체장비",
+   "priceLog": [],
+   "checks": [],
+   "status": "pending",
+   "backfill": true
+  },
+  {
+   "name": "나우로보틱스(455900)",
+   "type": "discovery",
+   "market": "韓",
+   "flagDate": "2026-07-01",
+   "flagPrice": null,
+   "signals": [],
+   "theme": "산업용로봇",
+   "priceLog": [],
+   "checks": [],
+   "status": "pending",
+   "backfill": true
+  },
+  {
+   "name": "유니슨(018000)",
+   "type": "discovery",
+   "market": "韓",
+   "flagDate": "2026-07-01",
+   "flagPrice": null,
+   "signals": [],
+   "theme": "해상풍력 터빈",
+   "priceLog": [],
+   "checks": [],
+   "status": "pending",
+   "backfill": true
+  },
+  {
+   "name": "삼현(419530)",
+   "type": "discovery",
+   "market": "韓",
+   "flagDate": "2026-07-02",
+   "flagPrice": null,
+   "signals": [],
+   "theme": "로봇/모션",
+   "priceLog": [],
+   "checks": [],
+   "status": "pending",
+   "backfill": true
+  },
+  {
+   "name": "HB테크놀러지(078150)",
+   "type": "discovery",
+   "market": "韓",
+   "flagDate": "2026-07-04",
+   "flagPrice": null,
+   "signals": [],
+   "theme": "유리기판",
+   "priceLog": [],
+   "checks": [],
+   "status": "pending",
+   "backfill": true
+  },
+  {
+   "name": "한농화성(011500)",
+   "type": "discovery",
+   "market": "韓",
+   "flagDate": "2026-07-04",
+   "flagPrice": null,
+   "signals": [],
+   "theme": "전고체배터리",
+   "priceLog": [],
+   "checks": [],
+   "status": "pending",
+   "backfill": true
+  },
+  {
+   "name": "플래티어(367000)",
+   "type": "discovery",
+   "market": "韓",
+   "flagDate": "2026-07-05",
+   "flagPrice": null,
+   "signals": [],
+   "theme": "금융 AX",
+   "priceLog": [],
+   "checks": [],
+   "status": "pending",
+   "backfill": true
+  },
+  {
+   "name": "세명전기(017510)",
+   "type": "discovery",
+   "market": "韓",
+   "flagDate": "2026-07-05",
+   "flagPrice": null,
+   "signals": [],
+   "theme": "HVDC·전력망",
+   "priceLog": [],
+   "checks": [],
+   "status": "pending",
+   "backfill": true
+  },
+  {
+   "name": "레이크머티리얼즈(281740)",
+   "type": "discovery",
+   "market": "韓",
+   "flagDate": "2026-07-05",
+   "flagPrice": null,
+   "signals": [],
+   "theme": "전고체",
+   "priceLog": [],
+   "checks": [],
+   "status": "pending",
+   "backfill": true
+  },
+  {
+   "name": "성호전자(043260)",
+   "type": "discovery",
+   "market": "韓",
+   "flagDate": "2026-07-06",
+   "flagPrice": null,
+   "signals": [],
+   "theme": "AI전력변환",
+   "priceLog": [],
+   "checks": [],
+   "status": "pending",
+   "backfill": true
+  },
+  {
+   "name": "케이엔솔(053080)",
+   "type": "discovery",
+   "market": "韓",
+   "flagDate": "2026-07-06",
+   "flagPrice": null,
+   "signals": [],
+   "theme": "AI데이터센터 냉각",
+   "priceLog": [],
+   "checks": [],
+   "status": "pending",
+   "backfill": true
+  },
+  {
+   "name": "브이엠(089970)",
+   "type": "discovery",
+   "market": "韓",
+   "flagDate": "2026-07-07",
+   "flagPrice": null,
+   "signals": [],
+   "theme": "반도체 설비투자",
+   "priceLog": [],
+   "checks": [],
+   "status": "pending",
+   "backfill": true
+  },
+  {
+   "name": "케이지에이",
+   "type": "discovery",
+   "market": "韓",
+   "flagDate": "2026-07-07",
+   "flagPrice": null,
+   "signals": [],
+   "theme": "LTO 차세대 배터리",
+   "priceLog": [],
+   "checks": [],
+   "status": "pending",
+   "backfill": true
+  },
+  {
+   "name": "브이엠",
+   "type": "discovery",
+   "market": "韓",
+   "flagDate": "2026-07-07",
+   "flagPrice": null,
+   "signals": [],
+   "theme": "반도체 설비투자",
+   "priceLog": [],
+   "checks": [],
+   "status": "pending",
+   "backfill": true
   }
  ],
  "stats": {
@@ -159,8 +1231,8 @@
   "miss": 0,
   "hitRate": null,
   "avgD3ChangePct": null,
-  "pending": 12,
-  "total": 12,
+  "pending": 84,
+  "total": 84,
   "byType": {
    "leading": {
     "verified": 0,
