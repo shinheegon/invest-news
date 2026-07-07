@@ -1,16 +1,983 @@
 {
- "updatedAt": "2026-07-07T20:54:25+09:00",
+ "updatedAt": "2026-07-07T21:08:22+09:00",
  "companies": {
   "이지트로닉스(377330)": {
    "market": "韓",
    "type": "leading",
    "firstSeen": "2026-07-07",
-   "firstPrice": 2340,
-   "lastPrice": 2340,
+   "firstPrice": 2280,
+   "lastPrice": 2280,
    "changePct": 0.0,
    "points": 1,
    "series": {
-    "2026-07-07": 2340
+    "2026-07-07": 2280
+   }
+  },
+  "비에이치아이(083650)": {
+   "market": "韓",
+   "type": "leading",
+   "firstSeen": "2026-07-07",
+   "firstPrice": 49600,
+   "lastPrice": 49600,
+   "changePct": 0.0,
+   "points": 1,
+   "series": {
+    "2026-07-07": 49600
+   }
+  },
+  "대동(000490)": {
+   "market": "韓",
+   "type": "leading",
+   "firstSeen": "2026-07-07",
+   "firstPrice": 7230,
+   "lastPrice": 7230,
+   "changePct": 0.0,
+   "points": 1,
+   "series": {
+    "2026-07-07": 7230
+   }
+  },
+  "퓨쳐켐(220100)": {
+   "market": "韓",
+   "type": "leading",
+   "firstSeen": "2026-07-07",
+   "firstPrice": 9190,
+   "lastPrice": 9190,
+   "changePct": 0.0,
+   "points": 1,
+   "series": {
+    "2026-07-07": 9190
+   }
+  },
+  "태성(323280)": {
+   "market": "韓",
+   "type": "leading",
+   "firstSeen": "2026-07-07",
+   "firstPrice": 38350,
+   "lastPrice": 38350,
+   "changePct": 0.0,
+   "points": 1,
+   "series": {
+    "2026-07-07": 38350
+   }
+  },
+  "옵트론텍(082210)": {
+   "market": "韓",
+   "type": "leading",
+   "firstSeen": "2026-07-07",
+   "firstPrice": 1654,
+   "lastPrice": 1654,
+   "changePct": 0.0,
+   "points": 1,
+   "series": {
+    "2026-07-07": 1654
+   }
+  },
+  "씨싸이트(109670)": {
+   "market": "韓",
+   "type": "leading",
+   "firstSeen": "2026-07-07",
+   "firstPrice": 4340,
+   "lastPrice": 4340,
+   "changePct": 0.0,
+   "points": 1,
+   "series": {
+    "2026-07-07": 4340
+   }
+  },
+  "에이비온(203400)": {
+   "market": "韓",
+   "type": "leading",
+   "firstSeen": "2026-07-07",
+   "firstPrice": 775,
+   "lastPrice": 775,
+   "changePct": 0.0,
+   "points": 1,
+   "series": {
+    "2026-07-07": 775
+   }
+  },
+  "파라텍(033540)": {
+   "market": "韓",
+   "type": "leading",
+   "firstSeen": "2026-07-07",
+   "firstPrice": 953,
+   "lastPrice": 953,
+   "changePct": 0.0,
+   "points": 1,
+   "series": {
+    "2026-07-07": 953
+   }
+  },
+  "쎄크(081180)": {
+   "market": "韓",
+   "type": "discovery",
+   "firstSeen": "2026-07-07",
+   "firstPrice": 5670,
+   "lastPrice": 5670,
+   "changePct": 0.0,
+   "points": 1,
+   "series": {
+    "2026-07-07": 5670
+   }
+  },
+  "케이엠제약(225430)": {
+   "market": "韓",
+   "type": "discovery",
+   "firstSeen": "2026-07-07",
+   "firstPrice": 1589,
+   "lastPrice": 1589,
+   "changePct": 0.0,
+   "points": 1,
+   "series": {
+    "2026-07-07": 1589
+   }
+  },
+  "다이나믹솔루션(290660)": {
+   "market": "韓",
+   "type": "leading",
+   "firstSeen": "2026-06-21",
+   "firstPrice": 939,
+   "lastPrice": 1578,
+   "changePct": 68.05,
+   "points": 4,
+   "series": {
+    "2026-06-21": 939,
+    "2026-06-24": 939,
+    "2026-06-29": 1921,
+    "2026-07-07": 1578
+   }
+  },
+  "에스피지(058610)": {
+   "market": "韓",
+   "type": "leading",
+   "firstSeen": "2026-06-21",
+   "firstPrice": 86400,
+   "lastPrice": 71600,
+   "changePct": -17.13,
+   "points": 4,
+   "series": {
+    "2026-06-21": 86400,
+    "2026-06-24": 80200,
+    "2026-06-29": 79800,
+    "2026-07-07": 71600
+   }
+  },
+  "와이엠티(251370)": {
+   "market": "韓",
+   "type": "leading",
+   "firstSeen": "2026-06-22",
+   "firstPrice": 12980,
+   "lastPrice": 9450,
+   "changePct": -27.2,
+   "points": 4,
+   "series": {
+    "2026-06-22": 12980,
+    "2026-06-25": 10940,
+    "2026-06-29": 10760,
+    "2026-07-07": 9450
+   }
+  },
+  "필옵틱스(161580)": {
+   "market": "韓",
+   "type": "leading",
+   "firstSeen": "2026-06-22",
+   "firstPrice": 41250,
+   "lastPrice": 31850,
+   "changePct": -22.79,
+   "points": 4,
+   "series": {
+    "2026-06-22": 41250,
+    "2026-06-25": 37300,
+    "2026-06-29": 36700,
+    "2026-07-07": 31850
+   }
+  },
+  "엠케이전자(033160)": {
+   "market": "韓",
+   "type": "leading",
+   "firstSeen": "2026-06-22",
+   "firstPrice": 27150,
+   "lastPrice": 14440,
+   "changePct": -46.81,
+   "points": 4,
+   "series": {
+    "2026-06-22": 27150,
+    "2026-06-25": 22000,
+    "2026-06-29": 21950,
+    "2026-07-07": 14440
+   }
+  },
+  "나노팀(417010)": {
+   "market": "韓",
+   "type": "leading",
+   "firstSeen": "2026-06-22",
+   "firstPrice": 6220,
+   "lastPrice": 4895,
+   "changePct": -21.3,
+   "points": 4,
+   "series": {
+    "2026-06-22": 6220,
+    "2026-06-25": 5190,
+    "2026-06-29": 5590,
+    "2026-07-07": 4895
+   }
+  },
+  "에스에너지(095910)": {
+   "market": "韓",
+   "type": "leading",
+   "firstSeen": "2026-06-22",
+   "firstPrice": 1126,
+   "lastPrice": 810,
+   "changePct": -28.06,
+   "points": 4,
+   "series": {
+    "2026-06-22": 1126,
+    "2026-06-25": 1015,
+    "2026-06-29": 921,
+    "2026-07-07": 810
+   }
+  },
+  "비츠로셀(082920)": {
+   "market": "韓",
+   "type": "leading",
+   "firstSeen": "2026-06-23",
+   "firstPrice": 40950,
+   "lastPrice": 34600,
+   "changePct": -15.51,
+   "points": 4,
+   "series": {
+    "2026-06-23": 40950,
+    "2026-06-26": 36950,
+    "2026-06-30": 40500,
+    "2026-07-07": 34600
+   }
+  },
+  "마이크로디지탈(305090)": {
+   "market": "韓",
+   "type": "leading",
+   "firstSeen": "2026-06-23",
+   "firstPrice": 2245,
+   "lastPrice": 2145,
+   "changePct": -4.45,
+   "points": 4,
+   "series": {
+    "2026-06-23": 2245,
+    "2026-06-26": 2090,
+    "2026-06-30": 2195,
+    "2026-07-07": 2145
+   }
+  },
+  "이엠앤아이(083470)": {
+   "market": "韓",
+   "type": "leading",
+   "firstSeen": "2026-06-23",
+   "firstPrice": 877,
+   "lastPrice": 840,
+   "changePct": -4.22,
+   "points": 4,
+   "series": {
+    "2026-06-23": 877,
+    "2026-06-26": 909,
+    "2026-06-30": 890,
+    "2026-07-07": 840
+   }
+  },
+  "위지트(036090)": {
+   "market": "韓",
+   "type": "leading",
+   "firstSeen": "2026-06-23",
+   "firstPrice": 1742,
+   "lastPrice": 1357,
+   "changePct": -22.1,
+   "points": 4,
+   "series": {
+    "2026-06-23": 1742,
+    "2026-06-26": 1603,
+    "2026-06-30": 1594,
+    "2026-07-07": 1357
+   }
+  },
+  "라온시큐어(042510)": {
+   "market": "韓",
+   "type": "leading",
+   "firstSeen": "2026-06-24",
+   "firstPrice": 7260,
+   "lastPrice": 7210,
+   "changePct": -0.69,
+   "points": 4,
+   "series": {
+    "2026-06-24": 7260,
+    "2026-06-29": 7450,
+    "2026-07-01": 7410,
+    "2026-07-07": 7210
+   }
+  },
+  "캐프(198080)": {
+   "market": "韓",
+   "type": "leading",
+   "firstSeen": "2026-06-25",
+   "firstPrice": 2105,
+   "lastPrice": 2165,
+   "changePct": 2.85,
+   "points": 4,
+   "series": {
+    "2026-06-25": 2105,
+    "2026-06-29": 2200,
+    "2026-07-02": 2160,
+    "2026-07-07": 2165
+   }
+  },
+  "티로보틱스(117730)": {
+   "market": "韓",
+   "type": "leading",
+   "firstSeen": "2026-06-26",
+   "firstPrice": 12230,
+   "lastPrice": 12420,
+   "changePct": 1.55,
+   "points": 4,
+   "series": {
+    "2026-06-26": 12230,
+    "2026-06-29": 13380,
+    "2026-07-03": 13360,
+    "2026-07-07": 12420
+   }
+  },
+  "코이즈(121850)": {
+   "market": "韓",
+   "type": "leading",
+   "firstSeen": "2026-06-26",
+   "firstPrice": 1251,
+   "lastPrice": 1490,
+   "changePct": 19.1,
+   "points": 4,
+   "series": {
+    "2026-06-26": 1251,
+    "2026-06-29": 1415,
+    "2026-07-03": 1497,
+    "2026-07-07": 1490
+   }
+  },
+  "멕아이씨에스(058110)": {
+   "market": "韓",
+   "type": "leading",
+   "firstSeen": "2026-06-26",
+   "firstPrice": 2005,
+   "lastPrice": 1870,
+   "changePct": -6.73,
+   "points": 4,
+   "series": {
+    "2026-06-26": 2005,
+    "2026-06-29": 1936,
+    "2026-07-03": 1926,
+    "2026-07-07": 1870
+   }
+  },
+  "에어레인(163280)": {
+   "market": "韓",
+   "type": "leading",
+   "firstSeen": "2026-06-27",
+   "firstPrice": 3840,
+   "lastPrice": 3655,
+   "changePct": -4.82,
+   "points": 4,
+   "series": {
+    "2026-06-27": 3840,
+    "2026-06-30": 3830,
+    "2026-07-06": 3835,
+    "2026-07-07": 3655
+   }
+  },
+  "에이루트(096690)": {
+   "market": "韓",
+   "type": "leading",
+   "firstSeen": "2026-06-30",
+   "firstPrice": 5060,
+   "lastPrice": 5390,
+   "changePct": 6.52,
+   "points": 3,
+   "series": {
+    "2026-06-30": 5060,
+    "2026-07-03": 5180,
+    "2026-07-07": 5390
+   }
+  },
+  "씨앤지하이테크(264660)": {
+   "market": "韓",
+   "type": "leading",
+   "firstSeen": "2026-06-30",
+   "firstPrice": 13420,
+   "lastPrice": 12490,
+   "changePct": -6.93,
+   "points": 3,
+   "series": {
+    "2026-06-30": 13420,
+    "2026-07-03": 13180,
+    "2026-07-07": 12490
+   }
+  },
+  "코아시아씨엠(196450)": {
+   "market": "韓",
+   "type": "leading",
+   "firstSeen": "2026-06-30",
+   "firstPrice": 817,
+   "lastPrice": 990,
+   "changePct": 21.18,
+   "points": 3,
+   "series": {
+    "2026-06-30": 817,
+    "2026-07-03": 944,
+    "2026-07-07": 990
+   }
+  },
+  "케이엔에스(432470)": {
+   "market": "韓",
+   "type": "leading",
+   "firstSeen": "2026-07-01",
+   "firstPrice": 8050,
+   "lastPrice": 7400,
+   "changePct": -8.07,
+   "points": 3,
+   "series": {
+    "2026-07-01": 8050,
+    "2026-07-06": 7640,
+    "2026-07-07": 7400
+   }
+  },
+  "오텍(067170)": {
+   "market": "韓",
+   "type": "leading",
+   "firstSeen": "2026-07-01",
+   "firstPrice": 2895,
+   "lastPrice": 2900,
+   "changePct": 0.17,
+   "points": 3,
+   "series": {
+    "2026-07-01": 2895,
+    "2026-07-06": 2705,
+    "2026-07-07": 2900
+   }
+  },
+  "유아이디(069330)": {
+   "market": "韓",
+   "type": "leading",
+   "firstSeen": "2026-07-01",
+   "firstPrice": 1070,
+   "lastPrice": 1004,
+   "changePct": -6.17,
+   "points": 3,
+   "series": {
+    "2026-07-01": 1070,
+    "2026-07-06": 979,
+    "2026-07-07": 1004
+   }
+  },
+  "대동금속(020400)": {
+   "market": "韓",
+   "type": "leading",
+   "firstSeen": "2026-07-02",
+   "firstPrice": 3425,
+   "lastPrice": 3150,
+   "changePct": -8.03,
+   "points": 3,
+   "series": {
+    "2026-07-02": 3425,
+    "2026-07-06": 3185,
+    "2026-07-07": 3150
+   }
+  },
+  "뉴보텍(060260)": {
+   "market": "韓",
+   "type": "leading",
+   "firstSeen": "2026-07-02",
+   "firstPrice": 1671,
+   "lastPrice": 1569,
+   "changePct": -6.1,
+   "points": 3,
+   "series": {
+    "2026-07-02": 1671,
+    "2026-07-06": 1580,
+    "2026-07-07": 1569
+   }
+  },
+  "솔루스첨단소재(336370)": {
+   "market": "韓",
+   "type": "leading",
+   "firstSeen": "2026-07-03",
+   "firstPrice": 8250,
+   "lastPrice": 7900,
+   "changePct": -4.24,
+   "points": 3,
+   "series": {
+    "2026-07-03": 8250,
+    "2026-07-06": 8050,
+    "2026-07-07": 7900
+   }
+  },
+  "글로벌에스엠(900070)": {
+   "market": "韓",
+   "type": "leading",
+   "firstSeen": "2026-07-03",
+   "firstPrice": 1006,
+   "lastPrice": 1070,
+   "changePct": 6.36,
+   "points": 3,
+   "series": {
+    "2026-07-03": 1006,
+    "2026-07-06": 1033,
+    "2026-07-07": 1070
+   }
+  },
+  "하나기술(299030)": {
+   "market": "韓",
+   "type": "leading",
+   "firstSeen": "2026-07-03",
+   "firstPrice": 13580,
+   "lastPrice": 12990,
+   "changePct": -4.34,
+   "points": 3,
+   "series": {
+    "2026-07-03": 13580,
+    "2026-07-06": 13330,
+    "2026-07-07": 12990
+   }
+  },
+  "이수스페셜티케미컬(457190)": {
+   "market": "韓",
+   "type": "leading",
+   "firstSeen": "2026-07-03",
+   "firstPrice": 68200,
+   "lastPrice": 65000,
+   "changePct": -4.69,
+   "points": 3,
+   "series": {
+    "2026-07-03": 68200,
+    "2026-07-06": 65300,
+    "2026-07-07": 65000
+   }
+  },
+  "대한전선(001440)": {
+   "market": "韓",
+   "type": "leading",
+   "firstSeen": "2026-07-03",
+   "firstPrice": 32900,
+   "lastPrice": 30550,
+   "changePct": -7.14,
+   "points": 3,
+   "series": {
+    "2026-07-03": 32900,
+    "2026-07-06": 32250,
+    "2026-07-07": 30550
+   }
+  },
+  "일진전기(103590)": {
+   "market": "韓",
+   "type": "leading",
+   "firstSeen": "2026-07-03",
+   "firstPrice": 75300,
+   "lastPrice": 68100,
+   "changePct": -9.56,
+   "points": 3,
+   "series": {
+    "2026-07-03": 75300,
+    "2026-07-06": 71700,
+    "2026-07-07": 68100
+   }
+  },
+  "한국주강(025890)": {
+   "market": "韓",
+   "type": "leading",
+   "firstSeen": "2026-07-04",
+   "firstPrice": 2255,
+   "lastPrice": 2235,
+   "changePct": -0.89,
+   "points": 2,
+   "series": {
+    "2026-07-04": 2255,
+    "2026-07-07": 2235
+   }
+  },
+  "와이씨켐(112290)": {
+   "market": "韓",
+   "type": "leading",
+   "firstSeen": "2026-07-04",
+   "firstPrice": 10320,
+   "lastPrice": 9910,
+   "changePct": -3.97,
+   "points": 2,
+   "series": {
+    "2026-07-04": 10320,
+    "2026-07-07": 9910
+   }
+  },
+  "디케이락(105740)": {
+   "market": "韓",
+   "type": "leading",
+   "firstSeen": "2026-07-04",
+   "firstPrice": 6860,
+   "lastPrice": 6700,
+   "changePct": -2.33,
+   "points": 2,
+   "series": {
+    "2026-07-04": 6860,
+    "2026-07-07": 6700
+   }
+  },
+  "한국피아이엠(448900)": {
+   "market": "韓",
+   "type": "leading",
+   "firstSeen": "2026-07-04",
+   "firstPrice": 53600,
+   "lastPrice": 50200,
+   "changePct": -6.34,
+   "points": 2,
+   "series": {
+    "2026-07-04": 53600,
+    "2026-07-07": 50200
+   }
+  },
+  "성호전자(043260)": {
+   "market": "韓",
+   "type": "discovery",
+   "firstSeen": "2026-07-06",
+   "firstPrice": 21250,
+   "lastPrice": 19400,
+   "changePct": -8.71,
+   "points": 2,
+   "series": {
+    "2026-07-06": 21250,
+    "2026-07-07": 19400
+   }
+  },
+  "케이엔솔(053080)": {
+   "market": "韓",
+   "type": "discovery",
+   "firstSeen": "2026-07-06",
+   "firstPrice": 9350,
+   "lastPrice": 8960,
+   "changePct": -4.17,
+   "points": 2,
+   "series": {
+    "2026-07-06": 9350,
+    "2026-07-07": 8960
+   }
+  },
+  "나우로보틱스(459510)": {
+   "market": "韓",
+   "type": "discovery",
+   "firstSeen": "2026-07-01",
+   "firstPrice": 15230,
+   "lastPrice": 13220,
+   "changePct": -13.2,
+   "points": 3,
+   "series": {
+    "2026-07-01": 15230,
+    "2026-07-06": 13890,
+    "2026-07-07": 13220
+   }
+  },
+  "케이지에이(455180)": {
+   "market": "韓",
+   "type": "discovery",
+   "firstSeen": "2026-07-07",
+   "firstPrice": 1315,
+   "lastPrice": 1315,
+   "changePct": 0.0,
+   "points": 1,
+   "series": {
+    "2026-07-07": 1315
+   }
+  },
+  "디알젬(263690)": {
+   "market": "韓",
+   "type": "leading",
+   "firstSeen": "2026-07-07",
+   "firstPrice": 5010,
+   "lastPrice": 5010,
+   "changePct": 0.0,
+   "points": 1,
+   "series": {
+    "2026-07-07": 5010
+   }
+  },
+  "엠젠솔루션(032790)": {
+   "market": "韓",
+   "type": "leading",
+   "firstSeen": "2026-07-07",
+   "firstPrice": 1090,
+   "lastPrice": 1090,
+   "changePct": 0.0,
+   "points": 1,
+   "series": {
+    "2026-07-07": 1090
+   }
+  },
+  "KH바텍(060720)": {
+   "market": "韓",
+   "type": "discovery",
+   "firstSeen": "2026-06-21",
+   "firstPrice": 11050,
+   "lastPrice": 9960,
+   "changePct": -9.86,
+   "points": 4,
+   "series": {
+    "2026-06-21": 11050,
+    "2026-06-24": 10640,
+    "2026-06-29": 10710,
+    "2026-07-07": 9960
+   }
+  },
+  "삼화콘덴서(001820)": {
+   "market": "韓",
+   "type": "discovery",
+   "firstSeen": "2026-06-21",
+   "firstPrice": 167000,
+   "lastPrice": 107800,
+   "changePct": -35.45,
+   "points": 4,
+   "series": {
+    "2026-06-21": 167000,
+    "2026-06-24": 136000,
+    "2026-06-29": 133000,
+    "2026-07-07": 107800
+   }
+  },
+  "씨에스윈드(112610)": {
+   "market": "韓",
+   "type": "discovery",
+   "firstSeen": "2026-06-22",
+   "firstPrice": 43450,
+   "lastPrice": 41050,
+   "changePct": -5.52,
+   "points": 4,
+   "series": {
+    "2026-06-22": 43450,
+    "2026-06-25": 41700,
+    "2026-06-29": 43100,
+    "2026-07-07": 41050
+   }
+  },
+  "와이솔(122990)": {
+   "market": "韓",
+   "type": "discovery",
+   "firstSeen": "2026-06-23",
+   "firstPrice": 6700,
+   "lastPrice": 6100,
+   "changePct": -8.96,
+   "points": 4,
+   "series": {
+    "2026-06-23": 6700,
+    "2026-06-26": 6150,
+    "2026-06-30": 6440,
+    "2026-07-07": 6100
+   }
+  },
+  "클로봇(466100)": {
+   "market": "韓",
+   "type": "discovery",
+   "firstSeen": "2026-06-23",
+   "firstPrice": 30400,
+   "lastPrice": 26400,
+   "changePct": -13.16,
+   "points": 4,
+   "series": {
+    "2026-06-23": 30400,
+    "2026-06-26": 28650,
+    "2026-06-30": 31350,
+    "2026-07-07": 26400
+   }
+  },
+  "삼기(122350)": {
+   "market": "韓",
+   "type": "discovery",
+   "firstSeen": "2026-06-24",
+   "firstPrice": 1086,
+   "lastPrice": 1898,
+   "changePct": 74.77,
+   "points": 4,
+   "series": {
+    "2026-06-24": 1086,
+    "2026-06-29": 1907,
+    "2026-07-01": 1388,
+    "2026-07-07": 1898
+   }
+  },
+  "씨메스로보틱스(475400)": {
+   "market": "韓",
+   "type": "discovery",
+   "firstSeen": "2026-06-26",
+   "firstPrice": 18440,
+   "lastPrice": 16840,
+   "changePct": -8.68,
+   "points": 4,
+   "series": {
+    "2026-06-26": 18440,
+    "2026-06-29": 20400,
+    "2026-07-03": 17880,
+    "2026-07-07": 16840
+   }
+  },
+  "가온칩스(399720)": {
+   "market": "韓",
+   "type": "discovery",
+   "firstSeen": "2026-06-26",
+   "firstPrice": 37050,
+   "lastPrice": 48950,
+   "changePct": 32.12,
+   "points": 4,
+   "series": {
+    "2026-06-26": 37050,
+    "2026-06-29": 41350,
+    "2026-07-03": 37450,
+    "2026-07-07": 48950
+   }
+  },
+  "칩스앤미디어(094360)": {
+   "market": "韓",
+   "type": "discovery",
+   "firstSeen": "2026-06-26",
+   "firstPrice": 11220,
+   "lastPrice": 12180,
+   "changePct": 8.56,
+   "points": 4,
+   "series": {
+    "2026-06-26": 11220,
+    "2026-06-29": 12200,
+    "2026-07-03": 12570,
+    "2026-07-07": 12180
+   }
+  },
+  "케이쓰리아이(431190)": {
+   "market": "韓",
+   "type": "discovery",
+   "firstSeen": "2026-06-30",
+   "firstPrice": 2205,
+   "lastPrice": 2410,
+   "changePct": 9.3,
+   "points": 3,
+   "series": {
+    "2026-06-30": 2205,
+    "2026-07-03": 2440,
+    "2026-07-07": 2410
+   }
+  },
+  "미래산업(025560)": {
+   "market": "韓",
+   "type": "discovery",
+   "firstSeen": "2026-06-30",
+   "firstPrice": 60300,
+   "lastPrice": 41750,
+   "changePct": -30.76,
+   "points": 3,
+   "series": {
+    "2026-06-30": 60300,
+    "2026-07-03": 45700,
+    "2026-07-07": 41750
+   }
+  },
+  "유니슨(018000)": {
+   "market": "韓",
+   "type": "discovery",
+   "firstSeen": "2026-07-01",
+   "firstPrice": 1062,
+   "lastPrice": 900,
+   "changePct": -15.25,
+   "points": 3,
+   "series": {
+    "2026-07-01": 1062,
+    "2026-07-06": 925,
+    "2026-07-07": 900
+   }
+  },
+  "삼현(437730)": {
+   "market": "韓",
+   "type": "discovery",
+   "firstSeen": "2026-07-02",
+   "firstPrice": 35100,
+   "lastPrice": 33200,
+   "changePct": -5.41,
+   "points": 3,
+   "series": {
+    "2026-07-02": 35100,
+    "2026-07-06": 37000,
+    "2026-07-07": 33200
+   }
+  },
+  "HB테크놀러지(078150)": {
+   "market": "韓",
+   "type": "discovery",
+   "firstSeen": "2026-07-04",
+   "firstPrice": 2100,
+   "lastPrice": 1998,
+   "changePct": -4.86,
+   "points": 2,
+   "series": {
+    "2026-07-04": 2100,
+    "2026-07-07": 1998
+   }
+  },
+  "한농화성(011500)": {
+   "market": "韓",
+   "type": "discovery",
+   "firstSeen": "2026-07-04",
+   "firstPrice": 13310,
+   "lastPrice": 12800,
+   "changePct": -3.83,
+   "points": 2,
+   "series": {
+    "2026-07-04": 13310,
+    "2026-07-07": 12800
+   }
+  },
+  "플래티어(367000)": {
+   "market": "韓",
+   "type": "discovery",
+   "firstSeen": "2026-07-05",
+   "firstPrice": 2935,
+   "lastPrice": 2875,
+   "changePct": -2.04,
+   "points": 2,
+   "series": {
+    "2026-07-05": 2935,
+    "2026-07-07": 2875
+   }
+  },
+  "세명전기(017510)": {
+   "market": "韓",
+   "type": "discovery",
+   "firstSeen": "2026-07-05",
+   "firstPrice": 7710,
+   "lastPrice": 7350,
+   "changePct": -4.67,
+   "points": 2,
+   "series": {
+    "2026-07-05": 7710,
+    "2026-07-07": 7350
+   }
+  },
+  "레이크머티리얼즈(281740)": {
+   "market": "韓",
+   "type": "discovery",
+   "firstSeen": "2026-07-05",
+   "firstPrice": 13110,
+   "lastPrice": 12900,
+   "changePct": -1.6,
+   "points": 2,
+   "series": {
+    "2026-07-05": 13110,
+    "2026-07-07": 12900
+   }
+  },
+  "브이엠(089970)": {
+   "market": "韓",
+   "type": "discovery",
+   "firstSeen": "2026-07-07",
+   "firstPrice": 87200,
+   "lastPrice": 87200,
+   "changePct": 0.0,
+   "points": 1,
+   "series": {
+    "2026-07-07": 87200
    }
   }
  }

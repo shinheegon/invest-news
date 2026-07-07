@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-07-07T20:54:25+09:00",
+ "updatedAt": "2026-07-07T21:08:22+09:00",
  "cases": [
   {
    "name": "이지트로닉스(377330)",
@@ -13,93 +13,148 @@
     "턴어라운드조짐"
    ],
    "checks": [],
-   "status": "pending"
+   "status": "pending",
+   "priceLog": [
+    {
+     "date": "2026-07-07",
+     "price": 2280
+    }
+   ]
   },
   {
    "name": "비에이치아이(083650)",
    "type": "leading",
    "market": "韓",
    "flagDate": "2026-07-07",
-   "flagPrice": null,
+   "flagPrice": 49600,
    "signals": [
     "수주잔고증가",
     "정책수혜"
    ],
    "checks": [],
-   "status": "pending"
+   "status": "pending",
+   "flagPriceSource": "https://finance.naver.com/item/sise_day.naver?code=083650",
+   "priceLog": [
+    {
+     "date": "2026-07-07",
+     "price": 49600
+    }
+   ]
   },
   {
    "name": "대동(000490)",
    "type": "leading",
    "market": "韓",
    "flagDate": "2026-07-07",
-   "flagPrice": null,
+   "flagPrice": 7230,
    "signals": [
     "첫대형수출계약"
    ],
    "checks": [],
-   "status": "pending"
+   "status": "pending",
+   "flagPriceSource": "https://finance.naver.com/item/sise_day.naver?code=000490",
+   "priceLog": [
+    {
+     "date": "2026-07-07",
+     "price": 7230
+    }
+   ]
   },
   {
    "name": "퓨쳐켐(220100)",
    "type": "leading",
    "market": "韓",
    "flagDate": "2026-07-07",
-   "flagPrice": null,
+   "flagPrice": 9190,
    "signals": [
     "독점공급계약"
    ],
    "checks": [],
-   "status": "pending"
+   "status": "pending",
+   "flagPriceSource": "https://finance.naver.com/item/sise_day.naver?code=220100",
+   "priceLog": [
+    {
+     "date": "2026-07-07",
+     "price": 9190
+    }
+   ]
   },
   {
    "name": "태성(323280)",
    "type": "leading",
    "market": "韓",
    "flagDate": "2026-07-07",
-   "flagPrice": null,
+   "flagPrice": 38350,
    "signals": [
     "캐파증설완공"
    ],
    "checks": [],
-   "status": "pending"
+   "status": "pending",
+   "flagPriceSource": "https://finance.naver.com/item/sise_day.naver?code=323280",
+   "priceLog": [
+    {
+     "date": "2026-07-07",
+     "price": 38350
+    }
+   ]
   },
   {
    "name": "옵트론텍(082210)",
    "type": "leading",
    "market": "韓",
    "flagDate": "2026-07-07",
-   "flagPrice": null,
+   "flagPrice": 1654,
    "signals": [
     "신규라인",
     "턴어라운드조짐"
    ],
    "checks": [],
-   "status": "pending"
+   "status": "pending",
+   "flagPriceSource": "https://finance.naver.com/item/sise_day.naver?code=082210",
+   "priceLog": [
+    {
+     "date": "2026-07-07",
+     "price": 1654
+    }
+   ]
   },
   {
-   "name": "씨싸이트",
+   "name": "씨싸이트(109670)",
    "type": "leading",
    "market": "韓",
    "flagDate": "2026-07-07",
-   "flagPrice": null,
+   "flagPrice": 4340,
    "signals": [
     "가동률급증"
    ],
    "checks": [],
-   "status": "pending"
+   "status": "pending",
+   "flagPriceSource": "https://finance.naver.com/item/sise_day.naver?code=109670",
+   "priceLog": [
+    {
+     "date": "2026-07-07",
+     "price": 4340
+    }
+   ]
   },
   {
    "name": "에이비온(203400)",
    "type": "leading",
    "market": "韓",
    "flagDate": "2026-07-07",
-   "flagPrice": null,
+   "flagPrice": 775,
    "signals": [
     "내부자매수"
    ],
    "checks": [],
-   "status": "pending"
+   "status": "pending",
+   "flagPriceSource": "https://finance.naver.com/item/sise_day.naver?code=203400",
+   "priceLog": [
+    {
+     "date": "2026-07-07",
+     "price": 775
+    }
+   ]
   },
   {
    "name": "오텍캐리어(126560)",
@@ -119,133 +174,314 @@
    "type": "leading",
    "market": "韓",
    "flagDate": "2026-07-07",
-   "flagPrice": null,
+   "flagPrice": 953,
    "signals": [
     "수주연쇄",
     "반복포착"
    ],
    "checks": [],
-   "status": "pending"
+   "status": "pending",
+   "flagPriceSource": "https://finance.naver.com/item/sise_day.naver?code=033540",
+   "priceLog": [
+    {
+     "date": "2026-07-07",
+     "price": 953
+    }
+   ]
   },
   {
-   "name": "쎄크(53060)",
+   "name": "쎄크(081180)",
    "type": "discovery",
    "market": "韓",
    "flagDate": "2026-07-07",
-   "flagPrice": null,
+   "flagPrice": 5670,
    "signals": [
     "국책과제선정"
    ],
    "checks": [],
-   "status": "pending"
+   "status": "pending",
+   "flagPriceSource": "https://finance.naver.com/item/sise_day.naver?code=081180",
+   "priceLog": [
+    {
+     "date": "2026-07-07",
+     "price": 5670
+    }
+   ]
   },
   {
    "name": "케이엠제약(225430)",
    "type": "discovery",
    "market": "韓",
    "flagDate": "2026-07-07",
-   "flagPrice": null,
+   "flagPrice": 1589,
    "signals": [
     "해외매출급성장"
    ],
    "checks": [],
-   "status": "pending"
+   "status": "pending",
+   "flagPriceSource": "https://finance.naver.com/item/sise_day.naver?code=225430",
+   "priceLog": [
+    {
+     "date": "2026-07-07",
+     "price": 1589
+    }
+   ]
   },
   {
-   "name": "다이나믹솔루션(070120)",
+   "name": "다이나믹솔루션(290660)",
    "type": "leading",
    "market": "韓",
    "flagDate": "2026-06-21",
-   "flagPrice": null,
+   "flagPrice": 939,
    "signals": [
+    "HBM소재",
     "글로벌 전시 연속 참가",
-    "로봇손 신제품"
+    "로봇손 신제품",
+    "캐파증설"
    ],
    "theme": "AI데이터센터",
-   "priceLog": [],
-   "checks": [],
-   "status": "pending",
-   "backfill": true
+   "priceLog": [
+    {
+     "date": "2026-07-07",
+     "price": 1578
+    }
+   ],
+   "checks": [
+    {
+     "horizon": "D+3",
+     "date": "2026-06-24",
+     "price": 939,
+     "changePct": 0.0,
+     "newsDelta": "0",
+     "verdict": "중립",
+     "source": "https://finance.naver.com/item/sise_day.naver?code=290660"
+    },
+    {
+     "horizon": "D+7",
+     "date": "2026-06-29",
+     "price": 1921,
+     "changePct": 104.58,
+     "newsDelta": "0",
+     "verdict": "적중",
+     "source": "https://finance.naver.com/item/sise_day.naver?code=290660"
+    }
+   ],
+   "status": "verified",
+   "backfill": true,
+   "flagPriceSource": "https://finance.naver.com/item/sise_day.naver?code=290660",
+   "flagPriceDate": "2026-06-22",
+   "finalVerdict": "중립"
   },
   {
    "name": "에스피지(058610)",
    "type": "leading",
    "market": "韓",
    "flagDate": "2026-06-21",
-   "flagPrice": null,
+   "flagPrice": 86400,
    "signals": [
     "테마첫거론",
     "국산화"
    ],
    "theme": "휴머노이드감속기",
-   "priceLog": [],
-   "checks": [],
-   "status": "pending",
-   "backfill": true
+   "priceLog": [
+    {
+     "date": "2026-07-07",
+     "price": 71600
+    }
+   ],
+   "checks": [
+    {
+     "horizon": "D+3",
+     "date": "2026-06-24",
+     "price": 80200,
+     "changePct": -7.18,
+     "newsDelta": "+",
+     "verdict": "빗나감",
+     "source": "https://finance.naver.com/item/sise_day.naver?code=058610"
+    },
+    {
+     "horizon": "D+7",
+     "date": "2026-06-29",
+     "price": 79800,
+     "changePct": -7.64,
+     "newsDelta": "+",
+     "verdict": "빗나감",
+     "source": "https://finance.naver.com/item/sise_day.naver?code=058610"
+    }
+   ],
+   "status": "verified",
+   "backfill": true,
+   "flagPriceSource": "https://finance.naver.com/item/sise_day.naver?code=058610",
+   "flagPriceDate": "2026-06-22",
+   "finalVerdict": "빗나감"
   },
   {
    "name": "와이엠티(251370)",
    "type": "leading",
    "market": "韓",
    "flagDate": "2026-06-22",
-   "flagPrice": null,
+   "flagPrice": 12980,
    "signals": [
     "국산화",
     "테마첫거론"
    ],
    "theme": "반도체도금소재",
-   "priceLog": [],
-   "checks": [],
-   "status": "pending",
-   "backfill": true
+   "priceLog": [
+    {
+     "date": "2026-07-07",
+     "price": 9450
+    }
+   ],
+   "checks": [
+    {
+     "horizon": "D+3",
+     "date": "2026-06-25",
+     "price": 10940,
+     "changePct": -15.72,
+     "newsDelta": "+",
+     "verdict": "빗나감",
+     "source": "https://finance.naver.com/item/sise_day.naver?code=251370"
+    },
+    {
+     "horizon": "D+7",
+     "date": "2026-06-29",
+     "price": 10760,
+     "changePct": -17.1,
+     "newsDelta": "+",
+     "verdict": "빗나감",
+     "source": "https://finance.naver.com/item/sise_day.naver?code=251370"
+    }
+   ],
+   "status": "verified",
+   "backfill": true,
+   "flagPriceSource": "https://finance.naver.com/item/sise_day.naver?code=251370",
+   "finalVerdict": "빗나감"
   },
   {
    "name": "필옵틱스(161580)",
    "type": "leading",
    "market": "韓",
    "flagDate": "2026-06-22",
-   "flagPrice": null,
+   "flagPrice": 41250,
    "signals": [
     "양산장비레퍼런스(TGV)",
     "테마첫거론"
    ],
    "theme": "AI반도체/유리기판",
-   "priceLog": [],
-   "checks": [],
-   "status": "pending",
-   "backfill": true
+   "priceLog": [
+    {
+     "date": "2026-07-07",
+     "price": 31850
+    }
+   ],
+   "checks": [
+    {
+     "horizon": "D+3",
+     "date": "2026-06-25",
+     "price": 37300,
+     "changePct": -9.58,
+     "newsDelta": "0",
+     "verdict": "빗나감",
+     "source": "https://finance.naver.com/item/sise_day.naver?code=161580"
+    },
+    {
+     "horizon": "D+7",
+     "date": "2026-06-29",
+     "price": 36700,
+     "changePct": -11.03,
+     "newsDelta": "0",
+     "verdict": "빗나감",
+     "source": "https://finance.naver.com/item/sise_day.naver?code=161580"
+    }
+   ],
+   "status": "verified",
+   "backfill": true,
+   "flagPriceSource": "https://finance.naver.com/item/sise_day.naver?code=161580",
+   "finalVerdict": "빗나감"
   },
   {
    "name": "엠케이전자(033160)",
    "type": "leading",
    "market": "韓",
    "flagDate": "2026-06-22",
-   "flagPrice": null,
+   "flagPrice": 27150,
    "signals": [
     "테마첫거론",
     "글로벌수출확대"
    ],
    "theme": "HBM/반도체소재",
-   "priceLog": [],
-   "checks": [],
-   "status": "pending",
-   "backfill": true
+   "priceLog": [
+    {
+     "date": "2026-07-07",
+     "price": 14440
+    }
+   ],
+   "checks": [
+    {
+     "horizon": "D+3",
+     "date": "2026-06-25",
+     "price": 22000,
+     "changePct": -18.97,
+     "newsDelta": "0",
+     "verdict": "빗나감",
+     "source": "https://finance.naver.com/item/sise_day.naver?code=033160"
+    },
+    {
+     "horizon": "D+7",
+     "date": "2026-06-29",
+     "price": 21950,
+     "changePct": -19.15,
+     "newsDelta": "0",
+     "verdict": "빗나감",
+     "source": "https://finance.naver.com/item/sise_day.naver?code=033160"
+    }
+   ],
+   "status": "verified",
+   "backfill": true,
+   "flagPriceSource": "https://finance.naver.com/item/sise_day.naver?code=033160",
+   "finalVerdict": "빗나감"
   },
   {
    "name": "나노팀(417010)",
    "type": "leading",
    "market": "韓",
    "flagDate": "2026-06-22",
-   "flagPrice": null,
+   "flagPrice": 6220,
    "signals": [
     "대형고객공급계약",
     "테마첫거론"
    ],
    "theme": "2차전지안전소재",
-   "priceLog": [],
-   "checks": [],
-   "status": "pending",
-   "backfill": true
+   "priceLog": [
+    {
+     "date": "2026-07-07",
+     "price": 4895
+    }
+   ],
+   "checks": [
+    {
+     "horizon": "D+3",
+     "date": "2026-06-25",
+     "price": 5190,
+     "changePct": -16.56,
+     "newsDelta": "0",
+     "verdict": "빗나감",
+     "source": "https://finance.naver.com/item/sise_day.naver?code=417010"
+    },
+    {
+     "horizon": "D+7",
+     "date": "2026-06-29",
+     "price": 5590,
+     "changePct": -10.13,
+     "newsDelta": "0",
+     "verdict": "빗나감",
+     "source": "https://finance.naver.com/item/sise_day.naver?code=417010"
+    }
+   ],
+   "status": "verified",
+   "backfill": true,
+   "flagPriceSource": "https://finance.naver.com/item/sise_day.naver?code=417010",
+   "finalVerdict": "빗나감"
   },
   {
    "name": "덕산넵코어스(360030)",
@@ -269,47 +505,125 @@
    "type": "leading",
    "market": "韓",
    "flagDate": "2026-06-22",
-   "flagPrice": null,
+   "flagPrice": 1126,
    "signals": [
     "국책과제주관",
     "테마첫거론"
    ],
    "theme": "해상태양광",
-   "priceLog": [],
-   "checks": [],
-   "status": "pending",
-   "backfill": true
+   "priceLog": [
+    {
+     "date": "2026-07-07",
+     "price": 810
+    }
+   ],
+   "checks": [
+    {
+     "horizon": "D+3",
+     "date": "2026-06-25",
+     "price": 1015,
+     "changePct": -9.86,
+     "newsDelta": "0",
+     "verdict": "빗나감",
+     "source": "https://finance.naver.com/item/sise_day.naver?code=095910"
+    },
+    {
+     "horizon": "D+7",
+     "date": "2026-06-29",
+     "price": 921,
+     "changePct": -18.21,
+     "newsDelta": "0",
+     "verdict": "빗나감",
+     "source": "https://finance.naver.com/item/sise_day.naver?code=095910"
+    }
+   ],
+   "status": "verified",
+   "backfill": true,
+   "flagPriceSource": "https://finance.naver.com/item/sise_day.naver?code=095910",
+   "finalVerdict": "빗나감"
   },
   {
    "name": "비츠로셀(082920)",
    "type": "leading",
    "market": "韓",
    "flagDate": "2026-06-23",
-   "flagPrice": null,
+   "flagPrice": 40950,
    "signals": [
     "대형고객사공급논의",
     "신사업매출가시화"
    ],
    "theme": "AI데이터센터 전력백업",
-   "priceLog": [],
-   "checks": [],
-   "status": "pending",
-   "backfill": true
+   "priceLog": [
+    {
+     "date": "2026-07-07",
+     "price": 34600
+    }
+   ],
+   "checks": [
+    {
+     "horizon": "D+3",
+     "date": "2026-06-26",
+     "price": 36950,
+     "changePct": -9.77,
+     "newsDelta": "0",
+     "verdict": "빗나감",
+     "source": "https://finance.naver.com/item/sise_day.naver?code=082920"
+    },
+    {
+     "horizon": "D+7",
+     "date": "2026-06-30",
+     "price": 40500,
+     "changePct": -1.1,
+     "newsDelta": "0",
+     "verdict": "중립",
+     "source": "https://finance.naver.com/item/sise_day.naver?code=082920"
+    }
+   ],
+   "status": "verified",
+   "backfill": true,
+   "flagPriceSource": "https://finance.naver.com/item/sise_day.naver?code=082920",
+   "finalVerdict": "빗나감"
   },
   {
    "name": "마이크로디지탈(305090)",
    "type": "leading",
    "market": "韓",
    "flagDate": "2026-06-23",
-   "flagPrice": null,
+   "flagPrice": 2245,
    "signals": [
     "대형고객검증진입"
    ],
    "theme": "바이오공정",
-   "priceLog": [],
-   "checks": [],
-   "status": "pending",
-   "backfill": true
+   "priceLog": [
+    {
+     "date": "2026-07-07",
+     "price": 2145
+    }
+   ],
+   "checks": [
+    {
+     "horizon": "D+3",
+     "date": "2026-06-26",
+     "price": 2090,
+     "changePct": -6.9,
+     "newsDelta": "0",
+     "verdict": "빗나감",
+     "source": "https://finance.naver.com/item/sise_day.naver?code=305090"
+    },
+    {
+     "horizon": "D+7",
+     "date": "2026-06-30",
+     "price": 2195,
+     "changePct": -2.23,
+     "newsDelta": "0",
+     "verdict": "중립",
+     "source": "https://finance.naver.com/item/sise_day.naver?code=305090"
+    }
+   ],
+   "status": "verified",
+   "backfill": true,
+   "flagPriceSource": "https://finance.naver.com/item/sise_day.naver?code=305090",
+   "finalVerdict": "빗나감"
   },
   {
    "name": "네온테크(306620)",
@@ -328,131 +642,342 @@
    "backfill": true
   },
   {
-   "name": "이엠앤아이(481070)",
+   "name": "이엠앤아이(083470)",
    "type": "leading",
    "market": "韓",
    "flagDate": "2026-06-23",
-   "flagPrice": null,
+   "flagPrice": 877,
    "signals": [
     "국책과제주관"
    ],
    "theme": "제조로봇",
-   "priceLog": [],
-   "checks": [],
-   "status": "pending",
-   "backfill": true
+   "priceLog": [
+    {
+     "date": "2026-07-07",
+     "price": 840
+    }
+   ],
+   "checks": [
+    {
+     "horizon": "D+3",
+     "date": "2026-06-26",
+     "price": 909,
+     "changePct": 3.65,
+     "newsDelta": "0",
+     "verdict": "중립",
+     "source": "https://finance.naver.com/item/sise_day.naver?code=083470"
+    },
+    {
+     "horizon": "D+7",
+     "date": "2026-06-30",
+     "price": 890,
+     "changePct": 1.48,
+     "newsDelta": "0",
+     "verdict": "중립",
+     "source": "https://finance.naver.com/item/sise_day.naver?code=083470"
+    }
+   ],
+   "status": "verified",
+   "backfill": true,
+   "flagPriceSource": "https://finance.naver.com/item/sise_day.naver?code=083470",
+   "finalVerdict": "중립"
   },
   {
    "name": "위지트(036090)",
    "type": "leading",
    "market": "韓",
    "flagDate": "2026-06-23",
-   "flagPrice": null,
+   "flagPrice": 1742,
    "signals": [
     "자회사가치재평가"
    ],
    "theme": "반도체소부장",
-   "priceLog": [],
-   "checks": [],
-   "status": "pending",
-   "backfill": true
+   "priceLog": [
+    {
+     "date": "2026-07-07",
+     "price": 1357
+    }
+   ],
+   "checks": [
+    {
+     "horizon": "D+3",
+     "date": "2026-06-26",
+     "price": 1603,
+     "changePct": -7.98,
+     "newsDelta": "0",
+     "verdict": "빗나감",
+     "source": "https://finance.naver.com/item/sise_day.naver?code=036090"
+    },
+    {
+     "horizon": "D+7",
+     "date": "2026-06-30",
+     "price": 1594,
+     "changePct": -8.5,
+     "newsDelta": "0",
+     "verdict": "빗나감",
+     "source": "https://finance.naver.com/item/sise_day.naver?code=036090"
+    }
+   ],
+   "status": "verified",
+   "backfill": true,
+   "flagPriceSource": "https://finance.naver.com/item/sise_day.naver?code=036090",
+   "finalVerdict": "빗나감"
   },
   {
    "name": "라온시큐어(042510)",
    "type": "leading",
    "market": "韓",
    "flagDate": "2026-06-24",
-   "flagPrice": null,
+   "flagPrice": 7260,
    "signals": [
     "대표자사주매입",
     "테마첫거론"
    ],
    "theme": "AI보안",
-   "priceLog": [],
-   "checks": [],
-   "status": "pending",
-   "backfill": true
+   "priceLog": [
+    {
+     "date": "2026-07-07",
+     "price": 7210
+    }
+   ],
+   "checks": [
+    {
+     "horizon": "D+3",
+     "date": "2026-06-29",
+     "price": 7450,
+     "changePct": 2.62,
+     "newsDelta": "0",
+     "verdict": "중립",
+     "source": "https://finance.naver.com/item/sise_day.naver?code=042510"
+    },
+    {
+     "horizon": "D+7",
+     "date": "2026-07-01",
+     "price": 7410,
+     "changePct": 2.07,
+     "newsDelta": "0",
+     "verdict": "중립",
+     "source": "https://finance.naver.com/item/sise_day.naver?code=042510"
+    }
+   ],
+   "status": "verified",
+   "backfill": true,
+   "flagPriceSource": "https://finance.naver.com/item/sise_day.naver?code=042510",
+   "finalVerdict": "중립"
   },
   {
-   "name": "캐프(065950)",
+   "name": "캐프(198080)",
    "type": "leading",
    "market": "韓",
    "flagDate": "2026-06-25",
-   "flagPrice": null,
+   "flagPrice": 2105,
    "signals": [
     "대형납품(스웨덴빌테마공급계약)",
     "유럽시장진출",
     "해외공급계약"
    ],
    "theme": "전장·수출",
-   "priceLog": [],
-   "checks": [],
-   "status": "pending",
-   "backfill": true
+   "priceLog": [
+    {
+     "date": "2026-07-07",
+     "price": 2165
+    }
+   ],
+   "checks": [
+    {
+     "horizon": "D+3",
+     "date": "2026-06-29",
+     "price": 2200,
+     "changePct": 4.51,
+     "newsDelta": "0",
+     "verdict": "중립",
+     "source": "https://finance.naver.com/item/sise_day.naver?code=198080"
+    },
+    {
+     "horizon": "D+7",
+     "date": "2026-07-02",
+     "price": 2160,
+     "changePct": 2.61,
+     "newsDelta": "0",
+     "verdict": "중립",
+     "source": "https://finance.naver.com/item/sise_day.naver?code=198080"
+    }
+   ],
+   "status": "verified",
+   "backfill": true,
+   "flagPriceSource": "https://finance.naver.com/item/sise_day.naver?code=198080",
+   "finalVerdict": "중립"
   },
   {
    "name": "티로보틱스(117730)",
    "type": "leading",
    "market": "韓",
    "flagDate": "2026-06-26",
-   "flagPrice": null,
+   "flagPrice": 12230,
    "signals": [
     "테마첫거론",
     "대형납품(美ESS)"
    ],
    "theme": "휴머노이드·ESS",
-   "priceLog": [],
-   "checks": [],
-   "status": "pending",
-   "backfill": true
+   "priceLog": [
+    {
+     "date": "2026-07-07",
+     "price": 12420
+    }
+   ],
+   "checks": [
+    {
+     "horizon": "D+3",
+     "date": "2026-06-29",
+     "price": 13380,
+     "changePct": 9.4,
+     "newsDelta": "0",
+     "verdict": "적중",
+     "source": "https://finance.naver.com/item/sise_day.naver?code=117730"
+    },
+    {
+     "horizon": "D+7",
+     "date": "2026-07-03",
+     "price": 13360,
+     "changePct": 9.24,
+     "newsDelta": "0",
+     "verdict": "적중",
+     "source": "https://finance.naver.com/item/sise_day.naver?code=117730"
+    }
+   ],
+   "status": "verified",
+   "backfill": true,
+   "flagPriceSource": "https://finance.naver.com/item/sise_day.naver?code=117730",
+   "finalVerdict": "적중"
   },
   {
    "name": "코이즈(121850)",
    "type": "leading",
    "market": "韓",
    "flagDate": "2026-06-26",
-   "flagPrice": null,
+   "flagPrice": 1251,
    "signals": [
     "특허",
     "신제품"
    ],
    "theme": "이차전지 첨가제",
-   "priceLog": [],
-   "checks": [],
-   "status": "pending",
-   "backfill": true
+   "priceLog": [
+    {
+     "date": "2026-07-07",
+     "price": 1490
+    }
+   ],
+   "checks": [
+    {
+     "horizon": "D+3",
+     "date": "2026-06-29",
+     "price": 1415,
+     "changePct": 13.11,
+     "newsDelta": "+",
+     "verdict": "적중",
+     "source": "https://finance.naver.com/item/sise_day.naver?code=121850"
+    },
+    {
+     "horizon": "D+7",
+     "date": "2026-07-03",
+     "price": 1497,
+     "changePct": 19.66,
+     "newsDelta": "+",
+     "verdict": "적중",
+     "source": "https://finance.naver.com/item/sise_day.naver?code=121850"
+    }
+   ],
+   "status": "verified",
+   "backfill": true,
+   "flagPriceSource": "https://finance.naver.com/item/sise_day.naver?code=121850",
+   "finalVerdict": "적중"
   },
   {
-   "name": "멕아이씨에스(057880)",
+   "name": "멕아이씨에스(058110)",
    "type": "leading",
    "market": "韓",
    "flagDate": "2026-06-26",
-   "flagPrice": null,
+   "flagPrice": 2005,
    "signals": [
+    "日ODM승인",
+    "대형납품(美출하)",
     "인증(FDA)",
-    "대형납품(美출하)"
+    "해외인증"
    ],
    "theme": "의료기기",
-   "priceLog": [],
-   "checks": [],
-   "status": "pending",
-   "backfill": true
+   "priceLog": [
+    {
+     "date": "2026-07-07",
+     "price": 1870
+    }
+   ],
+   "checks": [
+    {
+     "horizon": "D+3",
+     "date": "2026-06-29",
+     "price": 1936,
+     "changePct": -3.44,
+     "newsDelta": "0",
+     "verdict": "중립",
+     "source": "https://finance.naver.com/item/sise_day.naver?code=058110"
+    },
+    {
+     "horizon": "D+7",
+     "date": "2026-07-03",
+     "price": 1926,
+     "changePct": -3.94,
+     "newsDelta": "0",
+     "verdict": "중립",
+     "source": "https://finance.naver.com/item/sise_day.naver?code=058110"
+    }
+   ],
+   "status": "verified",
+   "backfill": true,
+   "flagPriceSource": "https://finance.naver.com/item/sise_day.naver?code=058110",
+   "finalVerdict": "중립"
   },
   {
-   "name": "에어레인(316140)",
+   "name": "에어레인(163280)",
    "type": "leading",
    "market": "韓",
    "flagDate": "2026-06-27",
-   "flagPrice": null,
+   "flagPrice": 3840,
    "signals": [
     "국산화",
     "신제품"
    ],
    "theme": "수소·분리막",
-   "priceLog": [],
-   "checks": [],
-   "status": "pending",
-   "backfill": true
+   "priceLog": [
+    {
+     "date": "2026-07-07",
+     "price": 3655
+    }
+   ],
+   "checks": [
+    {
+     "horizon": "D+3",
+     "date": "2026-06-30",
+     "price": 3830,
+     "changePct": -0.26,
+     "newsDelta": "0",
+     "verdict": "중립",
+     "source": "https://finance.naver.com/item/sise_day.naver?code=163280"
+    },
+    {
+     "horizon": "D+7",
+     "date": "2026-07-06",
+     "price": 3835,
+     "changePct": -0.13,
+     "newsDelta": "0",
+     "verdict": "중립",
+     "source": "https://finance.naver.com/item/sise_day.naver?code=163280"
+    }
+   ],
+   "status": "verified",
+   "backfill": true,
+   "flagPriceSource": "https://finance.naver.com/item/sise_day.naver?code=163280",
+   "flagPriceDate": "2026-06-29",
+   "finalVerdict": "중립"
   },
   {
    "name": "부강테크(279960)",
@@ -475,780 +1000,1523 @@
    "type": "leading",
    "market": "韓",
    "flagDate": "2026-06-30",
-   "flagPrice": null,
+   "flagPrice": 5060,
    "signals": [
     "해외수주",
     "노광장비"
    ],
    "theme": "후공정",
-   "priceLog": [],
-   "checks": [],
-   "status": "pending",
-   "backfill": true
-  },
-  {
-   "name": "다이나믹솔루션(287410)",
-   "type": "leading",
-   "market": "韓",
-   "flagDate": "2026-06-30",
-   "flagPrice": null,
-   "signals": [
-    "캐파증설",
-    "HBM소재"
+   "priceLog": [
+    {
+     "date": "2026-07-07",
+     "price": 5390
+    }
    ],
-   "theme": "HBM",
-   "priceLog": [],
-   "checks": [],
-   "status": "pending",
-   "backfill": true
+   "checks": [
+    {
+     "horizon": "D+3",
+     "date": "2026-07-03",
+     "price": 5180,
+     "changePct": 2.37,
+     "newsDelta": "0",
+     "verdict": "중립",
+     "source": "https://finance.naver.com/item/sise_day.naver?code=096690"
+    },
+    {
+     "horizon": "D+7",
+     "date": "2026-07-07",
+     "price": 5390,
+     "changePct": 6.52,
+     "newsDelta": "0",
+     "verdict": "적중",
+     "source": "https://finance.naver.com/item/sise_day.naver?code=096690"
+    }
+   ],
+   "status": "verified",
+   "backfill": true,
+   "flagPriceSource": "https://finance.naver.com/item/sise_day.naver?code=096690",
+   "finalVerdict": "중립"
   },
   {
    "name": "씨앤지하이테크(264660)",
    "type": "leading",
    "market": "韓",
    "flagDate": "2026-06-30",
-   "flagPrice": null,
+   "flagPrice": 13420,
    "signals": [
     "공급계약",
     "반도체장비"
    ],
    "theme": "반도체장비",
-   "priceLog": [],
-   "checks": [],
-   "status": "pending",
-   "backfill": true
+   "priceLog": [
+    {
+     "date": "2026-07-07",
+     "price": 12490
+    }
+   ],
+   "checks": [
+    {
+     "horizon": "D+3",
+     "date": "2026-07-03",
+     "price": 13180,
+     "changePct": -1.79,
+     "newsDelta": "0",
+     "verdict": "중립",
+     "source": "https://finance.naver.com/item/sise_day.naver?code=264660"
+    },
+    {
+     "horizon": "D+7",
+     "date": "2026-07-07",
+     "price": 12490,
+     "changePct": -6.93,
+     "newsDelta": "0",
+     "verdict": "빗나감",
+     "source": "https://finance.naver.com/item/sise_day.naver?code=264660"
+    }
+   ],
+   "status": "verified",
+   "backfill": true,
+   "flagPriceSource": "https://finance.naver.com/item/sise_day.naver?code=264660",
+   "finalVerdict": "중립"
   },
   {
-   "name": "코아시아씨엠(900790)",
+   "name": "코아시아씨엠(196450)",
    "type": "leading",
    "market": "韓",
    "flagDate": "2026-06-30",
-   "flagPrice": null,
+   "flagPrice": 817,
    "signals": [
-    "테마첫거론",
-    "전장로봇광학"
+    "전장·로봇확장",
+    "전장로봇광학",
+    "테마첫거론"
    ],
    "theme": "로봇광학",
-   "priceLog": [],
-   "checks": [],
-   "status": "pending",
-   "backfill": true
+   "priceLog": [
+    {
+     "date": "2026-07-07",
+     "price": 990
+    }
+   ],
+   "checks": [
+    {
+     "horizon": "D+3",
+     "date": "2026-07-03",
+     "price": 944,
+     "changePct": 15.54,
+     "newsDelta": "0",
+     "verdict": "적중",
+     "source": "https://finance.naver.com/item/sise_day.naver?code=196450"
+    },
+    {
+     "horizon": "D+7",
+     "date": "2026-07-07",
+     "price": 990,
+     "changePct": 21.18,
+     "newsDelta": "0",
+     "verdict": "적중",
+     "source": "https://finance.naver.com/item/sise_day.naver?code=196450"
+    }
+   ],
+   "status": "verified",
+   "backfill": true,
+   "flagPriceSource": "https://finance.naver.com/item/sise_day.naver?code=196450",
+   "finalVerdict": "적중"
   },
   {
    "name": "케이엔에스(432470)",
    "type": "leading",
    "market": "韓",
    "flagDate": "2026-07-01",
-   "flagPrice": null,
+   "flagPrice": 8050,
    "signals": [
     "테마첫거론",
     "다크팩토리수혜"
    ],
    "theme": "피지컬AI",
-   "priceLog": [],
-   "checks": [],
-   "status": "pending",
-   "backfill": true
-  },
-  {
-   "name": "코아시아씨엠(378340)",
-   "type": "leading",
-   "market": "韓",
-   "flagDate": "2026-07-01",
-   "flagPrice": null,
-   "signals": [
-    "테마첫거론",
-    "전장·로봇확장"
+   "priceLog": [
+    {
+     "date": "2026-07-07",
+     "price": 7400
+    }
    ],
-   "theme": "전장/로봇",
-   "priceLog": [],
-   "checks": [],
-   "status": "pending",
-   "backfill": true
+   "checks": [
+    {
+     "horizon": "D+3",
+     "date": "2026-07-06",
+     "price": 7640,
+     "changePct": -5.09,
+     "newsDelta": "0",
+     "verdict": "빗나감",
+     "source": "https://finance.naver.com/item/sise_day.naver?code=432470"
+    }
+   ],
+   "status": "verified",
+   "backfill": true,
+   "flagPriceSource": "https://finance.naver.com/item/sise_day.naver?code=432470",
+   "finalVerdict": "빗나감"
   },
   {
    "name": "오텍(067170)",
    "type": "leading",
    "market": "韓",
    "flagDate": "2026-07-01",
-   "flagPrice": null,
+   "flagPrice": 2895,
    "signals": [
     "사업확대공시",
     "AIDC냉각수주"
    ],
    "theme": "AIDC냉각",
-   "priceLog": [],
-   "checks": [],
-   "status": "pending",
-   "backfill": true
+   "priceLog": [
+    {
+     "date": "2026-07-07",
+     "price": 2900
+    }
+   ],
+   "checks": [
+    {
+     "horizon": "D+3",
+     "date": "2026-07-06",
+     "price": 2705,
+     "changePct": -6.56,
+     "newsDelta": "+",
+     "verdict": "빗나감",
+     "source": "https://finance.naver.com/item/sise_day.naver?code=067170"
+    }
+   ],
+   "status": "verified",
+   "backfill": true,
+   "flagPriceSource": "https://finance.naver.com/item/sise_day.naver?code=067170",
+   "finalVerdict": "빗나감"
   },
   {
    "name": "유아이디(069330)",
    "type": "leading",
    "market": "韓",
    "flagDate": "2026-07-01",
-   "flagPrice": null,
+   "flagPrice": 1070,
    "signals": [
     "M&A신사업",
     "전장진출"
    ],
    "theme": "전장소재",
-   "priceLog": [],
-   "checks": [],
-   "status": "pending",
-   "backfill": true
-  },
-  {
-   "name": "멕아이씨에스(272110)",
-   "type": "leading",
-   "market": "韓",
-   "flagDate": "2026-07-01",
-   "flagPrice": null,
-   "signals": [
-    "해외인증",
-    "日ODM승인"
+   "priceLog": [
+    {
+     "date": "2026-07-07",
+     "price": 1004
+    }
    ],
-   "theme": "의료기기",
-   "priceLog": [],
-   "checks": [],
-   "status": "pending",
-   "backfill": true
+   "checks": [
+    {
+     "horizon": "D+3",
+     "date": "2026-07-06",
+     "price": 979,
+     "changePct": -8.5,
+     "newsDelta": "+",
+     "verdict": "빗나감",
+     "source": "https://finance.naver.com/item/sise_day.naver?code=069330"
+    }
+   ],
+   "status": "verified",
+   "backfill": true,
+   "flagPriceSource": "https://finance.naver.com/item/sise_day.naver?code=069330",
+   "finalVerdict": "빗나감"
   },
   {
-   "name": "대동금속(020808)",
+   "name": "대동금속(020400)",
    "type": "leading",
    "market": "韓",
    "flagDate": "2026-07-02",
-   "flagPrice": null,
+   "flagPrice": 3425,
    "signals": [
     "신사업전환",
     "반도체·방산진입"
    ],
    "theme": "첨단소재",
-   "priceLog": [],
-   "checks": [],
-   "status": "pending",
-   "backfill": true
+   "priceLog": [
+    {
+     "date": "2026-07-07",
+     "price": 3150
+    }
+   ],
+   "checks": [
+    {
+     "horizon": "D+3",
+     "date": "2026-07-06",
+     "price": 3185,
+     "changePct": -7.01,
+     "newsDelta": "0",
+     "verdict": "빗나감",
+     "source": "https://finance.naver.com/item/sise_day.naver?code=020400"
+    }
+   ],
+   "status": "verified",
+   "backfill": true,
+   "flagPriceSource": "https://finance.naver.com/item/sise_day.naver?code=020400",
+   "finalVerdict": "빗나감"
   },
   {
    "name": "뉴보텍(060260)",
    "type": "leading",
    "market": "韓",
    "flagDate": "2026-07-02",
-   "flagPrice": null,
+   "flagPrice": 1671,
    "signals": [
     "테마첫거론",
     "MOU"
    ],
    "theme": "AIDC냉각",
-   "priceLog": [],
-   "checks": [],
-   "status": "pending",
-   "backfill": true
+   "priceLog": [
+    {
+     "date": "2026-07-07",
+     "price": 1569
+    }
+   ],
+   "checks": [
+    {
+     "horizon": "D+3",
+     "date": "2026-07-06",
+     "price": 1580,
+     "changePct": -5.45,
+     "newsDelta": "0",
+     "verdict": "빗나감",
+     "source": "https://finance.naver.com/item/sise_day.naver?code=060260"
+    }
+   ],
+   "status": "verified",
+   "backfill": true,
+   "flagPriceSource": "https://finance.naver.com/item/sise_day.naver?code=060260",
+   "finalVerdict": "빗나감"
   },
   {
    "name": "솔루스첨단소재(336370)",
    "type": "leading",
    "market": "韓",
    "flagDate": "2026-07-03",
-   "flagPrice": null,
+   "flagPrice": 8250,
    "signals": [
     "가동률↑",
     "판매확대",
     "판매확대(전지박40%)"
    ],
    "theme": "2차전지·로봇",
-   "priceLog": [],
-   "checks": [],
+   "priceLog": [
+    {
+     "date": "2026-07-07",
+     "price": 7900
+    }
+   ],
+   "checks": [
+    {
+     "horizon": "D+3",
+     "date": "2026-07-06",
+     "price": 8050,
+     "changePct": -2.42,
+     "newsDelta": "0",
+     "verdict": "중립",
+     "source": "https://finance.naver.com/item/sise_day.naver?code=336370"
+    }
+   ],
    "status": "pending",
-   "backfill": true
+   "backfill": true,
+   "flagPriceSource": "https://finance.naver.com/item/sise_day.naver?code=336370",
+   "finalVerdict": "중립"
   },
   {
    "name": "글로벌에스엠(900070)",
    "type": "leading",
    "market": "韓",
    "flagDate": "2026-07-03",
-   "flagPrice": null,
+   "flagPrice": 1006,
    "signals": [
     "프로젝트선정"
    ],
    "theme": "로봇·피지컬AI",
-   "priceLog": [],
-   "checks": [],
+   "priceLog": [
+    {
+     "date": "2026-07-07",
+     "price": 1070
+    }
+   ],
+   "checks": [
+    {
+     "horizon": "D+3",
+     "date": "2026-07-06",
+     "price": 1033,
+     "changePct": 2.68,
+     "newsDelta": "+",
+     "verdict": "중립",
+     "source": "https://finance.naver.com/item/sise_day.naver?code=900070"
+    }
+   ],
    "status": "pending",
-   "backfill": true
+   "backfill": true,
+   "flagPriceSource": "https://finance.naver.com/item/sise_day.naver?code=900070",
+   "finalVerdict": "중립"
   },
   {
    "name": "하나기술(299030)",
    "type": "leading",
    "market": "韓",
    "flagDate": "2026-07-03",
-   "flagPrice": null,
+   "flagPrice": 13580,
    "signals": [
     "정책·투자신호(전고체)"
    ],
    "theme": "전고체배터리",
-   "priceLog": [],
-   "checks": [],
+   "priceLog": [
+    {
+     "date": "2026-07-07",
+     "price": 12990
+    }
+   ],
+   "checks": [
+    {
+     "horizon": "D+3",
+     "date": "2026-07-06",
+     "price": 13330,
+     "changePct": -1.84,
+     "newsDelta": "0",
+     "verdict": "중립",
+     "source": "https://finance.naver.com/item/sise_day.naver?code=299030"
+    }
+   ],
    "status": "pending",
-   "backfill": true
+   "backfill": true,
+   "flagPriceSource": "https://finance.naver.com/item/sise_day.naver?code=299030",
+   "finalVerdict": "중립"
   },
   {
    "name": "이수스페셜티케미컬(457190)",
    "type": "leading",
    "market": "韓",
    "flagDate": "2026-07-03",
-   "flagPrice": null,
+   "flagPrice": 68200,
    "signals": [
     "소재국산화",
     "정책·투자신호(전고체)"
    ],
    "theme": "전고체배터리",
-   "priceLog": [],
-   "checks": [],
+   "priceLog": [
+    {
+     "date": "2026-07-07",
+     "price": 65000
+    }
+   ],
+   "checks": [
+    {
+     "horizon": "D+3",
+     "date": "2026-07-06",
+     "price": 65300,
+     "changePct": -4.25,
+     "newsDelta": "+",
+     "verdict": "중립",
+     "source": "https://finance.naver.com/item/sise_day.naver?code=457190"
+    }
+   ],
    "status": "pending",
-   "backfill": true
+   "backfill": true,
+   "flagPriceSource": "https://finance.naver.com/item/sise_day.naver?code=457190",
+   "finalVerdict": "중립"
   },
   {
    "name": "대한전선(001440)",
    "type": "leading",
    "market": "韓",
    "flagDate": "2026-07-03",
-   "flagPrice": null,
+   "flagPrice": 32900,
    "signals": [
     "테마반복거론(HVDC)"
    ],
    "theme": "AI전력",
-   "priceLog": [],
-   "checks": [],
+   "priceLog": [
+    {
+     "date": "2026-07-07",
+     "price": 30550
+    }
+   ],
+   "checks": [
+    {
+     "horizon": "D+3",
+     "date": "2026-07-06",
+     "price": 32250,
+     "changePct": -1.98,
+     "newsDelta": "0",
+     "verdict": "중립",
+     "source": "https://finance.naver.com/item/sise_day.naver?code=001440"
+    }
+   ],
    "status": "pending",
-   "backfill": true
+   "backfill": true,
+   "flagPriceSource": "https://finance.naver.com/item/sise_day.naver?code=001440",
+   "finalVerdict": "중립"
   },
   {
    "name": "일진전기(103590)",
    "type": "leading",
    "market": "韓",
    "flagDate": "2026-07-03",
-   "flagPrice": null,
+   "flagPrice": 75300,
    "signals": [
     "테마반복거론"
    ],
    "theme": "AI전력",
-   "priceLog": [],
-   "checks": [],
+   "priceLog": [
+    {
+     "date": "2026-07-07",
+     "price": 68100
+    }
+   ],
+   "checks": [
+    {
+     "horizon": "D+3",
+     "date": "2026-07-06",
+     "price": 71700,
+     "changePct": -4.78,
+     "newsDelta": "+",
+     "verdict": "중립",
+     "source": "https://finance.naver.com/item/sise_day.naver?code=103590"
+    }
+   ],
    "status": "pending",
-   "backfill": true
+   "backfill": true,
+   "flagPriceSource": "https://finance.naver.com/item/sise_day.naver?code=103590",
+   "finalVerdict": "중립"
   },
   {
    "name": "한국주강(025890)",
    "type": "leading",
    "market": "韓",
    "flagDate": "2026-07-04",
-   "flagPrice": null,
+   "flagPrice": 2255,
    "signals": [
     "사업재편",
     "자사주매입"
    ],
    "theme": "발전·플랜트",
-   "priceLog": [],
-   "checks": [],
+   "priceLog": [
+    {
+     "date": "2026-07-07",
+     "price": 2235
+    }
+   ],
+   "checks": [
+    {
+     "horizon": "D+3",
+     "date": "2026-07-07",
+     "price": 2235,
+     "changePct": -0.89,
+     "newsDelta": "+",
+     "verdict": "중립",
+     "source": "https://finance.naver.com/item/sise_day.naver?code=025890"
+    }
+   ],
    "status": "pending",
-   "backfill": true
+   "backfill": true,
+   "flagPriceSource": "https://finance.naver.com/item/sise_day.naver?code=025890",
+   "flagPriceDate": "2026-07-06",
+   "finalVerdict": "중립"
   },
   {
    "name": "와이씨켐(112290)",
    "type": "leading",
    "market": "韓",
    "flagDate": "2026-07-04",
-   "flagPrice": null,
+   "flagPrice": 10320,
    "signals": [
     "국산화·테마첫거론"
    ],
    "theme": "유리기판",
-   "priceLog": [],
-   "checks": [],
+   "priceLog": [
+    {
+     "date": "2026-07-07",
+     "price": 9910
+    }
+   ],
+   "checks": [
+    {
+     "horizon": "D+3",
+     "date": "2026-07-07",
+     "price": 9910,
+     "changePct": -3.97,
+     "newsDelta": "+",
+     "verdict": "중립",
+     "source": "https://finance.naver.com/item/sise_day.naver?code=112290"
+    }
+   ],
    "status": "pending",
-   "backfill": true
+   "backfill": true,
+   "flagPriceSource": "https://finance.naver.com/item/sise_day.naver?code=112290",
+   "flagPriceDate": "2026-07-06",
+   "finalVerdict": "중립"
   },
   {
    "name": "디케이락(105740)",
    "type": "leading",
    "market": "韓",
    "flagDate": "2026-07-04",
-   "flagPrice": null,
+   "flagPrice": 6860,
    "signals": [
     "정책수혜미거명",
     "납품이력"
    ],
    "theme": "SMR",
-   "priceLog": [],
-   "checks": [],
+   "priceLog": [
+    {
+     "date": "2026-07-07",
+     "price": 6700
+    }
+   ],
+   "checks": [
+    {
+     "horizon": "D+3",
+     "date": "2026-07-07",
+     "price": 6700,
+     "changePct": -2.33,
+     "newsDelta": "+",
+     "verdict": "중립",
+     "source": "https://finance.naver.com/item/sise_day.naver?code=105740"
+    }
+   ],
    "status": "pending",
-   "backfill": true
+   "backfill": true,
+   "flagPriceSource": "https://finance.naver.com/item/sise_day.naver?code=105740",
+   "flagPriceDate": "2026-07-06",
+   "finalVerdict": "중립"
   },
   {
-   "name": "한국피아이엠",
+   "name": "한국피아이엠(448900)",
    "type": "leading",
    "market": "韓",
    "flagDate": "2026-07-04",
-   "flagPrice": null,
+   "flagPrice": 53600,
    "signals": [
     "글로벌고객사공급임박",
+    "대형고객공급임박",
     "테마첫거론"
    ],
    "theme": "휴머노이드",
-   "priceLog": [],
-   "checks": [],
-   "status": "pending",
-   "backfill": true
+   "priceLog": [
+    {
+     "date": "2026-07-07",
+     "price": 50200
+    }
+   ],
+   "checks": [
+    {
+     "horizon": "D+3",
+     "date": "2026-07-07",
+     "price": 50200,
+     "changePct": -6.34,
+     "newsDelta": "0",
+     "verdict": "빗나감",
+     "source": "https://finance.naver.com/item/sise_day.naver?code=448900"
+    }
+   ],
+   "status": "verified",
+   "backfill": true,
+   "flagPriceSource": "https://finance.naver.com/item/sise_day.naver?code=448900",
+   "flagPriceDate": "2026-07-06",
+   "finalVerdict": "빗나감"
   },
   {
-   "name": "성호전자(043100)",
+   "name": "성호전자(043260)",
    "type": "leading",
    "market": "韓",
    "flagDate": "2026-07-04",
-   "flagPrice": null,
+   "flagPrice": 21250,
    "signals": [
     "최대주주담보보강",
     "수요연결(AI전력)"
    ],
    "theme": "AI전력",
-   "priceLog": [],
-   "checks": [],
-   "status": "pending",
-   "backfill": true
+   "priceLog": [
+    {
+     "date": "2026-07-07",
+     "price": 19400
+    }
+   ],
+   "checks": [
+    {
+     "horizon": "D+3",
+     "date": "2026-07-07",
+     "price": 19400,
+     "changePct": -8.71,
+     "newsDelta": "+",
+     "verdict": "빗나감",
+     "source": "https://finance.naver.com/item/sise_day.naver?code=043260"
+    }
+   ],
+   "status": "verified",
+   "backfill": true,
+   "flagPriceSource": "https://finance.naver.com/item/sise_day.naver?code=043260",
+   "flagPriceDate": "2026-07-06",
+   "finalVerdict": "빗나감"
   },
   {
-   "name": "케이엔솔(053580)",
+   "name": "케이엔솔(053080)",
    "type": "leading",
    "market": "韓",
    "flagDate": "2026-07-04",
-   "flagPrice": null,
+   "flagPrice": 9350,
    "signals": [
     "AIDC투자확대수혜",
     "저주목"
    ],
    "theme": "AI데이터센터",
-   "priceLog": [],
-   "checks": [],
-   "status": "pending",
-   "backfill": true
-  },
-  {
-   "name": "한국피아이엠(448970)",
-   "type": "leading",
-   "market": "韓",
-   "flagDate": "2026-07-05",
-   "flagPrice": null,
-   "signals": [
-    "대형고객공급임박"
+   "priceLog": [
+    {
+     "date": "2026-07-07",
+     "price": 8960
+    }
    ],
-   "theme": "휴머노이드",
-   "priceLog": [],
-   "checks": [],
+   "checks": [
+    {
+     "horizon": "D+3",
+     "date": "2026-07-07",
+     "price": 8960,
+     "changePct": -4.17,
+     "newsDelta": "+",
+     "verdict": "중립",
+     "source": "https://finance.naver.com/item/sise_day.naver?code=053080"
+    }
+   ],
    "status": "pending",
-   "backfill": true
+   "backfill": true,
+   "flagPriceSource": "https://finance.naver.com/item/sise_day.naver?code=053080",
+   "flagPriceDate": "2026-07-06",
+   "finalVerdict": "중립"
   },
   {
-   "name": "나우로보틱스(458870)",
+   "name": "나우로보틱스(459510)",
    "type": "leading",
    "market": "韓",
    "flagDate": "2026-07-06",
-   "flagPrice": null,
+   "flagPrice": 13890,
    "signals": [
     "국산화특허",
     "테마첫거론"
    ],
    "theme": "휴머노이드",
-   "priceLog": [],
+   "priceLog": [
+    {
+     "date": "2026-07-07",
+     "price": 13220
+    }
+   ],
    "checks": [],
    "status": "pending",
-   "backfill": true
+   "backfill": true,
+   "flagPriceSource": "https://finance.naver.com/item/sise_day.naver?code=459510"
   },
   {
-   "name": "케이지에이(281820)",
+   "name": "케이지에이(455180)",
    "type": "leading",
    "market": "韓",
    "flagDate": "2026-07-07",
-   "flagPrice": null,
+   "flagPrice": 92900,
    "signals": [
     "테마첫거론",
     "공동개발계약"
    ],
    "theme": "차세대배터리(LTO·ESS)",
-   "priceLog": [],
+   "priceLog": [
+    {
+     "date": "2026-07-07",
+     "price": 1315
+    }
+   ],
    "checks": [],
    "status": "pending",
-   "backfill": true
+   "backfill": true,
+   "flagPriceSource": "https://finance.naver.com/item/sise_day.naver?code=281820"
   },
   {
    "name": "디알젬(263690)",
    "type": "leading",
    "market": "韓",
    "flagDate": "2026-07-07",
-   "flagPrice": null,
+   "flagPrice": 5010,
    "signals": [
     "제조인증 획득"
    ],
    "theme": "AI헬스케어",
-   "priceLog": [],
+   "priceLog": [
+    {
+     "date": "2026-07-07",
+     "price": 5010
+    }
+   ],
    "checks": [],
    "status": "pending",
-   "backfill": true
+   "backfill": true,
+   "flagPriceSource": "https://finance.naver.com/item/sise_day.naver?code=263690"
   },
   {
    "name": "엠젠솔루션(032790)",
    "type": "leading",
    "market": "韓",
    "flagDate": "2026-07-07",
-   "flagPrice": null,
+   "flagPrice": 1090,
    "signals": [
     "정부 실증사업 참여"
    ],
    "theme": "피지컬AI",
-   "priceLog": [],
+   "priceLog": [
+    {
+     "date": "2026-07-07",
+     "price": 1090
+    }
+   ],
    "checks": [],
    "status": "pending",
-   "backfill": true
+   "backfill": true,
+   "flagPriceSource": "https://finance.naver.com/item/sise_day.naver?code=032790"
   },
   {
    "name": "KH바텍(060720)",
    "type": "discovery",
    "market": "韓",
    "flagDate": "2026-06-21",
-   "flagPrice": null,
+   "flagPrice": 11050,
    "signals": [],
    "theme": "휴머노이드(감속기진출)",
-   "priceLog": [],
-   "checks": [],
-   "status": "pending",
-   "backfill": true
+   "priceLog": [
+    {
+     "date": "2026-07-07",
+     "price": 9960
+    }
+   ],
+   "checks": [
+    {
+     "horizon": "D+3",
+     "date": "2026-06-24",
+     "price": 10640,
+     "changePct": -3.71,
+     "newsDelta": "0",
+     "verdict": "중립",
+     "source": "https://finance.naver.com/item/sise_day.naver?code=060720"
+    },
+    {
+     "horizon": "D+7",
+     "date": "2026-06-29",
+     "price": 10710,
+     "changePct": -3.08,
+     "newsDelta": "0",
+     "verdict": "중립",
+     "source": "https://finance.naver.com/item/sise_day.naver?code=060720"
+    }
+   ],
+   "status": "verified",
+   "backfill": true,
+   "flagPriceSource": "https://finance.naver.com/item/sise_day.naver?code=060720",
+   "flagPriceDate": "2026-06-22",
+   "finalVerdict": "중립"
   },
   {
    "name": "삼화콘덴서(001820)",
    "type": "discovery",
    "market": "韓",
    "flagDate": "2026-06-21",
-   "flagPrice": null,
+   "flagPrice": 167000,
    "signals": [],
    "theme": "피지컬AI",
-   "priceLog": [],
-   "checks": [],
-   "status": "pending",
-   "backfill": true
+   "priceLog": [
+    {
+     "date": "2026-07-07",
+     "price": 107800
+    }
+   ],
+   "checks": [
+    {
+     "horizon": "D+3",
+     "date": "2026-06-24",
+     "price": 136000,
+     "changePct": -18.56,
+     "newsDelta": "+",
+     "verdict": "빗나감",
+     "source": "https://finance.naver.com/item/sise_day.naver?code=001820"
+    },
+    {
+     "horizon": "D+7",
+     "date": "2026-06-29",
+     "price": 133000,
+     "changePct": -20.36,
+     "newsDelta": "+",
+     "verdict": "빗나감",
+     "source": "https://finance.naver.com/item/sise_day.naver?code=001820"
+    }
+   ],
+   "status": "verified",
+   "backfill": true,
+   "flagPriceSource": "https://finance.naver.com/item/sise_day.naver?code=001820",
+   "flagPriceDate": "2026-06-22",
+   "finalVerdict": "빗나감"
   },
   {
    "name": "씨에스윈드(112610)",
    "type": "discovery",
    "market": "韓",
    "flagDate": "2026-06-22",
-   "flagPrice": null,
+   "flagPrice": 43450,
    "signals": [],
    "theme": "전력/풍력",
-   "priceLog": [],
-   "checks": [],
-   "status": "pending",
-   "backfill": true
+   "priceLog": [
+    {
+     "date": "2026-07-07",
+     "price": 41050
+    }
+   ],
+   "checks": [
+    {
+     "horizon": "D+3",
+     "date": "2026-06-25",
+     "price": 41700,
+     "changePct": -4.03,
+     "newsDelta": "+",
+     "verdict": "중립",
+     "source": "https://finance.naver.com/item/sise_day.naver?code=112610"
+    },
+    {
+     "horizon": "D+7",
+     "date": "2026-06-29",
+     "price": 43100,
+     "changePct": -0.81,
+     "newsDelta": "+",
+     "verdict": "중립",
+     "source": "https://finance.naver.com/item/sise_day.naver?code=112610"
+    }
+   ],
+   "status": "verified",
+   "backfill": true,
+   "flagPriceSource": "https://finance.naver.com/item/sise_day.naver?code=112610",
+   "finalVerdict": "중립"
   },
   {
    "name": "와이솔(122990)",
    "type": "discovery",
    "market": "韓",
    "flagDate": "2026-06-23",
-   "flagPrice": null,
+   "flagPrice": 6700,
    "signals": [],
    "theme": "부품수직계열화",
-   "priceLog": [],
-   "checks": [],
-   "status": "pending",
-   "backfill": true
+   "priceLog": [
+    {
+     "date": "2026-07-07",
+     "price": 6100
+    }
+   ],
+   "checks": [
+    {
+     "horizon": "D+3",
+     "date": "2026-06-26",
+     "price": 6150,
+     "changePct": -8.21,
+     "newsDelta": "0",
+     "verdict": "빗나감",
+     "source": "https://finance.naver.com/item/sise_day.naver?code=122990"
+    },
+    {
+     "horizon": "D+7",
+     "date": "2026-06-30",
+     "price": 6440,
+     "changePct": -3.88,
+     "newsDelta": "0",
+     "verdict": "중립",
+     "source": "https://finance.naver.com/item/sise_day.naver?code=122990"
+    }
+   ],
+   "status": "verified",
+   "backfill": true,
+   "flagPriceSource": "https://finance.naver.com/item/sise_day.naver?code=122990",
+   "finalVerdict": "빗나감"
   },
   {
    "name": "클로봇(466100)",
    "type": "discovery",
    "market": "韓",
    "flagDate": "2026-06-23",
-   "flagPrice": null,
+   "flagPrice": 30400,
    "signals": [],
    "theme": "로봇/물류자동화",
-   "priceLog": [],
-   "checks": [],
-   "status": "pending",
-   "backfill": true
+   "priceLog": [
+    {
+     "date": "2026-07-07",
+     "price": 26400
+    }
+   ],
+   "checks": [
+    {
+     "horizon": "D+3",
+     "date": "2026-06-26",
+     "price": 28650,
+     "changePct": -5.76,
+     "newsDelta": "+",
+     "verdict": "빗나감",
+     "source": "https://finance.naver.com/item/sise_day.naver?code=466100"
+    },
+    {
+     "horizon": "D+7",
+     "date": "2026-06-30",
+     "price": 31350,
+     "changePct": 3.12,
+     "newsDelta": "+",
+     "verdict": "중립",
+     "source": "https://finance.naver.com/item/sise_day.naver?code=466100"
+    }
+   ],
+   "status": "verified",
+   "backfill": true,
+   "flagPriceSource": "https://finance.naver.com/item/sise_day.naver?code=466100",
+   "finalVerdict": "빗나감"
   },
   {
    "name": "삼기(122350)",
    "type": "discovery",
    "market": "韓",
    "flagDate": "2026-06-24",
-   "flagPrice": null,
+   "flagPrice": 1086,
    "signals": [],
    "theme": "휴머노이드",
-   "priceLog": [],
-   "checks": [],
-   "status": "pending",
-   "backfill": true
+   "priceLog": [
+    {
+     "date": "2026-07-07",
+     "price": 1898
+    }
+   ],
+   "checks": [
+    {
+     "horizon": "D+3",
+     "date": "2026-06-29",
+     "price": 1907,
+     "changePct": 75.6,
+     "newsDelta": "+",
+     "verdict": "적중",
+     "source": "https://finance.naver.com/item/sise_day.naver?code=122350"
+    },
+    {
+     "horizon": "D+7",
+     "date": "2026-07-01",
+     "price": 1388,
+     "changePct": 27.81,
+     "newsDelta": "+",
+     "verdict": "적중",
+     "source": "https://finance.naver.com/item/sise_day.naver?code=122350"
+    }
+   ],
+   "status": "verified",
+   "backfill": true,
+   "flagPriceSource": "https://finance.naver.com/item/sise_day.naver?code=122350",
+   "finalVerdict": "적중"
   },
   {
-   "name": "씨메스(415620)",
+   "name": "씨메스로보틱스(475400)",
    "type": "discovery",
    "market": "韓",
    "flagDate": "2026-06-26",
-   "flagPrice": null,
+   "flagPrice": 18440,
    "signals": [],
    "theme": "로봇",
-   "priceLog": [],
-   "checks": [],
-   "status": "pending",
-   "backfill": true
+   "priceLog": [
+    {
+     "date": "2026-07-07",
+     "price": 16840
+    }
+   ],
+   "checks": [
+    {
+     "horizon": "D+3",
+     "date": "2026-06-29",
+     "price": 20400,
+     "changePct": 10.63,
+     "newsDelta": "0",
+     "verdict": "적중",
+     "source": "https://finance.naver.com/item/sise_day.naver?code=475400"
+    },
+    {
+     "horizon": "D+7",
+     "date": "2026-07-03",
+     "price": 17880,
+     "changePct": -3.04,
+     "newsDelta": "0",
+     "verdict": "중립",
+     "source": "https://finance.naver.com/item/sise_day.naver?code=475400"
+    }
+   ],
+   "status": "verified",
+   "backfill": true,
+   "flagPriceSource": "https://finance.naver.com/item/sise_day.naver?code=475400",
+   "finalVerdict": "적중"
   },
   {
    "name": "가온칩스(399720)",
    "type": "discovery",
    "market": "韓",
    "flagDate": "2026-06-26",
-   "flagPrice": null,
+   "flagPrice": 37050,
    "signals": [],
    "theme": "AI반도체-디자인",
-   "priceLog": [],
-   "checks": [],
-   "status": "pending",
-   "backfill": true
+   "priceLog": [
+    {
+     "date": "2026-07-07",
+     "price": 48950
+    }
+   ],
+   "checks": [
+    {
+     "horizon": "D+3",
+     "date": "2026-06-29",
+     "price": 41350,
+     "changePct": 11.61,
+     "newsDelta": "0",
+     "verdict": "적중",
+     "source": "https://finance.naver.com/item/sise_day.naver?code=399720"
+    },
+    {
+     "horizon": "D+7",
+     "date": "2026-07-03",
+     "price": 37450,
+     "changePct": 1.08,
+     "newsDelta": "0",
+     "verdict": "중립",
+     "source": "https://finance.naver.com/item/sise_day.naver?code=399720"
+    }
+   ],
+   "status": "verified",
+   "backfill": true,
+   "flagPriceSource": "https://finance.naver.com/item/sise_day.naver?code=399720",
+   "finalVerdict": "적중"
   },
   {
-   "name": "칩스앤미디어(199290)",
+   "name": "칩스앤미디어(094360)",
    "type": "discovery",
    "market": "韓",
    "flagDate": "2026-06-26",
-   "flagPrice": null,
+   "flagPrice": 11220,
    "signals": [],
    "theme": "AI반도체-IP",
-   "priceLog": [],
-   "checks": [],
-   "status": "pending",
-   "backfill": true
+   "priceLog": [
+    {
+     "date": "2026-07-07",
+     "price": 12180
+    }
+   ],
+   "checks": [
+    {
+     "horizon": "D+3",
+     "date": "2026-06-29",
+     "price": 12200,
+     "changePct": 8.73,
+     "newsDelta": "0",
+     "verdict": "적중",
+     "source": "https://finance.naver.com/item/sise_day.naver?code=094360"
+    },
+    {
+     "horizon": "D+7",
+     "date": "2026-07-03",
+     "price": 12570,
+     "changePct": 12.03,
+     "newsDelta": "+",
+     "verdict": "적중",
+     "source": "https://finance.naver.com/item/sise_day.naver?code=094360"
+    }
+   ],
+   "status": "verified",
+   "backfill": true,
+   "flagPriceSource": "https://finance.naver.com/item/sise_day.naver?code=094360",
+   "finalVerdict": "적중"
   },
   {
-   "name": "케이쓰리아이(456020)",
+   "name": "케이쓰리아이(431190)",
    "type": "discovery",
    "market": "韓",
    "flagDate": "2026-06-30",
-   "flagPrice": null,
+   "flagPrice": 2205,
    "signals": [],
    "theme": "피지컬AI",
-   "priceLog": [],
-   "checks": [],
-   "status": "pending",
-   "backfill": true
+   "priceLog": [
+    {
+     "date": "2026-07-07",
+     "price": 2410
+    }
+   ],
+   "checks": [
+    {
+     "horizon": "D+3",
+     "date": "2026-07-03",
+     "price": 2440,
+     "changePct": 10.66,
+     "newsDelta": "0",
+     "verdict": "적중",
+     "source": "https://finance.naver.com/item/sise_day.naver?code=431190"
+    },
+    {
+     "horizon": "D+7",
+     "date": "2026-07-07",
+     "price": 2410,
+     "changePct": 9.3,
+     "newsDelta": "0",
+     "verdict": "적중",
+     "source": "https://finance.naver.com/item/sise_day.naver?code=431190"
+    }
+   ],
+   "status": "verified",
+   "backfill": true,
+   "flagPriceSource": "https://finance.naver.com/item/sise_day.naver?code=431190",
+   "finalVerdict": "적중"
   },
   {
    "name": "미래산업(025560)",
    "type": "discovery",
    "market": "韓",
    "flagDate": "2026-06-30",
-   "flagPrice": null,
+   "flagPrice": 60300,
    "signals": [],
    "theme": "반도체장비",
-   "priceLog": [],
-   "checks": [],
-   "status": "pending",
-   "backfill": true
+   "priceLog": [
+    {
+     "date": "2026-07-07",
+     "price": 41750
+    }
+   ],
+   "checks": [
+    {
+     "horizon": "D+3",
+     "date": "2026-07-03",
+     "price": 45700,
+     "changePct": -24.21,
+     "newsDelta": "0",
+     "verdict": "빗나감",
+     "source": "https://finance.naver.com/item/sise_day.naver?code=025560"
+    },
+    {
+     "horizon": "D+7",
+     "date": "2026-07-07",
+     "price": 41750,
+     "changePct": -30.76,
+     "newsDelta": "0",
+     "verdict": "빗나감",
+     "source": "https://finance.naver.com/item/sise_day.naver?code=025560"
+    }
+   ],
+   "status": "verified",
+   "backfill": true,
+   "flagPriceSource": "https://finance.naver.com/item/sise_day.naver?code=025560",
+   "finalVerdict": "빗나감"
   },
   {
-   "name": "나우로보틱스(455900)",
+   "name": "나우로보틱스(459510)",
    "type": "discovery",
    "market": "韓",
    "flagDate": "2026-07-01",
-   "flagPrice": null,
+   "flagPrice": 15230,
    "signals": [],
    "theme": "산업용로봇",
-   "priceLog": [],
-   "checks": [],
-   "status": "pending",
-   "backfill": true
+   "priceLog": [
+    {
+     "date": "2026-07-07",
+     "price": 13220
+    }
+   ],
+   "checks": [
+    {
+     "horizon": "D+3",
+     "date": "2026-07-06",
+     "price": 13890,
+     "changePct": -8.8,
+     "newsDelta": "+",
+     "verdict": "빗나감",
+     "source": "https://finance.naver.com/item/sise_day.naver?code=459510"
+    }
+   ],
+   "status": "verified",
+   "backfill": true,
+   "flagPriceSource": "https://finance.naver.com/item/sise_day.naver?code=459510",
+   "finalVerdict": "빗나감"
   },
   {
    "name": "유니슨(018000)",
    "type": "discovery",
    "market": "韓",
    "flagDate": "2026-07-01",
-   "flagPrice": null,
+   "flagPrice": 1062,
    "signals": [],
    "theme": "해상풍력 터빈",
-   "priceLog": [],
-   "checks": [],
-   "status": "pending",
-   "backfill": true
+   "priceLog": [
+    {
+     "date": "2026-07-07",
+     "price": 900
+    }
+   ],
+   "checks": [
+    {
+     "horizon": "D+3",
+     "date": "2026-07-06",
+     "price": 925,
+     "changePct": -12.9,
+     "newsDelta": "0",
+     "verdict": "빗나감",
+     "source": "https://finance.naver.com/item/sise_day.naver?code=018000"
+    }
+   ],
+   "status": "verified",
+   "backfill": true,
+   "flagPriceSource": "https://finance.naver.com/item/sise_day.naver?code=018000",
+   "finalVerdict": "빗나감"
   },
   {
-   "name": "삼현(419530)",
+   "name": "삼현(437730)",
    "type": "discovery",
    "market": "韓",
    "flagDate": "2026-07-02",
-   "flagPrice": null,
+   "flagPrice": 35100,
    "signals": [],
    "theme": "로봇/모션",
-   "priceLog": [],
-   "checks": [],
-   "status": "pending",
-   "backfill": true
+   "priceLog": [
+    {
+     "date": "2026-07-07",
+     "price": 33200
+    }
+   ],
+   "checks": [
+    {
+     "horizon": "D+3",
+     "date": "2026-07-06",
+     "price": 37000,
+     "changePct": 5.41,
+     "newsDelta": "+",
+     "verdict": "적중",
+     "source": "https://finance.naver.com/item/sise_day.naver?code=437730"
+    }
+   ],
+   "status": "verified",
+   "backfill": true,
+   "flagPriceSource": "https://finance.naver.com/item/sise_day.naver?code=437730",
+   "finalVerdict": "적중"
   },
   {
    "name": "HB테크놀러지(078150)",
    "type": "discovery",
    "market": "韓",
    "flagDate": "2026-07-04",
-   "flagPrice": null,
+   "flagPrice": 2100,
    "signals": [],
    "theme": "유리기판",
-   "priceLog": [],
-   "checks": [],
+   "priceLog": [
+    {
+     "date": "2026-07-07",
+     "price": 1998
+    }
+   ],
+   "checks": [
+    {
+     "horizon": "D+3",
+     "date": "2026-07-07",
+     "price": 1998,
+     "changePct": -4.86,
+     "newsDelta": "0",
+     "verdict": "중립",
+     "source": "https://finance.naver.com/item/sise_day.naver?code=078150"
+    }
+   ],
    "status": "pending",
-   "backfill": true
+   "backfill": true,
+   "flagPriceSource": "https://finance.naver.com/item/sise_day.naver?code=078150",
+   "flagPriceDate": "2026-07-06",
+   "finalVerdict": "중립"
   },
   {
    "name": "한농화성(011500)",
    "type": "discovery",
    "market": "韓",
    "flagDate": "2026-07-04",
-   "flagPrice": null,
+   "flagPrice": 13310,
    "signals": [],
    "theme": "전고체배터리",
-   "priceLog": [],
-   "checks": [],
+   "priceLog": [
+    {
+     "date": "2026-07-07",
+     "price": 12800
+    }
+   ],
+   "checks": [
+    {
+     "horizon": "D+3",
+     "date": "2026-07-07",
+     "price": 12800,
+     "changePct": -3.83,
+     "newsDelta": "0",
+     "verdict": "중립",
+     "source": "https://finance.naver.com/item/sise_day.naver?code=011500"
+    }
+   ],
    "status": "pending",
-   "backfill": true
+   "backfill": true,
+   "flagPriceSource": "https://finance.naver.com/item/sise_day.naver?code=011500",
+   "flagPriceDate": "2026-07-06",
+   "finalVerdict": "중립"
   },
   {
    "name": "플래티어(367000)",
    "type": "discovery",
    "market": "韓",
    "flagDate": "2026-07-05",
-   "flagPrice": null,
+   "flagPrice": 2935,
    "signals": [],
    "theme": "금융 AX",
-   "priceLog": [],
+   "priceLog": [
+    {
+     "date": "2026-07-07",
+     "price": 2875
+    }
+   ],
    "checks": [],
    "status": "pending",
-   "backfill": true
+   "backfill": true,
+   "flagPriceSource": "https://finance.naver.com/item/sise_day.naver?code=367000",
+   "flagPriceDate": "2026-07-06"
   },
   {
    "name": "세명전기(017510)",
    "type": "discovery",
    "market": "韓",
    "flagDate": "2026-07-05",
-   "flagPrice": null,
+   "flagPrice": 7710,
    "signals": [],
    "theme": "HVDC·전력망",
-   "priceLog": [],
+   "priceLog": [
+    {
+     "date": "2026-07-07",
+     "price": 7350
+    }
+   ],
    "checks": [],
    "status": "pending",
-   "backfill": true
+   "backfill": true,
+   "flagPriceSource": "https://finance.naver.com/item/sise_day.naver?code=017510",
+   "flagPriceDate": "2026-07-06"
   },
   {
    "name": "레이크머티리얼즈(281740)",
    "type": "discovery",
    "market": "韓",
    "flagDate": "2026-07-05",
-   "flagPrice": null,
+   "flagPrice": 13110,
    "signals": [],
    "theme": "전고체",
-   "priceLog": [],
+   "priceLog": [
+    {
+     "date": "2026-07-07",
+     "price": 12900
+    }
+   ],
    "checks": [],
    "status": "pending",
-   "backfill": true
+   "backfill": true,
+   "flagPriceSource": "https://finance.naver.com/item/sise_day.naver?code=281740",
+   "flagPriceDate": "2026-07-06"
   },
   {
    "name": "성호전자(043260)",
    "type": "discovery",
    "market": "韓",
    "flagDate": "2026-07-06",
-   "flagPrice": null,
+   "flagPrice": 21250,
    "signals": [],
    "theme": "AI전력변환",
-   "priceLog": [],
+   "priceLog": [
+    {
+     "date": "2026-07-07",
+     "price": 19400
+    }
+   ],
    "checks": [],
    "status": "pending",
-   "backfill": true
+   "backfill": true,
+   "flagPriceSource": "https://finance.naver.com/item/sise_day.naver?code=043260"
   },
   {
    "name": "케이엔솔(053080)",
    "type": "discovery",
    "market": "韓",
    "flagDate": "2026-07-06",
-   "flagPrice": null,
+   "flagPrice": 9350,
    "signals": [],
    "theme": "AI데이터센터 냉각",
-   "priceLog": [],
+   "priceLog": [
+    {
+     "date": "2026-07-07",
+     "price": 8960
+    }
+   ],
    "checks": [],
    "status": "pending",
-   "backfill": true
+   "backfill": true,
+   "flagPriceSource": "https://finance.naver.com/item/sise_day.naver?code=053080"
   },
   {
    "name": "브이엠(089970)",
    "type": "discovery",
    "market": "韓",
    "flagDate": "2026-07-07",
-   "flagPrice": null,
+   "flagPrice": 87200,
    "signals": [],
    "theme": "반도체 설비투자",
-   "priceLog": [],
+   "priceLog": [
+    {
+     "date": "2026-07-07",
+     "price": 87200
+    }
+   ],
    "checks": [],
    "status": "pending",
-   "backfill": true
+   "backfill": true,
+   "flagPriceSource": "https://finance.naver.com/item/sise_day.naver?code=089970"
   },
   {
-   "name": "케이지에이",
+   "name": "케이지에이(455180)",
    "type": "discovery",
    "market": "韓",
    "flagDate": "2026-07-07",
-   "flagPrice": null,
+   "flagPrice": 1315,
    "signals": [],
    "theme": "LTO 차세대 배터리",
-   "priceLog": [],
+   "priceLog": [
+    {
+     "date": "2026-07-07",
+     "price": 1315
+    }
+   ],
    "checks": [],
    "status": "pending",
-   "backfill": true
-  },
-  {
-   "name": "브이엠",
-   "type": "discovery",
-   "market": "韓",
-   "flagDate": "2026-07-07",
-   "flagPrice": null,
-   "signals": [],
-   "theme": "반도체 설비투자",
-   "priceLog": [],
-   "checks": [],
-   "status": "pending",
-   "backfill": true
+   "backfill": true,
+   "flagPriceSource": "https://finance.naver.com/item/sise_day.naver?code=455180"
   }
  ],
  "stats": {
-  "verified": 0,
-  "hit": 0,
-  "neutral": 0,
-  "miss": 0,
-  "hitRate": null,
-  "avgD3ChangePct": null,
-  "pending": 84,
-  "total": 84,
+  "verified": 53,
+  "hit": 9,
+  "neutral": 22,
+  "miss": 22,
+  "hitRate": 17.0,
+  "avgD3ChangePct": -1.9,
+  "pending": 26,
+  "total": 79,
   "byType": {
    "leading": {
-    "verified": 0,
-    "hit": 0,
-    "neutral": 0,
-    "miss": 0,
-    "hitRate": null,
-    "avgD3ChangePct": null
+    "verified": 37,
+    "hit": 3,
+    "neutral": 18,
+    "miss": 16,
+    "hitRate": 8.1,
+    "avgD3ChangePct": -3.47
    },
    "discovery": {
-    "verified": 0,
-    "hit": 0,
-    "neutral": 0,
-    "miss": 0,
-    "hitRate": null,
-    "avgD3ChangePct": null
+    "verified": 16,
+    "hit": 6,
+    "neutral": 4,
+    "miss": 6,
+    "hitRate": 37.5,
+    "avgD3ChangePct": 1.74
    }
   }
  }
