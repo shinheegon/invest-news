@@ -120,6 +120,10 @@
       <h2>🎯 자체 검증 — 발굴/선행 엔진 성적표</h2>
       <p class="muted">우리가 🌱발굴·🔮선행 포착한 종목이 <b>3일 뒤 실제 주가·뉴스에 어떻게 반영됐는지</b> 누적 검증합니다. 적중률이 쌓일수록 어떤 신호가 진짜 통하는지 증명됩니다.</p>
       <div id="vfStats" class="gauge-row" style="grid-template-columns:repeat(4,1fr)"></div>
+      <h3 style="margin-top:22px">🧠 테마 스코어보드 <span class="muted">(검증기반 자기학습 — 어느 테마가 실제로 보상받았나)</span></h3>
+      <div class="table-scroll"><table id="themeTable" class="freq"></table></div>
+      <details style="margin-top:10px"><summary class="muted" style="cursor:pointer">📓 학습 노트 전체 보기 (왜 이긴 종목은 이겼나)</summary>
+        <article id="learnBody" class="md" style="margin-top:10px">불러오는 중…</article></details>
       <h3 style="margin-top:22px">📈 발굴 종목 주가 추이 <span class="muted">(최초 등장 → 현재)</span></h3>
       <p class="muted">발굴/선행 포착한 종목이 flag 이후 실제로 어떻게 움직였는지 누적 곡선. 종목 선택 시 개별 추이, 기본은 전체 비교(시작=100 정규화).</p>
       <select id="priceSelect" class="pf-select"></select>

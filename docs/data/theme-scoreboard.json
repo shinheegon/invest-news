@@ -1,0 +1,97 @@
+{
+ "updatedAt": "2026-07-07T21:29:45+09:00",
+ "themes": [
+  {
+   "theme": "AI반도체설계(팹리스/IP)",
+   "n": 2,
+   "hit": 2,
+   "miss": 0,
+   "hitRate": 100.0,
+   "avgD3": 10.2,
+   "momentum": "상승"
+  },
+  {
+   "theme": "로봇/휴머노이드",
+   "n": 13,
+   "hit": 5,
+   "miss": 4,
+   "hitRate": 38.5,
+   "avgD3": 6.8,
+   "momentum": "상승"
+  },
+  {
+   "theme": "이차전지",
+   "n": 4,
+   "hit": 1,
+   "miss": 0,
+   "hitRate": 25.0,
+   "avgD3": 0.8,
+   "momentum": "중립"
+  },
+  {
+   "theme": "기타",
+   "n": 4,
+   "hit": 0,
+   "miss": 1,
+   "hitRate": 0.0,
+   "avgD3": -0.5,
+   "momentum": "중립"
+  },
+  {
+   "theme": "피지컬AI",
+   "n": 3,
+   "hit": 1,
+   "miss": 2,
+   "hitRate": 33.3,
+   "avgD3": -4.3,
+   "momentum": "하락"
+  },
+  {
+   "theme": "AI전력/데이터센터",
+   "n": 9,
+   "hit": 0,
+   "miss": 4,
+   "hitRate": 0.0,
+   "avgD3": -5.1,
+   "momentum": "하락"
+  },
+  {
+   "theme": "바이오/의료",
+   "n": 2,
+   "hit": 0,
+   "miss": 1,
+   "hitRate": 0.0,
+   "avgD3": -5.2,
+   "momentum": "하락"
+  },
+  {
+   "theme": "신재생에너지",
+   "n": 4,
+   "hit": 0,
+   "miss": 2,
+   "hitRate": 0.0,
+   "avgD3": -6.3,
+   "momentum": "하락"
+  },
+  {
+   "theme": "반도체소재/장비",
+   "n": 12,
+   "hit": 0,
+   "miss": 8,
+   "hitRate": 0.0,
+   "avgD3": -9.7,
+   "momentum": "하락"
+  }
+ ],
+ "winning": [
+  "AI반도체설계(팹리스/IP)",
+  "로봇/휴머노이드"
+ ],
+ "losing": [
+  "피지컬AI",
+  "AI전력/데이터센터",
+  "바이오/의료",
+  "신재생에너지",
+  "반도체소재/장비"
+ ]
+}

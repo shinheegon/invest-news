@@ -151,6 +151,10 @@ python3 "$PROJECT_DIR/scripts/verify-stats.py" >> "$LOG" 2>&1 || \
 python3 "$PROJECT_DIR/scripts/price-history.py" >> "$LOG" 2>&1 || \
   echo "[$(ts)] WARN price-history failed" >> "$LOG"
 
+# --- 테마 스코어보드(검증기반 자기학습 피드백) ---
+python3 "$PROJECT_DIR/scripts/theme-scoreboard.py" >> "$LOG" 2>&1 || \
+  echo "[$(ts)] WARN theme-scoreboard failed" >> "$LOG"
+
 # --- 사이트 빌드 + GitHub 배포 (git 원격이 설정된 경우에만 push) ---
 bash "$PROJECT_DIR/scripts/build-site.sh" >> "$LOG" 2>&1 || \
   echo "[$(ts)] WARN build-site failed" >> "$LOG"

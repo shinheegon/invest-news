@@ -512,7 +512,19 @@ async function loadVerification() {
   renderMD(document.getElementById('verifyBody'),
     await getText(`${DATA}/verification.md`), '검증 리포트는 데이터가 3일 이상 쌓이면 생성됩니다.');
 
+  await renderThemeBoard();
   await renderPriceHistory();
+}
+async function renderThemeBoard() {
+  const sb = await getJSON(`${DATA}/theme-scoreboard.json`) || { themes: [] };
+  const t = document.getElementById('themeTable');
+  const momTag = m => m === '상승' ? '<span class="delta-up">▲ 승세</span>' : m === '하락' ? '<span class="delta-down">▼ 열세</span>' : '<span class="delta-flat">— 중립</span>';
+  if (t) t.innerHTML = sb.themes.length
+    ? '<thead><tr><th>테마</th><th>모멘텀</th><th>검증</th><th>적중률</th><th>평균 D+3</th></tr></thead><tbody>' +
+      sb.themes.map(x => `<tr><td>${x.theme}</td><td>${momTag(x.momentum)}</td><td>${x.n}</td><td>${x.hitRate != null ? x.hitRate + '%' : '—'}</td><td><span class="${(x.avgD3 ?? 0) >= 0 ? 'delta-up' : 'delta-down'}">${x.avgD3 != null ? (x.avgD3 >= 0 ? '+' : '') + x.avgD3 + '%' : '—'}</span></td></tr>`).join('') + '</tbody>'
+    : '<tbody><tr><td class="muted">검증 데이터가 쌓이면 테마별 성적이 생성됩니다.</td></tr></tbody>';
+  renderMD(document.getElementById('learnBody'),
+    await getText(`${DATA}/discovery-learnings.md`), '학습 노트는 검증이 쌓이면 생성됩니다.');
 }
 
 let PRICEHIST = { companies: {} };
