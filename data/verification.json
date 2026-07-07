@@ -1,6 +1,157 @@
 {
- "updatedAt": "2026-07-07T19:36:28+09:00",
- "cases": [],
+ "updatedAt": "2026-07-07T19:55:38+09:00",
+ "cases": [
+  {
+   "name": "이지트로닉스(377330)",
+   "type": "leading",
+   "market": "韓",
+   "flagDate": "2026-07-07",
+   "flagPrice": 2340,
+   "flagPriceSource": "https://kr.investing.com/equities/egtronics",
+   "signals": [
+    "테마반복거론",
+    "턴어라운드조짐"
+   ],
+   "checks": [],
+   "status": "pending"
+  },
+  {
+   "name": "비에이치아이(083650)",
+   "type": "leading",
+   "market": "韓",
+   "flagDate": "2026-07-07",
+   "flagPrice": null,
+   "signals": [
+    "수주잔고증가",
+    "정책수혜"
+   ],
+   "checks": [],
+   "status": "pending"
+  },
+  {
+   "name": "대동(000490)",
+   "type": "leading",
+   "market": "韓",
+   "flagDate": "2026-07-07",
+   "flagPrice": null,
+   "signals": [
+    "첫대형수출계약"
+   ],
+   "checks": [],
+   "status": "pending"
+  },
+  {
+   "name": "퓨쳐켐(220100)",
+   "type": "leading",
+   "market": "韓",
+   "flagDate": "2026-07-07",
+   "flagPrice": null,
+   "signals": [
+    "독점공급계약"
+   ],
+   "checks": [],
+   "status": "pending"
+  },
+  {
+   "name": "태성(323280)",
+   "type": "leading",
+   "market": "韓",
+   "flagDate": "2026-07-07",
+   "flagPrice": null,
+   "signals": [
+    "캐파증설완공"
+   ],
+   "checks": [],
+   "status": "pending"
+  },
+  {
+   "name": "옵트론텍(082210)",
+   "type": "leading",
+   "market": "韓",
+   "flagDate": "2026-07-07",
+   "flagPrice": null,
+   "signals": [
+    "신규라인",
+    "턴어라운드조짐"
+   ],
+   "checks": [],
+   "status": "pending"
+  },
+  {
+   "name": "씨싸이트",
+   "type": "leading",
+   "market": "韓",
+   "flagDate": "2026-07-07",
+   "flagPrice": null,
+   "signals": [
+    "가동률급증"
+   ],
+   "checks": [],
+   "status": "pending"
+  },
+  {
+   "name": "에이비온(203400)",
+   "type": "leading",
+   "market": "韓",
+   "flagDate": "2026-07-07",
+   "flagPrice": null,
+   "signals": [
+    "내부자매수"
+   ],
+   "checks": [],
+   "status": "pending"
+  },
+  {
+   "name": "오텍캐리어(126560)",
+   "type": "leading",
+   "market": "韓",
+   "flagDate": "2026-07-07",
+   "flagPrice": null,
+   "signals": [
+    "전방수요확대",
+    "반복포착"
+   ],
+   "checks": [],
+   "status": "pending"
+  },
+  {
+   "name": "파라텍(033540)",
+   "type": "leading",
+   "market": "韓",
+   "flagDate": "2026-07-07",
+   "flagPrice": null,
+   "signals": [
+    "수주연쇄",
+    "반복포착"
+   ],
+   "checks": [],
+   "status": "pending"
+  },
+  {
+   "name": "쎄크(53060)",
+   "type": "discovery",
+   "market": "韓",
+   "flagDate": "2026-07-07",
+   "flagPrice": null,
+   "signals": [
+    "국책과제선정"
+   ],
+   "checks": [],
+   "status": "pending"
+  },
+  {
+   "name": "케이엠제약(225430)",
+   "type": "discovery",
+   "market": "韓",
+   "flagDate": "2026-07-07",
+   "flagPrice": null,
+   "signals": [
+    "해외매출급성장"
+   ],
+   "checks": [],
+   "status": "pending"
+  }
+ ],
  "stats": {
   "verified": 0,
   "hit": 0,
@@ -8,8 +159,8 @@
   "miss": 0,
   "hitRate": null,
   "avgD3ChangePct": null,
-  "pending": 0,
-  "total": 0,
+  "pending": 12,
+  "total": 12,
   "byType": {
    "leading": {
     "verified": 0,
