@@ -511,6 +511,49 @@ async function loadVerification() {
 
   renderMD(document.getElementById('verifyBody'),
     await getText(`${DATA}/verification.md`), '검증 리포트는 데이터가 3일 이상 쌓이면 생성됩니다.');
+
+  await renderPriceHistory();
+}
+
+let PRICEHIST = { companies: {} };
+async function renderPriceHistory() {
+  PRICEHIST = await getJSON(`${DATA}/price-history.json`) || { companies: {} };
+  const names = Object.keys(PRICEHIST.companies);
+  const sel = document.getElementById('priceSelect');
+  if (sel) {
+    sel.innerHTML = '<option value="__all__">📊 전체 비교 (시작=100)</option>' +
+      names.map(n => {
+        const c = PRICEHIST.companies[n];
+        const chg = c.changePct != null ? ` (${c.changePct >= 0 ? '+' : ''}${c.changePct}%)` : '';
+        return `<option value="${n}">${n}${chg}</option>`;
+      }).join('');
+    sel.onchange = () => drawPriceChart(sel.value);
+  }
+  drawPriceChart('__all__');
+}
+function drawPriceChart(which) {
+  const comps = PRICEHIST.companies || {};
+  const colors = ['#f85149', '#3fb950', '#2f81f7', '#f5a524', '#a371f7', '#e5484d', '#86c34a', '#58a6ff'];
+  if (which === '__all__') {
+    // 여러 종목 비교 → 시작=100 정규화
+    const entries = Object.entries(comps).filter(([, c]) => c.points >= 1);
+    if (!entries.length) { if (charts['priceChart']) charts['priceChart'].destroy(); return; }
+    const dates = Array.from(new Set(entries.flatMap(([, c]) => Object.keys(c.series)))).sort();
+    const ds = entries.slice(0, 8).map(([n, c], i) => {
+      const base = c.firstPrice || Object.values(c.series)[0] || 1;
+      return { label: n, borderColor: colors[i % colors.length], backgroundColor: 'transparent', spanGaps: true, tension: .3,
+               pointRadius: dates.length < 3 ? 4 : 0,
+               data: dates.map(d => c.series[d] != null ? Math.round(c.series[d] / base * 1000) / 10 : null) };
+    });
+    makeLineChart('priceChart', dates.map(d => d.slice(5)), ds);
+  } else {
+    const c = comps[which]; if (!c) return;
+    const dates = Object.keys(c.series).sort();
+    makeLineChart('priceChart', dates.map(d => d.slice(5)), [
+      { label: `${which} 주가(원)`, borderColor: '#2f81f7', backgroundColor: 'transparent', spanGaps: true, tension: .3,
+        pointRadius: dates.length < 3 ? 4 : 2, data: dates.map(d => c.series[d]) },
+    ]);
+  }
 }
 
 // ---------- 탭 ----------

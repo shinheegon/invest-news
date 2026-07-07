@@ -44,6 +44,7 @@ fi
 # --- 투자지표 히스토리 + 검증 통계 + 사이트 빌드 + 이메일 발송 ---
 BRIEFING_DATE="$DATE" python3 "$PROJECT_DIR/scripts/track-indicators.py" 2>&1 | tee -a "$LOG" || true
 python3 "$PROJECT_DIR/scripts/verify-stats.py" 2>&1 | tee -a "$LOG" || true
+python3 "$PROJECT_DIR/scripts/price-history.py" 2>&1 | tee -a "$LOG" || true
 bash "$PROJECT_DIR/scripts/build-site.sh" 2>&1 | tee -a "$LOG" || true
 BRIEFING_SESSION="$SESSION" BRIEFING_DATE="$DATE" \
   python3 "$PROJECT_DIR/scripts/notify-email.py" 2>&1 | tee -a "$LOG" || true

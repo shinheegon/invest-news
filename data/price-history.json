@@ -1,0 +1,17 @@
+{
+ "updatedAt": "2026-07-07T20:23:05+09:00",
+ "companies": {
+  "이지트로닉스(377330)": {
+   "market": "韓",
+   "type": "leading",
+   "firstSeen": "2026-07-07",
+   "firstPrice": 2340,
+   "lastPrice": 2340,
+   "changePct": 0.0,
+   "points": 1,
+   "series": {
+    "2026-07-07": 2340
+   }
+  }
+ }
+}

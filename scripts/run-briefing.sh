@@ -147,6 +147,10 @@ BRIEFING_DATE="$DATE" python3 "$PROJECT_DIR/scripts/track-indicators.py" >> "$LO
 python3 "$PROJECT_DIR/scripts/verify-stats.py" >> "$LOG" 2>&1 || \
   echo "[$(ts)] WARN verify-stats failed" >> "$LOG"
 
+# --- 발굴/선행 종목 주가 곡선 생성(최초 등장~현재) ---
+python3 "$PROJECT_DIR/scripts/price-history.py" >> "$LOG" 2>&1 || \
+  echo "[$(ts)] WARN price-history failed" >> "$LOG"
+
 # --- 사이트 빌드 + GitHub 배포 (git 원격이 설정된 경우에만 push) ---
 bash "$PROJECT_DIR/scripts/build-site.sh" >> "$LOG" 2>&1 || \
   echo "[$(ts)] WARN build-site failed" >> "$LOG"
