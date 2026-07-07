@@ -270,6 +270,36 @@ WebSearch/WebFetch로 아래를 최신값으로 확보(각 항목 출처 URL 필
 
 > ⚠️ 가격 단정·매수권유 금지. "선행신호 포착"은 **가능성**이지 확정이 아니다. 출처 없는 수치 금지.
 
+### 2.86단계: 🎯 자체 검증(백테스트) → `data/verification.json` + `data/verification.md`
+> 목적: 우리가 발굴/선행 포착한 종목이 **며칠 뒤 실제로 어떻게 됐는지(주가·뉴스 반영)** 를 누적 기록해
+> **엔진의 적중률을 스스로 측정·검증**한다. 이게 쌓이면 "선행 포착이 진짜 통하는가"를 데이터로 증명하고,
+> 어떤 신호가 잘 맞는지 학습해 정확도를 높인다.
+
+`data/verification.json`(없으면 `{"updatedAt":null,"cases":[],"stats":{}}`)을 Read 한다. `cases[]` 각 항목:
+`{"name":"회사명(티커)","type":"leading|discovery","market":"韓|美","flagDate":"YYYY-MM-DD","flagPrice":숫자|null,
+"signals":[...],"checks":[{"horizon":"D+3|D+7","date":"YYYY-MM-DD","price":숫자|null,"changePct":숫자|null,"newsDelta":"+|0|-","verdict":"적중|중립|빗나감","source":"url"}],"status":"pending|verified"}`
+
+**(A) 신규 등록**: 오늘 새로 🟢 **선행 포착**된 종목(2.85)과 🌱 **조기 발굴 Top**(2.8) 중 `cases`에 아직 없는 것을
+추가한다. `flagDate`=오늘, `flagPrice`=**오늘 종가를 검색해 기록**(못 찾으면 null), `status`="pending".
+(가격은 반드시 출처와 함께. 못 찾으면 null로 두고 검증은 뉴스·빈도로 대체.)
+
+**(B) 만기 검증**: `cases` 중 **`flagDate`가 3일 이상 지났고 해당 horizon 체크가 없는** 것을 검증한다.
+- D+3(그리고 flagDate 7일 경과 시 D+7): **현재 주가를 검색**해 `flagPrice` 대비 `changePct` 계산(출처 필수).
+- `newsDelta`: 그 사이 이 종목 관련 뉴스가 늘었나(+)/그대로(0)/줄었나(-) — `article-archive.json`·검색 참고.
+- **verdict 판정**(선행/발굴은 "오를 것"이라는 예측이므로):
+  - **적중**: changePct ≥ +5% (또는 가격 불명이나 newsDelta='+' & 이 종목이 이후 🔴'이미 반영'으로 승격 = 신호 적중)
+  - **중립**: -5% ~ +5% (또는 판단 불가)
+  - **빗나감**: changePct ≤ -5% (신호가 틀림)
+- D+7까지 체크했거나 D+3만으로 명확하면 `status`="verified".
+
+**(C) 저장 + 리포트**: verification.json 저장(기존 `checks` 보존, 덮어쓰지 말 것). 그리고 `data/verification.md`를
+새로 작성(맨 위 `*검증: <시각> · 회차: {AM/PM}* — 발굴/선행 엔진 자체 백테스트`):
+- 📊 **엔진 성적표**: 검증완료 건수·**적중률**·평균 D+3 변동률(가능하면 type별: 선행 vs 발굴).
+- 🟢 **최근 적중 사례** / 🔴 **빗나간 사례**: 회사명·flagDate·D+3 변동률·신호. (팩트·출처)
+- 🧠 **패턴 학습 한 줄**: 어떤 신호가 잘 맞고 안 맞는지(누적으로 보이면).
+> ⚠️ 가격은 반드시 출처와 함께. 확인 안 되면 null·중립 처리. 매수권유 아님. `stats`는 스크립트가 재계산하니
+> 대략만 적어도 된다(정확 통계는 build 단계에서 자동 산출).
+
 ### 2.9단계: 최종 검토 책임자(중간보스) 감수 → `data/review.md`
 이제 **깐깐한 검토 책임자**가 되어, 위에서 만든 브리핑·분석·발굴·**선행신호(2.85)**를 **다시 한 번 감수**한다.
 역할은 "빠진 것 없나, 틀린 것 없나"를 잡는 **품질 관문**이다. 다음을 수행해 `data/review.md`를
@@ -397,3 +427,5 @@ WebSearch/WebFetch로 아래를 최신값으로 확보(각 항목 출처 URL 필
   11. `data/leading-signals.md` (선행 신호 분석 — 오르기 전 감지 + 후발 진입 경고)
   12. `data/leading-index.json` (선행 포착 누적 — 며칠째 반복 포착되는 종목 추적)
   13. `data/holdings-analysis.md` (보유종목 추적 분석 — open 포지션 있을 때만 내용, 매수논리 점검)
+  14. `data/verification.json` (자체 검증 — 발굴/선행 종목 3일뒤 성과 누적)
+  15. `data/verification.md` (검증 리포트 — 엔진 적중률 성적표)

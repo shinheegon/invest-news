@@ -143,6 +143,10 @@ fi
 BRIEFING_DATE="$DATE" python3 "$PROJECT_DIR/scripts/track-indicators.py" >> "$LOG" 2>&1 || \
   echo "[$(ts)] WARN track-indicators failed" >> "$LOG"
 
+# --- 자체 검증 통계 재계산(발굴/선행 적중률) ---
+python3 "$PROJECT_DIR/scripts/verify-stats.py" >> "$LOG" 2>&1 || \
+  echo "[$(ts)] WARN verify-stats failed" >> "$LOG"
+
 # --- 사이트 빌드 + GitHub 배포 (git 원격이 설정된 경우에만 push) ---
 bash "$PROJECT_DIR/scripts/build-site.sh" >> "$LOG" 2>&1 || \
   echo "[$(ts)] WARN build-site failed" >> "$LOG"

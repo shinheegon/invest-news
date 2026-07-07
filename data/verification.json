@@ -1,0 +1,32 @@
+{
+ "updatedAt": "2026-07-07T19:36:28+09:00",
+ "cases": [],
+ "stats": {
+  "verified": 0,
+  "hit": 0,
+  "neutral": 0,
+  "miss": 0,
+  "hitRate": null,
+  "avgD3ChangePct": null,
+  "pending": 0,
+  "total": 0,
+  "byType": {
+   "leading": {
+    "verified": 0,
+    "hit": 0,
+    "neutral": 0,
+    "miss": 0,
+    "hitRate": null,
+    "avgD3ChangePct": null
+   },
+   "discovery": {
+    "verified": 0,
+    "hit": 0,
+    "neutral": 0,
+    "miss": 0,
+    "hitRate": null,
+    "avgD3ChangePct": null
+   }
+  }
+ }
+}

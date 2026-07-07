@@ -476,6 +476,43 @@ async function loadPortfolio() {
     await getText(`${DATA}/holdings-analysis.md`), '보유 종목이 없거나 아직 분석 전입니다. 매수 기록 후 다음 브리핑부터 추적 분석이 생성됩니다.');
 }
 
+// ---------- 자체 검증(백테스트) ----------
+function verdictCell(v) {
+  const map = { '적중': 'delta-up', '빗나감': 'delta-down', '중립': 'delta-flat' };
+  const icon = { '적중': '🟢', '빗나감': '🔴', '중립': '⚪' };
+  return v ? `<span class="${map[v] || 'delta-flat'}">${icon[v] || ''} ${v}</span>` : '<span class="muted">대기</span>';
+}
+async function loadVerification() {
+  const v = await getJSON(`${DATA}/verification.json`) || { cases: [], stats: {} };
+  const st = v.stats || {};
+  const cards = [
+    ['검증 완료', st.verified ?? 0, '#2f81f7'],
+    ['적중률', st.hitRate == null ? '—' : st.hitRate + '%', (st.hitRate ?? 0) >= 50 ? '#2faa54' : '#e5484d'],
+    ['평균 D+3', st.avgD3ChangePct == null ? '—' : (st.avgD3ChangePct >= 0 ? '+' : '') + st.avgD3ChangePct + '%', (st.avgD3ChangePct ?? 0) >= 0 ? '#f85149' : '#3fb950'],
+    ['대기 중', st.pending ?? 0, '#8b949e'],
+  ];
+  const se = document.getElementById('vfStats');
+  if (se) se.innerHTML = cards.map(([t, val, c]) =>
+    `<div class="gauge-card"><div class="gauge-title">${t}</div><div class="gauge-num" style="color:${c}">${val}</div></div>`).join('');
+
+  // 최신 flag 순 정렬
+  const cases = (v.cases || []).slice().sort((a, b) => (b.flagDate || '').localeCompare(a.flagDate || ''));
+  const t = document.getElementById('vfTable');
+  if (t) t.innerHTML = cases.length
+    ? '<thead><tr><th>종목</th><th>유형</th><th>flag일</th><th>flag가</th><th>D+3 변동</th><th>뉴스</th><th>판정</th></tr></thead><tbody>' +
+      cases.map(c => {
+        const d3 = (c.checks || []).find(x => x.horizon === 'D+3') || (c.checks || [])[c.checks?.length - 1];
+        const chg = d3 && d3.changePct != null ? `<span class="${d3.changePct >= 0 ? 'delta-up' : 'delta-down'}">${d3.changePct >= 0 ? '+' : ''}${d3.changePct}%</span>` : '—';
+        const nd = d3 ? ({ '+': '📈', '-': '📉', '0': '—' }[d3.newsDelta] || '—') : '—';
+        const typeTag = c.type === 'leading' ? '🔮 선행' : '🌱 발굴';
+        return `<tr><td>${c.name}</td><td class="muted">${typeTag}</td><td class="muted">${c.flagDate || ''}</td><td>${c.flagPrice != null ? Number(c.flagPrice).toLocaleString('ko-KR') : '—'}</td><td>${chg}</td><td>${nd}</td><td>${verdictCell(c.finalVerdict)}</td></tr>`;
+      }).join('') + '</tbody>'
+    : '<tbody><tr><td class="muted">아직 검증 사례가 없습니다. 발굴/선행 종목이 flag된 뒤 3일이 지나면 자동 검증됩니다.</td></tr></tbody>';
+
+  renderMD(document.getElementById('verifyBody'),
+    await getText(`${DATA}/verification.md`), '검증 리포트는 데이터가 3일 이상 쌓이면 생성됩니다.');
+}
+
 // ---------- 탭 ----------
 function setupTabs() {
   document.querySelectorAll('.tab').forEach(t => t.onclick = () => {
@@ -532,6 +569,7 @@ function setupTabs() {
 
   await loadArchive();
   await loadPortfolio();
+  await loadVerification();
 
   // 투자지표: 최초 로드 + 코인 실시간 90초 자동 새로고침
   await loadMarketTab();

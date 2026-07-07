@@ -1,16 +1,65 @@
 {
-  "updatedAt": "2026-07-07T12:20:00+09:00",
-  "session": "AM",
-  "stock_fng": { "value": 32, "label": "Fear", "source": "https://www.cnn.com/markets/fear-and-greed" },
-  "indices": [
-    { "name": "코스피", "value": "7,859.87", "change": "-2.38% (7/7 오전)", "source": "https://www.newspim.com/news/view/20260707000235" },
-    { "name": "코스닥", "value": "847.07", "change": "-2.46% (7/6 종가)", "source": "https://view.asiae.co.kr/article/2026070615343124705" },
-    { "name": "다우존스", "value": "53,056", "change": "+0.29%", "source": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-july-6-2026" },
-    { "name": "S&P 500", "value": "7,537.43", "change": "+0.70%", "source": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-july-6-2026" },
-    { "name": "나스닥", "value": "26,121.16", "change": "+1.12%", "source": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-july-6-2026" },
-    { "name": "VIX", "value": "16.38", "change": "+3.61%", "source": "https://finance.yahoo.com/markets/stocks/articles/stock-market-news-july-6-064600457.html" },
-    { "name": "美 10년물", "value": "4.48%", "change": "-0.01", "source": "https://tradingeconomics.com/united-states/government-bond-yield" },
-    { "name": "달러인덱스(DXY)", "value": "100.85", "change": "-0.03%", "source": "https://tradingeconomics.com/united-states/currency" },
-    { "name": "원/달러", "value": "1,530.0", "change": "-0.3 (오전 6시)", "source": "https://www.ebn.co.kr/news/articleView.html?idxno=1715306" }
-  ]
+ "updatedAt": "2026-07-07T19:05:00+09:00",
+ "session": "PM",
+ "stock_fng": {
+  "value": 32,
+  "label": "Fear",
+  "source": "https://www.cnn.com/markets/fear-and-greed"
+ },
+ "indices": [
+  {
+   "name": "코스피",
+   "value": "7,656.31",
+   "change": "-4.91%",
+   "source": "https://view.asiae.co.kr/article/2026070715344011428"
+  },
+  {
+   "name": "코스닥",
+   "value": "831.23",
+   "change": "-1.87%",
+   "source": "https://view.asiae.co.kr/article/2026070715350018595"
+  },
+  {
+   "name": "S&P 500",
+   "value": "7,537.43",
+   "change": "+0.72%",
+   "source": "https://www.cnbc.com/2026/07/06/stock-market-today-live-updates.html"
+  },
+  {
+   "name": "나스닥",
+   "value": "26,121.16",
+   "change": "+1.12%",
+   "source": "https://www.cnbc.com/2026/07/06/stock-market-today-live-updates.html"
+  },
+  {
+   "name": "다우",
+   "value": "53,055.91",
+   "change": "+0.29%",
+   "source": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-july-6-2026"
+  },
+  {
+   "name": "VIX",
+   "value": "15.57",
+   "change": "-1.52%",
+   "source": "https://finance.yahoo.com/quote/%5EVIX/"
+  },
+  {
+   "name": "美 10년물",
+   "value": "4.48%",
+   "change": "-0.01",
+   "source": "https://tradingeconomics.com/united-states/government-bond-yield"
+  },
+  {
+   "name": "달러인덱스(DXY)",
+   "value": "100.60",
+   "change": "-0.04%",
+   "source": "https://www.investing.com/rates-bonds/u.s.-10-year-bond-yield"
+  },
+  {
+   "name": "원/달러",
+   "value": "1,528.2",
+   "change": "-2.1",
+   "source": "https://www.yna.co.kr/view/AKR20260707128200002"
+  }
+ ]
 }
