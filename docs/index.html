@@ -90,7 +90,7 @@
     <!-- 내 관심 -->
     <section id="tab-favorites" class="panel">
       <h2>⭐ 내 관심 종목</h2>
-      <p class="muted">발굴·회사 표에서 종목 옆 <b>☆</b>를 누르면 여기에 모입니다. 관심 종목의 <b>언급 추세</b>와 <b>언론사별 관련 기사 흐름</b>을 지속적으로 추적합니다. (브라우저에 저장됩니다.)</p>
+      <p class="muted">유망 선별·발굴·회사 표에서 종목 옆 <b>☆</b>를 누르면 여기 모입니다. 유망도 높은 순으로 정렬되고, 각 종목의 <b>주가 흐름(최초→현재)·검증 판정·언급 추세·언론사별 기사</b>를 계속 추적합니다. (브라우저에 저장)</p>
       <div id="favBody"></div>
     </section>
 
@@ -121,6 +121,8 @@
       <p class="muted">우리가 🌱발굴·🔮선행 포착한 종목이 <b>3일 뒤 실제 주가·뉴스에 어떻게 반영됐는지</b> 누적 검증합니다. 적중률이 쌓일수록 어떤 신호가 진짜 통하는지 증명됩니다.</p>
       <div id="vfStats" class="gauge-row" style="grid-template-columns:repeat(4,1fr)"></div>
       <h3 style="margin-top:22px">⭐ 유망 대기 선별 <span class="muted">(검증 안 끝난 예측 중, 학습패턴=승세테마+구체촉발재로 상위)</span></h3>
+      <div id="watchFeatured" class="featured"></div>
+      <p class="muted" style="font-size:.82rem;margin:6px 0">종목 옆 ☆를 누르면 <b>⭐ 내 관심</b> 탭에 모아 주가 흐름·검증까지 계속 추적합니다.</p>
       <div class="table-scroll"><table id="watchTable" class="freq"></table></div>
       <p class="muted" style="font-size:.82rem;margin-top:6px">⚠️ 학습된 패턴 기반 우선순위일 뿐 매수권유 아님. 열세테마 회피 목록은 접힘.</p>
       <details style="margin-top:4px"><summary class="muted" style="cursor:pointer">🚫 회피 후보 보기 (열세테마)</summary>

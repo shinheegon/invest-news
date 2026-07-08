@@ -98,6 +98,28 @@ table.freq tbody tr:hover { background: #1c2330; }
   padding-bottom: 8px; border-bottom: 1px solid var(--border); }
 .fav-name { font-size: 0.98rem; }
 
+/* 관심 종목 흐름 칩 */
+.flow-row { display: flex; flex-wrap: wrap; gap: 6px; margin: -2px 0 10px; }
+.flow-chip { font-size: 0.8rem; padding: 3px 9px; border-radius: 999px;
+  background: #161b22; border: 1px solid var(--border); white-space: nowrap; }
+.flow-chip.up { color: #3fb950; border-color: #26502f; background: #0e1b12; }
+.flow-chip.down { color: #f85149; border-color: #5c2a28; background: #1b1010; }
+.flow-chip.hot { color: #f5a524; border-color: #6b4e15; background: #1c1608; font-weight: 600; }
+
+/* 🔥 지금 주목 강조 카드 */
+.featured { margin: 10px 0 4px; }
+.feat-title { font-weight: 600; color: #f5a524; margin-bottom: 8px; font-size: 0.95rem; }
+.feat-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(220px, 1fr)); gap: 10px; }
+.feat-card { background: linear-gradient(180deg, #1c1608, #0d1117); border: 1px solid #6b4e15;
+  border-radius: 10px; padding: 12px 14px; }
+.feat-card b { font-size: 0.95rem; }
+.feat-sub { font-size: 0.8rem; color: #f5a524; margin: 4px 0; }
+.feat-why { font-size: 0.8rem; line-height: 1.4; }
+
+/* 유망표 최우선(주요) 행 강조 */
+.watch-hot { background: #14100422; }
+.hot-badge { font-size: 0.72rem; color: #f5a524; font-weight: 600; }
+
 /* 마크다운 렌더 */
 .md h1 { font-size: 1.35rem; border-bottom: 1px solid var(--border); padding-bottom: 8px; }
 .md h2 { font-size: 1.1rem; margin-top: 22px; }

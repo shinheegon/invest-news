@@ -46,6 +46,7 @@ function saveFavs() { try { localStorage.setItem(FAV_KEY, JSON.stringify([...FAV
 let FAVS = loadFavs();
 let ARCHIVE = { companies: {} };
 let DCIDX = { companies: {} }, COIDX = { companies: {} }, LDIDX = { companies: {} };
+let VERIF = { cases: [] }, WATCH = { top: [], avoid: [], all: [] };
 function isFav(name) { return FAVS.has(name); }
 function toggleFav(name) { if (FAVS.has(name)) FAVS.delete(name); else FAVS.add(name); saveFavs(); }
 
@@ -101,23 +102,58 @@ function bindCompanyCells(table, colspan) {
 }
 function favMeta(name) {
   const v = DCIDX.companies[name] || COIDX.companies[name] || LDIDX.companies[name];
-  if (!v) return '<span class="muted">지수 데이터 없음</span>';
+  if (!v) return '';
   const d = dayDelta(v.daily);
   return `<span class="tag">${v.market || ''}</span> ` +
          `<span class="muted">오늘 ${d.today} · 7일 ${sumLast(v.daily, 7)} · 누적 ${v.count || 0}</span> ${deltaCell(d)}`;
+}
+// 관심 종목 한 개의 "흐름 요약" 칩들: 주가추이 · 유망도 · 검증판정
+function favFlow(name) {
+  const chips = [];
+  // 1) 주가 흐름(최초 등장 → 현재)
+  const ph = (PRICEHIST.companies || {})[name];
+  if (ph && ph.changePct != null) {
+    const up = ph.changePct >= 0;
+    chips.push(`<span class="flow-chip ${up ? 'up' : 'down'}">📈 최초→현재 ${up ? '+' : ''}${ph.changePct}%` +
+      (ph.firstPrice && ph.lastPrice ? ` <span class="muted">(${Number(ph.firstPrice).toLocaleString('ko-KR')}→${Number(ph.lastPrice).toLocaleString('ko-KR')})</span>` : '') + `</span>`);
+  }
+  // 2) 유망도(학습 점수) — 대기 중이면
+  const w = (WATCH.all || []).find(x => x.name === name);
+  if (w) {
+    const cls = w.score >= 5 ? 'hot' : w.score >= 3 ? 'up' : w.score <= -3 ? 'down' : '';
+    const label = w.score >= 5 ? '🔥강력' : w.score >= 3 ? '유망' : w.score <= -3 ? '⚠️회피' : '중립';
+    chips.push(`<span class="flow-chip ${cls}" title="${w.why}">⭐유망도 ${label} (${w.score >= 0 ? '+' : ''}${w.score})</span>`);
+  }
+  // 3) 검증 판정 — 검증 완료됐으면
+  const vc = (VERIF.cases || []).find(x => x.name === name);
+  if (vc) {
+    const d3 = (vc.checks || []).find(x => x.horizon === 'D+3');
+    if (vc.finalVerdict || d3) {
+      const exc = d3 && d3.excessPct != null ? d3.excessPct : (d3 ? d3.changePct : null);
+      const vtxt = vc.finalVerdict || (d3 ? d3.verdict : '');
+      const cls = vtxt === '적중' ? 'up' : vtxt === '빗나감' ? 'down' : '';
+      chips.push(`<span class="flow-chip ${cls}">🎯검증 ${vtxt}${exc != null ? ` (지수대비 ${exc >= 0 ? '+' : ''}${exc}%)` : ''}</span>`);
+    } else if (vc.status === 'pending') {
+      chips.push(`<span class="flow-chip muted">🎯검증 대기(D+3 도래 전)</span>`);
+    }
+  }
+  return chips.length ? `<div class="flow-row">${chips.join(' ')}</div>` : '';
 }
 function renderFavTab() {
   const wrap = document.getElementById('favBody');
   if (!wrap) return;
   const names = [...FAVS];
   if (!names.length) {
-    wrap.innerHTML = '<p class="muted">아직 관심 종목이 없습니다. 🌱 발굴 또는 🏢 회사 표에서 종목 옆 ☆를 눌러 추가하세요.</p>';
+    wrap.innerHTML = '<p class="muted">아직 관심 종목이 없습니다. 🎯 검증 탭의 <b>⭐유망 대기 선별</b>, 또는 🌱 발굴·🏢 회사 표에서 종목 옆 ☆를 눌러 추가하세요. 추가하면 여기서 주가 흐름·검증까지 계속 추적됩니다.</p>';
     return;
   }
+  // 유망도 높은 순으로 정렬(강력 → 유망 → 나머지)
+  const wscore = n => { const w = (WATCH.all || []).find(x => x.name === n); return w ? w.score : -99; };
+  names.sort((a, b) => wscore(b) - wscore(a));
   wrap.innerHTML = names.map(n =>
     `<div class="fav-card"><div class="fav-head">` +
     `<button class="star on" data-fav="${n}" title="관심 해제">★</button> <b class="fav-name">${n}</b> ${favMeta(n)}` +
-    `</div>${articlesBySourceHTML(n)}</div>`).join('');
+    `</div>${favFlow(n)}${articlesBySourceHTML(n)}</div>`).join('');
   wrap.querySelectorAll('.star').forEach(b => b.onclick = () => {
     toggleFav(b.dataset.fav); syncStars(b.dataset.fav); renderFavTab();
   });
@@ -484,6 +520,7 @@ function verdictCell(v) {
 }
 async function loadVerification() {
   const v = await getJSON(`${DATA}/verification.json`) || { cases: [], stats: {} };
+  VERIF = v;
   const st = v.stats || {};
   const cards = [
     ['검증 완료', st.verified ?? 0, '#2f81f7'],
@@ -515,11 +552,29 @@ async function loadVerification() {
   await renderWatchPriority();
   await renderThemeBoard();
   await renderPriceHistory();
+  renderFavTab();   // 검증·주가·유망도 로드 후 관심 탭의 흐름 정보 갱신
 }
 async function renderWatchPriority() {
-  const w = await getJSON(`${DATA}/watch-priority.json`) || { top: [], avoid: [] };
+  const w = await getJSON(`${DATA}/watch-priority.json`) || { top: [], avoid: [], all: [] };
+  WATCH = w;
   const typeTag = t => t === 'leading' ? '🔮선행' : t === 'discovery' ? '🌱발굴' : t;
-  const rowHTML = r => `<tr><td><b>${r.name}</b></td><td>${typeTag(r.type)}</td><td>${r.flagDate || ''}</td><td style="text-align:center">${r.concrete ? '✅' : '—'}</td><td class="muted">${r.why}</td></tr>`;
+  const starBtn = n => `<button class="star${isFav(n) ? ' on' : ''}" data-fav="${n}" title="관심 추가/해제">${isFav(n) ? '★' : '☆'}</button>`;
+  const rowHTML = r => {
+    const hot = r.score >= 5;
+    return `<tr class="${hot ? 'watch-hot' : ''}">` +
+      `<td>${starBtn(r.name)} <b>${r.name}</b>${hot ? ' <span class="hot-badge">🔥주요</span>' : ''}</td>` +
+      `<td>${typeTag(r.type)}</td><td>${r.flagDate || ''}</td>` +
+      `<td style="text-align:center">${r.concrete ? '✅' : '—'}</td><td class="muted">${r.why}</td></tr>`;
+  };
+  // 🔥 지금 주목: 최고점(≥5) 종목을 강조 카드로
+  const feat = (w.top || []).filter(r => r.score >= 5);
+  const fb = document.getElementById('watchFeatured');
+  if (fb) fb.innerHTML = feat.length
+    ? `<div class="feat-title">🔥 지금 주목 — 승세 테마 + 종목 고유 재료를 모두 갖춘 최우선 후보</div>` +
+      `<div class="feat-grid">` + feat.map(r =>
+        `<div class="feat-card">${starBtn(r.name)} <b>${r.name}</b><div class="feat-sub">${typeTag(r.type)} · ${r.theme}</div>` +
+        `<div class="feat-why muted">${r.why}</div></div>`).join('') + `</div>`
+    : '';
   const wt = document.getElementById('watchTable');
   if (wt) wt.innerHTML = w.top && w.top.length
     ? '<thead><tr><th>종목</th><th>유형</th><th>등재일</th><th>구체재료</th><th>근거</th></tr></thead><tbody>' + w.top.map(rowHTML).join('') + '</tbody>'
@@ -528,6 +583,11 @@ async function renderWatchPriority() {
   if (at) at.innerHTML = (w.avoid && w.avoid.length)
     ? '<thead><tr><th>종목</th><th>유형</th><th>등재일</th><th>사유</th></tr></thead><tbody>' + w.avoid.map(r => `<tr><td>${r.name}</td><td>${typeTag(r.type)}</td><td>${r.flagDate || ''}</td><td class="muted">${r.why}</td></tr>`).join('') + '</tbody>'
     : '<tbody><tr><td class="muted">회피 후보 없음</td></tr></tbody>';
+  // 별표 버튼 바인딩(유망표 + 강조카드)
+  [fb, wt].forEach(el => el && el.querySelectorAll('.star').forEach(b => b.onclick = e => {
+    e.stopPropagation();
+    toggleFav(b.dataset.fav); syncStars(b.dataset.fav); renderWatchPriority(); renderFavTab();
+  }));
 }
 async function renderThemeBoard() {
   const sb = await getJSON(`${DATA}/theme-scoreboard.json`) || { themes: [] };
