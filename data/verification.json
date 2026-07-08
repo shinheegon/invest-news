@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-07-08T09:11:41+09:00",
+ "updatedAt": "2026-07-08T11:47:44+09:00",
  "cases": [
   {
    "name": "이지트로닉스(377330)",
@@ -2490,6 +2490,128 @@
    "status": "pending",
    "backfill": true,
    "flagPriceSource": "https://finance.naver.com/item/sise_day.naver?code=455180"
+  },
+  {
+   "name": "에이직랜드(445090)",
+   "type": "leading",
+   "market": "韓",
+   "flagDate": "2026-07-08",
+   "signals": [
+    "국책과제출연금증가",
+    "기술력입증"
+   ],
+   "theme": "AI반도체설계(팹리스/IP)",
+   "status": "pending",
+   "checks": []
+  },
+  {
+   "name": "이엠앤아이(481070)",
+   "type": "leading",
+   "market": "韓",
+   "flagDate": "2026-07-08",
+   "signals": [
+    "주관기관선정"
+   ],
+   "theme": "로봇/휴머노이드",
+   "status": "pending",
+   "checks": []
+  },
+  {
+   "name": "SG(255220)",
+   "type": "discovery",
+   "market": "韓",
+   "flagDate": "2026-07-08",
+   "signals": [
+    "단독공급"
+   ],
+   "theme": "반도체 클러스터 인프라",
+   "status": "pending",
+   "checks": []
+  },
+  {
+   "name": "스마트레이더시스템(424960)",
+   "type": "discovery",
+   "market": "韓",
+   "flagDate": "2026-07-08",
+   "signals": [
+    "테마첫거론"
+   ],
+   "theme": "로봇·자율주행 센서",
+   "status": "pending",
+   "checks": []
+  },
+  {
+   "name": "다이나믹솔루션(070120)",
+   "type": "discovery",
+   "market": "韓",
+   "flagDate": "2026-07-08",
+   "signals": [
+    "글로벌 전시 연속 참가"
+   ],
+   "theme": "휴머노이드(로봇손)",
+   "status": "pending",
+   "checks": []
+  },
+  {
+   "name": "데이타솔루션(263800)",
+   "type": "warning",
+   "market": "韓",
+   "flagDate": "2026-07-08",
+   "signals": [
+    "상한가(이미반영)"
+   ],
+   "theme": "AI데이터센터",
+   "status": "pending",
+   "checks": []
+  },
+  {
+   "name": "씨이랩(189330)",
+   "type": "warning",
+   "market": "韓",
+   "flagDate": "2026-07-08",
+   "signals": [
+    "급등(이미반영)"
+   ],
+   "theme": "AI데이터센터",
+   "status": "pending",
+   "checks": []
+  },
+  {
+   "name": "아이씨티케이(456010)",
+   "type": "discovery",
+   "market": "韓",
+   "flagDate": "2026-07-08",
+   "signals": [
+    "규제강화수혜",
+    "통신사매출추정증가"
+   ],
+   "theme": "사이버보안",
+   "status": "pending",
+   "checks": []
+  },
+  {
+   "name": "케이사인(192250)",
+   "type": "discovery",
+   "market": "韓",
+   "flagDate": "2026-07-08",
+   "signals": [
+    "정책수혜(해킹규제)"
+   ],
+   "theme": "사이버보안",
+   "status": "pending",
+   "checks": []
+  },
+  {
+   "name": "에스투더블유(377480)",
+   "type": "warning",
+   "market": "韓",
+   "flagDate": "2026-07-08",
+   "signals": [
+    "상장첫날따블(이미반영)"
+   ],
+   "theme": "사이버보안",
+   "status": "pending",
+   "checks": []
   }
  ],
  "stats": {
@@ -2499,8 +2621,8 @@
   "miss": 22,
   "hitRate": 17.0,
   "avgD3ChangePct": -1.9,
-  "pending": 26,
-  "total": 79,
+  "pending": 36,
+  "total": 89,
   "byType": {
    "leading": {
     "verified": 37,

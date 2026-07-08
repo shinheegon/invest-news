@@ -16,7 +16,7 @@ mkdir -p "$PROJECT_DIR/logs"
 ts() { date '+%Y-%m-%d %H:%M:%S'; }
 
 # 튜닝 값(환경변수로 덮어쓰기 가능)
-ATTEMPT_TIMEOUT="${ATTEMPT_TIMEOUT:-1500}"   # 1회 시도 최대 25분
+ATTEMPT_TIMEOUT="${ATTEMPT_TIMEOUT:-2700}"   # 1회 시도 최대 45분(검증·다단계로 작업량 증가 대응)
 MAX_ATTEMPTS="${MAX_ATTEMPTS:-3}"            # 실패 시 최대 3회 시도
 RETRY_WAIT="${RETRY_WAIT:-45}"               # 재시도 간 대기(초)
 
@@ -143,7 +143,9 @@ fi
 BRIEFING_DATE="$DATE" python3 "$PROJECT_DIR/scripts/track-indicators.py" >> "$LOG" 2>&1 || \
   echo "[$(ts)] WARN track-indicators failed" >> "$LOG"
 
-# --- 자체 검증 통계 재계산(발굴/선행 적중률) ---
+# --- 예측 자동 채점(네이버 금융, 초과수익률 기준) → 통계 재계산 ---
+python3 "$PROJECT_DIR/scripts/score-predictions.py" >> "$LOG" 2>&1 || \
+  echo "[$(ts)] WARN score-predictions failed" >> "$LOG"
 python3 "$PROJECT_DIR/scripts/verify-stats.py" >> "$LOG" 2>&1 || \
   echo "[$(ts)] WARN verify-stats failed" >> "$LOG"
 

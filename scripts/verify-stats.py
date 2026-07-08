@@ -40,8 +40,17 @@ def main():
         hit = sum(1 for x in vs if x == "적중")
         miss = sum(1 for x in vs if x == "빗나감")
         neu = sum(1 for x in vs if x == "중립")
-        chgs = [d3(c)["changePct"] for c in verified
-                if d3(c) and isinstance(d3(c).get("changePct"), (int, float))]
+        # 초과수익(종목−지수) 우선, 없으면 절대수익
+        chgs = []
+        for c in verified:
+            ch = d3(c)
+            if not ch:
+                continue
+            val = ch.get("excessPct")
+            if not isinstance(val, (int, float)):
+                val = ch.get("changePct")
+            if isinstance(val, (int, float)):
+                chgs.append(val)
         n = len(vs)
         return {
             "verified": n, "hit": hit, "neutral": neu, "miss": miss,

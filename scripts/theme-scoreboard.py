@@ -47,7 +47,10 @@ def main():
         fv = c.get("finalVerdict")
         if fv not in ("적중", "빗나감", "중립"):
             continue
-        ch = d3(c); chg = ch.get("changePct") if ch else None
+        ch = d3(c) or {}
+        chg = ch.get("excessPct")               # 초과수익(종목−지수) 우선
+        if not isinstance(chg, (int, float)):
+            chg = ch.get("changePct")
         k = cat(c.get("theme"))
         a = agg.setdefault(k, {"n": 0, "hit": 0, "miss": 0, "chgs": []})
         a["n"] += 1
