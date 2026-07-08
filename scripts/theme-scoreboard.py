@@ -67,10 +67,11 @@ def main():
                        "avgD3": avg, "momentum": mom})
     themes.sort(key=lambda x: (x["avgD3"] is None, -(x["avgD3"] or -999)))
 
+    # "기타"(미분류 잡동사니)는 코헤런트한 테마 신호가 아니므로 승세/열세에서 제외.
     out = {"updatedAt": datetime.now(KST).isoformat(timespec="seconds"),
            "themes": themes,
-           "winning": [t["theme"] for t in themes if t["momentum"] == "상승"],
-           "losing": [t["theme"] for t in themes if t["momentum"] == "하락"]}
+           "winning": [t["theme"] for t in themes if t["momentum"] == "상승" and t["theme"] != "기타"],
+           "losing": [t["theme"] for t in themes if t["momentum"] == "하락" and t["theme"] != "기타"]}
     json.dump(out, open(OUT, "w", encoding="utf-8"), ensure_ascii=False, indent=1)
     print(f"[theme] {len(themes)}개 테마 · 승세 {out['winning']} · 열세 {out['losing']}")
 
