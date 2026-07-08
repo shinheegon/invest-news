@@ -512,8 +512,22 @@ async function loadVerification() {
   renderMD(document.getElementById('verifyBody'),
     await getText(`${DATA}/verification.md`), '검증 리포트는 데이터가 3일 이상 쌓이면 생성됩니다.');
 
+  await renderWatchPriority();
   await renderThemeBoard();
   await renderPriceHistory();
+}
+async function renderWatchPriority() {
+  const w = await getJSON(`${DATA}/watch-priority.json`) || { top: [], avoid: [] };
+  const typeTag = t => t === 'leading' ? '🔮선행' : t === 'discovery' ? '🌱발굴' : t;
+  const rowHTML = r => `<tr><td><b>${r.name}</b></td><td>${typeTag(r.type)}</td><td>${r.flagDate || ''}</td><td style="text-align:center">${r.concrete ? '✅' : '—'}</td><td class="muted">${r.why}</td></tr>`;
+  const wt = document.getElementById('watchTable');
+  if (wt) wt.innerHTML = w.top && w.top.length
+    ? '<thead><tr><th>종목</th><th>유형</th><th>등재일</th><th>구체재료</th><th>근거</th></tr></thead><tbody>' + w.top.map(rowHTML).join('') + '</tbody>'
+    : '<tbody><tr><td class="muted">검증·테마 데이터가 쌓이면 유망 대기 종목이 선별됩니다.</td></tr></tbody>';
+  const at = document.getElementById('avoidTable');
+  if (at) at.innerHTML = (w.avoid && w.avoid.length)
+    ? '<thead><tr><th>종목</th><th>유형</th><th>등재일</th><th>사유</th></tr></thead><tbody>' + w.avoid.map(r => `<tr><td>${r.name}</td><td>${typeTag(r.type)}</td><td>${r.flagDate || ''}</td><td class="muted">${r.why}</td></tr>`).join('') + '</tbody>'
+    : '<tbody><tr><td class="muted">회피 후보 없음</td></tr></tbody>';
 }
 async function renderThemeBoard() {
   const sb = await getJSON(`${DATA}/theme-scoreboard.json`) || { themes: [] };

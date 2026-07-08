@@ -47,6 +47,7 @@ python3 "$PROJECT_DIR/scripts/score-predictions.py" 2>&1 | tee -a "$LOG" || true
 python3 "$PROJECT_DIR/scripts/verify-stats.py" 2>&1 | tee -a "$LOG" || true
 python3 "$PROJECT_DIR/scripts/price-history.py" 2>&1 | tee -a "$LOG" || true
 python3 "$PROJECT_DIR/scripts/theme-scoreboard.py" 2>&1 | tee -a "$LOG" || true
+python3 "$PROJECT_DIR/scripts/watch-priority.py" 2>&1 | tee -a "$LOG" || true
 bash "$PROJECT_DIR/scripts/build-site.sh" 2>&1 | tee -a "$LOG" || true
 BRIEFING_SESSION="$SESSION" BRIEFING_DATE="$DATE" \
   python3 "$PROJECT_DIR/scripts/notify-email.py" 2>&1 | tee -a "$LOG" || true

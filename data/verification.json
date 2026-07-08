@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-07-08T11:47:44+09:00",
+ "updatedAt": "2026-07-08T17:06:09+09:00",
  "cases": [
   {
    "name": "이지트로닉스(377330)",
@@ -18,6 +18,10 @@
     {
      "date": "2026-07-07",
      "price": 2280
+    },
+    {
+     "date": "2026-07-08",
+     "price": 2230
     }
    ]
   },
@@ -38,6 +42,10 @@
     {
      "date": "2026-07-07",
      "price": 49600
+    },
+    {
+     "date": "2026-07-08",
+     "price": 45850
     }
    ]
   },
@@ -57,6 +65,10 @@
     {
      "date": "2026-07-07",
      "price": 7230
+    },
+    {
+     "date": "2026-07-08",
+     "price": 7040
     }
    ]
   },
@@ -76,6 +88,10 @@
     {
      "date": "2026-07-07",
      "price": 9190
+    },
+    {
+     "date": "2026-07-08",
+     "price": 8850
     }
    ]
   },
@@ -95,6 +111,10 @@
     {
      "date": "2026-07-07",
      "price": 38350
+    },
+    {
+     "date": "2026-07-08",
+     "price": 35950
     }
    ]
   },
@@ -115,6 +135,10 @@
     {
      "date": "2026-07-07",
      "price": 1654
+    },
+    {
+     "date": "2026-07-08",
+     "price": 1605
     }
    ]
   },
@@ -134,6 +158,10 @@
     {
      "date": "2026-07-07",
      "price": 4340
+    },
+    {
+     "date": "2026-07-08",
+     "price": 4055
     }
    ]
   },
@@ -153,6 +181,10 @@
     {
      "date": "2026-07-07",
      "price": 775
+    },
+    {
+     "date": "2026-07-08",
+     "price": 683
     }
    ]
   },
@@ -161,13 +193,19 @@
    "type": "leading",
    "market": "韓",
    "flagDate": "2026-07-07",
-   "flagPrice": null,
+   "flagPrice": 2995,
    "signals": [
     "전방수요확대",
     "반복포착"
    ],
    "checks": [],
-   "status": "pending"
+   "status": "pending",
+   "priceLog": [
+    {
+     "date": "2026-07-08",
+     "price": 2980
+    }
+   ]
   },
   {
    "name": "파라텍(033540)",
@@ -186,6 +224,10 @@
     {
      "date": "2026-07-07",
      "price": 953
+    },
+    {
+     "date": "2026-07-08",
+     "price": 931
     }
    ]
   },
@@ -205,6 +247,10 @@
     {
      "date": "2026-07-07",
      "price": 5670
+    },
+    {
+     "date": "2026-07-08",
+     "price": 5600
     }
    ]
   },
@@ -224,6 +270,10 @@
     {
      "date": "2026-07-07",
      "price": 1589
+    },
+    {
+     "date": "2026-07-08",
+     "price": 1421
     }
    ]
   },
@@ -244,6 +294,10 @@
     {
      "date": "2026-07-07",
      "price": 1578
+    },
+    {
+     "date": "2026-07-08",
+     "price": 1442
     }
    ],
    "checks": [
@@ -253,24 +307,30 @@
      "price": 939,
      "changePct": 0.0,
      "newsDelta": "0",
-     "verdict": "중립",
-     "source": "https://finance.naver.com/item/sise_day.naver?code=290660"
+     "verdict": "적중",
+     "source": "https://finance.naver.com/item/sise_day.naver?code=290660",
+     "indexPct": -5.93,
+     "excessPct": 5.93,
+     "index": "KOSDAQ"
     },
     {
      "horizon": "D+7",
-     "date": "2026-06-29",
-     "price": 1921,
-     "changePct": 104.58,
+     "date": "2026-06-30",
+     "price": 1983,
+     "changePct": 111.18,
      "newsDelta": "0",
      "verdict": "적중",
-     "source": "https://finance.naver.com/item/sise_day.naver?code=290660"
+     "source": "https://finance.naver.com/item/sise_day.naver?code=290660",
+     "indexPct": -5.22,
+     "excessPct": 116.4,
+     "index": "KOSDAQ"
     }
    ],
    "status": "verified",
    "backfill": true,
    "flagPriceSource": "https://finance.naver.com/item/sise_day.naver?code=290660",
    "flagPriceDate": "2026-06-22",
-   "finalVerdict": "중립"
+   "finalVerdict": "적중"
   },
   {
    "name": "에스피지(058610)",
@@ -287,6 +347,10 @@
     {
      "date": "2026-07-07",
      "price": 71600
+    },
+    {
+     "date": "2026-07-08",
+     "price": 67800
     }
    ],
    "checks": [
@@ -297,16 +361,22 @@
      "changePct": -7.18,
      "newsDelta": "+",
      "verdict": "빗나감",
-     "source": "https://finance.naver.com/item/sise_day.naver?code=058610"
+     "source": "https://finance.naver.com/item/sise_day.naver?code=058610",
+     "indexPct": -5.93,
+     "excessPct": -1.25,
+     "index": "KOSDAQ"
     },
     {
      "horizon": "D+7",
-     "date": "2026-06-29",
-     "price": 79800,
-     "changePct": -7.64,
+     "date": "2026-06-30",
+     "price": 80300,
+     "changePct": -7.06,
      "newsDelta": "+",
      "verdict": "빗나감",
-     "source": "https://finance.naver.com/item/sise_day.naver?code=058610"
+     "source": "https://finance.naver.com/item/sise_day.naver?code=058610",
+     "indexPct": -5.22,
+     "excessPct": -1.84,
+     "index": "KOSDAQ"
     }
    ],
    "status": "verified",
@@ -330,6 +400,10 @@
     {
      "date": "2026-07-07",
      "price": 9450
+    },
+    {
+     "date": "2026-07-08",
+     "price": 9240
     }
    ],
    "checks": [
@@ -340,16 +414,22 @@
      "changePct": -15.72,
      "newsDelta": "+",
      "verdict": "빗나감",
-     "source": "https://finance.naver.com/item/sise_day.naver?code=251370"
+     "source": "https://finance.naver.com/item/sise_day.naver?code=251370",
+     "indexPct": -8.32,
+     "excessPct": -7.39,
+     "index": "KOSDAQ"
     },
     {
      "horizon": "D+7",
-     "date": "2026-06-29",
-     "price": 10760,
-     "changePct": -17.1,
+     "date": "2026-07-01",
+     "price": 11270,
+     "changePct": -13.17,
      "newsDelta": "+",
      "verdict": "빗나감",
-     "source": "https://finance.naver.com/item/sise_day.naver?code=251370"
+     "source": "https://finance.naver.com/item/sise_day.naver?code=251370",
+     "indexPct": -4.03,
+     "excessPct": -9.14,
+     "index": "KOSDAQ"
     }
    ],
    "status": "verified",
@@ -372,6 +452,10 @@
     {
      "date": "2026-07-07",
      "price": 31850
+    },
+    {
+     "date": "2026-07-08",
+     "price": 29800
     }
    ],
    "checks": [
@@ -382,16 +466,22 @@
      "changePct": -9.58,
      "newsDelta": "0",
      "verdict": "빗나감",
-     "source": "https://finance.naver.com/item/sise_day.naver?code=161580"
+     "source": "https://finance.naver.com/item/sise_day.naver?code=161580",
+     "indexPct": -8.32,
+     "excessPct": -1.25,
+     "index": "KOSDAQ"
     },
     {
      "horizon": "D+7",
-     "date": "2026-06-29",
-     "price": 36700,
-     "changePct": -11.03,
+     "date": "2026-07-01",
+     "price": 36550,
+     "changePct": -11.39,
      "newsDelta": "0",
      "verdict": "빗나감",
-     "source": "https://finance.naver.com/item/sise_day.naver?code=161580"
+     "source": "https://finance.naver.com/item/sise_day.naver?code=161580",
+     "indexPct": -4.03,
+     "excessPct": -7.36,
+     "index": "KOSDAQ"
     }
    ],
    "status": "verified",
@@ -414,6 +504,10 @@
     {
      "date": "2026-07-07",
      "price": 14440
+    },
+    {
+     "date": "2026-07-08",
+     "price": 14740
     }
    ],
    "checks": [
@@ -424,16 +518,22 @@
      "changePct": -18.97,
      "newsDelta": "0",
      "verdict": "빗나감",
-     "source": "https://finance.naver.com/item/sise_day.naver?code=033160"
+     "source": "https://finance.naver.com/item/sise_day.naver?code=033160",
+     "indexPct": -8.32,
+     "excessPct": -10.65,
+     "index": "KOSDAQ"
     },
     {
      "horizon": "D+7",
-     "date": "2026-06-29",
-     "price": 21950,
-     "changePct": -19.15,
+     "date": "2026-07-01",
+     "price": 18380,
+     "changePct": -32.3,
      "newsDelta": "0",
      "verdict": "빗나감",
-     "source": "https://finance.naver.com/item/sise_day.naver?code=033160"
+     "source": "https://finance.naver.com/item/sise_day.naver?code=033160",
+     "indexPct": -4.03,
+     "excessPct": -28.27,
+     "index": "KOSDAQ"
     }
    ],
    "status": "verified",
@@ -456,6 +556,10 @@
     {
      "date": "2026-07-07",
      "price": 4895
+    },
+    {
+     "date": "2026-07-08",
+     "price": 4790
     }
    ],
    "checks": [
@@ -466,16 +570,22 @@
      "changePct": -16.56,
      "newsDelta": "0",
      "verdict": "빗나감",
-     "source": "https://finance.naver.com/item/sise_day.naver?code=417010"
+     "source": "https://finance.naver.com/item/sise_day.naver?code=417010",
+     "indexPct": -8.32,
+     "excessPct": -8.24,
+     "index": "KOSDAQ"
     },
     {
      "horizon": "D+7",
-     "date": "2026-06-29",
-     "price": 5590,
-     "changePct": -10.13,
+     "date": "2026-07-01",
+     "price": 5580,
+     "changePct": -10.29,
      "newsDelta": "0",
      "verdict": "빗나감",
-     "source": "https://finance.naver.com/item/sise_day.naver?code=417010"
+     "source": "https://finance.naver.com/item/sise_day.naver?code=417010",
+     "indexPct": -4.03,
+     "excessPct": -6.26,
+     "index": "KOSDAQ"
     }
    ],
    "status": "verified",
@@ -515,6 +625,10 @@
     {
      "date": "2026-07-07",
      "price": 810
+    },
+    {
+     "date": "2026-07-08",
+     "price": 791
     }
    ],
    "checks": [
@@ -525,16 +639,22 @@
      "changePct": -9.86,
      "newsDelta": "0",
      "verdict": "빗나감",
-     "source": "https://finance.naver.com/item/sise_day.naver?code=095910"
+     "source": "https://finance.naver.com/item/sise_day.naver?code=095910",
+     "indexPct": -8.32,
+     "excessPct": -1.54,
+     "index": "KOSDAQ"
     },
     {
      "horizon": "D+7",
-     "date": "2026-06-29",
-     "price": 921,
-     "changePct": -18.21,
+     "date": "2026-07-01",
+     "price": 878,
+     "changePct": -22.02,
      "newsDelta": "0",
      "verdict": "빗나감",
-     "source": "https://finance.naver.com/item/sise_day.naver?code=095910"
+     "source": "https://finance.naver.com/item/sise_day.naver?code=095910",
+     "indexPct": -4.03,
+     "excessPct": -17.99,
+     "index": "KOSDAQ"
     }
    ],
    "status": "verified",
@@ -557,6 +677,10 @@
     {
      "date": "2026-07-07",
      "price": 34600
+    },
+    {
+     "date": "2026-07-08",
+     "price": 32150
     }
    ],
    "checks": [
@@ -567,16 +691,22 @@
      "changePct": -9.77,
      "newsDelta": "0",
      "verdict": "빗나감",
-     "source": "https://finance.naver.com/item/sise_day.naver?code=082920"
+     "source": "https://finance.naver.com/item/sise_day.naver?code=082920",
+     "indexPct": -4.5,
+     "excessPct": -5.26,
+     "index": "KOSDAQ"
     },
     {
      "horizon": "D+7",
-     "date": "2026-06-30",
-     "price": 40500,
-     "changePct": -1.1,
+     "date": "2026-07-02",
+     "price": 36850,
+     "changePct": -10.01,
      "newsDelta": "0",
-     "verdict": "중립",
-     "source": "https://finance.naver.com/item/sise_day.naver?code=082920"
+     "verdict": "빗나감",
+     "source": "https://finance.naver.com/item/sise_day.naver?code=082920",
+     "indexPct": -2.78,
+     "excessPct": -7.23,
+     "index": "KOSDAQ"
     }
    ],
    "status": "verified",
@@ -598,6 +728,10 @@
     {
      "date": "2026-07-07",
      "price": 2145
+    },
+    {
+     "date": "2026-07-08",
+     "price": 2090
     }
    ],
    "checks": [
@@ -608,16 +742,22 @@
      "changePct": -6.9,
      "newsDelta": "0",
      "verdict": "빗나감",
-     "source": "https://finance.naver.com/item/sise_day.naver?code=305090"
+     "source": "https://finance.naver.com/item/sise_day.naver?code=305090",
+     "indexPct": -4.5,
+     "excessPct": -2.4,
+     "index": "KOSDAQ"
     },
     {
      "horizon": "D+7",
-     "date": "2026-06-30",
-     "price": 2195,
-     "changePct": -2.23,
+     "date": "2026-07-02",
+     "price": 2075,
+     "changePct": -7.57,
      "newsDelta": "0",
-     "verdict": "중립",
-     "source": "https://finance.naver.com/item/sise_day.naver?code=305090"
+     "verdict": "빗나감",
+     "source": "https://finance.naver.com/item/sise_day.naver?code=305090",
+     "indexPct": -2.78,
+     "excessPct": -4.79,
+     "index": "KOSDAQ"
     }
    ],
    "status": "verified",
@@ -630,16 +770,43 @@
    "type": "leading",
    "market": "韓",
    "flagDate": "2026-06-23",
-   "flagPrice": null,
+   "flagPrice": 2710,
    "signals": [
     "캐파증설",
     "BW조달"
    ],
    "theme": "반도체 본딩",
-   "priceLog": [],
-   "checks": [],
-   "status": "pending",
-   "backfill": true
+   "priceLog": [
+    {
+     "date": "2026-07-08",
+     "price": 1983
+    }
+   ],
+   "checks": [
+    {
+     "horizon": "D+3",
+     "date": "2026-06-26",
+     "price": 2540,
+     "changePct": -6.27,
+     "indexPct": -4.5,
+     "excessPct": -1.77,
+     "index": "KOSDAQ",
+     "verdict": "빗나감"
+    },
+    {
+     "horizon": "D+7",
+     "date": "2026-07-02",
+     "price": 2290,
+     "changePct": -15.5,
+     "indexPct": -2.78,
+     "excessPct": -12.72,
+     "index": "KOSDAQ",
+     "verdict": "빗나감"
+    }
+   ],
+   "status": "verified",
+   "backfill": true,
+   "finalVerdict": "빗나감"
   },
   {
    "name": "이엠앤아이(083470)",
@@ -655,6 +822,10 @@
     {
      "date": "2026-07-07",
      "price": 840
+    },
+    {
+     "date": "2026-07-08",
+     "price": 799
     }
    ],
    "checks": [
@@ -664,23 +835,29 @@
      "price": 909,
      "changePct": 3.65,
      "newsDelta": "0",
-     "verdict": "중립",
-     "source": "https://finance.naver.com/item/sise_day.naver?code=083470"
+     "verdict": "적중",
+     "source": "https://finance.naver.com/item/sise_day.naver?code=083470",
+     "indexPct": -4.5,
+     "excessPct": 8.15,
+     "index": "KOSDAQ"
     },
     {
      "horizon": "D+7",
-     "date": "2026-06-30",
-     "price": 890,
-     "changePct": 1.48,
+     "date": "2026-07-02",
+     "price": 842,
+     "changePct": -3.99,
      "newsDelta": "0",
-     "verdict": "중립",
-     "source": "https://finance.naver.com/item/sise_day.naver?code=083470"
+     "verdict": "빗나감",
+     "source": "https://finance.naver.com/item/sise_day.naver?code=083470",
+     "indexPct": -2.78,
+     "excessPct": -1.21,
+     "index": "KOSDAQ"
     }
    ],
    "status": "verified",
    "backfill": true,
    "flagPriceSource": "https://finance.naver.com/item/sise_day.naver?code=083470",
-   "finalVerdict": "중립"
+   "finalVerdict": "적중"
   },
   {
    "name": "위지트(036090)",
@@ -696,6 +873,10 @@
     {
      "date": "2026-07-07",
      "price": 1357
+    },
+    {
+     "date": "2026-07-08",
+     "price": 1310
     }
    ],
    "checks": [
@@ -706,16 +887,22 @@
      "changePct": -7.98,
      "newsDelta": "0",
      "verdict": "빗나감",
-     "source": "https://finance.naver.com/item/sise_day.naver?code=036090"
+     "source": "https://finance.naver.com/item/sise_day.naver?code=036090",
+     "indexPct": -4.5,
+     "excessPct": -3.48,
+     "index": "KOSDAQ"
     },
     {
      "horizon": "D+7",
-     "date": "2026-06-30",
-     "price": 1594,
-     "changePct": -8.5,
+     "date": "2026-07-02",
+     "price": 1410,
+     "changePct": -19.06,
      "newsDelta": "0",
      "verdict": "빗나감",
-     "source": "https://finance.naver.com/item/sise_day.naver?code=036090"
+     "source": "https://finance.naver.com/item/sise_day.naver?code=036090",
+     "indexPct": -2.78,
+     "excessPct": -16.28,
+     "index": "KOSDAQ"
     }
    ],
    "status": "verified",
@@ -738,6 +925,10 @@
     {
      "date": "2026-07-07",
      "price": 7210
+    },
+    {
+     "date": "2026-07-08",
+     "price": 7390
     }
    ],
    "checks": [
@@ -748,16 +939,22 @@
      "changePct": 2.62,
      "newsDelta": "0",
      "verdict": "중립",
-     "source": "https://finance.naver.com/item/sise_day.naver?code=042510"
+     "source": "https://finance.naver.com/item/sise_day.naver?code=042510",
+     "indexPct": 1.24,
+     "excessPct": 1.38,
+     "index": "KOSDAQ"
     },
     {
      "horizon": "D+7",
-     "date": "2026-07-01",
-     "price": 7410,
-     "changePct": 2.07,
+     "date": "2026-07-03",
+     "price": 7300,
+     "changePct": 0.55,
      "newsDelta": "0",
-     "verdict": "중립",
-     "source": "https://finance.naver.com/item/sise_day.naver?code=042510"
+     "verdict": "적중",
+     "source": "https://finance.naver.com/item/sise_day.naver?code=042510",
+     "indexPct": -4.5,
+     "excessPct": 5.05,
+     "index": "KOSDAQ"
     }
    ],
    "status": "verified",
@@ -781,26 +978,36 @@
     {
      "date": "2026-07-07",
      "price": 2165
+    },
+    {
+     "date": "2026-07-08",
+     "price": 2150
     }
    ],
    "checks": [
     {
      "horizon": "D+3",
-     "date": "2026-06-29",
-     "price": 2200,
-     "changePct": 4.51,
+     "date": "2026-06-30",
+     "price": 2225,
+     "changePct": 5.7,
      "newsDelta": "0",
      "verdict": "중립",
-     "source": "https://finance.naver.com/item/sise_day.naver?code=198080"
+     "source": "https://finance.naver.com/item/sise_day.naver?code=198080",
+     "indexPct": 3.2,
+     "excessPct": 2.51,
+     "index": "KOSDAQ"
     },
     {
      "horizon": "D+7",
-     "date": "2026-07-02",
-     "price": 2160,
-     "changePct": 2.61,
+     "date": "2026-07-06",
+     "price": 2200,
+     "changePct": 4.51,
      "newsDelta": "0",
-     "verdict": "중립",
-     "source": "https://finance.naver.com/item/sise_day.naver?code=198080"
+     "verdict": "적중",
+     "source": "https://finance.naver.com/item/sise_day.naver?code=198080",
+     "indexPct": -4.59,
+     "excessPct": 9.1,
+     "index": "KOSDAQ"
     }
    ],
    "status": "verified",
@@ -823,26 +1030,36 @@
     {
      "date": "2026-07-07",
      "price": 12420
+    },
+    {
+     "date": "2026-07-08",
+     "price": 11930
     }
    ],
    "checks": [
     {
      "horizon": "D+3",
-     "date": "2026-06-29",
-     "price": 13380,
-     "changePct": 9.4,
+     "date": "2026-07-01",
+     "price": 14600,
+     "changePct": 19.38,
      "newsDelta": "0",
      "verdict": "적중",
-     "source": "https://finance.naver.com/item/sise_day.naver?code=117730"
+     "source": "https://finance.naver.com/item/sise_day.naver?code=117730",
+     "indexPct": 9.16,
+     "excessPct": 10.22,
+     "index": "KOSDAQ"
     },
     {
      "horizon": "D+7",
-     "date": "2026-07-03",
-     "price": 13360,
-     "changePct": 9.24,
+     "date": "2026-07-07",
+     "price": 12420,
+     "changePct": 1.55,
      "newsDelta": "0",
-     "verdict": "적중",
-     "source": "https://finance.naver.com/item/sise_day.naver?code=117730"
+     "verdict": "중립",
+     "source": "https://finance.naver.com/item/sise_day.naver?code=117730",
+     "indexPct": -2.37,
+     "excessPct": 3.92,
+     "index": "KOSDAQ"
     }
    ],
    "status": "verified",
@@ -865,26 +1082,36 @@
     {
      "date": "2026-07-07",
      "price": 1490
+    },
+    {
+     "date": "2026-07-08",
+     "price": 1418
     }
    ],
    "checks": [
     {
      "horizon": "D+3",
-     "date": "2026-06-29",
-     "price": 1415,
-     "changePct": 13.11,
+     "date": "2026-07-01",
+     "price": 1447,
+     "changePct": 15.67,
      "newsDelta": "+",
      "verdict": "적중",
-     "source": "https://finance.naver.com/item/sise_day.naver?code=121850"
+     "source": "https://finance.naver.com/item/sise_day.naver?code=121850",
+     "indexPct": 9.16,
+     "excessPct": 6.51,
+     "index": "KOSDAQ"
     },
     {
      "horizon": "D+7",
-     "date": "2026-07-03",
-     "price": 1497,
-     "changePct": 19.66,
+     "date": "2026-07-07",
+     "price": 1490,
+     "changePct": 19.1,
      "newsDelta": "+",
      "verdict": "적중",
-     "source": "https://finance.naver.com/item/sise_day.naver?code=121850"
+     "source": "https://finance.naver.com/item/sise_day.naver?code=121850",
+     "indexPct": -2.37,
+     "excessPct": 21.47,
+     "index": "KOSDAQ"
     }
    ],
    "status": "verified",
@@ -909,32 +1136,42 @@
     {
      "date": "2026-07-07",
      "price": 1870
+    },
+    {
+     "date": "2026-07-08",
+     "price": 1860
     }
    ],
    "checks": [
     {
      "horizon": "D+3",
-     "date": "2026-06-29",
-     "price": 1936,
-     "changePct": -3.44,
+     "date": "2026-07-01",
+     "price": 1961,
+     "changePct": -2.19,
      "newsDelta": "0",
-     "verdict": "중립",
-     "source": "https://finance.naver.com/item/sise_day.naver?code=058110"
+     "verdict": "빗나감",
+     "source": "https://finance.naver.com/item/sise_day.naver?code=058110",
+     "indexPct": 9.16,
+     "excessPct": -11.35,
+     "index": "KOSDAQ"
     },
     {
      "horizon": "D+7",
-     "date": "2026-07-03",
-     "price": 1926,
-     "changePct": -3.94,
+     "date": "2026-07-07",
+     "price": 1870,
+     "changePct": -6.73,
      "newsDelta": "0",
-     "verdict": "중립",
-     "source": "https://finance.naver.com/item/sise_day.naver?code=058110"
+     "verdict": "빗나감",
+     "source": "https://finance.naver.com/item/sise_day.naver?code=058110",
+     "indexPct": -2.37,
+     "excessPct": -4.37,
+     "index": "KOSDAQ"
     }
    ],
    "status": "verified",
    "backfill": true,
    "flagPriceSource": "https://finance.naver.com/item/sise_day.naver?code=058110",
-   "finalVerdict": "중립"
+   "finalVerdict": "빗나감"
   },
   {
    "name": "에어레인(163280)",
@@ -951,33 +1188,43 @@
     {
      "date": "2026-07-07",
      "price": 3655
+    },
+    {
+     "date": "2026-07-08",
+     "price": 3535
     }
    ],
    "checks": [
     {
      "horizon": "D+3",
-     "date": "2026-06-30",
-     "price": 3830,
-     "changePct": -0.26,
+     "date": "2026-07-01",
+     "price": 3985,
+     "changePct": 3.78,
      "newsDelta": "0",
-     "verdict": "중립",
-     "source": "https://finance.naver.com/item/sise_day.naver?code=163280"
+     "verdict": "빗나감",
+     "source": "https://finance.naver.com/item/sise_day.naver?code=163280",
+     "indexPct": 9.16,
+     "excessPct": -5.38,
+     "index": "KOSDAQ"
     },
     {
      "horizon": "D+7",
-     "date": "2026-07-06",
-     "price": 3835,
-     "changePct": -0.13,
+     "date": "2026-07-07",
+     "price": 3655,
+     "changePct": -4.82,
      "newsDelta": "0",
-     "verdict": "중립",
-     "source": "https://finance.naver.com/item/sise_day.naver?code=163280"
+     "verdict": "빗나감",
+     "source": "https://finance.naver.com/item/sise_day.naver?code=163280",
+     "indexPct": -2.37,
+     "excessPct": -2.45,
+     "index": "KOSDAQ"
     }
    ],
    "status": "verified",
    "backfill": true,
    "flagPriceSource": "https://finance.naver.com/item/sise_day.naver?code=163280",
    "flagPriceDate": "2026-06-29",
-   "finalVerdict": "중립"
+   "finalVerdict": "빗나감"
   },
   {
    "name": "부강테크(279960)",
@@ -1010,6 +1257,10 @@
     {
      "date": "2026-07-07",
      "price": 5390
+    },
+    {
+     "date": "2026-07-08",
+     "price": 5380
     }
    ],
    "checks": [
@@ -1019,8 +1270,11 @@
      "price": 5180,
      "changePct": 2.37,
      "newsDelta": "0",
-     "verdict": "중립",
-     "source": "https://finance.naver.com/item/sise_day.naver?code=096690"
+     "verdict": "적중",
+     "source": "https://finance.naver.com/item/sise_day.naver?code=096690",
+     "indexPct": -5.21,
+     "excessPct": 7.59,
+     "index": "KOSDAQ"
     },
     {
      "horizon": "D+7",
@@ -1035,7 +1289,7 @@
    "status": "verified",
    "backfill": true,
    "flagPriceSource": "https://finance.naver.com/item/sise_day.naver?code=096690",
-   "finalVerdict": "중립"
+   "finalVerdict": "적중"
   },
   {
    "name": "씨앤지하이테크(264660)",
@@ -1052,6 +1306,10 @@
     {
      "date": "2026-07-07",
      "price": 12490
+    },
+    {
+     "date": "2026-07-08",
+     "price": 12290
     }
    ],
    "checks": [
@@ -1062,7 +1320,10 @@
      "changePct": -1.79,
      "newsDelta": "0",
      "verdict": "중립",
-     "source": "https://finance.naver.com/item/sise_day.naver?code=264660"
+     "source": "https://finance.naver.com/item/sise_day.naver?code=264660",
+     "indexPct": -5.21,
+     "excessPct": 3.43,
+     "index": "KOSDAQ"
     },
     {
      "horizon": "D+7",
@@ -1095,6 +1356,10 @@
     {
      "date": "2026-07-07",
      "price": 990
+    },
+    {
+     "date": "2026-07-08",
+     "price": 945
     }
    ],
    "checks": [
@@ -1105,7 +1370,10 @@
      "changePct": 15.54,
      "newsDelta": "0",
      "verdict": "적중",
-     "source": "https://finance.naver.com/item/sise_day.naver?code=196450"
+     "source": "https://finance.naver.com/item/sise_day.naver?code=196450",
+     "indexPct": -5.21,
+     "excessPct": 20.76,
+     "index": "KOSDAQ"
     },
     {
      "horizon": "D+7",
@@ -1137,6 +1405,10 @@
     {
      "date": "2026-07-07",
      "price": 7400
+    },
+    {
+     "date": "2026-07-08",
+     "price": 7150
     }
    ],
    "checks": [
@@ -1146,14 +1418,17 @@
      "price": 7640,
      "changePct": -5.09,
      "newsDelta": "0",
-     "verdict": "빗나감",
-     "source": "https://finance.naver.com/item/sise_day.naver?code=432470"
+     "verdict": "중립",
+     "source": "https://finance.naver.com/item/sise_day.naver?code=432470",
+     "indexPct": -8.85,
+     "excessPct": 3.76,
+     "index": "KOSDAQ"
     }
    ],
    "status": "verified",
    "backfill": true,
    "flagPriceSource": "https://finance.naver.com/item/sise_day.naver?code=432470",
-   "finalVerdict": "빗나감"
+   "finalVerdict": "중립"
   },
   {
    "name": "오텍(067170)",
@@ -1170,6 +1445,10 @@
     {
      "date": "2026-07-07",
      "price": 2900
+    },
+    {
+     "date": "2026-07-08",
+     "price": 2720
     }
    ],
    "checks": [
@@ -1179,14 +1458,17 @@
      "price": 2705,
      "changePct": -6.56,
      "newsDelta": "+",
-     "verdict": "빗나감",
-     "source": "https://finance.naver.com/item/sise_day.naver?code=067170"
+     "verdict": "중립",
+     "source": "https://finance.naver.com/item/sise_day.naver?code=067170",
+     "indexPct": -8.85,
+     "excessPct": 2.29,
+     "index": "KOSDAQ"
     }
    ],
    "status": "verified",
    "backfill": true,
    "flagPriceSource": "https://finance.naver.com/item/sise_day.naver?code=067170",
-   "finalVerdict": "빗나감"
+   "finalVerdict": "중립"
   },
   {
    "name": "유아이디(069330)",
@@ -1203,6 +1485,10 @@
     {
      "date": "2026-07-07",
      "price": 1004
+    },
+    {
+     "date": "2026-07-08",
+     "price": 972
     }
    ],
    "checks": [
@@ -1212,14 +1498,17 @@
      "price": 979,
      "changePct": -8.5,
      "newsDelta": "+",
-     "verdict": "빗나감",
-     "source": "https://finance.naver.com/item/sise_day.naver?code=069330"
+     "verdict": "중립",
+     "source": "https://finance.naver.com/item/sise_day.naver?code=069330",
+     "indexPct": -8.85,
+     "excessPct": 0.35,
+     "index": "KOSDAQ"
     }
    ],
    "status": "verified",
    "backfill": true,
    "flagPriceSource": "https://finance.naver.com/item/sise_day.naver?code=069330",
-   "finalVerdict": "빗나감"
+   "finalVerdict": "중립"
   },
   {
    "name": "대동금속(020400)",
@@ -1236,17 +1525,24 @@
     {
      "date": "2026-07-07",
      "price": 3150
+    },
+    {
+     "date": "2026-07-08",
+     "price": 3120
     }
    ],
    "checks": [
     {
      "horizon": "D+3",
-     "date": "2026-07-06",
-     "price": 3185,
-     "changePct": -7.01,
+     "date": "2026-07-07",
+     "price": 3150,
+     "changePct": -8.03,
      "newsDelta": "0",
      "verdict": "빗나감",
-     "source": "https://finance.naver.com/item/sise_day.naver?code=020400"
+     "source": "https://finance.naver.com/item/sise_day.naver?code=020400",
+     "indexPct": -4.09,
+     "excessPct": -3.93,
+     "index": "KOSDAQ"
     }
    ],
    "status": "verified",
@@ -1269,17 +1565,24 @@
     {
      "date": "2026-07-07",
      "price": 1569
+    },
+    {
+     "date": "2026-07-08",
+     "price": 1494
     }
    ],
    "checks": [
     {
      "horizon": "D+3",
-     "date": "2026-07-06",
-     "price": 1580,
-     "changePct": -5.45,
+     "date": "2026-07-07",
+     "price": 1569,
+     "changePct": -6.1,
      "newsDelta": "0",
      "verdict": "빗나감",
-     "source": "https://finance.naver.com/item/sise_day.naver?code=060260"
+     "source": "https://finance.naver.com/item/sise_day.naver?code=060260",
+     "indexPct": -4.09,
+     "excessPct": -2.01,
+     "index": "KOSDAQ"
     }
    ],
    "status": "verified",
@@ -1303,17 +1606,24 @@
     {
      "date": "2026-07-07",
      "price": 7900
+    },
+    {
+     "date": "2026-07-08",
+     "price": 7410
     }
    ],
    "checks": [
     {
      "horizon": "D+3",
-     "date": "2026-07-06",
-     "price": 8050,
-     "changePct": -2.42,
+     "date": "2026-07-08",
+     "price": 7500,
+     "changePct": -9.09,
      "newsDelta": "0",
      "verdict": "중립",
-     "source": "https://finance.naver.com/item/sise_day.naver?code=336370"
+     "source": "https://finance.naver.com/item/sise_day.naver?code=336370",
+     "indexPct": -10.4,
+     "excessPct": 1.31,
+     "index": "KOSPI"
     }
    ],
    "status": "pending",
@@ -1335,23 +1645,30 @@
     {
      "date": "2026-07-07",
      "price": 1070
+    },
+    {
+     "date": "2026-07-08",
+     "price": 1054
     }
    ],
    "checks": [
     {
      "horizon": "D+3",
-     "date": "2026-07-06",
-     "price": 1033,
-     "changePct": 2.68,
+     "date": "2026-07-08",
+     "price": 1046,
+     "changePct": 3.98,
      "newsDelta": "+",
-     "verdict": "중립",
-     "source": "https://finance.naver.com/item/sise_day.naver?code=900070"
+     "verdict": "적중",
+     "source": "https://finance.naver.com/item/sise_day.naver?code=900070",
+     "indexPct": -9.6,
+     "excessPct": 13.58,
+     "index": "KOSDAQ"
     }
    ],
    "status": "pending",
    "backfill": true,
    "flagPriceSource": "https://finance.naver.com/item/sise_day.naver?code=900070",
-   "finalVerdict": "중립"
+   "finalVerdict": "적중"
   },
   {
    "name": "하나기술(299030)",
@@ -1367,23 +1684,30 @@
     {
      "date": "2026-07-07",
      "price": 12990
+    },
+    {
+     "date": "2026-07-08",
+     "price": 12570
     }
    ],
    "checks": [
     {
      "horizon": "D+3",
-     "date": "2026-07-06",
-     "price": 13330,
-     "changePct": -1.84,
+     "date": "2026-07-08",
+     "price": 12200,
+     "changePct": -10.16,
      "newsDelta": "0",
-     "verdict": "중립",
-     "source": "https://finance.naver.com/item/sise_day.naver?code=299030"
+     "verdict": "빗나감",
+     "source": "https://finance.naver.com/item/sise_day.naver?code=299030",
+     "indexPct": -9.6,
+     "excessPct": -0.56,
+     "index": "KOSDAQ"
     }
    ],
    "status": "pending",
    "backfill": true,
    "flagPriceSource": "https://finance.naver.com/item/sise_day.naver?code=299030",
-   "finalVerdict": "중립"
+   "finalVerdict": "빗나감"
   },
   {
    "name": "이수스페셜티케미컬(457190)",
@@ -1400,23 +1724,30 @@
     {
      "date": "2026-07-07",
      "price": 65000
+    },
+    {
+     "date": "2026-07-08",
+     "price": 61800
     }
    ],
    "checks": [
     {
      "horizon": "D+3",
-     "date": "2026-07-06",
-     "price": 65300,
-     "changePct": -4.25,
+     "date": "2026-07-08",
+     "price": 60200,
+     "changePct": -11.73,
      "newsDelta": "+",
-     "verdict": "중립",
-     "source": "https://finance.naver.com/item/sise_day.naver?code=457190"
+     "verdict": "빗나감",
+     "source": "https://finance.naver.com/item/sise_day.naver?code=457190",
+     "indexPct": -10.4,
+     "excessPct": -1.33,
+     "index": "KOSPI"
     }
    ],
    "status": "pending",
    "backfill": true,
    "flagPriceSource": "https://finance.naver.com/item/sise_day.naver?code=457190",
-   "finalVerdict": "중립"
+   "finalVerdict": "빗나감"
   },
   {
    "name": "대한전선(001440)",
@@ -1432,23 +1763,30 @@
     {
      "date": "2026-07-07",
      "price": 30550
+    },
+    {
+     "date": "2026-07-08",
+     "price": 29100
     }
    ],
    "checks": [
     {
      "horizon": "D+3",
-     "date": "2026-07-06",
-     "price": 32250,
-     "changePct": -1.98,
+     "date": "2026-07-08",
+     "price": 28200,
+     "changePct": -14.29,
      "newsDelta": "0",
-     "verdict": "중립",
-     "source": "https://finance.naver.com/item/sise_day.naver?code=001440"
+     "verdict": "빗나감",
+     "source": "https://finance.naver.com/item/sise_day.naver?code=001440",
+     "indexPct": -10.4,
+     "excessPct": -3.88,
+     "index": "KOSPI"
     }
    ],
    "status": "pending",
    "backfill": true,
    "flagPriceSource": "https://finance.naver.com/item/sise_day.naver?code=001440",
-   "finalVerdict": "중립"
+   "finalVerdict": "빗나감"
   },
   {
    "name": "일진전기(103590)",
@@ -1464,23 +1802,30 @@
     {
      "date": "2026-07-07",
      "price": 68100
+    },
+    {
+     "date": "2026-07-08",
+     "price": 64700
     }
    ],
    "checks": [
     {
      "horizon": "D+3",
-     "date": "2026-07-06",
-     "price": 71700,
-     "changePct": -4.78,
+     "date": "2026-07-08",
+     "price": 62800,
+     "changePct": -16.6,
      "newsDelta": "+",
-     "verdict": "중립",
-     "source": "https://finance.naver.com/item/sise_day.naver?code=103590"
+     "verdict": "빗나감",
+     "source": "https://finance.naver.com/item/sise_day.naver?code=103590",
+     "indexPct": -10.4,
+     "excessPct": -6.2,
+     "index": "KOSPI"
     }
    ],
    "status": "pending",
    "backfill": true,
    "flagPriceSource": "https://finance.naver.com/item/sise_day.naver?code=103590",
-   "finalVerdict": "중립"
+   "finalVerdict": "빗나감"
   },
   {
    "name": "한국주강(025890)",
@@ -1497,24 +1842,31 @@
     {
      "date": "2026-07-07",
      "price": 2235
+    },
+    {
+     "date": "2026-07-08",
+     "price": 2235
     }
    ],
    "checks": [
     {
      "horizon": "D+3",
-     "date": "2026-07-07",
-     "price": 2235,
-     "changePct": -0.89,
+     "date": "2026-07-08",
+     "price": 2210,
+     "changePct": -2.0,
      "newsDelta": "+",
-     "verdict": "중립",
-     "source": "https://finance.naver.com/item/sise_day.naver?code=025890"
+     "verdict": "적중",
+     "source": "https://finance.naver.com/item/sise_day.naver?code=025890",
+     "indexPct": -10.4,
+     "excessPct": 8.41,
+     "index": "KOSPI"
     }
    ],
    "status": "pending",
    "backfill": true,
    "flagPriceSource": "https://finance.naver.com/item/sise_day.naver?code=025890",
    "flagPriceDate": "2026-07-06",
-   "finalVerdict": "중립"
+   "finalVerdict": "적중"
   },
   {
    "name": "와이씨켐(112290)",
@@ -1530,24 +1882,31 @@
     {
      "date": "2026-07-07",
      "price": 9910
+    },
+    {
+     "date": "2026-07-08",
+     "price": 9710
     }
    ],
    "checks": [
     {
      "horizon": "D+3",
-     "date": "2026-07-07",
-     "price": 9910,
-     "changePct": -3.97,
+     "date": "2026-07-08",
+     "price": 9100,
+     "changePct": -11.82,
      "newsDelta": "+",
-     "verdict": "중립",
-     "source": "https://finance.naver.com/item/sise_day.naver?code=112290"
+     "verdict": "빗나감",
+     "source": "https://finance.naver.com/item/sise_day.naver?code=112290",
+     "indexPct": -9.6,
+     "excessPct": -2.22,
+     "index": "KOSDAQ"
     }
    ],
    "status": "pending",
    "backfill": true,
    "flagPriceSource": "https://finance.naver.com/item/sise_day.naver?code=112290",
    "flagPriceDate": "2026-07-06",
-   "finalVerdict": "중립"
+   "finalVerdict": "빗나감"
   },
   {
    "name": "디케이락(105740)",
@@ -1564,17 +1923,24 @@
     {
      "date": "2026-07-07",
      "price": 6700
+    },
+    {
+     "date": "2026-07-08",
+     "price": 6600
     }
    ],
    "checks": [
     {
      "horizon": "D+3",
-     "date": "2026-07-07",
-     "price": 6700,
-     "changePct": -2.33,
+     "date": "2026-07-08",
+     "price": 6470,
+     "changePct": -5.69,
      "newsDelta": "+",
      "verdict": "중립",
-     "source": "https://finance.naver.com/item/sise_day.naver?code=105740"
+     "source": "https://finance.naver.com/item/sise_day.naver?code=105740",
+     "indexPct": -9.6,
+     "excessPct": 3.92,
+     "index": "KOSDAQ"
     }
    ],
    "status": "pending",
@@ -1599,17 +1965,24 @@
     {
      "date": "2026-07-07",
      "price": 50200
+    },
+    {
+     "date": "2026-07-08",
+     "price": 47500
     }
    ],
    "checks": [
     {
      "horizon": "D+3",
-     "date": "2026-07-07",
-     "price": 50200,
-     "changePct": -6.34,
+     "date": "2026-07-08",
+     "price": 45350,
+     "changePct": -15.39,
      "newsDelta": "0",
      "verdict": "빗나감",
-     "source": "https://finance.naver.com/item/sise_day.naver?code=448900"
+     "source": "https://finance.naver.com/item/sise_day.naver?code=448900",
+     "indexPct": -9.6,
+     "excessPct": -5.79,
+     "index": "KOSDAQ"
     }
    ],
    "status": "verified",
@@ -1633,17 +2006,24 @@
     {
      "date": "2026-07-07",
      "price": 19400
+    },
+    {
+     "date": "2026-07-08",
+     "price": 18550
     }
    ],
    "checks": [
     {
      "horizon": "D+3",
-     "date": "2026-07-07",
-     "price": 19400,
-     "changePct": -8.71,
+     "date": "2026-07-08",
+     "price": 18690,
+     "changePct": -12.05,
      "newsDelta": "+",
      "verdict": "빗나감",
-     "source": "https://finance.naver.com/item/sise_day.naver?code=043260"
+     "source": "https://finance.naver.com/item/sise_day.naver?code=043260",
+     "indexPct": -9.6,
+     "excessPct": -2.44,
+     "index": "KOSDAQ"
     }
    ],
    "status": "verified",
@@ -1667,17 +2047,24 @@
     {
      "date": "2026-07-07",
      "price": 8960
+    },
+    {
+     "date": "2026-07-08",
+     "price": 8820
     }
    ],
    "checks": [
     {
      "horizon": "D+3",
-     "date": "2026-07-07",
-     "price": 8960,
-     "changePct": -4.17,
+     "date": "2026-07-08",
+     "price": 8500,
+     "changePct": -9.09,
      "newsDelta": "+",
      "verdict": "중립",
-     "source": "https://finance.naver.com/item/sise_day.naver?code=053080"
+     "source": "https://finance.naver.com/item/sise_day.naver?code=053080",
+     "indexPct": -9.6,
+     "excessPct": 0.51,
+     "index": "KOSDAQ"
     }
    ],
    "status": "pending",
@@ -1701,6 +2088,10 @@
     {
      "date": "2026-07-07",
      "price": 13220
+    },
+    {
+     "date": "2026-07-08",
+     "price": 13000
     }
    ],
    "checks": [],
@@ -1723,6 +2114,10 @@
     {
      "date": "2026-07-07",
      "price": 1315
+    },
+    {
+     "date": "2026-07-08",
+     "price": 1297
     }
    ],
    "checks": [],
@@ -1744,6 +2139,10 @@
     {
      "date": "2026-07-07",
      "price": 5010
+    },
+    {
+     "date": "2026-07-08",
+     "price": 4965
     }
    ],
    "checks": [],
@@ -1765,6 +2164,10 @@
     {
      "date": "2026-07-07",
      "price": 1090
+    },
+    {
+     "date": "2026-07-08",
+     "price": 1029
     }
    ],
    "checks": [],
@@ -1784,6 +2187,10 @@
     {
      "date": "2026-07-07",
      "price": 9960
+    },
+    {
+     "date": "2026-07-08",
+     "price": 9960
     }
    ],
    "checks": [
@@ -1794,16 +2201,22 @@
      "changePct": -3.71,
      "newsDelta": "0",
      "verdict": "중립",
-     "source": "https://finance.naver.com/item/sise_day.naver?code=060720"
+     "source": "https://finance.naver.com/item/sise_day.naver?code=060720",
+     "indexPct": -5.93,
+     "excessPct": 2.22,
+     "index": "KOSDAQ"
     },
     {
      "horizon": "D+7",
-     "date": "2026-06-29",
-     "price": 10710,
-     "changePct": -3.08,
+     "date": "2026-06-30",
+     "price": 10750,
+     "changePct": -2.71,
      "newsDelta": "0",
      "verdict": "중립",
-     "source": "https://finance.naver.com/item/sise_day.naver?code=060720"
+     "source": "https://finance.naver.com/item/sise_day.naver?code=060720",
+     "indexPct": -5.22,
+     "excessPct": 2.5,
+     "index": "KOSDAQ"
     }
    ],
    "status": "verified",
@@ -1824,6 +2237,10 @@
     {
      "date": "2026-07-07",
      "price": 107800
+    },
+    {
+     "date": "2026-07-08",
+     "price": 104300
     }
    ],
    "checks": [
@@ -1834,16 +2251,22 @@
      "changePct": -18.56,
      "newsDelta": "+",
      "verdict": "빗나감",
-     "source": "https://finance.naver.com/item/sise_day.naver?code=001820"
+     "source": "https://finance.naver.com/item/sise_day.naver?code=001820",
+     "indexPct": -6.42,
+     "excessPct": -12.14,
+     "index": "KOSPI"
     },
     {
      "horizon": "D+7",
-     "date": "2026-06-29",
-     "price": 133000,
-     "changePct": -20.36,
+     "date": "2026-06-30",
+     "price": 151000,
+     "changePct": -9.58,
      "newsDelta": "+",
      "verdict": "빗나감",
-     "source": "https://finance.naver.com/item/sise_day.naver?code=001820"
+     "source": "https://finance.naver.com/item/sise_day.naver?code=001820",
+     "indexPct": -6.36,
+     "excessPct": -3.22,
+     "index": "KOSPI"
     }
    ],
    "status": "verified",
@@ -1864,6 +2287,10 @@
     {
      "date": "2026-07-07",
      "price": 41050
+    },
+    {
+     "date": "2026-07-08",
+     "price": 40000
     }
    ],
    "checks": [
@@ -1873,23 +2300,29 @@
      "price": 41700,
      "changePct": -4.03,
      "newsDelta": "+",
-     "verdict": "중립",
-     "source": "https://finance.naver.com/item/sise_day.naver?code=112610"
+     "verdict": "빗나감",
+     "source": "https://finance.naver.com/item/sise_day.naver?code=112610",
+     "indexPct": -2.02,
+     "excessPct": -2.01,
+     "index": "KOSPI"
     },
     {
      "horizon": "D+7",
-     "date": "2026-06-29",
-     "price": 43100,
-     "changePct": -0.81,
+     "date": "2026-07-01",
+     "price": 45400,
+     "changePct": 4.49,
      "newsDelta": "+",
-     "verdict": "중립",
-     "source": "https://finance.naver.com/item/sise_day.naver?code=112610"
+     "verdict": "적중",
+     "source": "https://finance.naver.com/item/sise_day.naver?code=112610",
+     "indexPct": -8.9,
+     "excessPct": 13.39,
+     "index": "KOSPI"
     }
    ],
    "status": "verified",
    "backfill": true,
    "flagPriceSource": "https://finance.naver.com/item/sise_day.naver?code=112610",
-   "finalVerdict": "중립"
+   "finalVerdict": "빗나감"
   },
   {
    "name": "와이솔(122990)",
@@ -1903,6 +2336,10 @@
     {
      "date": "2026-07-07",
      "price": 6100
+    },
+    {
+     "date": "2026-07-08",
+     "price": 6060
     }
    ],
    "checks": [
@@ -1913,16 +2350,22 @@
      "changePct": -8.21,
      "newsDelta": "0",
      "verdict": "빗나감",
-     "source": "https://finance.naver.com/item/sise_day.naver?code=122990"
+     "source": "https://finance.naver.com/item/sise_day.naver?code=122990",
+     "indexPct": -4.5,
+     "excessPct": -3.71,
+     "index": "KOSDAQ"
     },
     {
      "horizon": "D+7",
-     "date": "2026-06-30",
-     "price": 6440,
-     "changePct": -3.88,
+     "date": "2026-07-02",
+     "price": 6260,
+     "changePct": -6.57,
      "newsDelta": "0",
-     "verdict": "중립",
-     "source": "https://finance.naver.com/item/sise_day.naver?code=122990"
+     "verdict": "빗나감",
+     "source": "https://finance.naver.com/item/sise_day.naver?code=122990",
+     "indexPct": -2.78,
+     "excessPct": -3.79,
+     "index": "KOSDAQ"
     }
    ],
    "status": "verified",
@@ -1942,6 +2385,10 @@
     {
      "date": "2026-07-07",
      "price": 26400
+    },
+    {
+     "date": "2026-07-08",
+     "price": 25300
     }
    ],
    "checks": [
@@ -1952,16 +2399,22 @@
      "changePct": -5.76,
      "newsDelta": "+",
      "verdict": "빗나감",
-     "source": "https://finance.naver.com/item/sise_day.naver?code=466100"
+     "source": "https://finance.naver.com/item/sise_day.naver?code=466100",
+     "indexPct": -4.5,
+     "excessPct": -1.25,
+     "index": "KOSDAQ"
     },
     {
      "horizon": "D+7",
-     "date": "2026-06-30",
-     "price": 31350,
-     "changePct": 3.12,
+     "date": "2026-07-02",
+     "price": 28900,
+     "changePct": -4.93,
      "newsDelta": "+",
-     "verdict": "중립",
-     "source": "https://finance.naver.com/item/sise_day.naver?code=466100"
+     "verdict": "빗나감",
+     "source": "https://finance.naver.com/item/sise_day.naver?code=466100",
+     "indexPct": -2.78,
+     "excessPct": -2.15,
+     "index": "KOSDAQ"
     }
    ],
    "status": "verified",
@@ -1981,6 +2434,10 @@
     {
      "date": "2026-07-07",
      "price": 1898
+    },
+    {
+     "date": "2026-07-08",
+     "price": 1906
     }
    ],
    "checks": [
@@ -1991,16 +2448,22 @@
      "changePct": 75.6,
      "newsDelta": "+",
      "verdict": "적중",
-     "source": "https://finance.naver.com/item/sise_day.naver?code=122350"
+     "source": "https://finance.naver.com/item/sise_day.naver?code=122350",
+     "indexPct": 1.24,
+     "excessPct": 74.36,
+     "index": "KOSDAQ"
     },
     {
      "horizon": "D+7",
-     "date": "2026-07-01",
-     "price": 1388,
-     "changePct": 27.81,
+     "date": "2026-07-03",
+     "price": 1801,
+     "changePct": 65.84,
      "newsDelta": "+",
      "verdict": "적중",
-     "source": "https://finance.naver.com/item/sise_day.naver?code=122350"
+     "source": "https://finance.naver.com/item/sise_day.naver?code=122350",
+     "indexPct": -4.5,
+     "excessPct": 70.34,
+     "index": "KOSDAQ"
     }
    ],
    "status": "verified",
@@ -2020,32 +2483,42 @@
     {
      "date": "2026-07-07",
      "price": 16840
+    },
+    {
+     "date": "2026-07-08",
+     "price": 16030
     }
    ],
    "checks": [
     {
      "horizon": "D+3",
-     "date": "2026-06-29",
-     "price": 20400,
-     "changePct": 10.63,
+     "date": "2026-07-01",
+     "price": 19830,
+     "changePct": 7.54,
      "newsDelta": "0",
-     "verdict": "적중",
-     "source": "https://finance.naver.com/item/sise_day.naver?code=475400"
+     "verdict": "빗나감",
+     "source": "https://finance.naver.com/item/sise_day.naver?code=475400",
+     "indexPct": 9.16,
+     "excessPct": -1.62,
+     "index": "KOSDAQ"
     },
     {
      "horizon": "D+7",
-     "date": "2026-07-03",
-     "price": 17880,
-     "changePct": -3.04,
+     "date": "2026-07-07",
+     "price": 16840,
+     "changePct": -8.68,
      "newsDelta": "0",
-     "verdict": "중립",
-     "source": "https://finance.naver.com/item/sise_day.naver?code=475400"
+     "verdict": "빗나감",
+     "source": "https://finance.naver.com/item/sise_day.naver?code=475400",
+     "indexPct": -2.37,
+     "excessPct": -6.31,
+     "index": "KOSDAQ"
     }
    ],
    "status": "verified",
    "backfill": true,
    "flagPriceSource": "https://finance.naver.com/item/sise_day.naver?code=475400",
-   "finalVerdict": "적중"
+   "finalVerdict": "빗나감"
   },
   {
    "name": "가온칩스(399720)",
@@ -2059,32 +2532,42 @@
     {
      "date": "2026-07-07",
      "price": 48950
+    },
+    {
+     "date": "2026-07-08",
+     "price": 42800
     }
    ],
    "checks": [
     {
      "horizon": "D+3",
-     "date": "2026-06-29",
-     "price": 41350,
-     "changePct": 11.61,
+     "date": "2026-07-01",
+     "price": 41050,
+     "changePct": 10.8,
      "newsDelta": "0",
-     "verdict": "적중",
-     "source": "https://finance.naver.com/item/sise_day.naver?code=399720"
+     "verdict": "중립",
+     "source": "https://finance.naver.com/item/sise_day.naver?code=399720",
+     "indexPct": 9.16,
+     "excessPct": 1.64,
+     "index": "KOSDAQ"
     },
     {
      "horizon": "D+7",
-     "date": "2026-07-03",
-     "price": 37450,
-     "changePct": 1.08,
+     "date": "2026-07-07",
+     "price": 48950,
+     "changePct": 32.12,
      "newsDelta": "0",
-     "verdict": "중립",
-     "source": "https://finance.naver.com/item/sise_day.naver?code=399720"
+     "verdict": "적중",
+     "source": "https://finance.naver.com/item/sise_day.naver?code=399720",
+     "indexPct": -2.37,
+     "excessPct": 34.48,
+     "index": "KOSDAQ"
     }
    ],
    "status": "verified",
    "backfill": true,
    "flagPriceSource": "https://finance.naver.com/item/sise_day.naver?code=399720",
-   "finalVerdict": "적중"
+   "finalVerdict": "중립"
   },
   {
    "name": "칩스앤미디어(094360)",
@@ -2098,32 +2581,42 @@
     {
      "date": "2026-07-07",
      "price": 12180
+    },
+    {
+     "date": "2026-07-08",
+     "price": 11190
     }
    ],
    "checks": [
     {
      "horizon": "D+3",
-     "date": "2026-06-29",
-     "price": 12200,
-     "changePct": 8.73,
+     "date": "2026-07-01",
+     "price": 12160,
+     "changePct": 8.38,
      "newsDelta": "0",
-     "verdict": "적중",
-     "source": "https://finance.naver.com/item/sise_day.naver?code=094360"
+     "verdict": "빗나감",
+     "source": "https://finance.naver.com/item/sise_day.naver?code=094360",
+     "indexPct": 9.16,
+     "excessPct": -0.78,
+     "index": "KOSDAQ"
     },
     {
      "horizon": "D+7",
-     "date": "2026-07-03",
-     "price": 12570,
-     "changePct": 12.03,
+     "date": "2026-07-07",
+     "price": 12180,
+     "changePct": 8.56,
      "newsDelta": "+",
      "verdict": "적중",
-     "source": "https://finance.naver.com/item/sise_day.naver?code=094360"
+     "source": "https://finance.naver.com/item/sise_day.naver?code=094360",
+     "indexPct": -2.37,
+     "excessPct": 10.92,
+     "index": "KOSDAQ"
     }
    ],
    "status": "verified",
    "backfill": true,
    "flagPriceSource": "https://finance.naver.com/item/sise_day.naver?code=094360",
-   "finalVerdict": "적중"
+   "finalVerdict": "빗나감"
   },
   {
    "name": "케이쓰리아이(431190)",
@@ -2137,6 +2630,10 @@
     {
      "date": "2026-07-07",
      "price": 2410
+    },
+    {
+     "date": "2026-07-08",
+     "price": 2250
     }
    ],
    "checks": [
@@ -2147,7 +2644,10 @@
      "changePct": 10.66,
      "newsDelta": "0",
      "verdict": "적중",
-     "source": "https://finance.naver.com/item/sise_day.naver?code=431190"
+     "source": "https://finance.naver.com/item/sise_day.naver?code=431190",
+     "indexPct": -5.21,
+     "excessPct": 15.87,
+     "index": "KOSDAQ"
     },
     {
      "horizon": "D+7",
@@ -2176,6 +2676,10 @@
     {
      "date": "2026-07-07",
      "price": 41750
+    },
+    {
+     "date": "2026-07-08",
+     "price": 41750
     }
    ],
    "checks": [
@@ -2186,7 +2690,10 @@
      "changePct": -24.21,
      "newsDelta": "0",
      "verdict": "빗나감",
-     "source": "https://finance.naver.com/item/sise_day.naver?code=025560"
+     "source": "https://finance.naver.com/item/sise_day.naver?code=025560",
+     "indexPct": -4.58,
+     "excessPct": -19.63,
+     "index": "KOSPI"
     },
     {
      "horizon": "D+7",
@@ -2215,6 +2722,10 @@
     {
      "date": "2026-07-07",
      "price": 13220
+    },
+    {
+     "date": "2026-07-08",
+     "price": 13000
     }
    ],
    "checks": [
@@ -2224,14 +2735,17 @@
      "price": 13890,
      "changePct": -8.8,
      "newsDelta": "+",
-     "verdict": "빗나감",
-     "source": "https://finance.naver.com/item/sise_day.naver?code=459510"
+     "verdict": "중립",
+     "source": "https://finance.naver.com/item/sise_day.naver?code=459510",
+     "indexPct": -8.85,
+     "excessPct": 0.06,
+     "index": "KOSDAQ"
     }
    ],
    "status": "verified",
    "backfill": true,
    "flagPriceSource": "https://finance.naver.com/item/sise_day.naver?code=459510",
-   "finalVerdict": "빗나감"
+   "finalVerdict": "중립"
   },
   {
    "name": "유니슨(018000)",
@@ -2245,6 +2759,10 @@
     {
      "date": "2026-07-07",
      "price": 900
+    },
+    {
+     "date": "2026-07-08",
+     "price": 853
     }
    ],
    "checks": [
@@ -2255,7 +2773,10 @@
      "changePct": -12.9,
      "newsDelta": "0",
      "verdict": "빗나감",
-     "source": "https://finance.naver.com/item/sise_day.naver?code=018000"
+     "source": "https://finance.naver.com/item/sise_day.naver?code=018000",
+     "indexPct": -8.85,
+     "excessPct": -4.05,
+     "index": "KOSDAQ"
     }
    ],
    "status": "verified",
@@ -2275,23 +2796,30 @@
     {
      "date": "2026-07-07",
      "price": 33200
+    },
+    {
+     "date": "2026-07-08",
+     "price": 30200
     }
    ],
    "checks": [
     {
      "horizon": "D+3",
-     "date": "2026-07-06",
-     "price": 37000,
-     "changePct": 5.41,
+     "date": "2026-07-07",
+     "price": 33200,
+     "changePct": -5.41,
      "newsDelta": "+",
-     "verdict": "적중",
-     "source": "https://finance.naver.com/item/sise_day.naver?code=437730"
+     "verdict": "빗나감",
+     "source": "https://finance.naver.com/item/sise_day.naver?code=437730",
+     "indexPct": -4.09,
+     "excessPct": -1.32,
+     "index": "KOSDAQ"
     }
    ],
    "status": "verified",
    "backfill": true,
    "flagPriceSource": "https://finance.naver.com/item/sise_day.naver?code=437730",
-   "finalVerdict": "적중"
+   "finalVerdict": "빗나감"
   },
   {
    "name": "HB테크놀러지(078150)",
@@ -2305,17 +2833,24 @@
     {
      "date": "2026-07-07",
      "price": 1998
+    },
+    {
+     "date": "2026-07-08",
+     "price": 1910
     }
    ],
    "checks": [
     {
      "horizon": "D+3",
-     "date": "2026-07-07",
-     "price": 1998,
-     "changePct": -4.86,
+     "date": "2026-07-08",
+     "price": 1910,
+     "changePct": -9.05,
      "newsDelta": "0",
      "verdict": "중립",
-     "source": "https://finance.naver.com/item/sise_day.naver?code=078150"
+     "source": "https://finance.naver.com/item/sise_day.naver?code=078150",
+     "indexPct": -9.6,
+     "excessPct": 0.56,
+     "index": "KOSDAQ"
     }
    ],
    "status": "pending",
@@ -2336,17 +2871,24 @@
     {
      "date": "2026-07-07",
      "price": 12800
+    },
+    {
+     "date": "2026-07-08",
+     "price": 11960
     }
    ],
    "checks": [
     {
      "horizon": "D+3",
-     "date": "2026-07-07",
-     "price": 12800,
-     "changePct": -3.83,
+     "date": "2026-07-08",
+     "price": 11960,
+     "changePct": -10.14,
      "newsDelta": "0",
      "verdict": "중립",
-     "source": "https://finance.naver.com/item/sise_day.naver?code=011500"
+     "source": "https://finance.naver.com/item/sise_day.naver?code=011500",
+     "indexPct": -10.4,
+     "excessPct": 0.26,
+     "index": "KOSPI"
     }
    ],
    "status": "pending",
@@ -2367,13 +2909,29 @@
     {
      "date": "2026-07-07",
      "price": 2875
+    },
+    {
+     "date": "2026-07-08",
+     "price": 2980
     }
    ],
-   "checks": [],
+   "checks": [
+    {
+     "horizon": "D+3",
+     "date": "2026-07-08",
+     "price": 2980,
+     "changePct": 1.53,
+     "indexPct": -9.6,
+     "excessPct": 11.14,
+     "index": "KOSDAQ",
+     "verdict": "적중"
+    }
+   ],
    "status": "pending",
    "backfill": true,
    "flagPriceSource": "https://finance.naver.com/item/sise_day.naver?code=367000",
-   "flagPriceDate": "2026-07-06"
+   "flagPriceDate": "2026-07-06",
+   "finalVerdict": "적중"
   },
   {
    "name": "세명전기(017510)",
@@ -2387,13 +2945,29 @@
     {
      "date": "2026-07-07",
      "price": 7350
+    },
+    {
+     "date": "2026-07-08",
+     "price": 6800
     }
    ],
-   "checks": [],
+   "checks": [
+    {
+     "horizon": "D+3",
+     "date": "2026-07-08",
+     "price": 6800,
+     "changePct": -11.8,
+     "indexPct": -9.6,
+     "excessPct": -2.2,
+     "index": "KOSDAQ",
+     "verdict": "빗나감"
+    }
+   ],
    "status": "pending",
    "backfill": true,
    "flagPriceSource": "https://finance.naver.com/item/sise_day.naver?code=017510",
-   "flagPriceDate": "2026-07-06"
+   "flagPriceDate": "2026-07-06",
+   "finalVerdict": "빗나감"
   },
   {
    "name": "레이크머티리얼즈(281740)",
@@ -2407,13 +2981,29 @@
     {
      "date": "2026-07-07",
      "price": 12900
+    },
+    {
+     "date": "2026-07-08",
+     "price": 12100
     }
    ],
-   "checks": [],
+   "checks": [
+    {
+     "horizon": "D+3",
+     "date": "2026-07-08",
+     "price": 12100,
+     "changePct": -7.7,
+     "indexPct": -9.6,
+     "excessPct": 1.9,
+     "index": "KOSDAQ",
+     "verdict": "중립"
+    }
+   ],
    "status": "pending",
    "backfill": true,
    "flagPriceSource": "https://finance.naver.com/item/sise_day.naver?code=281740",
-   "flagPriceDate": "2026-07-06"
+   "flagPriceDate": "2026-07-06",
+   "finalVerdict": "중립"
   },
   {
    "name": "성호전자(043260)",
@@ -2427,6 +3017,10 @@
     {
      "date": "2026-07-07",
      "price": 19400
+    },
+    {
+     "date": "2026-07-08",
+     "price": 18550
     }
    ],
    "checks": [],
@@ -2446,6 +3040,10 @@
     {
      "date": "2026-07-07",
      "price": 8960
+    },
+    {
+     "date": "2026-07-08",
+     "price": 8820
     }
    ],
    "checks": [],
@@ -2465,6 +3063,10 @@
     {
      "date": "2026-07-07",
      "price": 87200
+    },
+    {
+     "date": "2026-07-08",
+     "price": 85000
     }
    ],
    "checks": [],
@@ -2484,6 +3086,10 @@
     {
      "date": "2026-07-07",
      "price": 1315
+    },
+    {
+     "date": "2026-07-08",
+     "price": 1297
     }
    ],
    "checks": [],
@@ -2502,7 +3108,14 @@
    ],
    "theme": "AI반도체설계(팹리스/IP)",
    "status": "pending",
-   "checks": []
+   "checks": [],
+   "flagPrice": 17300,
+   "priceLog": [
+    {
+     "date": "2026-07-08",
+     "price": 17300
+    }
+   ]
   },
   {
    "name": "이엠앤아이(481070)",
@@ -2514,7 +3127,14 @@
    ],
    "theme": "로봇/휴머노이드",
    "status": "pending",
-   "checks": []
+   "checks": [],
+   "flagPrice": 15070,
+   "priceLog": [
+    {
+     "date": "2026-07-08",
+     "price": 15070
+    }
+   ]
   },
   {
    "name": "SG(255220)",
@@ -2526,7 +3146,14 @@
    ],
    "theme": "반도체 클러스터 인프라",
    "status": "pending",
-   "checks": []
+   "checks": [],
+   "flagPrice": 1489,
+   "priceLog": [
+    {
+     "date": "2026-07-08",
+     "price": 1489
+    }
+   ]
   },
   {
    "name": "스마트레이더시스템(424960)",
@@ -2538,7 +3165,14 @@
    ],
    "theme": "로봇·자율주행 센서",
    "status": "pending",
-   "checks": []
+   "checks": [],
+   "flagPrice": 3620,
+   "priceLog": [
+    {
+     "date": "2026-07-08",
+     "price": 3620
+    }
+   ]
   },
   {
    "name": "다이나믹솔루션(070120)",
@@ -2562,7 +3196,14 @@
    ],
    "theme": "AI데이터센터",
    "status": "pending",
-   "checks": []
+   "checks": [],
+   "flagPrice": 5940,
+   "priceLog": [
+    {
+     "date": "2026-07-08",
+     "price": 5940
+    }
+   ]
   },
   {
    "name": "씨이랩(189330)",
@@ -2574,7 +3215,14 @@
    ],
    "theme": "AI데이터센터",
    "status": "pending",
-   "checks": []
+   "checks": [],
+   "flagPrice": 12620,
+   "priceLog": [
+    {
+     "date": "2026-07-08",
+     "price": 12620
+    }
+   ]
   },
   {
    "name": "아이씨티케이(456010)",
@@ -2587,7 +3235,14 @@
    ],
    "theme": "사이버보안",
    "status": "pending",
-   "checks": []
+   "checks": [],
+   "flagPrice": 14620,
+   "priceLog": [
+    {
+     "date": "2026-07-08",
+     "price": 14620
+    }
+   ]
   },
   {
    "name": "케이사인(192250)",
@@ -2599,7 +3254,14 @@
    ],
    "theme": "사이버보안",
    "status": "pending",
-   "checks": []
+   "checks": [],
+   "flagPrice": 7140,
+   "priceLog": [
+    {
+     "date": "2026-07-08",
+     "price": 7140
+    }
+   ]
   },
   {
    "name": "에스투더블유(377480)",
@@ -2611,34 +3273,41 @@
    ],
    "theme": "사이버보안",
    "status": "pending",
-   "checks": []
+   "checks": [],
+   "flagPrice": 8490,
+   "priceLog": [
+    {
+     "date": "2026-07-08",
+     "price": 8490
+    }
+   ]
   }
  ],
  "stats": {
-  "verified": 53,
-  "hit": 9,
-  "neutral": 22,
-  "miss": 22,
-  "hitRate": 17.0,
-  "avgD3ChangePct": -1.9,
-  "pending": 36,
+  "verified": 57,
+  "hit": 11,
+  "neutral": 15,
+  "miss": 31,
+  "hitRate": 19.3,
+  "avgD3ChangePct": 1.26,
+  "pending": 32,
   "total": 89,
   "byType": {
    "leading": {
-    "verified": 37,
-    "hit": 3,
-    "neutral": 18,
-    "miss": 16,
-    "hitRate": 8.1,
-    "avgD3ChangePct": -3.47
+    "verified": 38,
+    "hit": 8,
+    "neutral": 9,
+    "miss": 21,
+    "hitRate": 21.1,
+    "avgD3ChangePct": 0.32
    },
    "discovery": {
-    "verified": 16,
-    "hit": 6,
-    "neutral": 4,
-    "miss": 6,
-    "hitRate": 37.5,
-    "avgD3ChangePct": 1.74
+    "verified": 19,
+    "hit": 3,
+    "neutral": 6,
+    "miss": 10,
+    "hitRate": 15.8,
+    "avgD3ChangePct": 3.12
    }
   }
  }

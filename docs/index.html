@@ -120,6 +120,11 @@
       <h2>🎯 자체 검증 — 발굴/선행 엔진 성적표</h2>
       <p class="muted">우리가 🌱발굴·🔮선행 포착한 종목이 <b>3일 뒤 실제 주가·뉴스에 어떻게 반영됐는지</b> 누적 검증합니다. 적중률이 쌓일수록 어떤 신호가 진짜 통하는지 증명됩니다.</p>
       <div id="vfStats" class="gauge-row" style="grid-template-columns:repeat(4,1fr)"></div>
+      <h3 style="margin-top:22px">⭐ 유망 대기 선별 <span class="muted">(검증 안 끝난 예측 중, 학습패턴=승세테마+구체촉발재로 상위)</span></h3>
+      <div class="table-scroll"><table id="watchTable" class="freq"></table></div>
+      <p class="muted" style="font-size:.82rem;margin-top:6px">⚠️ 학습된 패턴 기반 우선순위일 뿐 매수권유 아님. 열세테마 회피 목록은 접힘.</p>
+      <details style="margin-top:4px"><summary class="muted" style="cursor:pointer">🚫 회피 후보 보기 (열세테마)</summary>
+        <div class="table-scroll" style="margin-top:8px"><table id="avoidTable" class="freq"></table></div></details>
       <h3 style="margin-top:22px">🧠 테마 스코어보드 <span class="muted">(검증기반 자기학습 — 어느 테마가 실제로 보상받았나)</span></h3>
       <div class="table-scroll"><table id="themeTable" class="freq"></table></div>
       <details style="margin-top:10px"><summary class="muted" style="cursor:pointer">📓 학습 노트 전체 보기 (왜 이긴 종목은 이겼나)</summary>

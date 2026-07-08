@@ -23,12 +23,12 @@ def ticker(name):
 
 _price_cache, _mkt_cache = {}, {}
 
-def stock_series(code, pages=9):
-    """네이버 일별시세 → {날짜:종가}. pages*10 영업일 정도 커버."""
+def stock_series(code, need_date=None, max_pages=9):
+    """네이버 일별시세 → {날짜:종가}. need_date까지 커버되면 조기 종료(성능)."""
     if code in _price_cache:
         return _price_cache[code]
     out = {}
-    for p in range(1, pages + 1):
+    for p in range(1, max_pages + 1):
         try:
             h = get(f"https://finance.naver.com/item/sise_day.naver?code={code}&page={p}")
         except Exception:
@@ -39,6 +39,9 @@ def stock_series(code, pages=9):
             break
         for d, c in rows:
             out[d.replace(".", "-")] = int(c.replace(",", ""))
+        # 필요한 과거 날짜까지 받았으면 더 안 넘긴다(대부분 1~3페이지에서 종료)
+        if need_date and min(out) <= need_date:
+            break
     _price_cache[code] = out
     return out
 
@@ -87,18 +90,33 @@ def nth_trading_day(trading_dates, start, n):
     after = sorted(x for x in trading_dates if x > start)
     return after[n - 1] if len(after) >= n else None
 
+def verdict_of(exc, is_warn):
+    """초과수익률 기준 판정(후발경고는 부호 반대)."""
+    if is_warn:
+        return HIT if exc <= -5 else MISS if exc >= 5 else PART
+    return HIT if exc >= 5 else MISS if exc < 0 else PART
+
 def score_case(c, today):
     code = ticker(c.get("name"))
     if not code or (c.get("market") and c["market"] != "韓"):
         return  # 국내 상장만 채점(미국주는 스킵)
-    px = stock_series(code)
+    fd = c.get("flagDate")
+    is_warn = c.get("type") == "warning"
+    c.setdefault("checks", [])
+    # 성능: 이미 두 지평(D+3·D+7) 모두 초과수익으로 채점됐고 오늘 priceLog도 있으면 스킵.
+    have = {ch.get("horizon"): ch for ch in c["checks"]}
+    all_scored = all(h in have and isinstance(have[h].get("excessPct"), (int, float))
+                     for h in ("D+3", "D+7"))
+    pl_today = any(p.get("date", "") >= today for p in c.get("priceLog", []))
+    if c.get("status") == "verified" and all_scored and pl_today:
+        return
+
+    px = stock_series(code, need_date=fd)   # flagDate까지만 받고 조기 종료
     if not px:
         return
     idxc = market_index_code(code)
     idx = index_series(idxc)
     pdates, idates = sorted(px), sorted(idx)
-    fd = c.get("flagDate")
-    # flagPrice(등재일 종가) 채우기
     fday = on_or_before(pdates, fd)
     if fday and c.get("flagPrice") in (None, 0):
         c["flagPrice"] = px[fday]
@@ -107,11 +125,10 @@ def score_case(c, today):
     ibase = idx[ibase_day] if ibase_day else None
     if not base or not ibase:
         return
-    is_warn = c.get("type") == "warning"
-    c.setdefault("checks", [])
-    have = {ch.get("horizon") for ch in c["checks"]}
+
     for hz, n in (("D+3", 3), ("D+7", 7)):
-        if hz in have:
+        # 이미 초과수익으로 채점된 지평은 건너뜀. (절대수익만 있던 옛 체크는 재채점)
+        if hz in have and isinstance(have[hz].get("excessPct"), (int, float)):
             continue
         tday = nth_trading_day(idates, fd, n)
         if not tday or tday > today:
@@ -122,14 +139,13 @@ def score_case(c, today):
         sret = (px[sday] - base) / base * 100
         iret = (idx[tday] - ibase) / ibase * 100
         exc = round(sret - iret, 2)
-        # 초과수익 기준 판정(후발경고는 반대)
-        if is_warn:
-            v = HIT if exc <= -5 else MISS if exc >= 5 else PART
+        rec = {"horizon": hz, "date": sday, "price": px[sday],
+               "changePct": round(sret, 2), "indexPct": round(iret, 2),
+               "excessPct": exc, "index": idxc, "verdict": verdict_of(exc, is_warn)}
+        if hz in have:                      # 기존(절대수익) 체크를 초과수익으로 교체
+            have[hz].update(rec)
         else:
-            v = HIT if exc >= 5 else MISS if exc < 0 else PART
-        c["checks"].append({"horizon": hz, "date": sday, "price": px[sday],
-                            "changePct": round(sret, 2), "indexPct": round(iret, 2),
-                            "excessPct": exc, "index": idxc, "verdict": v})
+            c["checks"].append(rec); have[hz] = rec
     # 오늘 종가 → priceLog(주가곡선)
     tday = on_or_before(pdates, today)
     if tday:
@@ -137,8 +153,8 @@ def score_case(c, today):
         if not any(p.get("date") == tday for p in pl):
             pl.append({"date": tday, "price": px[tday]})
     # D+7까지 있거나 flagDate가 7영업일 지났으면 verified
-    if any(ch["horizon"] == "D+7" for ch in c["checks"]) or \
-       (any(ch["horizon"] == "D+3" for ch in c["checks"]) and nth_trading_day(idates, fd, 7) and nth_trading_day(idates, fd, 7) <= today):
+    d7 = nth_trading_day(idates, fd, 7)
+    if "D+7" in have or ("D+3" in have and d7 and d7 <= today):
         c["status"] = "verified"
 
 def main():
