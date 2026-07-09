@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-07-09T09:30:51+09:00",
+ "updatedAt": "2026-07-09T15:58:29+09:00",
  "cases": [
   {
    "name": "이지트로닉스(377330)",
@@ -22,6 +22,10 @@
     {
      "date": "2026-07-08",
      "price": 2230
+    },
+    {
+     "date": "2026-07-09",
+     "price": 2235
     }
    ]
   },
@@ -46,6 +50,10 @@
     {
      "date": "2026-07-08",
      "price": 45850
+    },
+    {
+     "date": "2026-07-09",
+     "price": 45000
     }
    ]
   },
@@ -69,6 +77,10 @@
     {
      "date": "2026-07-08",
      "price": 7040
+    },
+    {
+     "date": "2026-07-09",
+     "price": 6690
     }
    ]
   },
@@ -92,6 +104,10 @@
     {
      "date": "2026-07-08",
      "price": 8850
+    },
+    {
+     "date": "2026-07-09",
+     "price": 8670
     }
    ]
   },
@@ -115,6 +131,10 @@
     {
      "date": "2026-07-08",
      "price": 35950
+    },
+    {
+     "date": "2026-07-09",
+     "price": 35700
     }
    ]
   },
@@ -139,6 +159,10 @@
     {
      "date": "2026-07-08",
      "price": 1605
+    },
+    {
+     "date": "2026-07-09",
+     "price": 1755
     }
    ]
   },
@@ -162,6 +186,10 @@
     {
      "date": "2026-07-08",
      "price": 4055
+    },
+    {
+     "date": "2026-07-09",
+     "price": 4230
     }
    ]
   },
@@ -185,6 +213,10 @@
     {
      "date": "2026-07-08",
      "price": 683
+    },
+    {
+     "date": "2026-07-09",
+     "price": 670
     }
    ]
   },
@@ -204,6 +236,10 @@
     {
      "date": "2026-07-08",
      "price": 2980
+    },
+    {
+     "date": "2026-07-09",
+     "price": 2895
     }
    ]
   },
@@ -228,6 +264,10 @@
     {
      "date": "2026-07-08",
      "price": 931
+    },
+    {
+     "date": "2026-07-09",
+     "price": 953
     }
    ]
   },
@@ -251,6 +291,10 @@
     {
      "date": "2026-07-08",
      "price": 5600
+    },
+    {
+     "date": "2026-07-09",
+     "price": 5280
     }
    ]
   },
@@ -274,6 +318,10 @@
     {
      "date": "2026-07-08",
      "price": 1421
+    },
+    {
+     "date": "2026-07-09",
+     "price": 1332
     }
    ]
   },
@@ -298,6 +346,10 @@
     {
      "date": "2026-07-08",
      "price": 1442
+    },
+    {
+     "date": "2026-07-09",
+     "price": 1309
     }
    ],
    "checks": [
@@ -351,6 +403,10 @@
     {
      "date": "2026-07-08",
      "price": 67800
+    },
+    {
+     "date": "2026-07-09",
+     "price": 72000
     }
    ],
    "checks": [
@@ -404,6 +460,10 @@
     {
      "date": "2026-07-08",
      "price": 9240
+    },
+    {
+     "date": "2026-07-09",
+     "price": 9210
     }
    ],
    "checks": [
@@ -456,6 +516,10 @@
     {
      "date": "2026-07-08",
      "price": 29800
+    },
+    {
+     "date": "2026-07-09",
+     "price": 28850
     }
    ],
    "checks": [
@@ -508,6 +572,10 @@
     {
      "date": "2026-07-08",
      "price": 14740
+    },
+    {
+     "date": "2026-07-09",
+     "price": 14960
     }
    ],
    "checks": [
@@ -560,6 +628,10 @@
     {
      "date": "2026-07-08",
      "price": 4790
+    },
+    {
+     "date": "2026-07-09",
+     "price": 4770
     }
    ],
    "checks": [
@@ -629,6 +701,10 @@
     {
      "date": "2026-07-08",
      "price": 791
+    },
+    {
+     "date": "2026-07-09",
+     "price": 789
     }
    ],
    "checks": [
@@ -681,6 +757,10 @@
     {
      "date": "2026-07-08",
      "price": 32150
+    },
+    {
+     "date": "2026-07-09",
+     "price": 31450
     }
    ],
    "checks": [
@@ -732,6 +812,10 @@
     {
      "date": "2026-07-08",
      "price": 2090
+    },
+    {
+     "date": "2026-07-09",
+     "price": 2130
     }
    ],
    "checks": [
@@ -780,6 +864,10 @@
     {
      "date": "2026-07-08",
      "price": 1983
+    },
+    {
+     "date": "2026-07-09",
+     "price": 1871
     }
    ],
    "checks": [
@@ -826,6 +914,10 @@
     {
      "date": "2026-07-08",
      "price": 799
+    },
+    {
+     "date": "2026-07-09",
+     "price": 825
     }
    ],
    "checks": [
@@ -877,6 +969,10 @@
     {
      "date": "2026-07-08",
      "price": 1310
+    },
+    {
+     "date": "2026-07-09",
+     "price": 1255
     }
    ],
    "checks": [
@@ -929,6 +1025,10 @@
     {
      "date": "2026-07-08",
      "price": 7390
+    },
+    {
+     "date": "2026-07-09",
+     "price": 7080
     }
    ],
    "checks": [
@@ -982,6 +1082,10 @@
     {
      "date": "2026-07-08",
      "price": 2150
+    },
+    {
+     "date": "2026-07-09",
+     "price": 2140
     }
    ],
    "checks": [
@@ -1034,6 +1138,10 @@
     {
      "date": "2026-07-08",
      "price": 11930
+    },
+    {
+     "date": "2026-07-09",
+     "price": 11470
     }
    ],
    "checks": [
@@ -1086,6 +1194,10 @@
     {
      "date": "2026-07-08",
      "price": 1418
+    },
+    {
+     "date": "2026-07-09",
+     "price": 1333
     }
    ],
    "checks": [
@@ -1140,6 +1252,10 @@
     {
      "date": "2026-07-08",
      "price": 1860
+    },
+    {
+     "date": "2026-07-09",
+     "price": 1850
     }
    ],
    "checks": [
@@ -1192,6 +1308,10 @@
     {
      "date": "2026-07-08",
      "price": 3535
+    },
+    {
+     "date": "2026-07-09",
+     "price": 3430
     }
    ],
    "checks": [
@@ -1261,6 +1381,10 @@
     {
      "date": "2026-07-08",
      "price": 5380
+    },
+    {
+     "date": "2026-07-09",
+     "price": 5320
     }
    ],
    "checks": [
@@ -1278,12 +1402,15 @@
     },
     {
      "horizon": "D+7",
-     "date": "2026-07-07",
-     "price": 5390,
-     "changePct": 6.52,
+     "date": "2026-07-09",
+     "price": 5320,
+     "changePct": 5.14,
      "newsDelta": "0",
      "verdict": "적중",
-     "source": "https://finance.naver.com/item/sise_day.naver?code=096690"
+     "source": "https://finance.naver.com/item/sise_day.naver?code=096690",
+     "indexPct": -13.34,
+     "excessPct": 18.47,
+     "index": "KOSDAQ"
     }
    ],
    "status": "verified",
@@ -1310,6 +1437,10 @@
     {
      "date": "2026-07-08",
      "price": 12290
+    },
+    {
+     "date": "2026-07-09",
+     "price": 12000
     }
    ],
    "checks": [
@@ -1327,12 +1458,15 @@
     },
     {
      "horizon": "D+7",
-     "date": "2026-07-07",
-     "price": 12490,
-     "changePct": -6.93,
+     "date": "2026-07-09",
+     "price": 12000,
+     "changePct": -10.58,
      "newsDelta": "0",
-     "verdict": "빗나감",
-     "source": "https://finance.naver.com/item/sise_day.naver?code=264660"
+     "verdict": "중립",
+     "source": "https://finance.naver.com/item/sise_day.naver?code=264660",
+     "indexPct": -13.34,
+     "excessPct": 2.75,
+     "index": "KOSDAQ"
     }
    ],
    "status": "verified",
@@ -1360,6 +1494,10 @@
     {
      "date": "2026-07-08",
      "price": 945
+    },
+    {
+     "date": "2026-07-09",
+     "price": 899
     }
    ],
    "checks": [
@@ -1377,12 +1515,15 @@
     },
     {
      "horizon": "D+7",
-     "date": "2026-07-07",
-     "price": 990,
-     "changePct": 21.18,
+     "date": "2026-07-09",
+     "price": 899,
+     "changePct": 10.04,
      "newsDelta": "0",
      "verdict": "적중",
-     "source": "https://finance.naver.com/item/sise_day.naver?code=196450"
+     "source": "https://finance.naver.com/item/sise_day.naver?code=196450",
+     "indexPct": -13.34,
+     "excessPct": 23.37,
+     "index": "KOSDAQ"
     }
    ],
    "status": "verified",
@@ -1409,6 +1550,10 @@
     {
      "date": "2026-07-08",
      "price": 7150
+    },
+    {
+     "date": "2026-07-09",
+     "price": 6940
     }
    ],
    "checks": [
@@ -1449,6 +1594,10 @@
     {
      "date": "2026-07-08",
      "price": 2720
+    },
+    {
+     "date": "2026-07-09",
+     "price": 2465
     }
    ],
    "checks": [
@@ -1489,6 +1638,10 @@
     {
      "date": "2026-07-08",
      "price": 972
+    },
+    {
+     "date": "2026-07-09",
+     "price": 1050
     }
    ],
    "checks": [
@@ -1529,6 +1682,10 @@
     {
      "date": "2026-07-08",
      "price": 3120
+    },
+    {
+     "date": "2026-07-09",
+     "price": 3010
     }
    ],
    "checks": [
@@ -1569,6 +1726,10 @@
     {
      "date": "2026-07-08",
      "price": 1494
+    },
+    {
+     "date": "2026-07-09",
+     "price": 1442
     }
    ],
    "checks": [
@@ -1610,6 +1771,10 @@
     {
      "date": "2026-07-08",
      "price": 7410
+    },
+    {
+     "date": "2026-07-09",
+     "price": 7680
     }
    ],
    "checks": [
@@ -1649,6 +1814,10 @@
     {
      "date": "2026-07-08",
      "price": 1054
+    },
+    {
+     "date": "2026-07-09",
+     "price": 1028
     }
    ],
    "checks": [
@@ -1688,6 +1857,10 @@
     {
      "date": "2026-07-08",
      "price": 12570
+    },
+    {
+     "date": "2026-07-09",
+     "price": 12600
     }
    ],
    "checks": [
@@ -1728,6 +1901,10 @@
     {
      "date": "2026-07-08",
      "price": 61800
+    },
+    {
+     "date": "2026-07-09",
+     "price": 60000
     }
    ],
    "checks": [
@@ -1767,6 +1944,10 @@
     {
      "date": "2026-07-08",
      "price": 29100
+    },
+    {
+     "date": "2026-07-09",
+     "price": 27800
     }
    ],
    "checks": [
@@ -1806,6 +1987,10 @@
     {
      "date": "2026-07-08",
      "price": 64700
+    },
+    {
+     "date": "2026-07-09",
+     "price": 62300
     }
    ],
    "checks": [
@@ -1846,6 +2031,10 @@
     {
      "date": "2026-07-08",
      "price": 2235
+    },
+    {
+     "date": "2026-07-09",
+     "price": 2205
     }
    ],
    "checks": [
@@ -1886,6 +2075,10 @@
     {
      "date": "2026-07-08",
      "price": 9710
+    },
+    {
+     "date": "2026-07-09",
+     "price": 9690
     }
    ],
    "checks": [
@@ -1927,6 +2120,10 @@
     {
      "date": "2026-07-08",
      "price": 6600
+    },
+    {
+     "date": "2026-07-09",
+     "price": 6460
     }
    ],
    "checks": [
@@ -1969,6 +2166,10 @@
     {
      "date": "2026-07-08",
      "price": 47500
+    },
+    {
+     "date": "2026-07-09",
+     "price": 46000
     }
    ],
    "checks": [
@@ -2010,6 +2211,10 @@
     {
      "date": "2026-07-08",
      "price": 18550
+    },
+    {
+     "date": "2026-07-09",
+     "price": 19960
     }
    ],
    "checks": [
@@ -2051,6 +2256,10 @@
     {
      "date": "2026-07-08",
      "price": 8820
+    },
+    {
+     "date": "2026-07-09",
+     "price": 8590
     }
    ],
    "checks": [
@@ -2092,12 +2301,28 @@
     {
      "date": "2026-07-08",
      "price": 13000
+    },
+    {
+     "date": "2026-07-09",
+     "price": 12600
     }
    ],
-   "checks": [],
+   "checks": [
+    {
+     "horizon": "D+3",
+     "date": "2026-07-09",
+     "price": 12600,
+     "changePct": -9.29,
+     "indexPct": -6.27,
+     "excessPct": -3.02,
+     "index": "KOSDAQ",
+     "verdict": "빗나감"
+    }
+   ],
    "status": "pending",
    "backfill": true,
-   "flagPriceSource": "https://finance.naver.com/item/sise_day.naver?code=459510"
+   "flagPriceSource": "https://finance.naver.com/item/sise_day.naver?code=459510",
+   "finalVerdict": "빗나감"
   },
   {
    "name": "케이지에이(455180)",
@@ -2118,6 +2343,10 @@
     {
      "date": "2026-07-08",
      "price": 1297
+    },
+    {
+     "date": "2026-07-09",
+     "price": 1369
     }
    ],
    "checks": [],
@@ -2143,6 +2372,10 @@
     {
      "date": "2026-07-08",
      "price": 4965
+    },
+    {
+     "date": "2026-07-09",
+     "price": 5000
     }
    ],
    "checks": [],
@@ -2168,6 +2401,10 @@
     {
      "date": "2026-07-08",
      "price": 1029
+    },
+    {
+     "date": "2026-07-09",
+     "price": 1008
     }
    ],
    "checks": [],
@@ -2191,6 +2428,10 @@
     {
      "date": "2026-07-08",
      "price": 9960
+    },
+    {
+     "date": "2026-07-09",
+     "price": 9470
     }
    ],
    "checks": [
@@ -2241,6 +2482,10 @@
     {
      "date": "2026-07-08",
      "price": 104300
+    },
+    {
+     "date": "2026-07-09",
+     "price": 101100
     }
    ],
    "checks": [
@@ -2291,6 +2536,10 @@
     {
      "date": "2026-07-08",
      "price": 40000
+    },
+    {
+     "date": "2026-07-09",
+     "price": 39200
     }
    ],
    "checks": [
@@ -2340,6 +2589,10 @@
     {
      "date": "2026-07-08",
      "price": 6060
+    },
+    {
+     "date": "2026-07-09",
+     "price": 5920
     }
    ],
    "checks": [
@@ -2389,6 +2642,10 @@
     {
      "date": "2026-07-08",
      "price": 25300
+    },
+    {
+     "date": "2026-07-09",
+     "price": 25150
     }
    ],
    "checks": [
@@ -2438,6 +2695,10 @@
     {
      "date": "2026-07-08",
      "price": 1906
+    },
+    {
+     "date": "2026-07-09",
+     "price": 1650
     }
    ],
    "checks": [
@@ -2487,6 +2748,10 @@
     {
      "date": "2026-07-08",
      "price": 16030
+    },
+    {
+     "date": "2026-07-09",
+     "price": 16180
     }
    ],
    "checks": [
@@ -2536,6 +2801,10 @@
     {
      "date": "2026-07-08",
      "price": 42800
+    },
+    {
+     "date": "2026-07-09",
+     "price": 55600
     }
    ],
    "checks": [
@@ -2585,6 +2854,10 @@
     {
      "date": "2026-07-08",
      "price": 11190
+    },
+    {
+     "date": "2026-07-09",
+     "price": 11900
     }
    ],
    "checks": [
@@ -2634,6 +2907,10 @@
     {
      "date": "2026-07-08",
      "price": 2250
+    },
+    {
+     "date": "2026-07-09",
+     "price": 2290
     }
    ],
    "checks": [
@@ -2651,12 +2928,15 @@
     },
     {
      "horizon": "D+7",
-     "date": "2026-07-07",
-     "price": 2410,
-     "changePct": 9.3,
+     "date": "2026-07-09",
+     "price": 2290,
+     "changePct": 3.85,
      "newsDelta": "0",
      "verdict": "적중",
-     "source": "https://finance.naver.com/item/sise_day.naver?code=431190"
+     "source": "https://finance.naver.com/item/sise_day.naver?code=431190",
+     "indexPct": -13.34,
+     "excessPct": 17.19,
+     "index": "KOSDAQ"
     }
    ],
    "status": "verified",
@@ -2680,6 +2960,10 @@
     {
      "date": "2026-07-08",
      "price": 41750
+    },
+    {
+     "date": "2026-07-09",
+     "price": 41750
     }
    ],
    "checks": [
@@ -2697,12 +2981,15 @@
     },
     {
      "horizon": "D+7",
-     "date": "2026-07-07",
+     "date": "2026-07-09",
      "price": 41750,
      "changePct": -30.76,
      "newsDelta": "0",
      "verdict": "빗나감",
-     "source": "https://finance.naver.com/item/sise_day.naver?code=025560"
+     "source": "https://finance.naver.com/item/sise_day.naver?code=025560",
+     "indexPct": -13.97,
+     "excessPct": -16.79,
+     "index": "KOSPI"
     }
    ],
    "status": "verified",
@@ -2726,6 +3013,10 @@
     {
      "date": "2026-07-08",
      "price": 13000
+    },
+    {
+     "date": "2026-07-09",
+     "price": 12600
     }
    ],
    "checks": [
@@ -2763,6 +3054,10 @@
     {
      "date": "2026-07-08",
      "price": 853
+    },
+    {
+     "date": "2026-07-09",
+     "price": 861
     }
    ],
    "checks": [
@@ -2800,6 +3095,10 @@
     {
      "date": "2026-07-08",
      "price": 30200
+    },
+    {
+     "date": "2026-07-09",
+     "price": 33800
     }
    ],
    "checks": [
@@ -2837,6 +3136,10 @@
     {
      "date": "2026-07-08",
      "price": 1910
+    },
+    {
+     "date": "2026-07-09",
+     "price": 1912
     }
    ],
    "checks": [
@@ -2875,6 +3178,10 @@
     {
      "date": "2026-07-08",
      "price": 11960
+    },
+    {
+     "date": "2026-07-09",
+     "price": 12060
     }
    ],
    "checks": [
@@ -2913,6 +3220,10 @@
     {
      "date": "2026-07-08",
      "price": 2980
+    },
+    {
+     "date": "2026-07-09",
+     "price": 2995
     }
    ],
    "checks": [
@@ -2948,6 +3259,10 @@
     },
     {
      "date": "2026-07-08",
+     "price": 6800
+    },
+    {
+     "date": "2026-07-09",
      "price": 6800
     }
    ],
@@ -2985,6 +3300,10 @@
     {
      "date": "2026-07-08",
      "price": 12100
+    },
+    {
+     "date": "2026-07-09",
+     "price": 11920
     }
    ],
    "checks": [
@@ -3021,12 +3340,28 @@
     {
      "date": "2026-07-08",
      "price": 18550
+    },
+    {
+     "date": "2026-07-09",
+     "price": 19960
     }
    ],
-   "checks": [],
+   "checks": [
+    {
+     "horizon": "D+3",
+     "date": "2026-07-09",
+     "price": 19960,
+     "changePct": -6.07,
+     "indexPct": -6.27,
+     "excessPct": 0.19,
+     "index": "KOSDAQ",
+     "verdict": "중립"
+    }
+   ],
    "status": "pending",
    "backfill": true,
-   "flagPriceSource": "https://finance.naver.com/item/sise_day.naver?code=043260"
+   "flagPriceSource": "https://finance.naver.com/item/sise_day.naver?code=043260",
+   "finalVerdict": "중립"
   },
   {
    "name": "케이엔솔(053080)",
@@ -3044,12 +3379,28 @@
     {
      "date": "2026-07-08",
      "price": 8820
+    },
+    {
+     "date": "2026-07-09",
+     "price": 8590
     }
    ],
-   "checks": [],
+   "checks": [
+    {
+     "horizon": "D+3",
+     "date": "2026-07-09",
+     "price": 8590,
+     "changePct": -8.13,
+     "indexPct": -6.27,
+     "excessPct": -1.86,
+     "index": "KOSDAQ",
+     "verdict": "빗나감"
+    }
+   ],
    "status": "pending",
    "backfill": true,
-   "flagPriceSource": "https://finance.naver.com/item/sise_day.naver?code=053080"
+   "flagPriceSource": "https://finance.naver.com/item/sise_day.naver?code=053080",
+   "finalVerdict": "빗나감"
   },
   {
    "name": "브이엠(089970)",
@@ -3067,6 +3418,10 @@
     {
      "date": "2026-07-08",
      "price": 85000
+    },
+    {
+     "date": "2026-07-09",
+     "price": 86600
     }
    ],
    "checks": [],
@@ -3090,6 +3445,10 @@
     {
      "date": "2026-07-08",
      "price": 1297
+    },
+    {
+     "date": "2026-07-09",
+     "price": 1369
     }
    ],
    "checks": [],
@@ -3114,6 +3473,10 @@
     {
      "date": "2026-07-08",
      "price": 17300
+    },
+    {
+     "date": "2026-07-09",
+     "price": 21400
     }
    ]
   },
@@ -3133,6 +3496,10 @@
     {
      "date": "2026-07-08",
      "price": 15070
+    },
+    {
+     "date": "2026-07-09",
+     "price": 15010
     }
    ]
   },
@@ -3152,6 +3519,10 @@
     {
      "date": "2026-07-08",
      "price": 1489
+    },
+    {
+     "date": "2026-07-09",
+     "price": 1491
     }
    ]
   },
@@ -3171,6 +3542,10 @@
     {
      "date": "2026-07-08",
      "price": 3620
+    },
+    {
+     "date": "2026-07-09",
+     "price": 3630
     }
    ]
   },
@@ -3202,6 +3577,10 @@
     {
      "date": "2026-07-08",
      "price": 5940
+    },
+    {
+     "date": "2026-07-09",
+     "price": 7720
     }
    ]
   },
@@ -3221,6 +3600,10 @@
     {
      "date": "2026-07-08",
      "price": 12620
+    },
+    {
+     "date": "2026-07-09",
+     "price": 13130
     }
    ]
   },
@@ -3241,6 +3624,10 @@
     {
      "date": "2026-07-08",
      "price": 14620
+    },
+    {
+     "date": "2026-07-09",
+     "price": 14630
     }
    ]
   },
@@ -3260,6 +3647,10 @@
     {
      "date": "2026-07-08",
      "price": 7140
+    },
+    {
+     "date": "2026-07-09",
+     "price": 7110
     }
    ]
   },
@@ -3279,35 +3670,180 @@
     {
      "date": "2026-07-08",
      "price": 8490
+    },
+    {
+     "date": "2026-07-09",
+     "price": 8490
+    }
+   ]
+  },
+  {
+   "name": "웨이버스",
+   "type": "discovery",
+   "market": "韓",
+   "flagDate": "2026-07-09",
+   "signals": [
+    "공공기관수주",
+    "AI플랫폼구축착수"
+   ],
+   "theme": "공공AX/GeoAI",
+   "status": "pending",
+   "checks": []
+  },
+  {
+   "name": "아스트(067390)",
+   "type": "discovery",
+   "market": "韓",
+   "flagDate": "2026-07-09",
+   "signals": [
+    "제작자증명인증"
+   ],
+   "theme": "항공·방산부품",
+   "status": "pending",
+   "checks": [],
+   "flagPrice": 497,
+   "priceLog": [
+    {
+     "date": "2026-07-09",
+     "price": 497
+    }
+   ]
+  },
+  {
+   "name": "서진시스템(178320)",
+   "type": "discovery",
+   "market": "韓",
+   "flagDate": "2026-07-09",
+   "signals": [
+    "ESS장비공급계약537억"
+   ],
+   "theme": "ESS/이차전지",
+   "status": "pending",
+   "checks": [],
+   "flagPrice": 41700,
+   "priceLog": [
+    {
+     "date": "2026-07-09",
+     "price": 41700
+    }
+   ]
+  },
+  {
+   "name": "브이원텍(251630)",
+   "type": "discovery",
+   "market": "韓",
+   "flagDate": "2026-07-09",
+   "signals": [
+    "자율제조진출발표"
+   ],
+   "theme": "피지컬AI/자율제조",
+   "status": "pending",
+   "checks": [],
+   "flagPrice": 3285,
+   "priceLog": [
+    {
+     "date": "2026-07-09",
+     "price": 3285
+    }
+   ]
+  },
+  {
+   "name": "하이젠알앤엠(160190)",
+   "type": "discovery",
+   "market": "韓",
+   "flagDate": "2026-07-09",
+   "signals": [
+    "밸류체인재거론",
+    "구동계국산공급망"
+   ],
+   "theme": "로봇/휴머노이드",
+   "status": "pending",
+   "checks": [],
+   "flagPrice": 16460,
+   "priceLog": [
+    {
+     "date": "2026-07-09",
+     "price": 16460
+    }
+   ]
+  },
+  {
+   "name": "본시스템즈",
+   "type": "discovery",
+   "market": "韓",
+   "flagDate": "2026-07-09",
+   "signals": [
+    "구동모듈양산착수",
+    "생산거점가동"
+   ],
+   "theme": "로봇/휴머노이드",
+   "status": "pending",
+   "checks": []
+  },
+  {
+   "name": "레이저쎌(412350)",
+   "type": "warning",
+   "market": "韓",
+   "flagDate": "2026-07-09",
+   "signals": [
+    "당일급등+열세테마"
+   ],
+   "theme": "반도체소재/장비",
+   "status": "pending",
+   "checks": [],
+   "flagPrice": 5000,
+   "priceLog": [
+    {
+     "date": "2026-07-09",
+     "price": 5000
+    }
+   ]
+  },
+  {
+   "name": "고영(098460)",
+   "type": "warning",
+   "market": "韓",
+   "flagDate": "2026-07-09",
+   "signals": [
+    "상한가당일반영"
+   ],
+   "theme": "로봇/휴머노이드",
+   "status": "pending",
+   "checks": [],
+   "flagPrice": 25350,
+   "priceLog": [
+    {
+     "date": "2026-07-09",
+     "price": 25350
     }
    ]
   }
  ],
  "stats": {
-  "verified": 57,
+  "verified": 60,
   "hit": 11,
-  "neutral": 15,
-  "miss": 31,
-  "hitRate": 19.3,
-  "avgD3ChangePct": 1.26,
-  "pending": 32,
-  "total": 89,
+  "neutral": 16,
+  "miss": 33,
+  "hitRate": 18.3,
+  "avgD3ChangePct": 1.12,
+  "pending": 37,
+  "total": 97,
   "byType": {
    "leading": {
-    "verified": 38,
+    "verified": 39,
     "hit": 8,
     "neutral": 9,
-    "miss": 21,
-    "hitRate": 21.1,
-    "avgD3ChangePct": 0.32
+    "miss": 22,
+    "hitRate": 20.5,
+    "avgD3ChangePct": 0.24
    },
    "discovery": {
-    "verified": 19,
+    "verified": 21,
     "hit": 3,
-    "neutral": 6,
-    "miss": 10,
-    "hitRate": 15.8,
-    "avgD3ChangePct": 3.12
+    "neutral": 7,
+    "miss": 11,
+    "hitRate": 14.3,
+    "avgD3ChangePct": 2.74
    }
   }
  }

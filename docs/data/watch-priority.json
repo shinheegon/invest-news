@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-07-09T09:30:51+09:00",
+ "updatedAt": "2026-07-09T15:58:29+09:00",
  "note": "대기 예측을 학습패턴(승세테마+구체촉발재)으로 점수화. 투자권유 아님.",
  "top": [
   {
@@ -52,6 +52,24 @@
    "type": "discovery",
    "theme": "로봇/휴머노이드",
    "flagDate": "2026-07-08",
+   "score": 3,
+   "concrete": false,
+   "why": "승세테마(로봇/휴머노이드) · 신호약함(테마첫거론류)"
+  },
+  {
+   "name": "하이젠알앤엠(160190)",
+   "type": "discovery",
+   "theme": "로봇/휴머노이드",
+   "flagDate": "2026-07-09",
+   "score": 3,
+   "concrete": false,
+   "why": "승세테마(로봇/휴머노이드) · 신호약함(테마첫거론류)"
+  },
+  {
+   "name": "본시스템즈",
+   "type": "discovery",
+   "theme": "로봇/휴머노이드",
+   "flagDate": "2026-07-09",
    "score": 3,
    "concrete": false,
    "why": "승세테마(로봇/휴머노이드) · 신호약함(테마첫거론류)"
@@ -133,6 +151,24 @@
    "why": "승세테마(로봇/휴머노이드) · 신호약함(테마첫거론류)"
   },
   {
+   "name": "하이젠알앤엠(160190)",
+   "type": "discovery",
+   "theme": "로봇/휴머노이드",
+   "flagDate": "2026-07-09",
+   "score": 3,
+   "concrete": false,
+   "why": "승세테마(로봇/휴머노이드) · 신호약함(테마첫거론류)"
+  },
+  {
+   "name": "본시스템즈",
+   "type": "discovery",
+   "theme": "로봇/휴머노이드",
+   "flagDate": "2026-07-09",
+   "score": 3,
+   "concrete": false,
+   "why": "승세테마(로봇/휴머노이드) · 신호약함(테마첫거론류)"
+  },
+  {
    "name": "디케이락(105740)",
    "type": "leading",
    "theme": "신재생에너지",
@@ -185,6 +221,24 @@
    "score": 2,
    "concrete": true,
    "why": "중립테마(기타) · 구체촉발재: 국책과제선정"
+  },
+  {
+   "name": "웨이버스",
+   "type": "discovery",
+   "theme": "기타",
+   "flagDate": "2026-07-09",
+   "score": 2,
+   "concrete": true,
+   "why": "중립테마(기타) · 구체촉발재: 공공기관수주"
+  },
+  {
+   "name": "서진시스템(178320)",
+   "type": "discovery",
+   "theme": "이차전지",
+   "flagDate": "2026-07-09",
+   "score": 2,
+   "concrete": true,
+   "why": "중립테마(이차전지) · 구체촉발재: ESS장비공급계약537억"
   },
   {
    "name": "덕산넵코어스(360030)",
@@ -455,6 +509,24 @@
    "score": 0,
    "concrete": false,
    "why": "중립테마(기타) · 신호약함(테마첫거론류)"
+  },
+  {
+   "name": "아스트(067390)",
+   "type": "discovery",
+   "theme": "우주/방산",
+   "flagDate": "2026-07-09",
+   "score": 0,
+   "concrete": false,
+   "why": "중립테마(우주/방산) · 신호약함(테마첫거론류)"
+  },
+  {
+   "name": "브이원텍(251630)",
+   "type": "discovery",
+   "theme": "피지컬AI",
+   "flagDate": "2026-07-09",
+   "score": 0,
+   "concrete": false,
+   "why": "중립테마(피지컬AI) · 신호약함(테마첫거론류)"
   },
   {
    "name": "와이씨켐(112290)",
