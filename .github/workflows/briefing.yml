@@ -52,12 +52,18 @@ jobs:
           git config user.name "invest-news-bot"
           git config user.email "actions@github.com"
           git add -A
-          if ! git diff --cached --quiet; then
-            git commit -m "briefing: $(TZ=Asia/Seoul date +%F\ %H:%M) [skip ci]"
-            git push
-          else
-            echo "변경 없음 — 커밋 생략"
+          if git diff --cached --quiet; then
+            echo "변경 없음 — 커밋 생략"; exit 0
           fi
+          git commit -m "briefing: $(TZ=Asia/Seoul date +%F\ %H:%M) [skip ci]"
+          # 동시 push(로컬 맥 등)로 밀려도 원격을 rebase로 흡수 후 재시도. 충돌 시 클라우드 생성분(ours) 우선.
+          for i in 1 2 3; do
+            if git push; then echo "push 성공"; exit 0; fi
+            echo "push 충돌 — 원격 반영 후 재시도 $i"
+            git pull --rebase -X ours origin main || git rebase --abort
+            sleep 3
+          done
+          echo "push 3회 실패"; exit 1
 
       - name: Vercel 배포 (토큰 있으면)
         if: ${{ env.VERCEL_TOKEN != '' }}
