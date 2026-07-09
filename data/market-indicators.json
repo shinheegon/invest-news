@@ -1,15 +1,71 @@
 {
-  "updatedAt": "2026-07-09T15:50:00+09:00",
-  "session": "AM",
-  "stock_fng": { "value": 45, "label": "Neutral", "source": "https://www.cnn.com/markets/fear-and-greed" },
-  "indices": [
-    { "name": "코스피", "value": "7,246.79", "change": "-5.35% (7/8 마감 · 7/9 +3.31% 반등 출발)", "source": "https://view.asiae.co.kr/article/2026070815340075965" },
-    { "name": "코스닥", "value": "785.00", "change": "-5.56% (7/8 마감 · 7/9 장중 800선 회복)", "source": "https://view.asiae.co.kr/article/2026070815344798363" },
-    { "name": "S&P 500", "value": "7,482.71", "change": "-0.28%", "source": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-july-8-2026" },
-    { "name": "나스닥", "value": "25,870.65", "change": "+0.20%", "source": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-july-8-2026" },
-    { "name": "다우", "value": "52,348.39", "change": "-1.09%", "source": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-july-8-2026" },
-    { "name": "VIX", "value": "16.90", "change": "+4.77%", "source": "https://historicaloptiondata.com/market-analysis-07-08-2026-1223-pm-et/" },
-    { "name": "美 10년물", "value": "4.56%", "change": "+0.08", "source": "https://www.federalreserve.gov/releases/h15/" },
-    { "name": "원/달러", "value": "1,498.5", "change": "-29.7 (한 달 만에 1,500 하회)", "source": "https://www.yna.co.kr/view/AKR20260708133500002" }
-  ]
+ "updatedAt": "2026-07-09T19:10:00+09:00",
+ "session": "PM",
+ "stock_fng": {
+  "value": 43,
+  "label": "Fear",
+  "source": "https://www.cnn.com/markets/fear-and-greed"
+ },
+ "indices": [
+  {
+   "name": "코스피",
+   "value": "7,291.91",
+   "change": "+0.62%",
+   "source": "https://www.yna.co.kr/view/AKR20260709151551008"
+  },
+  {
+   "name": "코스닥",
+   "value": "794.00",
+   "change": "+1.15%",
+   "source": "https://view.asiae.co.kr/article/2026070915544312657"
+  },
+  {
+   "name": "S&P 500",
+   "value": "7,482.71",
+   "change": "-0.28%",
+   "source": "https://finance.yahoo.com/markets/stocks/live/stock-market-today-wednedsay-july-8-230111117.html"
+  },
+  {
+   "name": "나스닥",
+   "value": "25,870.65",
+   "change": "+0.20%",
+   "source": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-july-8-2026"
+  },
+  {
+   "name": "다우",
+   "value": "52,348.39",
+   "change": "-1.09%",
+   "source": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-july-8-2026"
+  },
+  {
+   "name": "VIX",
+   "value": "16.13",
+   "change": "+3.6%",
+   "source": "https://finance.yahoo.com/markets/stocks/live/stock-market-today-wednedsay-july-8-230111117.html"
+  },
+  {
+   "name": "美 10년물",
+   "value": "4.57%",
+   "change": "+0.09",
+   "source": "https://www.cnbc.com/quotes/US10Y"
+  },
+  {
+   "name": "달러인덱스(DXY)",
+   "value": "101.0",
+   "change": "보합",
+   "source": "https://finance.yahoo.com/quote/DX-Y.NYB/"
+  },
+  {
+   "name": "원/달러",
+   "value": "1,506.1",
+   "change": "+7.6",
+   "source": "https://www.yna.co.kr/view/AKR20260709151900002"
+  },
+  {
+   "name": "브렌트유",
+   "value": "$79",
+   "change": "주간 +10%",
+   "source": "https://athens-times.com/oil-prices-surge-to-80-as-trump-declares-end-of-ceasefire-with-iran/"
+  }
+ ]
 }

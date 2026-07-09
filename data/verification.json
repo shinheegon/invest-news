@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-07-09T15:58:29+09:00",
+ "updatedAt": "2026-07-09T19:20:01+09:00",
  "cases": [
   {
    "name": "이지트로닉스(377330)",
@@ -3817,6 +3817,77 @@
      "price": 25350
     }
    ]
+  },
+  {
+   "name": "나우로보틱스(277990)",
+   "type": "leading",
+   "market": "韓",
+   "flagDate": "2026-07-09",
+   "signals": [
+    "수주",
+    "레퍼런스확대"
+   ],
+   "theme": "로봇/휴머노이드",
+   "status": "pending",
+   "checks": []
+  },
+  {
+   "name": "대동기어(008830)",
+   "type": "leading",
+   "market": "韓",
+   "flagDate": "2026-07-09",
+   "signals": [
+    "수주",
+    "양산전환"
+   ],
+   "theme": "기타",
+   "status": "pending",
+   "checks": [],
+   "flagPrice": 10030,
+   "priceLog": [
+    {
+     "date": "2026-07-09",
+     "price": 10030
+    }
+   ]
+  },
+  {
+   "name": "로보티즈(108490)",
+   "type": "discovery",
+   "market": "韓",
+   "flagDate": "2026-07-09",
+   "signals": [
+    "투자출자"
+   ],
+   "theme": "로봇/휴머노이드",
+   "status": "pending",
+   "checks": [],
+   "flagPrice": 204000,
+   "priceLog": [
+    {
+     "date": "2026-07-09",
+     "price": 204000
+    }
+   ]
+  },
+  {
+   "name": "기가비스(420770)",
+   "type": "warning",
+   "market": "韓",
+   "flagDate": "2026-07-09",
+   "signals": [
+    "이미급등"
+   ],
+   "theme": "반도체소재/장비",
+   "status": "pending",
+   "checks": [],
+   "flagPrice": 151500,
+   "priceLog": [
+    {
+     "date": "2026-07-09",
+     "price": 151500
+    }
+   ]
   }
  ],
  "stats": {
@@ -3826,8 +3897,8 @@
   "miss": 33,
   "hitRate": 18.3,
   "avgD3ChangePct": 1.12,
-  "pending": 37,
-  "total": 97,
+  "pending": 41,
+  "total": 101,
   "byType": {
    "leading": {
     "verified": 39,

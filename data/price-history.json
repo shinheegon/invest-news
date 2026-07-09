@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-07-09T15:58:29+09:00",
+ "updatedAt": "2026-07-09T19:20:01+09:00",
  "companies": {
   "이지트로닉스(377330)": {
    "market": "韓",
@@ -1323,6 +1323,42 @@
    "points": 1,
    "series": {
     "2026-07-09": 25350
+   }
+  },
+  "대동기어(008830)": {
+   "market": "韓",
+   "type": "leading",
+   "firstSeen": "2026-07-09",
+   "firstPrice": 10030,
+   "lastPrice": 10030,
+   "changePct": 0.0,
+   "points": 1,
+   "series": {
+    "2026-07-09": 10030
+   }
+  },
+  "로보티즈(108490)": {
+   "market": "韓",
+   "type": "discovery",
+   "firstSeen": "2026-07-09",
+   "firstPrice": 204000,
+   "lastPrice": 204000,
+   "changePct": 0.0,
+   "points": 1,
+   "series": {
+    "2026-07-09": 204000
+   }
+  },
+  "기가비스(420770)": {
+   "market": "韓",
+   "type": "warning",
+   "firstSeen": "2026-07-09",
+   "firstPrice": 151500,
+   "lastPrice": 151500,
+   "changePct": 0.0,
+   "points": 1,
+   "series": {
+    "2026-07-09": 151500
    }
   }
  }
