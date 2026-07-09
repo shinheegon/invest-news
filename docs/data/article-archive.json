@@ -3,6 +3,12 @@
   "SK하이닉스(000660)": {
    "articles": [
     {
+     "date": "2026-07-10",
+     "source": "한국경제·증권",
+     "title": "218만원 SK하이닉스에 '목표가 185만원' 제시한 증권사",
+     "link": "https://www.hankyung.com/article/2026070965207"
+    },
+    {
      "date": "2026-07-09",
      "source": "한국경제·경제",
      "title": "'43조 잭팟' SK하이닉스…\"한국서 팔아라\" 이유 알고보니",
@@ -715,12 +721,6 @@
      "source": "아시아경제",
      "title": "'SK하이닉스 또 치솟았다' 코스피 9100선 회복…삼전·닉스 시총 30조원차",
      "link": "https://view.asiae.co.kr/article/2026062210021588048"
-    },
-    {
-     "date": "2026-06-21",
-     "source": "한국경제·증권",
-     "title": "\"삼성·SK하이닉스에 '이것' 더해라\"…수익률 78% 낸 1위의 승부수",
-     "link": "https://www.hankyung.com/article/202606185415i"
     }
    ]
   },
@@ -6437,6 +6437,12 @@
   "LS(006260)": {
    "articles": [
     {
+     "date": "2026-07-10",
+     "source": "CNBC·Finance",
+     "title": "Goldman Sachs wins $70 billion in asset management deals with Verizon, Lockheed Martin",
+     "link": "https://www.cnbc.com/2026/07/09/goldman-sachs-asset-management-deals-verizon-lockheed-martin.html"
+    },
+    {
      "date": "2026-07-09",
      "source": "이데일리·경제",
      "title": "LS전선, 국내 최고 송전용량 HVDC 해저케이블 상용화 시동",
@@ -8835,6 +8841,12 @@
   "SK(034730)": {
    "articles": [
     {
+     "date": "2026-07-10",
+     "source": "한국경제·증권",
+     "title": "218만원 SK하이닉스에 '목표가 185만원' 제시한 증권사",
+     "link": "https://www.hankyung.com/article/2026070965207"
+    },
+    {
      "date": "2026-07-09",
      "source": "한국경제·경제",
      "title": "공장에 비싼 로봇 들여놨더니 '말썽'…SK AX가 찾은 해법",
@@ -9532,6 +9544,18 @@
   },
   "NC(036570)": {
    "articles": [
+    {
+     "date": "2026-07-10",
+     "source": "MarketWatch",
+     "title": "Only 5% of U.S. adults can ace this 8-question financial-literacy test. Can you?",
+     "link": "https://www.marketwatch.com/story/only-5-of-u-s-adults-can-ace-this-8-question-financial-literacy-test-can-you-93a57cc6?mod=mw_rss_topstories"
+    },
+    {
+     "date": "2026-07-10",
+     "source": "MarketWatch",
+     "title": "The dot-com crash was a $5 trillion blip. Why the next financial crisis could hit 4 times harder.",
+     "link": "https://www.marketwatch.com/story/the-dot-com-crash-was-a-5-trillion-blip-why-the-next-financial-crisis-could-hit-4-times-harder-29f4aa57?mod=mw_rss_topstories"
+    },
     {
      "date": "2026-07-09",
      "source": "이데일리·경제",
@@ -10946,6 +10970,12 @@
   },
   "NH투자증권(005940)": {
    "articles": [
+    {
+     "date": "2026-07-10",
+     "source": "한국경제·증권",
+     "title": "NH투자증권, 인도 증권사에 1400억 투자",
+     "link": "https://www.hankyung.com/article/2026070962771"
+    },
     {
      "date": "2026-07-09",
      "source": "한국경제·증권",
@@ -12605,5 +12635,5 @@
    ]
   }
  },
- "updatedAt": "2026-07-09T19:42:09+09:00"
+ "updatedAt": "2026-07-10T02:30:47+09:00"
 }
