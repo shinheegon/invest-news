@@ -81,6 +81,12 @@
      "link": "https://view.asiae.co.kr/article/2026070915415637771"
     },
     {
+     "date": "2026-07-09",
+     "source": "연합뉴스·경제",
+     "title": "'SK하이닉스 200만원 넘는데'…BNK증권, 목표가 185만원 제시",
+     "link": "https://www.yna.co.kr/view/AKR20260709189600008"
+    },
+    {
      "date": "2026-07-08",
      "source": "아시아경제",
      "title": "“SK하이닉스, 슈퍼 모멘텀…목표주가 390만원으로 상향”[클릭e종목]",
@@ -715,12 +721,6 @@
      "source": "한국경제·증권",
      "title": "\"삼성·SK하이닉스에 '이것' 더해라\"…수익률 78% 낸 1위의 승부수",
      "link": "https://www.hankyung.com/article/202606185415i"
-    },
-    {
-     "date": "2026-06-20",
-     "source": "한국경제·증권",
-     "title": "\"SK하이닉스 대신 담았는데\"…한 달 새 40% 넘게 오른 기업 [종목+]",
-     "link": "https://www.hankyung.com/article/2026061971246"
     }
    ]
   },
@@ -8967,6 +8967,12 @@
      "link": "https://www.marketwatch.com/story/sk-hynix-nasdaq-listing-may-become-the-second-largest-equity-offering-ever-trailing-only-spacexs-8dca5afa?mod=mw_rss_topstories"
     },
     {
+     "date": "2026-07-09",
+     "source": "연합뉴스·경제",
+     "title": "'SK하이닉스 200만원 넘는데'…BNK증권, 목표가 185만원 제시",
+     "link": "https://www.yna.co.kr/view/AKR20260709189600008"
+    },
+    {
      "date": "2026-07-08",
      "source": "파이낸셜뉴스",
      "title": "\"삼성·SK 비중 줄이고 '이 주식' 사라\"...'반도체 저승사자' 모건스탠리의 경고",
@@ -12383,6 +12389,12 @@
      "source": "아시아경제",
      "title": "- 웨이버스(336060)·소 [첫등장 D-0·누적 1회] · [공공 AI SW] 전기안전공사 GeoAI 플랫폼 착수.",
      "link": "https://view.asiae.co.kr/article/2026070909101079167"
+    },
+    {
+     "date": "2026-07-09",
+     "source": "한국경제·증권",
+     "title": "웨이버스 \"전기안전공사 AI 플랫폼 구축 사업 착수\"",
+     "link": "https://www.hankyung.com/article/2026070953056"
     }
    ]
   },
@@ -12395,7 +12407,203 @@
      "link": "https://view.asiae.co.kr/article/2026070814515335993"
     }
    ]
+  },
+  "엘앤에프(066970)": {
+   "articles": [
+    {
+     "date": "2026-07-09",
+     "source": "한국경제·경제",
+     "title": "엘앤에프, 새만금 전구체 생산시설 가동한다",
+     "link": "https://www.hankyung.com/article/2026070963031"
+    }
+   ]
+  },
+  "리바이스(LEVI)": {
+   "articles": [
+    {
+     "date": "2026-07-09",
+     "source": "한국경제·증권",
+     "title": "'300달러 데님' 불티…리바이스 실적전망 상향",
+     "link": "https://www.hankyung.com/article/2026070962221"
+    }
+   ]
+  },
+  "필립모리스(PM)": {
+   "articles": [
+    {
+     "date": "2026-07-09",
+     "source": "한국경제·증권",
+     "title": "담배 안 피우는데 주가는 뛴다…필립모리스에 무슨 일이",
+     "link": "https://www.hankyung.com/article/202607081593i"
+    }
+   ]
+  },
+  "주성코퍼레이션(109070)": {
+   "articles": [
+    {
+     "date": "2026-07-09",
+     "source": "연합뉴스·경제",
+     "title": "주성코퍼레이션, 150억원 유상증자…비앤피주성에 제3자배정",
+     "link": "https://www.yna.co.kr/view/AKR20260709184500008"
+    }
+   ]
+  },
+  "레메디(476590)": {
+   "articles": [
+    {
+     "date": "2026-07-09",
+     "source": "연합뉴스·경제",
+     "title": "'의료용 기기 제조' 레메디 코스닥 신규상장…13일부터 거래",
+     "link": "https://www.yna.co.kr/view/AKR20260709177300008"
+    },
+    {
+     "date": "2026-07-09",
+     "source": "아시아경제",
+     "title": "레메디, 인도 결핵진단·퇴치 사업에 '휴대용 엑스레이' 추가 공급",
+     "link": "https://view.asiae.co.kr/article/2026070908085933600"
+    }
+   ]
+  },
+  "HS효성첨단소재(298050)": {
+   "articles": [
+    {
+     "date": "2026-07-09",
+     "source": "연합뉴스·경제",
+     "title": "HS효성첨단소재 \"벨기에 계열사 주식 345억원에 추가취득\"",
+     "link": "https://www.yna.co.kr/view/AKR20260709172500008"
+    }
+   ]
+  },
+  "레이저쎌(412350)": {
+   "articles": [
+    {
+     "date": "2026-07-09",
+     "source": "연합뉴스·경제",
+     "title": "[특징주] 레이저쎌 10%대↑…코스닥 '소부장' 반등 마감(종합)",
+     "link": "https://www.yna.co.kr/view/AKR20260709057651008"
+    }
+   ]
+  },
+  "파수(150900)": {
+   "articles": [
+    {
+     "date": "2026-07-09",
+     "source": "아시아경제",
+     "title": "파수 AI, '랩소디 코어' 출시…\"AI 활용 위한 문서관리 체계 구현\"",
+     "link": "https://view.asiae.co.kr/article/2026070910245673234"
+    }
+   ]
+  },
+  "코오롱글로벌(003070)": {
+   "articles": [
+    {
+     "date": "2026-07-09",
+     "source": "아시아경제",
+     "title": "코오롱글로벌, 841억원 규모 삼성전자 평택캠퍼스 부대동 건설 공사 수주",
+     "link": "https://view.asiae.co.kr/article/2026070910082723720"
+    }
+   ]
+  },
+  "한탑(002680)": {
+   "articles": [
+    {
+     "date": "2026-07-09",
+     "source": "아시아경제",
+     "title": "한탑, 주식병합 완료 후 거래 재개…\"기업가치 재평가 기대\"",
+     "link": "https://view.asiae.co.kr/article/2026070908512583832"
+    }
+   ]
+  },
+  "브이원텍(251630)": {
+   "articles": [
+    {
+     "date": "2026-07-09",
+     "source": "아시아경제",
+     "title": "브이원텍, 첨단산업 자율제조 진출 본격화",
+     "link": "https://view.asiae.co.kr/article/2026070908475756190"
+    }
+   ]
+  },
+  "아스트(067390)": {
+   "articles": [
+    {
+     "date": "2026-07-09",
+     "source": "아시아경제",
+     "title": "아스트, 국토교통부로부터 제작자증명 인증서 획득",
+     "link": "https://view.asiae.co.kr/article/2026070908253245822"
+    }
+   ]
+  },
+  "오리엔트바이오(002630)": {
+   "articles": [
+    {
+     "date": "2026-07-09",
+     "source": "아시아경제",
+     "title": "오리엔트바이오, 여성형 탈모 시장 정조준…차세대 발모신약 OND-1 개발 본격화",
+     "link": "https://view.asiae.co.kr/article/2026070908231930359"
+    }
+   ]
+  },
+  "에프엔씨엔터(173940)": {
+   "articles": [
+    {
+     "date": "2026-07-09",
+     "source": "아시아경제",
+     "title": "[클릭 e종목]\"피원하모니가 이끈다\"…에프엔씨엔터, 멀티 IP로 실적 반등 기대",
+     "link": "https://view.asiae.co.kr/article/2026070907545605868"
+    }
+   ]
+  },
+  "코스맥스(192820)": {
+   "articles": [
+    {
+     "date": "2026-07-09",
+     "source": "아시아경제",
+     "title": "[클릭 e종목]\"국내에 이어 해외도 탄탄…코스맥스 목표가↑\"",
+     "link": "https://view.asiae.co.kr/article/2026070814454512333"
+    }
+   ]
+  },
+  "코스메카코리아(241710)": {
+   "articles": [
+    {
+     "date": "2026-07-09",
+     "source": "아시아경제",
+     "title": "[클릭 e종목]\"코스메카코리아, 신규 브랜드 경쟁력 확보…목표가↑\"",
+     "link": "https://view.asiae.co.kr/article/2026070815573831837"
+    }
+   ]
+  },
+  "파커스(065690)": {
+   "articles": [
+    {
+     "date": "2026-07-09",
+     "source": "아시아경제",
+     "title": "파커스, 엘포톤 주식 50억원 규모 추가 취득",
+     "link": "https://view.asiae.co.kr/article/2026070814474024006"
+    }
+   ]
+  },
+  "노머스(464080)": {
+   "articles": [
+    {
+     "date": "2026-07-09",
+     "source": "아시아경제",
+     "title": "노머스, 30억원 규모 자사주 취득 완료 및 소각 결정",
+     "link": "https://view.asiae.co.kr/article/2026070813442669195"
+    }
+   ]
+  },
+  "지니언스(263860)": {
+   "articles": [
+    {
+     "date": "2026-07-09",
+     "source": "아시아경제",
+     "title": "이동범 지니언스 대표, 정보보호 유공 국민훈장 '석류장' 수훈",
+     "link": "https://view.asiae.co.kr/article/2026070813245639487"
+    }
+   ]
   }
  },
- "updatedAt": "2026-07-09T19:02:41+09:00"
+ "updatedAt": "2026-07-09T19:42:09+09:00"
 }

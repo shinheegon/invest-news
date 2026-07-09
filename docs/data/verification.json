@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-07-09T19:20:01+09:00",
+ "updatedAt": "2026-07-09T19:43:09+09:00",
  "cases": [
   {
    "name": "이지트로닉스(377330)",
@@ -3896,7 +3896,7 @@
   "neutral": 16,
   "miss": 33,
   "hitRate": 18.3,
-  "avgD3ChangePct": 1.12,
+  "avgD3ChangePct": 1.11,
   "pending": 41,
   "total": 101,
   "byType": {
