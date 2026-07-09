@@ -1,98 +1,98 @@
-# 📰 투자 브리핑 — 2026-07-09 오후
-*생성: 2026-07-09 19:45 KST · 회차: PM*
+# 📰 투자 브리핑 — 2026-07-10 오전
+*생성: 2026-07-10 07:05 KST · 회차: AM*
 
 ## 🎯 한눈에 보기
-- **코스피 480P 급등락 끝에 +0.62%(7,291.91) 마감 — 반등은 지켰지만 힘은 뺐다**: +3.31% 출발 후 장중 하락 전환까지 갔다가 강보합 마감. 코스닥 794.00(+1.15%). 외국인 이틀째 순매수, 개인 2조 순매도. [한국경제](https://www.hankyung.com/article/202607094492i) · [연합뉴스](https://www.yna.co.kr/view/AKR20260709151551008)
-- **내일 밤(한국시간) SK하이닉스 ADR 나스닥 데뷔(티커 SKHY) — 청약 260조원**: 사상 최대급 공모(294억달러), 최태원 회장 오프닝 벨. 하이닉스 +5%, '코리아 디스카운트 해소' 시금석. [한국경제](https://www.hankyung.com/article/2026070963211) · [연합뉴스](https://www.yna.co.kr/view/AKR20260709047751008) · [MarketWatch](https://www.marketwatch.com/story/sk-hynix-nasdaq-listing-may-become-the-second-largest-equity-offering-ever-trailing-only-spacexs-8dca5afa?mod=mw_rss_topstories)
-- **한은 7월 인상 사실상 확정 국면**: 씨티 "7/16 만장일치 0.25%p 인상, 내년 최종 3.5%" — 총재도 "적절한 시기 인상 필요". 국고3년 3.778%. [연합뉴스](https://www.yna.co.kr/view/AKR20260709149800002) · [이데일리](http://www.edaily.co.kr/news/newspath.asp?newsid=04795366645512880) · [아주경제](https://www.ajunews.com/view/20260709103819335)
-- **중동 재긴장 지속 — 유가 브렌트 $79(주간 +10%), 환율 하루 만에 1,500원대 복귀(1,506.1원)**: 항공주 하락·원유 ETF 급등. 美 10년물 4.57%로 물가 경로 재압박. [연합뉴스](https://www.yna.co.kr/view/AKR20260709151900002) · [연합뉴스](https://www.yna.co.kr/view/AKR20260709050751008) · [NBC](https://www.nbcnews.com/business/business-news/oil-prices-surge-stocks-tumble-trump-iran-ceasefire-over-hormuz-rcna353446)
-- **IMF 韓 성장률 2.6% 상향(30개국 중 최대폭) — 李대통령 "반도체·AI 수출 덕분"**: ADB도 2.6%. 급락장 반박 논거로 작동. [한국경제](https://www.hankyung.com/article/2026070839067) · [연합뉴스](https://www.yna.co.kr/view/AKR20260709101900001)
+- **밤사이 미국 반도체 주도 반등 — 나스닥 +1.30%(26,206.89), S&P500 +0.81%(7,543.64), 다우 +0.27%(52,487.41)**: 유가 반락 + 반도체 ETF SMH +2.5%(마이크론 +4.5% 주도). 오늘 한국 반도체에 갭업 요인. [TheStreet](https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-july-9-2026) · [Yahoo](https://finance.yahoo.com/markets/live/stock-market-today-thursday-july-9-us-strikes-iran-223149196.html)
+- **오늘 밤 SK하이닉스 ADR 나스닥 거래 개시 — 주문 7배 초과, 294억달러 조달**: 오늘 밤은 임시 티커 SKHYV(when-issued), 정식 SKHY는 7/13부터. 시총 1조달러 기업의 미국 직상장 — 데뷔가가 오늘·다음주 반도체 수급의 결정 변수. [CNBC](https://www.cnbc.com/2026/07/09/meet-sk-hynix-the-trillion-dollar-chipmaker-debuting-on-us-markets-.html) · [Yahoo](https://finance.yahoo.com/markets/stocks/articles/sk-hynix-nasdaq-adr-offering-115717222.html)
+- **유가 하루 만에 반락(WTI $73.5, -2%) — 트럼프 "전쟁 재개 아냐, 장기전 안 간다"**: 전일 "휴전 끝" 발언으로 6% 급등했던 유가가 되돌림. 다만 호르무즈 불안은 상수. [연합뉴스](https://www.yna.co.kr/view/AKR20260710005100072) · [다음/연합](https://v.daum.net/v/20260709062455260)
+- **한은 7월 인상 기정사실화 — 신현송 총재 "기준금리 인상 필요"(금통위 D-6)**: 씨티 "만장일치 인상·내년 최종 3.5%", 6월 가계대출 7.6조 급증(1년10개월 최대)이 명분. [이데일리](http://www.edaily.co.kr/news/newspath.asp?newsid=03552246645512880) · [연합뉴스](https://www.yna.co.kr/view/AKR20260709085900002)
+- **美 Fed는 '집안싸움' 지속 — 6월 의사록서 인상파·인하파 분열 확인**: 워시 의장, 태스크포스에 앤드리슨·맥밀런 영입. 시장은 7월 동결 70~80% 반영. [CNBC](https://www.cnbc.com/2026/07/08/fed-minutes-june-2026-.html) · [CNBC](https://www.cnbc.com/2026/07/09/kevin-warsh-names-members-of-his-federal-reserve-task-forces-including-marc-andreessen-doug-mcmillon.html)
 
 ## ⭐ 관심종목 동향
-- **삼성전자(005930)**: 강보합(+0.18%) — 반등 주도는 하이닉스에 양보. [단독] PC용 AI칩 출사표로 엔비디아·퀄컴과 경쟁 구도 진입 보도. 삼전닉스 레버리지 포함 거래 비중 83% 쏠림 지속. [연합뉴스](https://www.yna.co.kr/view/AKR20260709047751008) · [한국경제](https://www.hankyung.com/article/2026070963411) · [한국경제](https://www.hankyung.com/article/2026070961047)
-- **SK하이닉스(000660)**: +5% — ADR 상장 D-1, 청약 260조. 키옥시아 투자 6조 현금화(지분 15% 잔여) 보도. KB "TSMC 사례처럼 밸류 재평가 기회". [연합뉴스](https://www.yna.co.kr/view/AKR20260709047751008) · [한국경제](https://www.hankyung.com/article/2026070963221) · [한국경제](https://www.hankyung.com/article/2026070941476)
-- **한미반도체(042700)**: 개별 뉴스 없음 — 소부장 반등(레이저쎌 +10%대) 동조 흐름. TC본더 적용처 확장 리포트(7/2)의 수주 논리 유지. [연합뉴스](https://www.yna.co.kr/view/AKR20260709057651008) · [다음/아시아경제](https://v.daum.net/v/20260702084432066?f=p)
-- **키워드**: HBM — 메모리 정점 논쟁 "끝났다 vs 더 간다" 팽팽 [아시아경제](https://view.asiae.co.kr/article/2026070810175560990) / AI데이터센터 — 네오클라우드 "AI 버블의 핵" 경계론 [머니투데이](https://news.mt.co.kr/mtview.php?no=2025091909134753593) / 금리인하 → **금리인상**으로 국면 전환(씨티·총재 발언) [연합뉴스](https://www.yna.co.kr/view/AKR20260709149800002).
+- **삼성전자(005930)**: PC용 AI칩 출사표 — 400조 시장에서 엔비디아·퀄컴과 경쟁(단독 보도). 로봇청소기 '안방 탈환'도 병행. [한국경제](https://www.hankyung.com/article/2026070963411) · [한국경제](https://www.hankyung.com/article/2026070963231)
+- **SK하이닉스(000660)**: 오늘 밤 ADR 임시거래(SKHYV) 개시(7배 초과 주문) + 키옥시아 투자 6조 현금화·지분 15% 보유. 반면 BNK증권 목표가 185만원(현재가 218만원 아래) — 고점 논쟁. [한국경제](https://www.hankyung.com/article/2026070963221) · [연합뉴스](https://www.yna.co.kr/view/AKR20260709189600008)
+- **한미반도체(042700)**: SK하이닉스 TC본더 추가 발주(HBM4 확대) + 2.5D TC본더 40 출시로 적용처 확장 — HBM 캐파 사이클 수혜 지속. [EBN](https://www.ebn.co.kr/news/articleView.html?idxno=1711632) · [이투데이](https://www.etoday.co.kr/news/view/2598613)
+- **키워드(HBM/금리인하→인상/AI데이터센터)**: HBM4 발주 재개(위), 금리는 한·미 모두 '인상' 담론으로 역전(아래 거시 참조), AI데이터센터는 언급 빈도 급감(테마 자금 이탈).
 
 ## 📊 거시경제 지표·발표
-**미국** *(7/8 마감 기준)*
-- 다우 52,348.39(-1.09%) · S&P500 7,482.71(-0.28%) · 나스닥 25,870.65(+0.20%) — 유가 급등이 다우 압박, 반도체는 방어. [TheStreet](https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-july-8-2026) · [Yahoo](https://finance.yahoo.com/markets/stocks/live/stock-market-today-wednedsay-july-8-230111117.html)
-- VIX 16.13(+3.6%) · 美 10년물 4.57% · 공포탐욕 43(Fear) — 유가발 인플레 재점화로 위험선호 위축. [Yahoo](https://finance.yahoo.com/markets/stocks/live/stock-market-today-wednedsay-july-8-230111117.html) · [CNBC US10Y](https://www.cnbc.com/quotes/US10Y) · [CNN](https://www.cnn.com/markets/fear-and-greed)
-- 6월 비농업 +5.7만(예상 +11.5만↓) · 실업률 4.2% · 참가율 50년 최저 — 고용은 식는데 근원 PCE 3.4%로 물가는 고착: 연준 딜레마 심화. [CNBC](https://www.cnbc.com/2026/07/02/jobs-report-june-2026-.html) · [CNBC](https://www.cnbc.com/2026/07/08/fed-minutes-june-2026-.html)
-- 예정: **7/10(현지) SK하이닉스 ADR 데뷔** · 7/14 6월 CPI · 클리블랜드 연은 "AI가 인플레 부채질, 인상 필요할 수도" 발언 후속 주시. [CNBC](https://www.cnbc.com/2026/06/30/cleveland-fed-president-hammack-sees-ai-fueling-inflation-says-rate-hikes-may-be-necessary.html)
+**미국**
+- 6월 FOMC 의사록: 위원들 금리 '방향' 자체에 분열(인상파 vs 인하파) — 7월 동결 확률 시장 70~80% 반영. [CNBC](https://www.cnbc.com/2026/07/08/fed-minutes-june-2026-.html)
+- 6월 비농업 +5.7만(예상 하회) · 실업률 4.2% · 참가율 50년 최저 — 고용 냉각 vs 근원 PCE 3.4%(5월)의 스태그플레이션형 조합. [CNBC](https://www.cnbc.com/2026/07/02/jobs-report-june-2026-.html) · [CNBC](https://www.cnbc.com/2026/06/25/pce-inflation-report-may-2026-.html)
+- 美 10년물 4.56%(7/8 확정, 7/9 장중 4.6% 터치) · DXY 101.06 · VIX 16.90. [FRED](https://fred.stlouisfed.org/series/DGS10) · [Investing](https://www.investing.com/indices/usdollar-historical-data) · [Yahoo](https://finance.yahoo.com/quote/%5EVIX/history/)
+- 中 6월 CPI 둔화 · PPI는 4년래 최고 근접 — 디플레 수요 vs 원가 인플레 혼조. [CNBC](https://www.cnbc.com/2026/07/09/china-cpi-ppi-june-inflation-iran-war-.html)
 
-**한국** *(7/9 마감)*
-- 코스피 7,291.91(+0.62%) · 코스닥 794.00(+1.15%, 장중 800 회복 후 반납) — 나흘 만의 반등이나 상승폭 대부분 반납. [연합뉴스](https://www.yna.co.kr/view/AKR20260709151551008) · [아시아경제](https://view.asiae.co.kr/article/2026070915544312657)
-- 원/달러 1,506.1원(+7.6) — 중동 긴장에 반등, 1,500원 재돌파. 국고3년 3.778% 혼조. [연합뉴스](https://www.yna.co.kr/view/AKR20260709151900002) · [연합뉴스](https://www.yna.co.kr/view/AKR20260709169100008)
-- 6월 은행 가계대출 +7.6조(1년 10개월 최대) → 신한도 대출 조이기 — 7월 인상의 국내 근거. [연합뉴스](https://www.yna.co.kr/view/AKR20260709085900002) · [연합뉴스](https://www.yna.co.kr/view/AKR20260709110300002)
-- 정부, 유로화 외평채 17억유로 '최저 가산금리' 발행 성공 — 외화 조달 여건 양호 신호. [파이낸셜뉴스](https://www.fnnews.com/news/202607091004117061)
+**한국**
+- 코스피 7,291.91(+0.62%) · 코스닥 794.00(+1.15%) — 외국인 이틀째 순매수, 개인 2조 순매도. [연합뉴스](https://www.yna.co.kr/view/AKR20260709151551008) · [아시아경제](https://view.asiae.co.kr/article/2026070915354783447)
+- 원/달러 1,506.1원(+7.6) — 중동 긴장에 1,500원대 복귀. 총재 "원화 강세 전환 여지 상당". [연합뉴스](https://www.yna.co.kr/view/AKR20260709149600002) · [이데일리](http://www.edaily.co.kr/news/newspath.asp?newsid=03893366645512880)
+- 6월 은행 가계대출 +7.6조(1년10개월 최대) — 은행권 전방위 조이기(신한 모기지보험 제한). [연합뉴스](https://www.yna.co.kr/view/AKR20260709085900002) · [연합뉴스](https://www.yna.co.kr/view/AKR20260709110300002)
+- 정부, 역대 최대 유로화 외평채 17억유로 최저 가산금리 발행 성공. ADB 韓 성장률 2.6%·물가 2.7% 전망. [이데일리](http://www.edaily.co.kr/news/newspath.asp?newsid=03647366645512880) · [파이낸셜뉴스](https://www.fnnews.com/news/202607090928171616)
 
 ## 🗣️ 주요 인물 발언 (팩트)
-- **신현송(한은 총재)**: "증시 추세적 하락 전환 가능성 낮다" · "원화 강세로 돌아설 여지 상당" · "후반기 외국인 매도세 잦아들 것" · 스테이블코인 "은행 중심 발행으로 조속 도입" — 7/16 인상을 앞두고 시장 진화 + 긴축 예고 병행. [한국경제](https://www.hankyung.com/article/2026070962841) · [연합뉴스](https://www.yna.co.kr/view/AKR20260709100900002) · [연합뉴스](https://www.yna.co.kr/view/AKR20260709100951002) · [이데일리](http://www.edaily.co.kr/news/newspath.asp?newsid=04050806645512880)
-- **트럼프(美 대통령)**: 이란 휴전 "끝났다…협상은 낭비"(NATO 정상회의) → 유가 +6% 트리거. 단 "전쟁 재개는 아냐"로 수위 조절. [NBC](https://www.nbcnews.com/business/business-news/oil-prices-surge-stocks-tumble-trump-iran-ceasefire-over-hormuz-rcna353446) · [한국경제](https://www.hankyung.com/article/202607094125i)
-- **이재명(대통령)**: IMF 상향에 "반도체·AI 수출 호조 덕분…'모두의 성장' 되도록 노력". [연합뉴스](https://www.yna.co.kr/view/AKR20260709101900001) · [뉴스핌](https://www.newspim.com/news/view/20260709000646)
-- **케빈 워시(Fed 의장)**: "인플레 너무 높다"(신트라) — 연내 인상 점도표 9명, 7월은 시기상조 우세. [CNBC](https://www.cnbc.com/2026/07/01/kevin-warsh-ecb-forum-live-updates.html)
-- **젠슨 황(엔비디아)**: 시총 1조달러 증발에 "하락은 미스터리…할인가에 사게 돼 기뻐해야" — 저평가 논쟁 재점화(31배 P/E vs 매출 +70%). [한국경제](https://www.hankyung.com/article/2026070957417) · [Yahoo](https://finance.yahoo.com/markets/stocks/articles/nvidia-ceo-jensen-huang-isn-140002655.html)
-- **일론 머스크(테슬라/스페이스X)**: 스페이스X 나스닥100 편입 이벤트 소화 중 — 편입발 475억달러 ETF 수요에도 시초가 하회, 우주 ETF 동반 조정. [한국경제](https://www.hankyung.com/article/202607095789i) · [한국경제](https://www.hankyung.com/article/202607095491i)
+- **트럼프(美 대통령)**: "이란 공격해도 장기전 안 간다, 유가도 하락할 것" — 전일 '휴전 끝' 발언 하루 만에 수위 조절, 유가 2% 반락. [다음/연합](https://v.daum.net/v/20260709062455260) · [파이낸셜뉴스](https://www.fnnews.com/news/202607082225531146)
+- **신현송(한은 총재)**: "기준금리 인상 필요"(금통위 일주일 전) · "증시 추세적 하락 전환 가능성 낮다" · "원화 스테이블코인 은행 중심으로 조속 도입". [이데일리](http://www.edaily.co.kr/news/newspath.asp?newsid=03552246645512880) · [한국경제](https://www.hankyung.com/article/2026070962841) · [이데일리](http://www.edaily.co.kr/news/newspath.asp?newsid=04050806645512880)
+- **케빈 워시(Fed 의장)**: 연준 태스크포스에 마크 앤드리슨·더그 맥밀런 등 영입 — 7월 금리 결정 힌트는 거부 지속. [CNBC](https://www.cnbc.com/2026/07/09/kevin-warsh-names-members-of-his-federal-reserve-task-forces-including-marc-andreessen-doug-mcmillon.html)
+- **젠슨 황(엔비디아 CEO)**: "내 소프트웨어 엔지니어 전원이 파이썬 코드보다 AI 에이전트 만들기를 선호" — 에이전틱 AI 수요 서사 지속. [Benzinga](https://www.benzinga.com/markets/tech/26/07/60351886/nvidia-ceo-jensen-huang-says-software-engineers-would-rather-build-ai-agents-than-write-python-code)
+- **이재명(대통령)**: 한·몽골 CEPA 원칙적 타결 — "2030년 교역 10억달러, 핵심광물·공급망 협력 강화". [파이낸셜뉴스](https://www.fnnews.com/news/202607091854159346)
 
 ## 🏭 산업·사업 전망
-- **로봇/휴머노이드(승세 지속)**: 나우로보틱스 AHC 수주, 로보티즈 181억 로봇펀드 출자, 티로보틱스 하노이 법인·방폐장 무인화, Ant그룹 휴머노이드 딜 12건 — 급락장에서도 재료 연쇄 유일 테마. [아시아경제](https://view.asiae.co.kr/article/2026070813295265528) · [아시아경제](https://view.asiae.co.kr/article/2026070814500028519) · [CNBC](https://www.cnbc.com/2026/07/01/alibaba-affiliate-ant-group-enters-the-humanoid-robot-market-with-12-deals.html)
-- **보안(신규 부상)**: KT 소액결제·롯데카드 유출 후폭풍 — 에스투더블유 상장 첫날 따블, 케이사인·라온시큐어·이니텍 정책 수혜 부각. [머니투데이](https://news.mt.co.kr/mtview.php?no=2025091910213571002) · [아시아경제](https://view.asiae.co.kr/article/2026070813330391043)
-- **스테이블코인/온체인 금융**: 총재 "은행 중심 발행" + 현대카드, 현대차 해외법인 간 송금 실증 + 공정위, 미래에셋의 코빗 인수 승인 — 법제화 시동. [이데일리](http://www.edaily.co.kr/news/newspath.asp?newsid=03404646645512880) · [한국경제](https://www.hankyung.com/article/2026070961741) · [한국경제](https://www.hankyung.com/article/2026070961671)
-- **방산**: 록히드마틴 "X2 헬기 한국 공동개발·생산·수출" + 라파엘 CEO "한국과 협력 희망" + 글로벌 함정 MRO 수출 협의체 출범 + K-DEX 12월 개최. [한국경제](https://www.hankyung.com/article/202607095907i) · [연합뉴스](https://www.yna.co.kr/view/AKR20260709146400051)
-- **ESS/전력**: K배터리 새 먹거리 ESS 병목 점검 + 서진시스템 537억 수주 + 엘앤에프 새만금 전구체 가동 + LS전선 HVDC 해저케이블 상용화. [한국경제](https://www.hankyung.com/article/2026070963001) · [아시아경제](https://view.asiae.co.kr/article/2026070814515335993) · [한국경제](https://www.hankyung.com/article/2026070963031)
+- **반도체/HBM**: 마이크론 +4.5%가 미국 랠리 주도 — 메모리 고점론 반박. SK하이닉스 HBM4 TC본더 추가 발주, 삼성 PC용 AI칩 진출. [Yahoo](https://finance.yahoo.com/markets/live/stock-market-today-thursday-july-9-us-strikes-iran-223149196.html) · [EBN](https://www.ebn.co.kr/news/articleView.html?idxno=1711632)
+- **로봇/휴머노이드(승세 테마)**: 테슬라 옵티머스 7~8월 초기 양산 + 현대차 RMAC 8월 개소 — 양산 국면 진입. 신한투자증권 부품 최선호주 로보티즈 등. [아시아경제](https://www.asiae.co.kr/article/2026061116540185423) · [글로벌이코노믹](https://www.g-enews.com/article/Global-Biz/2026/07/202607070728221822bd56fbc3c_1)
+- **보안**: KT·롯데카드 해킹 후폭풍 순환매 지속 — 라온시큐어 자사주, 지니언스 훈장, 이니텍 제로트러스트. [아시아경제](https://view.asiae.co.kr/article/2026070813330391043)
+- **스테이블코인/온체인 금융**: 총재 "은행 중심 발행" + 미래에셋 코빗 인수 승인 + 그로우 KRWQ RWA 서비스 — 법제화 시동. [이데일리](http://www.edaily.co.kr/news/newspath.asp?newsid=03404646645512880) · [파이낸셜뉴스](https://www.fnnews.com/news/202607091025062519)
+- **방산**: 유럽 방산 투자 "2년 후 美 추월" 전망 속 韓 최우선 파트너 — 록히드 X2 헬기 한국 공동개발, 라파엘 CEO 협력 의사. [한국경제](https://www.hankyung.com/article/2026070962951) · [한국경제](https://www.hankyung.com/article/202607095907i)
 
 ## 📈 주목 상장사 & 발굴 후보
 | 회사(티커) | 시장 | 주목 이유 | 투자 고려 포인트(팩트) | 출처 |
 |---|---|---|---|---|
-| SK하이닉스(000660) | 韓 | ADR 데뷔 D-1, +5% | 청약 260조 · 키옥시아 6조 현금화 | [link](https://www.hankyung.com/article/2026070963211) |
-| 삼성전자(005930) | 韓 | PC용 AI칩 출사표 | 엔비디아·퀄컴과 온디바이스 AI 경쟁 진입 | [link](https://www.hankyung.com/article/2026070963411) |
-| 에이피알(278470) | 韓 | 2Q 美 매출 +252% 전망 | 신한 목표가 54만원, 최대실적 기대 | [link](https://www.hankyung.com/article/2026070962761) |
-| 나우로보틱스(277990) | 韓 | APR→AHC 수주 연쇄 | K뷰티 자동화 레퍼런스 확대(승세 테마) | [link](https://view.asiae.co.kr/article/2026070813295265528) |
-| 대동기어(008830) | 韓 | 상반기 수주 2,628억 | 내년 EV부품 양산 — 언급은 오늘이 처음 | [link](https://www.yna.co.kr/view/AKR20260709091600030) |
-| NH투자증권(005940) | 韓 | 인도 증권사 1,400억 투자 | '금융 신흥국' 인도 초이스증권 2대주주 파트너십 | [link](https://www.yna.co.kr/view/AKR20260709178400008) |
-| 마이크론(MU) | 美 | 메모리 마진킹 | 엔비디아·메타 제친 마진 — 사이클 강도 방증 | [link](https://www.cnbc.com/2026/06/24/micron-is-techs-margin-king-memory-crisis-pushes-it-past-nvidia-meta.html) |
-| 리바이스(LEVI) | 美 | 실적·가이던스 상향 | '300달러 데님' 프리미엄 소비 견조 | [link](https://www.hankyung.com/article/2026070962221) |
-- 발굴 후보 전체(조기/부상 구분·누적 빈도)는 발굴 탭 참조.
+| SK하이닉스(000660) | 韓 | 오늘 밤 ADR 임시거래 개시 | 7배 초과 주문 vs BNK 목표가 185만원 — 데뷔가 확인 전 변동성 | [CNBC](https://www.cnbc.com/2026/07/09/meet-sk-hynix-the-trillion-dollar-chipmaker-debuting-on-us-markets-.html) |
+| 마이크론(MU) | 美 | 밤사이 +4.5%, SMH 랠리 주도 | 메모리 크런치로 매출 4배·마진킹 등극(6월 실적) | [Yahoo](https://finance.yahoo.com/markets/live/stock-market-today-thursday-july-9-us-strikes-iran-223149196.html) |
+| 에이피알(278470) | 韓 | 2분기 美 매출 +252% 전망 | 신한 목표가 54만원 — K뷰티 디바이스 최대 실적 기대 | [한국경제](https://www.hankyung.com/article/2026070962761) |
+| 티로보틱스(117730) | 韓 | 하노이 법인 + 방폐물 무인화 실증 | 검증 +9.4% 승자 — 단, 이미 재평가 진행 중 | [아시아경제](https://view.asiae.co.kr/article/2026070913245023566) |
+| NH투자증권(005940) | 韓 | 인도 초이스증권 1,400억 지분 투자(2대주주) | '금융 신흥국' 인도 진출 실체 | [연합뉴스](https://www.yna.co.kr/view/AKR20260709178400008) |
+| 리바이스(LEVI) | 美 | 실적 비트 + 가이던스·배당 상향 | '300달러 데님' 프리미엄 소비 견조 | [CNBC](https://www.cnbc.com/2026/07/08/levi-strauss-levi-q2-2026-earnings.html) |
+- 발굴 후보: **나우로보틱스(277990)** 수주 연쇄 · **대동기어(008830)** 수주잔고 2,628억 · **코아시아씨엠(196450)** 경영진 자사주 — 상세는 아래 발굴 섹션.
 
 ## 🧠 분석가 패널 (해석·예측 — 투자권유 아님)
-- 🟢 **낙관**: 외국인 이틀째 순매수 + IMF 상향 + ADR 260조 수요 = 저점 확인, 리레이팅 초입. / 🔴 **비관**: +3.3%→+0.6% 반납, 유가 $80·환율 1,506원·한미 동시 긴축에 상단 무겁다. / ⚪ **객관**: 레버리지 쏠림 83% — 방향보다 변동성이 확실, 테마 선별이 초과수익 결정.
-- 🤝 **합의**: 내일 한국장 **중립(±0.5% 박스)** — 단 SKHY 데뷔가가 공모가 상회 시 반도체 주도 상방, 하회 시 차익실현 하방.
-- **국내 종목 흐름**: 티로보틱스·웨이버스·레메디·기가비스 빈도 상승(로봇·보안·실적 재료 장세 복원), 한화오션·신재생 이탈.
-- **관전 포인트·리스크**: ①7/10 밤 SKHY 데뷔가 ②유가 $80·환율 1,510원 돌파 여부 ③7/16 금통위 '연속 인상' 시사 여부.
+- 🟢 **낙관**: 유가 반락에 반도체가 미국장을 끌었고(SMH +2.5%), SKHY 7배 초과 주문 — 코리아 디스카운트 축소 초입. / 🔴 **비관**: 트럼프 발언이 하루 만에 뒤집히는 유가 변동성 + 한·미 동시 인상 담론에서 7,000대 코스피는 취약. / ⚪ **객관**: 7월 Fed 동결 확률 70~80% — 인상 공포는 과대반영 가능, 다만 성과는 지수가 아니라 승세 테마 선별이 갈랐다(로봇 avgD3 +8.3%).
+- 🤝 **합의**: 오늘 한국장 **상방 우위 중립(+0~1%)** — 반도체 강세 출발, 지속력은 오늘 밤 SKHYV 데뷔가에 달림. 유가 $80·환율 1,510원 돌파 시 상승분 반납 조건.
+- **국내 종목 흐름**: 로봇·보안·실적주로 자금 회전(티로보틱스·라온시큐어·에이피알↑), 전력인프라·신재생 이탈 지속.
+- **관전 포인트·리스크**: ①오늘 밤 SKHYV 데뷔가 ②원/달러 1,500원대 고착 여부 ③7/14 美 CPI → 7/16 금통위 이벤트 3연전.
 
 ## 🌱 성장사업 핵심부품 소형주 발굴 (정보용)
 - 🌱 **조기 출몰(선점 후보 — 최우선)**:
-  - 나우로보틱스(277990)·소 `[첫등장 D-0·누적 1회·신규]` · [로봇/휴머노이드] 자동화 설비 — APR 이어 AHC 수주 연쇄 시작. [출처](https://view.asiae.co.kr/article/2026070813295265528)
-  - 대동기어(008830)·소 `[첫등장 D-0·누적 1회·신규]` · [로봇·EV 구동계] 기어/감속 부품 — 수주잔고 2,628억+EV 양산 전환인데 무관심. [출처](https://www.yna.co.kr/view/AKR20260709091600030)
-  - 웨이버스(336060)·소 `[첫등장 D-0·누적 1회]` · [공공 AI SW] 전기안전공사 GeoAI 플랫폼 착수. [출처](https://view.asiae.co.kr/article/2026070909101079167)
-  - 라온시큐어(042510)·소 `[첫등장 D-15·누적 2회·재점화]` · [보안] 자사주+실증 — 보안 순환매 후발 위치. [출처](https://view.asiae.co.kr/article/2026070813330391043)
-  - 서진시스템(178320)·중 `[첫등장 D-0]` · [ESS] 537억 공급계약(테마 중립 — 비중 유의). [출처](https://view.asiae.co.kr/article/2026070814515335993)
-- 🔥 **누적 부상(이미 떠오름 — 진입 늦을 수 있음)**: 티로보틱스(누적 3회·검증 +9.4% 승자), 로보티즈(4회), 케이사인(8회), 기가비스(급등 진행·⚠️열세테마), 삼현(+111% 급등 — 후발 경고).
+  - **나우로보틱스(277990)·소 [첫등장 D-1·누적 2회·↗]** · [로봇/휴머노이드] 자동화 설비 — APR→AHC 수주 연쇄 + 전방 고객 美 매출 +252%. [출처](https://view.asiae.co.kr/article/2026070813295265528)
+  - **대동기어(008830)·소 [첫등장 D-1·누적 2회·↗]** · [로봇·EV 구동계] 기어·감속기 — 수주잔고 2,628억 + EV 양산 전환인데 여전히 조용. [출처](https://www.yna.co.kr/view/AKR20260709091600030)
+  - **코아시아씨엠(196450)·소 [재점화·검증 +15.5% 승자]** · [로봇 광학] 경영진 자사주 매입 연쇄 — 내부자 신호. [출처](https://view.asiae.co.kr/article/2026070913211998970)
+  - **씨메스(475400)·소 [검토 추가]** · [로봇 3D비전] 서흥·쿠팡 수주 실체 + 휴머노이드 양산 국면. [출처](https://www.irobotnews.com/news/articleView.html?idxno=47341)
+  - **라온시큐어(042510)·소 [D-16·누적 3회·↗]** · [보안 인증] 자사주 + 상호인증 실증 — 순환매 후발 위치. [출처](https://view.asiae.co.kr/article/2026070908380280338)
+- 🔥 **누적 부상(이미 떠오름 — 진입 늦을 수 있음)**: 티로보틱스(누적 5회, 재평가 진행) · 로보티즈(최선호주 지정으로 반영 진행) · 기가비스(⚠️열세테마 + 이미 급등).
 
 ## 🔮 선행 신호 (후발 진입 방지)
-- 🟢 **선행 포착**: 나우로보틱스 — 수주 연쇄 2건째·빈도 1회로 가장 조용 / 대동기어 — 확정 수주+양산 전환 미반영 / 웨이버스 — 공공 AI 매출 전환 초입 / 라온시큐어 — 반복 포착 2회.
-- 🔴 **후발 경고**: 에스투더블유(상장일 따블), 기가비스(고공행진+열세테마), 고영(상한가 당일 반영), 삼현(+111%), SK하이닉스(데뷔 기대 선반영 — 재료 소멸 변동성).
-- 🎯 **선행 점수 Top 3**: ①나우로보틱스(승세×수주연쇄×조용) ②대동기어(실적 가시성 대비 최저 관심) ③라온시큐어(반복 포착+순환매 후발).
+- 🟢 **선행 포착(오르기 전 기회)**: 나우로보틱스(수주 연쇄 2건째·아직 빈도 2회) · 대동기어(확정 수주잔고 vs 시장 무관심) · 코아시아씨엠(내부자 매수·재부각 전) · 라온시큐어(3회 반복 포착) · 웨이버스(공공 AI 수주 착수·저빈도). 출처는 위 발굴 섹션과 동일.
+- 🔴 **후발 경고(이미 급등)**: 기가비스(주가 380% 기사화 완료) · 고영(상한가 당일 반영) · 에스투더블유(따블) · 삼현(+111%) · SK하이닉스(ADR 기대 선반영 — 데뷔 후 재료 소멸 변동성).
+- 🎯 **선행 점수 Top 3**: ①나우로보틱스(신호 조합 최다) ②라온시큐어(반복 포착 3회 최다) ③코아시아씨엠(검증 승자의 내부자 매수).
 
 ## 🕵️ 중간보스 최종 검토
-- ✅ **검토 결과**: 핵심 수치 전부 당일 기사 교차 확인 — 신뢰도 상. 美 지수는 매체 혼재로 TheStreet/Yahoo 기준 통일.
-- 🔍 **놓쳤다가 추가된 소형주**: 대한조선 — 美 해군 MSRA 인증 지원사업 선정 + 오늘 함정 MRO 협의체 출범(방산 밸류체인). 삼현은 '경고'로 편입(+111% 후발).
-- 🎯 **최종 의견 Top 3**: 나우로보틱스 · 대동기어 · 라온시큐어 (근거는 최종검토 탭).
+- ✅ **검토 결과**: 핵심 수치 전부 당일 기사 deep-link 교차 확인 — 신뢰도 상. ADR '오늘 밤 데뷔'는 임시 티커 SKHYV(정식 SKHY는 7/13) 구분 명시.
+- 🔍 **놓쳤다가 추가된 소형주**: 씨메스(475400) — 로봇 '비전' 계층 공백을 메움(서흥·쿠팡 수주 실체).
+- 🎯 **최종 의견**: 오늘 가장 주목할 소형 성장주 Top 3 = 나우로보틱스 · 라온시큐어 · 코아시아씨엠.
 
 ## 🔑 키워드 빈도·트렌드
-- **오늘 급부상**: 국제유가(↑3) · ADR상장(↑3, 신규) · 중동리스크(↑3) · 스테이블코인(↑2) · 보안해킹(신규 2) · 방산(↑2)
-- **최근 7일 상위**: 외국인수급(14) · 메모리슈퍼사이클(14) · 휴머노이드(14) · AI반도체(13) · HBM(12) · 금리인상우려(12)
-- **최근 30일 상위**: AI반도체(84) · 메모리슈퍼사이클(74) · HBM(67) · 케빈워시연준(52) · 인플레이션(51) · 외국인수급(51)
+- **오늘 급부상**: 중동리스크(재점화) · 한은금리인상(총재 발언) · ADR상장(데뷔 D-day) · 보안해킹(순환매) · ESS(수주 연쇄)
+- **최근 7일 상위**: 휴머노이드(15) · 외국인수급(15) · 메모리슈퍼사이클(15) · AI반도체(14) · HBM(13) · 금리인상우려(13)
+- **최근 30일 상위**: AI반도체(85) · 메모리슈퍼사이클(75) · HBM(68) · 케빈워시연준(53) · 외국인수급(52) · 고환율(52)
 
 ## 🔗 출처 링크 모음
-- 한국장 마감: https://www.yna.co.kr/view/AKR20260709151551008 · https://www.hankyung.com/article/202607094492i
-- 환율/금리: https://www.yna.co.kr/view/AKR20260709151900002 · https://www.yna.co.kr/view/AKR20260709169100008
-- 하이닉스 ADR: https://www.hankyung.com/article/2026070963211 · https://www.marketwatch.com/story/sk-hynix-nasdaq-listing-may-become-the-second-largest-equity-offering-ever-trailing-only-spacexs-8dca5afa
-- 한은 인상: https://www.yna.co.kr/view/AKR20260709149800002 · https://www.ajunews.com/view/20260709103819335
-- 중동/유가: https://www.nbcnews.com/business/business-news/oil-prices-surge-stocks-tumble-trump-iran-ceasefire-over-hormuz-rcna353446
-- 미국장/연준: https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-july-8-2026 · https://www.cnbc.com/2026/07/01/kevin-warsh-ecb-forum-live-updates.html
-- IMF 상향: https://www.hankyung.com/article/2026070839067 · https://www.yna.co.kr/view/AKR20260709101900001
+- https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-july-9-2026
+- https://www.cnbc.com/2026/07/09/meet-sk-hynix-the-trillion-dollar-chipmaker-debuting-on-us-markets-.html
+- https://www.cnbc.com/2026/07/08/fed-minutes-june-2026-.html
+- https://www.yna.co.kr/view/AKR20260710005100072
+- http://www.edaily.co.kr/news/newspath.asp?newsid=03552246645512880
+- https://www.yna.co.kr/view/AKR20260709085900002
+- https://view.asiae.co.kr/article/2026070813295265528
+- https://www.yna.co.kr/view/AKR20260709091600030
+- https://view.asiae.co.kr/article/2026070913211998970
+- https://www.ebn.co.kr/news/articleView.html?idxno=1711632
 
 ---
 > ⚠️ **면책**: 본 브리핑은 공개 정보를 요약한 자료이며 투자 권유가 아닙니다.

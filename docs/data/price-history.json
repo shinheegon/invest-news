@@ -1451,6 +1451,58 @@
     "2026-07-09": 151500,
     "2026-07-10": 164500
    }
+  },
+  "지니언스(263860)": {
+   "market": "韓",
+   "type": "leading",
+   "firstSeen": "2026-07-09",
+   "firstPrice": 12010,
+   "lastPrice": 12010,
+   "changePct": 0.0,
+   "points": 2,
+   "series": {
+    "2026-07-09": 12010,
+    "2026-07-10": 12010
+   }
+  },
+  "오비고(352910)": {
+   "market": "韓",
+   "type": "discovery",
+   "firstSeen": "2026-07-09",
+   "firstPrice": 3635,
+   "lastPrice": 3635,
+   "changePct": 0.0,
+   "points": 2,
+   "series": {
+    "2026-07-09": 3635,
+    "2026-07-10": 3635
+   }
+  },
+  "에이피알(278470)": {
+   "market": "韓",
+   "type": "discovery",
+   "firstSeen": "2026-07-09",
+   "firstPrice": 365500,
+   "lastPrice": 365500,
+   "changePct": 0.0,
+   "points": 2,
+   "series": {
+    "2026-07-09": 365500,
+    "2026-07-10": 365500
+   }
+  },
+  "씨메스(475400)": {
+   "market": "韓",
+   "type": "discovery",
+   "firstSeen": "2026-07-09",
+   "firstPrice": 16180,
+   "lastPrice": 16180,
+   "changePct": 0.0,
+   "points": 2,
+   "series": {
+    "2026-07-09": 16180,
+    "2026-07-10": 16180
+   }
   }
  }
 }

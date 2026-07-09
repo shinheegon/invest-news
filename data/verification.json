@@ -4522,6 +4522,84 @@
      "price": 164500
     }
    ]
+  },
+  {
+   "name": "지니언스(263860)",
+   "type": "leading",
+   "market": "韓",
+   "flagDate": "2026-07-10",
+   "signals": [
+    "보안 정책테마",
+    "공공 NAC 1위"
+   ],
+   "theme": "보안/사이버",
+   "status": "pending",
+   "checks": [],
+   "flagPrice": 12010,
+   "priceLog": [
+    {
+     "date": "2026-07-09",
+     "price": 12010
+    }
+   ]
+  },
+  {
+   "name": "오비고(352910)",
+   "type": "discovery",
+   "market": "韓",
+   "flagDate": "2026-07-10",
+   "signals": [
+    "차량용 게임플랫폼 픽조이"
+   ],
+   "theme": "SDV/모빌리티SW",
+   "status": "pending",
+   "checks": [],
+   "flagPrice": 3635,
+   "priceLog": [
+    {
+     "date": "2026-07-09",
+     "price": 3635
+    }
+   ]
+  },
+  {
+   "name": "에이피알(278470)",
+   "type": "discovery",
+   "market": "韓",
+   "flagDate": "2026-07-10",
+   "signals": [
+    "美매출 252% 급증 전망",
+    "목표가 상향"
+   ],
+   "theme": "K뷰티 수출",
+   "status": "pending",
+   "checks": [],
+   "flagPrice": 365500,
+   "priceLog": [
+    {
+     "date": "2026-07-09",
+     "price": 365500
+    }
+   ]
+  },
+  {
+   "name": "씨메스(475400)",
+   "type": "discovery",
+   "market": "韓",
+   "flagDate": "2026-07-10",
+   "signals": [
+    "서흥·쿠팡 수주 53억+69억"
+   ],
+   "theme": "로봇/휴머노이드",
+   "status": "pending",
+   "checks": [],
+   "flagPrice": 16180,
+   "priceLog": [
+    {
+     "date": "2026-07-09",
+     "price": 16180
+    }
+   ]
   }
  ],
  "stats": {
