@@ -52,4 +52,6 @@ bash "$PROJECT_DIR/scripts/build-site.sh" 2>&1 | tee -a "$LOG" || true
 BRIEFING_SESSION="$SESSION" BRIEFING_DATE="$DATE" \
   python3 "$PROJECT_DIR/scripts/notify-email.py" 2>&1 | tee -a "$LOG" || true
 
-exit 0   # 부분 실패해도 커밋/배포는 진행 (워크플로에서)
+# claude가 실패했으면(RC≠0) 워크플로가 빨간불로 뜨도록 그 코드로 종료.
+# (부분 산출물은 위에서 이미 생성됨 — 커밋 단계는 워크플로에서 if:always()로 진행)
+exit "$RC"

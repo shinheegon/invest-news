@@ -48,6 +48,7 @@ jobs:
           bash scripts/ci-run.sh "${{ github.event.inputs.session }}"
 
       - name: 데이터 커밋 & 푸시
+        if: always()          # claude 실패해도 부분 산출물(지표·검증·빌드)은 커밋
         run: |
           git config user.name "invest-news-bot"
           git config user.email "actions@github.com"
