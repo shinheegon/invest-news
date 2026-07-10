@@ -3,6 +3,18 @@
   "SK하이닉스(000660)": {
    "articles": [
     {
+     "date": "2026-07-11",
+     "source": "한국경제·경제",
+     "title": "SK하이닉스, 나스닥 화려한 데뷔…최태원 '환한 미소' [영상]",
+     "link": "https://www.hankyung.com/article/202607108847g"
+    },
+    {
+     "date": "2026-07-11",
+     "source": "한국경제·증권",
+     "title": "JP모간 뉴욕본사 태극기로 덮었다…월가 홀린 SK하이닉스 [종목+]",
+     "link": "https://www.hankyung.com/article/2026071083056"
+    },
+    {
      "date": "2026-07-10",
      "source": "한국경제·증권",
      "title": "218만원 SK하이닉스에 '목표가 185만원' 제시한 증권사",
@@ -709,18 +721,6 @@
      "source": "한국경제·증권",
      "title": "SK하이닉스, 증시 새 황제의 '대관식'",
      "link": "https://www.hankyung.com/article/2026062212081"
-    },
-    {
-     "date": "2026-06-22",
-     "source": "한국경제·증권",
-     "title": "HBM으로 삼전 꺾고 시총 1위 SK하이닉스…코스피 9100 방어 [종합]",
-     "link": "https://www.hankyung.com/article/2026062207976"
-    },
-    {
-     "date": "2026-06-22",
-     "source": "한국경제·증권",
-     "title": "SK하이닉스, 삼성전자 시총 첫 추월…26년 만에 코스피 지각변동",
-     "link": "https://www.hankyung.com/article/202606220331i"
     }
    ]
   },
@@ -5837,6 +5837,12 @@
   "LG엔솔(373220)": {
    "articles": [
     {
+     "date": "2026-07-11",
+     "source": "한국경제·경제",
+     "title": "LG엔솔·삼성SDI, 정부 '배전망 ESS 사업' 따냈다",
+     "link": "https://www.hankyung.com/article/2026071085691"
+    },
+    {
      "date": "2026-07-10",
      "source": "한국경제·경제",
      "title": "700MW 시장 노린다…LG엔솔·삼성SDI 격돌",
@@ -7595,6 +7601,12 @@
   "테슬라(TSLA)": {
    "articles": [
     {
+     "date": "2026-07-11",
+     "source": "한국경제·경제",
+     "title": "넉 대 중 한 대는 회사차…법인으로 불티나게 팔린 테슬라",
+     "link": "https://www.hankyung.com/article/2026071088057"
+    },
+    {
      "date": "2026-07-10",
      "source": "한국경제·경제",
      "title": "테슬라·BYD 돌풍에 신차 4대중 1대 수입차",
@@ -9045,6 +9057,30 @@
   "SK(034730)": {
    "articles": [
     {
+     "date": "2026-07-11",
+     "source": "한국경제·경제",
+     "title": "SK하이닉스, 나스닥 화려한 데뷔…최태원 '환한 미소' [영상]",
+     "link": "https://www.hankyung.com/article/202607108847g"
+    },
+    {
+     "date": "2026-07-11",
+     "source": "한국경제·증권",
+     "title": "JP모간 뉴욕본사 태극기로 덮었다…월가 홀린 SK하이닉스 [종목+]",
+     "link": "https://www.hankyung.com/article/2026071083056"
+    },
+    {
+     "date": "2026-07-11",
+     "source": "한국경제·증권",
+     "title": "SK·에쓰오일·GS '깜짝 실적' 가능성",
+     "link": "https://www.hankyung.com/article/2026071087371"
+    },
+    {
+     "date": "2026-07-11",
+     "source": "MarketWatch",
+     "title": "SK Hynix’s stock pops in its Nasdaq debut",
+     "link": "https://www.marketwatch.com/story/sk-hynixs-stock-looks-primed-for-a-pop-in-its-nasdaq-debut-38054370?mod=mw_rss_topstories"
+    },
+    {
      "date": "2026-07-10",
      "source": "한국경제·증권",
      "title": "218만원 SK하이닉스에 '목표가 185만원' 제시한 증권사",
@@ -9832,6 +9868,12 @@
   },
   "NC(036570)": {
    "articles": [
+    {
+     "date": "2026-07-11",
+     "source": "MarketWatch",
+     "title": "All entry-level jobs require 3-5 years of experience. How am I supposed to get that if no one will hire me?",
+     "link": "https://www.marketwatch.com/story/all-entry-level-jobs-require-3-5-years-of-experience-how-am-i-supposed-to-get-that-if-no-one-will-hire-me-e1bc4b0a?mod=mw_rss_topstories"
+    },
     {
      "date": "2026-07-10",
      "source": "MarketWatch",
@@ -11773,6 +11815,12 @@
   "에쓰오일(010950)": {
    "articles": [
     {
+     "date": "2026-07-11",
+     "source": "한국경제·증권",
+     "title": "SK·에쓰오일·GS '깜짝 실적' 가능성",
+     "link": "https://www.hankyung.com/article/2026071087371"
+    },
+    {
      "date": "2026-07-09",
      "source": "이데일리·경제",
      "title": "에쓰오일, 천연기념물 보호에 2억 8500만원 후원",
@@ -13123,5 +13171,5 @@
    ]
   }
  },
- "updatedAt": "2026-07-10T19:31:09+09:00"
+ "updatedAt": "2026-07-11T02:13:30+09:00"
 }
