@@ -4540,6 +4540,10 @@
     {
      "date": "2026-07-09",
      "price": 12010
+    },
+    {
+     "date": "2026-07-10",
+     "price": 12640
     }
    ]
   },
@@ -4559,6 +4563,10 @@
     {
      "date": "2026-07-09",
      "price": 3635
+    },
+    {
+     "date": "2026-07-10",
+     "price": 3755
     }
    ]
   },
@@ -4579,6 +4587,10 @@
     {
      "date": "2026-07-09",
      "price": 365500
+    },
+    {
+     "date": "2026-07-10",
+     "price": 375000
     }
    ]
   },
@@ -4598,6 +4610,87 @@
     {
      "date": "2026-07-09",
      "price": 16180
+    },
+    {
+     "date": "2026-07-10",
+     "price": 17410
+    }
+   ]
+  },
+  {
+   "name": "모티브링크(464440)",
+   "type": "leading",
+   "market": "韓",
+   "flagDate": "2026-07-10",
+   "signals": [
+    "사업구조전환",
+    "고부가전장모듈"
+   ],
+   "theme": "전장/EV부품",
+   "status": "pending",
+   "checks": [],
+   "flagPrice": 2110,
+   "priceLog": [
+    {
+     "date": "2026-06-16",
+     "price": 2110
+    }
+   ]
+  },
+  {
+   "name": "심텍(222800)",
+   "type": "warning",
+   "market": "韓",
+   "flagDate": "2026-07-10",
+   "signals": [
+    "3개월+84% 급등(SOCAMM)"
+   ],
+   "theme": "반도체기판",
+   "status": "pending",
+   "checks": [],
+   "flagPrice": 122700,
+   "priceLog": [
+    {
+     "date": "2026-07-10",
+     "price": 122700
+    }
+   ]
+  },
+  {
+   "name": "신테카바이오(226330)",
+   "type": "warning",
+   "market": "韓",
+   "flagDate": "2026-07-10",
+   "signals": [
+    "공급계약 상한가"
+   ],
+   "theme": "AI신약",
+   "status": "pending",
+   "checks": [],
+   "flagPrice": 1872,
+   "priceLog": [
+    {
+     "date": "2026-07-10",
+     "price": 1872
+    }
+   ]
+  },
+  {
+   "name": "세나테크놀로지(463480)",
+   "type": "warning",
+   "market": "韓",
+   "flagDate": "2026-07-10",
+   "signals": [
+    "실적서프라이즈 당일+21%"
+   ],
+   "theme": "통신기기",
+   "status": "pending",
+   "checks": [],
+   "flagPrice": 4560,
+   "priceLog": [
+    {
+     "date": "2026-07-10",
+     "price": 4560
     }
    ]
   }

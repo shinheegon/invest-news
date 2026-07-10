@@ -619,6 +619,51 @@
    "why": "⚠️열세테마(이차전지) · 신호약함(테마첫거론류)"
   },
   {
+   "name": "모티브링크(464440)",
+   "type": "leading",
+   "theme": "기타",
+   "flagDate": "2026-07-10",
+   "score": 0,
+   "concrete": false,
+   "why": "중립테마(기타) · 신호약함(테마첫거론류)"
+  },
+  {
+   "name": "서진시스템(178320)",
+   "type": "discovery",
+   "theme": "이차전지",
+   "flagDate": "2026-07-09",
+   "score": -1,
+   "concrete": true,
+   "why": "⚠️열세테마(이차전지) · 구체촉발재: ESS장비공급계약537억"
+  },
+  {
+   "name": "부강테크(279960)",
+   "type": "leading",
+   "theme": "이차전지",
+   "flagDate": "2026-06-27",
+   "score": -3,
+   "concrete": false,
+   "why": "⚠️열세테마(이차전지) · 신호약함(테마첫거론류)"
+  },
+  {
+   "name": "하나기술(299030)",
+   "type": "leading",
+   "theme": "이차전지",
+   "flagDate": "2026-07-03",
+   "score": -3,
+   "concrete": false,
+   "why": "⚠️열세테마(이차전지) · 신호약함(테마첫거론류)"
+  },
+  {
+   "name": "이수스페셜티케미컬(457190)",
+   "type": "leading",
+   "theme": "이차전지",
+   "flagDate": "2026-07-03",
+   "score": -3,
+   "concrete": false,
+   "why": "⚠️열세테마(이차전지) · 신호약함(테마첫거론류)"
+  },
+  {
    "name": "와이씨켐(112290)",
    "type": "leading",
    "theme": "반도체소재/장비",

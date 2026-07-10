@@ -1457,12 +1457,12 @@
    "type": "leading",
    "firstSeen": "2026-07-09",
    "firstPrice": 12010,
-   "lastPrice": 12010,
-   "changePct": 0.0,
+   "lastPrice": 12640,
+   "changePct": 5.25,
    "points": 2,
    "series": {
     "2026-07-09": 12010,
-    "2026-07-10": 12010
+    "2026-07-10": 12640
    }
   },
   "오비고(352910)": {
@@ -1470,12 +1470,12 @@
    "type": "discovery",
    "firstSeen": "2026-07-09",
    "firstPrice": 3635,
-   "lastPrice": 3635,
-   "changePct": 0.0,
+   "lastPrice": 3755,
+   "changePct": 3.3,
    "points": 2,
    "series": {
     "2026-07-09": 3635,
-    "2026-07-10": 3635
+    "2026-07-10": 3755
    }
   },
   "에이피알(278470)": {
@@ -1483,12 +1483,12 @@
    "type": "discovery",
    "firstSeen": "2026-07-09",
    "firstPrice": 365500,
-   "lastPrice": 365500,
-   "changePct": 0.0,
+   "lastPrice": 375000,
+   "changePct": 2.6,
    "points": 2,
    "series": {
     "2026-07-09": 365500,
-    "2026-07-10": 365500
+    "2026-07-10": 375000
    }
   },
   "씨메스(475400)": {
@@ -1496,12 +1496,61 @@
    "type": "discovery",
    "firstSeen": "2026-07-09",
    "firstPrice": 16180,
-   "lastPrice": 16180,
-   "changePct": 0.0,
+   "lastPrice": 17410,
+   "changePct": 7.6,
    "points": 2,
    "series": {
     "2026-07-09": 16180,
-    "2026-07-10": 16180
+    "2026-07-10": 17410
+   }
+  },
+  "모티브링크(464440)": {
+   "market": "韓",
+   "type": "leading",
+   "firstSeen": "2026-06-16",
+   "firstPrice": 2110,
+   "lastPrice": 2110,
+   "changePct": 0.0,
+   "points": 2,
+   "series": {
+    "2026-06-16": 2110,
+    "2026-07-10": 2110
+   }
+  },
+  "심텍(222800)": {
+   "market": "韓",
+   "type": "warning",
+   "firstSeen": "2026-07-10",
+   "firstPrice": 122700,
+   "lastPrice": 122700,
+   "changePct": 0.0,
+   "points": 1,
+   "series": {
+    "2026-07-10": 122700
+   }
+  },
+  "신테카바이오(226330)": {
+   "market": "韓",
+   "type": "warning",
+   "firstSeen": "2026-07-10",
+   "firstPrice": 1872,
+   "lastPrice": 1872,
+   "changePct": 0.0,
+   "points": 1,
+   "series": {
+    "2026-07-10": 1872
+   }
+  },
+  "세나테크놀로지(463480)": {
+   "market": "韓",
+   "type": "warning",
+   "firstSeen": "2026-07-10",
+   "firstPrice": 4560,
+   "lastPrice": 4560,
+   "changePct": 0.0,
+   "points": 1,
+   "series": {
+    "2026-07-10": 4560
    }
   }
  }
