@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-07-10T02:33:16+09:00",
+ "updatedAt": "2026-07-10T19:32:56+09:00",
  "themes": [
   {
    "theme": "로봇/휴머노이드",
@@ -12,29 +12,11 @@
   },
   {
    "theme": "기타",
-   "n": 6,
-   "hit": 2,
-   "miss": 1,
-   "hitRate": 33.3,
-   "avgD3": 3.6,
-   "momentum": "상승"
-  },
-  {
-   "theme": "피지컬AI",
-   "n": 3,
-   "hit": 1,
-   "miss": 1,
-   "hitRate": 33.3,
-   "avgD3": 2.5,
-   "momentum": "중립"
-  },
-  {
-   "theme": "이차전지",
-   "n": 4,
-   "hit": 1,
-   "miss": 2,
-   "hitRate": 25.0,
-   "avgD3": 1.2,
+   "n": 20,
+   "hit": 4,
+   "miss": 8,
+   "hitRate": 20.0,
+   "avgD3": 1.1,
    "momentum": "중립"
   },
   {
@@ -44,6 +26,15 @@
    "miss": 1,
    "hitRate": 0.0,
    "avgD3": 0.4,
+   "momentum": "중립"
+  },
+  {
+   "theme": "피지컬AI",
+   "n": 4,
+   "hit": 1,
+   "miss": 2,
+   "hitRate": 25.0,
+   "avgD3": 0.1,
    "momentum": "중립"
   },
   {
@@ -81,6 +72,15 @@
    "hitRate": 0.0,
    "avgD3": -6.9,
    "momentum": "하락"
+  },
+  {
+   "theme": "이차전지",
+   "n": 6,
+   "hit": 2,
+   "miss": 3,
+   "hitRate": 33.3,
+   "avgD3": -14.7,
+   "momentum": "하락"
   }
  ],
  "winning": [
@@ -88,6 +88,7 @@
  ],
  "losing": [
   "반도체소재/장비",
-  "바이오/의료"
+  "바이오/의료",
+  "이차전지"
  ]
 }
