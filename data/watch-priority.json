@@ -210,6 +210,15 @@
    "score": -3,
    "concrete": false,
    "why": "⚠️열세테마(이차전지)"
+  },
+  {
+   "name": "레메디(476590)",
+   "type": "leading",
+   "theme": "바이오/의료",
+   "flagDate": "2026-07-11",
+   "score": -3,
+   "concrete": false,
+   "why": "⚠️열세테마(바이오/의료) · 신호약함(테마첫거론류)"
   }
  ],
  "all": [
@@ -815,6 +824,15 @@
    "score": -3,
    "concrete": false,
    "why": "⚠️열세테마(이차전지)"
+  },
+  {
+   "name": "레메디(476590)",
+   "type": "leading",
+   "theme": "바이오/의료",
+   "flagDate": "2026-07-11",
+   "score": -3,
+   "concrete": false,
+   "why": "⚠️열세테마(바이오/의료) · 신호약함(테마첫거론류)"
   }
  ]
 }
