@@ -15,6 +15,30 @@
      "link": "https://www.hankyung.com/article/2026071083056"
     },
     {
+     "date": "2026-07-11",
+     "source": "한국경제·경제",
+     "title": "\"이름도 몰랐는데\"…SK하이닉스 美 상장에 외신 '화들짝'",
+     "link": "https://www.hankyung.com/article/2026071088397"
+    },
+    {
+     "date": "2026-07-11",
+     "source": "한국경제·증권",
+     "title": "SK하이닉스 '화려한 데뷔'…\"블록버스터급\" 나스닥 사장도 감탄",
+     "link": "https://www.hankyung.com/article/2026071190037"
+    },
+    {
+     "date": "2026-07-11",
+     "source": "한국경제·증권",
+     "title": "나스닥 데뷔 SK하이닉스 13% 상승…뉴욕증시 소폭 상승 마감 [뉴욕증시 브리핑]",
+     "link": "https://www.hankyung.com/article/2026071189867"
+    },
+    {
+     "date": "2026-07-11",
+     "source": "연합뉴스·경제",
+     "title": "나스닥 데뷔하며 미국 반도체 추가투자 언급한 SK하이닉스",
+     "link": "https://www.yna.co.kr/view/AKR20260711021700003"
+    },
+    {
      "date": "2026-07-10",
      "source": "한국경제·증권",
      "title": "218만원 SK하이닉스에 '목표가 185만원' 제시한 증권사",
@@ -697,30 +721,6 @@
      "source": "한국경제·증권",
      "title": "SK하이닉스 ADR 상장 초읽기…이번주 금감원에 증권신고서 낸다",
      "link": "https://www.hankyung.com/article/202606232918i"
-    },
-    {
-     "date": "2026-06-23",
-     "source": "한국경제·경제",
-     "title": "SK하이닉스, CEO 직속 '미래 반도체 전략 조직' 신설",
-     "link": "https://www.hankyung.com/article/2026062335701"
-    },
-    {
-     "date": "2026-06-23",
-     "source": "연합뉴스",
-     "title": "- SK하이닉스(000660): -12.47%, 17년6개월 만 최대 낙폭. 단일종목 레버리지('닉스전자') 25% 급락 손실 확대 → 당국 안전장치 착수.",
-     "link": "https://www.yna.co.kr/view/AKR20260623043452008"
-    },
-    {
-     "date": "2026-06-22",
-     "source": "한국경제·경제",
-     "title": "[포토] SK하이닉스, 삼성전자 제치고 코스피 시총 1위 등극",
-     "link": "https://www.hankyung.com/article/202606220992i"
-    },
-    {
-     "date": "2026-06-22",
-     "source": "한국경제·증권",
-     "title": "SK하이닉스, 증시 새 황제의 '대관식'",
-     "link": "https://www.hankyung.com/article/2026062212081"
     }
    ]
   },
@@ -1876,6 +1876,12 @@
   },
   "애플(AAPL)": {
    "articles": [
+    {
+     "date": "2026-07-11",
+     "source": "한국경제·경제",
+     "title": "어제의 동지가 오늘의 적…애플, 오픈AI에 결국 칼 빼들었다",
+     "link": "https://www.hankyung.com/article/2026071191617"
+    },
     {
      "date": "2026-07-10",
      "source": "한국경제·증권",
@@ -6221,6 +6227,12 @@
   "현대건설(000720)": {
    "articles": [
     {
+     "date": "2026-07-11",
+     "source": "연합뉴스·경제",
+     "title": "현대건설, 디에이치 방배 공개…주거서비스 'H 컬처클럽' 첫선",
+     "link": "https://www.yna.co.kr/view/AKR20260710139400003"
+    },
+    {
      "date": "2026-07-09",
      "source": "연합뉴스·경제",
      "title": "현대건설, 건설 안전 스타트업 12개사와 협업 성과 공유",
@@ -8069,6 +8081,12 @@
   "오리온(271560)": {
    "articles": [
     {
+     "date": "2026-07-11",
+     "source": "연합뉴스·경제",
+     "title": "[신상잇슈] 오리온 '미쯔 황치즈'·해태-가루비 '연어초밥맛' 감자칩",
+     "link": "https://www.yna.co.kr/view/AKR20260710113600030"
+    },
+    {
      "date": "2026-07-09",
      "source": "한국경제·경제",
      "title": "정가 10배 웃돈 붙더니…오리온, '미쯔 황치즈'로 수요 잇는다",
@@ -9079,6 +9097,36 @@
      "source": "MarketWatch",
      "title": "SK Hynix’s stock pops in its Nasdaq debut",
      "link": "https://www.marketwatch.com/story/sk-hynixs-stock-looks-primed-for-a-pop-in-its-nasdaq-debut-38054370?mod=mw_rss_topstories"
+    },
+    {
+     "date": "2026-07-11",
+     "source": "한국경제·경제",
+     "title": "\"이름도 몰랐는데\"…SK하이닉스 美 상장에 외신 '화들짝'",
+     "link": "https://www.hankyung.com/article/2026071088397"
+    },
+    {
+     "date": "2026-07-11",
+     "source": "한국경제·증권",
+     "title": "SK하이닉스 '화려한 데뷔'…\"블록버스터급\" 나스닥 사장도 감탄",
+     "link": "https://www.hankyung.com/article/2026071190037"
+    },
+    {
+     "date": "2026-07-11",
+     "source": "한국경제·증권",
+     "title": "나스닥 데뷔 SK하이닉스 13% 상승…뉴욕증시 소폭 상승 마감 [뉴욕증시 브리핑]",
+     "link": "https://www.hankyung.com/article/2026071189867"
+    },
+    {
+     "date": "2026-07-11",
+     "source": "연합뉴스·경제",
+     "title": "나스닥 데뷔하며 미국 반도체 추가투자 언급한 SK하이닉스",
+     "link": "https://www.yna.co.kr/view/AKR20260711021700003"
+    },
+    {
+     "date": "2026-07-11",
+     "source": "아시아경제",
+     "title": "'중국 D램 1위' CXMT, IPO로 6.5조 조달…삼성·SK 맹추격",
+     "link": "https://view.asiae.co.kr/article/2026071109544574192"
     },
     {
      "date": "2026-07-10",
@@ -12991,6 +13039,12 @@
   "레메디(476590)": {
    "articles": [
     {
+     "date": "2026-07-11",
+     "source": "연합뉴스·경제",
+     "title": "[IPO챗] '상장 삼수생' 레메디, 두 차례 고배 딛고 코스닥 입성",
+     "link": "https://www.yna.co.kr/view/AKR20260710102900008"
+    },
+    {
      "date": "2026-07-09",
      "source": "연합뉴스·경제",
      "title": "'의료용 기기 제조' 레메디 코스닥 신규상장…13일부터 거래",
@@ -13169,7 +13223,23 @@
      "link": "https://www.hankyung.com/article/202607107187i"
     }
    ]
+  },
+  "코스트코(COST)": {
+   "articles": [
+    {
+     "date": "2026-07-11",
+     "source": "한국경제·경제",
+     "title": "퇴직금만 15억 쌓였다…코스트코, 계산원 '시급 5만원' 파격",
+     "link": "https://www.hankyung.com/article/2026071085511"
+    },
+    {
+     "date": "2026-07-11",
+     "source": "파이낸셜뉴스",
+     "title": "\"승진 없이 40년 일했는데 퇴직금 14억원\" 코스트코 파격 정책, 이유는",
+     "link": "https://www.fnnews.com/news/202607110915445957"
+    }
+   ]
   }
  },
- "updatedAt": "2026-07-11T02:13:30+09:00"
+ "updatedAt": "2026-07-11T13:06:15+09:00"
 }
