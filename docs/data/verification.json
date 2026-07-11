@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-07-11T15:15:36+09:00",
+ "updatedAt": "2026-07-11T15:24:59+09:00",
  "cases": [
   {
    "name": "이지트로닉스(377330)",
@@ -4994,6 +4994,64 @@
      "price": 2750
     }
    ]
+  },
+  {
+   "name": "코스모로보틱스(464280)",
+   "type": "warning",
+   "market": "韓",
+   "flagDate": "2026-07-11",
+   "signals": [
+    "상장후 4연상",
+    "공모가 대비 +778%"
+   ],
+   "theme": "로봇/휴머노이드",
+   "status": "pending",
+   "checks": [],
+   "flagPrice": 5810,
+   "priceLog": [
+    {
+     "date": "2026-07-10",
+     "price": 5810
+    }
+   ]
+  },
+  {
+   "name": "한화오션(042660)",
+   "type": "warning",
+   "market": "韓",
+   "flagDate": "2026-07-11",
+   "signals": [
+    "캐나다 잠수함(CPSP) 수주 獨TKMS에 밀려 불발"
+   ],
+   "theme": "방산",
+   "status": "pending",
+   "checks": [],
+   "flagPrice": 81300,
+   "priceLog": [
+    {
+     "date": "2026-07-10",
+     "price": 81300
+    }
+   ]
+  },
+  {
+   "name": "한화에어로스페이스(012450)",
+   "type": "warning",
+   "market": "韓",
+   "flagDate": "2026-07-11",
+   "signals": [
+    "캐나다 잠수함(CPSP) 수주 獨TKMS에 밀려 불발"
+   ],
+   "theme": "방산",
+   "status": "pending",
+   "checks": [],
+   "flagPrice": 967000,
+   "priceLog": [
+    {
+     "date": "2026-07-10",
+     "price": 967000
+    }
+   ]
   }
  ],
  "stats": {
@@ -5003,8 +5061,8 @@
   "miss": 42,
   "hitRate": 18.2,
   "avgD3ChangePct": -0.43,
-  "pending": 48,
-  "total": 125,
+  "pending": 51,
+  "total": 128,
   "byType": {
    "leading": {
     "verified": 52,
