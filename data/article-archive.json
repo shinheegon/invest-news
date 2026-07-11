@@ -8805,6 +8805,12 @@
   "삼성증권(016360)": {
    "articles": [
     {
+     "date": "2026-07-11",
+     "source": "연합뉴스·경제",
+     "title": "[부고] 박경희(삼성증권 부사장)씨 모친상",
+     "link": "https://www.yna.co.kr/view/AKR20260711043500008"
+    },
+    {
      "date": "2026-07-06",
      "source": "한국경제·증권",
      "title": "삼성증권, ISA 만기자금 연금 전환 땐 추가 세액공제",
@@ -9999,6 +10005,18 @@
      "source": "MarketWatch",
      "title": "All entry-level jobs require 3-5 years of experience. How am I supposed to get that if no one will hire me?",
      "link": "https://www.marketwatch.com/story/all-entry-level-jobs-require-3-5-years-of-experience-how-am-i-supposed-to-get-that-if-no-one-will-hire-me-e1bc4b0a?mod=mw_rss_topstories"
+    },
+    {
+     "date": "2026-07-11",
+     "source": "MarketWatch",
+     "title": "Regular water is no longer enough. Welcome to the corporate gold rush around ‘functional hydration.’",
+     "link": "https://www.marketwatch.com/story/regular-water-is-no-longer-enough-welcome-to-the-corporate-gold-rush-around-functional-hydration-6c768bdd?mod=mw_rss_topstories"
+    },
+    {
+     "date": "2026-07-11",
+     "source": "MarketWatch",
+     "title": "‘It’s heartbreaking’: My brother claimed Social Security at 70. He died from cancer after one payment. Why wait to claim?",
+     "link": "https://www.marketwatch.com/story/its-heartbreaking-my-brother-claimed-social-security-at-70-he-died-from-cancer-after-one-payment-why-wait-to-claim-491669b6?mod=mw_rss_topstories"
     },
     {
      "date": "2026-07-10",
@@ -13683,5 +13701,5 @@
    ]
   }
  },
- "updatedAt": "2026-07-11T15:27:52+09:00"
+ "updatedAt": "2026-07-11T23:34:09+09:00"
 }
