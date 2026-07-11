@@ -40,8 +40,8 @@ jobs:
 
       - name: 브리핑 생성 + 빌드 + 이메일
         env:
-          # API 키 방식(console.anthropic.com). 구독토큰 대신 사용.
-          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          # 구독 토큰 방식(claude setup-token) — 구독에 포함, 추가비용 0.
+          CLAUDE_CODE_OAUTH_TOKEN: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
           RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
           TO_EMAIL: ${{ vars.TO_EMAIL || 'shinheegon@gmail.com' }}
         run: |
