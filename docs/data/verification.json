@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-07-11T13:19:37+09:00",
+ "updatedAt": "2026-07-11T15:15:36+09:00",
  "cases": [
   {
    "name": "이지트로닉스(377330)",
@@ -4731,6 +4731,269 @@
      "price": 8460
     }
    ]
+  },
+  {
+   "name": "나우로보틱스(277990)",
+   "type": "leading",
+   "market": "韓",
+   "flagDate": "2026-07-11",
+   "signals": [
+    "캐파증설(2공장)",
+    "수주연쇄",
+    "자체감속기"
+   ],
+   "theme": "로봇/휴머노이드",
+   "status": "pending",
+   "checks": []
+  },
+  {
+   "name": "대동기어(008830)",
+   "type": "leading",
+   "market": "韓",
+   "flagDate": "2026-07-11",
+   "signals": [
+    "수주잔고",
+    "로봇 감속기 밸류체인"
+   ],
+   "theme": "로봇/휴머노이드",
+   "status": "pending",
+   "checks": [],
+   "flagPrice": 10390,
+   "priceLog": [
+    {
+     "date": "2026-07-10",
+     "price": 10390
+    }
+   ]
+  },
+  {
+   "name": "코아시아씨엠(196450)",
+   "type": "leading",
+   "market": "韓",
+   "flagDate": "2026-07-11",
+   "signals": [
+    "경영진 자사주매입",
+    "로봇광학 확장"
+   ],
+   "theme": "로봇/휴머노이드",
+   "status": "pending",
+   "checks": [],
+   "flagPrice": 935,
+   "priceLog": [
+    {
+     "date": "2026-07-10",
+     "price": 935
+    }
+   ]
+  },
+  {
+   "name": "브이원텍(251630)",
+   "type": "leading",
+   "market": "韓",
+   "flagDate": "2026-07-11",
+   "signals": [
+    "자율제조 신사업 진출"
+   ],
+   "theme": "로봇/휴머노이드",
+   "status": "pending",
+   "checks": [],
+   "flagPrice": 3540,
+   "priceLog": [
+    {
+     "date": "2026-07-10",
+     "price": 3540
+    }
+   ]
+  },
+  {
+   "name": "웨이버스(336060)",
+   "type": "leading",
+   "market": "韓",
+   "flagDate": "2026-07-11",
+   "signals": [
+    "공공 AI플랫폼 수주(전기안전공사)"
+   ],
+   "theme": "AI소프트웨어",
+   "status": "pending",
+   "checks": [],
+   "flagPrice": 590,
+   "priceLog": [
+    {
+     "date": "2026-07-10",
+     "price": 590
+    }
+   ]
+  },
+  {
+   "name": "이엠앤아이(481070)",
+   "type": "leading",
+   "market": "韓",
+   "flagDate": "2026-07-11",
+   "signals": [
+    "정부실증 주관기관 선정"
+   ],
+   "theme": "로봇/휴머노이드",
+   "status": "pending",
+   "checks": [],
+   "flagPrice": 16800,
+   "priceLog": [
+    {
+     "date": "2026-07-10",
+     "price": 16800
+    }
+   ]
+  },
+  {
+   "name": "아스트(067390)",
+   "type": "discovery",
+   "market": "韓",
+   "flagDate": "2026-07-11",
+   "signals": [
+    "항공기 제작자증명 인증 획득"
+   ],
+   "theme": "항공/방산",
+   "status": "pending",
+   "checks": [],
+   "flagPrice": 501,
+   "priceLog": [
+    {
+     "date": "2026-07-10",
+     "price": 501
+    }
+   ]
+  },
+  {
+   "name": "모티브링크(464440)",
+   "type": "discovery",
+   "market": "韓",
+   "flagDate": "2026-07-11",
+   "signals": [
+    "전력변환→전장모듈 사업전환"
+   ],
+   "theme": "전장/전력부품",
+   "status": "pending",
+   "checks": [],
+   "flagPrice": 2110,
+   "priceLog": [
+    {
+     "date": "2026-06-16",
+     "price": 2110
+    }
+   ]
+  },
+  {
+   "name": "심텍(222800)",
+   "type": "warning",
+   "market": "韓",
+   "flagDate": "2026-07-11",
+   "signals": [
+    "SOCAMM 수혜 3개월 +84%"
+   ],
+   "theme": "반도체소재/장비",
+   "status": "pending",
+   "checks": [],
+   "flagPrice": 122700,
+   "priceLog": [
+    {
+     "date": "2026-07-10",
+     "price": 122700
+    }
+   ]
+  },
+  {
+   "name": "삼현(437730)",
+   "type": "warning",
+   "market": "韓",
+   "flagDate": "2026-07-11",
+   "signals": [
+    "방송 추천 급등 +111%"
+   ],
+   "theme": "로봇/휴머노이드",
+   "status": "pending",
+   "checks": [],
+   "flagPrice": 34100,
+   "priceLog": [
+    {
+     "date": "2026-07-10",
+     "price": 34100
+    }
+   ]
+  },
+  {
+   "name": "에브리봇(270660)",
+   "type": "warning",
+   "market": "韓",
+   "flagDate": "2026-07-11",
+   "signals": [
+    "방송 추천 급등"
+   ],
+   "theme": "로봇/휴머노이드",
+   "status": "pending",
+   "checks": [],
+   "flagPrice": 11190,
+   "priceLog": [
+    {
+     "date": "2026-07-10",
+     "price": 11190
+    }
+   ]
+  },
+  {
+   "name": "신테카바이오(226330)",
+   "type": "warning",
+   "market": "韓",
+   "flagDate": "2026-07-11",
+   "signals": [
+    "공급계약 체결 상한가"
+   ],
+   "theme": "바이오/의료",
+   "status": "pending",
+   "checks": [],
+   "flagPrice": 1872,
+   "priceLog": [
+    {
+     "date": "2026-07-10",
+     "price": 1872
+    }
+   ]
+  },
+  {
+   "name": "세나테크놀로지(463480)",
+   "type": "warning",
+   "market": "韓",
+   "flagDate": "2026-07-11",
+   "signals": [
+    "2분기 영업익 +127% 서프라이즈 반영"
+   ],
+   "theme": "기타",
+   "status": "pending",
+   "checks": [],
+   "flagPrice": 4560,
+   "priceLog": [
+    {
+     "date": "2026-07-10",
+     "price": 4560
+    }
+   ]
+  },
+  {
+   "name": "프로티나(339950)",
+   "type": "warning",
+   "market": "韓",
+   "flagDate": "2026-07-11",
+   "signals": [
+    "삼성바이오에피스 계약 당일급등"
+   ],
+   "theme": "바이오/의료",
+   "status": "pending",
+   "checks": [],
+   "flagPrice": 2750,
+   "priceLog": [
+    {
+     "date": "2026-07-10",
+     "price": 2750
+    }
+   ]
   }
  ],
  "stats": {
@@ -4740,8 +5003,8 @@
   "miss": 42,
   "hitRate": 18.2,
   "avgD3ChangePct": -0.43,
-  "pending": 34,
-  "total": 111,
+  "pending": 48,
+  "total": 125,
   "byType": {
    "leading": {
     "verified": 52,

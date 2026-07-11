@@ -1,97 +1,95 @@
-# 📰 투자 브리핑 — 2026-07-11 오전
-*생성: 2026-07-11 09:30 KST · 회차: AM*
+# 📰 투자 브리핑 — 2026-07-11 오후
+*생성: 2026-07-11 19:20 KST · 회차: PM*
 
 ## 🎯 한눈에 보기
-- **SK하이닉스 나스닥 데뷔 성공**: ADR 공모가 $149 → 첫날 **$168.01 마감(+13%)**, 265억달러 조달로 외국기업 美 IPO 사상 최대. 최태원 "AI칩 늘 부족, 고객들 공급 5~6배 확대 원해" — 메모리 슈퍼사이클 담론 강화. [CNBC](https://www.cnbc.com/2026/07/10/sk-hynix-skhy-stock-nasdaq.html)
-- **美 증시 주간 상승 마감**: S&P500 7,575.39(+0.42%)·나스닥 26,281.61(+0.29%)·다우 52,637.01(+0.29%). 엔비디아 +4%, 메타 +6%. [야후파이낸스](https://finance.yahoo.com/markets/live/stock-market-today-friday-july-10-dow-sp-nasdaq-113921604.html)
-- **다음주가 분수령**: 7/14 美 6월 CPI(상회 시 9월 인상 확률 60%+ 복귀) + **7/16 한은 금통위 — 3년 6개월 만의 금리인상 기정사실화**(씨티 "만장일치"). [이데일리](http://www.edaily.co.kr/news/newspath.asp?newsid=01758086645513536) · [연합](https://www.yna.co.kr/view/AKR20260711012900002)
-- 어제 한국장: **코스피 +2.52%(7,475.94)·코스닥 +5.47%(837.43) 양시장 매수 사이드카**, 원/달러 1,501.4(-4.7)로 1,500 하회 시도. [아시아경제](https://view.asiae.co.kr/article/2026071015343856713)
-- **中 헬륨(반도체 핵심소재) 수출 금지** — 공급망 꼬리위험 재점화. [한국경제](https://www.hankyung.com/article/2026071088521)
+- **오늘(7/11)은 토요일 — 국내외 증시 휴장.** 이번 PM 회차는 직전 거래일(7/10 금) 마감 데이터와 **주말 사이 새로 나온 뉴스**를 종합해 다음 거래일(7/13 월) 관전포인트를 정리한다.
+- **이재명 대통령 "2027년까지 확장재정 지속"**(7/11 세종 업무보고) — 성장률 회복 시 조세수입으로 재정건전성 커버 가능하다는 입장. 7/23 부동산 대토론회 직접 주재 예고. [jjan.kr](https://www.jjan.kr/article/20251211500581)
+- **다음주가 분수령**: 7/14(화) 美 6월 CPI(컨센서스 전년比 +2.6%·코어 +3.0%, 케빈 워시 연준의 9월 인상 확률 좌우) + **7/16(목) 한은 금통위 — 3년 6개월 만의 기준금리 인상(2.50%→2.75%) 유력**(BNP파리바 "만장일치" 전망). [Morningstar](https://www.morningstar.com/economy/june-cpi-report-forecasts-show-inflation-ticking-higher-tariff-impact-emerges) · [글로벌이코노믹](https://www.g-enews.com/article/Finance/2026/07/202607101341498357bb91c46fcd_1)
+- **中 헬륨(반도체 핵심 공정가스) 수출 임시 금지 발효(7/10)** — 희토류·갈륨·게르마늄에 이은 전략물자 통제 확대, 반도체 공급망 꼬리위험 재점화. [한국경제](https://www.hankyung.com/article/2026071087527) · [Caixin](https://www.caixinglobal.com/2026-07-11/china-bans-helium-exports-as-global-supply-crunch-hits-chipmaking-gas-102462943.html)
+- **방산 랠리 첫 균열**: 한화오션의 캐나다 잠수함(CPSP, 60조원) 수주가 獨 TKMS에 밀려 불발(7/6) — MRO 비중이 높은 나토 조달 특성상 구조적 약점 노출. [파이낸셜뉴스](https://www.fnnews.com/news/202607070529121838)
+- **바이오 열세 재확인**: HLB 리보세라닙 FDA 3차 CRL(7/9) + 펩트론 릴리 공동연구 논란으로 7/10 하한가(-29.94%). [이데일리](https://edaily.co.kr/News/Read?mediaCodeNo=257&newsId=02692886645513208) · [뉴스핌](https://www.newspim.com/news/view/20260710001322)
 
 ## ⭐ 관심종목 동향
-- **삼성전자(005930)**: 코스피 급등일 +2%대 강세, "하이닉스 재평가 땐 삼전도 미소 — 1만피 트리거" 리포트. 증권가 "삼성 ADR 가능성은 낮다" 평가. [한국경제](https://www.hankyung.com/article/2026071086131) · [한국경제](https://www.hankyung.com/article/2026041371067)
-- **SK하이닉스(000660)**: 나스닥 ADR 데뷔 +13%($168.01). 국내 원주는 ADR 수급 이동 경계로 약보합 — '역김치 프리미엄' 형성 여부 관찰. [연합](https://www.yna.co.kr/view/AKR20260710035652008) · [연합](https://www.yna.co.kr/view/AKR20260710088800008)
-- **한미반도체(042700)**: 그로쓰리서치 "TC본더 적용처 확장으로 신규 수주 경쟁력 강화, 2026년 매출 7,850억 전망". HBM 캐파 확대 사이클의 대표 수혜 장비주 지위 유지. [다음/그로쓰리서치](https://v.daum.net/v/20260702084432066?f=p)
-- **키워드(HBM·금리인하·AI데이터센터)**: HBM 7d 14회로 상위 유지(최태원 공급 부족 발언), 금리 담론은 '인하'가 아닌 **'인상'**으로 완전 전환, AI데이터센터 언급은 소강.
+- **삼성전자(005930)**: 아산 46조원 투자 인허가 절차 실행 단계 진입. CNBC "2분기 영업이익 전년比 1,800% 급증" 잠정실적 보도, 다만 AI 투자 부담 우려도 병존. 이재용 회장 "2028년까지 완판" 발언(파운드리 반격 시사). [연합](https://www.yna.co.kr/view/AKR20260710045400063) · [CNBC](https://www.cnbc.com/2026/07/07/samsung-electronics-preliminary-second-quarter-profit-hits-fresh-high.html) · [한국경제](https://www.hankyung.com/article/2026071069186)
+- **SK하이닉스(000660)**: 나스닥 ADR 데뷔 +13%($168.01) 여진 지속 — 시총 40조원 증가로 알리바바 이후 외국기업 美 IPO 역대 기록 재평가. 中 D램 1위 CXMT가 IPO로 6.5조원 조달해 추격 가속 중이라는 견제 요인도 부상. [한국경제](https://www.hankyung.com/article/2026071072846) · [아시아경제](https://view.asiae.co.kr/article/2026071109544574192)
+- **한미반도체(042700)**: 2.5D TC본더 신제품으로 AI 반도체 패키징 시장 공략, HBM4 양산 확대에 따라 하반기 TC본더 수주 집중 전망(곽동신 회장). 美 산호세 '한미USA' 법인 설립 추진 중. [asiatime](https://www.asiatime.co.kr/article/20260504500145)
+- **키워드(HBM·금리인하·AI데이터센터)**: HBM 오늘 3회 재언급으로 7d 13회 유지. '금리인하'는 여전히 '금리인상우려'로 완전 전환된 상태(오늘 4회, 7d 16회 1위). AI데이터센터는 소강세 지속(30d 50회, 최근 신규언급 없음).
 
 ## 📊 거시경제 지표·발표
 **미국**
-- 6월 비농업고용 **+5.7만 (예상 대폭 하회) · 실업률 4.2%** — 고용 급랭. [CNBC](https://www.cnbc.com/2026/07/02/jobs-report-june-2026-.html)
-- 경제활동참가율 코로나기 제외 **50년 최저** — 구직 포기 확산. [CNBC](https://www.cnbc.com/2026/07/02/job-seekers-giving-up-labor-force-participation-rate-falls-to-lowest-in-50-years-outside-of-covid-era.html)
-- 5월 근원 PCE 4.1%·CPI 4.2% 고착 속 **7/14 6월 CPI 발표 — 워시 연준의 9월 인상 확률을 결정**. [한국경제](https://www.hankyung.com/article/202607118953i)
-- 美 10년물 4.56%, 시장 F&G 48(중립). [ETF트렌즈](https://www.etftrends.com/fixed-income-content-hub/treasury-yields-snapshot-july-10-2026/) · [CNN](https://www.cnn.com/markets/fear-and-greed)
+- 6월 CPI 발표 예정(7/14, 美 동부시간 오전 8:30) — FactSet 컨센서스 헤드라인 전년比 +2.6%·코어 +3.0%. 6월 중순 유가 급락(호르무즈 재개통, ~21%↓)으로 헤드라인 마이너스 가능성도 제기되나 클리블랜드 연은 나우캐스트는 3.96%로 예측해 불확실성 큼. [Morningstar](https://www.morningstar.com/economy/june-cpi-report-forecasts-show-inflation-ticking-higher-tariff-impact-emerges)
+- 케빈 워시 연준의장, 7/10 통화정책 검토 5개 태스크포스(대외소통·대차대조표·데이터활용·생산성/일자리·인플레이션 프레임워크) 수장단 확정 — 연말까지 FOMC에 권고안 제시 예정. 7/14 하원·7/15 상원 증언 예정. [뉴스핌](https://www.newspim.com/news/view/20260710000024)
+- 선물시장, 연내 최소 1회 금리 인상 가능성 75%+ 반영(6월 초 58%에서 상승), 9월 인상 시점 유력. [U.S. News](https://www.usnews.com/news/national-news/articles/2026-07-08/fed-split-on-direction-of-interest-rates-at-june-meeting)
+- 트럼프, 7/10 캐나다에 8/1부 35% 관세 부과 위협. 7/20 USTR 대상국(한국 포함 46개국) 12.5% 관세 부과 여부 결정 시한 예정. [Trade Compliance Resource Hub](https://www.tradecomplianceresourcehub.com/2026/06/03/trump-2-0-tariff-tracker/)
 
 **한국**
-- **7/16 금통위 금리인상 초읽기** — 3년 6개월 만의 인상 유력, '추가 인상 신호' 여부가 관건. 하반기 경제성장전략도 다음주 공개. [이데일리](http://www.edaily.co.kr/news/newspath.asp?newsid=01758086645513536) · [연합](https://www.yna.co.kr/view/AKR20260711012900002)
-- 씨티 "한은 7월 **만장일치 인상**, 내년 최종금리 3.5%". [이데일리](http://www.edaily.co.kr/news/newspath.asp?newsid=04795366645512880)
-- 원/달러 1,501.4(-4.7) — ADR 훈풍·달러 약세에 장중 1,500 하회. [연합](https://www.yna.co.kr/view/AKR20260710120700002)
-- 국고채 3년물 3.768% 하락 마감. [연합](https://www.yna.co.kr/view/AKR20260710137300008)
-- 靑 "보유세·거래세 등 세제 전반 합리적 개선안 검토, **23일 대통령 주재 부동산 대토론회**". [연합](https://www.yna.co.kr/view/AKR20260710055251001)
+- **7/16(목) 금통위 — 3년 6개월 만의 기준금리 인상(2.50%→2.75%) 유력.** 신현송 총재, 7/9 국회 재정경제기획위 업무보고에서 "목표 수준 상회 물가, 성장세 개선, 금융안정 리스크 등 고려 시 적절한 시기 인상 필요" 재확인. BNP파리바 "만장일치 인상, 연말 3.00% 전망". [헤럴드경제](https://biz.heraldcorp.com/article/10803354) · [글로벌이코노믹](https://www.g-enews.com/article/Finance/2026/07/202607101341498357bb91c46fcd_1)
+- 원/달러 1,501.4원(7/10, -4.7원) — ADR 훈풍·달러 약세로 1,500원 하회 시도. [연합](https://www.yna.co.kr/view/AKR20260710120700002)
+- 이재명 대통령, 7/11 세종 기재부·국세청 등 업무보고에서 **"2027년까지 확장재정 지속"** 방침 발표. "내후년 확장 기조로 예산 편성해야" — 재정건전성 우려엔 "성장률 회복 시 조세수입으로 커버 가능" 응수. [jjan.kr](https://www.jjan.kr/article/20251211500581)
+- 7/23 대통령 주재 **부동산 정책 국민 대토론회** 확정, 보유세·거래세 개편 논의(8월 초 세제개편안 공개 예정). 국토부·금융위·기재부가 7/14~16 선행 공개토론회 개최. [한국일보](https://www.hankookilbo.com/news/article/A2026071016090004674) · [헤럴드경제](https://biz.heraldcorp.com/article/10805084)
+- 6월 수출 전년比 70.9% 증가한 1,022.5억 달러로 사상 첫 월 1,000억 달러 돌파, 반도체 수출 448.2억 달러(+199.5%). [산업통상부](https://www.korea.kr/briefing/policyBriefingView.do?newsId=156769112)
 
 ## 🗣️ 주요 인물 발언 (팩트)
-- **최태원(SK 회장)**: "AI칩은 늘 부족하다. 고객들이 공급을 5~6배 늘리길 원한다" · "메모리 사이클은 구조적으로 변했다" — 나스닥 상장식 발언, HBM 증설 사이클 지속 함의. [한국경제](https://www.hankyung.com/article/2026071189041)
-- **케빈 워시(Fed 의장)**: "물가는 여전히 너무 높다" — 인플레 2% 목표 무조건 사수 입장, 7월 동결 우세 속 9월 인상 옵션 유지. KB증권 "향후 점도표 축소·경제전망 강화 커뮤니케이션 예상". [sahmcapital](https://www.sahmcapital.com/news/content/feds-warsh-calls-inflation-too-high-but-july-rate-hike-odds-cool-2026-07-01) · [이데일리](http://www.edaily.co.kr/news/newspath.asp?newsid=04995446645512880)
-- **김용범(정책실장)**: "보유세·거래세 등 세제 전반 합리적 개선안 검토 중" — 부동산 세제 개편 공식화. [연합](https://www.yna.co.kr/view/AKR20260710048600001)
-- **젠슨 황(엔비디아)**: 6월 서울 방문서 "삼성·SK·마이크론 3사 모두 HBM4 양산 인증, 하반기 램프업은 상반기보다 훨씬 크다" — 3분기 베라루빈 출하 예정. [NVIDIA 블로그](https://blogs.nvidia.com/blog/korea-ecosystem-2026/) · [테크타임즈](https://www.techtimes.com/articles/317855/20260605/nvidia-vera-rubin-hbm4-jensen-huang-confirms-all-three-suppliers-production-q3-ship.htm)
+- **이재명 대통령**: "경제 하향곡선을 우상향으로 전환하려면 2027년까지 확장재정을 지속할 수밖에 없다" — 세종 업무보고(7/11), 확장재정 기조 공식화. [jjan.kr](https://www.jjan.kr/article/20251211500581)
+- **신현송(한은 총재)**: "목표 수준을 상회하는 물가, 개선되는 성장세, 금융안정 리스크 등을 종합적으로 고려할 때 적절한 시기에 기준금리 인상이 필요하다" — 7/9 국회 업무보고, 7/16 금통위 인상 시사. [헤럴드경제](https://biz.heraldcorp.com/article/10803354)
+- **케빈 워시(Fed 의장)**: "가계·기업·금융시장 누군가 이 중앙은행이 2% 넘는 인플레이션 목표에 안주할 것이라 생각한다면 실망시켜 드리겠다" — 매파 스탠스 재확인 + 통화정책 검토 태스크포스 5개 구성(7/10). [CNBC](https://www.cnbc.com/2026/07/01/kevin-warsh-ecb-forum-live-updates.html) · [뉴스핌](https://www.newspim.com/news/view/20260710000024)
+- **최태원(SK 회장)**: "AI칩은 늘 부족하다. 고객들이 공급을 5~6배 늘리길 원한다" — 나스닥 상장식 발언, HBM 증설 사이클 지속 함의. [한국경제](https://www.hankyung.com/article/2026071189041)
+- **젠슨 황(엔비디아)**: 텍사스 셔먼 공장 착공식 "모두가 AI를 사용해야 한다" 발언, 7/15 일본에서 RTX Spark 공개 행사 참석 예정. [The Hill](https://thehill.com/policy/technology/5928431-nvidia-jensen-huang-ai-society/) · [VideoCardz](https://videocardz.com/newz/nvidia-and-sega-celebrate-30-years-of-history-in-japan-jensen-huang-to-attend)
+- **일론 머스크**: SpaceX IPO 영향으로 순자산 일시 1조달러 돌파, 스페이스X-테슬라 합병설 부상. 테슬라 2분기 인도량 48만126대(예상 상회, 전년比 +25%). [Bloomberg](https://www.bloomberg.com/news/articles/2026-07-06/will-spacex-and-tesla-merge-why-elon-musk-may-combine-his-companies) · [Yahoo Finance](https://finance.yahoo.com/markets/stocks/articles/elon-musk-mojo-back-tesla-160429512.html)
 
 ## 🏭 산업·사업 전망
-- **메모리/HBM**: 마이크론 美 공장 투자 2,500억달러로 확대, 메타 자체 AI칩 9월 양산 — AI 캐펙스 가속 지속. [한국경제](https://www.hankyung.com/article/202607106806i) · [한국경제](https://www.hankyung.com/article/2026071068287)
-- **로봇/휴머노이드(승세 테마)**: 주4.5일제 정책주 부상 + 나우로보틱스 2공장·티로보틱스 베트남 법인 등 소형주 군집 3일째. 단 "로봇주 과열" 경고 병존. [머니투데이](https://news.mt.co.kr/mtview.php?no=2025091914587072565)
-- **전력망/ESS**: 일진전기 英 845억 초고압 케이블 수주, 정부 배전망 ESS 700MW에 LG엔솔·삼성SDI 선정 — 전력기기 수출 사이클 지속. [한국경제](https://www.hankyung.com/article/2026071085711) · [한국경제](https://www.hankyung.com/article/2026071085691)
-- **공급망 리스크**: 中 헬륨 수출 금지 + 對日 수출규제 확대(드론·원자력·방산) — 소재 국산화 테마 재부상 소지. [한국경제](https://www.hankyung.com/article/2026071088521) · [CNBC](https://www.cnbc.com/2026/06/29/china-japan-export-controls-watch-list-defense-entities.html)
-- **바이오(열세)**: HLB FDA 3차 CRL로 그룹주 무더기 하한가, 펩트론 릴리 공동연구서 터제파타이드 제외 논란 — 악재 연쇄. [한국경제](https://www.hankyung.com/article/2026071071396) · [이데일리](http://www.edaily.co.kr/news/newspath.asp?newsid=05992566645512880)
+- **메모리/HBM**: SK하이닉스 ADR 흥행 여진 지속, 中 CXMT의 6.5조원 IPO 조달로 추격 가속 견제 요인 부상. HBM4 시장 확대 속 삼성·SK·마이크론 경쟁 심화. [아시아경제](https://view.asiae.co.kr/article/2026071109544574192) · [머니투데이](https://www.mt.co.kr/industry/2026/07/02/2026070113482976088)
+- **공급망 리스크**: 中 헬륨(반도체 냉각·공정가스) 수출 임시 금지 발효(7/10) — 희토류·갈륨·게르마늄에 이은 전략물자 통제 확대, 국산화·대체조달 테마 재부상 소지. [한국경제](https://www.hankyung.com/article/2026071087527)
+- **로봇/휴머노이드(승세 테마)**: 나우로보틱스·대동기어·브이원텍·웨이버스 등 소형주 군집 3일 연속 반복 출현. 다만 **코스모로보틱스는 상장 후 4연상(+778%)으로 이미 과열** — 조기 종목과 후발 종목 구분 필요. [아주경제](https://www.ajunews.com/view/20260514143420675)
+- **방산**: 한화오션 캐나다 잠수함(CPSP, 60조원) 수주 獨 TKMS에 밀려 불발(7/6) — MRO 비중 50% 배점상 나토 상호운용성이 결정 요인, 방산주 조정 요인. [파이낸셜뉴스](https://www.fnnews.com/news/202607070529121838) · [경향신문](https://www.khan.co.kr/article/202607071624011/)
+- **바이오(열세)**: HLB 리보세라닙 FDA 3차 CRL(7/9)로 그룹주 무더기 하한가, 펩트론 릴리 공동연구 '터제파타이드 미포함' 발언 논란으로 7/10 하한가(-29.94%). [이데일리](https://edaily.co.kr/News/Read?mediaCodeNo=257&newsId=02692886645513208) · [뉴스핌](https://www.newspim.com/news/view/20260710001322)
 
 ## 📈 주목 상장사 & 발굴 후보
 | 회사(티커) | 시장 | 주목 이유 | 투자 고려 포인트(팩트) | 출처 |
 |---|---|---|---|---|
-| SK하이닉스(000660) | 韓/美 | 나스닥 ADR 데뷔 +13% | 265억달러 조달·역대 최대 외국기업 IPO, 원주-ADR 수급 이동 관찰 | [CNBC](https://www.cnbc.com/2026/07/10/sk-hynix-skhy-stock-nasdaq.html) |
-| 엔비디아(NVDA) | 美 | +4%, S&P 상승 견인 | HBM4 3사 양산 인증·Q3 베라루빈 출하 | [야후](https://finance.yahoo.com/markets/live/stock-market-today-friday-july-10-dow-sp-nasdaq-113921604.html) |
-| 나우로보틱스(277990) | 韓 | 2공장 운영·3거점 | 승세 테마+캐파증설, 조기 출몰 4회째 | [아시아경제](https://view.asiae.co.kr/article/2026071011552434455) |
-| 엑시콘(092870) | 韓 | 삼성전자 498억 공급계약 | 수주는 명확하나 ⚠️열세 테마(장비) | [아시아경제](https://view.asiae.co.kr/article/2026071010175220641) |
-| 일진전기(103590) | 韓 | 英 845억 초고압 케이블 | 유럽 전력망 교체 수요 확인(중형) | [한국경제](https://www.hankyung.com/article/2026071085711) |
-| 심텍(222800) | 韓 | SOCAMM 수혜 | 3개월 +84% — 후발 주의 | [한국경제](https://www.hankyung.com/article/202607107928i) |
+| SK하이닉스(000660) | 韓/美 | 나스닥 ADR 데뷔 +13% 여진 | 265억달러 조달·시총 40조원 증가, 中 CXMT 추격 견제 요인 | [한국경제](https://www.hankyung.com/article/2026071072846) |
+| 스페이스X(SPCX) | 美 | 나스닥100 편입 확정 | 대규모 ETF 매수 수요 예상, 메가캡 IPO 새 모델로 부상 | [CNBC](https://www.cnbc.com/2026/06/26/spacex-added-to-nasdaq-100.html) |
+| 애플(AAPL) | 美 | 오픈AI 상대 소송 제기 | "기밀정보 절취" 주장, "빙산의 일각" 추가 폭로 시사 | [MarketWatch](https://www.marketwatch.com/story/apple-sues-openai-for-institutional-misconduct-and-alleges-thats-just-the-tip-of-the-iceberg-6e803c4d?mod=mw_rss_topstories) |
+| 한화오션(042660)·한화에어로스페이스(012450) | 韓 | 캐나다 잠수함 수주 불발 | 방산 랠리 첫 균열, MRO 비중 구조적 약점 노출 | [파이낸셜뉴스](https://www.fnnews.com/news/202607070529121838) |
+| HLB(028300)·펩트론(087010) | 韓 | 바이오 악재 연쇄 | FDA 3차 CRL·계약 해석 논란, 열세 테마 재확인 | [이데일리](https://edaily.co.kr/News/Read?mediaCodeNo=257&newsId=02692886645513208) |
+| 나우로보틱스(277990) | 韓 | 로봇 소형주 3일 연속 반복 | 승세 테마+캐파증설, 조기 출몰 4회째 | [아시아경제](https://view.asiae.co.kr/article/2026071011552434455) |
 
 ## 🧠 분석가 패널 (해석·예측 — 투자권유 아님)
-- 🟢 **낙관**: SKHY ADR 흥행 = 한국 증시 유통채널 업그레이드, 환율 안정+외국인 복귀 시 상단 열림. / 🔴 **비관**: 7/14 CPI 재가속 시 인상 카드 부활 — 고용급랭+물가 4%대는 최악 조합. / ⚪ **객관**: F&G 48 중립, 코스닥 급등은 되돌림 성격 — 이벤트 전 방향 베팅 비합리.
-- 🤝 **합의**: 다음 거래일(월) **중립~상방** — SKHY 안착·환율 안정 지지, 7/14 CPI 경계로 상단 제한.
-- **국내 종목 흐름**: SK하이닉스(7d 35회)·삼성전자(34회) 블랙홀 지속, 로봇 소형주 군집 3일째 상승 — 자금이 유일 승세 테마로 회전. 조선(한화오션) 언급 소강.
-- **관전 포인트·리스크**: ① 7/14 美 CPI+워시 발언 ② 7/16 금통위(만장일치·추가인상 힌트) ③ 中 소재 수출통제 확산.
+- 🟢 **낙관**: 확장재정 방침(이재명)은 경기 하방 대응 신호, SKHY ADR 안착+환율 안정 지속 시 상단 열림. / 🔴 **비관**: 확장재정+통화긴축 엇박자 우려, 7/14 CPI 재가속 시 한미 동시 긴축 최악 조합. 방산·바이오 악재 연쇄는 경계 신호. / ⚪ **객관**: F&G 48 중립, VIX 15.84(-6.3%)로 과열·공포 아님 — 이벤트(7/14, 7/16) 전 방향 베팅은 비합리적.
+- 🤝 **합의**: 다음 거래일(월 7/13) **중립** — SKHY 안착·환율 안정 지지, 7/14 CPI 경계로 상단 제한.
+- **국내 종목 흐름**: SK하이닉스(누적 165회)·삼성전자(163회) 블랙홀 지속, 로봇 소형주 군집 3일째 반복 — 유일 승세 테마로 자금 로테이션. 방산(한화오션·한화에어로스페이스)은 수주 실패로 관심 소강.
+- **관전 포인트·리스크**: ① 7/14 美 CPI+워시 하원 증언 ② 7/16 금통위(만장일치·추가인상 시사 여부) ③ 中 헬륨 등 소재 수출통제 확산.
 
 ## 🌱 성장사업 핵심부품 소형주 발굴 (정보용)
-- 🌱 **조기 출몰(선점 후보 — 최우선)**:
-  - **나우로보틱스(277990)·소 [첫등장 D-2·누적 4회·↗]** · [로봇✅] 산업용로봇+자체 감속기 · 2공장 운영 개시(캐파증설 촉발재). [아시아경제](https://view.asiae.co.kr/article/2026071011552434455)
-  - **대동기어(008830)·소 [첫등장 D-2·누적 4회·↗]** · [로봇✅] 감속기·기어 · 수주잔고 보유, 언급 빈도 막 켜짐. [머니투데이](https://news.mt.co.kr/mtview.php?no=2025091914587072565)
-  - **코아시아씨엠(196450)·소 [누적 3회·↗]** · [로봇✅] 로봇 광학모듈 · 경영진 자사주 매입 연속(내부자 신호). [아시아경제](https://view.asiae.co.kr/article/2026070913211998970)
-  - **이엠앤아이(481070)·소 [누적 3회]** · [로봇✅] 제조로봇 실증 · 경기도 실증 주관기관 '선정'. [머니투데이](https://news.mt.co.kr/mtview.php?no=2025091909170119143)
-  - **웨이버스(336060)·소 [누적 4회·↗]** · [공공AI] GeoAI · 전기안전공사 AI 플랫폼 수주. [아시아경제](https://view.asiae.co.kr/article/2026070908475756190)
-- 🔥 **누적 부상(이미 떠오름 — 참고, 진입 늦을 수 있음)**: 오텍캐리어(126560·HVAC 누적 10회), 심텍(222800·+84%), 티로보틱스(117730·재평가 진행).
+- 🌱 **조기 출몰(선점 후보 — 최우선)**: 3일 연속 반복 포착 중인 나우로보틱스(277990)·대동기어(008830)·브이원텍(251630)·웨이버스(336060) — 캐파증설·수주·공공AI 등 구체 촉발재 보유, 로봇/휴머노이드 승세 테마. [출처: 발굴 탭]
+- 🔥 **누적 부상(이미 떠오름 — 참고)**: 심텍(222800·SOCAMM +84%), 코스모로보틱스(상장후 4연상·+778%) — **진입 늦을 수 있음**.
 
 ## 🔮 선행 신호 (후발 진입 방지)
 - 🟢 **선행 포착(오르기 전 기회)**: 나우로보틱스(캐파증설+수주, 4회 반복) · 대동기어(수주잔고+테마 편입 초기) · 코아시아씨엠(내부자 매수 — 실측 검증된 신호). [출처: 발굴 탭]
-- 🔴 **후발 경고(이미 급등)**: 심텍(+84%/3개월), 삼현(+111%)·에브리봇(방송 추천), 신테카바이오(상한가·바이오 열세), 세나테크놀로지(+21% 어닝 반영 완료), 한성기업(수급 이벤트 상한가).
+- 🔴 **후발 경고(이미 급등)**: 코스모로보틱스(+778%), 심텍(+84%/3개월), 삼현·에브리봇(방송추천), 한화오션·한화에어로스페이스(방산 수주 불발 여파).
 - 🎯 **선행 점수 Top 3**: ① 나우로보틱스 ② 대동기어 ③ 코아시아씨엠.
 
 ## 🕵️ 중간보스 최종 검토
-- ✅ **검토 결과**: 핵심 수치 복수 출처 교차 확인 — 신뢰도 높음(VIX·DXY만 근사 표기).
-- 🔍 **추가 발굴**: 선익시스템(171090·인도 협력 — ⚠️장비 열세라 관찰만), 크레버스(096240·퓨리오사AI MOU — 차기 관찰 등록).
-- 🎯 **최종 의견**: 오늘의 소형 성장주 Top 3 = **나우로보틱스 · 대동기어 · 코아시아씨엠** (모두 승세 테마 × 구체 촉발재).
+- ✅ **검토 결과**: 핵심 수치 복수 출처 교차 확인, DXY 100.87로 정정 — 신뢰도 높음. 한은 총재 관련 오인용 정보(2025년 기사 오인) 배제·정정 완료.
+- 🔍 **놓쳤다가 추가된 소형주**: 없음(4회 보강 검색 결과 기존 8종목 목록이 최선).
+- 🎯 **최종 의견**: 오늘 가장 주목할 소형 성장주 Top 3 = **나우로보틱스 · 대동기어 · 코아시아씨엠** (모두 승세 테마 × 구체 촉발재 × 3일 연속 반복).
 
 ## 🔑 키워드 빈도·트렌드
-- **오늘 급부상**: ADR상장(↑3), 사이드카(신규), 중국수출통제(신규), CPI경계(신규), 워크아웃(신규·중앙일보/홈플러스)
-- **최근 7일 상위**: 메모리슈퍼사이클(17), 금리인상우려(17), AI반도체(16), 휴머노이드(16), 외국인수급(15), HBM(14)
-- **최근 30일 상위**: AI반도체(84), 메모리슈퍼사이클(74), HBM(71), 케빈워시연준(55), 고환율(55), 휴머노이드(52)
+- **오늘 재부상**: AI반도체(4)·메모리슈퍼사이클(4)·금리인상우려(4)·ADR상장(4), 신규: 확장재정·헬륨수출금지·나스닥100편입·잠수함수주불발·통화정책TF
+- **최근 7일 상위**: 메모리슈퍼사이클(16), 금리인상우려(16), AI반도체(15), 휴머노이드(15), 외국인수급(14), HBM(13)
+- **최근 30일 상위**: AI반도체(85), 메모리슈퍼사이클(75), HBM(72), 케빈워시연준(56), 고환율(56), 외국인수급(55)
 
 ## 🔗 출처 링크 모음
-- https://www.cnbc.com/2026/07/10/sk-hynix-skhy-stock-nasdaq.html
-- https://finance.yahoo.com/markets/live/stock-market-today-friday-july-10-dow-sp-nasdaq-113921604.html
-- https://www.hankyung.com/article/2026071189041
-- https://www.hankyung.com/article/202607118953i
-- https://www.yna.co.kr/view/AKR20260711012900002
-- http://www.edaily.co.kr/news/newspath.asp?newsid=04795366645512880
-- https://www.cnbc.com/2026/07/02/jobs-report-june-2026-.html
-- https://www.yna.co.kr/view/AKR20260710055251001
-- https://www.hankyung.com/article/2026071088521
+- https://www.jjan.kr/article/20251211500581
+- https://biz.heraldcorp.com/article/10803354
+- https://www.hankyung.com/article/2026071087527
+- https://www.fnnews.com/news/202607070529121838
+- https://edaily.co.kr/News/Read?mediaCodeNo=257&newsId=02692886645513208
+- https://www.morningstar.com/economy/june-cpi-report-forecasts-show-inflation-ticking-higher-tariff-impact-emerges
+- https://www.g-enews.com/article/Finance/2026/07/202607101341498357bb91c46fcd_1
+- https://www.hankyung.com/article/2026071072846
 - https://view.asiae.co.kr/article/2026071011552434455
+- https://www.newspim.com/news/view/20260710000024
 
 ---
 > ⚠️ **면책**: 본 브리핑은 공개 정보를 요약한 자료이며 투자 권유가 아닙니다.
