@@ -30,7 +30,7 @@ python3 "$PROJECT_DIR/scripts/collect-news.py" 2>&1 | tee -a "$LOG" || true
 # --- 브리핑 생성 (Claude Code 헤드리스, CLAUDE_CODE_OAUTH_TOKEN 사용) ---
 claude -p "$(cat "$PROJECT_DIR/prompt/briefing-prompt.md")" \
   --permission-mode acceptEdits \
-  --allowedTools "WebSearch,WebFetch,Read,Write,Edit,Bash" \
+  --allowedTools "WebSearch,WebFetch,Read,Write,Edit" \
   2>&1 | tee -a "$LOG"
 RC=${PIPESTATUS[0]}
 
