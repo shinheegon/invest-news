@@ -4693,6 +4693,44 @@
      "price": 4560
     }
    ]
+  },
+  {
+   "name": "엑시콘(092870)",
+   "type": "discovery",
+   "market": "韓",
+   "flagDate": "2026-07-11",
+   "signals": [
+    "삼성전자 498억 공급계약"
+   ],
+   "theme": "반도체소재/장비",
+   "status": "pending",
+   "checks": [],
+   "flagPrice": 17610,
+   "priceLog": [
+    {
+     "date": "2026-07-10",
+     "price": 17610
+    }
+   ]
+  },
+  {
+   "name": "한성기업(003680)",
+   "type": "warning",
+   "market": "韓",
+   "flagDate": "2026-07-11",
+   "signals": [
+    "이틀 연속 상한가(애국개미운동)"
+   ],
+   "theme": "기타",
+   "status": "pending",
+   "checks": [],
+   "flagPrice": 8460,
+   "priceLog": [
+    {
+     "date": "2026-07-10",
+     "price": 8460
+    }
+   ]
   }
  ],
  "stats": {

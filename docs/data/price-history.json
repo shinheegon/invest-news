@@ -1552,6 +1552,32 @@
    "series": {
     "2026-07-10": 4560
    }
+  },
+  "엑시콘(092870)": {
+   "market": "韓",
+   "type": "discovery",
+   "firstSeen": "2026-07-10",
+   "firstPrice": 17610,
+   "lastPrice": 17610,
+   "changePct": 0.0,
+   "points": 2,
+   "series": {
+    "2026-07-10": 17610,
+    "2026-07-11": 17610
+   }
+  },
+  "한성기업(003680)": {
+   "market": "韓",
+   "type": "warning",
+   "firstSeen": "2026-07-10",
+   "firstPrice": 8460,
+   "lastPrice": 8460,
+   "changePct": 0.0,
+   "points": 2,
+   "series": {
+    "2026-07-10": 8460,
+    "2026-07-11": 8460
+   }
   }
  }
 }

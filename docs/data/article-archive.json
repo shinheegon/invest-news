@@ -9943,18 +9943,6 @@
      "source": "한국경제·경제",
      "title": "SK, KKR과 손잡고 국내 최대 신재생에너지 기업 연내 출범",
      "link": "https://www.hankyung.com/article/202607019678i"
-    },
-    {
-     "date": "2026-07-01",
-     "source": "한국경제·증권",
-     "title": "삼성·SK 800조 투자에 '주가 급등'…美 개미들도 '들썩'",
-     "link": "https://www.hankyung.com/article/202607019263i"
-    },
-    {
-     "date": "2026-07-01",
-     "source": "이데일리·경제",
-     "title": "SK, 글로벌 사모펀드 KKR '맞손'…신재생에너지기업 출범",
-     "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=04582166645510256"
     }
    ]
   },
@@ -12083,6 +12071,12 @@
   "쿠팡(CPNG)": {
    "articles": [
     {
+     "date": "2026-07-11",
+     "source": "연합뉴스·경제",
+     "title": "쿠팡도 간편결제 참전…'로켓페이' 하반기 출시",
+     "link": "https://www.yna.co.kr/view/AKR20260710160500030"
+    },
+    {
      "date": "2026-07-10",
      "source": "한국경제·경제",
      "title": "간편결제 참전한 쿠팡…'네이버식 금융' 확장",
@@ -12364,6 +12358,12 @@
   },
   "대상(001680)": {
    "articles": [
+    {
+     "date": "2026-07-11",
+     "source": "이데일리·경제",
+     "title": "“신혼집 장만할 때 보탠 ‘축의금’, 비과세 대상 아닙니다”[세금GO]",
+     "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=01807286645513536"
+    },
     {
      "date": "2026-07-10",
      "source": "연합뉴스·경제",
@@ -13505,6 +13505,150 @@
      "source": "이데일리·경제",
      "title": "[단독]펩트론, '월 1회 마운자로' 기대 흔들, \"릴리 공동연구 터제파타이드 無\"",
      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=05992566645512880"
+    }
+   ]
+  },
+  "코스트코(COST)": {
+   "articles": [
+    {
+     "date": "2026-07-11",
+     "source": "한국경제·경제",
+     "title": "코스트코의 파격…\"베테랑 계산원에 억대 연봉\"",
+     "link": "https://www.hankyung.com/article/2026071085511"
+    }
+   ]
+  },
+  "남양유업(003920)": {
+   "articles": [
+    {
+     "date": "2026-07-11",
+     "source": "한국경제·경제",
+     "title": "유업계서 혼자 몽골 간 남양유업…100억 수출 계약 따냈다",
+     "link": "https://www.hankyung.com/article/202607107004i"
+    },
+    {
+     "date": "2026-07-11",
+     "source": "연합뉴스·경제",
+     "title": "남양유업, 몽골 식품기업과 3년간 100억원 규모 수출 확대 협약",
+     "link": "https://www.yna.co.kr/view/AKR20260710041100030"
+    }
+   ]
+  },
+  "프로티나(451250)": {
+   "articles": [
+    {
+     "date": "2026-07-11",
+     "source": "한국경제·증권",
+     "title": "프로티나, 삼성바이오에피스와 계약 소식에 '급등'",
+     "link": "https://www.hankyung.com/article/2026071071636"
+    }
+   ]
+  },
+  "시프트업(462870)": {
+   "articles": [
+    {
+     "date": "2026-07-11",
+     "source": "한국경제·증권",
+     "title": "IP 체력으로 견디는 신작 공백…시프트업, 신중론 뚫고 '메가 게임사' 도약할까",
+     "link": "https://www.hankyung.com/article/202607096144i"
+    }
+   ]
+  },
+  "신테카바이오(226330)": {
+   "articles": [
+    {
+     "date": "2026-07-11",
+     "source": "연합뉴스·경제",
+     "title": "[특징주] 신테카바이오, 대규모 공급계약 체결에 상한가 마감(종합)",
+     "link": "https://www.yna.co.kr/view/AKR20260710038551008"
+    },
+    {
+     "date": "2026-07-11",
+     "source": "연합뉴스·경제",
+     "title": "[특징주] 신테카바이오, 대규모 공급계약 체결에 상한가",
+     "link": "https://www.yna.co.kr/view/AKR20260710038500008"
+    }
+   ]
+  },
+  "세나테크놀로지(463480)": {
+   "articles": [
+    {
+     "date": "2026-07-11",
+     "source": "연합뉴스·경제",
+     "title": "[특징주] 세나테크놀로지, 2분기 영업익 127%↑…21% 상승 마감(종합)",
+     "link": "https://www.yna.co.kr/view/AKR20260710037451008"
+    },
+    {
+     "date": "2026-07-11",
+     "source": "연합뉴스·경제",
+     "title": "[특징주] 세나테크놀로지, 2분기 영업익 127%↑…장 초반 강세",
+     "link": "https://www.yna.co.kr/view/AKR20260710037400008"
+    }
+   ]
+  },
+  "RF머트리얼즈(327260)": {
+   "articles": [
+    {
+     "date": "2026-07-11",
+     "source": "연합뉴스·경제",
+     "title": "RF머트리얼즈, 주당 1.0주 무상증자 결정",
+     "link": "https://www.yna.co.kr/view/AKR20260710091500008"
+    },
+    {
+     "date": "2026-07-11",
+     "source": "아시아경제",
+     "title": "RF머트리얼즈, 1대 1 무상증자",
+     "link": "https://view.asiae.co.kr/article/2026071013592699878"
+    }
+   ]
+  },
+  "금호건설(002990)": {
+   "articles": [
+    {
+     "date": "2026-07-11",
+     "source": "연합뉴스·경제",
+     "title": "금호건설, 평택 고덕 민간참여사업 수주…1천295가구 짓는다",
+     "link": "https://www.yna.co.kr/view/AKR20260710046500003"
+    }
+   ]
+  },
+  "선익시스템(171090)": {
+   "articles": [
+    {
+     "date": "2026-07-11",
+     "source": "아시아경제",
+     "title": "선익시스템 \"인도 안드라프라데시주 정부 투자협의회서 협력기반 논의\"",
+     "link": "https://view.asiae.co.kr/article/2026071010485899490"
+    }
+   ]
+  },
+  "엑시콘(092870)": {
+   "articles": [
+    {
+     "date": "2026-07-11",
+     "source": "아시아경제",
+     "title": "엑시콘, 삼성전자와 498억원 규모 공급계약",
+     "link": "https://view.asiae.co.kr/article/2026071010175220641"
+    }
+   ]
+  },
+  "모티브링크(464440)": {
+   "articles": [
+    {
+     "date": "2026-07-11",
+     "source": "아시아경제",
+     "title": "모티브링크, 전력변환 부품 넘어 고부가 전장 모듈 사업 전환 가속화",
+     "link": "https://view.asiae.co.kr/article/2026071008195586326"
+    }
+   ]
+  },
+  "피플바이오(304840)": {
+   "articles": [
+    {
+     "date": "2026-07-11",
+     "source": "아시아경제",
+     "title": "[인터뷰]\"바이오에 AI·반도체 날개\"…피플바이오의 밸류업 승부수",
+     "link": "https://view.asiae.co.kr/article/2026070911203567792"
     }
    ]
   }
