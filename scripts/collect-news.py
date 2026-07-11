@@ -70,6 +70,32 @@ def _base_name(name):
     """'우리로(046970)' -> '우리로' (티커·괄호 제거)."""
     return re.sub(r"\(.*?\)", "", name).strip()
 
+# 짧은 영문 회사명은 일반 단어 안에도 너무 자주 등장한다.
+# bare NC/SK/LG는 회사가 아닌 약어·단어일 가능성이 높으므로 검증된 별칭만 허용한다.
+STRICT_COMPANY_ALIASES = {
+    "nc": ("엔씨소프트", "ncsoft", "nc소프트", "036570"),
+    "sk": ("sk㈜", "sk(주)", "에스케이", "034730"),
+    "lg": ("lg㈜", "lg(주)", "엘지", "003550"),
+}
+
+def company_title_match(title, base):
+    """기사 제목이 해당 회사에 실제로 연결되는지 보수적으로 판정한다."""
+    title_fold = (title or "").casefold()
+    key = (base or "").strip().casefold()
+    if not key:
+        return False
+    aliases = STRICT_COMPANY_ALIASES.get(key)
+    if aliases is not None:
+        return any(alias.casefold() in title_fold for alias in aliases)
+    # 영문/숫자 회사명은 단어 경계로 매칭해 financial 속의 'nc' 같은 오탐을 막는다.
+    if re.fullmatch(r"[A-Za-z0-9][A-Za-z0-9.&+\-]*", base or ""):
+        return re.search(
+            rf"(?<![A-Za-z0-9]){re.escape(base)}(?![A-Za-z0-9])",
+            title or "",
+            re.I,
+        ) is not None
+    return key in title_fold
+
 def update_article_archive(all_items, now):
     """수집된 기사를 발굴·회사·선행 종목명으로 매칭해 종목별로 '누적' 저장한다.
     news-feed.json은 매번 덮어써 오늘치만 남지만, 이 아카이브는 과거 기사를 보존해
@@ -96,12 +122,19 @@ def update_article_archive(all_items, now):
         archive = {"companies": {}}
     archive.setdefault("companies", {})
 
+    # 과거에 단순 부분문자열 매칭으로 들어온 오분류도 매 실행 시 정리한다.
+    for full, entry in archive["companies"].items():
+        base = _base_name(full)
+        entry["articles"] = [
+            article for article in entry.get("articles", [])
+            if company_title_match(article.get("title", ""), base)
+        ]
+
     today = now[:10]
     for it in all_items:
         title = it.get("title", "")
-        low = title.lower()
         for b, full in universe.items():
-            if b in low:
+            if company_title_match(title, b):
                 entry = archive["companies"].setdefault(full, {"articles": []})
                 arts = entry["articles"]
                 link = it.get("link", "")
