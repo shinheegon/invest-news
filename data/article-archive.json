@@ -3,6 +3,24 @@
   "SK하이닉스(000660)": {
    "articles": [
     {
+     "date": "2026-07-12",
+     "source": "한국경제·증권",
+     "title": "SK하이닉스 미국 데뷔, 거세진 메모리 피크아웃 논란 [월가백브리핑]",
+     "link": "https://www.hankyung.com/article/202607129717i"
+    },
+    {
+     "date": "2026-07-12",
+     "source": "연합뉴스·경제",
+     "title": "SK하이닉스 나스닥 상장 흥행대박…국내 증시 온기로 이어질까",
+     "link": "https://www.yna.co.kr/view/AKR20260711029900008"
+    },
+    {
+     "date": "2026-07-12",
+     "source": "연합뉴스·경제",
+     "title": "외환시장에 '통화스와프급' 달러 폭탄 퍼붓는 SK하이닉스",
+     "link": "https://www.yna.co.kr/view/AKR20260710148400003"
+    },
+    {
      "date": "2026-07-11",
      "source": "한국경제·경제",
      "title": "SK하이닉스, 나스닥 화려한 데뷔…최태원 '환한 미소' [영상]",
@@ -703,24 +721,6 @@
      "source": "한국경제·증권",
      "title": "[속보] SK하이닉스, 프리마켓서 300만원 돌파",
      "link": "https://www.hankyung.com/article/2026062317347"
-    },
-    {
-     "date": "2026-06-23",
-     "source": "연합뉴스·경제",
-     "title": "[특징주] SK하이닉스·삼성전자, 장중 5%대 동반 급락(종합)",
-     "link": "https://www.yna.co.kr/view/AKR20260623043451008"
-    },
-    {
-     "date": "2026-06-23",
-     "source": "연합뉴스·경제",
-     "title": "[특징주] SK하이닉스, 장초반 2%대 하락…삼전도 3.8%↓",
-     "link": "https://www.yna.co.kr/view/AKR20260623043400008"
-    },
-    {
-     "date": "2026-06-23",
-     "source": "한국경제·경제",
-     "title": "SK하이닉스 ADR , 高환율 해결사 될까",
-     "link": "https://www.hankyung.com/article/2026062335901"
     }
    ]
   },
@@ -1450,6 +1450,12 @@
   },
   "현대차(005380)": {
    "articles": [
+    {
+     "date": "2026-07-12",
+     "source": "한국경제·경제",
+     "title": "현대차그룹, '제2회 조수미 국제 성악 콩쿠르' 공식 후원",
+     "link": "https://www.hankyung.com/article/202607129677g"
+    },
     {
      "date": "2026-07-10",
      "source": "아시아경제",
@@ -3426,6 +3432,12 @@
   },
   "스페이스X(SPCX)": {
    "articles": [
+    {
+     "date": "2026-07-12",
+     "source": "연합뉴스·경제",
+     "title": "스페이스X 상장 한 달…개인투자자, '우주 ETF' 5천억 던졌다",
+     "link": "https://www.yna.co.kr/view/AKR20260711025900008"
+    },
     {
      "date": "2026-07-10",
      "source": "한국경제·증권",
@@ -6605,6 +6617,12 @@
   "LS(006260)": {
    "articles": [
     {
+     "date": "2026-07-12",
+     "source": "연합뉴스·경제",
+     "title": "LS일렉트릭, 2년 연속 임단협 무교섭 타결",
+     "link": "https://www.yna.co.kr/view/AKR20260712023200003"
+    },
+    {
      "date": "2026-07-10",
      "source": "CNBC·Finance",
      "title": "Goldman Sachs wins $70 billion in asset management deals with Verizon, Lockheed Martin",
@@ -8219,6 +8237,12 @@
   "KB금융(105560)": {
    "articles": [
     {
+     "date": "2026-07-12",
+     "source": "연합뉴스·경제",
+     "title": "양종희 KB금융 회장 \"머니무브는 기회…일하는 방식 재설계\"",
+     "link": "https://www.yna.co.kr/view/AKR20260711049300002"
+    },
+    {
      "date": "2026-07-10",
      "source": "한국경제·경제",
      "title": "KB금융, 보이스피싱 예방교육",
@@ -9153,6 +9177,24 @@
   "SK(034730)": {
    "articles": [
     {
+     "date": "2026-07-12",
+     "source": "한국경제·증권",
+     "title": "SK하이닉스 미국 데뷔, 거세진 메모리 피크아웃 논란 [월가백브리핑]",
+     "link": "https://www.hankyung.com/article/202607129717i"
+    },
+    {
+     "date": "2026-07-12",
+     "source": "연합뉴스·경제",
+     "title": "SK하이닉스 나스닥 상장 흥행대박…국내 증시 온기로 이어질까",
+     "link": "https://www.yna.co.kr/view/AKR20260711029900008"
+    },
+    {
+     "date": "2026-07-12",
+     "source": "연합뉴스·경제",
+     "title": "외환시장에 '통화스와프급' 달러 폭탄 퍼붓는 SK하이닉스",
+     "link": "https://www.yna.co.kr/view/AKR20260710148400003"
+    },
+    {
      "date": "2026-07-11",
      "source": "한국경제·경제",
      "title": "SK하이닉스, 나스닥 화려한 데뷔…최태원 '환한 미소' [영상]",
@@ -9853,24 +9895,6 @@
      "source": "CNBC·Markets",
      "title": "AeroVironment skyrockets 19% as dronemaker capitalizes on defense spending surge",
      "link": "https://www.cnbc.com/2026/06/30/aerovironment-avav-stock-earnings-defense.html"
-    },
-    {
-     "date": "2026-07-01",
-     "source": "CNBC·Markets",
-     "title": "HPE skyrockets 30% on biggest earnings beat since 2018",
-     "link": "https://www.cnbc.com/2026/06/01/hpe-stock-earnings-q2.html"
-    },
-    {
-     "date": "2026-07-01",
-     "source": "CNBC·Markets",
-     "title": "Dell stock skyrockets 32% for its best day ever as AI server revenue soars",
-     "link": "https://www.cnbc.com/2026/05/29/dell-stock-earnings-ai-servers.html"
-    },
-    {
-     "date": "2026-07-01",
-     "source": "CNBC·Finance",
-     "title": "SpaceX seeing some interest from short sellers, but many still afraid to bet against Musk",
-     "link": "https://www.cnbc.com/2026/06/23/spacex-seeing-interest-from-short-sellers-but-most-afraid-to-go-against-musk.html"
     }
    ]
   },
@@ -11066,6 +11090,12 @@
   },
   "LS일렉트릭(010120)": {
    "articles": [
+    {
+     "date": "2026-07-12",
+     "source": "연합뉴스·경제",
+     "title": "LS일렉트릭, 2년 연속 임단협 무교섭 타결",
+     "link": "https://www.yna.co.kr/view/AKR20260712023200003"
+    },
     {
      "date": "2026-07-03",
      "source": "한국경제·증권",
@@ -13559,6 +13589,18 @@
   "홈플러스": {
    "articles": [
     {
+     "date": "2026-07-12",
+     "source": "한국경제·경제",
+     "title": "\"장례식장 온 기분\"…눈물의 '반값 세일' 나선 홈플러스 [현장+]",
+     "link": "https://www.hankyung.com/article/202607129638i"
+    },
+    {
+     "date": "2026-07-12",
+     "source": "연합뉴스·경제",
+     "title": "티메프·레고랜드 후유증 아직인데…2금융권 홈플러스 사태 주시",
+     "link": "https://www.yna.co.kr/view/AKR20260711047200002"
+    },
+    {
      "date": "2026-07-11",
      "source": "한국경제·경제",
      "title": "계산줄만 30분, 카트도 없다…홈플러스 눈물의 '고별 할인'",
@@ -13701,5 +13743,5 @@
    ]
   }
  },
- "updatedAt": "2026-07-11T23:34:09+09:00"
+ "updatedAt": "2026-07-12T16:36:24+09:00"
 }

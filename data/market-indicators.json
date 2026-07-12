@@ -1,16 +1,16 @@
 {
- "updatedAt": "2026-07-11T23:39:00+09:00",
+ "updatedAt": "2026-07-12T16:39:00+09:00",
  "session": "PM",
- "stock_fng": { "value": 48, "label": "Neutral", "source": "https://www.cnn.com/markets/fear-and-greed" },
+ "stock_fng": { "value": 48, "label": "Neutral", "source": "https://www.benzinga.com/markets/market-summary/26/07/60271204/dow-hits-record-close-but-nasdaq-settles-lower-investor-sentiment-edges-lower-fear-greed-index-remains-in-fear-zone" },
  "indices": [
-  { "name": "코스피", "value": "7,475.94", "change": "+2.52%", "source": "https://www.edaily.co.kr/News/Read?newsId=04188566645513208&mediaCodeNo=257" },
-  { "name": "코스닥", "value": "837.43", "change": "+5.47%", "source": "https://www.edaily.co.kr/News/Read?newsId=04188566645513208&mediaCodeNo=257" },
-  { "name": "S&P 500", "value": "7,575.39", "change": "+0.42%", "source": "https://finance.yahoo.com/markets/live/stock-market-today-friday-july-10-dow-sp-nasdaq-113921604.html" },
-  { "name": "나스닥", "value": "26,281.61", "change": "+0.29%", "source": "https://finance.yahoo.com/markets/live/stock-market-today-friday-july-10-dow-sp-nasdaq-113921604.html" },
-  { "name": "다우", "value": "52,637.01", "change": "+0.29%", "source": "https://finance.yahoo.com/markets/live/stock-market-today-friday-july-10-dow-sp-nasdaq-113921604.html" },
+  { "name": "코스피", "value": "7,475.94", "change": "+2.52%", "source": "https://www.news1.kr/finance/general-stock/6224453" },
+  { "name": "코스닥", "value": "837.43", "change": "+5.47%", "source": "https://www.news1.kr/finance/general-stock/6224453" },
+  { "name": "S&P 500", "value": "7,575.39", "change": "+0.42%", "source": "https://www.cnbc.com/2026/07/09/stock-market-today-live-updates.html" },
+  { "name": "나스닥", "value": "26,281.61", "change": "+0.29%", "source": "https://www.cnbc.com/2026/07/09/stock-market-today-live-updates.html" },
+  { "name": "다우", "value": "52,637.01", "change": "+0.29%", "source": "https://www.cnbc.com/2026/07/09/stock-market-today-live-updates.html" },
   { "name": "VIX", "value": "15.84", "change": "-6.3%", "source": "https://finance.yahoo.com/markets/stocks/articles/stock-market-news-july-10-075400187.html" },
   { "name": "美 10년물", "value": "4.56%", "change": "보합권", "source": "https://www.advisorperspectives.com/dshort/updates/2026/07/10/treasury-yields-snapshot-july-10-2026" },
-  { "name": "달러인덱스(DXY)", "value": "100.8670", "change": "-0.04%", "source": "https://www.benzinga.com/markets/equities/26/07/60377462/stock-market-today-dow-jones-futures-gain-nasdaq-100-falls-as-investors-await-sk-hynix-debut-and-us-reportedly-mulls-technical-talks-with-iran-pmgc-holdings-wd-40-netfli" },
+  { "name": "달러인덱스(DXY)", "value": "100.9669", "change": "+0.06%", "source": "https://kr.investing.com/indices/usdollar" },
   { "name": "원/달러", "value": "1,501.4", "change": "-4.7원", "source": "https://www.yna.co.kr/view/AKR20260710116000002" }
  ]
 }
