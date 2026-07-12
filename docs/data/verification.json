@@ -5066,6 +5066,47 @@
      "price": 967000
     }
    ]
+  },
+  {
+   "name": "액트로(290740)",
+   "type": "leading",
+   "market": "韓",
+   "flagDate": "2026-07-12",
+   "signals": [
+    "양산초읽기",
+    "고객사샘플테스트",
+    "캐파구축"
+   ],
+   "theme": "로봇/휴머노이드",
+   "status": "pending",
+   "checks": [],
+   "flagPrice": 8200,
+   "priceLog": [
+    {
+     "date": "2026-07-10",
+     "price": 8200
+    }
+   ]
+  },
+  {
+   "name": "우림피티에스(101170)",
+   "type": "leading",
+   "market": "韓",
+   "flagDate": "2026-07-12",
+   "signals": [
+    "대형고객공급확대관측",
+    "양산이력"
+   ],
+   "theme": "로봇/휴머노이드",
+   "status": "pending",
+   "checks": [],
+   "flagPrice": 7630,
+   "priceLog": [
+    {
+     "date": "2026-07-10",
+     "price": 7630
+    }
+   ]
   }
  ],
  "stats": {
