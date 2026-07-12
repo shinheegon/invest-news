@@ -136,6 +136,24 @@
    "score": 3,
    "concrete": false,
    "why": "승세테마(로봇/휴머노이드) · 신호약함(테마첫거론류)"
+  },
+  {
+   "name": "에스비비테크(389500)",
+   "type": "leading",
+   "theme": "로봇/휴머노이드",
+   "flagDate": "2026-07-12",
+   "score": 3,
+   "concrete": false,
+   "why": "승세테마(로봇/휴머노이드) · 신호약함(테마첫거론류)"
+  },
+  {
+   "name": "에스엘(005850)",
+   "type": "discovery",
+   "theme": "로봇/휴머노이드",
+   "flagDate": "2026-07-12",
+   "score": 3,
+   "concrete": false,
+   "why": "승세테마(로봇/휴머노이드) · 신호약함(테마첫거론류)"
   }
  ],
  "avoid": [
@@ -362,6 +380,24 @@
    "type": "leading",
    "theme": "로봇/휴머노이드",
    "flagDate": "2026-07-11",
+   "score": 3,
+   "concrete": false,
+   "why": "승세테마(로봇/휴머노이드) · 신호약함(테마첫거론류)"
+  },
+  {
+   "name": "에스비비테크(389500)",
+   "type": "leading",
+   "theme": "로봇/휴머노이드",
+   "flagDate": "2026-07-12",
+   "score": 3,
+   "concrete": false,
+   "why": "승세테마(로봇/휴머노이드) · 신호약함(테마첫거론류)"
+  },
+  {
+   "name": "에스엘(005850)",
+   "type": "discovery",
+   "theme": "로봇/휴머노이드",
+   "flagDate": "2026-07-12",
    "score": 3,
    "concrete": false,
    "why": "승세테마(로봇/휴머노이드) · 신호약함(테마첫거론류)"

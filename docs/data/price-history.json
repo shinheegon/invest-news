@@ -1673,6 +1673,45 @@
     "2026-07-10": 7630,
     "2026-07-12": 7630
    }
+  },
+  "웨이버스(336060)": {
+   "market": "韓",
+   "type": "discovery",
+   "firstSeen": "2026-07-10",
+   "firstPrice": 590,
+   "lastPrice": 590,
+   "changePct": 0.0,
+   "points": 2,
+   "series": {
+    "2026-07-10": 590,
+    "2026-07-12": 590
+   }
+  },
+  "에스비비테크(389500)": {
+   "market": "韓",
+   "type": "leading",
+   "firstSeen": "2026-07-10",
+   "firstPrice": 35750,
+   "lastPrice": 35750,
+   "changePct": 0.0,
+   "points": 2,
+   "series": {
+    "2026-07-10": 35750,
+    "2026-07-12": 35750
+   }
+  },
+  "에스엘(005850)": {
+   "market": "韓",
+   "type": "discovery",
+   "firstSeen": "2026-07-10",
+   "firstPrice": 55700,
+   "lastPrice": 55700,
+   "changePct": 0.0,
+   "points": 2,
+   "series": {
+    "2026-07-10": 55700,
+    "2026-07-12": 55700
+   }
   }
  }
 }

@@ -5107,6 +5107,66 @@
      "price": 7630
     }
    ]
+  },
+  {
+   "name": "웨이버스(336060)",
+   "type": "discovery",
+   "market": "韓",
+   "flagDate": "2026-07-12",
+   "signals": [
+    "공공수주확정",
+    "GeoAI"
+   ],
+   "theme": "기타",
+   "status": "pending",
+   "checks": [],
+   "flagPrice": 590,
+   "priceLog": [
+    {
+     "date": "2026-07-10",
+     "price": 590
+    }
+   ]
+  },
+  {
+   "name": "에스비비테크(389500)",
+   "type": "leading",
+   "market": "韓",
+   "flagDate": "2026-07-12",
+   "signals": [
+    "감속기양산트랙",
+    "리레이팅전"
+   ],
+   "theme": "로봇/휴머노이드",
+   "status": "pending",
+   "checks": [],
+   "flagPrice": 35750,
+   "priceLog": [
+    {
+     "date": "2026-07-10",
+     "price": 35750
+    }
+   ]
+  },
+  {
+   "name": "에스엘(005850)",
+   "type": "discovery",
+   "market": "韓",
+   "flagDate": "2026-07-12",
+   "signals": [
+    "현대차로봇전환",
+    "모베드위탁생산"
+   ],
+   "theme": "로봇/휴머노이드",
+   "status": "pending",
+   "checks": [],
+   "flagPrice": 55700,
+   "priceLog": [
+    {
+     "date": "2026-07-10",
+     "price": 55700
+    }
+   ]
   }
  ],
  "stats": {
