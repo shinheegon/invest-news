@@ -2,30 +2,30 @@
  "updatedAt": "2026-07-12T23:53:18+09:00",
  "themes": [
   {
+   "theme": "AI반도체설계(팹리스/IP)",
+   "n": 3,
+   "hit": 1,
+   "miss": 1,
+   "hitRate": 33.3,
+   "avgD3": 7.7,
+   "momentum": "상승"
+  },
+  {
    "theme": "로봇/휴머노이드",
-   "n": 14,
+   "n": 16,
    "hit": 5,
-   "miss": 6,
-   "hitRate": 35.7,
-   "avgD3": 8.3,
+   "miss": 7,
+   "hitRate": 31.2,
+   "avgD3": 7.5,
    "momentum": "상승"
   },
   {
    "theme": "기타",
-   "n": 20,
-   "hit": 4,
-   "miss": 8,
-   "hitRate": 20.0,
-   "avgD3": 1.1,
-   "momentum": "중립"
-  },
-  {
-   "theme": "AI반도체설계(팹리스/IP)",
-   "n": 2,
-   "hit": 0,
-   "miss": 1,
-   "hitRate": 0.0,
-   "avgD3": 0.4,
+   "n": 24,
+   "hit": 5,
+   "miss": 10,
+   "hitRate": 20.8,
+   "avgD3": 0.7,
    "momentum": "중립"
   },
   {
@@ -38,21 +38,21 @@
    "momentum": "중립"
   },
   {
-   "theme": "AI전력/데이터센터",
-   "n": 12,
-   "hit": 1,
-   "miss": 8,
-   "hitRate": 8.3,
-   "avgD3": -1.4,
-   "momentum": "중립"
-  },
-  {
    "theme": "신재생에너지",
    "n": 4,
    "hit": 0,
    "miss": 3,
    "hitRate": 0.0,
    "avgD3": -1.8,
+   "momentum": "중립"
+  },
+  {
+   "theme": "AI전력/데이터센터",
+   "n": 14,
+   "hit": 2,
+   "miss": 9,
+   "hitRate": 14.3,
+   "avgD3": -2.1,
    "momentum": "중립"
   },
   {
@@ -84,6 +84,7 @@
   }
  ],
  "winning": [
+  "AI반도체설계(팹리스/IP)",
   "로봇/휴머노이드"
  ],
  "losing": [
