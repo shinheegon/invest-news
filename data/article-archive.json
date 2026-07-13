@@ -3,6 +3,24 @@
   "SK하이닉스(000660)": {
    "articles": [
     {
+     "date": "2026-07-14",
+     "source": "한국경제·경제",
+     "title": "월가,\"SK하이닉스 美IPO성공,다른 기술기업들은 쉽지않아\"",
+     "link": "https://www.hankyung.com/article/202607132810i"
+    },
+    {
+     "date": "2026-07-14",
+     "source": "한국경제·경제",
+     "title": "\"SK하이닉스, 모두가 흔들고 싶은 돈나무 돼\" [블룸버그]",
+     "link": "https://www.hankyung.com/article/202607132712i"
+    },
+    {
+     "date": "2026-07-14",
+     "source": "한국경제·증권",
+     "title": "[단독] SK하이닉스, 호남팹 합작 투자 가능 … 수십조 재무부담 던다",
+     "link": "https://www.hankyung.com/article/202607132461i"
+    },
+    {
      "date": "2026-07-13",
      "source": "연합뉴스·경제",
      "title": "대신증권 \"SK하이닉스 ADR 프리미엄, SK스퀘어에도 호재…목표가↑\"",
@@ -703,29 +721,23 @@
      "source": "한국경제·증권",
      "title": "[마켓라이브] 코스피 5% 오를 때, 코스닥은 -2%…SK 20%·SK하이닉스 13% 동반 급등 [마감 시황]",
      "link": "https://www.hankyung.com/article/202606256874i"
-    },
-    {
-     "date": "2026-06-25",
-     "source": "한국경제·증권",
-     "title": "삼성전자 담고 SK하이닉스 판 초고수…시총 1위 탈환한 삼전",
-     "link": "https://www.hankyung.com/article/202606256691i"
-    },
-    {
-     "date": "2026-06-25",
-     "source": "연합뉴스·경제",
-     "title": "[속보] SK하이닉스 15% 급등…'시총 1위' 엎치락뒤치락",
-     "link": "https://www.yna.co.kr/view/AKR20260625113300008"
-    },
-    {
-     "date": "2026-06-25",
-     "source": "이데일리·경제",
-     "title": "SK하이닉스, 美 ADR 내달 상장한다…45조 조달(상보)",
-     "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=04959366645485000"
     }
    ]
   },
   "삼성전자(005930)": {
    "articles": [
+    {
+     "date": "2026-07-14",
+     "source": "한국경제·경제",
+     "title": "삼성전자 노조 \"호남 반도체도 교섭 대상\"",
+     "link": "https://www.hankyung.com/article/2026071325161"
+    },
+    {
+     "date": "2026-07-14",
+     "source": "한국경제·경제",
+     "title": "삼성전자, 임원 928명에 자사주 3200억원 지급…1인당 3.5억원꼴",
+     "link": "https://www.hankyung.com/article/2026071325297"
+    },
     {
      "date": "2026-07-13",
      "source": "연합뉴스·경제",
@@ -1433,23 +1445,17 @@
      "source": "연합뉴스",
      "title": "- 삼성전자(005930): 급반등 +7%대로 시총 1위 탈환. 노무라 목표가 59→67만원 상향(2Q 실적 호조 전망), 90조 자사주 매입 가능성 거론.",
      "link": "https://www.yna.co.kr/view/AKR20260624062751008"
-    },
-    {
-     "date": "2026-06-24",
-     "source": "한국경제·경제",
-     "title": "낸드 수출단가 800%대 폭등…삼성전자, 2분기도 '깜짝실적' 예고",
-     "link": "https://www.hankyung.com/article/202606245583g"
-    },
-    {
-     "date": "2026-06-24",
-     "source": "한국경제·증권",
-     "title": "자사주 90조 매입 기대…삼성전자, 시총 1위 탈환",
-     "link": "https://www.hankyung.com/article/2026062460231"
     }
    ]
   },
   "현대차(005380)": {
    "articles": [
+    {
+     "date": "2026-07-14",
+     "source": "한국경제·경제",
+     "title": "[포토] 현대차, TCR 월드투어 시즌 3승",
+     "link": "https://www.hankyung.com/article/2026071325131"
+    },
     {
      "date": "2026-07-13",
      "source": "한국경제·경제",
@@ -3941,6 +3947,12 @@
   "메타(META)": {
    "articles": [
     {
+     "date": "2026-07-14",
+     "source": "한국경제·경제",
+     "title": "\"남는 컴퓨팅파워 판다더니\"…메타, 건설중 데이터센터 2.5배 확장",
+     "link": "https://www.hankyung.com/article/202607132800i"
+    },
+    {
      "date": "2026-07-13",
      "source": "한국경제·증권",
      "title": "\"메타발 AI 과잉투자 우려, 현실과 괴리…메모리 공급난 지속\"",
@@ -4935,6 +4947,18 @@
   "대한항공(003490)": {
    "articles": [
     {
+     "date": "2026-07-14",
+     "source": "한국경제·경제",
+     "title": "[속보]대한항공, 아시아나티앤아이 청산 추진",
+     "link": "https://www.hankyung.com/article/202607132674i"
+    },
+    {
+     "date": "2026-07-14",
+     "source": "한국경제·경제",
+     "title": "대한항공, 고유가·고환율에도 실적 선방",
+     "link": "https://www.hankyung.com/article/2026071325181"
+    },
+    {
      "date": "2026-07-13",
      "source": "한국경제·경제",
      "title": "대한항공, 2분기 매출 5조199억원 '역대 최대'…연료비 부담에 영업익 34%↓",
@@ -5040,6 +5064,12 @@
   },
   "현대로템(064350)": {
    "articles": [
+    {
+     "date": "2026-07-14",
+     "source": "한국경제·경제",
+     "title": "남미로 간 K방산…현대로템·KAI, 페루 수출 '청신호'",
+     "link": "https://www.hankyung.com/article/2026071325151"
+    },
     {
      "date": "2026-07-13",
      "source": "한국경제·경제",
@@ -5370,6 +5400,12 @@
   },
   "NHN(181710)": {
    "articles": [
+    {
+     "date": "2026-07-14",
+     "source": "아시아경제",
+     "title": "[클릭 e종목]\"NHN, 클라우드 매출 본격 확대…목표가↑\"",
+     "link": "https://view.asiae.co.kr/article/2026071316172072656"
+    },
     {
      "date": "2026-07-09",
      "source": "아시아경제",
@@ -6189,6 +6225,12 @@
   "LG전자(066570)": {
    "articles": [
     {
+     "date": "2026-07-14",
+     "source": "한국경제·경제",
+     "title": "LG전자, GS건설 손잡고 차세대 'AI 홈' 개발 속도",
+     "link": "https://www.hankyung.com/article/2026071325121"
+    },
+    {
      "date": "2026-07-13",
      "source": "한국경제·경제",
      "title": "LG전자·GS건설, 'AI 자이' 아파트 만든다",
@@ -6502,6 +6544,12 @@
   },
   "현대건설(000720)": {
    "articles": [
+    {
+     "date": "2026-07-14",
+     "source": "한국경제·증권",
+     "title": "현대건설 SMR 파트너 홀텍, 나스닥 IPO 계획",
+     "link": "https://www.hankyung.com/article/202607132829i"
+    },
     {
      "date": "2026-07-13",
      "source": "연합뉴스·경제",
@@ -6886,6 +6934,18 @@
   },
   "LS(006260)": {
    "articles": [
+    {
+     "date": "2026-07-14",
+     "source": "CNBC·Markets",
+     "title": "Wells Fargo bounces off 52-week lows. What it must do to get out of the penalty box",
+     "link": "https://www.cnbc.com/2026/07/13/-wells-fargo-bounces-off-52-week-lows-what-it-must-do-to-get-out-of-the-penalty-box.html"
+    },
+    {
+     "date": "2026-07-14",
+     "source": "CNBC·Finance",
+     "title": "Kalshi launches 'Pro' product for users trading multiple markets at same time, perpetual futures",
+     "link": "https://www.cnbc.com/2026/07/13/kalshi-launches-pro-product-for-users-trading-multiple-markets-at-same-time-perpetual-futures.html"
+    },
     {
      "date": "2026-07-13",
      "source": "아시아경제",
@@ -8817,6 +8877,12 @@
   "KB증권": {
    "articles": [
     {
+     "date": "2026-07-14",
+     "source": "한국경제·증권",
+     "title": "KB증권, 5회 연속 대상…변동장 속 신예 애널리스트 약진",
+     "link": "https://www.hankyung.com/article/2026071324851"
+    },
+    {
      "date": "2026-07-13",
      "source": "아시아경제",
      "title": "KB증권 \"오늘의 콕 올해 누적 조회수 1000만회 돌파\"",
@@ -9531,6 +9597,30 @@
   "SK(034730)": {
    "articles": [
     {
+     "date": "2026-07-14",
+     "source": "한국경제·경제",
+     "title": "월가,\"SK하이닉스 美IPO성공,다른 기술기업들은 쉽지않아\"",
+     "link": "https://www.hankyung.com/article/202607132810i"
+    },
+    {
+     "date": "2026-07-14",
+     "source": "한국경제·경제",
+     "title": "\"SK하이닉스, 모두가 흔들고 싶은 돈나무 돼\" [블룸버그]",
+     "link": "https://www.hankyung.com/article/202607132712i"
+    },
+    {
+     "date": "2026-07-14",
+     "source": "한국경제·증권",
+     "title": "[단독] SK하이닉스, 호남팹 합작 투자 가능 … 수십조 재무부담 던다",
+     "link": "https://www.hankyung.com/article/202607132461i"
+    },
+    {
+     "date": "2026-07-14",
+     "source": "MarketWatch",
+     "title": "Micron and other chip stocks feel the pain of imported volatility — blame SK Hynix",
+     "link": "https://www.marketwatch.com/story/micron-and-other-chip-stocks-feel-the-pain-of-imported-volatility-blame-sk-hynix-f705a0fd?mod=mw_rss_topstories"
+    },
+    {
      "date": "2026-07-13",
      "source": "CNBC·Markets",
      "title": "AeroVironment skyrockets 19% as dronemaker capitalizes on defense spending surge",
@@ -10225,30 +10315,6 @@
      "source": "한국경제·경제",
      "title": "[속보] SKT 정재헌 \"울산에 1호 GW급 AIDC 건설…영남권에 140조 투자\"",
      "link": "https://www.hankyung.com/article/2026070345427"
-    },
-    {
-     "date": "2026-07-03",
-     "source": "한국경제·경제",
-     "title": "[속보] SKT 정재헌 \"SK, 아시아 최대 AI 데이터센터 인프라 허브' 구축\"",
-     "link": "https://www.hankyung.com/article/2026070345307"
-    },
-    {
-     "date": "2026-07-03",
-     "source": "연합뉴스·경제",
-     "title": "SK, 140조 승부수…영남에 '아시아 최대 AI허브' 만든다",
-     "link": "https://www.yna.co.kr/view/AKR20260703112300017"
-    },
-    {
-     "date": "2026-07-03",
-     "source": "아시아경제",
-     "title": "코스피 8000선 회복 마감…SK하이닉스 10%대 급등",
-     "link": "https://view.asiae.co.kr/article/2026070315505721842"
-    },
-    {
-     "date": "2026-07-02",
-     "source": "MarketWatch",
-     "title": "Sandisk’s and Micron’s stocks sink as the rotation trade builds, but supply shortages should limit losses",
-     "link": "https://www.marketwatch.com/story/sandisks-and-microns-stocks-sink-as-the-rotation-trade-builds-but-supply-shortages-should-limit-losses-94a05f82?mod=mw_rss_topstories"
     }
    ]
   },
@@ -10378,6 +10444,30 @@
   },
   "NC(036570)": {
    "articles": [
+    {
+     "date": "2026-07-14",
+     "source": "CNBC·Markets",
+     "title": "Wells Fargo bounces off 52-week lows. What it must do to get out of the penalty box",
+     "link": "https://www.cnbc.com/2026/07/13/-wells-fargo-bounces-off-52-week-lows-what-it-must-do-to-get-out-of-the-penalty-box.html"
+    },
+    {
+     "date": "2026-07-14",
+     "source": "CNBC·Finance",
+     "title": "Kalshi launches 'Pro' product for users trading multiple markets at same time, perpetual futures",
+     "link": "https://www.cnbc.com/2026/07/13/kalshi-launches-pro-product-for-users-trading-multiple-markets-at-same-time-perpetual-futures.html"
+    },
+    {
+     "date": "2026-07-14",
+     "source": "MarketWatch",
+     "title": "My wife’s 2011 Ford Fiesta was totaled. Should we accept a $2,000 insurance settlement or give up the car for $2,700?",
+     "link": "https://www.marketwatch.com/story/my-wifes-2011-ford-fiesta-was-totaled-should-we-accept-a-2-000-insurance-settlement-or-give-up-the-car-for-2-700-f2cf2a86?mod=mw_rss_topstories"
+    },
+    {
+     "date": "2026-07-14",
+     "source": "MarketWatch",
+     "title": "I’m a bartender, yoga teacher and freelance consultant. How can I budget with such an unpredictable income?",
+     "link": "https://www.marketwatch.com/story/im-a-bartender-yoga-teacher-and-freelance-consultant-how-can-i-budget-with-such-an-unpredictable-income-d5dce383?mod=mw_rss_topstories"
+    },
     {
      "date": "2026-07-13",
      "source": "MarketWatch",
@@ -11327,6 +11417,12 @@
   "GS건설(006360)": {
    "articles": [
     {
+     "date": "2026-07-14",
+     "source": "한국경제·경제",
+     "title": "LG전자, GS건설 손잡고 차세대 'AI 홈' 개발 속도",
+     "link": "https://www.hankyung.com/article/2026071325121"
+    },
+    {
      "date": "2026-07-13",
      "source": "한국경제·경제",
      "title": "LG전자·GS건설, 'AI 자이' 아파트 만든다",
@@ -11698,6 +11794,18 @@
   },
   "한화(000880)": {
    "articles": [
+    {
+     "date": "2026-07-14",
+     "source": "한국경제·경제",
+     "title": "생보사가 왜 e스포츠팀을?…메이저 대회 첫 우승한 한화생명",
+     "link": "https://www.hankyung.com/article/2026071324881"
+    },
+    {
+     "date": "2026-07-14",
+     "source": "연합뉴스·경제",
+     "title": "한화갤러리아, 2천370억원 규모 신사동 토지 매입…\"사업다각화\"",
+     "link": "https://www.yna.co.kr/view/AKR20260713155300030"
+    },
     {
      "date": "2026-07-13",
      "source": "한국경제·증권",
@@ -12641,6 +12749,12 @@
   "골드만삭스(GS)": {
    "articles": [
     {
+     "date": "2026-07-14",
+     "source": "한국경제·증권",
+     "title": "골드만삭스 “中 AI 이끌 기업 즈푸AI, 딥시크, 바이트댄스”",
+     "link": "https://www.hankyung.com/article/202607142857i"
+    },
+    {
      "date": "2026-07-07",
      "source": "한국경제·경제",
      "title": "골드만삭스 \"시장 개입해도 엔화 약세…엔캐리트레이드 계속\" 전망",
@@ -12698,6 +12812,12 @@
   },
   "대우건설(047040)": {
    "articles": [
+    {
+     "date": "2026-07-14",
+     "source": "아시아경제",
+     "title": "\"대우건설, 실적 반등 기대…투자의견 상향\"[클릭 e종목]",
+     "link": "https://view.asiae.co.kr/article/2026071316015856938"
+    },
     {
      "date": "2026-07-13",
      "source": "연합뉴스·경제",
@@ -12808,6 +12928,24 @@
   },
   "대상(001680)": {
    "articles": [
+    {
+     "date": "2026-07-14",
+     "source": "한국경제·경제",
+     "title": "삼성전자 노조 \"호남 반도체도 교섭 대상\"",
+     "link": "https://www.hankyung.com/article/2026071325161"
+    },
+    {
+     "date": "2026-07-14",
+     "source": "한국경제·증권",
+     "title": "KB증권, 5회 연속 대상…변동장 속 신예 애널리스트 약진",
+     "link": "https://www.hankyung.com/article/2026071324851"
+    },
+    {
+     "date": "2026-07-14",
+     "source": "연합뉴스·경제",
+     "title": "\"호남 반도체 교섭의제로\" 삼전노조 주장에 노동부 \"대상 아냐\"",
+     "link": "https://www.yna.co.kr/view/AKR20260713165800530"
+    },
     {
      "date": "2026-07-13",
      "source": "연합뉴스·경제",
@@ -13146,6 +13284,12 @@
   },
   "삼성SDS(018260)": {
    "articles": [
+    {
+     "date": "2026-07-14",
+     "source": "아시아경제",
+     "title": "[클릭 e종목]\"삼성SDS, AI 확대가 GPU 수요 견인…목표가↑",
+     "link": "https://view.asiae.co.kr/article/2026071316583384410"
+    },
     {
      "date": "2026-07-10",
      "source": "한국경제·증권",
@@ -13975,6 +14119,18 @@
   "이마트(139480)": {
    "articles": [
     {
+     "date": "2026-07-14",
+     "source": "연합뉴스·경제",
+     "title": "이마트서 16일부터 수입 신선란 30구 5천890원→4천980원 인하(종합)",
+     "link": "https://www.yna.co.kr/view/AKR20260713146551030"
+    },
+    {
+     "date": "2026-07-14",
+     "source": "연합뉴스·경제",
+     "title": "수입신선란 가격인하…16일부터 이마트서 30구 5천890→4천980원",
+     "link": "https://www.yna.co.kr/view/AKR20260713146500030"
+    },
+    {
      "date": "2026-07-10",
      "source": "한국경제·증권",
      "title": "\"이마트, 2분기 실적 기대치 밑돌 듯…목표가↓\"-한국",
@@ -14153,6 +14309,12 @@
   "홈플러스": {
    "articles": [
     {
+     "date": "2026-07-14",
+     "source": "한국경제·경제",
+     "title": "\"전기료도 내기 힘들어\"…홈플러스 28년 만에 역사속으로",
+     "link": "https://www.hankyung.com/article/2026071324791"
+    },
+    {
      "date": "2026-07-13",
      "source": "한국경제·경제",
      "title": "\"장례식장 온 기분\" 주민들 울컥…홈플러스 '눈물의 땡처리'",
@@ -14265,6 +14427,30 @@
   "TSMC(TSM)": {
    "articles": [
     {
+     "date": "2026-07-14",
+     "source": "한국경제·경제",
+     "title": "TSMC \"2분기 매출 36% 증가…AI 투자수요 여전히 견고\"",
+     "link": "https://www.hankyung.com/article/202607132726i"
+    },
+    {
+     "date": "2026-07-14",
+     "source": "한국경제·증권",
+     "title": "TSMC, 6월 역대최대 매출 또 경신",
+     "link": "https://www.hankyung.com/article/2026071324631"
+    },
+    {
+     "date": "2026-07-14",
+     "source": "CNBC·Markets",
+     "title": "TSMC, the world's largest contract chipmaker, reports 68% surge in June revenue",
+     "link": "https://www.cnbc.com/2026/07/13/tsmc-june-revenue-rises-percent-ahead-second-quarter.html"
+    },
+    {
+     "date": "2026-07-14",
+     "source": "MarketWatch",
+     "title": "TSMC just reported a record month for revenue ahead of critical earnings report on Thursday",
+     "link": "https://www.marketwatch.com/story/tsmc-just-reported-a-record-month-for-revenue-ahead-of-critical-earnings-report-on-thursday-508195fd?mod=mw_rss_topstories"
+    },
+    {
      "date": "2026-07-13",
      "source": "아시아경제",
      "title": "[굿모닝 증시]SK하이닉스 ADR 흥행…TSMC 실적이 코스피 반등 분수령",
@@ -14368,6 +14554,18 @@
   },
   "GS(078930)": {
    "articles": [
+    {
+     "date": "2026-07-14",
+     "source": "한국경제·경제",
+     "title": "LG전자, GS건설 손잡고 차세대 'AI 홈' 개발 속도",
+     "link": "https://www.hankyung.com/article/2026071325121"
+    },
+    {
+     "date": "2026-07-14",
+     "source": "MarketWatch",
+     "title": "TSMC just reported a record month for revenue ahead of critical earnings report on Thursday",
+     "link": "https://www.marketwatch.com/story/tsmc-just-reported-a-record-month-for-revenue-ahead-of-critical-earnings-report-on-thursday-508195fd?mod=mw_rss_topstories"
+    },
     {
      "date": "2026-07-13",
      "source": "MarketWatch",
@@ -14539,6 +14737,12 @@
   "오뚜기(007310)": {
    "articles": [
     {
+     "date": "2026-07-14",
+     "source": "연합뉴스·경제",
+     "title": "오뚜기, 카레·케첩 등 29개 품목 가격 올려…최대 17% 인상",
+     "link": "https://www.yna.co.kr/view/AKR20260713153200030"
+    },
+    {
      "date": "2026-07-13",
      "source": "한국경제·경제",
      "title": "오뚜기라면, 구미에 2000억 투자…수출용 공장 신설한다",
@@ -14611,7 +14815,27 @@
      "link": "https://view.asiae.co.kr/article/2026071308411642045"
     }
    ]
+  },
+  "HD한국조선해양(009540)": {
+   "articles": [
+    {
+     "date": "2026-07-14",
+     "source": "한국경제·경제",
+     "title": "HD한국조선해양, 유럽서 암모니아 운반선 3척 수주…5456억 규모",
+     "link": "https://www.hankyung.com/article/202607132347i"
+    }
+   ]
+  },
+  "우림피티에스(101170)": {
+   "articles": [
+    {
+     "date": "2026-07-14",
+     "source": "irobotnews.com",
+     "title": "- 🟢 선행 포착(오르기 전 기회): 우림피티에스(101170) — 보스턴다이내믹스 공급+밸류체인 재평가, 누적 2회로 조용.",
+     "link": "https://www.irobotnews.com/news/articleView.html?idxno=47393"
+    }
+   ]
   }
  },
- "updatedAt": "2026-07-13T17:38:05+09:00"
+ "updatedAt": "2026-07-14T02:33:52+09:00"
 }

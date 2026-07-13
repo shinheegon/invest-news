@@ -1,16 +1,18 @@
 {
- "updatedAt": "2026-07-12T23:50:00+09:00",
- "session": "PM",
- "stock_fng": { "value": 48, "label": "Neutral", "source": "https://www.cnn.com/markets/fear-and-greed" },
+ "updatedAt": "2026-07-14T07:10:00+09:00",
+ "session": "AM",
+ "stock_fng": { "value": 49, "label": "Neutral", "source": "https://www.benzinga.com/markets/market-summary/26/07/60406946/dow-gains-150-points-but-records-weekly-loss-investor-sentiment-improves-fear-greed-index-remains-in-neutral-zone" },
  "indices": [
-  { "name": "코스피", "value": "7,475.94", "change": "+2.52% (+184.03p)", "source": "https://view.asiae.co.kr/article/2026071015340738271" },
-  { "name": "코스닥", "value": "837.43", "change": "+5.47% (+43.43p)", "source": "https://view.asiae.co.kr/article/2026071015343856713" },
-  { "name": "S&P 500", "value": "7,575.39", "change": "+0.42%", "source": "https://www.cnbc.com/2026/07/09/stock-market-today-live-updates.html" },
-  { "name": "나스닥", "value": "26,281.61", "change": "+0.29%", "source": "https://www.cnbc.com/2026/07/09/stock-market-today-live-updates.html" },
-  { "name": "다우", "value": "52,637.01", "change": "+0.29%", "source": "https://www.cnbc.com/2026/07/09/stock-market-today-live-updates.html" },
-  { "name": "VIX", "value": "15.03", "change": "-5.11%", "source": "https://www.investing.com/rates-bonds/u.s.-10-year-bond-yield" },
-  { "name": "美 10년물", "value": "4.56%", "change": "보합권", "source": "https://www.cnbc.com/quotes/US10Y" },
-  { "name": "달러인덱스(DXY)", "value": "100.9669", "change": "+0.06%", "source": "https://tradingeconomics.com/dxy:cur" },
-  { "name": "원/달러", "value": "1,501.4", "change": "-4.7원", "source": "https://www.yna.co.kr/view/AKR20260710116000002" }
+  { "name": "코스피", "value": "6,806.93", "change": "-8.95% (-669.01p, 7/13 마감)", "source": "https://www.newspim.com/news/view/20260713000993" },
+  { "name": "코스닥", "value": "799.36", "change": "-4.55% (-38.07p, 7/13 마감)", "source": "https://view.asiae.co.kr/article/2026071315340882874" },
+  { "name": "VKOSPI", "value": "83.33", "change": "+6.63% (7/13)", "source": "https://www.fnnews.com/news/202607131619472044" },
+  { "name": "S&P 500", "value": "7,575.39", "change": "+0.42% (7/10 마감, 美 7/13 정규장 아직 진행 중)", "source": "https://www.cnbc.com/2026/07/12/stock-market-today-live-updates.html" },
+  { "name": "나스닥", "value": "26,281.61", "change": "+0.29% (7/10 마감)", "source": "https://www.cnbc.com/2026/07/12/stock-market-today-live-updates.html" },
+  { "name": "VIX", "value": "15.03", "change": "-5.11% (7/10 마감)", "source": "https://www.cnbc.com/2026/07/12/stock-market-today-live-updates.html" },
+  { "name": "美 10년물", "value": "4.56%", "change": "소폭 하락 (7/10 기준)", "source": "https://tradingeconomics.com/united-states/government-bond-yield" },
+  { "name": "달러인덱스(DXY)", "value": "100.93", "change": "-0.02% (7/13)", "source": "https://tradingeconomics.com/dxy:cur" },
+  { "name": "원/달러", "value": "1,503.4", "change": "+2.0원 (7/13 15:30 기준가)", "source": "https://kbthink.com/investment/fx/daily/260713.html" },
+  { "name": "WTI", "value": "$75선", "change": "+4%대 (호르무즈 봉쇄 재선언 지속)", "source": "https://www.cnbc.com/2026/07/13/trump-iran-hormuz-strait-charge-reimburse.html" },
+  { "name": "브렌트유", "value": "$80 근접", "change": "+4%대", "source": "https://www.cnbc.com/2026/07/13/trump-iran-hormuz-strait-charge-reimburse.html" }
  ]
 }

@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-07-13T14:58:44+09:00",
+ "updatedAt": "2026-07-14T02:56:21+09:00",
  "note": "빗나감 자동 원인분류 + 자기발전 필터. 투자권유 아님.",
  "summary": {
   "resolved": 83,
@@ -164,12 +164,12 @@
  },
  "macro": {
   "regime": "위험회피",
-  "kospi5d": -3.19,
-  "kosdaq5d": 2.86,
-  "fearGreed": 48.0,
+  "kospi5d": -6.65,
+  "kosdaq5d": 0.68,
+  "fearGreed": 49.0,
   "vix": 15.03,
   "guidance": "소형주 언더퍼폼 국면 — 포착 수를 줄이고 승세테마×구체촉발재만 최고확신으로. 열세테마·약신호 전면 배제.",
-  "asOf": "2026-07-13"
+  "asOf": "2026-07-14"
  },
  "history": [
   {
@@ -182,7 +182,18 @@
     "theme_headwind": 11.1,
     "macro_riskoff": 2.2
    }
+  },
+  {
+   "date": "2026-07-14",
+   "resolved": 83,
+   "missRate": 54.2,
+   "causeShares": {
+    "weak_signal": 75.6,
+    "idiosyncratic": 11.1,
+    "theme_headwind": 11.1,
+    "macro_riskoff": 2.2
+   }
   }
  ],
- "develop": ""
+ "develop": "직전(2026-07-13) 대비 빗나감률 54.2%→54.2% (+0.0p). 최다 원인=‘신호 약함(구체 촉발재 없음)’. 필터에 반영됨."
 }
