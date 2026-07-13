@@ -120,6 +120,21 @@ table.freq tbody tr:hover { background: #1c2330; }
 .watch-hot { background: #14100422; }
 .hot-badge { font-size: 0.72rem; color: #f5a524; font-weight: 600; }
 
+/* 거시 국면 카드 */
+.macro-box { border: 1px solid var(--border); border-radius: 10px; padding: 14px 16px;
+  background: #0d1117; margin: 8px 0; }
+.macro-head { font-size: 1rem; font-weight: 600; }
+.macro-head.down { color: #f85149; }
+.macro-head.up { color: #3fb950; }
+.macro-head.flat { color: #f5a524; }
+.macro-metrics { font-size: 0.85rem; margin: 4px 0; }
+.macro-guide { font-size: 0.88rem; margin-top: 6px; padding-top: 6px; border-top: 1px solid var(--border); }
+/* 자동 도출 필터 규칙 */
+.miss-rules { margin-top: 12px; }
+.miss-rules-title { font-weight: 600; color: #58a6ff; font-size: 0.9rem; margin-bottom: 6px; }
+.miss-rules ul { margin: 0; padding-left: 20px; }
+.miss-rules li { font-size: 0.86rem; line-height: 1.6; color: var(--text); }
+
 /* 마크다운 렌더 */
 .md h1 { font-size: 1.35rem; border-bottom: 1px solid var(--border); padding-bottom: 8px; }
 .md h2 { font-size: 1.1rem; margin-top: 22px; }

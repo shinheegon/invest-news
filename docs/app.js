@@ -551,8 +551,40 @@ async function loadVerification() {
 
   await renderWatchPriority();
   await renderThemeBoard();
+  await renderMissAnalysis();
   await renderPriceHistory();
   renderFavTab();   // 검증·주가·유망도 로드 후 관심 탭의 흐름 정보 갱신
+}
+async function renderMissAnalysis() {
+  const m = await getJSON(`${DATA}/miss-analysis.json`);
+  const box = document.getElementById('macroBox');
+  const sum = document.getElementById('missSummary');
+  const t = document.getElementById('missTable');
+  const rules = document.getElementById('missRules');
+  const dev = document.getElementById('missDevelop');
+  if (!m) { if (sum) sum.textContent = '검증이 쌓이면 빗나감 원인분석이 생성됩니다.'; return; }
+  // 거시 국면 카드
+  const rg = m.macro?.regime || '—';
+  const rgCls = rg === '위험회피' ? 'down' : rg === '위험선호' ? 'up' : 'flat';
+  const rgIcon = rg === '위험회피' ? '🔴' : rg === '위험선호' ? '🟢' : '🟡';
+  if (box) box.innerHTML = m.macro ? `<div class="macro-head ${rgCls}">${rgIcon} 현재 거시 국면: <b>${rg}</b></div>` +
+    `<div class="macro-metrics muted">코스피 5일 ${m.macro.kospi5d >= 0 ? '+' : ''}${m.macro.kospi5d ?? '—'}% · 공포탐욕 ${m.macro.fearGreed ?? '—'} · VIX ${m.macro.vix ?? '—'}</div>` +
+    `<div class="macro-guide">🎯 ${m.macro.guidance || ''}</div>` : '';
+  const s = m.summary || {};
+  if (sum) sum.innerHTML = `검증 ${s.resolved}건 중 <b>빗나감 ${s.miss}건(${s.missRate}%)</b> · ` +
+    `그중 <b class="delta-down">${s.preventableShare}%가 예방 가능</b>(약신호·열세테마·후발) → 아래 필터로 자동 차단`;
+  if (t) t.innerHTML = (m.byCause || []).length
+    ? '<thead><tr><th>원인</th><th>건수</th><th>비중</th><th>평균 초과수익</th><th>예방</th></tr></thead><tbody>' +
+      m.byCause.map(c => `<tr><td>${c.label}</td><td>${c.n}</td><td>${c.share}%</td>` +
+        `<td><span class="delta-down">${c.avgExcess != null ? c.avgExcess + '%' : '—'}</span></td>` +
+        `<td style="text-align:center">${c.preventable ? '✅ 필터' : '—'}</td></tr>`).join('') + '</tbody>'
+    : '<tbody><tr><td class="muted">빗나감 사례 없음</td></tr></tbody>';
+  const rl = m.learnedFilter?.rules || [];
+  if (rules) rules.innerHTML = rl.length
+    ? '<div class="miss-rules-title">🤖 스스로 도출한 필터 규칙 (매 회차 갱신)</div><ul>' +
+      rl.map(r => `<li>${r}</li>`).join('') + '</ul>'
+    : '';
+  if (dev) dev.textContent = m.develop ? `📈 자기발전: ${m.develop}` : '';
 }
 async function renderWatchPriority() {
   const w = await getJSON(`${DATA}/watch-priority.json`) || { top: [], avoid: [], all: [] };
