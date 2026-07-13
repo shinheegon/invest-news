@@ -83,6 +83,7 @@ def main():
     out = {
         "updatedAt": datetime.now(KST).isoformat(timespec="seconds"),
         "note": src.get("note"),
+        "macroOverview": src.get("macroOverview"),
         "categories": src.get("categories", []),
         "macro": {"regime": macro.get("regime"), "guidance": macro.get("guidance")},
         "companies": comps,

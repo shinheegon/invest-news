@@ -1,54 +1,63 @@
 {
- "updatedAt": "2026-07-13T15:10:27+09:00",
+ "updatedAt": "2026-07-13T15:17:40+09:00",
  "note": "AI에 구조적으로 필수인 부품·밸류체인 기업을 '장기 전망·비전' 기준으로 선별한 관찰 그룹. 단기 모멘텀(검증 D+3)과는 별개 — 각 종목에 현재 모멘텀도 함께 표기. 투자권유 아님, 정보·관찰용.",
+ "macroOverview": "거시 큰 그림: AI 데이터센터 capex는 경기 사이클과 디커플링된 '구조적 투자'다 — 빅테크(MS·구글·메타·아마존)의 설비투자는 경기와 무관하게 매년 증액되고 있다. 금리 인하 사이클 진입은 성장주 밸류에이션에 우호적(할인율↓). 시장의 병목이 HBM → 전력 → 냉각 → 광통신 순으로 '로테이션'하는 게 핵심 흐름이라, 어느 한 계층이 조정받아도 다음 병목으로 자금이 옮겨간다. 단기적으로는 메모리 고점론·급락장(위험회피)으로 소부장·전력이 눌려 있으나, 이는 '구조적 성장 vs 단기 수급'의 괴리 구간. 우리 그룹은 이 괴리를 계층별로 보여줘 '비전은 필수인데 아직 자금이 안 붙은' 눌림 구간을 포착하는 게 목적이다.",
  "categories": [
   {
    "key": "hbm",
    "label": "① AI 메모리 (HBM)",
    "layer": "1차 핵심",
-   "why": "AI 연산의 병목=메모리 대역폭. HBM 없이는 GPU도 무용. AI 슈퍼사이클의 심장."
+   "why": "AI 연산의 병목=메모리 대역폭. HBM 없이는 GPU도 무용. AI 슈퍼사이클의 심장.",
+   "macroThesis": "거시·시장: AI capex 슈퍼사이클의 최대 수혜 계층. HBM은 공급이 수요를 못 따라가 완판·선주문 구조 — 범용 D램 사이클과 디커플링돼 가격 방어력이 높다. 금리 인하 국면에서 메모리 성장주 재평가 수혜. 리스크=모건스탠리發 '메모리 고점론'과 최근 급락장 셀온이지만, HBM4 전환(2026~27)이 다음 성장 트리거로 대기. 지금 '열세' 모멘텀은 구조적 수요가 아니라 단기 수급·심리 때문."
   },
   {
    "key": "pkg",
    "label": "② HBM 패키징·후공정",
    "layer": "1차 핵심",
-   "why": "HBM은 D램 수직 적층(TC본더·TSV)이 핵심. 이 장비·후공정 없이 HBM 생산 불가."
+   "why": "HBM은 D램 수직 적층(TC본더·TSV)이 핵심. 이 장비·후공정 없이 HBM 생산 불가.",
+   "macroThesis": "거시·시장: HBM 생산량 자체가 TC본더 등 후공정 장비 CAPA에 병목이 걸린다 → HBM 증설 = 장비 수주로 직결(파생 수혜). TSMC·삼성 선단공정 증설과 연동. AI칩 물량이 늘수록 후공정 외주·장비 수요가 구조적으로 증가. 리스크=고객사 편중(HBM 3사)과 소부장 테마의 단기 모멘텀 열세. 장비주는 발주 사이클을 타므로 HBM 증설 재개 시점이 방아쇠."
   },
   {
    "key": "substrate",
    "label": "③ 첨단 기판 (ABF·유리기판)",
    "layer": "1차 핵심",
-   "why": "고성능 칩을 담는 그릇. 유리기판은 차세대 패키징의 판을 바꾸는 미래 베팅(2027~28 본격)."
+   "why": "고성능 칩을 담는 그릇. 유리기판은 차세대 패키징의 판을 바꾸는 미래 베팅(2027~28 본격).",
+   "macroThesis": "거시·시장: AI 서버는 고다층·대면적 기판을 요구 → FC-BGA·MLCC 슈퍼사이클. 유리기판은 2027~28 양산의 '미래 베팅'으로, 금리 하락 국면에서 장기 성장 스토리에 프리미엄이 붙는 구조. 다만 실적 공백기(현재 매출 미미)라 테마 변동성이 크다 — TSMC의 유리기판 참전 등 생태계 경쟁이 변수. 단기 조정은 길지만 방향성은 확실."
   },
   {
    "key": "design",
    "label": "④ AI 반도체 설계·IP",
    "layer": "승세 테마",
-   "why": "맞춤형 AI칩(ASIC) 수요 폭발 → 디자인하우스·설계자산(IP)이 길목. 우리 검증 승세 테마."
+   "why": "맞춤형 AI칩(ASIC) 수요 폭발 → 디자인하우스·설계자산(IP)이 길목. 우리 검증 승세 테마.",
+   "macroThesis": "거시·시장: 빅테크가 엔비디아 의존을 줄이려 자체 AI칩(ASIC)을 내재화하는 게 구조적 흐름 → 디자인하우스·IP가 그 길목을 독점적으로 차지. 우리 검증에서도 자금이 실제로 유입되는 '승세' 테마(모멘텀·비전 동시 충족). 엔비디아 독점 완화 트렌드의 직접 수혜. 리스크=고객 편중·밸류 부담이나, AI칩 다변화는 되돌릴 수 없는 방향."
   },
   {
    "key": "power",
    "label": "⑤ AI 데이터센터 전력",
    "layer": "2차 인프라",
-   "why": "AI DC는 전력 먹는 하마. 변압기·전력기기 공급이 데이터센터 증설의 물리적 제약."
+   "why": "AI DC는 전력 먹는 하마. 변압기·전력기기 공급이 데이터센터 증설의 물리적 제약.",
+   "macroThesis": "거시·시장: AI DC 전력수요 폭증 + 북미 노후 전력망 교체가 겹쳐 변압기 '슈퍼사이클'(공급 부족·단가 상승·수주잔고 급증). 데이터센터를 지어도 전력을 못 넣으면 못 돌리므로 물리적 병목. 다만 2024~25 급등 후 현재 조정(모멘텀 열세) — 구조는 살아있고 밸류만 식은 '눌림 관찰' 구간. 금리 하락은 전력 인프라 투자에 우호적."
   },
   {
    "key": "cooling",
    "label": "⑥ AI 데이터센터 냉각",
    "layer": "2차 인프라",
-   "why": "고밀도 AI 서버는 공랭 한계 → 액침·수냉 전환. 열을 못 잡으면 밀도를 못 올림."
+   "why": "고밀도 AI 서버는 공랭 한계 → 액침·수냉 전환. 열을 못 잡으면 밀도를 못 올림.",
+   "macroThesis": "거시·시장: GPU 밀도가 올라갈수록 공랭은 물리적 한계 → 액침·수냉 전환은 선택이 아니라 필수. 액침냉각 시장 CAGR 40%+의 초고성장 초입(침투율 상승 시작). 아직 시장 초기라 종목별 실적은 작고 변동성 큼(고위험·고성장). 병목 로테이션의 '다음 차례'로 자금이 옮겨올 후보 계층."
   },
   {
    "key": "optics",
    "label": "⑦ 광통신·실리콘포토닉스",
    "layer": "3차(2027~28)",
-   "why": "구리선 대역폭 한계 돌파 → 칩간 광연결(CPO/SiPh). 젠슨 황이 직접 지목한 차세대 병목."
+   "why": "구리선 대역폭 한계 돌파 → 칩간 광연결(CPO/SiPh). 젠슨 황이 직접 지목한 차세대 병목.",
+   "macroThesis": "거시·시장: 데이터 폭증으로 구리선 대역폭이 한계 → 칩간 광연결(CPO·실리콘포토닉스)이 다음 필연. 엔비디아가 Rubin 플랫폼에 CPO 탑재를 공식화하며 '2026 상용화 원년'. 다만 국내 실적 반영은 2027~28이 현실 → 기대 선반영으로 변동성 크다. 장기 비전은 최상위, 타이밍은 인내가 필요한 계층."
   },
   {
    "key": "robot",
    "label": "⑧ 로봇·피지컬 AI",
    "layer": "승세 테마",
-   "why": "AI가 현실로 나오는 단계. 감속기·액추에이터가 휴머노이드의 필수 부품. 우리 검증 최강 승세."
+   "why": "AI가 현실로 나오는 단계. 감속기·액추에이터가 휴머노이드의 필수 부품. 우리 검증 최강 승세.",
+   "macroThesis": "거시·시장: 피지컬 AI의 '챗GPT 순간' — AI가 소프트웨어를 넘어 현실(로봇)로 나오는 국면. 현대차(로봇 공정 전환)·삼성(레인보우 지분)·테슬라 옵티머스가 채택을 가속. 우리 검증에서 자금 유입이 확인된 '최강 승세' 테마(비전+모멘텀 동시). 감속기·액추에이터를 내재화한 부품사가 병목 수혜. 급등 종목은 후발 경고, 부품 내재화 기업이 핵심."
   }
  ],
  "macro": {
@@ -67,8 +76,8 @@
    "risk": "메모리 사이클·고점론",
    "official": "SK하이닉스",
    "tickerMismatch": false,
-   "price": 1861000,
-   "changeRate": "-14.63",
+   "price": 1853000,
+   "changeRate": "-15.00",
    "sinceAddedPct": 0.0,
    "priceLog": [
     {
@@ -90,8 +99,8 @@
    "risk": "HBM 경쟁열위·파운드리 적자",
    "official": "삼성전자",
    "tickerMismatch": false,
-   "price": 256500,
-   "changeRate": "-10.00",
+   "price": 254500,
+   "changeRate": "-10.70",
    "sinceAddedPct": 0.0,
    "priceLog": [
     {
@@ -136,8 +145,8 @@
    "risk": "전방 투자 변동성",
    "official": "하나마이크론",
    "tickerMismatch": false,
-   "price": 38750,
-   "changeRate": "-2.52",
+   "price": 38450,
+   "changeRate": "-3.27",
    "sinceAddedPct": 0.0,
    "priceLog": [
     {
@@ -159,8 +168,8 @@
    "risk": "기판 단가·소재장비 열세테마",
    "official": "심텍",
    "tickerMismatch": false,
-   "price": 108700,
-   "changeRate": "-11.41",
+   "price": 107800,
+   "changeRate": "-12.14",
    "sinceAddedPct": 0.0,
    "priceLog": [
     {
@@ -182,8 +191,8 @@
    "risk": "IT 수요 둔화",
    "official": "삼성전기",
    "tickerMismatch": false,
-   "price": 1299000,
-   "changeRate": "-17.99",
+   "price": 1285000,
+   "changeRate": "-18.88",
    "sinceAddedPct": 0.0,
    "priceLog": [
     {
@@ -205,8 +214,8 @@
    "risk": "양산 지연·2027~28 실적 시점",
    "official": "SKC",
    "tickerMismatch": false,
-   "price": 88000,
-   "changeRate": "-6.98",
+   "price": 87700,
+   "changeRate": "-7.29",
    "sinceAddedPct": 0.0,
    "priceLog": [
     {
@@ -251,8 +260,8 @@
    "risk": "고객 편중·밸류 부담",
    "official": "에이직랜드",
    "tickerMismatch": false,
-   "price": 21100,
-   "changeRate": "-15.60",
+   "price": 21000,
+   "changeRate": "-16.00",
    "sinceAddedPct": 0.0,
    "priceLog": [
     {
@@ -274,8 +283,8 @@
    "risk": "실적 변동성",
    "official": "가온칩스",
    "tickerMismatch": false,
-   "price": 49600,
-   "changeRate": "-13.29",
+   "price": 49050,
+   "changeRate": "-14.25",
    "sinceAddedPct": 0.0,
    "priceLog": [
     {
@@ -320,8 +329,8 @@
    "risk": "단기 급등·전력 열세테마(모멘텀)",
    "official": "HD현대일렉트릭",
    "tickerMismatch": false,
-   "price": 788000,
-   "changeRate": "-7.40",
+   "price": 783000,
+   "changeRate": "-7.99",
    "sinceAddedPct": 0.0,
    "priceLog": [
     {
@@ -343,8 +352,8 @@
    "risk": "전력 모멘텀 열세(단기)",
    "official": "LS ELECTRIC",
    "tickerMismatch": false,
-   "price": 183600,
-   "changeRate": "-9.33",
+   "price": 182100,
+   "changeRate": "-10.07",
    "sinceAddedPct": 0.0,
    "priceLog": [
     {
@@ -366,8 +375,8 @@
    "risk": "수주 편중·모멘텀",
    "official": "효성중공업",
    "tickerMismatch": false,
-   "price": 2678000,
-   "changeRate": "-8.41",
+   "price": 2666000,
+   "changeRate": "-8.82",
    "sinceAddedPct": 0.0,
    "priceLog": [
     {
@@ -389,8 +398,8 @@
    "risk": "초기 시장·실적 미미·냉각 모멘텀",
    "official": "케이엔솔",
    "tickerMismatch": false,
-   "price": 8650,
-   "changeRate": "-6.69",
+   "price": 8680,
+   "changeRate": "-6.36",
    "sinceAddedPct": 0.0,
    "priceLog": [
     {
@@ -435,8 +444,8 @@
    "risk": "범용 소재 변동성",
    "official": "대한광통신",
    "tickerMismatch": false,
-   "price": 11070,
-   "changeRate": "-12.14",
+   "price": 11010,
+   "changeRate": "-12.62",
    "sinceAddedPct": 0.0,
    "priceLog": [
     {
@@ -458,8 +467,8 @@
    "risk": "밸류 부담·양산 시점",
    "official": "레인보우로보틱스",
    "tickerMismatch": false,
-   "price": 418000,
-   "changeRate": "-7.83",
+   "price": 415000,
+   "changeRate": "-8.49",
    "sinceAddedPct": 0.0,
    "priceLog": [
     {
@@ -481,8 +490,8 @@
    "risk": "규모·수익성",
    "official": "로보티즈",
    "tickerMismatch": false,
-   "price": 207500,
-   "changeRate": "-4.82",
+   "price": 205500,
+   "changeRate": "-5.73",
    "sinceAddedPct": 0.0,
    "priceLog": [
     {
@@ -504,8 +513,8 @@
    "risk": "전방 양산 속도",
    "official": "에스피지",
    "tickerMismatch": false,
-   "price": 69600,
-   "changeRate": "-5.95",
+   "price": 68900,
+   "changeRate": "-6.89",
    "sinceAddedPct": 0.0,
    "priceLog": [
     {

@@ -151,6 +151,16 @@ table.freq tbody tr:hover { background: #1c2330; }
 .mom.up { color: #3fb950; }
 .mom.down { color: #f85149; }
 .mom.flat { color: #8b949e; }
+/* AI 그룹 테마 필터 칩 */
+.ai-filter { display: flex; flex-wrap: wrap; gap: 6px; margin-bottom: 16px; }
+.ai-chip { font-size: 0.82rem; padding: 5px 12px; border-radius: 999px; cursor: pointer;
+  background: #161b22; border: 1px solid var(--border); color: var(--muted); }
+.ai-chip:hover { color: var(--text); }
+.ai-chip.active { background: #1f6feb22; border-color: var(--accent); color: var(--accent); font-weight: 600; }
+/* 테마별 거시 투자가치 분석 박스 */
+.ai-macro-thesis { font-size: 0.85rem; line-height: 1.6; background: #0d1117;
+  border: 1px solid var(--border); border-left: 3px solid #58a6ff; border-radius: 8px;
+  padding: 10px 14px; margin: 8px 0 12px; }
 
 /* 마크다운 렌더 */
 .md h1 { font-size: 1.35rem; border-bottom: 1px solid var(--border); padding-bottom: 8px; }

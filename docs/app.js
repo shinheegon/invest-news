@@ -564,18 +564,23 @@ async function loadAiGroup() {
     const rg = g.macro.regime, cls = rg === '위험회피' ? 'down' : rg === '위험선호' ? 'up' : 'flat';
     const icon = rg === '위험회피' ? '🔴' : rg === '위험선호' ? '🟢' : '🟡';
     mb.innerHTML = `<div class="macro-head ${cls}">${icon} 현재 거시 국면: <b>${rg}</b> <span class="muted" style="font-weight:400">— 장기 비전 그룹이라 단기 국면과 별개로 관찰</span></div>` +
-      `<div class="macro-guide">🎯 ${g.macro.guidance || ''}</div>`;
+      (g.macroOverview ? `<div class="macro-guide"><b>🌐 거시 흐름:</b> ${g.macroOverview}</div>` : '') +
+      (g.macro.guidance ? `<div class="macro-guide">🎯 ${g.macro.guidance}</div>` : '');
   }
   const star = n => `<button class="star${isFav(n) ? ' on' : ''}" data-fav="${n}" title="관심 추가/해제">${isFav(n) ? '★' : '☆'}</button>`;
   const momTag = m => m === '승세' ? '<span class="mom up">▲승세</span>' : m === '열세' ? '<span class="mom down">▼열세</span>' : '<span class="mom flat">—중립</span>';
   const chgTag = r => { if (r == null || r === '') return ''; const up = !(String(r).startsWith('-')); return `<span class="${up ? 'delta-up' : 'delta-down'}">${up ? '+' : ''}${r}%</span>`; };
   const byCat = {};
   (g.companies || []).forEach(c => { (byCat[c.category] = byCat[c.category] || []).push(c); });
-  wrap.innerHTML = (g.categories || []).map(cat => {
+  const cats = (g.categories || []).filter(cat => (byCat[cat.key] || []).length);
+  // 테마 필터 칩
+  const chips = `<div class="ai-filter"><button class="ai-chip active" data-cat="__all__">전체</button>` +
+    cats.map(c => `<button class="ai-chip" data-cat="${c.key}">${c.label.replace(/^[①-⑧]\s*/, '')}</button>`).join('') + '</div>';
+  const body = cats.map(cat => {
     const list = byCat[cat.key] || [];
-    if (!list.length) return '';
-    return `<div class="ai-cat"><div class="ai-cat-head"><span class="ai-cat-label">${cat.label}</span> <span class="ai-cat-layer">${cat.layer}</span></div>` +
+    return `<div class="ai-cat" data-cat="${cat.key}"><div class="ai-cat-head"><span class="ai-cat-label">${cat.label}</span> <span class="ai-cat-layer">${cat.layer}</span></div>` +
       `<div class="ai-cat-why muted">${cat.why}</div>` +
+      (cat.macroThesis ? `<div class="ai-macro-thesis">💡 ${cat.macroThesis}</div>` : '') +
       `<div class="table-scroll"><table class="freq ai-table"><thead><tr><th>종목</th><th>현재가</th><th>당일</th><th>추가후</th><th>모멘텀</th><th>비전·투자포인트</th></tr></thead><tbody>` +
       list.map(c => {
         const nm = `${c.name}(${c.ticker})`;
@@ -588,6 +593,15 @@ async function loadAiGroup() {
           `<td class="ai-thesis"><b>${c.thesis}</b><div class="muted">✅ ${c.essential}</div><div class="ai-risk muted">⚠️ ${c.risk}</div></td></tr>`;
       }).join('') + '</tbody></table></div></div>';
   }).join('');
+  wrap.innerHTML = chips + body;
+  // 필터 동작
+  wrap.querySelectorAll('.ai-chip').forEach(ch => ch.onclick = () => {
+    const key = ch.dataset.cat;
+    wrap.querySelectorAll('.ai-chip').forEach(x => x.classList.toggle('active', x === ch));
+    wrap.querySelectorAll('.ai-cat').forEach(sec => {
+      sec.style.display = (key === '__all__' || sec.dataset.cat === key) ? '' : 'none';
+    });
+  });
   wrap.querySelectorAll('.star').forEach(b => b.onclick = e => {
     e.stopPropagation();
     toggleFav(b.dataset.fav); syncStars(b.dataset.fav); loadAiGroup(); renderFavTab();
