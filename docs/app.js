@@ -555,6 +555,44 @@ async function loadVerification() {
   await renderPriceHistory();
   renderFavTab();   // 검증·주가·유망도 로드 후 관심 탭의 흐름 정보 갱신
 }
+async function loadAiGroup() {
+  const g = await getJSON(`${DATA}/ai-group-live.json`) || await getJSON(`${DATA}/ai-group.json`);
+  const wrap = document.getElementById('aiGroupBody');
+  const mb = document.getElementById('aiMacro');
+  if (!g || !wrap) return;
+  if (mb && g.macro && g.macro.regime) {
+    const rg = g.macro.regime, cls = rg === '위험회피' ? 'down' : rg === '위험선호' ? 'up' : 'flat';
+    const icon = rg === '위험회피' ? '🔴' : rg === '위험선호' ? '🟢' : '🟡';
+    mb.innerHTML = `<div class="macro-head ${cls}">${icon} 현재 거시 국면: <b>${rg}</b> <span class="muted" style="font-weight:400">— 장기 비전 그룹이라 단기 국면과 별개로 관찰</span></div>` +
+      `<div class="macro-guide">🎯 ${g.macro.guidance || ''}</div>`;
+  }
+  const star = n => `<button class="star${isFav(n) ? ' on' : ''}" data-fav="${n}" title="관심 추가/해제">${isFav(n) ? '★' : '☆'}</button>`;
+  const momTag = m => m === '승세' ? '<span class="mom up">▲승세</span>' : m === '열세' ? '<span class="mom down">▼열세</span>' : '<span class="mom flat">—중립</span>';
+  const chgTag = r => { if (r == null || r === '') return ''; const up = !(String(r).startsWith('-')); return `<span class="${up ? 'delta-up' : 'delta-down'}">${up ? '+' : ''}${r}%</span>`; };
+  const byCat = {};
+  (g.companies || []).forEach(c => { (byCat[c.category] = byCat[c.category] || []).push(c); });
+  wrap.innerHTML = (g.categories || []).map(cat => {
+    const list = byCat[cat.key] || [];
+    if (!list.length) return '';
+    return `<div class="ai-cat"><div class="ai-cat-head"><span class="ai-cat-label">${cat.label}</span> <span class="ai-cat-layer">${cat.layer}</span></div>` +
+      `<div class="ai-cat-why muted">${cat.why}</div>` +
+      `<div class="table-scroll"><table class="freq ai-table"><thead><tr><th>종목</th><th>현재가</th><th>당일</th><th>추가후</th><th>모멘텀</th><th>비전·투자포인트</th></tr></thead><tbody>` +
+      list.map(c => {
+        const nm = `${c.name}(${c.ticker})`;
+        const price = c.price ? Number(c.price).toLocaleString('ko-KR') : '—';
+        const since = c.sinceAddedPct != null ? chgTag(c.sinceAddedPct) : '<span class="muted">신규</span>';
+        return `<tr><td>${star(nm)} <b>${c.name}</b> <span class="muted">${c.ticker}</span>` +
+          `<div class="ai-role muted">${c.role}</div></td>` +
+          `<td>${price}</td><td>${chgTag(c.changeRate)}</td><td>${since}</td>` +
+          `<td>${momTag(c.momentum)}</td>` +
+          `<td class="ai-thesis"><b>${c.thesis}</b><div class="muted">✅ ${c.essential}</div><div class="ai-risk muted">⚠️ ${c.risk}</div></td></tr>`;
+      }).join('') + '</tbody></table></div></div>';
+  }).join('');
+  wrap.querySelectorAll('.star').forEach(b => b.onclick = e => {
+    e.stopPropagation();
+    toggleFav(b.dataset.fav); syncStars(b.dataset.fav); loadAiGroup(); renderFavTab();
+  });
+}
 async function renderMissAnalysis() {
   const m = await getJSON(`${DATA}/miss-analysis.json`);
   const box = document.getElementById('macroBox');
@@ -731,6 +769,7 @@ function setupTabs() {
   await loadArchive();
   await loadPortfolio();
   await loadVerification();
+  await loadAiGroup();
 
   // 투자지표: 최초 로드 + 코인 실시간 90초 자동 새로고침
   await loadMarketTab();

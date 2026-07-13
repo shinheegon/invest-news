@@ -20,6 +20,7 @@
     <button class="tab" data-tab="market">📉 투자지표</button>
     <button class="tab" data-tab="analysis">🧠 분석·전망</button>
     <button class="tab" data-tab="discovery">🌱 성장기업 발굴</button>
+    <button class="tab" data-tab="aigroup">🤖 AI 그룹</button>
     <button class="tab" data-tab="favorites">⭐ 내 관심</button>
     <button class="tab" data-tab="leading">🔮 선행 신호</button>
     <button class="tab" data-tab="verify">🎯 검증</button>
@@ -85,6 +86,14 @@
       <p class="muted">여러 회차에 걸쳐 반복 발굴되는 종목일수록 신호가 강합니다. 증감율·누적 추적.</p>
       <div class="chart-box"><canvas id="dcChart"></canvas></div>
       <div class="table-scroll"><table id="dcTable" class="freq"></table></div>
+    </section>
+
+    <!-- AI 그룹 -->
+    <section id="tab-aigroup" class="panel">
+      <h2>🤖 AI 밸류체인 관찰 그룹</h2>
+      <p class="muted">AI에 <b>구조적으로 필수인 부품·밸류체인</b> 기업을 <b>장기 전망·비전</b> 기준으로 선별한 관찰 그룹입니다. 단기 검증(D+3 모멘텀)과는 성격이 달라, 각 종목에 <b>현재 모멘텀</b>도 함께 표시합니다. ☆로 내 관심에 담아 계속 추적하세요. <b>정보·관찰용, 투자권유 아님.</b></p>
+      <div id="aiMacro" class="macro-box" style="margin-bottom:14px"></div>
+      <div id="aiGroupBody"></div>
     </section>
 
     <!-- 내 관심 -->

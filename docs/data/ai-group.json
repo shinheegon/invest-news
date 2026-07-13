@@ -1,0 +1,36 @@
+{
+ "updatedAt": null,
+ "note": "AI에 구조적으로 필수인 부품·밸류체인 기업을 '장기 전망·비전' 기준으로 선별한 관찰 그룹. 단기 모멘텀(검증 D+3)과는 별개 — 각 종목에 현재 모멘텀도 함께 표기. 투자권유 아님, 정보·관찰용.",
+ "categories": [
+  { "key": "hbm", "label": "① AI 메모리 (HBM)", "layer": "1차 핵심", "why": "AI 연산의 병목=메모리 대역폭. HBM 없이는 GPU도 무용. AI 슈퍼사이클의 심장." },
+  { "key": "pkg", "label": "② HBM 패키징·후공정", "layer": "1차 핵심", "why": "HBM은 D램 수직 적층(TC본더·TSV)이 핵심. 이 장비·후공정 없이 HBM 생산 불가." },
+  { "key": "substrate", "label": "③ 첨단 기판 (ABF·유리기판)", "layer": "1차 핵심", "why": "고성능 칩을 담는 그릇. 유리기판은 차세대 패키징의 판을 바꾸는 미래 베팅(2027~28 본격)." },
+  { "key": "design", "label": "④ AI 반도체 설계·IP", "layer": "승세 테마", "why": "맞춤형 AI칩(ASIC) 수요 폭발 → 디자인하우스·설계자산(IP)이 길목. 우리 검증 승세 테마." },
+  { "key": "power", "label": "⑤ AI 데이터센터 전력", "layer": "2차 인프라", "why": "AI DC는 전력 먹는 하마. 변압기·전력기기 공급이 데이터센터 증설의 물리적 제약." },
+  { "key": "cooling", "label": "⑥ AI 데이터센터 냉각", "layer": "2차 인프라", "why": "고밀도 AI 서버는 공랭 한계 → 액침·수냉 전환. 열을 못 잡으면 밀도를 못 올림." },
+  { "key": "optics", "label": "⑦ 광통신·실리콘포토닉스", "layer": "3차(2027~28)", "why": "구리선 대역폭 한계 돌파 → 칩간 광연결(CPO/SiPh). 젠슨 황이 직접 지목한 차세대 병목." },
+  { "key": "robot", "label": "⑧ 로봇·피지컬 AI", "layer": "승세 테마", "why": "AI가 현실로 나오는 단계. 감속기·액추에이터가 휴머노이드의 필수 부품. 우리 검증 최강 승세." }
+ ],
+ "companies": [
+  { "name": "SK하이닉스", "ticker": "000660", "market": "韓", "category": "hbm", "role": "HBM 글로벌 1위 공급사", "essential": "엔비디아 AI GPU에 HBM 사실상 독점 공급 — AI 메모리의 절대 강자", "thesis": "HBM 슈퍼사이클·HBM4 전환의 최대 수혜, 밸류체인 최상단", "risk": "메모리 사이클·고점론" },
+  { "name": "삼성전자", "ticker": "005930", "market": "韓", "category": "hbm", "role": "HBM 추격 + 파운드리 + 메모리", "essential": "HBM4·파운드리·첨단패키징을 한 회사가 모두 — AI 종합 밸류체인", "thesis": "HBM 추격 성공 시 재평가, 파운드리 반등 옵션", "risk": "HBM 경쟁열위·파운드리 적자" },
+  { "name": "한미반도체", "ticker": "042700", "market": "韓", "category": "pkg", "role": "HBM용 TC본더 세계 1위(점유율 71%)", "essential": "HBM 다이 적층 필수 장비 — HBM 생산량이 이 장비에 달림", "thesis": "HBM5·6 와이드 TC본더 선점, HBM 증설=직접 수혜", "risk": "고객사 편중·경쟁 진입" },
+  { "name": "하나마이크론", "ticker": "067310", "market": "韓", "category": "pkg", "role": "반도체 후공정 패키징·테스트", "essential": "첨단 패키징 물량 증가의 수혜 — 후공정 없이 칩 완성 불가", "thesis": "AI칩 패키징 외주 확대 수혜", "risk": "전방 투자 변동성" },
+  { "name": "심텍", "ticker": "222800", "market": "韓", "category": "pkg", "role": "반도체 패키지 기판(HBM·메모리 모듈)", "essential": "HBM·AI 모듈용 기판 공급 — 기판이 병목이면 칩도 병목", "thesis": "AI 서버 기판 슈퍼사이클", "risk": "기판 단가·소재장비 열세테마" },
+  { "name": "삼성전기", "ticker": "009150", "market": "韓", "category": "substrate", "role": "MLCC + FC-BGA 기판 + 유리기판", "essential": "AI 서버용 고다층 기판·MLCC 필수 부품 대량 공급", "thesis": "AI 서버 MLCC·기판 + 유리기판 2026 하반기 양산 옵션", "risk": "IT 수요 둔화" },
+  { "name": "SKC", "ticker": "011790", "market": "韓", "category": "substrate", "role": "유리기판(앱솔릭스) 세계 최초 양산 추진", "essential": "차세대 패키징 판을 바꿀 유리기판 선두 — 성공 시 게임체인저", "thesis": "앱솔릭스 미국공장 양산 = 유리기판 원년 베팅", "risk": "양산 지연·2027~28 실적 시점" },
+  { "name": "필옵틱스", "ticker": "161580", "market": "韓", "category": "substrate", "role": "유리기판 가공 장비(TGV 등)", "essential": "유리기판 제조 핵심 장비 — 양산 레퍼런스 보유", "thesis": "유리기판 CAPA 확대 시 장비 수주", "risk": "테마 선반영·양산 시점" },
+  { "name": "에이직랜드", "ticker": "445090", "market": "韓", "category": "design", "role": "TSMC 파트너 디자인하우스", "essential": "맞춤형 AI ASIC 설계·양산 다리 역할 — 팹리스와 파운드리 연결", "thesis": "AI ASIC 수요 폭발의 길목, 승세 테마", "risk": "고객 편중·밸류 부담" },
+  { "name": "가온칩스", "ticker": "399720", "market": "韓", "category": "design", "role": "디자인하우스(삼성 파운드리 생태계)", "essential": "AI칩 설계 서비스 — 팹리스 설계를 실리콘으로", "thesis": "AI ASIC·차량용 SoC 성장", "risk": "실적 변동성" },
+  { "name": "오픈엣지테크놀로지", "ticker": "394280", "market": "韓", "category": "design", "role": "반도체 설계자산(IP) — NPU·메모리 IP", "essential": "AI 반도체 설계에 필수인 IP 라이선스 — 로열티 모델", "thesis": "온디바이스 AI·NPU IP 채택 확대", "risk": "적자·라이선스 인식 시점" },
+  { "name": "HD현대일렉트릭", "ticker": "267260", "market": "韓", "category": "power", "role": "초고압 변압기(북미 AI DC 향)", "essential": "AI 데이터센터 전력 인입의 핵심 — 변압기 없이 전력 공급 불가", "thesis": "북미 전력망·AI DC 변압기 슈퍼사이클, 수주잔고 급증", "risk": "단기 급등·전력 열세테마(모멘텀)" },
+  { "name": "LS ELECTRIC", "ticker": "010120", "market": "韓", "category": "power", "role": "전력기기·배전·전력인프라", "essential": "데이터센터 배전·전력 솔루션 — 전력망 증설 필수", "thesis": "AI DC·전력망 투자 수혜", "risk": "전력 모멘텀 열세(단기)" },
+  { "name": "효성중공업", "ticker": "298040", "market": "韓", "category": "power", "role": "초고압 변압기·중전기", "essential": "AI DC·전력망 변압기 공급 — 북미 수출 확대", "thesis": "변압기 부족·수출 단가 상승", "risk": "수주 편중·모멘텀" },
+  { "name": "케이엔솔", "ticker": "053080", "market": "韓", "category": "cooling", "role": "데이터센터 액침냉각(글로벌 1위 Submer 협력)", "essential": "고밀도 AI 서버 열관리 — 냉각이 밀도의 한계를 결정", "thesis": "액침냉각 초고속 성장(CAGR 40%+), 국내 선두", "risk": "초기 시장·실적 미미·냉각 모멘텀" },
+  { "name": "퀄리타스반도체", "ticker": "432720", "market": "韓", "category": "optics", "role": "실리콘포토닉스·고속인터커넥트 IP 대장", "essential": "칩간 광연결(SiPh) 설계 IP — CPO 시대 핵심 길목", "thesis": "엔비디아 CPO/SiPh 채택 = 구조적 성장(2027~28 본격)", "risk": "실적 반영 지연·테마 변동성" },
+  { "name": "대한광통신", "ticker": "010170", "market": "韓", "category": "optics", "role": "광섬유·광케이블", "essential": "AI DC간·내부 광인프라 소재 — 데이터 폭증의 물리 매개", "thesis": "광섬유 수요·단가 상승", "risk": "범용 소재 변동성" },
+  { "name": "레인보우로보틱스", "ticker": "277810", "market": "韓", "category": "robot", "role": "감속기·액추에이터 내재화(삼성전자 지분)", "essential": "휴머노이드 핵심 부품 내재화 국내 유일급 — 삼성 로봇 축", "thesis": "삼성 피지컬AI 전략의 중심, 부품 수직계열화", "risk": "밸류 부담·양산 시점" },
+  { "name": "로보티즈", "ticker": "108490", "market": "韓", "category": "robot", "role": "액추에이터(다이나믹셀) 글로벌 강소", "essential": "로봇의 '근육·관절' 액추에이터 — 휴머노이드 필수 부품", "thesis": "휴머노이드 액추에이터 수요 급증", "risk": "규모·수익성" },
+  { "name": "에스피지", "ticker": "058610", "market": "韓", "category": "robot", "role": "정밀 감속기·모터", "essential": "휴머노이드 관절 감속기 — 정밀 제어의 필수 부품", "thesis": "대기업 휴머노이드 액추에이터 실납품(우리 발굴 승자)", "risk": "전방 양산 속도" }
+ ]
+}

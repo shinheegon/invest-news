@@ -165,6 +165,10 @@ python3 "$PROJECT_DIR/scripts/watch-priority.py" >> "$LOG" 2>&1 || \
 python3 "$PROJECT_DIR/scripts/miss-analysis.py" >> "$LOG" 2>&1 || \
   echo "[$(ts)] WARN miss-analysis failed" >> "$LOG"
 
+# --- AI 밸류체인 관찰 그룹(시세·모멘텀 갱신) ---
+python3 "$PROJECT_DIR/scripts/ai-group.py" >> "$LOG" 2>&1 || \
+  echo "[$(ts)] WARN ai-group failed" >> "$LOG"
+
 # --- 사이트 빌드 + GitHub 배포 (git 원격이 설정된 경우에만 push) ---
 bash "$PROJECT_DIR/scripts/build-site.sh" >> "$LOG" 2>&1 || \
   echo "[$(ts)] WARN build-site failed" >> "$LOG"
