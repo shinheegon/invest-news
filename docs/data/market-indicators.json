@@ -1,18 +1,17 @@
 {
- "updatedAt": "2026-07-14T07:10:00+09:00",
- "session": "AM",
- "stock_fng": { "value": 49, "label": "Neutral", "source": "https://www.benzinga.com/markets/market-summary/26/07/60406946/dow-gains-150-points-but-records-weekly-loss-investor-sentiment-improves-fear-greed-index-remains-in-neutral-zone" },
+ "updatedAt": "2026-07-14T15:40:00+09:00",
+ "session": "PM",
+ "stock_fng": { "value": 44, "label": "Fear", "source": "https://feargreedmeter.com/fear-and-greed-index" },
  "indices": [
-  { "name": "코스피", "value": "6,806.93", "change": "-8.95% (-669.01p, 7/13 마감)", "source": "https://www.newspim.com/news/view/20260713000993" },
-  { "name": "코스닥", "value": "799.36", "change": "-4.55% (-38.07p, 7/13 마감)", "source": "https://view.asiae.co.kr/article/2026071315340882874" },
-  { "name": "VKOSPI", "value": "83.33", "change": "+6.63% (7/13)", "source": "https://www.fnnews.com/news/202607131619472044" },
-  { "name": "S&P 500", "value": "7,575.39", "change": "+0.42% (7/10 마감, 美 7/13 정규장 아직 진행 중)", "source": "https://www.cnbc.com/2026/07/12/stock-market-today-live-updates.html" },
-  { "name": "나스닥", "value": "26,281.61", "change": "+0.29% (7/10 마감)", "source": "https://www.cnbc.com/2026/07/12/stock-market-today-live-updates.html" },
-  { "name": "VIX", "value": "15.03", "change": "-5.11% (7/10 마감)", "source": "https://www.cnbc.com/2026/07/12/stock-market-today-live-updates.html" },
-  { "name": "美 10년물", "value": "4.56%", "change": "소폭 하락 (7/10 기준)", "source": "https://tradingeconomics.com/united-states/government-bond-yield" },
-  { "name": "달러인덱스(DXY)", "value": "100.93", "change": "-0.02% (7/13)", "source": "https://tradingeconomics.com/dxy:cur" },
-  { "name": "원/달러", "value": "1,503.4", "change": "+2.0원 (7/13 15:30 기준가)", "source": "https://kbthink.com/investment/fx/daily/260713.html" },
-  { "name": "WTI", "value": "$75선", "change": "+4%대 (호르무즈 봉쇄 재선언 지속)", "source": "https://www.cnbc.com/2026/07/13/trump-iran-hormuz-strait-charge-reimburse.html" },
-  { "name": "브렌트유", "value": "$80 근접", "change": "+4%대", "source": "https://www.cnbc.com/2026/07/13/trump-iran-hormuz-strait-charge-reimburse.html" }
+  { "name": "코스피", "value": "6,934.49", "change": "+1.87% (개장 6,769.06 → 장중 저점 6,448.86 → 고점 6,979.92, 7/14 마감)", "source": "https://kr.investing.com/indices/kospi-historical-data" },
+  { "name": "코스닥", "value": "783.97", "change": "-1.93% (장중 저점 749.76, -6.20%에서 매도사이드카 발동 후 반등, 7/14 마감)", "source": "https://kr.investing.com/indices/kosdaq-historical-data" },
+  { "name": "S&P 500", "value": "7,515.34", "change": "-0.79% (7/13 마감)", "source": "https://finance.yahoo.com/markets/live/stock-market-today-monday-july-13-dow-sp-nasdaq-113249278.html" },
+  { "name": "나스닥", "value": "25,873.18", "change": "-1.55% (7/13 마감)", "source": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-july-13-163450983.html" },
+  { "name": "VIX", "value": "17.16", "change": "+14.17% (7/10 15.03 → 7/13 17.16)", "source": "https://www.investing.com/indices/volatility-s-p-500-historical-data" },
+  { "name": "美 10년물", "value": "4.61%", "change": "+0.05%p (7/13, 유가발 인플레 우려로 상승)", "source": "https://www.cnbc.com/2026/07/13/treasury-yields-faltering-us-iran-ceasefire-bond-markets.html" },
+  { "name": "달러인덱스(DXY)", "value": "101.24", "change": "+0.16% (7/13 마감)", "source": "https://www.investing.com/indices/usdollar-historical-data" },
+  { "name": "원/달러", "value": "1,490원대", "change": "장중 1,489.8원까지 하락(2개월래 최저, 5/14 이후 첫 1,490원 하회), 이후 1,490원대 후반 등락", "source": "https://www.asiae.co.kr/article/2026071414044463659" },
+  { "name": "WTI", "value": "$79.57", "change": "+1.83% (호르무즈 봉쇄 재선언 지속, 7/14 기준)", "source": "https://www.cnbc.com/2026/07/14/oil-prices-today-brent-wti-hormuz-trump-toll-iran.html" },
+  { "name": "브렌트유", "value": "$84.72", "change": "+1.7% (6/15 이후 최고, 전일 상승폭은 2020년 5월래 최대)", "source": "https://www.japantimes.co.jp/business/2026/07/14/markets/oil-trump-us-20-charge-hormuz/" }
  ]
 }

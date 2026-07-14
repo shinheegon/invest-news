@@ -1,16 +1,7 @@
 {
- "updatedAt": "2026-07-14T02:56:21+09:00",
+ "updatedAt": "2026-07-14T15:45:45+09:00",
  "note": "대기 예측을 학습패턴(승세테마+구체촉발재)으로 점수화. 투자권유 아님.",
  "top": [
-  {
-   "name": "글로벌에스엠(900070)",
-   "type": "leading",
-   "theme": "로봇/휴머노이드",
-   "flagDate": "2026-07-03",
-   "score": 5,
-   "concrete": true,
-   "why": "승세테마(로봇/휴머노이드) · 구체촉발재: 프로젝트선정"
-  },
   {
    "name": "나우로보틱스(459510)",
    "type": "leading",
@@ -93,13 +84,13 @@
    "why": "승세테마(AI반도체설계(팹리스/IP)) · 구체촉발재: SSD컨트롤러공급계약(420억)"
   },
   {
-   "name": "솔루스첨단소재(336370)",
-   "type": "leading",
+   "name": "씨메스로보틱스(475400)",
+   "type": "discovery",
    "theme": "로봇/휴머노이드",
-   "flagDate": "2026-07-03",
-   "score": 3,
-   "concrete": false,
-   "why": "승세테마(로봇/휴머노이드) · 신호약함(테마첫거론류)"
+   "flagDate": "2026-07-14",
+   "score": 5,
+   "concrete": true,
+   "why": "승세테마(로봇/휴머노이드) · 구체촉발재: 서흥향24.8억자동화설비공급계약"
   },
   {
    "name": "에이직랜드(445090)",
@@ -136,6 +127,15 @@
    "score": 3,
    "concrete": false,
    "why": "승세테마(로봇/휴머노이드) · 신호약함(테마첫거론류)"
+  },
+  {
+   "name": "본시스템즈",
+   "type": "discovery",
+   "theme": "로봇/휴머노이드",
+   "flagDate": "2026-07-09",
+   "score": 3,
+   "concrete": false,
+   "why": "승세테마(로봇/휴머노이드) · 신호약함(테마첫거론류)"
   }
  ],
  "avoid": [
@@ -147,51 +147,6 @@
    "score": -3,
    "concrete": false,
    "why": "⚠️열세테마(이차전지) · 신호약함(테마첫거론류)"
-  },
-  {
-   "name": "하나기술(299030)",
-   "type": "leading",
-   "theme": "이차전지",
-   "flagDate": "2026-07-03",
-   "score": -3,
-   "concrete": false,
-   "why": "⚠️열세테마(이차전지) · 신호약함(테마첫거론류)"
-  },
-  {
-   "name": "이수스페셜티케미컬(457190)",
-   "type": "leading",
-   "theme": "이차전지",
-   "flagDate": "2026-07-03",
-   "score": -3,
-   "concrete": false,
-   "why": "⚠️열세테마(이차전지) · 신호약함(테마첫거론류)"
-  },
-  {
-   "name": "와이씨켐(112290)",
-   "type": "leading",
-   "theme": "반도체소재/장비",
-   "flagDate": "2026-07-04",
-   "score": -3,
-   "concrete": false,
-   "why": "⚠️열세테마(반도체소재/장비) · 신호약함(테마첫거론류)"
-  },
-  {
-   "name": "HB테크놀러지(078150)",
-   "type": "discovery",
-   "theme": "반도체소재/장비",
-   "flagDate": "2026-07-04",
-   "score": -3,
-   "concrete": false,
-   "why": "⚠️열세테마(반도체소재/장비)"
-  },
-  {
-   "name": "한농화성(011500)",
-   "type": "discovery",
-   "theme": "이차전지",
-   "flagDate": "2026-07-04",
-   "score": -3,
-   "concrete": false,
-   "why": "⚠️열세테마(이차전지)"
   },
   {
    "name": "케이지에이(455180)",
@@ -213,15 +168,6 @@
   }
  ],
  "all": [
-  {
-   "name": "글로벌에스엠(900070)",
-   "type": "leading",
-   "theme": "로봇/휴머노이드",
-   "flagDate": "2026-07-03",
-   "score": 5,
-   "concrete": true,
-   "why": "승세테마(로봇/휴머노이드) · 구체촉발재: 프로젝트선정"
-  },
   {
    "name": "나우로보틱스(459510)",
    "type": "leading",
@@ -304,13 +250,13 @@
    "why": "승세테마(AI반도체설계(팹리스/IP)) · 구체촉발재: SSD컨트롤러공급계약(420억)"
   },
   {
-   "name": "솔루스첨단소재(336370)",
-   "type": "leading",
+   "name": "씨메스로보틱스(475400)",
+   "type": "discovery",
    "theme": "로봇/휴머노이드",
-   "flagDate": "2026-07-03",
-   "score": 3,
-   "concrete": false,
-   "why": "승세테마(로봇/휴머노이드) · 신호약함(테마첫거론류)"
+   "flagDate": "2026-07-14",
+   "score": 5,
+   "concrete": true,
+   "why": "승세테마(로봇/휴머노이드) · 구체촉발재: 서흥향24.8억자동화설비공급계약"
   },
   {
    "name": "에이직랜드(445090)",
@@ -421,15 +367,6 @@
    "why": "승세테마(로봇/휴머노이드) · 신호약함(테마첫거론류)"
   },
   {
-   "name": "디케이락(105740)",
-   "type": "leading",
-   "theme": "신재생에너지",
-   "flagDate": "2026-07-04",
-   "score": 2,
-   "concrete": true,
-   "why": "중립테마(신재생에너지) · 구체촉발재: 납품이력"
-  },
-  {
    "name": "비에이치아이(083650)",
    "type": "leading",
    "theme": "기타",
@@ -493,6 +430,15 @@
    "why": "중립테마(기타) · 구체촉발재: 수주"
   },
   {
+   "name": "엑시콘(092870)",
+   "type": "discovery",
+   "theme": "반도체소재/장비",
+   "flagDate": "2026-07-11",
+   "score": 2,
+   "concrete": true,
+   "why": "중립테마(반도체소재/장비) · 구체촉발재: 삼성전자 498억 공급계약"
+  },
+  {
    "name": "웨이버스(336060)",
    "type": "leading",
    "theme": "기타",
@@ -511,6 +457,15 @@
    "why": "중립테마(기타) · 구체촉발재: 공공수주확정"
   },
   {
+   "name": "토모큐브",
+   "type": "discovery",
+   "theme": "반도체소재/장비",
+   "flagDate": "2026-07-13",
+   "score": 2,
+   "concrete": true,
+   "why": "중립테마(반도체소재/장비) · 구체촉발재: 신제품(유리기판 결함분석 장비)"
+  },
+  {
    "name": "선익시스템(171090)",
    "type": "discovery",
    "theme": "기타",
@@ -520,6 +475,15 @@
    "why": "중립테마(기타) · 구체촉발재: 캐파증설(평택 신규거점)"
   },
   {
+   "name": "원익IPS(240810)",
+   "type": "discovery",
+   "theme": "반도체소재/장비",
+   "flagDate": "2026-07-13",
+   "score": 2,
+   "concrete": true,
+   "why": "중립테마(반도체소재/장비) · 구체촉발재: 증설투자기대"
+  },
+  {
    "name": "덕산넵코어스(360030)",
    "type": "leading",
    "theme": "우주/방산",
@@ -527,69 +491,6 @@
    "score": 0,
    "concrete": false,
    "why": "중립테마(우주/방산) · 신호약함(테마첫거론류)"
-  },
-  {
-   "name": "대한전선(001440)",
-   "type": "leading",
-   "theme": "AI전력/데이터센터",
-   "flagDate": "2026-07-03",
-   "score": 0,
-   "concrete": false,
-   "why": "중립테마(AI전력/데이터센터) · 신호약함(테마첫거론류)"
-  },
-  {
-   "name": "일진전기(103590)",
-   "type": "leading",
-   "theme": "AI전력/데이터센터",
-   "flagDate": "2026-07-03",
-   "score": 0,
-   "concrete": false,
-   "why": "중립테마(AI전력/데이터센터) · 신호약함(테마첫거론류)"
-  },
-  {
-   "name": "한국주강(025890)",
-   "type": "leading",
-   "theme": "기타",
-   "flagDate": "2026-07-04",
-   "score": 0,
-   "concrete": false,
-   "why": "중립테마(기타) · 신호약함(테마첫거론류)"
-  },
-  {
-   "name": "케이엔솔(053080)",
-   "type": "leading",
-   "theme": "AI전력/데이터센터",
-   "flagDate": "2026-07-04",
-   "score": 0,
-   "concrete": false,
-   "why": "중립테마(AI전력/데이터센터) · 신호약함(테마첫거론류)"
-  },
-  {
-   "name": "플래티어(367000)",
-   "type": "discovery",
-   "theme": "기타",
-   "flagDate": "2026-07-05",
-   "score": 0,
-   "concrete": false,
-   "why": "중립테마(기타)"
-  },
-  {
-   "name": "세명전기(017510)",
-   "type": "discovery",
-   "theme": "AI전력/데이터센터",
-   "flagDate": "2026-07-05",
-   "score": 0,
-   "concrete": false,
-   "why": "중립테마(AI전력/데이터센터)"
-  },
-  {
-   "name": "레이크머티리얼즈(281740)",
-   "type": "discovery",
-   "theme": "기타",
-   "flagDate": "2026-07-05",
-   "score": 0,
-   "concrete": false,
-   "why": "중립테마(기타)"
   },
   {
    "name": "성호전자(043260)",
@@ -799,6 +700,15 @@
    "why": "중립테마(AI전력/데이터센터) · 신호약함(테마첫거론류)"
   },
   {
+   "name": "한미반도체(042700)",
+   "type": "discovery",
+   "theme": "반도체소재/장비",
+   "flagDate": "2026-07-14",
+   "score": 0,
+   "concrete": false,
+   "why": "중립테마(반도체소재/장비) · 신호약함(테마첫거론류)"
+  },
+  {
    "name": "서진시스템(178320)",
    "type": "discovery",
    "theme": "이차전지",
@@ -808,33 +718,6 @@
    "why": "⚠️열세테마(이차전지) · 구체촉발재: ESS장비공급계약537억"
   },
   {
-   "name": "엑시콘(092870)",
-   "type": "discovery",
-   "theme": "반도체소재/장비",
-   "flagDate": "2026-07-11",
-   "score": -1,
-   "concrete": true,
-   "why": "⚠️열세테마(반도체소재/장비) · 구체촉발재: 삼성전자 498억 공급계약"
-  },
-  {
-   "name": "토모큐브",
-   "type": "discovery",
-   "theme": "반도체소재/장비",
-   "flagDate": "2026-07-13",
-   "score": -1,
-   "concrete": true,
-   "why": "⚠️열세테마(반도체소재/장비) · 구체촉발재: 신제품(유리기판 결함분석 장비)"
-  },
-  {
-   "name": "원익IPS(240810)",
-   "type": "discovery",
-   "theme": "반도체소재/장비",
-   "flagDate": "2026-07-13",
-   "score": -1,
-   "concrete": true,
-   "why": "⚠️열세테마(반도체소재/장비) · 구체촉발재: 증설투자기대"
-  },
-  {
    "name": "부강테크(279960)",
    "type": "leading",
    "theme": "이차전지",
@@ -842,51 +725,6 @@
    "score": -3,
    "concrete": false,
    "why": "⚠️열세테마(이차전지) · 신호약함(테마첫거론류)"
-  },
-  {
-   "name": "하나기술(299030)",
-   "type": "leading",
-   "theme": "이차전지",
-   "flagDate": "2026-07-03",
-   "score": -3,
-   "concrete": false,
-   "why": "⚠️열세테마(이차전지) · 신호약함(테마첫거론류)"
-  },
-  {
-   "name": "이수스페셜티케미컬(457190)",
-   "type": "leading",
-   "theme": "이차전지",
-   "flagDate": "2026-07-03",
-   "score": -3,
-   "concrete": false,
-   "why": "⚠️열세테마(이차전지) · 신호약함(테마첫거론류)"
-  },
-  {
-   "name": "와이씨켐(112290)",
-   "type": "leading",
-   "theme": "반도체소재/장비",
-   "flagDate": "2026-07-04",
-   "score": -3,
-   "concrete": false,
-   "why": "⚠️열세테마(반도체소재/장비) · 신호약함(테마첫거론류)"
-  },
-  {
-   "name": "HB테크놀러지(078150)",
-   "type": "discovery",
-   "theme": "반도체소재/장비",
-   "flagDate": "2026-07-04",
-   "score": -3,
-   "concrete": false,
-   "why": "⚠️열세테마(반도체소재/장비)"
-  },
-  {
-   "name": "한농화성(011500)",
-   "type": "discovery",
-   "theme": "이차전지",
-   "flagDate": "2026-07-04",
-   "score": -3,
-   "concrete": false,
-   "why": "⚠️열세테마(이차전지)"
   },
   {
    "name": "케이지에이(455180)",

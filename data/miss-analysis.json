@@ -1,20 +1,20 @@
 {
- "updatedAt": "2026-07-14T02:56:21+09:00",
+ "updatedAt": "2026-07-14T15:45:45+09:00",
  "note": "빗나감 자동 원인분류 + 자기발전 필터. 투자권유 아님.",
  "summary": {
-  "resolved": 83,
-  "miss": 45,
-  "missRate": 54.2,
-  "preventable": 39,
-  "preventableShare": 86.7
+  "resolved": 90,
+  "miss": 51,
+  "missRate": 56.7,
+  "preventable": 38,
+  "preventableShare": 74.5
  },
  "byCause": [
   {
    "cause": "weak_signal",
    "label": "신호 약함(구체 촉발재 없음)",
-   "n": 34,
-   "share": 75.6,
-   "avgExcess": -4.82,
+   "n": 36,
+   "share": 70.6,
+   "avgExcess": -4.79,
    "preventable": true,
    "examples": [
     {
@@ -34,7 +34,6 @@
      "theme": "반도체소재/장비",
      "tags": [
       "weak_signal",
-      "theme_headwind",
       "macro_riskoff"
      ]
     },
@@ -53,40 +52,77 @@
   {
    "cause": "idiosyncratic",
    "label": "개별 악재(불가피)",
-   "n": 5,
-   "share": 11.1,
-   "avgExcess": -2.91,
+   "n": 9,
+   "share": 17.6,
+   "avgExcess": -3.8,
    "preventable": false,
    "examples": [
+    {
+     "name": "서진시스템(178320)",
+     "flagDate": "2026-07-09",
+     "excessPct": -8.33,
+     "theme": "반도체소재/장비",
+     "tags": []
+    },
+    {
+     "name": "대동기어(008830)",
+     "flagDate": "2026-07-09",
+     "excessPct": -6.02,
+     "theme": "기타",
+     "tags": []
+    },
     {
      "name": "에어레인(163280)",
      "flagDate": "2026-06-27",
      "excessPct": -5.38,
      "theme": "신재생에너지",
      "tags": []
+    }
+   ]
+  },
+  {
+   "cause": "macro_riskoff",
+   "label": "거시 위험회피(시장 동반 급락)",
+   "n": 4,
+   "share": 7.8,
+   "avgExcess": -3.57,
+   "preventable": false,
+   "examples": [
+    {
+     "name": "나노팀(417010)",
+     "flagDate": "2026-06-22",
+     "excessPct": -8.24,
+     "theme": "반도체소재/장비",
+     "tags": [
+      "macro_riskoff"
+     ]
     },
     {
-     "name": "에이비온(203400)",
-     "flagDate": "2026-07-07",
-     "excessPct": -4.49,
-     "theme": "기타",
-     "tags": []
+     "name": "나우로보틱스(459510)",
+     "flagDate": "2026-07-06",
+     "excessPct": -3.02,
+     "theme": "로봇/휴머노이드",
+     "tags": [
+      "macro_riskoff"
+     ]
     },
     {
-     "name": "비에이치아이(083650)",
-     "flagDate": "2026-07-07",
-     "excessPct": -3.27,
-     "theme": "기타",
-     "tags": []
+     "name": "네온테크(306620)",
+     "flagDate": "2026-06-23",
+     "excessPct": -1.77,
+     "theme": "반도체소재/장비",
+     "tags": [
+      "macro_riskoff"
+     ]
     }
    ]
   },
   {
    "cause": "theme_headwind",
    "label": "열세 테마(자금 이탈)",
-   "n": 5,
-   "share": 11.1,
-   "avgExcess": -24.37,
+   "n": 2,
+   "share": 3.9,
+   "avgExcess": -55.29,
    "preventable": true,
    "examples": [
     {
@@ -106,68 +142,39 @@
      "tags": [
       "theme_headwind"
      ]
-    },
-    {
-     "name": "나노팀(417010)",
-     "flagDate": "2026-06-22",
-     "excessPct": -8.24,
-     "theme": "반도체소재/장비",
-     "tags": [
-      "theme_headwind",
-      "macro_riskoff"
-     ]
-    }
-   ]
-  },
-  {
-   "cause": "macro_riskoff",
-   "label": "거시 위험회피(시장 동반 급락)",
-   "n": 1,
-   "share": 2.2,
-   "avgExcess": -3.02,
-   "preventable": false,
-   "examples": [
-    {
-     "name": "나우로보틱스(459510)",
-     "flagDate": "2026-07-06",
-     "excessPct": -3.02,
-     "theme": "로봇/휴머노이드",
-     "tags": [
-      "macro_riskoff"
-     ]
     }
    ]
   }
  ],
  "learnedFilter": {
   "themeMissRate": {
-   "기타": 42.3,
+   "기타": 42.9,
    "바이오/의료": 100.0,
-   "로봇/휴머노이드": 41.2,
-   "반도체소재/장비": 69.2,
+   "로봇/휴머노이드": 50.0,
+   "반도체소재/장비": 71.4,
    "신재생에너지": 75.0,
    "AI전력/데이터센터": 72.7,
    "이차전지": 40.0,
    "AI반도체설계(팹리스/IP)": 33.3
   },
   "signalMissRate": {
-   "weak": 60.7,
-   "concrete": 40.7
+   "weak": 61.0,
+   "concrete": 48.4
   },
   "rules": [
    "'바이오/의료' 테마는 빗나감률 100.0% — 강한 회피(구체촉발재+승세 아니면 제외).",
    "'신재생에너지' 테마는 빗나감률 75.0% — 강한 회피(구체촉발재+승세 아니면 제외).",
    "'AI전력/데이터센터' 테마는 빗나감률 72.7% — 강한 회피(구체촉발재+승세 아니면 제외).",
-   "'반도체소재/장비' 테마는 빗나감률 69.2% — 강한 회피(구체촉발재+승세 아니면 제외).",
-   "구체 촉발재 없는 '테마 거론'류는 빗나감률 60.7%(구체재료 40.7%) — 약신호 단독 등재 금지."
+   "'반도체소재/장비' 테마는 빗나감률 71.4% — 강한 회피(구체촉발재+승세 아니면 제외).",
+   "구체 촉발재 없는 '테마 거론'류는 빗나감률 61.0%(구체재료 48.4%) — 약신호 단독 등재 금지."
   ]
  },
  "macro": {
   "regime": "위험회피",
-  "kospi5d": -6.65,
-  "kosdaq5d": 0.68,
-  "fearGreed": 49.0,
-  "vix": 15.03,
+  "kospi5d": -4.9,
+  "kosdaq5d": -1.26,
+  "fearGreed": 44.0,
+  "vix": 17.16,
   "guidance": "소형주 언더퍼폼 국면 — 포착 수를 줄이고 승세테마×구체촉발재만 최고확신으로. 열세테마·약신호 전면 배제.",
   "asOf": "2026-07-14"
  },
@@ -185,15 +192,15 @@
   },
   {
    "date": "2026-07-14",
-   "resolved": 83,
-   "missRate": 54.2,
+   "resolved": 90,
+   "missRate": 56.7,
    "causeShares": {
-    "weak_signal": 75.6,
-    "idiosyncratic": 11.1,
-    "theme_headwind": 11.1,
-    "macro_riskoff": 2.2
+    "weak_signal": 70.6,
+    "idiosyncratic": 17.6,
+    "macro_riskoff": 7.8,
+    "theme_headwind": 3.9
    }
   }
  ],
- "develop": "직전(2026-07-13) 대비 빗나감률 54.2%→54.2% (+0.0p). 최다 원인=‘신호 약함(구체 촉발재 없음)’. 필터에 반영됨."
+ "develop": "직전(2026-07-13) 대비 빗나감률 54.2%→56.7% (+2.5p). 최다 원인=‘신호 약함(구체 촉발재 없음)’. 필터에 반영됨."
 }
