@@ -2,7 +2,9 @@
 
 # 🧠 3인 분석가 패널 — 2026-07-16 오전
 
-## 공통 분석 (인과 사슬)
+**① 트럼프 호르무즈 봉쇄(오늘 발효) → 유가 → 물가 → 금리 경로**
+- 트럼프, 이란 선박 봉쇄 재개 + 통과 화물 **20% 통행료** 선언 → 봉쇄는 **한국시간 내일(7/15) 새벽 5시(美 동부 14일 오후 4시) 발효** ([CNBC](https://www.cnbc.com/2026/07/13/trump-iran-hormuz-strait-charge-reimburse.html) · [NPR](https://www.npr.org/2026/07/13/nx-s1-5891746/us-iran-strait-of-hormuz-updates))
+- → 1차: 브렌트 $78.82(+4%대), 호르무즈 통항 급감(일 18~22척→6척) → 2차: 수입물가·운임 상승 → **연준·한은 긴축 압력 강화** → 3차: 韓 정유·방산·해운 우호 / 항공·화학·유틸리티 비용 부담, 원화 약세 압력( [Al Jazeera](https://www.aljazeera.com/economy/2026/7/13/oil-prices-jump-as-us-and-iran-trade-attacks-over-strait-of-hormuz) )
 
 **① 美 VIX 급락(15.67, -5.03%) → 위험선호 강화 → 성장주·반도체 동반 강세 → 韓 반도체 대형주 프리미엄 유지.**
 간밤 S&P500(+0.38%)·나스닥(+0.62%)·다우(+0.29%)가 모두 사상 최고권을 경신하고 VIX가 급락한 것은 6월 CPI 둔화(3.5%) 효과가 이틀째 소화되며 위험선호가 강화됐다는 뜻이다. 반도체 ETF(SMH, +1.2%)의 동반 강세는 어제 코스피를 견인한 SK하이닉스發 랠리와 같은 방향으로, 오늘 한국 정규장 개장 초반 갭업 압력으로 작용할 가능성이 높다. [Yahoo Finance](https://finance.yahoo.com/markets/live/stock-market-today-wednesday-july-15-dow-sp-nasdaq-091813320.html)
