@@ -2,9 +2,9 @@
 
 # 🧠 3인 분석가 패널 — 2026-07-16 오전
 
-**① 트럼프 호르무즈 봉쇄(오늘 발효) → 유가 → 물가 → 금리 경로**
-- 트럼프, 이란 선박 봉쇄 재개 + 통과 화물 **20% 통행료** 선언 → 봉쇄는 **한국시간 내일(7/15) 새벽 5시(美 동부 14일 오후 4시) 발효** ([CNBC](https://www.cnbc.com/2026/07/13/trump-iran-hormuz-strait-charge-reimburse.html) · [NPR](https://www.npr.org/2026/07/13/nx-s1-5891746/us-iran-strait-of-hormuz-updates))
-- → 1차: 브렌트 $78.82(+4%대), 호르무즈 통항 급감(일 18~22척→6척) → 2차: 수입물가·운임 상승 → **연준·한은 긴축 압력 강화** → 3차: 韓 정유·방산·해운 우호 / 항공·화학·유틸리티 비용 부담, 원화 약세 압력( [Al Jazeera](https://www.aljazeera.com/economy/2026/7/13/oil-prices-jump-as-us-and-iran-trade-attacks-over-strait-of-hormuz) )
+**① 유가 급등 → 인플레 재점화 → 한·미 동시 금리인상 경계**
+- 트럼프 "호르무즈 통제·20% 통행료"·대이란 해상봉쇄 재개 → WTI 2일간 약 10% 급등($79.56) → 에너지發 물가 재상승 우려 → 월러 이사 "가까운 시일 내 인상 가능" 매파 발언 → 美 10년물 4.618%(5/21 이후 최고)·DXY 101.27 → **성장주(반도체·기술주) 밸류에이션 압박** → 나스닥 -1.55%, SK하이닉스 ADR -9.32%. [유가](https://www.cnbc.com/2026/07/14/oil-prices-today-brent-wti-hormuz-trump-toll-iran.html) · [월러](https://www.cnbc.com/2026/07/13/waller-says-fed-shouldnt-fight-the-last-war-on-inflation-but-warns-hikes-still-possible.html) · [한경 월러 분석](https://www.hankyung.com/article/2026071448641)
+- 한국 파급: 국고채 3년물 3.887% 상승 + 채권전문가 66% "7월 금통위(16일) 인상" 전망 → 금리 민감 성장·바이오 밀집 코스닥이 직격 → 오늘 코스피 +0.73% vs **코스닥 -1.92% 연중 최저(장중 매도 사이드카)**. [국고채](https://www.yna.co.kr/view/AKR20260714150551008) · [금통위 설문](https://view.asiae.co.kr/article/2026071409404976514) · [한은 시나리오](http://www.edaily.co.kr/news/newspath.asp?newsid=04920006645514520)
 
 **① 美 VIX 급락(15.67, -5.03%) → 위험선호 강화 → 성장주·반도체 동반 강세 → 韓 반도체 대형주 프리미엄 유지.**
 간밤 S&P500(+0.38%)·나스닥(+0.62%)·다우(+0.29%)가 모두 사상 최고권을 경신하고 VIX가 급락한 것은 6월 CPI 둔화(3.5%) 효과가 이틀째 소화되며 위험선호가 강화됐다는 뜻이다. 반도체 ETF(SMH, +1.2%)의 동반 강세는 어제 코스피를 견인한 SK하이닉스發 랠리와 같은 방향으로, 오늘 한국 정규장 개장 초반 갭업 압력으로 작용할 가능성이 높다. [Yahoo Finance](https://finance.yahoo.com/markets/live/stock-market-today-wednesday-july-15-dow-sp-nasdaq-091813320.html)

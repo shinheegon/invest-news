@@ -8314,6 +8314,63 @@
      "price": 2082000
     }
    ]
+  },
+  {
+   "name": "자람테크놀로지(389020)",
+   "type": "leading",
+   "market": "韓",
+   "flagDate": "2026-07-14",
+   "signals": [
+    "공급계약(XGS-PON 반도체 13억)"
+   ],
+   "theme": "AI반도체설계(팹리스/IP)",
+   "status": "pending",
+   "checks": [],
+   "flagPrice": 21100,
+   "priceLog": [
+    {
+     "date": "2026-07-14",
+     "price": 21100
+    }
+   ]
+  },
+  {
+   "name": "우진엔텍(457550)",
+   "type": "discovery",
+   "market": "韓",
+   "flagDate": "2026-07-14",
+   "signals": [
+    "원전 MI케이블 어셈블리 국산화"
+   ],
+   "theme": "원전/SMR",
+   "status": "pending",
+   "checks": [],
+   "flagPrice": 14480,
+   "priceLog": [
+    {
+     "date": "2026-07-14",
+     "price": 14480
+    }
+   ]
+  },
+  {
+   "name": "로킷헬스케어(419120)",
+   "type": "warning",
+   "market": "韓",
+   "flagDate": "2026-07-14",
+   "signals": [
+    "임상 뉴스에 23% 급등(후발)"
+   ],
+   "theme": "바이오/의료",
+   "status": "pending",
+   "checks": [],
+   "flagPrice": 2435,
+   "priceLog": [
+    {
+     "date": "2026-07-14",
+     "price": 2435
+    }
+   ]
   }
  ],
  "stats": {

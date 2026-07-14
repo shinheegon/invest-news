@@ -2246,6 +2246,42 @@
     "2026-07-15": 2082000,
     "2026-07-16": 2082000
    }
+  },
+  "자람테크놀로지(389020)": {
+   "market": "韓",
+   "type": "leading",
+   "firstSeen": "2026-07-14",
+   "firstPrice": 21100,
+   "lastPrice": 21100,
+   "changePct": 0.0,
+   "points": 1,
+   "series": {
+    "2026-07-14": 21100
+   }
+  },
+  "우진엔텍(457550)": {
+   "market": "韓",
+   "type": "discovery",
+   "firstSeen": "2026-07-14",
+   "firstPrice": 14480,
+   "lastPrice": 14480,
+   "changePct": 0.0,
+   "points": 1,
+   "series": {
+    "2026-07-14": 14480
+   }
+  },
+  "로킷헬스케어(419120)": {
+   "market": "韓",
+   "type": "warning",
+   "firstSeen": "2026-07-14",
+   "firstPrice": 2435,
+   "lastPrice": 2435,
+   "changePct": 0.0,
+   "points": 1,
+   "series": {
+    "2026-07-14": 2435
+   }
   }
  }
 }

@@ -21,6 +21,15 @@
    "why": "승세테마(AI반도체설계(팹리스/IP)) · 구체촉발재: 2주내반복수주"
   },
   {
+   "name": "자람테크놀로지(389020)",
+   "type": "leading",
+   "theme": "AI반도체설계(팹리스/IP)",
+   "flagDate": "2026-07-14",
+   "score": 5,
+   "concrete": true,
+   "why": "승세테마(AI반도체설계(팹리스/IP)) · 구체촉발재: 공급계약(XGS-PON 반도체 13억)"
+  },
+  {
    "name": "에이직랜드(445090)",
    "type": "leading",
    "theme": "AI반도체설계(팹리스/IP)",
@@ -77,6 +86,15 @@
    "score": 5,
    "concrete": true,
    "why": "승세테마(AI반도체설계(팹리스/IP)) · 구체촉발재: 2주내반복수주"
+  },
+  {
+   "name": "자람테크놀로지(389020)",
+   "type": "leading",
+   "theme": "AI반도체설계(팹리스/IP)",
+   "flagDate": "2026-07-14",
+   "score": 5,
+   "concrete": true,
+   "why": "승세테마(AI반도체설계(팹리스/IP)) · 구체촉발재: 공급계약(XGS-PON 반도체 13억)"
   },
   {
    "name": "에이직랜드(445090)",
