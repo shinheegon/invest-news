@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-07-14T15:45:45+09:00",
+ "updatedAt": "2026-07-15T00:31:37+09:00",
  "cases": [
   {
    "name": "이지트로닉스(377330)",
@@ -6776,6 +6776,26 @@
      "price": 207500
     }
    ]
+  },
+  {
+   "name": "HL만도(204320)",
+   "type": "warning",
+   "market": "韓",
+   "flagDate": "2026-07-15",
+   "signals": [
+    "골드만삭스휴머노이드액추에이터신규커버리지",
+    "상한가당일반영"
+   ],
+   "theme": "로봇/휴머노이드",
+   "status": "pending",
+   "checks": [],
+   "flagPrice": 44850,
+   "priceLog": [
+    {
+     "date": "2026-07-14",
+     "price": 44850
+    }
+   ]
   }
  ],
  "stats": {
@@ -6785,8 +6805,8 @@
   "miss": 52,
   "hitRate": 17.7,
   "avgD3ChangePct": -0.44,
-  "pending": 46,
-  "total": 142,
+  "pending": 47,
+  "total": 143,
   "byType": {
    "leading": {
     "verified": 56,

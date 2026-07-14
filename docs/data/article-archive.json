@@ -3,6 +3,18 @@
   "SK하이닉스(000660)": {
    "articles": [
     {
+     "date": "2026-07-15",
+     "source": "한국경제·경제",
+     "title": "SK하이닉스 ADR 달러 유입 기대…환율 1400원대 안착하나",
+     "link": "https://www.hankyung.com/article/2026071450001"
+    },
+    {
+     "date": "2026-07-15",
+     "source": "한국경제·증권",
+     "title": "서동주 \"SK하이닉스 259층에 물려\"…전문가 조언 들어보니",
+     "link": "https://www.hankyung.com/article/202607144621H"
+    },
+    {
      "date": "2026-07-14",
      "source": "한국경제·경제",
      "title": "월가,\"SK하이닉스 美IPO성공,다른 기술기업들은 쉽지않아\"",
@@ -709,23 +721,35 @@
      "source": "아시아경제",
      "title": "“2028년까지 공급부족\"…SK하이닉스, 2분기 영업이익 63조원 예상[클릭e종목]",
      "link": "https://view.asiae.co.kr/article/2026062415242072564"
-    },
-    {
-     "date": "2026-06-25",
-     "source": "한국경제·경제",
-     "title": "삼성전자, D램 점유율 1위…HBM은 SK하이닉스 선두",
-     "link": "https://www.hankyung.com/article/2026062585361"
-    },
-    {
-     "date": "2026-06-25",
-     "source": "한국경제·경제",
-     "title": "'세수 효자' SK하이닉스, 세금 9.5조 냈다…고용·배당 등 합산 20조 효과",
-     "link": "https://www.hankyung.com/article/202606258355g"
     }
    ]
   },
   "삼성전자(005930)": {
    "articles": [
+    {
+     "date": "2026-07-15",
+     "source": "한국경제·경제",
+     "title": "삼성전자 \"美 ADR 상장 검토 안 해…회사 상황이 달라\"",
+     "link": "https://www.hankyung.com/article/202607145272i"
+    },
+    {
+     "date": "2026-07-15",
+     "source": "한국경제·경제",
+     "title": "[속보] 삼성전자 \"美 ADR 상장 검토 안해\"",
+     "link": "https://www.hankyung.com/article/2026071451947"
+    },
+    {
+     "date": "2026-07-15",
+     "source": "한국경제·증권",
+     "title": "블룸버그 \"삼성전자 ADR 상장 검토\".…업계는 \"가능성 낮아\"",
+     "link": "https://www.hankyung.com/article/202607144793i"
+    },
+    {
+     "date": "2026-07-15",
+     "source": "연합뉴스·경제",
+     "title": "삼성전자, 사내대출 주택 25억·수도권 국평 이하로 제한(종합)",
+     "link": "https://www.yna.co.kr/view/AKR20260714102101003"
+    },
     {
      "date": "2026-07-14",
      "source": "한국경제·경제",
@@ -1421,35 +1445,23 @@
      "source": "연합뉴스·경제",
      "title": "[특징주] SK하이닉스 8%대 급락…삼성전자 5%↓(종합)",
      "link": "https://www.yna.co.kr/view/AKR20260626036451008"
-    },
-    {
-     "date": "2026-06-26",
-     "source": "연합뉴스",
-     "title": "- 삼성전자(005930): 검은 금요일에 5%대 급락(반도체 투심 악화). 단 한화 등은 '메모리 빅사이클' 목표가 31%↑ 유지.",
-     "link": "https://www.yna.co.kr/view/AKR20260626122200008"
-    },
-    {
-     "date": "2026-06-25",
-     "source": "한국경제·경제",
-     "title": "삼성전자, D램 점유율 1위…HBM은 SK하이닉스 선두",
-     "link": "https://www.hankyung.com/article/2026062585361"
-    },
-    {
-     "date": "2026-06-25",
-     "source": "한국경제·증권",
-     "title": "\"삼성전자 주식 없어도 든든\"…마이크론 낭보에 개미 '환호' [종목+]",
-     "link": "https://www.hankyung.com/article/2026062570066"
-    },
-    {
-     "date": "2026-06-25",
-     "source": "한국경제·증권",
-     "title": "삼성전자 담고 SK하이닉스 판 초고수…시총 1위 탈환한 삼전",
-     "link": "https://www.hankyung.com/article/202606256691i"
     }
    ]
   },
   "현대차(005380)": {
    "articles": [
+    {
+     "date": "2026-07-15",
+     "source": "한국경제·경제",
+     "title": "현대차 이어 한국GM도 15일부터 4시간씩 부분파업",
+     "link": "https://www.hankyung.com/article/202607145148i"
+    },
+    {
+     "date": "2026-07-15",
+     "source": "한국경제·경제",
+     "title": "[포토] 현대차 '2027 넥쏘' 출시",
+     "link": "https://www.hankyung.com/article/2026071449481"
+    },
     {
      "date": "2026-07-14",
      "source": "한국경제·경제",
@@ -1961,6 +1973,24 @@
   "애플(AAPL)": {
    "articles": [
     {
+     "date": "2026-07-15",
+     "source": "한국경제·경제",
+     "title": "2분기 글로벌 스마트폰…삼성, 애플 제치고 1위",
+     "link": "https://www.hankyung.com/article/2026071449491"
+    },
+    {
+     "date": "2026-07-15",
+     "source": "한국경제·증권",
+     "title": "반도체株 떨어졌지만…애플은 '사상 최고가'",
+     "link": "https://www.hankyung.com/article/2026071448911"
+    },
+    {
+     "date": "2026-07-15",
+     "source": "한국경제·증권",
+     "title": "애플, 반도체·기술주 부진에도 독주",
+     "link": "https://www.hankyung.com/article/202607144264i"
+    },
+    {
      "date": "2026-07-13",
      "source": "한국경제·경제",
      "title": "놀유니버스, 日호텔 유통사 '애플월드'와 맞손…국내 숙소 일본 유통 확대",
@@ -2330,6 +2360,12 @@
   },
   "미래에셋증권(006800)": {
    "articles": [
+    {
+     "date": "2026-07-15",
+     "source": "한국경제·증권",
+     "title": "미래에셋증권, 한강공원서 숲 가꿔 탄소 흡수…임직원 가족 모여 나눔가치 체험",
+     "link": "https://www.hankyung.com/article/2026071434781"
+    },
     {
      "date": "2026-07-14",
      "source": "아시아경제",
@@ -3331,6 +3367,12 @@
   "네이버(035420)": {
    "articles": [
     {
+     "date": "2026-07-15",
+     "source": "한국경제·경제",
+     "title": "네이버, 장애학생 맞춤 AI콘텐츠 제작",
+     "link": "https://www.hankyung.com/article/2026071450381"
+    },
+    {
      "date": "2026-07-14",
      "source": "아시아경제",
      "title": "[클릭 e종목]\"사업전략 바꾼 네이버, 지금이 기회…목표가↑\"",
@@ -3606,6 +3648,18 @@
   },
   "스페이스X(SPCX)": {
    "articles": [
+    {
+     "date": "2026-07-15",
+     "source": "한국경제·증권",
+     "title": "\"일론 머스크의 비전에 투자\"...KB운용, 테슬라+스페이스X 채권혼합 내놨다",
+     "link": "https://www.hankyung.com/article/202607144328i"
+    },
+    {
+     "date": "2026-07-15",
+     "source": "연합뉴스·경제",
+     "title": "'AI 붐'에 美은행권 2분기 '깜짝 실적'…스페이스X 상장도 한몫",
+     "link": "https://www.yna.co.kr/view/AKR20260714187600072"
+    },
     {
      "date": "2026-07-14",
      "source": "연합뉴스·경제",
@@ -8123,6 +8177,12 @@
   "테슬라(TSLA)": {
    "articles": [
     {
+     "date": "2026-07-15",
+     "source": "한국경제·증권",
+     "title": "\"일론 머스크의 비전에 투자\"...KB운용, 테슬라+스페이스X 채권혼합 내놨다",
+     "link": "https://www.hankyung.com/article/202607144328i"
+    },
+    {
      "date": "2026-07-14",
      "source": "연합뉴스·경제",
      "title": "KB운용, '스페이스X+테슬라' 미국채 혼합 ETF 출시",
@@ -8959,6 +9019,12 @@
   "JP모건(JPM)": {
    "articles": [
     {
+     "date": "2026-07-15",
+     "source": "한국경제·경제",
+     "title": "JP모건, 2분기 사상 최대 이익에도 주가 하락",
+     "link": "https://www.hankyung.com/article/202607145333i"
+    },
+    {
      "date": "2026-06-27",
      "source": "아시아경제",
      "title": "\"코스피 1만5000 간다…한국은 가장 선호하는 시장\" JP모건 보고서",
@@ -9729,6 +9795,24 @@
   "SK(034730)": {
    "articles": [
     {
+     "date": "2026-07-15",
+     "source": "한국경제·경제",
+     "title": "SK하이닉스 ADR 달러 유입 기대…환율 1400원대 안착하나",
+     "link": "https://www.hankyung.com/article/2026071450001"
+    },
+    {
+     "date": "2026-07-15",
+     "source": "한국경제·증권",
+     "title": "SK하닉 괜히 팔았나…역대급 패닉셀 뒤 나온 '뜻밖의 전망' [분석+]",
+     "link": "https://www.hankyung.com/article/2026071447766"
+    },
+    {
+     "date": "2026-07-15",
+     "source": "한국경제·증권",
+     "title": "서동주 \"SK하이닉스 259층에 물려\"…전문가 조언 들어보니",
+     "link": "https://www.hankyung.com/article/202607144621H"
+    },
+    {
      "date": "2026-07-14",
      "source": "한국경제·경제",
      "title": "월가,\"SK하이닉스 美IPO성공,다른 기술기업들은 쉽지않아\"",
@@ -10429,24 +10513,6 @@
      "source": "한국경제·증권",
      "title": "SK하이닉스, ADR 발행 총액 45조→43조원 정정…주가 하락 반영",
      "link": "https://www.hankyung.com/article/2026070687127"
-    },
-    {
-     "date": "2026-07-06",
-     "source": "한국경제·증권",
-     "title": "한달간 최대 15조 투자…'채권시장 큰손'된 SK하이닉스",
-     "link": "https://www.hankyung.com/article/2026070685821"
-    },
-    {
-     "date": "2026-07-06",
-     "source": "연합뉴스·경제",
-     "title": "청주시, SK하이닉스 투자 지원 '부시장 총괄 TF' 가동",
-     "link": "https://www.yna.co.kr/view/AKR20260706118500064"
-    },
-    {
-     "date": "2026-07-06",
-     "source": "연합뉴스·경제",
-     "title": "SK 울산CLX, 협력사 근로자 단체상해보험 가입 지원",
-     "link": "https://www.yna.co.kr/view/AKR20260706129700057"
     }
    ]
   },
@@ -10576,6 +10642,18 @@
   },
   "NC(036570)": {
    "articles": [
+    {
+     "date": "2026-07-15",
+     "source": "CNBC·Finance",
+     "title": "Watch Fed Chairman Kevin Warsh testify live to House Financial Services committee",
+     "link": "https://www.cnbc.com/2026/07/14/watch-fed-chairman-kevin-warsh-testify-live-to-house-financial-services-committee.html"
+    },
+    {
+     "date": "2026-07-15",
+     "source": "MarketWatch",
+     "title": "YouTube influencers talked me into getting a travel card at 20. Then I realized it wasn’t for me.",
+     "link": "https://www.marketwatch.com/story/youtube-influencers-talked-me-into-getting-a-travel-card-at-20-then-i-realized-it-wasnt-for-me-101138b5?mod=mw_rss_topstories"
+    },
     {
      "date": "2026-07-14",
      "source": "CNBC·Markets",
@@ -11142,6 +11220,12 @@
   },
   "삼성SDI(006400)": {
    "articles": [
+    {
+     "date": "2026-07-15",
+     "source": "한국경제·경제",
+     "title": "삼성SDI AI센터용 배터리, 美 '화재 안전' 인증",
+     "link": "https://www.hankyung.com/article/2026071450651"
+    },
     {
      "date": "2026-07-14",
      "source": "한국경제·증권",
@@ -11969,6 +12053,12 @@
   "한화(000880)": {
    "articles": [
     {
+     "date": "2026-07-15",
+     "source": "한국경제·경제",
+     "title": "한화손보, 환아 보호자 돌봄 지원 확대",
+     "link": "https://www.hankyung.com/article/2026071450331"
+    },
+    {
      "date": "2026-07-14",
      "source": "한국경제·경제",
      "title": "생보사가 왜 e스포츠팀을?…메이저 대회 첫 우승한 한화생명",
@@ -12621,6 +12711,12 @@
   "케이엠제약(225430)": {
    "articles": [
     {
+     "date": "2026-07-15",
+     "source": "연합뉴스·경제",
+     "title": "케이엠제약, 10억원 제3자배정 유상증자",
+     "link": "https://www.yna.co.kr/view/AKR20260714166200008"
+    },
+    {
      "date": "2026-07-07",
      "source": "아시아경제",
      "title": "케이엠제약 폼글, 美서 터졌다…아마존 매출 분기 평균 65% 급성장",
@@ -12802,6 +12898,18 @@
   },
   "쿠팡(CPNG)": {
    "articles": [
+    {
+     "date": "2026-07-15",
+     "source": "한국경제·경제",
+     "title": "법원, 김범석 쿠팡 총수 지정 효력정지",
+     "link": "https://www.hankyung.com/article/2026071449471"
+    },
+    {
+     "date": "2026-07-15",
+     "source": "연합뉴스·경제",
+     "title": "'김범석 쿠팡 총수 지정' 효력정지…법원 \"손해 예방 필요\"(종합)",
+     "link": "https://www.yna.co.kr/view/AKR20260714107251004"
+    },
     {
      "date": "2026-07-14",
      "source": "연합뉴스·경제",
@@ -13135,6 +13243,12 @@
   "남성(004270)": {
    "articles": [
     {
+     "date": "2026-07-15",
+     "source": "한국경제·증권",
+     "title": "남성 \"북미 유통 거래처 활용해 차량용 AI 장치 판매 본격화\"",
+     "link": "https://www.hankyung.com/article/2026071444756"
+    },
+    {
      "date": "2026-07-07",
      "source": "한국경제·증권",
      "title": "남성, 30% 무상증자 결정 소식에 '급등'",
@@ -13144,6 +13258,12 @@
   },
   "대상(001680)": {
    "articles": [
+    {
+     "date": "2026-07-15",
+     "source": "파이낸셜뉴스",
+     "title": "최저임금위 \"최저임금 적용대상·결정기준 제도개선 필요\"…정부에 개선방안 마련 권고",
+     "link": "https://www.fnnews.com/news/202607141556227456"
+    },
     {
      "date": "2026-07-14",
      "source": "한국경제·경제",
@@ -13639,6 +13759,18 @@
   "IBK기업은행(024110)": {
    "articles": [
     {
+     "date": "2026-07-15",
+     "source": "연합뉴스·경제",
+     "title": "[인사] IBK기업은행",
+     "link": "https://www.yna.co.kr/view/AKR20260714153800002"
+    },
+    {
+     "date": "2026-07-15",
+     "source": "연합뉴스·경제",
+     "title": "IBK기업은행, 생산적포용금융부 신설…AX전략그룹 재편",
+     "link": "https://www.yna.co.kr/view/AKR20260714150900002"
+    },
+    {
      "date": "2026-07-13",
      "source": "연합뉴스·경제",
      "title": "IBK기업은행, 혁신창업기업 육성 프로그램 개시",
@@ -13938,6 +14070,12 @@
   },
   "한성기업(003680)": {
    "articles": [
+    {
+     "date": "2026-07-15",
+     "source": "한국경제·경제",
+     "title": "\"애국기업 상폐 막자\"…모나미·한성기업 급등",
+     "link": "https://www.hankyung.com/article/2026071448871"
+    },
     {
      "date": "2026-07-10",
      "source": "한국경제·증권",
@@ -14351,6 +14489,12 @@
   "보잉(BA)": {
    "articles": [
     {
+     "date": "2026-07-15",
+     "source": "한국경제·경제",
+     "title": "[단독] 韓, 보잉·에어버스 파트너 참여…\"민항기 독자 개발 목표\"",
+     "link": "https://www.hankyung.com/article/2026071449431"
+    },
+    {
      "date": "2026-07-10",
      "source": "한국경제·경제",
      "title": "RTX·보잉 “韓 방산, 거래 상대서 전략 파트너로…공급망 커진다”",
@@ -14578,6 +14722,18 @@
   },
   "홈플러스": {
    "articles": [
+    {
+     "date": "2026-07-15",
+     "source": "연합뉴스·경제",
+     "title": "중기부·소진공, 홈플러스 협력사에 대출 한도 1억원으로 확대",
+     "link": "https://www.yna.co.kr/view/AKR20260714154200030"
+    },
+    {
+     "date": "2026-07-15",
+     "source": "아시아경제",
+     "title": "메리츠금융 만난 홈플러스 일반노조…\"MBK 포함 3자회동 제안\"",
+     "link": "https://view.asiae.co.kr/article/2026071417400098529"
+    },
     {
      "date": "2026-07-14",
      "source": "한국경제·경제",
@@ -14836,6 +14992,18 @@
   },
   "GS(078930)": {
    "articles": [
+    {
+     "date": "2026-07-15",
+     "source": "MarketWatch",
+     "title": "IBM’s stock is having its worst day ever after the surprise release of an earnings miss",
+     "link": "https://www.marketwatch.com/story/ibms-stock-dives-toward-worst-day-in-nearly-40-years-after-the-surprise-release-of-an-earnings-miss-8519741e?mod=mw_rss_topstories"
+    },
+    {
+     "date": "2026-07-15",
+     "source": "MarketWatch",
+     "title": "Bank of America’s stock reverses premarket decline in wake of blockbuster earnings report",
+     "link": "https://www.marketwatch.com/story/bank-of-america-stock-falls-despite-earnings-beat-3d4db2b4?mod=mw_rss_topstories"
+    },
     {
      "date": "2026-07-14",
      "source": "한국경제·경제",
@@ -15177,5 +15345,5 @@
    ]
   }
  },
- "updatedAt": "2026-07-14T15:24:41+09:00"
+ "updatedAt": "2026-07-15T00:13:15+09:00"
 }
