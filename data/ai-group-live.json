@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-07-15T00:31:45+09:00",
+ "updatedAt": "2026-07-15T08:19:28+09:00",
  "note": "AI에 구조적으로 필수인 부품·밸류체인 기업을 '장기 전망·비전' 기준으로 선별한 관찰 그룹. 단기 모멘텀(검증 D+3)과는 별개 — 각 종목에 현재 모멘텀도 함께 표기. 투자권유 아님, 정보·관찰용.",
  "macroOverview": "거시 큰 그림: AI 데이터센터 capex는 경기 사이클과 디커플링된 '구조적 투자'다 — 빅테크(MS·구글·메타·아마존)의 설비투자는 경기와 무관하게 매년 증액되고 있다. 금리 인하 사이클 진입은 성장주 밸류에이션에 우호적(할인율↓). 시장의 병목이 HBM → 전력 → 냉각 → 광통신 순으로 '로테이션'하는 게 핵심 흐름이라, 어느 한 계층이 조정받아도 다음 병목으로 자금이 옮겨간다. 단기적으로는 메모리 고점론·급락장(위험회피)으로 소부장·전력이 눌려 있으나, 이는 '구조적 성장 vs 단기 수급'의 괴리 구간. 우리 그룹은 이 괴리를 계층별로 보여줘 '비전은 필수인데 아직 자금이 안 붙은' 눌림 구간을 포착하는 게 목적이다.",
  "categories": [
@@ -77,7 +77,7 @@
    "official": "SK하이닉스",
    "tickerMismatch": false,
    "price": 1913000,
-   "changeRate": "3.69",
+   "changeRate": "0.00",
    "sinceAddedPct": 2.8,
    "priceLog": [
     {
@@ -108,7 +108,7 @@
    "official": "삼성전자",
    "tickerMismatch": false,
    "price": 263000,
-   "changeRate": "3.34",
+   "changeRate": "0.00",
    "sinceAddedPct": 2.5,
    "priceLog": [
     {
@@ -139,7 +139,7 @@
    "official": "한미반도체",
    "tickerMismatch": false,
    "price": 207500,
-   "changeRate": "0.97",
+   "changeRate": "0.00",
    "sinceAddedPct": 0.7,
    "priceLog": [
     {
@@ -170,7 +170,7 @@
    "official": "하나마이크론",
    "tickerMismatch": false,
    "price": 38250,
-   "changeRate": "0.13",
+   "changeRate": "0.00",
    "sinceAddedPct": -1.3,
    "priceLog": [
     {
@@ -201,7 +201,7 @@
    "official": "심텍",
    "tickerMismatch": false,
    "price": 108000,
-   "changeRate": "-0.09",
+   "changeRate": "0.00",
    "sinceAddedPct": -0.6,
    "priceLog": [
     {
@@ -232,7 +232,7 @@
    "official": "삼성전기",
    "tickerMismatch": false,
    "price": 1260000,
-   "changeRate": "-2.25",
+   "changeRate": "0.00",
    "sinceAddedPct": -3.0,
    "priceLog": [
     {
@@ -263,7 +263,7 @@
    "official": "SKC",
    "tickerMismatch": false,
    "price": 84300,
-   "changeRate": "-4.20",
+   "changeRate": "0.00",
    "sinceAddedPct": -4.2,
    "priceLog": [
     {
@@ -294,7 +294,7 @@
    "official": "필옵틱스",
    "tickerMismatch": false,
    "price": 27800,
-   "changeRate": "-4.30",
+   "changeRate": "0.00",
    "sinceAddedPct": -4.5,
    "priceLog": [
     {
@@ -325,7 +325,7 @@
    "official": "에이직랜드",
    "tickerMismatch": false,
    "price": 20600,
-   "changeRate": "-1.44",
+   "changeRate": "0.00",
    "sinceAddedPct": -2.4,
    "priceLog": [
     {
@@ -356,7 +356,7 @@
    "official": "가온칩스",
    "tickerMismatch": false,
    "price": 51800,
-   "changeRate": "6.15",
+   "changeRate": "0.00",
    "sinceAddedPct": 4.4,
    "priceLog": [
     {
@@ -387,7 +387,7 @@
    "official": "오픈엣지테크놀로지",
    "tickerMismatch": false,
    "price": 10370,
-   "changeRate": "-1.52",
+   "changeRate": "0.00",
    "sinceAddedPct": -2.3,
    "priceLog": [
     {
@@ -418,7 +418,7 @@
    "official": "HD현대일렉트릭",
    "tickerMismatch": false,
    "price": 797000,
-   "changeRate": "1.14",
+   "changeRate": "0.00",
    "sinceAddedPct": 1.1,
    "priceLog": [
     {
@@ -449,7 +449,7 @@
    "official": "LS ELECTRIC",
    "tickerMismatch": false,
    "price": 187700,
-   "changeRate": "1.73",
+   "changeRate": "0.00",
    "sinceAddedPct": 2.2,
    "priceLog": [
     {
@@ -480,7 +480,7 @@
    "official": "효성중공업",
    "tickerMismatch": false,
    "price": 2677000,
-   "changeRate": "0.41",
+   "changeRate": "0.00",
    "sinceAddedPct": -0.0,
    "priceLog": [
     {
@@ -511,7 +511,7 @@
    "official": "케이엔솔",
    "tickerMismatch": false,
    "price": 8510,
-   "changeRate": "-1.96",
+   "changeRate": "0.00",
    "sinceAddedPct": -1.6,
    "priceLog": [
     {
@@ -542,7 +542,7 @@
    "official": "퀄리타스반도체",
    "tickerMismatch": false,
    "price": 8180,
-   "changeRate": "-2.85",
+   "changeRate": "0.00",
    "sinceAddedPct": -2.9,
    "priceLog": [
     {
@@ -573,7 +573,7 @@
    "official": "대한광통신",
    "tickerMismatch": false,
    "price": 11050,
-   "changeRate": "1.28",
+   "changeRate": "0.00",
    "sinceAddedPct": -0.2,
    "priceLog": [
     {
@@ -604,7 +604,7 @@
    "official": "레인보우로보틱스",
    "tickerMismatch": false,
    "price": 400500,
-   "changeRate": "-3.49",
+   "changeRate": "0.00",
    "sinceAddedPct": -4.2,
    "priceLog": [
     {
@@ -635,7 +635,7 @@
    "official": "로보티즈",
    "tickerMismatch": false,
    "price": 195500,
-   "changeRate": "-5.10",
+   "changeRate": "0.00",
    "sinceAddedPct": -5.8,
    "priceLog": [
     {
@@ -666,7 +666,7 @@
    "official": "에스피지",
    "tickerMismatch": false,
    "price": 66200,
-   "changeRate": "-3.92",
+   "changeRate": "0.00",
    "sinceAddedPct": -4.9,
    "priceLog": [
     {

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-15T07:00:00+09:00", "session": "AM",
+  "updatedAt": "2026-07-15T07:15:00+09:00", "session": "AM",
   "stock_fng": { "value": 44, "label": "Fear", "source": "https://www.cnn.com/markets/fear-and-greed" },
   "indices": [
     { "name": "코스피", "value": "6,856.83", "change": "+0.73% (+49.90p, 7/14 마감)", "source": "https://view.asiae.co.kr/article/2026071415375817039" },
@@ -11,7 +11,7 @@
     { "name": "美 10년물", "value": "4.55%", "change": "-6bp (7/14, CPI 둔화에 하락)", "source": "https://247wallst.com/investing/2026/07/14/live-nasdaq-composite-tech-stocks-rise-in-relief-treasury-yields-fall-as-cooler-inflation-gives-markets-a-tailwind/" },
     { "name": "달러인덱스(DXY)", "value": "101.15", "change": "+0.20% (7/14 마감)", "source": "https://www.investing.com/indices/usdollar-historical-data" },
     { "name": "원/달러", "value": "1,493.0원", "change": "-10.4원 (7/14 15:30 기준가)", "source": "https://view.asiae.co.kr/article/2026071415335089642" },
-    { "name": "WTI", "value": "$80.05~80.55", "change": "+2~3% (호르무즈 봉쇄·美 대이란 공습 지속, 7/14)", "source": "https://www.cnbc.com/2026/07/14/oil-prices-today-brent-wti-hormuz-trump-toll-iran.html" },
+    { "name": "WTI", "value": "$80.05~80.55", "change": "+2~3% (호르무즈 통행료 철회에도 美-이란 군사 충돌 지속, 7/14)", "source": "https://www.cnbc.com/2026/07/14/oil-prices-today-brent-wti-hormuz-trump-toll-iran.html" },
     { "name": "브렌트유", "value": "$86.85~86.99", "change": "+4.3% (7/14, 1개월래 최고)", "source": "https://www.aljazeera.com/economy/2026/7/14/oil-hits-1-month-high-as-us-iran-fighting-clouds-strait-of-hormuz-outlook" }
   ]
 }

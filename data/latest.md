@@ -1,10 +1,10 @@
 # 📰 투자 브리핑 — 2026-07-15 오전
-*생성: 2026-07-15 07:00 KST · 회차: AM*
+*생성: 2026-07-15 07:15 KST · 회차: AM*
 
 ## 🎯 한눈에 보기
 - **美 6월 CPI, 전월比 -0.4%·전년比 +3.5%로 컨센서스(3.8%)를 큰 폭 하회** — 근원 CPI도 전년比 2.6%로 둔화. 인플레 서프라이즈에 나스닥 +1.01%(26,134.83)·S&P500 +0.44%(7,548.04) 반등, VIX는 16.42(-4.31%)로 진정. 다만 다우존스는 보합(-0.03%)에 그쳐 완전한 컨빅션 랠리는 아니었다. [CNBC](https://www.cnbc.com/2026/07/14/consumer-price-index-inflation-report-june-2026.html)
 - **케빈 워시 Fed의장, 하원 첫 증언에서 "역사의 전환점(hinge point)"을 언급했으나 금리 방향엔 구체 신호 없음** — 통화정책 재점검을 위한 5개 태스크포스 신설을 발표했고, 같은 날 크리스토퍼 월러 이사는 "긴축 가능성 여전히 남아있다"고 경고. CNBC는 "7월 인상 가능성 상승"을 보도해, CPI 호재에도 Fed 불확실성은 해소되지 않았다. [Fed 증언 원문](https://www.federalreserve.gov/newsevents/testimony/warsh20260714a.htm) · [CNBC](https://www.cnbc.com/2026/07/13/waller-says-fed-shouldnt-fight-the-last-war-on-inflation-but-warns-hikes-still-possible.html)
-- **호르무즈 봉쇄 실행으로 유가 1개월래 최고 — WTI $80대·브렌트 $86대(+2~4%)** — 트럼프 대통령이 예고한 통행료(20%)·봉쇄가 7/14 오후(현지시간) 발효, 美의 대이란 공습도 3일째 이어지며 지정학 리스크가 지속. [CNBC](https://www.cnbc.com/2026/07/14/oil-prices-today-brent-wti-hormuz-trump-toll-iran.html)
+- **[정정] 트럼프, 호르무즈 20% 통행료 하루 만에 철회 — 대신 "걸프국 투자·무역협정"으로 대체, 그러나 유가는 1개월래 최고 유지** — 7/13 통행료·봉쇄 방침을 밝혔던 트럼프는 7/14 "중동 지도자들과의 생산적 대화를 근거로 20% 통행료 대신 걸프국들의 대규모 투자·무역협정으로 대체하기로 했다"고 발표했다. 다만 같은 날 美의 대이란 공습과 이란의 美 동맹국 보복 공격이 이어지며 WTI $80대·브렌트 $86대(+2~4%)로 유가는 1개월래 최고치를 유지했다. [PBS](https://www.pbs.org/newshour/world/trump-backs-away-from-plans-to-charge-fees-in-the-strait-of-hormuz) · [CNBC(유가)](https://www.cnbc.com/2026/07/14/oil-prices-today-brent-wti-hormuz-trump-toll-iran.html)
 - **[정정] 코스피 7/14 실제 종가는 6,856.83(+0.73%)** — 직전 회차 기록치(6,934.49)는 장중 고점에 가까운 오기재로 확인돼 이번 회차부터 정정. 코스닥은 783.98(-1.92%, 매도사이드카 발동)로 기존 기록과 일치. [아시아경제](https://view.asiae.co.kr/article/2026071415375817039)
 - **美 대형은행 2분기 실적 서프라이즈(JPM·BofA·Wells Fargo 모두 컨센서스 상회)** — 스페이스X IPO·이란전쟁발 변동성이 트레이딩 수익을 견인, BofA 트레이딩 매출은 사상 최대 $7.1B. 국내 증권·금융지주 실적 기대에 벤치마크가 될 수 있다. [CNBC](https://www.cnbc.com/2026/07/14/jpm-bank-of-america-citi-bank-earnings-live-updates.html)
 - **한은 7/16 금통위 D-1, 25bp 인상(2.50%→2.75%) 유력** — 신현송 총재 취임(4/21) 후 첫 인상 사이클. 원/달러는 1,493.0원(7/14 15:30 기준, -10.4원)으로 2개월래 최저권 지속. [헤럴드경제](https://biz.heraldcorp.com/article/10803354)
@@ -23,7 +23,7 @@
 - **7/14(화) 美 증시 마감**: S&P500 7,548.04(+0.44%)·나스닥 26,134.83(+1.01%)·다우 52,482.78(-0.03%). VIX 16.42(-4.31%, 전일 17.16). 美 10년물 국채금리 약 4.55%(CPI 발표 직후 -6bp). [Yahoo Finance](https://finance.yahoo.com/markets/live/stock-market-today-tuesday-july-14-dow-sp-500-nasdaq-070833816.html)
 - **케빈 워시 Fed의장 첫 하원 증언(7/14)**: "우리는 역사의 전환점에 있다"며 소통·대차대조표·데이터·생산성고용·인플레이션 프레임워크 등 5개 태스크포스 신설 발표. 금리 방향엔 구체 신호를 주지 않아 시장은 "중립적"으로 해석. 7/15(현지시간) 상원 은행위 후속 증언 예정. [Fed 원문](https://www.federalreserve.gov/newsevents/testimony/warsh20260714a.htm)
 - **대형은행 2분기 실적**: JPMorgan EPS $6.14(컨센서스 상회)·매출 $58.02B, Bank of America EPS $1.21(컨센서스 대비 +7.7%)·트레이딩 매출 사상 최대 $7.1B, Wells Fargo EPS $2.00(컨센서스 대비 +$0.28, 전년比 +17%) — 스페이스X IPO·이란전쟁발 변동성이 트레이딩 수익 견인. [CNBC](https://www.cnbc.com/2026/07/14/jpm-bank-of-america-citi-bank-earnings-live-updates.html)
-- **국제유가**: WTI $80.05~80.55(+2~3%)·브렌트 $86.85~86.99(+4.3%, 1개월래 최고) — 호르무즈 봉쇄 실행+美 대이란 3일 연속 공습. [CNBC](https://www.cnbc.com/2026/07/14/oil-prices-today-brent-wti-hormuz-trump-toll-iran.html)
+- **국제유가**: WTI $80.05~80.55(+2~3%)·브렌트 $86.85~86.99(+4.3%, 1개월래 최고) — 트럼프의 호르무즈 20% 통행료는 철회됐으나(아래 발언 참고) 美 대이란 공습·이란의 美 동맹국 보복 공격으로 군사적 긴장은 지속. [CNBC](https://www.cnbc.com/2026/07/14/oil-prices-today-brent-wti-hormuz-trump-toll-iran.html)
 
 **한국**
 - **코스피 6,856.83(+0.73%, +49.90p, 7/14 마감)** — 전일(7/13) -8.95% 폭락 이후 반등, 반도체 중심 상승. [아시아경제](https://view.asiae.co.kr/article/2026071415375817039)
@@ -34,7 +34,7 @@
 - **6월 외국인 자금 동향**: 국내 주식시장서 323.7억달러 순유출(역대 최대) — 최근의 원화 강세·순매수 전환이 추세적인지는 추가 확인 필요. [연합뉴스](https://www.yna.co.kr/view/AKR20260714061400002)
 
 ## 🗣️ 주요 인물 발언 (팩트)
-- **도널드 트럼프**: 호르무즈 해협 통과 화물에 20% 수수료(슈퍼탱커 1척당 약 3,000만달러) 부과 및 봉쇄 시행을 재확인, 美 중부사령부가 7/14 오후(현지시간) 대이란 봉쇄를 발효했다. [Bloomberg](https://www.bloomberg.com/news/articles/2026-07-13/trump-says-us-will-be-reimbursed-20-rate-for-hormuz-traffic)
+- **도널드 트럼프**: 7/13 호르무즈 해협 통과 화물에 20% 수수료(슈퍼탱커 1척당 약 3,000만달러) 부과 방침을 밝혔으나, 7/14 "중동 지도자들과의 생산적 대화를 근거로 20% 통행료를 걸프국들의 대규모(MASSIVE) 투자·무역협정으로 대체하기로 했다"며 하루 만에 입장을 선회했다. [PBS](https://www.pbs.org/newshour/world/trump-backs-away-from-plans-to-charge-fees-in-the-strait-of-hormuz)
 - **신현송(한국은행 총재)**: 7/9 국회 기재위 업무보고에서 "물가 오름세와 성장세 개선, 금융안정 리스크 증대를 고려해 적절한 시기에 기준금리를 인상할 필요가 있다"고 밝혀 7/16 금통위 인상 전망에 힘을 실었다. [헤럴드경제](https://biz.heraldcorp.com/article/10803354)
 - **케빈 워시(Fed 의장)**: 7/14 하원 증언에서 "우리는 역사의 전환점에 있다", "기관을 앞으로 이끌 의무가 있다 — 현재 관행을 재점검해 목표에 부합하는지 확인해야 한다"고 발언, AI투자를 "지금 경제에서 가장 두드러진 특징"이라 평가했다. [CNBC](https://www.cnbc.com/2026/07/14/warsh-promises-inflation-will-be-a-thing-of-the-past-cites-benefits-of-ai-investment-boom.html)
 - **크리스토퍼 월러(Fed 이사)**: "Fed는 지난 전쟁과 싸우지 말아야 한다"면서도 "긴축 가능성은 여전히 남아있다"고 경고(7/13). [CNBC](https://www.cnbc.com/2026/07/13/waller-says-fed-shouldnt-fight-the-last-war-on-inflation-but-warns-hikes-still-possible.html)
@@ -43,7 +43,7 @@
 ## 🏭 산업·사업 전망
 - **반도체(HBM)**: 한미반도체(장비) 영업이익률 첫 50%대 돌파로 실적 호조 재확인 vs SK하이닉스(소자) 2분기 컨센서스 하회 우려 — 같은 HBM 밸류체인 안에서도 위치별 명암이 갈리는 로테이션. 삼성전자 파운드리는 테슬라 AI5 칩(2나노) 테이프아웃 완료. [뉴스웨이](https://www.newsway.co.kr/news/view?ud=2026071414394738084) · [헤럴드경제](https://biz.heraldcorp.com/article/10807852)
 - **로봇/휴머노이드**: 삼현(437730)이 글로벌 톱티어 휴머노이드 기업向 액추에이터 "연속 수주"로 재조명되며 5일 연속(7/11~15) 지수와 무관한 개별 강세 테마 지위를 재확인했다. [로봇신문](https://www.irobotnews.com/news/articleView.html?idxno=46899)
-- **정유/에너지**: 호르무즈 봉쇄 실행發 유가 급등(WTI+2~3%, 브렌트+4.3%)으로 정유·해운·방산주 반사 수혜 가능성 지속.
+- **정유/에너지**: 호르무즈 통행료는 철회됐지만 美-이란 군사 충돌 지속에 따른 유가 급등(WTI+2~3%, 브렌트+4.3%)으로 정유·해운·방산주 반사 수혜 가능성 지속.
 - **금융**: 美 대형은행 트레이딩·IB 수수료 중심 실적 서프라이즈가 국내 증권·금융지주 밸류업(저PBR 공개, 11월 시행 예정) 논의와 맞물려 재평가 가능성. [아시아경제](https://view.asiae.co.kr/article/2026071308355486536)
 
 ## 📈 주목 상장사 & 발굴 후보
@@ -63,7 +63,7 @@
 - ⚪ **객관**: CPI 호재에도 다우 보합·VIX 16선 잔존은 컨빅션 랠리가 아니라는 신호. 실측 검증상 로봇/휴머노이드·AI반도체설계만 승세.
 - 🤝 **합의**: 오늘 한국장은 **조건부 상방** — CPI 서프라이즈 반영해 강세 출발 가능하나 호르무즈·금통위 경계감에 상승폭 제한.
 - **국내 종목 흐름**: 로봇/휴머노이드 밸류체인 지속 강세, 반도체는 소자(SK하이닉스 우려) vs 장비(한미반도체 호조) 내부 로테이션.
-- **관전 포인트·리스크**: ①7/16 한은 금통위(25bp 인상 여부) ②SK하이닉스 2분기 실적 발표 ③호르무즈 봉쇄 지속·유가 추가 급등.
+- **관전 포인트·리스크**: ①7/16 한은 금통위(25bp 인상 여부) ②SK하이닉스 2분기 실적 발표 ③美-이란 군사 충돌 확산·유가 추가 급등.
 
 ## 🌱 성장사업 핵심부품 소형주 발굴 (정보용)
 *(2.8단계 `data/discovery.md`의 상위 압축. 전체·누적빈도는 발굴 탭에서.)*
@@ -93,6 +93,7 @@
 - https://www.federalreserve.gov/newsevents/testimony/warsh20260714a.htm (워시 Fed의장 증언 원문)
 - https://www.cnbc.com/2026/07/14/jpm-bank-of-america-citi-bank-earnings-live-updates.html (대형은행 실적)
 - https://www.cnbc.com/2026/07/14/oil-prices-today-brent-wti-hormuz-trump-toll-iran.html (유가·호르무즈)
+- https://www.pbs.org/newshour/world/trump-backs-away-from-plans-to-charge-fees-in-the-strait-of-hormuz (트럼프 통행료 철회)
 - https://view.asiae.co.kr/article/2026071415375817039 (코스피 마감시황·정정 근거)
 - https://biz.heraldcorp.com/article/10803354 (신현송 총재 발언)
 - https://www.irobotnews.com/news/articleView.html?idxno=46899 (삼현 액추에이터 수주)
