@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-07-15T08:19:15+09:00",
+ "updatedAt": "2026-07-16T08:25:48+09:00",
  "cases": [
   {
    "name": "이지트로닉스(377330)",
@@ -53,6 +53,10 @@
     {
      "date": "2026-07-15",
      "price": 2190
+    },
+    {
+     "date": "2026-07-16",
+     "price": 2335
     }
    ],
    "finalVerdict": "빗나감"
@@ -109,6 +113,10 @@
     {
      "date": "2026-07-15",
      "price": 44450
+    },
+    {
+     "date": "2026-07-16",
+     "price": 45100
     }
    ],
    "finalVerdict": "빗나감"
@@ -164,6 +172,10 @@
     {
      "date": "2026-07-15",
      "price": 6680
+    },
+    {
+     "date": "2026-07-16",
+     "price": 6800
     }
    ],
    "finalVerdict": "중립"
@@ -219,6 +231,10 @@
     {
      "date": "2026-07-15",
      "price": 8470
+    },
+    {
+     "date": "2026-07-16",
+     "price": 8820
     }
    ],
    "finalVerdict": "빗나감"
@@ -274,6 +290,10 @@
     {
      "date": "2026-07-15",
      "price": 34600
+    },
+    {
+     "date": "2026-07-16",
+     "price": 38450
     }
    ],
    "finalVerdict": "중립"
@@ -330,6 +350,10 @@
     {
      "date": "2026-07-15",
      "price": 1950
+    },
+    {
+     "date": "2026-07-16",
+     "price": 1976
     }
    ],
    "finalVerdict": "적중"
@@ -385,6 +409,10 @@
     {
      "date": "2026-07-15",
      "price": 3605
+    },
+    {
+     "date": "2026-07-16",
+     "price": 3865
     }
    ],
    "finalVerdict": "빗나감"
@@ -440,6 +468,10 @@
     {
      "date": "2026-07-15",
      "price": 627
+    },
+    {
+     "date": "2026-07-16",
+     "price": 725
     }
    ],
    "finalVerdict": "빗나감"
@@ -491,6 +523,10 @@
     {
      "date": "2026-07-15",
      "price": 2895
+    },
+    {
+     "date": "2026-07-16",
+     "price": 2960
     }
    ],
    "finalVerdict": "중립"
@@ -547,6 +583,10 @@
     {
      "date": "2026-07-15",
      "price": 945
+    },
+    {
+     "date": "2026-07-16",
+     "price": 957
     }
    ],
    "finalVerdict": "중립"
@@ -602,6 +642,10 @@
     {
      "date": "2026-07-15",
      "price": 5160
+    },
+    {
+     "date": "2026-07-16",
+     "price": 5590
     }
    ],
    "finalVerdict": "빗나감"
@@ -657,6 +701,10 @@
     {
      "date": "2026-07-15",
      "price": 1256
+    },
+    {
+     "date": "2026-07-16",
+     "price": 1387
     }
    ],
    "finalVerdict": "빗나감"
@@ -702,6 +750,10 @@
     {
      "date": "2026-07-15",
      "price": 1273
+    },
+    {
+     "date": "2026-07-16",
+     "price": 1375
     }
    ],
    "checks": [
@@ -775,6 +827,10 @@
     {
      "date": "2026-07-15",
      "price": 66200
+    },
+    {
+     "date": "2026-07-16",
+     "price": 70600
     }
    ],
    "checks": [
@@ -848,6 +904,10 @@
     {
      "date": "2026-07-15",
      "price": 9250
+    },
+    {
+     "date": "2026-07-16",
+     "price": 9850
     }
    ],
    "checks": [
@@ -920,6 +980,10 @@
     {
      "date": "2026-07-15",
      "price": 27800
+    },
+    {
+     "date": "2026-07-16",
+     "price": 30250
     }
    ],
    "checks": [
@@ -992,6 +1056,10 @@
     {
      "date": "2026-07-15",
      "price": 15730
+    },
+    {
+     "date": "2026-07-16",
+     "price": 18050
     }
    ],
    "checks": [
@@ -1064,6 +1132,10 @@
     {
      "date": "2026-07-15",
      "price": 4430
+    },
+    {
+     "date": "2026-07-16",
+     "price": 4675
     }
    ],
    "checks": [
@@ -1153,6 +1225,10 @@
     {
      "date": "2026-07-15",
      "price": 748
+    },
+    {
+     "date": "2026-07-16",
+     "price": 789
     }
    ],
    "checks": [
@@ -1225,6 +1301,10 @@
     {
      "date": "2026-07-15",
      "price": 27750
+    },
+    {
+     "date": "2026-07-16",
+     "price": 29100
     }
    ],
    "checks": [
@@ -1296,6 +1376,10 @@
     {
      "date": "2026-07-15",
      "price": 2100
+    },
+    {
+     "date": "2026-07-16",
+     "price": 2115
     }
    ],
    "checks": [
@@ -1364,6 +1448,10 @@
     {
      "date": "2026-07-15",
      "price": 1725
+    },
+    {
+     "date": "2026-07-16",
+     "price": 1854
     }
    ],
    "checks": [
@@ -1430,6 +1518,10 @@
     {
      "date": "2026-07-15",
      "price": 920
+    },
+    {
+     "date": "2026-07-16",
+     "price": 720
     }
    ],
    "checks": [
@@ -1501,6 +1593,10 @@
     {
      "date": "2026-07-15",
      "price": 1297
+    },
+    {
+     "date": "2026-07-16",
+     "price": 1366
     }
    ],
    "checks": [
@@ -1573,6 +1669,10 @@
     {
      "date": "2026-07-15",
      "price": 7720
+    },
+    {
+     "date": "2026-07-16",
+     "price": 7680
     }
    ],
    "checks": [
@@ -1646,6 +1746,10 @@
     {
      "date": "2026-07-15",
      "price": 2090
+    },
+    {
+     "date": "2026-07-16",
+     "price": 2165
     }
    ],
    "checks": [
@@ -1718,6 +1822,10 @@
     {
      "date": "2026-07-15",
      "price": 10980
+    },
+    {
+     "date": "2026-07-16",
+     "price": 11650
     }
    ],
    "checks": [
@@ -1790,6 +1898,10 @@
     {
      "date": "2026-07-15",
      "price": 1356
+    },
+    {
+     "date": "2026-07-16",
+     "price": 1429
     }
    ],
    "checks": [
@@ -1864,6 +1976,10 @@
     {
      "date": "2026-07-15",
      "price": 1880
+    },
+    {
+     "date": "2026-07-16",
+     "price": 1892
     }
    ],
    "checks": [
@@ -1936,6 +2052,10 @@
     {
      "date": "2026-07-15",
      "price": 3395
+    },
+    {
+     "date": "2026-07-16",
+     "price": 3470
     }
    ],
    "checks": [
@@ -2025,6 +2145,10 @@
     {
      "date": "2026-07-15",
      "price": 5150
+    },
+    {
+     "date": "2026-07-16",
+     "price": 5250
     }
    ],
    "checks": [
@@ -2097,6 +2221,10 @@
     {
      "date": "2026-07-15",
      "price": 12360
+    },
+    {
+     "date": "2026-07-16",
+     "price": 13090
     }
    ],
    "checks": [
@@ -2170,6 +2298,10 @@
     {
      "date": "2026-07-15",
      "price": 859
+    },
+    {
+     "date": "2026-07-16",
+     "price": 876
     }
    ],
    "checks": [
@@ -2242,6 +2374,10 @@
     {
      "date": "2026-07-15",
      "price": 6860
+    },
+    {
+     "date": "2026-07-16",
+     "price": 7380
     }
    ],
    "checks": [
@@ -2311,6 +2447,10 @@
     },
     {
      "date": "2026-07-15",
+     "price": 2630
+    },
+    {
+     "date": "2026-07-16",
      "price": 2630
     }
    ],
@@ -2382,6 +2522,10 @@
     {
      "date": "2026-07-15",
      "price": 1069
+    },
+    {
+     "date": "2026-07-16",
+     "price": 1069
     }
    ],
    "checks": [
@@ -2452,6 +2596,10 @@
     {
      "date": "2026-07-15",
      "price": 2935
+    },
+    {
+     "date": "2026-07-16",
+     "price": 2900
     }
    ],
    "checks": [
@@ -2522,6 +2670,10 @@
     {
      "date": "2026-07-15",
      "price": 1344
+    },
+    {
+     "date": "2026-07-16",
+     "price": 1426
     }
    ],
    "checks": [
@@ -2593,6 +2745,10 @@
     {
      "date": "2026-07-15",
      "price": 7270
+    },
+    {
+     "date": "2026-07-16",
+     "price": 7670
     }
    ],
    "checks": [
@@ -2662,6 +2818,10 @@
     {
      "date": "2026-07-15",
      "price": 1014
+    },
+    {
+     "date": "2026-07-16",
+     "price": 1088
     }
    ],
    "checks": [
@@ -2731,6 +2891,10 @@
     {
      "date": "2026-07-15",
      "price": 12480
+    },
+    {
+     "date": "2026-07-16",
+     "price": 12870
     }
    ],
    "checks": [
@@ -2801,6 +2965,10 @@
     {
      "date": "2026-07-15",
      "price": 58800
+    },
+    {
+     "date": "2026-07-16",
+     "price": 60900
     }
    ],
    "checks": [
@@ -2870,6 +3038,10 @@
     {
      "date": "2026-07-15",
      "price": 28000
+    },
+    {
+     "date": "2026-07-16",
+     "price": 29950
     }
    ],
    "checks": [
@@ -2939,6 +3111,10 @@
     {
      "date": "2026-07-15",
      "price": 62500
+    },
+    {
+     "date": "2026-07-16",
+     "price": 63700
     }
    ],
    "checks": [
@@ -3009,6 +3185,10 @@
     {
      "date": "2026-07-15",
      "price": 2190
+    },
+    {
+     "date": "2026-07-16",
+     "price": 2240
     }
    ],
    "checks": [
@@ -3079,6 +3259,10 @@
     {
      "date": "2026-07-15",
      "price": 9510
+    },
+    {
+     "date": "2026-07-16",
+     "price": 10570
     }
    ],
    "checks": [
@@ -3150,6 +3334,10 @@
     {
      "date": "2026-07-15",
      "price": 6380
+    },
+    {
+     "date": "2026-07-16",
+     "price": 6650
     }
    ],
    "checks": [
@@ -3222,6 +3410,10 @@
     {
      "date": "2026-07-15",
      "price": 47200
+    },
+    {
+     "date": "2026-07-16",
+     "price": 49500
     }
    ],
    "checks": [
@@ -3293,6 +3485,10 @@
     {
      "date": "2026-07-15",
      "price": 18420
+    },
+    {
+     "date": "2026-07-16",
+     "price": 20100
     }
    ],
    "checks": [
@@ -3364,6 +3560,10 @@
     {
      "date": "2026-07-15",
      "price": 8510
+    },
+    {
+     "date": "2026-07-16",
+     "price": 8960
     }
    ],
    "checks": [
@@ -3435,6 +3635,10 @@
     {
      "date": "2026-07-15",
      "price": 11890
+    },
+    {
+     "date": "2026-07-16",
+     "price": 12730
     }
    ],
    "checks": [
@@ -3447,9 +3651,19 @@
      "excessPct": -3.02,
      "index": "KOSDAQ",
      "verdict": "빗나감"
+    },
+    {
+     "horizon": "D+7",
+     "date": "2026-07-15",
+     "price": 12730,
+     "changePct": -8.35,
+     "indexPct": -2.08,
+     "excessPct": -6.27,
+     "index": "KOSDAQ",
+     "verdict": "빗나감"
     }
    ],
-   "status": "pending",
+   "status": "verified",
    "backfill": true,
    "flagPriceSource": "https://finance.naver.com/item/sise_day.naver?code=459510",
    "finalVerdict": "빗나감"
@@ -3493,6 +3707,10 @@
     {
      "date": "2026-07-15",
      "price": 1338
+    },
+    {
+     "date": "2026-07-16",
+     "price": 1438
     }
    ],
    "checks": [
@@ -3550,6 +3768,10 @@
     {
      "date": "2026-07-15",
      "price": 5040
+    },
+    {
+     "date": "2026-07-16",
+     "price": 5090
     }
    ],
    "checks": [
@@ -3607,6 +3829,10 @@
     {
      "date": "2026-07-15",
      "price": 984
+    },
+    {
+     "date": "2026-07-16",
+     "price": 998
     }
    ],
    "checks": [
@@ -3662,6 +3888,10 @@
     {
      "date": "2026-07-15",
      "price": 9370
+    },
+    {
+     "date": "2026-07-16",
+     "price": 9920
     }
    ],
    "checks": [
@@ -3732,6 +3962,10 @@
     {
      "date": "2026-07-15",
      "price": 89300
+    },
+    {
+     "date": "2026-07-16",
+     "price": 96700
     }
    ],
    "checks": [
@@ -3802,6 +4036,10 @@
     {
      "date": "2026-07-15",
      "price": 39450
+    },
+    {
+     "date": "2026-07-16",
+     "price": 40600
     }
    ],
    "checks": [
@@ -3871,6 +4109,10 @@
     {
      "date": "2026-07-15",
      "price": 5950
+    },
+    {
+     "date": "2026-07-16",
+     "price": 6140
     }
    ],
    "checks": [
@@ -3940,6 +4182,10 @@
     {
      "date": "2026-07-15",
      "price": 23700
+    },
+    {
+     "date": "2026-07-16",
+     "price": 25100
     }
    ],
    "checks": [
@@ -4009,6 +4255,10 @@
     {
      "date": "2026-07-15",
      "price": 1860
+    },
+    {
+     "date": "2026-07-16",
+     "price": 1900
     }
    ],
    "checks": [
@@ -4078,6 +4328,10 @@
     {
      "date": "2026-07-15",
      "price": 15250
+    },
+    {
+     "date": "2026-07-16",
+     "price": 15970
     }
    ],
    "checks": [
@@ -4147,6 +4401,10 @@
     {
      "date": "2026-07-15",
      "price": 51800
+    },
+    {
+     "date": "2026-07-16",
+     "price": 54900
     }
    ],
    "checks": [
@@ -4216,6 +4474,10 @@
     {
      "date": "2026-07-15",
      "price": 10530
+    },
+    {
+     "date": "2026-07-16",
+     "price": 11270
     }
    ],
    "checks": [
@@ -4285,6 +4547,10 @@
     {
      "date": "2026-07-15",
      "price": 2380
+    },
+    {
+     "date": "2026-07-16",
+     "price": 2430
     }
    ],
    "checks": [
@@ -4353,6 +4619,10 @@
     },
     {
      "date": "2026-07-15",
+     "price": 41750
+    },
+    {
+     "date": "2026-07-16",
      "price": 41750
     }
    ],
@@ -4423,6 +4693,10 @@
     {
      "date": "2026-07-15",
      "price": 11890
+    },
+    {
+     "date": "2026-07-16",
+     "price": 12730
     }
    ],
    "checks": [
@@ -4490,6 +4764,10 @@
     {
      "date": "2026-07-15",
      "price": 870
+    },
+    {
+     "date": "2026-07-16",
+     "price": 912
     }
    ],
    "checks": [
@@ -4557,6 +4835,10 @@
     {
      "date": "2026-07-15",
      "price": 30050
+    },
+    {
+     "date": "2026-07-16",
+     "price": 31500
     }
    ],
    "checks": [
@@ -4624,6 +4906,10 @@
     {
      "date": "2026-07-15",
      "price": 1899
+    },
+    {
+     "date": "2026-07-16",
+     "price": 2010
     }
    ],
    "checks": [
@@ -4692,6 +4978,10 @@
     {
      "date": "2026-07-15",
      "price": 11900
+    },
+    {
+     "date": "2026-07-16",
+     "price": 12550
     }
    ],
    "checks": [
@@ -4760,6 +5050,10 @@
     {
      "date": "2026-07-15",
      "price": 2920
+    },
+    {
+     "date": "2026-07-16",
+     "price": 2940
     }
    ],
    "checks": [
@@ -4826,6 +5120,10 @@
     {
      "date": "2026-07-15",
      "price": 6710
+    },
+    {
+     "date": "2026-07-16",
+     "price": 7000
     }
    ],
    "checks": [
@@ -4892,6 +5190,10 @@
     {
      "date": "2026-07-15",
      "price": 11960
+    },
+    {
+     "date": "2026-07-16",
+     "price": 12670
     }
    ],
    "checks": [
@@ -4958,6 +5260,10 @@
     {
      "date": "2026-07-15",
      "price": 18420
+    },
+    {
+     "date": "2026-07-16",
+     "price": 20100
     }
    ],
    "checks": [
@@ -4970,9 +5276,19 @@
      "excessPct": 0.19,
      "index": "KOSDAQ",
      "verdict": "중립"
+    },
+    {
+     "horizon": "D+7",
+     "date": "2026-07-15",
+     "price": 20100,
+     "changePct": -5.41,
+     "indexPct": -2.08,
+     "excessPct": -3.33,
+     "index": "KOSDAQ",
+     "verdict": "빗나감"
     }
    ],
-   "status": "pending",
+   "status": "verified",
    "backfill": true,
    "flagPriceSource": "https://finance.naver.com/item/sise_day.naver?code=043260",
    "finalVerdict": "중립"
@@ -5013,6 +5329,10 @@
     {
      "date": "2026-07-15",
      "price": 8510
+    },
+    {
+     "date": "2026-07-16",
+     "price": 8960
     }
    ],
    "checks": [
@@ -5025,9 +5345,19 @@
      "excessPct": -1.86,
      "index": "KOSDAQ",
      "verdict": "빗나감"
+    },
+    {
+     "horizon": "D+7",
+     "date": "2026-07-15",
+     "price": 8960,
+     "changePct": -4.17,
+     "indexPct": -2.08,
+     "excessPct": -2.09,
+     "index": "KOSDAQ",
+     "verdict": "빗나감"
     }
    ],
-   "status": "pending",
+   "status": "verified",
    "backfill": true,
    "flagPriceSource": "https://finance.naver.com/item/sise_day.naver?code=053080",
    "finalVerdict": "빗나감"
@@ -5068,6 +5398,10 @@
     {
      "date": "2026-07-15",
      "price": 114700
+    },
+    {
+     "date": "2026-07-16",
+     "price": 115900
     }
    ],
    "checks": [
@@ -5123,6 +5457,10 @@
     {
      "date": "2026-07-15",
      "price": 1338
+    },
+    {
+     "date": "2026-07-16",
+     "price": 1438
     }
    ],
    "checks": [
@@ -5190,6 +5528,10 @@
     {
      "date": "2026-07-15",
      "price": 20600
+    },
+    {
+     "date": "2026-07-16",
+     "price": 23950
     }
    ],
    "finalVerdict": "적중"
@@ -5241,6 +5583,10 @@
     {
      "date": "2026-07-15",
      "price": 16050
+    },
+    {
+     "date": "2026-07-16",
+     "price": 15870
     }
    ],
    "finalVerdict": "중립"
@@ -5292,6 +5638,10 @@
     {
      "date": "2026-07-15",
      "price": 1371
+    },
+    {
+     "date": "2026-07-16",
+     "price": 1383
     }
    ],
    "finalVerdict": "빗나감"
@@ -5343,6 +5693,10 @@
     {
      "date": "2026-07-15",
      "price": 3530
+    },
+    {
+     "date": "2026-07-16",
+     "price": 3660
     }
    ],
    "finalVerdict": "빗나감"
@@ -5406,6 +5760,10 @@
     {
      "date": "2026-07-15",
      "price": 5680
+    },
+    {
+     "date": "2026-07-16",
+     "price": 5930
     }
    ],
    "finalVerdict": "빗나감"
@@ -5457,6 +5815,10 @@
     {
      "date": "2026-07-15",
      "price": 9060
+    },
+    {
+     "date": "2026-07-16",
+     "price": 9080
     }
    ],
    "finalVerdict": "적중"
@@ -5509,6 +5871,10 @@
     {
      "date": "2026-07-15",
      "price": 15200
+    },
+    {
+     "date": "2026-07-16",
+     "price": 17330
     }
    ],
    "finalVerdict": "적중"
@@ -5560,6 +5926,10 @@
     {
      "date": "2026-07-15",
      "price": 6810
+    },
+    {
+     "date": "2026-07-16",
+     "price": 7210
     }
    ],
    "finalVerdict": "빗나감"
@@ -5611,6 +5981,10 @@
     {
      "date": "2026-07-15",
      "price": 8340
+    },
+    {
+     "date": "2026-07-16",
+     "price": 8880
     }
    ],
    "finalVerdict": "중립"
@@ -5671,6 +6045,10 @@
     {
      "date": "2026-07-15",
      "price": 486
+    },
+    {
+     "date": "2026-07-16",
+     "price": 500
     }
    ],
    "finalVerdict": "빗나감"
@@ -5718,6 +6096,10 @@
     {
      "date": "2026-07-15",
      "price": 37700
+    },
+    {
+     "date": "2026-07-16",
+     "price": 41950
     }
    ],
    "finalVerdict": "빗나감"
@@ -5765,6 +6147,10 @@
     {
      "date": "2026-07-15",
      "price": 3345
+    },
+    {
+     "date": "2026-07-16",
+     "price": 3485
     }
    ],
    "finalVerdict": "중립"
@@ -5813,6 +6199,10 @@
     {
      "date": "2026-07-15",
      "price": 15310
+    },
+    {
+     "date": "2026-07-16",
+     "price": 16350
     }
    ],
    "finalVerdict": "빗나감"
@@ -5873,6 +6263,10 @@
     {
      "date": "2026-07-15",
      "price": 5050
+    },
+    {
+     "date": "2026-07-16",
+     "price": 5310
     }
    ],
    "finalVerdict": "중립"
@@ -5920,6 +6314,10 @@
     {
      "date": "2026-07-15",
      "price": 25250
+    },
+    {
+     "date": "2026-07-16",
+     "price": 28400
     }
    ],
    "finalVerdict": "중립"
@@ -5964,6 +6362,10 @@
     {
      "date": "2026-07-15",
      "price": 11890
+    },
+    {
+     "date": "2026-07-16",
+     "price": 12730
     }
    ],
    "finalVerdict": "빗나감"
@@ -6012,6 +6414,10 @@
     {
      "date": "2026-07-15",
      "price": 9300
+    },
+    {
+     "date": "2026-07-16",
+     "price": 9280
     }
    ],
    "finalVerdict": "빗나감"
@@ -6059,6 +6465,10 @@
     {
      "date": "2026-07-15",
      "price": 195500
+    },
+    {
+     "date": "2026-07-16",
+     "price": 222500
     }
    ],
    "finalVerdict": "빗나감"
@@ -6106,6 +6516,10 @@
     {
      "date": "2026-07-15",
      "price": 156500
+    },
+    {
+     "date": "2026-07-16",
+     "price": 167100
     }
    ],
    "finalVerdict": "중립"
@@ -6121,7 +6535,18 @@
    ],
    "theme": "보안/사이버",
    "status": "pending",
-   "checks": [],
+   "checks": [
+    {
+     "horizon": "D+3",
+     "date": "2026-07-15",
+     "price": 12270,
+     "changePct": 2.16,
+     "indexPct": -0.96,
+     "excessPct": 3.12,
+     "index": "KOSDAQ",
+     "verdict": "중립"
+    }
+   ],
    "flagPrice": 12010,
    "priceLog": [
     {
@@ -6143,8 +6568,13 @@
     {
      "date": "2026-07-15",
      "price": 11800
+    },
+    {
+     "date": "2026-07-16",
+     "price": 12270
     }
-   ]
+   ],
+   "finalVerdict": "중립"
   },
   {
    "name": "오비고(352910)",
@@ -6156,7 +6586,18 @@
    ],
    "theme": "SDV/모빌리티SW",
    "status": "pending",
-   "checks": [],
+   "checks": [
+    {
+     "horizon": "D+3",
+     "date": "2026-07-15",
+     "price": 3725,
+     "changePct": 2.48,
+     "indexPct": -0.96,
+     "excessPct": 3.43,
+     "index": "KOSDAQ",
+     "verdict": "중립"
+    }
+   ],
    "flagPrice": 3635,
    "priceLog": [
     {
@@ -6178,8 +6619,13 @@
     {
      "date": "2026-07-15",
      "price": 3625
+    },
+    {
+     "date": "2026-07-16",
+     "price": 3725
     }
-   ]
+   ],
+   "finalVerdict": "중립"
   },
   {
    "name": "에이피알(278470)",
@@ -6192,7 +6638,18 @@
    ],
    "theme": "K뷰티 수출",
    "status": "pending",
-   "checks": [],
+   "checks": [
+    {
+     "horizon": "D+3",
+     "date": "2026-07-15",
+     "price": 385500,
+     "changePct": 5.47,
+     "indexPct": -2.56,
+     "excessPct": 8.03,
+     "index": "KOSPI",
+     "verdict": "적중"
+    }
+   ],
    "flagPrice": 365500,
    "priceLog": [
     {
@@ -6214,8 +6671,13 @@
     {
      "date": "2026-07-15",
      "price": 375000
+    },
+    {
+     "date": "2026-07-16",
+     "price": 385500
     }
-   ]
+   ],
+   "finalVerdict": "적중"
   },
   {
    "name": "씨메스(475400)",
@@ -6227,7 +6689,18 @@
    ],
    "theme": "로봇/휴머노이드",
    "status": "pending",
-   "checks": [],
+   "checks": [
+    {
+     "horizon": "D+3",
+     "date": "2026-07-15",
+     "price": 15970,
+     "changePct": -1.3,
+     "indexPct": -0.96,
+     "excessPct": -0.34,
+     "index": "KOSDAQ",
+     "verdict": "빗나감"
+    }
+   ],
    "flagPrice": 16180,
    "priceLog": [
     {
@@ -6249,8 +6722,13 @@
     {
      "date": "2026-07-15",
      "price": 15250
+    },
+    {
+     "date": "2026-07-16",
+     "price": 15970
     }
-   ]
+   ],
+   "finalVerdict": "빗나감"
   },
   {
    "name": "모티브링크(464440)",
@@ -6263,14 +6741,26 @@
    ],
    "theme": "전장/EV부품",
    "status": "pending",
-   "checks": [],
+   "checks": [
+    {
+     "horizon": "D+3",
+     "date": "2026-06-16",
+     "price": 2110,
+     "changePct": 0.0,
+     "indexPct": -2.56,
+     "excessPct": 2.56,
+     "index": "KOSPI",
+     "verdict": "중립"
+    }
+   ],
    "flagPrice": 2110,
    "priceLog": [
     {
      "date": "2026-06-16",
      "price": 2110
     }
-   ]
+   ],
+   "finalVerdict": "중립"
   },
   {
    "name": "심텍(222800)",
@@ -6282,7 +6772,18 @@
    ],
    "theme": "반도체기판",
    "status": "pending",
-   "checks": [],
+   "checks": [
+    {
+     "horizon": "D+3",
+     "date": "2026-07-15",
+     "price": 121600,
+     "changePct": -0.9,
+     "indexPct": -0.96,
+     "excessPct": 0.06,
+     "index": "KOSDAQ",
+     "verdict": "중립"
+    }
+   ],
    "flagPrice": 122700,
    "priceLog": [
     {
@@ -6300,8 +6801,13 @@
     {
      "date": "2026-07-15",
      "price": 108000
+    },
+    {
+     "date": "2026-07-16",
+     "price": 121600
     }
-   ]
+   ],
+   "finalVerdict": "중립"
   },
   {
    "name": "신테카바이오(226330)",
@@ -6313,7 +6819,18 @@
    ],
    "theme": "AI신약",
    "status": "pending",
-   "checks": [],
+   "checks": [
+    {
+     "horizon": "D+3",
+     "date": "2026-07-15",
+     "price": 1518,
+     "changePct": -18.91,
+     "indexPct": -0.96,
+     "excessPct": -17.95,
+     "index": "KOSDAQ",
+     "verdict": "적중"
+    }
+   ],
    "flagPrice": 1872,
    "priceLog": [
     {
@@ -6331,8 +6848,13 @@
     {
      "date": "2026-07-15",
      "price": 1540
+    },
+    {
+     "date": "2026-07-16",
+     "price": 1518
     }
-   ]
+   ],
+   "finalVerdict": "적중"
   },
   {
    "name": "세나테크놀로지(463480)",
@@ -6344,7 +6866,18 @@
    ],
    "theme": "통신기기",
    "status": "pending",
-   "checks": [],
+   "checks": [
+    {
+     "horizon": "D+3",
+     "date": "2026-07-15",
+     "price": 4500,
+     "changePct": -1.32,
+     "indexPct": -0.96,
+     "excessPct": -0.36,
+     "index": "KOSDAQ",
+     "verdict": "중립"
+    }
+   ],
    "flagPrice": 4560,
    "priceLog": [
     {
@@ -6362,8 +6895,13 @@
     {
      "date": "2026-07-15",
      "price": 4300
+    },
+    {
+     "date": "2026-07-16",
+     "price": 4500
     }
-   ]
+   ],
+   "finalVerdict": "중립"
   },
   {
    "name": "엑시콘(092870)",
@@ -6375,7 +6913,18 @@
    ],
    "theme": "반도체소재/장비",
    "status": "pending",
-   "checks": [],
+   "checks": [
+    {
+     "horizon": "D+3",
+     "date": "2026-07-15",
+     "price": 18260,
+     "changePct": 3.69,
+     "indexPct": -0.96,
+     "excessPct": 4.65,
+     "index": "KOSDAQ",
+     "verdict": "중립"
+    }
+   ],
    "flagPrice": 17610,
    "priceLog": [
     {
@@ -6393,8 +6942,13 @@
     {
      "date": "2026-07-15",
      "price": 15750
+    },
+    {
+     "date": "2026-07-16",
+     "price": 18260
     }
-   ]
+   ],
+   "finalVerdict": "중립"
   },
   {
    "name": "한성기업(003680)",
@@ -6406,7 +6960,18 @@
    ],
    "theme": "기타",
    "status": "pending",
-   "checks": [],
+   "checks": [
+    {
+     "horizon": "D+3",
+     "date": "2026-07-15",
+     "price": 14520,
+     "changePct": 71.63,
+     "indexPct": -2.56,
+     "excessPct": 74.19,
+     "index": "KOSPI",
+     "verdict": "빗나감"
+    }
+   ],
    "flagPrice": 8460,
    "priceLog": [
     {
@@ -6424,8 +6989,13 @@
     {
      "date": "2026-07-15",
      "price": 11170
+    },
+    {
+     "date": "2026-07-16",
+     "price": 14520
     }
-   ]
+   ],
+   "finalVerdict": "빗나감"
   },
   {
    "name": "나우로보틱스(459510)",
@@ -6439,7 +7009,18 @@
    ],
    "theme": "로봇/휴머노이드",
    "status": "pending",
-   "checks": [],
+   "checks": [
+    {
+     "horizon": "D+3",
+     "date": "2026-07-15",
+     "price": 12730,
+     "changePct": -5.56,
+     "indexPct": -0.96,
+     "excessPct": -4.61,
+     "index": "KOSDAQ",
+     "verdict": "빗나감"
+    }
+   ],
    "flagPrice": 13480,
    "priceLog": [
     {
@@ -6457,8 +7038,13 @@
     {
      "date": "2026-07-15",
      "price": 11890
+    },
+    {
+     "date": "2026-07-16",
+     "price": 12730
     }
-   ]
+   ],
+   "finalVerdict": "빗나감"
   },
   {
    "name": "대동기어(008830)",
@@ -6471,7 +7057,18 @@
    ],
    "theme": "로봇/휴머노이드",
    "status": "pending",
-   "checks": [],
+   "checks": [
+    {
+     "horizon": "D+3",
+     "date": "2026-07-15",
+     "price": 9280,
+     "changePct": -10.68,
+     "indexPct": -0.96,
+     "excessPct": -9.73,
+     "index": "KOSDAQ",
+     "verdict": "빗나감"
+    }
+   ],
    "flagPrice": 10390,
    "priceLog": [
     {
@@ -6489,8 +7086,13 @@
     {
      "date": "2026-07-15",
      "price": 9300
+    },
+    {
+     "date": "2026-07-16",
+     "price": 9280
     }
-   ]
+   ],
+   "finalVerdict": "빗나감"
   },
   {
    "name": "코아시아씨엠(196450)",
@@ -6503,7 +7105,18 @@
    ],
    "theme": "로봇/휴머노이드",
    "status": "pending",
-   "checks": [],
+   "checks": [
+    {
+     "horizon": "D+3",
+     "date": "2026-07-15",
+     "price": 876,
+     "changePct": -6.31,
+     "indexPct": -0.96,
+     "excessPct": -5.35,
+     "index": "KOSDAQ",
+     "verdict": "빗나감"
+    }
+   ],
    "flagPrice": 935,
    "priceLog": [
     {
@@ -6521,8 +7134,13 @@
     {
      "date": "2026-07-15",
      "price": 859
+    },
+    {
+     "date": "2026-07-16",
+     "price": 876
     }
-   ]
+   ],
+   "finalVerdict": "빗나감"
   },
   {
    "name": "브이원텍(251630)",
@@ -6534,7 +7152,18 @@
    ],
    "theme": "로봇/휴머노이드",
    "status": "pending",
-   "checks": [],
+   "checks": [
+    {
+     "horizon": "D+3",
+     "date": "2026-07-15",
+     "price": 3485,
+     "changePct": -1.55,
+     "indexPct": -0.96,
+     "excessPct": -0.6,
+     "index": "KOSDAQ",
+     "verdict": "빗나감"
+    }
+   ],
    "flagPrice": 3540,
    "priceLog": [
     {
@@ -6552,8 +7181,13 @@
     {
      "date": "2026-07-15",
      "price": 3345
+    },
+    {
+     "date": "2026-07-16",
+     "price": 3485
     }
-   ]
+   ],
+   "finalVerdict": "빗나감"
   },
   {
    "name": "웨이버스(336060)",
@@ -6565,7 +7199,18 @@
    ],
    "theme": "AI소프트웨어",
    "status": "pending",
-   "checks": [],
+   "checks": [
+    {
+     "horizon": "D+3",
+     "date": "2026-07-15",
+     "price": 590,
+     "changePct": 0.0,
+     "indexPct": -0.96,
+     "excessPct": 0.96,
+     "index": "KOSDAQ",
+     "verdict": "중립"
+    }
+   ],
    "flagPrice": 590,
    "priceLog": [
     {
@@ -6583,8 +7228,13 @@
     {
      "date": "2026-07-15",
      "price": 590
+    },
+    {
+     "date": "2026-07-16",
+     "price": 590
     }
-   ]
+   ],
+   "finalVerdict": "중립"
   },
   {
    "name": "이엠앤아이(481070)",
@@ -6596,7 +7246,18 @@
    ],
    "theme": "로봇/휴머노이드",
    "status": "pending",
-   "checks": [],
+   "checks": [
+    {
+     "horizon": "D+3",
+     "date": "2026-07-15",
+     "price": 15870,
+     "changePct": -5.54,
+     "indexPct": -0.96,
+     "excessPct": -4.58,
+     "index": "KOSDAQ",
+     "verdict": "빗나감"
+    }
+   ],
    "flagPrice": 16800,
    "priceLog": [
     {
@@ -6614,8 +7275,13 @@
     {
      "date": "2026-07-15",
      "price": 16050
+    },
+    {
+     "date": "2026-07-16",
+     "price": 15870
     }
-   ]
+   ],
+   "finalVerdict": "빗나감"
   },
   {
    "name": "아스트(067390)",
@@ -6627,7 +7293,18 @@
    ],
    "theme": "항공/방산",
    "status": "pending",
-   "checks": [],
+   "checks": [
+    {
+     "horizon": "D+3",
+     "date": "2026-07-15",
+     "price": 500,
+     "changePct": -0.2,
+     "indexPct": -0.96,
+     "excessPct": 0.76,
+     "index": "KOSDAQ",
+     "verdict": "중립"
+    }
+   ],
    "flagPrice": 501,
    "priceLog": [
     {
@@ -6645,8 +7322,13 @@
     {
      "date": "2026-07-15",
      "price": 486
+    },
+    {
+     "date": "2026-07-16",
+     "price": 500
     }
-   ]
+   ],
+   "finalVerdict": "중립"
   },
   {
    "name": "모티브링크(464440)",
@@ -6658,14 +7340,26 @@
    ],
    "theme": "전장/전력부품",
    "status": "pending",
-   "checks": [],
+   "checks": [
+    {
+     "horizon": "D+3",
+     "date": "2026-06-16",
+     "price": 2110,
+     "changePct": 0.0,
+     "indexPct": -2.56,
+     "excessPct": 2.56,
+     "index": "KOSPI",
+     "verdict": "중립"
+    }
+   ],
    "flagPrice": 2110,
    "priceLog": [
     {
      "date": "2026-06-16",
      "price": 2110
     }
-   ]
+   ],
+   "finalVerdict": "중립"
   },
   {
    "name": "심텍(222800)",
@@ -6677,7 +7371,18 @@
    ],
    "theme": "반도체소재/장비",
    "status": "pending",
-   "checks": [],
+   "checks": [
+    {
+     "horizon": "D+3",
+     "date": "2026-07-15",
+     "price": 121600,
+     "changePct": -0.9,
+     "indexPct": -0.96,
+     "excessPct": 0.06,
+     "index": "KOSDAQ",
+     "verdict": "중립"
+    }
+   ],
    "flagPrice": 122700,
    "priceLog": [
     {
@@ -6695,8 +7400,13 @@
     {
      "date": "2026-07-15",
      "price": 108000
+    },
+    {
+     "date": "2026-07-16",
+     "price": 121600
     }
-   ]
+   ],
+   "finalVerdict": "중립"
   },
   {
    "name": "삼현(437730)",
@@ -6708,7 +7418,18 @@
    ],
    "theme": "로봇/휴머노이드",
    "status": "pending",
-   "checks": [],
+   "checks": [
+    {
+     "horizon": "D+3",
+     "date": "2026-07-15",
+     "price": 31500,
+     "changePct": -7.62,
+     "indexPct": -0.96,
+     "excessPct": -6.67,
+     "index": "KOSDAQ",
+     "verdict": "적중"
+    }
+   ],
    "flagPrice": 34100,
    "priceLog": [
     {
@@ -6726,8 +7447,13 @@
     {
      "date": "2026-07-15",
      "price": 30050
+    },
+    {
+     "date": "2026-07-16",
+     "price": 31500
     }
-   ]
+   ],
+   "finalVerdict": "적중"
   },
   {
    "name": "에브리봇(270660)",
@@ -6739,7 +7465,18 @@
    ],
    "theme": "로봇/휴머노이드",
    "status": "pending",
-   "checks": [],
+   "checks": [
+    {
+     "horizon": "D+3",
+     "date": "2026-07-15",
+     "price": 10690,
+     "changePct": -4.47,
+     "indexPct": -0.96,
+     "excessPct": -3.51,
+     "index": "KOSDAQ",
+     "verdict": "중립"
+    }
+   ],
    "flagPrice": 11190,
    "priceLog": [
     {
@@ -6757,8 +7494,13 @@
     {
      "date": "2026-07-15",
      "price": 10140
+    },
+    {
+     "date": "2026-07-16",
+     "price": 10690
     }
-   ]
+   ],
+   "finalVerdict": "중립"
   },
   {
    "name": "신테카바이오(226330)",
@@ -6770,7 +7512,18 @@
    ],
    "theme": "바이오/의료",
    "status": "pending",
-   "checks": [],
+   "checks": [
+    {
+     "horizon": "D+3",
+     "date": "2026-07-15",
+     "price": 1518,
+     "changePct": -18.91,
+     "indexPct": -0.96,
+     "excessPct": -17.95,
+     "index": "KOSDAQ",
+     "verdict": "적중"
+    }
+   ],
    "flagPrice": 1872,
    "priceLog": [
     {
@@ -6788,8 +7541,13 @@
     {
      "date": "2026-07-15",
      "price": 1540
+    },
+    {
+     "date": "2026-07-16",
+     "price": 1518
     }
-   ]
+   ],
+   "finalVerdict": "적중"
   },
   {
    "name": "세나테크놀로지(463480)",
@@ -6801,7 +7559,18 @@
    ],
    "theme": "기타",
    "status": "pending",
-   "checks": [],
+   "checks": [
+    {
+     "horizon": "D+3",
+     "date": "2026-07-15",
+     "price": 4500,
+     "changePct": -1.32,
+     "indexPct": -0.96,
+     "excessPct": -0.36,
+     "index": "KOSDAQ",
+     "verdict": "중립"
+    }
+   ],
    "flagPrice": 4560,
    "priceLog": [
     {
@@ -6819,8 +7588,13 @@
     {
      "date": "2026-07-15",
      "price": 4300
+    },
+    {
+     "date": "2026-07-16",
+     "price": 4500
     }
-   ]
+   ],
+   "finalVerdict": "중립"
   },
   {
    "name": "프로티나(339950)",
@@ -6832,7 +7606,18 @@
    ],
    "theme": "바이오/의료",
    "status": "pending",
-   "checks": [],
+   "checks": [
+    {
+     "horizon": "D+3",
+     "date": "2026-07-15",
+     "price": 2730,
+     "changePct": -0.73,
+     "indexPct": -0.96,
+     "excessPct": 0.23,
+     "index": "KOSDAQ",
+     "verdict": "중립"
+    }
+   ],
    "flagPrice": 2750,
    "priceLog": [
     {
@@ -6850,8 +7635,13 @@
     {
      "date": "2026-07-15",
      "price": 2690
+    },
+    {
+     "date": "2026-07-16",
+     "price": 2730
     }
-   ]
+   ],
+   "finalVerdict": "중립"
   },
   {
    "name": "코스모로보틱스(464280)",
@@ -6864,7 +7654,18 @@
    ],
    "theme": "로봇/휴머노이드",
    "status": "pending",
-   "checks": [],
+   "checks": [
+    {
+     "horizon": "D+3",
+     "date": "2026-07-15",
+     "price": 5830,
+     "changePct": 0.34,
+     "indexPct": -0.96,
+     "excessPct": 1.3,
+     "index": "KOSDAQ",
+     "verdict": "중립"
+    }
+   ],
    "flagPrice": 5810,
    "priceLog": [
     {
@@ -6882,8 +7683,13 @@
     {
      "date": "2026-07-15",
      "price": 5420
+    },
+    {
+     "date": "2026-07-16",
+     "price": 5830
     }
-   ]
+   ],
+   "finalVerdict": "중립"
   },
   {
    "name": "한화오션(042660)",
@@ -6895,7 +7701,18 @@
    ],
    "theme": "방산",
    "status": "pending",
-   "checks": [],
+   "checks": [
+    {
+     "horizon": "D+3",
+     "date": "2026-07-15",
+     "price": 82000,
+     "changePct": 0.86,
+     "indexPct": -2.56,
+     "excessPct": 3.42,
+     "index": "KOSPI",
+     "verdict": "중립"
+    }
+   ],
    "flagPrice": 81300,
    "priceLog": [
     {
@@ -6913,8 +7730,13 @@
     {
      "date": "2026-07-15",
      "price": 76800
+    },
+    {
+     "date": "2026-07-16",
+     "price": 82000
     }
-   ]
+   ],
+   "finalVerdict": "중립"
   },
   {
    "name": "한화에어로스페이스(012450)",
@@ -6926,7 +7748,18 @@
    ],
    "theme": "방산",
    "status": "pending",
-   "checks": [],
+   "checks": [
+    {
+     "horizon": "D+3",
+     "date": "2026-07-15",
+     "price": 929000,
+     "changePct": -3.93,
+     "indexPct": -2.56,
+     "excessPct": -1.37,
+     "index": "KOSPI",
+     "verdict": "중립"
+    }
+   ],
    "flagPrice": 967000,
    "priceLog": [
     {
@@ -6944,8 +7777,13 @@
     {
      "date": "2026-07-15",
      "price": 872000
+    },
+    {
+     "date": "2026-07-16",
+     "price": 929000
     }
-   ]
+   ],
+   "finalVerdict": "중립"
   },
   {
    "name": "액트로(290740)",
@@ -6959,7 +7797,18 @@
    ],
    "theme": "로봇/휴머노이드",
    "status": "pending",
-   "checks": [],
+   "checks": [
+    {
+     "horizon": "D+3",
+     "date": "2026-07-15",
+     "price": 8270,
+     "changePct": 0.85,
+     "indexPct": -0.96,
+     "excessPct": 1.81,
+     "index": "KOSDAQ",
+     "verdict": "중립"
+    }
+   ],
    "flagPrice": 8200,
    "priceLog": [
     {
@@ -6977,8 +7826,13 @@
     {
      "date": "2026-07-15",
      "price": 7640
+    },
+    {
+     "date": "2026-07-16",
+     "price": 8270
     }
-   ]
+   ],
+   "finalVerdict": "중립"
   },
   {
    "name": "우림피티에스(101170)",
@@ -6991,7 +7845,18 @@
    ],
    "theme": "로봇/휴머노이드",
    "status": "pending",
-   "checks": [],
+   "checks": [
+    {
+     "horizon": "D+3",
+     "date": "2026-07-15",
+     "price": 7300,
+     "changePct": -4.33,
+     "indexPct": -0.96,
+     "excessPct": -3.37,
+     "index": "KOSDAQ",
+     "verdict": "빗나감"
+    }
+   ],
    "flagPrice": 7630,
    "priceLog": [
     {
@@ -7009,8 +7874,13 @@
     {
      "date": "2026-07-15",
      "price": 6740
+    },
+    {
+     "date": "2026-07-16",
+     "price": 7300
     }
-   ]
+   ],
+   "finalVerdict": "빗나감"
   },
   {
    "name": "웨이버스(336060)",
@@ -7023,7 +7893,18 @@
    ],
    "theme": "기타",
    "status": "pending",
-   "checks": [],
+   "checks": [
+    {
+     "horizon": "D+3",
+     "date": "2026-07-15",
+     "price": 590,
+     "changePct": 0.0,
+     "indexPct": -0.96,
+     "excessPct": 0.96,
+     "index": "KOSDAQ",
+     "verdict": "중립"
+    }
+   ],
    "flagPrice": 590,
    "priceLog": [
     {
@@ -7041,8 +7922,13 @@
     {
      "date": "2026-07-15",
      "price": 590
+    },
+    {
+     "date": "2026-07-16",
+     "price": 590
     }
-   ]
+   ],
+   "finalVerdict": "중립"
   },
   {
    "name": "에스비비테크(389500)",
@@ -7055,7 +7941,18 @@
    ],
    "theme": "로봇/휴머노이드",
    "status": "pending",
-   "checks": [],
+   "checks": [
+    {
+     "horizon": "D+3",
+     "date": "2026-07-15",
+     "price": 33850,
+     "changePct": -5.31,
+     "indexPct": -0.96,
+     "excessPct": -4.36,
+     "index": "KOSDAQ",
+     "verdict": "빗나감"
+    }
+   ],
    "flagPrice": 35750,
    "priceLog": [
     {
@@ -7073,8 +7970,13 @@
     {
      "date": "2026-07-15",
      "price": 31250
+    },
+    {
+     "date": "2026-07-16",
+     "price": 33850
     }
-   ]
+   ],
+   "finalVerdict": "빗나감"
   },
   {
    "name": "에스엘(005850)",
@@ -7087,7 +7989,18 @@
    ],
    "theme": "로봇/휴머노이드",
    "status": "pending",
-   "checks": [],
+   "checks": [
+    {
+     "horizon": "D+3",
+     "date": "2026-07-15",
+     "price": 54900,
+     "changePct": -1.44,
+     "indexPct": -2.56,
+     "excessPct": 1.13,
+     "index": "KOSPI",
+     "verdict": "중립"
+    }
+   ],
    "flagPrice": 55700,
    "priceLog": [
     {
@@ -7105,8 +8018,13 @@
     {
      "date": "2026-07-15",
      "price": 52900
+    },
+    {
+     "date": "2026-07-16",
+     "price": 54900
     }
-   ]
+   ],
+   "finalVerdict": "중립"
   },
   {
    "name": "토모큐브",
@@ -7144,6 +8062,10 @@
     {
      "date": "2026-07-15",
      "price": 51900
+    },
+    {
+     "date": "2026-07-16",
+     "price": 56500
     }
    ]
   },
@@ -7185,6 +8107,10 @@
     {
      "date": "2026-07-15",
      "price": 71300
+    },
+    {
+     "date": "2026-07-16",
+     "price": 79900
     }
    ]
   },
@@ -7226,6 +8152,10 @@
     {
      "date": "2026-07-15",
      "price": 127100
+    },
+    {
+     "date": "2026-07-16",
+     "price": 142700
     }
    ]
   },
@@ -7254,6 +8184,10 @@
     {
      "date": "2026-07-15",
      "price": 4210
+    },
+    {
+     "date": "2026-07-16",
+     "price": 4475
     }
    ]
   },
@@ -7278,6 +8212,10 @@
     {
      "date": "2026-07-15",
      "price": 15250
+    },
+    {
+     "date": "2026-07-16",
+     "price": 15970
     }
    ]
   },
@@ -7302,6 +8240,10 @@
     {
      "date": "2026-07-15",
      "price": 207500
+    },
+    {
+     "date": "2026-07-16",
+     "price": 269500
     }
    ]
   },
@@ -7326,35 +8268,79 @@
     {
      "date": "2026-07-15",
      "price": 44850
+    },
+    {
+     "date": "2026-07-16",
+     "price": 45950
+    }
+   ]
+  },
+  {
+   "name": "자람테크놀로지(389020)",
+   "type": "leading",
+   "market": "韓",
+   "flagDate": "2026-07-15",
+   "signals": [
+    "XGS-PON ASIC 2차재발주",
+    "2주내반복수주"
+   ],
+   "theme": "AI반도체설계(팹리스/IP)",
+   "status": "pending",
+   "checks": [],
+   "flagPrice": 22450,
+   "priceLog": [
+    {
+     "date": "2026-07-16",
+     "price": 22450
+    }
+   ]
+  },
+  {
+   "name": "SK하이닉스(000660)",
+   "type": "warning",
+   "market": "韓",
+   "flagDate": "2026-07-15",
+   "signals": [
+    "ADR27%폭등후발갭업",
+    "이미반영"
+   ],
+   "theme": "반도체(HBM)",
+   "status": "pending",
+   "checks": [],
+   "flagPrice": 2082000,
+   "priceLog": [
+    {
+     "date": "2026-07-16",
+     "price": 2082000
     }
    ]
   }
  ],
  "stats": {
-  "verified": 96,
-  "hit": 17,
-  "neutral": 27,
-  "miss": 52,
-  "hitRate": 17.7,
-  "avgD3ChangePct": -0.44,
-  "pending": 47,
-  "total": 143,
+  "verified": 128,
+  "hit": 21,
+  "neutral": 46,
+  "miss": 61,
+  "hitRate": 16.4,
+  "avgD3ChangePct": -0.11,
+  "pending": 17,
+  "total": 145,
   "byType": {
    "leading": {
-    "verified": 56,
+    "verified": 67,
     "hit": 10,
-    "neutral": 15,
-    "miss": 31,
-    "hitRate": 17.9,
-    "avgD3ChangePct": -1.34
+    "neutral": 19,
+    "miss": 38,
+    "hitRate": 14.9,
+    "avgD3ChangePct": -1.48
    },
    "discovery": {
-    "verified": 34,
-    "hit": 6,
-    "neutral": 8,
-    "miss": 20,
-    "hitRate": 17.6,
-    "avgD3ChangePct": 1.15
+    "verified": 42,
+    "hit": 7,
+    "neutral": 14,
+    "miss": 21,
+    "hitRate": 16.7,
+    "avgD3ChangePct": 1.44
    }
   }
  }
