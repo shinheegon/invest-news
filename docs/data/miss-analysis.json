@@ -228,13 +228,13 @@
   },
   {
    "date": "2026-07-15",
-   "resolved": 90,
-   "missRate": 55.6,
+   "resolved": 109,
+   "missRate": 52.3,
    "causeShares": {
-    "weak_signal": 72.0,
-    "theme_headwind": 12.0,
-    "idiosyncratic": 10.0,
-    "macro_riskoff": 6.0
+    "weak_signal": 64.9,
+    "idiosyncratic": 19.3,
+    "macro_riskoff": 12.3,
+    "theme_headwind": 3.5
    }
   }
  ],

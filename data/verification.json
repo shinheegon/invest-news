@@ -3371,7 +3371,7 @@
    "finalVerdict": "중립"
   },
   {
-   "name": "한국피아이엠(448900)",
+   "name": "한국피아이엠(448970)",
    "type": "leading",
    "market": "韓",
    "flagDate": "2026-07-04",
@@ -8331,6 +8331,10 @@
     {
      "date": "2026-07-14",
      "price": 21100
+    },
+    {
+     "date": "2026-07-15",
+     "price": 22650
     }
    ]
   },
@@ -8350,6 +8354,10 @@
     {
      "date": "2026-07-14",
      "price": 14480
+    },
+    {
+     "date": "2026-07-15",
+     "price": 15310
     }
    ]
   },
@@ -8369,6 +8377,68 @@
     {
      "date": "2026-07-14",
      "price": 2435
+    },
+    {
+     "date": "2026-07-15",
+     "price": 2530
+    }
+   ]
+  },
+  {
+   "name": "글로벌텍스프리(204620)",
+   "type": "discovery",
+   "market": "韓",
+   "flagDate": "2026-07-15",
+   "signals": [
+    "사상최대 월매출(턴어라운드)"
+   ],
+   "theme": "여행/소비회복",
+   "status": "pending",
+   "checks": [],
+   "flagPrice": 4830,
+   "priceLog": [
+    {
+     "date": "2026-07-15",
+     "price": 4830
+    }
+   ]
+  },
+  {
+   "name": "케일럼(258610)",
+   "type": "discovery",
+   "market": "韓",
+   "flagDate": "2026-07-15",
+   "signals": [
+    "항공엔진 슈퍼사이클",
+    "NADCAP 4대 인증"
+   ],
+   "theme": "우주/방산",
+   "status": "pending",
+   "checks": [],
+   "flagPrice": 1044,
+   "priceLog": [
+    {
+     "date": "2026-07-15",
+     "price": 1044
+    }
+   ]
+  },
+  {
+   "name": "HLB(028300)",
+   "type": "warning",
+   "market": "韓",
+   "flagDate": "2026-07-15",
+   "signals": [
+    "상한가 급등(재료 즉시 반영)"
+   ],
+   "theme": "바이오/의료",
+   "status": "pending",
+   "checks": [],
+   "flagPrice": 34700,
+   "priceLog": [
+    {
+     "date": "2026-07-15",
+     "price": 34700
     }
    ]
   }

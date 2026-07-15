@@ -962,7 +962,7 @@
     "2026-07-16": 6650
    }
   },
-  "한국피아이엠(448900)": {
+  "한국피아이엠(448970)": {
    "market": "韓",
    "type": "leading",
    "firstSeen": "2026-07-04",
@@ -2252,11 +2252,12 @@
    "type": "leading",
    "firstSeen": "2026-07-14",
    "firstPrice": 21100,
-   "lastPrice": 21100,
-   "changePct": 0.0,
-   "points": 1,
+   "lastPrice": 22650,
+   "changePct": 7.35,
+   "points": 2,
    "series": {
-    "2026-07-14": 21100
+    "2026-07-14": 21100,
+    "2026-07-15": 22650
    }
   },
   "우진엔텍(457550)": {
@@ -2264,11 +2265,12 @@
    "type": "discovery",
    "firstSeen": "2026-07-14",
    "firstPrice": 14480,
-   "lastPrice": 14480,
-   "changePct": 0.0,
-   "points": 1,
+   "lastPrice": 15310,
+   "changePct": 5.73,
+   "points": 2,
    "series": {
-    "2026-07-14": 14480
+    "2026-07-14": 14480,
+    "2026-07-15": 15310
    }
   },
   "로킷헬스케어(419120)": {
@@ -2276,11 +2278,48 @@
    "type": "warning",
    "firstSeen": "2026-07-14",
    "firstPrice": 2435,
-   "lastPrice": 2435,
+   "lastPrice": 2530,
+   "changePct": 3.9,
+   "points": 2,
+   "series": {
+    "2026-07-14": 2435,
+    "2026-07-15": 2530
+   }
+  },
+  "글로벌텍스프리(204620)": {
+   "market": "韓",
+   "type": "discovery",
+   "firstSeen": "2026-07-15",
+   "firstPrice": 4830,
+   "lastPrice": 4830,
    "changePct": 0.0,
    "points": 1,
    "series": {
-    "2026-07-14": 2435
+    "2026-07-15": 4830
+   }
+  },
+  "케일럼(258610)": {
+   "market": "韓",
+   "type": "discovery",
+   "firstSeen": "2026-07-15",
+   "firstPrice": 1044,
+   "lastPrice": 1044,
+   "changePct": 0.0,
+   "points": 1,
+   "series": {
+    "2026-07-15": 1044
+   }
+  },
+  "HLB(028300)": {
+   "market": "韓",
+   "type": "warning",
+   "firstSeen": "2026-07-15",
+   "firstPrice": 34700,
+   "lastPrice": 34700,
+   "changePct": 0.0,
+   "points": 1,
+   "series": {
+    "2026-07-15": 34700
    }
   }
  }
