@@ -236,6 +236,17 @@
     "macro_riskoff": 12.3,
     "theme_headwind": 3.5
    }
+  },
+  {
+   "date": "2026-07-16",
+   "resolved": 109,
+   "missRate": 52.3,
+   "causeShares": {
+    "weak_signal": 64.9,
+    "idiosyncratic": 19.3,
+    "macro_riskoff": 12.3,
+    "theme_headwind": 3.5
+   }
   }
  ],
  "develop": "직전(2026-07-15) 대비 빗나감률 56.7%→54.1% (-2.6p). 최다 원인=‘신호 약함(구체 촉발재 없음)’. 필터에 반영됨."
