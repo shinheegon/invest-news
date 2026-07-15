@@ -1,17 +1,15 @@
 {
-  "updatedAt": "2026-07-15T07:15:00+09:00", "session": "AM",
-  "stock_fng": { "value": 44, "label": "Fear", "source": "https://www.cnn.com/markets/fear-and-greed" },
+  "updatedAt": "2026-07-15T20:55:00+09:00", "session": "PM",
+  "stock_fng": { "value": 43.3, "label": "Fear", "source": "https://www.benzinga.com/markets/market-summary/26/07/60460896/nasdaq-gains-over-200-points-following-inflation-report-investor-sentiment-improves-greed-index-remains-in-fear-zone" },
   "indices": [
-    { "name": "코스피", "value": "6,856.83", "change": "+0.73% (+49.90p, 7/14 마감)", "source": "https://view.asiae.co.kr/article/2026071415375817039" },
-    { "name": "코스닥", "value": "783.98", "change": "-1.92% (-15.38p, 매도사이드카 발동, 7/14 마감)", "source": "https://view.asiae.co.kr/article/2026071415381521464" },
-    { "name": "S&P 500", "value": "7,548.04", "change": "+0.44% (+32.70p, 7/14 마감)", "source": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-july-14-dow-sp-500-nasdaq-070833816.html" },
-    { "name": "나스닥", "value": "26,134.83", "change": "+1.01% (+261.65p, 7/14 마감)", "source": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-july-14-dow-sp-500-nasdaq-070833816.html" },
-    { "name": "다우존스", "value": "52,482.78", "change": "-0.03% (-15.86p, 7/14 마감)", "source": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-july-14-dow-sp-500-nasdaq-070833816.html" },
-    { "name": "VIX", "value": "16.42", "change": "-4.31% (7/14 마감, 전일 17.16)", "source": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-july-14-dow-sp-500-nasdaq-070833816.html" },
-    { "name": "美 10년물", "value": "4.55%", "change": "-6bp (7/14, CPI 둔화에 하락)", "source": "https://247wallst.com/investing/2026/07/14/live-nasdaq-composite-tech-stocks-rise-in-relief-treasury-yields-fall-as-cooler-inflation-gives-markets-a-tailwind/" },
-    { "name": "달러인덱스(DXY)", "value": "101.15", "change": "+0.20% (7/14 마감)", "source": "https://www.investing.com/indices/usdollar-historical-data" },
-    { "name": "원/달러", "value": "1,493.0원", "change": "-10.4원 (7/14 15:30 기준가)", "source": "https://view.asiae.co.kr/article/2026071415335089642" },
-    { "name": "WTI", "value": "$80.05~80.55", "change": "+2~3% (호르무즈 통행료 철회에도 美-이란 군사 충돌 지속, 7/14)", "source": "https://www.cnbc.com/2026/07/14/oil-prices-today-brent-wti-hormuz-trump-toll-iran.html" },
-    { "name": "브렌트유", "value": "$86.85~86.99", "change": "+4.3% (7/14, 1개월래 최고)", "source": "https://www.aljazeera.com/economy/2026/7/14/oil-hits-1-month-high-as-us-iran-fighting-clouds-strait-of-hormuz-outlook" }
+    { "name": "코스피", "value": "7,284.41", "change": "+6.24% (+427.58p, '7천피' 탈환, 7/15 마감)", "source": "https://www.yna.co.kr/view/AKR20260715134000008" },
+    { "name": "코스닥", "value": "829.43", "change": "+5.80% (+45.45p, 7/15 마감)", "source": "https://view.asiae.co.kr/article/2026071515352561565" },
+    { "name": "S&P 500", "value": "7,543.59", "change": "+0.38% (7/14 마감)", "source": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-july-14-dow-sp-500-nasdaq-070833816.html" },
+    { "name": "나스닥", "value": "26,107.01", "change": "+0.90% (7/14 마감)", "source": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-july-14-dow-sp-500-nasdaq-070833816.html" },
+    { "name": "다우존스", "value": "52,508.27", "change": "+0.02% (7/14 마감)", "source": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-july-14-dow-sp-500-nasdaq-070833816.html" },
+    { "name": "VIX", "value": "16.39", "change": "-0.67% (7/14 마감)", "source": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-july-14-dow-sp-500-nasdaq-070833816.html" },
+    { "name": "美 10년물", "value": "4.57%", "change": "-6bp (7/14, CPI 둔화에 하락)", "source": "https://tradingeconomics.com/united-states/government-bond-yield" },
+    { "name": "달러인덱스(DXY)", "value": "100.96", "change": "+0.04% (7/15 장중, 전일 CPI발 약세 일부 되돌림)", "source": "https://tradingeconomics.com/united-states/currency" },
+    { "name": "원/달러", "value": "1,484.7원", "change": "-8.3원 (7/15 15:30 기준가, 두달만에 1,480원대)", "source": "https://www.yna.co.kr/view/AKR20260715132100002" }
   ]
 }

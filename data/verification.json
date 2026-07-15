@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-07-15T08:19:15+09:00",
+ "updatedAt": "2026-07-15T21:30:00+09:00",
  "cases": [
   {
    "name": "이지트로닉스(377330)",
@@ -7328,6 +7328,32 @@
      "price": 44850
     }
    ]
+  },
+  {
+   "name": "자람테크놀로지(389020)",
+   "type": "leading",
+   "market": "韓",
+   "flagDate": "2026-07-15",
+   "signals": [
+    "XGS-PON ASIC 2차재발주",
+    "2주내반복수주"
+   ],
+   "theme": "AI반도체설계(팹리스/IP)",
+   "status": "pending",
+   "checks": []
+  },
+  {
+   "name": "SK하이닉스(000660)",
+   "type": "warning",
+   "market": "韓",
+   "flagDate": "2026-07-15",
+   "signals": [
+    "ADR27%폭등후발갭업",
+    "이미반영"
+   ],
+   "theme": "반도체(HBM)",
+   "status": "pending",
+   "checks": []
   }
  ],
  "stats": {
