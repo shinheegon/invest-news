@@ -1469,6 +1469,18 @@
      "link": "https://www.hankyung.com/article/2026071691267"
     },
     {
+     "date": "2026-07-16",
+     "source": "한국경제·경제",
+     "title": "현대차그룹, 보스턴다이내믹스 지분 100% 확보",
+     "link": "https://www.hankyung.com/article/2026071601631"
+    },
+    {
+     "date": "2026-07-16",
+     "source": "연합뉴스·경제",
+     "title": "새만금 매립 15년 앞당긴다…현대차 투자 감안 2050년→2035년",
+     "link": "https://www.yna.co.kr/view/AKR20260716188700055"
+    },
+    {
      "date": "2026-07-15",
      "source": "한국경제·경제",
      "title": "현대차 이어 한국GM도 15일부터 4시간씩 부분파업",
@@ -3721,6 +3733,12 @@
   "스페이스X(SPCX)": {
    "articles": [
     {
+     "date": "2026-07-16",
+     "source": "한국경제·경제",
+     "title": "스페이스X 밸류에이션의 핵심은 수직계열화다",
+     "link": "https://www.hankyung.com/article/202607169488i"
+    },
+    {
      "date": "2026-07-15",
      "source": "한국경제·증권",
      "title": "\"일론 머스크의 비전에 투자\"...KB운용, 테슬라+스페이스X 채권혼합 내놨다",
@@ -5137,6 +5155,12 @@
      "link": "https://view.asiae.co.kr/article/2026071615482573043"
     },
     {
+     "date": "2026-07-16",
+     "source": "한국경제·증권",
+     "title": "알테오젠, 코스피 이전 '일단' 멈춘다…1주당 0.3주 무상증자",
+     "link": "https://www.hankyung.com/article/2026071699086"
+    },
+    {
      "date": "2026-07-14",
      "source": "이데일리·경제",
      "title": "전태연 알테오젠 대표 “삼성에피스 특허, 물질 아닌 공정 기술…ALT-B4 영향 없다”",
@@ -5689,6 +5713,12 @@
      "source": "아시아경제",
      "title": "[클릭 e종목]\"대장이 돌아왔다\" 삼성화재 목표가 62만→87만원",
      "link": "https://view.asiae.co.kr/article/2026071518494227835"
+    },
+    {
+     "date": "2026-07-16",
+     "source": "한국경제·경제",
+     "title": "[포토] 삼성화재·강북삼성병원 협약",
+     "link": "https://www.hankyung.com/article/2026071601341"
     },
     {
      "date": "2026-07-14",
@@ -6459,6 +6489,12 @@
   "오성첨단소재(052420)": {
    "articles": [
     {
+     "date": "2026-07-16",
+     "source": "연합뉴스·경제",
+     "title": "오성첨단소재 \"Hangzhou에 330억원 출자\"",
+     "link": "https://www.yna.co.kr/view/AKR20260716187100008"
+    },
+    {
      "date": "2026-06-21",
      "source": "아시아경제",
      "title": "오성첨단소재, 국내 자회사 매각 계약금 1060억원 확보…신규 사업 투자 기반 마련",
@@ -6578,6 +6614,12 @@
   },
   "LG전자(066570)": {
    "articles": [
+    {
+     "date": "2026-07-16",
+     "source": "한국경제·경제",
+     "title": "LG전자, 국내외 경영진과 미래전략 논의",
+     "link": "https://www.hankyung.com/article/2026071601671"
+    },
     {
      "date": "2026-07-14",
      "source": "한국경제·경제",
@@ -9155,6 +9197,12 @@
      "link": "https://www.hankyung.com/article/202607168475i"
     },
     {
+     "date": "2026-07-16",
+     "source": "한국경제·경제",
+     "title": "AI·디지털자산 펀드…KB금융, 1000억 조성",
+     "link": "https://www.hankyung.com/article/2026071601351"
+    },
+    {
      "date": "2026-07-15",
      "source": "한국경제·경제",
      "title": "[포토] KB금융, AI 인재 양성",
@@ -9352,6 +9400,18 @@
   },
   "GC녹십자(006280)": {
    "articles": [
+    {
+     "date": "2026-07-16",
+     "source": "연합뉴스·경제",
+     "title": "충북도·청주시, GC녹십자와 5천300억원 규모 투자협약(종합)",
+     "link": "https://www.yna.co.kr/view/AKR20260716181651064"
+    },
+    {
+     "date": "2026-07-16",
+     "source": "연합뉴스·경제",
+     "title": "충북도·청주시, GC녹십자와 5천300억원 규모 투자협약",
+     "link": "https://www.yna.co.kr/view/AKR20260716181600064"
+    },
     {
      "date": "2026-07-02",
      "source": "연합뉴스·경제",
@@ -10281,6 +10341,18 @@
      "link": "https://view.asiae.co.kr/article/2026071608324768378"
     },
     {
+     "date": "2026-07-16",
+     "source": "CNBC·Finance",
+     "title": "China warns about AI risks with Anthropic's Claude Code",
+     "link": "https://www.cnbc.com/2026/07/08/china-anthropic-ai-claude-code-backdoor-security-threat.html"
+    },
+    {
+     "date": "2026-07-16",
+     "source": "MarketWatch",
+     "title": "Turbo-charged SK Hynix volatility shows no sign of abating as AI euphoria swings to fatigue",
+     "link": "https://www.marketwatch.com/story/turbo-charged-sk-hynix-volatility-shows-no-sign-of-abating-as-ai-euphoria-swings-to-fatigue-f5a5b95b?mod=mw_rss_topstories"
+    },
+    {
      "date": "2026-07-15",
      "source": "한국경제·경제",
      "title": "SK하이닉스 ADR 달러 유입 기대…환율 1400원대 안착하나",
@@ -10939,18 +11011,6 @@
      "source": "이데일리·경제",
      "title": "SK케미칼 \"작년 온실가스 감축 6만2615t…2040년 스코프 1·2 넷제로 달성\"",
      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=03237366645512880"
-    },
-    {
-     "date": "2026-07-09",
-     "source": "이데일리·경제",
-     "title": "\"AI, a Double-Edged Sword of Opportunity and Risk\"... Global Scholars Advise Korea on S...",
-     "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=03063526645512880"
-    },
-    {
-     "date": "2026-07-09",
-     "source": "아시아경제",
-     "title": "[클릭 e종목]\"SK이터닉스, 정책·수요·자본 트리플 모멘텀…목표가↑",
-     "link": "https://view.asiae.co.kr/article/2026070815275150038"
     }
    ]
   },
@@ -12639,6 +12699,12 @@
      "source": "연합뉴스·경제",
      "title": "한화증권, 美 디지털에셋에 300억원 투자 완료",
      "link": "https://www.yna.co.kr/view/AKR20260716121200008"
+    },
+    {
+     "date": "2026-07-16",
+     "source": "한국경제·경제",
+     "title": "한화에어로, 軍 다목적 무인차량 사업 선정",
+     "link": "https://www.hankyung.com/article/2026071601681"
     },
     {
      "date": "2026-07-15",
@@ -15545,6 +15611,18 @@
      "link": "https://www.yna.co.kr/view/AKR20260716071700008"
     },
     {
+     "date": "2026-07-16",
+     "source": "한국경제·경제",
+     "title": "메리츠, 홈플러스에 2000억 수혈…회생계획안도 찬성",
+     "link": "https://www.hankyung.com/article/2026071601621"
+    },
+    {
+     "date": "2026-07-16",
+     "source": "한국경제·증권",
+     "title": "한숨 돌린 홈플러스…\"작고 강한 마트 변신\"",
+     "link": "https://www.hankyung.com/article/2026071601711"
+    },
+    {
      "date": "2026-07-15",
      "source": "연합뉴스·경제",
      "title": "중기부·소진공, 홈플러스 협력사에 대출 한도 1억원으로 확대",
@@ -15699,6 +15777,30 @@
      "link": "https://www.hankyung.com/article/202607168415i"
     },
     {
+     "date": "2026-07-16",
+     "source": "한국경제·증권",
+     "title": "TSMC, 또 최대 실적…'AI 고점론' 불식하나",
+     "link": "https://www.hankyung.com/article/2026071602111"
+    },
+    {
+     "date": "2026-07-16",
+     "source": "한국경제·증권",
+     "title": "TSMC 2분기 '어닝 서프라이즈'…'반도체 거품론' 일축하나",
+     "link": "https://www.hankyung.com/article/202607169717i"
+    },
+    {
+     "date": "2026-07-16",
+     "source": "CNBC·Markets",
+     "title": "TSMC to invest additional $100 billion in Arizona after second-quarter profit soars 77%",
+     "link": "https://www.cnbc.com/2026/07/16/tsmc-second-quarter-profit-.html"
+    },
+    {
+     "date": "2026-07-16",
+     "source": "MarketWatch",
+     "title": "TSMC posts record quarter — but expectations are now ‘exceptionally high,’ says fund manager",
+     "link": "https://www.marketwatch.com/story/tsmc-posts-record-quarter-but-expectations-are-now-exceptionally-high-says-fund-manager-145cd3ab?mod=mw_rss_topstories"
+    },
+    {
      "date": "2026-07-14",
      "source": "한국경제·경제",
      "title": "TSMC \"2분기 매출 36% 증가…AI 투자수요 여전히 견고\"",
@@ -15849,6 +15951,24 @@
      "source": "한국경제·경제",
      "title": "혼자 사는 부모님 걱정 끝…GS샵, AI 반려로봇 론칭",
      "link": "https://www.hankyung.com/article/202607168230g"
+    },
+    {
+     "date": "2026-07-16",
+     "source": "한국경제·경제",
+     "title": "GS칼텍스, AI 기술로 여수공장 설비 점검",
+     "link": "https://www.hankyung.com/article/2026071601701"
+    },
+    {
+     "date": "2026-07-16",
+     "source": "CNBC·Markets",
+     "title": "UnitedHealth blows past estimates, hikes earnings outlook as it reins in costs",
+     "link": "https://www.cnbc.com/2026/07/16/unitedhealth-group-unh-earnings-q2-2026.html"
+    },
+    {
+     "date": "2026-07-16",
+     "source": "MarketWatch",
+     "title": "Turbo-charged SK Hynix volatility shows no sign of abating as AI euphoria swings to fatigue",
+     "link": "https://www.marketwatch.com/story/turbo-charged-sk-hynix-volatility-shows-no-sign-of-abating-as-ai-euphoria-swings-to-fatigue-f5a5b95b?mod=mw_rss_topstories"
     },
     {
      "date": "2026-07-15",
@@ -16621,7 +16741,27 @@
      "link": "https://news.nate.com/view/20251205n29206"
     }
    ]
+  },
+  "영원무역(111770)": {
+   "articles": [
+    {
+     "date": "2026-07-16",
+     "source": "한국경제·증권",
+     "title": "'롤러코스피' 피난처 된 영원무역...실적 회복에 재평가 기대",
+     "link": "https://www.hankyung.com/article/202607156342i"
+    }
+   ]
+  },
+  "BNK금융지주(138930)": {
+   "articles": [
+    {
+     "date": "2026-07-16",
+     "source": "연합뉴스·경제",
+     "title": "광주은행 노조, JB금융·BNK금융지주 합병 제안 \"반대\"",
+     "link": "https://www.yna.co.kr/view/AKR20260716161600054"
+    }
+   ]
   }
  },
- "updatedAt": "2026-07-16T16:17:37+09:00"
+ "updatedAt": "2026-07-16T20:48:31+09:00"
 }
