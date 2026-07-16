@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-07-16T21:01:55+09:00",
+ "updatedAt": "2026-07-17T08:19:13+09:00",
  "cases": [
   {
    "name": "이지트로닉스(377330)",
@@ -8821,6 +8821,34 @@
    "theme": "로봇/휴머노이드",
    "status": "pending",
    "checks": []
+  },
+  {
+   "name": "해성에어로보틱스",
+   "type": "leading",
+   "market": "韓",
+   "flagDate": "2026-07-17",
+   "signals": [
+    "3자MOU(헥사로보틱스·아이로보틱스)",
+    "국산화(경량고토크감속기)",
+    "테마첫거론"
+   ],
+   "theme": "로봇/휴머노이드",
+   "status": "pending",
+   "checks": []
+  },
+  {
+   "name": "유일로보틱스",
+   "type": "leading",
+   "market": "韓",
+   "flagDate": "2026-07-17",
+   "signals": [
+    "대형고객공급계약(HD현대일렉트릭美법인 59억)",
+    "SK온call옵션",
+    "테마첫거론"
+   ],
+   "theme": "로봇/휴머노이드",
+   "status": "pending",
+   "checks": []
   }
  ],
  "stats": {
@@ -8830,8 +8858,8 @@
   "miss": 62,
   "hitRate": 16.8,
   "avgD3ChangePct": -0.01,
-  "pending": 28,
-  "total": 159,
+  "pending": 30,
+  "total": 161,
   "byType": {
    "leading": {
     "verified": 68,
