@@ -69,6 +69,7 @@ jobs:
 
       - name: Vercel 배포 (토큰 있으면)
         if: ${{ env.VERCEL_TOKEN != '' }}
+        continue-on-error: true    # 배포 실패해도 브리핑·커밋은 성공으로 유지(사이트는 GitHub 반영됨)
         run: |
           cd docs
           npx --yes vercel deploy --prod --yes --token="$VERCEL_TOKEN"
