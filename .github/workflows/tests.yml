@@ -1,0 +1,20 @@
+name: 코드 안전성 검사
+
+on:
+  pull_request:
+  push:
+    branches: [main]
+
+permissions:
+  contents: read
+
+jobs:
+  python-tests:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: 회사명 매칭 회귀 테스트
+        run: python -m unittest discover -s tests -p "test_*.py"
