@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-07-16T12:29:23+09:00",
+ "updatedAt": "2026-07-16T16:38:14+09:00",
  "cases": [
   {
    "name": "이지트로닉스(377330)",
@@ -8671,6 +8671,156 @@
      "price": 36700
     }
    ]
+  },
+  {
+   "name": "우림피티에스(101170)",
+   "type": "leading",
+   "market": "韓",
+   "flagDate": "2026-07-16",
+   "signals": [
+    "반복포착6일째",
+    "현대차2028년메타플랜트투입확정"
+   ],
+   "theme": "로봇/휴머노이드",
+   "status": "pending",
+   "checks": [],
+   "flagPrice": 6840,
+   "priceLog": [
+    {
+     "date": "2026-07-16",
+     "price": 6840
+    }
+   ]
+  },
+  {
+   "name": "씨메스로보틱스(475400)",
+   "type": "leading",
+   "market": "韓",
+   "flagDate": "2026-07-16",
+   "signals": [
+    "동일고객3연속계약",
+    "반복포착"
+   ],
+   "theme": "로봇/휴머노이드",
+   "status": "pending",
+   "checks": [],
+   "flagPrice": 15410,
+   "priceLog": [
+    {
+     "date": "2026-07-16",
+     "price": 15410
+    }
+   ]
+  },
+  {
+   "name": "파두(440110)",
+   "type": "leading",
+   "market": "韓",
+   "flagDate": "2026-07-16",
+   "signals": [
+    "SSD컨트롤러공급계약(420억)",
+    "반복포착5일째"
+   ],
+   "theme": "AI반도체설계(팹리스/IP)",
+   "status": "pending",
+   "checks": [],
+   "flagPrice": 70400,
+   "priceLog": [
+    {
+     "date": "2026-07-16",
+     "price": 70400
+    }
+   ]
+  },
+  {
+   "name": "자람테크놀로지(389020)",
+   "type": "leading",
+   "market": "韓",
+   "flagDate": "2026-07-16",
+   "signals": [
+    "2주내재발주",
+    "3회연속반복"
+   ],
+   "theme": "AI반도체설계(팹리스/IP)",
+   "status": "pending",
+   "checks": [],
+   "flagPrice": 20750,
+   "priceLog": [
+    {
+     "date": "2026-07-16",
+     "price": 20750
+    }
+   ]
+  },
+  {
+   "name": "대동기어(008830)",
+   "type": "discovery",
+   "market": "韓",
+   "flagDate": "2026-07-16",
+   "signals": [
+    "수주잔고2628억",
+    "생산라인80%완공"
+   ],
+   "theme": "로봇/휴머노이드",
+   "status": "pending",
+   "checks": [],
+   "flagPrice": 9000,
+   "priceLog": [
+    {
+     "date": "2026-07-16",
+     "price": 9000
+    }
+   ]
+  },
+  {
+   "name": "에이직랜드(445090)",
+   "type": "warning",
+   "market": "韓",
+   "flagDate": "2026-07-16",
+   "signals": [
+    "부상단계반복반영"
+   ],
+   "theme": "AI반도체설계(팹리스/IP)",
+   "status": "pending",
+   "checks": [],
+   "flagPrice": 21850,
+   "priceLog": [
+    {
+     "date": "2026-07-16",
+     "price": 21850
+    }
+   ]
+  },
+  {
+   "name": "삼현(437730)",
+   "type": "warning",
+   "market": "韓",
+   "flagDate": "2026-07-16",
+   "signals": [
+    "+111%이미반영"
+   ],
+   "theme": "휴머노이드",
+   "status": "pending",
+   "checks": [],
+   "flagPrice": 29000,
+   "priceLog": [
+    {
+     "date": "2026-07-16",
+     "price": 29000
+    }
+   ]
+  },
+  {
+   "name": "한국피아이엠(448970)",
+   "type": "warning",
+   "market": "韓",
+   "flagDate": "2026-07-16",
+   "signals": [
+    "11일째반복포착이미반영"
+   ],
+   "theme": "로봇/휴머노이드",
+   "status": "pending",
+   "checks": []
   }
  ],
  "stats": {
@@ -8680,8 +8830,8 @@
   "miss": 62,
   "hitRate": 16.8,
   "avgD3ChangePct": -0.01,
-  "pending": 20,
-  "total": 151,
+  "pending": 28,
+  "total": 159,
   "byType": {
    "leading": {
     "verified": 68,
