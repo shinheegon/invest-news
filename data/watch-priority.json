@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-07-16T08:25:48+09:00",
+ "updatedAt": "2026-07-16T12:29:23+09:00",
  "note": "대기 예측을 학습패턴(승세테마+구체촉발재)으로 점수화. 투자권유 아님.",
  "top": [
   {
@@ -15,19 +15,19 @@
    "name": "자람테크놀로지(389020)",
    "type": "leading",
    "theme": "AI반도체설계(팹리스/IP)",
-   "flagDate": "2026-07-15",
+   "flagDate": "2026-07-14",
    "score": 5,
    "concrete": true,
-   "why": "승세테마(AI반도체설계(팹리스/IP)) · 구체촉발재: 2주내반복수주"
+   "why": "승세테마(AI반도체설계(팹리스/IP)) · 구체촉발재: 공급계약(XGS-PON 반도체 13억)"
   },
   {
    "name": "자람테크놀로지(389020)",
    "type": "leading",
    "theme": "AI반도체설계(팹리스/IP)",
-   "flagDate": "2026-07-14",
+   "flagDate": "2026-07-15",
    "score": 5,
    "concrete": true,
-   "why": "승세테마(AI반도체설계(팹리스/IP)) · 구체촉발재: 공급계약(XGS-PON 반도체 13억)"
+   "why": "승세테마(AI반도체설계(팹리스/IP)) · 구체촉발재: 2주내반복수주"
   },
   {
    "name": "에이직랜드(445090)",
@@ -48,24 +48,6 @@
    "score": -3,
    "concrete": false,
    "why": "⚠️열세테마(이차전지) · 신호약함(테마첫거론류)"
-  },
-  {
-   "name": "케이지에이(455180)",
-   "type": "leading",
-   "theme": "이차전지",
-   "flagDate": "2026-07-07",
-   "score": -3,
-   "concrete": false,
-   "why": "⚠️열세테마(이차전지) · 신호약함(테마첫거론류)"
-  },
-  {
-   "name": "케이지에이(455180)",
-   "type": "discovery",
-   "theme": "이차전지",
-   "flagDate": "2026-07-07",
-   "score": -3,
-   "concrete": false,
-   "why": "⚠️열세테마(이차전지)"
   }
  ],
  "all": [
@@ -82,19 +64,19 @@
    "name": "자람테크놀로지(389020)",
    "type": "leading",
    "theme": "AI반도체설계(팹리스/IP)",
-   "flagDate": "2026-07-15",
+   "flagDate": "2026-07-14",
    "score": 5,
    "concrete": true,
-   "why": "승세테마(AI반도체설계(팹리스/IP)) · 구체촉발재: 2주내반복수주"
+   "why": "승세테마(AI반도체설계(팹리스/IP)) · 구체촉발재: 공급계약(XGS-PON 반도체 13억)"
   },
   {
    "name": "자람테크놀로지(389020)",
    "type": "leading",
    "theme": "AI반도체설계(팹리스/IP)",
-   "flagDate": "2026-07-14",
+   "flagDate": "2026-07-15",
    "score": 5,
    "concrete": true,
-   "why": "승세테마(AI반도체설계(팹리스/IP)) · 구체촉발재: 공급계약(XGS-PON 반도체 13억)"
+   "why": "승세테마(AI반도체설계(팹리스/IP)) · 구체촉발재: 2주내반복수주"
   },
   {
    "name": "에이직랜드(445090)",
@@ -104,51 +86,6 @@
    "score": 3,
    "concrete": false,
    "why": "승세테마(AI반도체설계(팹리스/IP)) · 신호약함(테마첫거론류)"
-  },
-  {
-   "name": "비에이치아이(083650)",
-   "type": "leading",
-   "theme": "기타",
-   "flagDate": "2026-07-07",
-   "score": 2,
-   "concrete": true,
-   "why": "중립테마(기타) · 구체촉발재: 수주잔고증가"
-  },
-  {
-   "name": "퓨쳐켐(220100)",
-   "type": "leading",
-   "theme": "기타",
-   "flagDate": "2026-07-07",
-   "score": 2,
-   "concrete": true,
-   "why": "중립테마(기타) · 구체촉발재: 독점공급계약"
-  },
-  {
-   "name": "태성(323280)",
-   "type": "leading",
-   "theme": "기타",
-   "flagDate": "2026-07-07",
-   "score": 2,
-   "concrete": true,
-   "why": "중립테마(기타) · 구체촉발재: 캐파증설완공"
-  },
-  {
-   "name": "파라텍(033540)",
-   "type": "leading",
-   "theme": "기타",
-   "flagDate": "2026-07-07",
-   "score": 2,
-   "concrete": true,
-   "why": "중립테마(기타) · 구체촉발재: 수주연쇄"
-  },
-  {
-   "name": "쎄크(081180)",
-   "type": "discovery",
-   "theme": "기타",
-   "flagDate": "2026-07-07",
-   "score": 2,
-   "concrete": true,
-   "why": "중립테마(기타) · 구체촉발재: 국책과제선정"
   },
   {
    "name": "이엠앤아이(481070)",
@@ -302,96 +239,6 @@
    "score": 0,
    "concrete": false,
    "why": "중립테마(우주/방산) · 신호약함(테마첫거론류)"
-  },
-  {
-   "name": "이지트로닉스(377330)",
-   "type": "leading",
-   "theme": "기타",
-   "flagDate": "2026-07-07",
-   "score": 0,
-   "concrete": false,
-   "why": "중립테마(기타) · 신호약함(테마첫거론류)"
-  },
-  {
-   "name": "대동(000490)",
-   "type": "leading",
-   "theme": "기타",
-   "flagDate": "2026-07-07",
-   "score": 0,
-   "concrete": false,
-   "why": "중립테마(기타) · 신호약함(테마첫거론류)"
-  },
-  {
-   "name": "옵트론텍(082210)",
-   "type": "leading",
-   "theme": "기타",
-   "flagDate": "2026-07-07",
-   "score": 0,
-   "concrete": false,
-   "why": "중립테마(기타) · 신호약함(테마첫거론류)"
-  },
-  {
-   "name": "씨싸이트(109670)",
-   "type": "leading",
-   "theme": "기타",
-   "flagDate": "2026-07-07",
-   "score": 0,
-   "concrete": false,
-   "why": "중립테마(기타) · 신호약함(테마첫거론류)"
-  },
-  {
-   "name": "에이비온(203400)",
-   "type": "leading",
-   "theme": "기타",
-   "flagDate": "2026-07-07",
-   "score": 0,
-   "concrete": false,
-   "why": "중립테마(기타) · 신호약함(테마첫거론류)"
-  },
-  {
-   "name": "오텍캐리어(126560)",
-   "type": "leading",
-   "theme": "기타",
-   "flagDate": "2026-07-07",
-   "score": 0,
-   "concrete": false,
-   "why": "중립테마(기타) · 신호약함(테마첫거론류)"
-  },
-  {
-   "name": "케이엠제약(225430)",
-   "type": "discovery",
-   "theme": "기타",
-   "flagDate": "2026-07-07",
-   "score": 0,
-   "concrete": false,
-   "why": "중립테마(기타) · 신호약함(테마첫거론류)"
-  },
-  {
-   "name": "디알젬(263690)",
-   "type": "leading",
-   "theme": "기타",
-   "flagDate": "2026-07-07",
-   "score": 0,
-   "concrete": false,
-   "why": "중립테마(기타) · 신호약함(테마첫거론류)"
-  },
-  {
-   "name": "엠젠솔루션(032790)",
-   "type": "leading",
-   "theme": "피지컬AI",
-   "flagDate": "2026-07-07",
-   "score": 0,
-   "concrete": false,
-   "why": "중립테마(피지컬AI) · 신호약함(테마첫거론류)"
-  },
-  {
-   "name": "브이엠(089970)",
-   "type": "discovery",
-   "theme": "기타",
-   "flagDate": "2026-07-07",
-   "score": 0,
-   "concrete": false,
-   "why": "중립테마(기타)"
   },
   {
    "name": "SG(255220)",
@@ -601,6 +448,15 @@
    "why": "중립테마(반도체소재/장비) · 신호약함(테마첫거론류)"
   },
   {
+   "name": "우진엔텍(457550)",
+   "type": "discovery",
+   "theme": "신재생에너지",
+   "flagDate": "2026-07-14",
+   "score": 0,
+   "concrete": false,
+   "why": "중립테마(신재생에너지) · 신호약함(테마첫거론류)"
+  },
+  {
    "name": "글로벌텍스프리(204620)",
    "type": "discovery",
    "theme": "기타",
@@ -635,24 +491,6 @@
    "score": -3,
    "concrete": false,
    "why": "⚠️열세테마(이차전지) · 신호약함(테마첫거론류)"
-  },
-  {
-   "name": "케이지에이(455180)",
-   "type": "leading",
-   "theme": "이차전지",
-   "flagDate": "2026-07-07",
-   "score": -3,
-   "concrete": false,
-   "why": "⚠️열세테마(이차전지) · 신호약함(테마첫거론류)"
-  },
-  {
-   "name": "케이지에이(455180)",
-   "type": "discovery",
-   "theme": "이차전지",
-   "flagDate": "2026-07-07",
-   "score": -3,
-   "concrete": false,
-   "why": "⚠️열세테마(이차전지)"
   }
  ]
 }

@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-07-16T08:25:58+09:00",
+ "updatedAt": "2026-07-16T12:29:36+09:00",
  "note": "AI에 구조적으로 필수인 부품·밸류체인 기업을 '장기 전망·비전' 기준으로 선별한 관찰 그룹. 단기 모멘텀(검증 D+3)과는 별개 — 각 종목에 현재 모멘텀도 함께 표기. 투자권유 아님, 정보·관찰용.",
  "macroOverview": "거시 큰 그림: AI 데이터센터 capex는 경기 사이클과 디커플링된 '구조적 투자'다 — 빅테크(MS·구글·메타·아마존)의 설비투자는 경기와 무관하게 매년 증액되고 있다. 금리 인하 사이클 진입은 성장주 밸류에이션에 우호적(할인율↓). 시장의 병목이 HBM → 전력 → 냉각 → 광통신 순으로 '로테이션'하는 게 핵심 흐름이라, 어느 한 계층이 조정받아도 다음 병목으로 자금이 옮겨간다. 단기적으로는 메모리 고점론·급락장(위험회피)으로 소부장·전력이 눌려 있으나, 이는 '구조적 성장 vs 단기 수급'의 괴리 구간. 우리 그룹은 이 괴리를 계층별로 보여줘 '비전은 필수인데 아직 자금이 안 붙은' 눌림 구간을 포착하는 게 목적이다.",
  "categories": [
@@ -61,8 +61,8 @@
   }
  ],
  "macro": {
-  "regime": "중립",
-  "guidance": "선별 유지 — 승세테마+구체촉발재 우선, 약신호·열세테마 경계."
+  "regime": "위험회피",
+  "guidance": "소형주 언더퍼폼 국면 — 포착 수를 줄이고 승세테마×구체촉발재만 최고확신으로. 열세테마·약신호 전면 배제."
  },
  "companies": [
   {
@@ -74,10 +74,10 @@
    "essential": "엔비디아 AI GPU에 HBM 사실상 독점 공급 — AI 메모리의 절대 강자",
    "thesis": "HBM 슈퍼사이클·HBM4 전환의 최대 수혜, 밸류체인 최상단",
    "risk": "메모리 사이클·고점론",
-   "official": null,
+   "official": "SK하이닉스",
    "tickerMismatch": false,
-   "price": 2082000,
-   "changeRate": "0.00",
+   "price": 1848000,
+   "changeRate": "-11.24",
    "sinceAddedPct": 11.9,
    "priceLog": [
     {
@@ -109,10 +109,10 @@
    "essential": "HBM4·파운드리·첨단패키징을 한 회사가 모두 — AI 종합 밸류체인",
    "thesis": "HBM 추격 성공 시 재평가, 파운드리 반등 옵션",
    "risk": "HBM 경쟁열위·파운드리 적자",
-   "official": null,
+   "official": "삼성전자",
    "tickerMismatch": false,
-   "price": 279500,
-   "changeRate": "0.00",
+   "price": 255500,
+   "changeRate": "-8.59",
    "sinceAddedPct": 9.0,
    "priceLog": [
     {
@@ -144,10 +144,10 @@
    "essential": "HBM 다이 적층 필수 장비 — HBM 생산량이 이 장비에 달림",
    "thesis": "HBM5·6 와이드 TC본더 선점, HBM 증설=직접 수혜",
    "risk": "고객사 편중·경쟁 진입",
-   "official": null,
+   "official": "한미반도체",
    "tickerMismatch": false,
-   "price": 269500,
-   "changeRate": "0.00",
+   "price": 248500,
+   "changeRate": "-7.79",
    "sinceAddedPct": 30.8,
    "priceLog": [
     {
@@ -179,10 +179,10 @@
    "essential": "첨단 패키징 물량 증가의 수혜 — 후공정 없이 칩 완성 불가",
    "thesis": "AI칩 패키징 외주 확대 수혜",
    "risk": "전방 투자 변동성",
-   "official": null,
+   "official": "하나마이크론",
    "tickerMismatch": false,
-   "price": 39200,
-   "changeRate": "0.00",
+   "price": 34900,
+   "changeRate": "-10.97",
    "sinceAddedPct": 1.2,
    "priceLog": [
     {
@@ -214,10 +214,10 @@
    "essential": "HBM·AI 모듈용 기판 공급 — 기판이 병목이면 칩도 병목",
    "thesis": "AI 서버 기판 슈퍼사이클",
    "risk": "기판 단가·소재장비 열세테마",
-   "official": null,
+   "official": "심텍",
    "tickerMismatch": false,
-   "price": 121600,
-   "changeRate": "0.00",
+   "price": 105850,
+   "changeRate": "-12.95",
    "sinceAddedPct": 11.9,
    "priceLog": [
     {
@@ -249,10 +249,10 @@
    "essential": "AI 서버용 고다층 기판·MLCC 필수 부품 대량 공급",
    "thesis": "AI 서버 MLCC·기판 + 유리기판 2026 하반기 양산 옵션",
    "risk": "IT 수요 둔화",
-   "official": null,
+   "official": "삼성전기",
    "tickerMismatch": false,
-   "price": 1413000,
-   "changeRate": "0.00",
+   "price": 1298000,
+   "changeRate": "-8.14",
    "sinceAddedPct": 8.8,
    "priceLog": [
     {
@@ -284,10 +284,10 @@
    "essential": "차세대 패키징 판을 바꿀 유리기판 선두 — 성공 시 게임체인저",
    "thesis": "앱솔릭스 미국공장 양산 = 유리기판 원년 베팅",
    "risk": "양산 지연·2027~28 실적 시점",
-   "official": null,
+   "official": "SKC",
    "tickerMismatch": false,
-   "price": 90400,
-   "changeRate": "0.00",
+   "price": 84900,
+   "changeRate": "-6.08",
    "sinceAddedPct": 2.7,
    "priceLog": [
     {
@@ -319,10 +319,10 @@
    "essential": "유리기판 제조 핵심 장비 — 양산 레퍼런스 보유",
    "thesis": "유리기판 CAPA 확대 시 장비 수주",
    "risk": "테마 선반영·양산 시점",
-   "official": null,
+   "official": "필옵틱스",
    "tickerMismatch": false,
-   "price": 30250,
-   "changeRate": "0.00",
+   "price": 28000,
+   "changeRate": "-7.44",
    "sinceAddedPct": 4.0,
    "priceLog": [
     {
@@ -354,10 +354,10 @@
    "essential": "맞춤형 AI ASIC 설계·양산 다리 역할 — 팹리스와 파운드리 연결",
    "thesis": "AI ASIC 수요 폭발의 길목, 승세 테마",
    "risk": "고객 편중·밸류 부담",
-   "official": null,
+   "official": "에이직랜드",
    "tickerMismatch": false,
-   "price": 23950,
-   "changeRate": "0.00",
+   "price": 21900,
+   "changeRate": "-8.56",
    "sinceAddedPct": 13.5,
    "priceLog": [
     {
@@ -378,7 +378,7 @@
     }
    ],
    "momentum": "승세",
-   "themeMissRate": 33.3
+   "themeMissRate": 20.0
   },
   {
    "name": "가온칩스",
@@ -389,10 +389,10 @@
    "essential": "AI칩 설계 서비스 — 팹리스 설계를 실리콘으로",
    "thesis": "AI ASIC·차량용 SoC 성장",
    "risk": "실적 변동성",
-   "official": null,
+   "official": "가온칩스",
    "tickerMismatch": false,
-   "price": 54900,
-   "changeRate": "0.00",
+   "price": 50000,
+   "changeRate": "-8.93",
    "sinceAddedPct": 10.7,
    "priceLog": [
     {
@@ -413,7 +413,7 @@
     }
    ],
    "momentum": "승세",
-   "themeMissRate": 33.3
+   "themeMissRate": 20.0
   },
   {
    "name": "오픈엣지테크놀로지",
@@ -424,10 +424,10 @@
    "essential": "AI 반도체 설계에 필수인 IP 라이선스 — 로열티 모델",
    "thesis": "온디바이스 AI·NPU IP 채택 확대",
    "risk": "적자·라이선스 인식 시점",
-   "official": null,
+   "official": "오픈엣지테크놀로지",
    "tickerMismatch": false,
-   "price": 10850,
-   "changeRate": "0.00",
+   "price": 10350,
+   "changeRate": "-4.61",
    "sinceAddedPct": 2.3,
    "priceLog": [
     {
@@ -448,7 +448,7 @@
     }
    ],
    "momentum": "승세",
-   "themeMissRate": 33.3
+   "themeMissRate": 20.0
   },
   {
    "name": "HD현대일렉트릭",
@@ -459,10 +459,10 @@
    "essential": "AI 데이터센터 전력 인입의 핵심 — 변압기 없이 전력 공급 불가",
    "thesis": "북미 전력망·AI DC 변압기 슈퍼사이클, 수주잔고 급증",
    "risk": "단기 급등·전력 열세테마(모멘텀)",
-   "official": null,
+   "official": "HD현대일렉트릭",
    "tickerMismatch": false,
-   "price": 823000,
-   "changeRate": "0.00",
+   "price": 791000,
+   "changeRate": "-3.89",
    "sinceAddedPct": 4.4,
    "priceLog": [
     {
@@ -494,10 +494,10 @@
    "essential": "데이터센터 배전·전력 솔루션 — 전력망 증설 필수",
    "thesis": "AI DC·전력망 투자 수혜",
    "risk": "전력 모멘텀 열세(단기)",
-   "official": null,
+   "official": "LS ELECTRIC",
    "tickerMismatch": false,
-   "price": 201500,
-   "changeRate": "0.00",
+   "price": 186600,
+   "changeRate": "-7.39",
    "sinceAddedPct": 9.7,
    "priceLog": [
     {
@@ -529,10 +529,10 @@
    "essential": "AI DC·전력망 변압기 공급 — 북미 수출 확대",
    "thesis": "변압기 부족·수출 단가 상승",
    "risk": "수주 편중·모멘텀",
-   "official": null,
+   "official": "효성중공업",
    "tickerMismatch": false,
-   "price": 2868000,
-   "changeRate": "0.00",
+   "price": 2771000,
+   "changeRate": "-3.38",
    "sinceAddedPct": 7.1,
    "priceLog": [
     {
@@ -564,10 +564,10 @@
    "essential": "고밀도 AI 서버 열관리 — 냉각이 밀도의 한계를 결정",
    "thesis": "액침냉각 초고속 성장(CAGR 40%+), 국내 선두",
    "risk": "초기 시장·실적 미미·냉각 모멘텀",
-   "official": null,
+   "official": "케이엔솔",
    "tickerMismatch": false,
-   "price": 8960,
-   "changeRate": "0.00",
+   "price": 8450,
+   "changeRate": "-5.69",
    "sinceAddedPct": 3.6,
    "priceLog": [
     {
@@ -599,10 +599,10 @@
    "essential": "칩간 광연결(SiPh) 설계 IP — CPO 시대 핵심 길목",
    "thesis": "엔비디아 CPO/SiPh 채택 = 구조적 성장(2027~28 본격)",
    "risk": "실적 반영 지연·테마 변동성",
-   "official": null,
+   "official": "퀄리타스반도체",
    "tickerMismatch": false,
-   "price": 9030,
-   "changeRate": "0.00",
+   "price": 8150,
+   "changeRate": "-9.75",
    "sinceAddedPct": 7.2,
    "priceLog": [
     {
@@ -634,10 +634,10 @@
    "essential": "AI DC간·내부 광인프라 소재 — 데이터 폭증의 물리 매개",
    "thesis": "광섬유 수요·단가 상승",
    "risk": "범용 소재 변동성",
-   "official": null,
+   "official": "대한광통신",
    "tickerMismatch": false,
-   "price": 11680,
-   "changeRate": "0.00",
+   "price": 10520,
+   "changeRate": "-9.93",
    "sinceAddedPct": 5.5,
    "priceLog": [
     {
@@ -669,10 +669,10 @@
    "essential": "휴머노이드 핵심 부품 내재화 국내 유일급 — 삼성 로봇 축",
    "thesis": "삼성 피지컬AI 전략의 중심, 부품 수직계열화",
    "risk": "밸류 부담·양산 시점",
-   "official": null,
+   "official": "레인보우로보틱스",
    "tickerMismatch": false,
-   "price": 430000,
-   "changeRate": "0.00",
+   "price": 399000,
+   "changeRate": "-7.21",
    "sinceAddedPct": 2.9,
    "priceLog": [
     {
@@ -704,10 +704,10 @@
    "essential": "로봇의 '근육·관절' 액추에이터 — 휴머노이드 필수 부품",
    "thesis": "휴머노이드 액추에이터 수요 급증",
    "risk": "규모·수익성",
-   "official": null,
+   "official": "로보티즈",
    "tickerMismatch": false,
-   "price": 222500,
-   "changeRate": "0.00",
+   "price": 198200,
+   "changeRate": "-10.92",
    "sinceAddedPct": 7.2,
    "priceLog": [
     {
@@ -739,10 +739,10 @@
    "essential": "휴머노이드 관절 감속기 — 정밀 제어의 필수 부품",
    "thesis": "대기업 휴머노이드 액추에이터 실납품(우리 발굴 승자)",
    "risk": "전방 양산 속도",
-   "official": null,
+   "official": "에스피지",
    "tickerMismatch": false,
-   "price": 70600,
-   "changeRate": "0.00",
+   "price": 65700,
+   "changeRate": "-6.94",
    "sinceAddedPct": 1.4,
    "priceLog": [
     {

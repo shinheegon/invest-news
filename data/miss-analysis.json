@@ -1,19 +1,19 @@
 {
- "updatedAt": "2026-07-16T08:25:48+09:00",
+ "updatedAt": "2026-07-16T12:29:23+09:00",
  "note": "빗나감 자동 원인분류 + 자기발전 필터. 투자권유 아님.",
  "summary": {
-  "resolved": 109,
-  "miss": 59,
-  "missRate": 54.1,
+  "resolved": 112,
+  "miss": 60,
+  "missRate": 53.6,
   "preventable": 39,
-  "preventableShare": 66.1
+  "preventableShare": 65.0
  },
  "byCause": [
   {
    "cause": "weak_signal",
    "label": "신호 약함(구체 촉발재 없음)",
    "n": 37,
-   "share": 62.7,
+   "share": 61.7,
    "avgExcess": -4.67,
    "preventable": true,
    "examples": [
@@ -52,9 +52,9 @@
   {
    "cause": "idiosyncratic",
    "label": "개별 악재(불가피)",
-   "n": 16,
-   "share": 27.1,
-   "avgExcess": -4.16,
+   "n": 17,
+   "share": 28.3,
+   "avgExcess": -4.09,
    "preventable": false,
    "examples": [
     {
@@ -84,7 +84,7 @@
    "cause": "macro_riskoff",
    "label": "거시 위험회피(시장 동반 급락)",
    "n": 4,
-   "share": 6.8,
+   "share": 6.7,
    "avgExcess": -3.57,
    "preventable": false,
    "examples": [
@@ -121,7 +121,7 @@
    "cause": "theme_headwind",
    "label": "열세 테마(자금 이탈)",
    "n": 2,
-   "share": 3.4,
+   "share": 3.3,
    "avgExcess": -55.29,
    "preventable": true,
    "examples": [
@@ -148,7 +148,7 @@
  ],
  "learnedFilter": {
   "themeMissRate": {
-   "기타": 35.3,
+   "기타": 37.1,
    "바이오/의료": 100.0,
    "로봇/휴머노이드": 60.0,
    "반도체소재/장비": 66.7,
@@ -156,11 +156,11 @@
    "AI전력/데이터센터": 66.7,
    "이차전지": 40.0,
    "우주/방산": 66.7,
-   "AI반도체설계(팹리스/IP)": 33.3
+   "AI반도체설계(팹리스/IP)": 20.0
   },
   "signalMissRate": {
    "weak": 56.1,
-   "concrete": 51.2
+   "concrete": 50.0
   },
   "rules": [
    "'바이오/의료' 테마는 빗나감률 100.0% — 강한 회피(구체촉발재+승세 아니면 제외).",
@@ -169,15 +169,15 @@
    "'AI전력/데이터센터' 테마는 빗나감률 66.7% — 강한 회피(구체촉발재+승세 아니면 제외).",
    "'우주/방산' 테마는 빗나감률 66.7% — 강한 회피(구체촉발재+승세 아니면 제외).",
    "'로봇/휴머노이드' 테마는 빗나감률 60.0% — 강한 회피(구체촉발재+승세 아니면 제외).",
-   "구체 촉발재 없는 '테마 거론'류는 빗나감률 56.1%(구체재료 51.2%) — 약신호 단독 등재 금지."
+   "구체 촉발재 없는 '테마 거론'류는 빗나감률 56.1%(구체재료 50.0%) — 약신호 단독 등재 금지."
   ]
  },
  "macro": {
   "regime": "위험회피",
-  "kospi5d": -2.56,
-  "kosdaq5d": -0.96,
+  "kospi5d": -7.86,
+  "kosdaq5d": -3.72,
   "fearGreed": 46.0,
-  "vix": 15.67,
+  "vix": 16.5,
   "guidance": "소형주 언더퍼폼 국면 — 포착 수를 줄이고 승세테마×구체촉발재만 최고확신으로. 열세테마·약신호 전면 배제.",
   "asOf": "2026-07-16"
  },
@@ -216,17 +216,6 @@
    }
   },
   {
-   "date": "2026-07-16",
-   "resolved": 109,
-   "missRate": 54.1,
-   "causeShares": {
-    "weak_signal": 62.7,
-    "idiosyncratic": 27.1,
-    "macro_riskoff": 6.8,
-    "theme_headwind": 3.4
-   }
-  },
-  {
    "date": "2026-07-15",
    "resolved": 109,
    "missRate": 52.3,
@@ -239,15 +228,15 @@
   },
   {
    "date": "2026-07-16",
-   "resolved": 109,
-   "missRate": 52.3,
+   "resolved": 112,
+   "missRate": 53.6,
    "causeShares": {
-    "weak_signal": 64.9,
-    "idiosyncratic": 19.3,
-    "macro_riskoff": 12.3,
-    "theme_headwind": 3.5
+    "weak_signal": 61.7,
+    "idiosyncratic": 28.3,
+    "macro_riskoff": 6.7,
+    "theme_headwind": 3.3
    }
   }
  ],
- "develop": "직전(2026-07-15) 대비 빗나감률 56.7%→54.1% (-2.6p). 최다 원인=‘신호 약함(구체 촉발재 없음)’. 필터에 반영됨."
+ "develop": "직전(2026-07-15) 대비 빗나감률 52.3%→53.6% (+1.3p). 최다 원인=‘신호 약함(구체 촉발재 없음)’. 필터에 반영됨."
 }

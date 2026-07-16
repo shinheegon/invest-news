@@ -1,15 +1,18 @@
 {
-  "updatedAt": "2026-07-16T07:30:00+09:00", "session": "AM",
-  "stock_fng": { "value": 46, "label": "Neutral", "source": "https://www.benzinga.com/markets/market-summary/26/07/60406946/dow-gains-150-points-but-records-weekly-loss-investor-sentiment-improves-fear-greed-index-remains-in-neutral-zone" },
-  "indices": [
-    { "name": "코스피", "value": "7,284.41", "change": "+6.24% (+427.58p, '7천피' 탈환, 7/15 마감 · 오늘 7/16 정규장 개장 전)", "source": "https://www.yna.co.kr/view/AKR20260715134000008" },
-    { "name": "코스닥", "value": "829.43", "change": "+5.80% (+45.45p, 7/15 마감 · 오늘 7/16 정규장 개장 전)", "source": "https://view.asiae.co.kr/article/2026071515352561565" },
-    { "name": "S&P 500", "value": "7,572.40", "change": "+0.38% (7/15 현지시간 마감, 밤사이)", "source": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-july-15-dow-sp-nasdaq-091813320.html" },
-    { "name": "나스닥", "value": "26,269.23", "change": "+0.62% (7/15 현지시간 마감, 밤사이)", "source": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-july-15-dow-sp-nasdaq-091813320.html" },
-    { "name": "다우존스", "value": "52,658.64", "change": "+0.29% (+150.37p, 7/15 현지시간 마감)", "source": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-july-15-dow-sp-nasdaq-091813320.html" },
-    { "name": "VIX", "value": "15.67", "change": "-5.03% (-0.83p, 7/15 마감)", "source": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-july-15-dow-sp-nasdaq-091813320.html" },
-    { "name": "美 10년물", "value": "4.57%", "change": "-6bp (7/14, CPI 둔화 반영 이후 안정)", "source": "https://tradingeconomics.com/united-states/government-bond-yield" },
-    { "name": "달러인덱스(DXY)", "value": "100.91", "change": "-0.01 (7/14~7/15 보합권)", "source": "https://tradingeconomics.com/united-states/currency" },
-    { "name": "원/달러", "value": "1,484.7원", "change": "-8.3원 (7/15 15:30 기준가, 두달만에 1,480원대)", "source": "https://www.yna.co.kr/view/AKR20260715132100002" }
-  ]
+ "updatedAt": "2026-07-16T12:30:00+09:00",
+ "session": "AM",
+ "stock_fng": { "value": 46, "label": "Neutral", "source": "https://www.cnn.com/markets/fear-and-greed" },
+ "indices": [
+  { "name": "코스피", "value": "6,888.34 (장중 9:18)", "change": "-5.44%", "source": "https://www.fnnews.com/news/202607160935284917" },
+  { "name": "코스닥", "value": "806.25 (장중 9:18)", "change": "-2.79%", "source": "https://www.fnnews.com/news/202607160935284917" },
+  { "name": "S&P 500", "value": "7,572.43", "change": "+0.40%", "source": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-july-15-2026" },
+  { "name": "나스닥", "value": "26,269.23", "change": "+0.62%", "source": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-july-15-2026" },
+  { "name": "다우", "value": "52,659.18", "change": "+0.30%", "source": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-july-15-2026" },
+  { "name": "VIX", "value": "16.5", "change": "보합권", "source": "https://finance.yahoo.com/quote/%5EVIX/" },
+  { "name": "美 10년물", "value": "4.57%", "change": "-6bp", "source": "https://www.investing.com/rates-bonds/u.s.-10-year-bond-yield" },
+  { "name": "달러인덱스(DXY)", "value": "100.88", "change": "보합", "source": "https://www.bloomberg.com/markets" },
+  { "name": "원/달러", "value": "1,490.5 (장중)", "change": "+2.5", "source": "https://www.newsis.com/view/NISX20260715_0003709778" },
+  { "name": "WTI", "value": "$80.17", "change": "+1.05%", "source": "https://tradingeconomics.com/commodity/crude-oil" },
+  { "name": "한국 기준금리", "value": "2.75%", "change": "+0.25%p 인상(만장일치)", "source": "https://www.fnnews.com/news/202607160906160318" }
+ ]
 }
