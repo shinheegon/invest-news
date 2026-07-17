@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-07-17T08:19:13+09:00",
+ "updatedAt": "2026-07-17T20:52:18+09:00",
  "cases": [
   {
    "name": "이지트로닉스(377330)",
@@ -8849,6 +8849,19 @@
    "theme": "로봇/휴머노이드",
    "status": "pending",
    "checks": []
+  },
+  {
+   "name": "이엠앤아이",
+   "type": "leading",
+   "market": "韓",
+   "flagDate": "2026-07-17",
+   "signals": [
+    "정책실증주관사선정(경기도 제조로봇 이니셔티브)",
+    "테마첫거론"
+   ],
+   "theme": "로봇/휴머노이드",
+   "status": "pending",
+   "checks": []
   }
  ],
  "stats": {
@@ -8858,8 +8871,8 @@
   "miss": 62,
   "hitRate": 16.8,
   "avgD3ChangePct": -0.01,
-  "pending": 30,
-  "total": 161,
+  "pending": 31,
+  "total": 162,
   "byType": {
    "leading": {
     "verified": 68,

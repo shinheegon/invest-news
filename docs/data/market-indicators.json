@@ -1,5 +1,6 @@
 {
-  "updatedAt": "2026-07-17T08:10:00+09:00", "session": "AM",
+  "updatedAt": "2026-07-17T20:45:00+09:00", "session": "PM",
+  "note": "2026-07-17(금) 제헌절 국내 증시 휴장 — 지수·환율은 직전 거래일(7/16 목) 마감 기준 유지. 美 지표도 7/16 마감 기준(당일 저녁 KST 기준 美 개장 전).",
   "stock_fng": { "value": 46, "label": "Neutral", "source": "https://www.cnn.com/markets/fear-and-greed" },
   "indices": [
     { "name": "코스피", "value": "6,820.60 (7/16 종가·개장전)", "change": "-6.37%", "source": "https://www.mt.co.kr/stock/2026/07/16/2026071615305048444" },

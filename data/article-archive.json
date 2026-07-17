@@ -9,6 +9,12 @@
      "link": "https://www.hankyung.com/article/2026071692556"
     },
     {
+     "date": "2026-07-17",
+     "source": "연합뉴스·경제",
+     "title": "최태원, \"SK하이닉스 주식, 샀다 팔았다 말고 갖고 있으면 돼\"",
+     "link": "https://www.yna.co.kr/view/AKR20260717026000003"
+    },
+    {
      "date": "2026-07-16",
      "source": "한국경제·경제",
      "title": "\"믿을 수 없을 정도\"…일본서 'SK하이닉스' 샤라웃한 젠슨황",
@@ -715,17 +721,17 @@
      "source": "한국경제·증권",
      "title": "주가 조정돼도…초고수의 픽은 'SK하이닉스·삼성전자'",
      "link": "https://www.hankyung.com/article/202606269750i"
-    },
-    {
-     "date": "2026-06-26",
-     "source": "한국경제·증권",
-     "title": "\"SK하이닉스, 올해 내년 영업익 294조원 435조원…목표가↑\"-하나",
-     "link": "https://www.hankyung.com/article/2026062690166"
     }
    ]
   },
   "삼성전자(005930)": {
    "articles": [
+    {
+     "date": "2026-07-17",
+     "source": "한국경제·경제",
+     "title": "\"40조원 성과급 잔치 못 참아\"…삼성전자 개미들 행동 나섰다",
+     "link": "https://www.hankyung.com/article/2026071710937"
+    },
     {
      "date": "2026-07-16",
      "source": "한국경제·경제",
@@ -1439,12 +1445,6 @@
      "source": "한국경제·증권",
      "title": "SK하닉 '45조' 美 상장 노리는데…삼성전자 전망에 '깜짝' [강경주의 테크X]",
      "link": "https://www.hankyung.com/article/2026062604096"
-    },
-    {
-     "date": "2026-06-26",
-     "source": "한국경제·증권",
-     "title": "주가 조정돼도…초고수의 픽은 'SK하이닉스·삼성전자'",
-     "link": "https://www.hankyung.com/article/202606269750i"
     }
    ]
   },
@@ -2745,6 +2745,12 @@
   "삼성전기(009150)": {
    "articles": [
     {
+     "date": "2026-07-17",
+     "source": "한국경제·증권",
+     "title": "42% 급락한 삼성전기 담는 외국인…\"2028년 영업익 2.7배\"",
+     "link": "https://www.hankyung.com/article/202607169668i"
+    },
+    {
      "date": "2026-07-16",
      "source": "한국경제·증권",
      "title": "\"삼성전기, 이익 개선세 2028년까지 이어질 것…목표가↑\"-IBK",
@@ -3237,6 +3243,12 @@
   "카카오(035720)": {
    "articles": [
     {
+     "date": "2026-07-17",
+     "source": "한국경제·경제",
+     "title": "정중동 전략?…'얼굴' 안 내미는 카카오페이",
+     "link": "https://www.hankyung.com/article/2026071712191"
+    },
+    {
      "date": "2026-07-16",
      "source": "한국경제·경제",
      "title": "기아, 카카오모빌리티와 자율주행 서비스 전용 PBV 개발 협력",
@@ -3444,6 +3456,12 @@
   },
   "네이버(035420)": {
    "articles": [
+    {
+     "date": "2026-07-17",
+     "source": "한국경제·경제",
+     "title": "단말기 많은 토스, 성장 빠른 네이버…오프라인 결제 '정面승부'",
+     "link": "https://www.hankyung.com/article/2026071712211"
+    },
     {
      "date": "2026-07-15",
      "source": "한국경제·경제",
@@ -3732,6 +3750,12 @@
   },
   "스페이스X(SPCX)": {
    "articles": [
+    {
+     "date": "2026-07-17",
+     "source": "한국경제·증권",
+     "title": "TSMC 끝내줬지만, 반도체 4.3% 급락…스페이스X의 경착륙 [김현석의 월스트리트나우]",
+     "link": "https://www.hankyung.com/article/202607170670i"
+    },
     {
      "date": "2026-07-16",
      "source": "한국경제·경제",
@@ -4887,6 +4911,24 @@
   "마이크론(MU)": {
    "articles": [
     {
+     "date": "2026-07-17",
+     "source": "한국경제·경제",
+     "title": "모비스·하만, 마이크론과 '車메모리' 장기 계약",
+     "link": "https://www.hankyung.com/article/2026071711911"
+    },
+    {
+     "date": "2026-07-17",
+     "source": "한국경제·경제",
+     "title": "마이크론·현대모비스·퀄컴 '부품 동맹' 맺었다…장기 계약 체결",
+     "link": "https://www.hankyung.com/article/2026071706567"
+    },
+    {
+     "date": "2026-07-17",
+     "source": "아시아경제",
+     "title": "마이크론, 현대모비스·퀄컴과 차량용 메모리 공급 장기계약",
+     "link": "https://view.asiae.co.kr/article/2026071709094250244"
+    },
+    {
      "date": "2026-07-10",
      "source": "한국경제·증권",
      "title": "마이크론, 美 반도체 공장 투자 2500억달러로 늘려",
@@ -5532,6 +5574,18 @@
   },
   "키옥시아(285A)": {
    "articles": [
+    {
+     "date": "2026-07-17",
+     "source": "한국경제·증권",
+     "title": "日키옥시아 시총 반토막…亞 반도체 일제히 급락",
+     "link": "https://www.hankyung.com/article/2026071712541"
+    },
+    {
+     "date": "2026-07-17",
+     "source": "한국경제·증권",
+     "title": "AI 우려에 무너진 키옥시아·TSMC…아시아 증시, '검은 금요일'",
+     "link": "https://www.hankyung.com/article/202607170983i"
+    },
     {
      "date": "2026-07-09",
      "source": "한국경제·경제",
@@ -6614,6 +6668,12 @@
   },
   "LG전자(066570)": {
    "articles": [
+    {
+     "date": "2026-07-17",
+     "source": "한국경제·경제",
+     "title": "LG전자, 목재 소재로 모듈러 주택 만든다",
+     "link": "https://www.hankyung.com/article/2026071711941"
+    },
     {
      "date": "2026-07-16",
      "source": "한국경제·경제",
@@ -7967,6 +8027,12 @@
   "카카오페이(377300)": {
    "articles": [
     {
+     "date": "2026-07-17",
+     "source": "한국경제·경제",
+     "title": "정중동 전략?…'얼굴' 안 내미는 카카오페이",
+     "link": "https://www.hankyung.com/article/2026071712191"
+    },
+    {
      "date": "2026-07-13",
      "source": "아시아경제",
      "title": "카카오페이증권, 투자매매업 인가 획득…IPO 주관 가능해져",
@@ -8108,6 +8174,18 @@
   },
   "퀄컴(QCOM)": {
    "articles": [
+    {
+     "date": "2026-07-17",
+     "source": "한국경제·경제",
+     "title": "마이크론·현대모비스·퀄컴 '부품 동맹' 맺었다…장기 계약 체결",
+     "link": "https://www.hankyung.com/article/2026071706567"
+    },
+    {
+     "date": "2026-07-17",
+     "source": "아시아경제",
+     "title": "마이크론, 현대모비스·퀄컴과 차량용 메모리 공급 장기계약",
+     "link": "https://view.asiae.co.kr/article/2026071709094250244"
+    },
     {
      "date": "2026-07-09",
      "source": "한국경제·경제",
@@ -8266,6 +8344,18 @@
   },
   "현대모비스(012330)": {
    "articles": [
+    {
+     "date": "2026-07-17",
+     "source": "한국경제·경제",
+     "title": "마이크론·현대모비스·퀄컴 '부품 동맹' 맺었다…장기 계약 체결",
+     "link": "https://www.hankyung.com/article/2026071706567"
+    },
+    {
+     "date": "2026-07-17",
+     "source": "아시아경제",
+     "title": "마이크론, 현대모비스·퀄컴과 차량용 메모리 공급 장기계약",
+     "link": "https://view.asiae.co.kr/article/2026071709094250244"
+    },
     {
      "date": "2026-07-13",
      "source": "연합뉴스·경제",
@@ -10047,6 +10137,12 @@
   "에코프로(086520)": {
    "articles": [
     {
+     "date": "2026-07-17",
+     "source": "한국경제·경제",
+     "title": "에코프로비엠 \"유증 자금, 미래 성장에 쓸 것\"",
+     "link": "https://www.hankyung.com/article/2026071711891"
+    },
+    {
      "date": "2026-07-15",
      "source": "한국경제·경제",
      "title": "금감원, 에코프로비엠 '1.2조 유증' 제동",
@@ -10333,6 +10429,24 @@
      "source": "한국경제·증권",
      "title": "'420만원 vs 185만원'…SK하이닉스 '극과 극' 전망 이유 있었다 [종목+]",
      "link": "https://www.hankyung.com/article/2026071692556"
+    },
+    {
+     "date": "2026-07-17",
+     "source": "한국경제·증권",
+     "title": "\"SK하닉 주식 '샀다 팔았다' 그만\"…최태원 회장의 'AI 전망'",
+     "link": "https://www.hankyung.com/article/2026071708397"
+    },
+    {
+     "date": "2026-07-17",
+     "source": "한국경제·증권",
+     "title": "데이터센터·엔트로픽·기저효과…SK텔레콤 주가상승 기대하는 세가지 이유",
+     "link": "https://www.hankyung.com/article/202607169008i"
+    },
+    {
+     "date": "2026-07-17",
+     "source": "연합뉴스·경제",
+     "title": "최태원, \"SK하이닉스 주식, 샀다 팔았다 말고 갖고 있으면 돼\"",
+     "link": "https://www.yna.co.kr/view/AKR20260717026000003"
     },
     {
      "date": "2026-07-16",
@@ -11023,29 +11137,17 @@
      "source": "한국경제·증권",
      "title": "애프터마켓서 SK하닉 200만원·삼전 27만원 붕괴",
      "link": "https://www.hankyung.com/article/2026070837387"
-    },
-    {
-     "date": "2026-07-09",
-     "source": "한국경제·증권",
-     "title": "벌써 초과청약…SK하이닉스 美ADR 공모 '후끈'",
-     "link": "https://www.hankyung.com/article/2026070835881"
-    },
-    {
-     "date": "2026-07-09",
-     "source": "연합뉴스·경제",
-     "title": "KB증권 \"SK하이닉스 ADR 상장, TSMC 사례처럼 재평가 기대\"",
-     "link": "https://www.yna.co.kr/view/AKR20260709071700008"
-    },
-    {
-     "date": "2026-07-09",
-     "source": "연합뉴스·경제",
-     "title": "SK증권 \"LG유플러스, 2분기 실적 개선·주주환원 확대 기대\"",
-     "link": "https://www.yna.co.kr/view/AKR20260709038300008"
     }
    ]
   },
   "에코프로비엠(247540)": {
    "articles": [
+    {
+     "date": "2026-07-17",
+     "source": "한국경제·경제",
+     "title": "에코프로비엠 \"유증 자금, 미래 성장에 쓸 것\"",
+     "link": "https://www.hankyung.com/article/2026071711891"
+    },
     {
      "date": "2026-07-15",
      "source": "한국경제·경제",
@@ -11181,6 +11283,30 @@
      "source": "MarketWatch",
      "title": "As SpaceX’s stock notches first close below IPO price, the company is gearing up for a crucial launch",
      "link": "https://www.marketwatch.com/story/spacexs-starship-is-set-for-takeoff-and-its-floundering-stock-could-use-the-lift-ec5629d5?mod=mw_rss_topstories"
+    },
+    {
+     "date": "2026-07-17",
+     "source": "MarketWatch",
+     "title": "Ranch dressing and stuffed raccoons: Some of the World Cup’s biggest winners as Spain and Argentina face off in the final",
+     "link": "https://www.marketwatch.com/story/ranch-dressing-and-stuffed-raccoons-some-of-the-world-cups-biggest-winners-as-spain-and-argentina-face-off-in-the-final-1cf72d0c?mod=mw_rss_topstories"
+    },
+    {
+     "date": "2026-07-17",
+     "source": "MarketWatch",
+     "title": "‘Respect is important’: If my financial adviser said, ‘Hey,’ my wife and I would walk out. Where do you draw the line?",
+     "link": "https://www.marketwatch.com/story/respect-is-important-if-my-financial-adviser-said-hey-my-wife-and-i-would-walk-out-where-do-you-draw-the-line-5fbf5879?mod=mw_rss_topstories"
+    },
+    {
+     "date": "2026-07-17",
+     "source": "MarketWatch",
+     "title": "SpaceX postponed a crucial launch — now its stock is set to slide even further below the IPO price",
+     "link": "https://www.marketwatch.com/story/spacex-postponed-a-crucial-launch-now-its-stock-is-set-to-slide-even-further-below-the-ipo-price-143adfe0?mod=mw_rss_topstories"
+    },
+    {
+     "date": "2026-07-17",
+     "source": "MarketWatch",
+     "title": "Retail investors had been outperforming the market since May. Not any more.",
+     "link": "https://www.marketwatch.com/story/retail-investors-had-been-outperforming-the-market-since-may-not-any-more-8cf1e46d?mod=mw_rss_topstories"
     },
     {
      "date": "2026-07-16",
@@ -11828,6 +11954,18 @@
   },
   "알파벳(GOOGL)": {
    "articles": [
+    {
+     "date": "2026-07-17",
+     "source": "한국경제·증권",
+     "title": "'제미나이 3.5 프로' 출시 지연에 실망…알파벳 휘청",
+     "link": "https://www.hankyung.com/article/2026071712241"
+    },
+    {
+     "date": "2026-07-17",
+     "source": "한국경제·증권",
+     "title": "구글 '제미나이 3.5 프로' 출시 지연에 알파벳 주가 4% 넘게 하락",
+     "link": "https://www.hankyung.com/article/202607171084i"
+    },
     {
      "date": "2026-07-16",
      "source": "한국경제·증권",
@@ -14211,6 +14349,12 @@
   "APS(054620)": {
    "articles": [
     {
+     "date": "2026-07-17",
+     "source": "MarketWatch",
+     "title": "Buyer snaps up Josh Duhamel’s $3 million L.A. home as actor embraces his Minnesota ‘doomsday prepper’ cabin",
+     "link": "https://www.marketwatch.com/story/buyer-snaps-up-josh-duhamels-3-million-l-a-home-as-actor-embraces-his-minnesota-doomsday-prepper-cabin-6666879e?mod=mw_rss_topstories"
+    },
+    {
      "date": "2026-07-07",
      "source": "연합뉴스·경제",
      "title": "APS \"유피아이 주식 180억원어치 취득…지분율 100%\"",
@@ -15403,6 +15547,12 @@
   "이마트(139480)": {
    "articles": [
     {
+     "date": "2026-07-17",
+     "source": "연합뉴스·경제",
+     "title": "이마트24-콘진원, 국내 콘텐츠 산업 성장 지원 위해 업무협약",
+     "link": "https://www.yna.co.kr/view/AKR20260717018700030"
+    },
+    {
      "date": "2026-07-16",
      "source": "한국경제·경제",
      "title": "크기 줄이고 가격 낮추니…이마트 피자 매출 20% '쑥'",
@@ -15812,6 +15962,18 @@
   },
   "TSMC(TSM)": {
    "articles": [
+    {
+     "date": "2026-07-17",
+     "source": "한국경제·증권",
+     "title": "AI 우려에 무너진 키옥시아·TSMC…아시아 증시, '검은 금요일'",
+     "link": "https://www.hankyung.com/article/202607170983i"
+    },
+    {
+     "date": "2026-07-17",
+     "source": "한국경제·증권",
+     "title": "TSMC 끝내줬지만, 반도체 4.3% 급락…스페이스X의 경착륙 [김현석의 월스트리트나우]",
+     "link": "https://www.hankyung.com/article/202607170670i"
+    },
     {
      "date": "2026-07-16",
      "source": "한국경제·증권",
@@ -16753,6 +16915,12 @@
   "SK텔레콤(017670)": {
    "articles": [
     {
+     "date": "2026-07-17",
+     "source": "한국경제·증권",
+     "title": "데이터센터·엔트로픽·기저효과…SK텔레콤 주가상승 기대하는 세가지 이유",
+     "link": "https://www.hankyung.com/article/202607169008i"
+    },
+    {
      "date": "2026-07-16",
      "source": "한국경제·증권",
      "title": "코스피 폭락에도 8% 급등…SK텔레콤에 대체 무슨 일이 [종목+]",
@@ -16809,7 +16977,17 @@
      "link": "https://www.yna.co.kr/view/AKR20260716161600054"
     }
    ]
+  },
+  "아스테라랩스(ALAB)": {
+   "articles": [
+    {
+     "date": "2026-07-17",
+     "source": "한국경제·증권",
+     "title": "아스테라랩스, AI 데이터센터의 '동맥경화' 방지",
+     "link": "https://www.hankyung.com/article/202607168097i"
+    }
+   ]
   }
  },
- "updatedAt": "2026-07-17T08:03:17+09:00"
+ "updatedAt": "2026-07-17T20:35:08+09:00"
 }
