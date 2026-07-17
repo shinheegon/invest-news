@@ -5763,6 +5763,12 @@
   "삼성화재(000810)": {
    "articles": [
     {
+     "date": "2026-07-18",
+     "source": "한국경제·경제",
+     "title": "2주만에 14% 오른 삼성화재…주가 회복 기대에 '들썩'",
+     "link": "https://www.hankyung.com/article/202607170726i"
+    },
+    {
      "date": "2026-07-16",
      "source": "아시아경제",
      "title": "[클릭 e종목]\"대장이 돌아왔다\" 삼성화재 목표가 62만→87만원",
@@ -9425,6 +9431,12 @@
   "하이트진로(000080)": {
    "articles": [
     {
+     "date": "2026-07-18",
+     "source": "연합뉴스·경제",
+     "title": "[신상잇슈] 하이트진로 '일품진로 26년산'·엔제리너스-동화약품 '배러'",
+     "link": "https://www.yna.co.kr/view/AKR20260716198200030"
+    },
+    {
      "date": "2026-07-14",
      "source": "연합뉴스·경제",
      "title": "하이트진로, '켈리' 패키지 개편…참이슬 부산 에디션도 출시",
@@ -10419,6 +10431,12 @@
   "SK(034730)": {
    "articles": [
     {
+     "date": "2026-07-18",
+     "source": "한국경제·경제",
+     "title": "\"주가 당장 모르지만, SK하닉 갖고 있으라\"…최태원, 깜짝 조언 [강경주의 테크X]",
+     "link": "https://www.hankyung.com/article/2026071709306"
+    },
+    {
      "date": "2026-07-17",
      "source": "한국경제·증권",
      "title": "'SK하닉 본주 한국에 있는데…' ADR 프리미엄 굳어지나 [노정동의 어쩌다 투자자]",
@@ -11131,12 +11149,6 @@
      "source": "한국경제·증권",
      "title": "[포토] '국민주' 삼성전자·SK하이닉스 휘청…코스피 7200선 간신히 사수",
      "link": "https://www.hankyung.com/article/202607083755i"
-    },
-    {
-     "date": "2026-07-09",
-     "source": "한국경제·증권",
-     "title": "애프터마켓서 SK하닉 200만원·삼전 27만원 붕괴",
-     "link": "https://www.hankyung.com/article/2026070837387"
     }
    ]
   },
@@ -11278,6 +11290,12 @@
   },
   "NC(036570)": {
    "articles": [
+    {
+     "date": "2026-07-18",
+     "source": "CNBC·Economy",
+     "title": "Import prices post surprise gain as costs of goods from China hit highest since 2008",
+     "link": "https://www.cnbc.com/2026/07/17/import-prices-post-surprise-gain-as-costs-of-goods-from-china-hit-highest-since-2008.html"
+    },
     {
      "date": "2026-07-17",
      "source": "MarketWatch",
@@ -15785,6 +15803,12 @@
   "홈플러스": {
    "articles": [
     {
+     "date": "2026-07-18",
+     "source": "한국경제·경제",
+     "title": "\"2000억 들어와도 불안\"…홈플러스 직원들 웃지 못하는 까닭 [현장+]",
+     "link": "https://www.hankyung.com/article/202607171087g"
+    },
+    {
      "date": "2026-07-16",
      "source": "연합뉴스·경제",
      "title": "[2보] 메리츠, 홈플러스 회생 긴급자금 2천억원 지원 승인",
@@ -16989,5 +17013,5 @@
    ]
   }
  },
- "updatedAt": "2026-07-17T20:35:08+09:00"
+ "updatedAt": "2026-07-18T07:55:40+09:00"
 }

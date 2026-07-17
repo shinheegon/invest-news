@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-07-17T20:52:18+09:00",
+ "updatedAt": "2026-07-18T08:15:27+09:00",
  "cases": [
   {
    "name": "이지트로닉스(377330)",
@@ -8862,6 +8862,46 @@
    "theme": "로봇/휴머노이드",
    "status": "pending",
    "checks": []
+  },
+  {
+   "name": "에이디테크놀로지(200710)",
+   "type": "discovery",
+   "market": "韓",
+   "flagDate": "2026-07-18",
+   "signals": [
+    "ASIC/턴키확정계약(395.84억+400억)",
+    "AI반도체설계승세테마"
+   ],
+   "theme": "AI반도체설계(팹리스/IP)",
+   "status": "pending",
+   "checks": [],
+   "flagPrice": 29400,
+   "priceLog": [
+    {
+     "date": "2026-07-16",
+     "price": 29400
+    }
+   ]
+  },
+  {
+   "name": "세미파이브(373170)",
+   "type": "discovery",
+   "market": "韓",
+   "flagDate": "2026-07-18",
+   "signals": [
+    "4나노NPU턴키계약(180억)",
+    "AI반도체설계승세테마"
+   ],
+   "theme": "AI반도체설계(팹리스/IP)",
+   "status": "pending",
+   "checks": [],
+   "flagPrice": 1580,
+   "priceLog": [
+    {
+     "date": "2026-07-16",
+     "price": 1580
+    }
+   ]
   }
  ],
  "stats": {
@@ -8871,8 +8911,8 @@
   "miss": 62,
   "hitRate": 16.8,
   "avgD3ChangePct": -0.01,
-  "pending": 31,
-  "total": 162,
+  "pending": 33,
+  "total": 164,
   "byType": {
    "leading": {
     "verified": 68,

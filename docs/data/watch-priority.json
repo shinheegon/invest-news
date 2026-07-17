@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-07-17T20:52:18+09:00",
+ "updatedAt": "2026-07-18T08:15:27+09:00",
  "note": "대기 예측을 학습패턴(승세테마+구체촉발재)으로 점수화. 투자권유 아님.",
  "top": [
   {
@@ -52,6 +52,24 @@
    "type": "leading",
    "theme": "AI반도체설계(팹리스/IP)",
    "flagDate": "2026-07-16",
+   "score": 3,
+   "concrete": false,
+   "why": "승세테마(AI반도체설계(팹리스/IP)) · 신호약함(테마첫거론류)"
+  },
+  {
+   "name": "에이디테크놀로지(200710)",
+   "type": "discovery",
+   "theme": "AI반도체설계(팹리스/IP)",
+   "flagDate": "2026-07-18",
+   "score": 3,
+   "concrete": false,
+   "why": "승세테마(AI반도체설계(팹리스/IP)) · 신호약함(테마첫거론류)"
+  },
+  {
+   "name": "세미파이브(373170)",
+   "type": "discovery",
+   "theme": "AI반도체설계(팹리스/IP)",
+   "flagDate": "2026-07-18",
    "score": 3,
    "concrete": false,
    "why": "승세테마(AI반도체설계(팹리스/IP)) · 신호약함(테마첫거론류)"
@@ -119,6 +137,24 @@
    "type": "leading",
    "theme": "AI반도체설계(팹리스/IP)",
    "flagDate": "2026-07-16",
+   "score": 3,
+   "concrete": false,
+   "why": "승세테마(AI반도체설계(팹리스/IP)) · 신호약함(테마첫거론류)"
+  },
+  {
+   "name": "에이디테크놀로지(200710)",
+   "type": "discovery",
+   "theme": "AI반도체설계(팹리스/IP)",
+   "flagDate": "2026-07-18",
+   "score": 3,
+   "concrete": false,
+   "why": "승세테마(AI반도체설계(팹리스/IP)) · 신호약함(테마첫거론류)"
+  },
+  {
+   "name": "세미파이브(373170)",
+   "type": "discovery",
+   "theme": "AI반도체설계(팹리스/IP)",
+   "flagDate": "2026-07-18",
    "score": 3,
    "concrete": false,
    "why": "승세테마(AI반도체설계(팹리스/IP)) · 신호약함(테마첫거론류)"

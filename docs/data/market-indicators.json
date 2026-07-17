@@ -1,18 +1,17 @@
 {
-  "updatedAt": "2026-07-17T20:45:00+09:00", "session": "PM",
-  "note": "2026-07-17(금) 제헌절 국내 증시 휴장 — 지수·환율은 직전 거래일(7/16 목) 마감 기준 유지. 美 지표도 7/16 마감 기준(당일 저녁 KST 기준 美 개장 전).",
-  "stock_fng": { "value": 46, "label": "Neutral", "source": "https://www.cnn.com/markets/fear-and-greed" },
+  "updatedAt": "2026-07-18T07:55:00+09:00", "session": "AM",
+  "note": "2026-07-17(금)은 美 증시만 개장(신규 마감치), 국내 증시는 7/17 제헌절 휴장에 이어 7/18(토)도 주말 휴장 — 코스피·코스닥·원/달러는 직전 거래일(7/16 목) 마감 기준 유지.",
+  "stock_fng": { "value": 43, "label": "Fear", "source": "https://www.benzinga.com/markets/market-summary/26/07/60516921/nasdaq-tumbles-1-5-amid-selloff-in-chip-stocks-investor-sentiment-weakens-greed-index-moves-to-fear-zone" },
   "indices": [
-    { "name": "코스피", "value": "6,820.60 (7/16 종가·개장전)", "change": "-6.37%", "source": "https://www.mt.co.kr/stock/2026/07/16/2026071615305048444" },
-    { "name": "코스닥", "value": "791.84 (7/16 종가·개장전)", "change": "-4.53%", "source": "https://www.mt.co.kr/stock/2026/07/16/2026071615311157540" },
-    { "name": "S&P 500", "value": "7,533.77 (7/16 종가)", "change": "-0.51%", "source": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-july-16-dow-sp-500-nasdaq-chip-stocks-slide-103116735.html" },
-    { "name": "나스닥", "value": "25,881.95 (7/16 종가)", "change": "-1.47%", "source": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-july-16-dow-sp-500-nasdaq-chip-stocks-slide-103116735.html" },
-    { "name": "다우", "value": "52,552.97 (7/16 종가)", "change": "-0.20%", "source": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-july-16-2026" },
-    { "name": "필라델피아반도체(SOX)", "value": "12,398.89 (7/16 종가)", "change": "-2.08%(30종목 중 25종목 하락)", "source": "https://invezz.com/za/news/2026/07/16/micron-sk-hynix-other-memory-stocks-fall-as-tsmc-outlook-sparks-chip-selloff/" },
-    { "name": "VIX", "value": "16.73 (7/16 종가)", "change": "+6.76%", "source": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-july-16-dow-sp-500-nasdaq-chip-stocks-slide-103116735.html" },
-    { "name": "美 10년물", "value": "약 4.56~4.58%", "change": "소폭 등락", "source": "https://tradingeconomics.com/united-states/government-bond-yield" },
-    { "name": "달러인덱스(DXY)", "value": "약 100.91", "change": "7월초 101.39 고점서 하락", "source": "https://en.macromicro.me/collections/51/us-treasury-bond/136190/usdollar-index-vs-us-treasury-yield-vs-tga-balance" },
-    { "name": "원/달러", "value": "1,480.4원 (7/16 15:30 기준·개장전)", "change": "-4.3원", "source": "https://www.mt.co.kr/economy/2026/07/16/2026071615382484457" },
-    { "name": "한국 기준금리", "value": "2.75%", "change": "+0.25%p 인상(만장일치, 3년6개월만 긴축전환, 7/16)", "source": "https://www.fnnews.com/news/202607161824373715" }
+    { "name": "코스피", "value": "6,820.60 (7/16 종가·휴장중)", "change": "-6.37%", "source": "https://view.asiae.co.kr/article/2026071615403599099" },
+    { "name": "코스닥", "value": "791.84 (7/16 종가·휴장중)", "change": "-4.53%", "source": "https://view.asiae.co.kr/article/2026071615412210205" },
+    { "name": "S&P 500", "value": "7,457 (7/17 종가)", "change": "-1.02%", "source": "https://www.fool.com/coverage/stock-market-today/2026/07/17/stock-market-today-july-17-stocks-slide-as-semiconductor-rout-deepens/" },
+    { "name": "나스닥", "value": "25,520 (7/17 종가)", "change": "-1.40%", "source": "https://www.fool.com/coverage/stock-market-today/2026/07/17/stock-market-today-july-17-stocks-slide-as-semiconductor-rout-deepens/" },
+    { "name": "다우", "value": "52,146 (7/17 종가)", "change": "-0.77%", "source": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-july-17-2026" },
+    { "name": "VIX", "value": "18.77 (7/17 종가)", "change": "+12.19%(+2.04pt)", "source": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-july-17-2026" },
+    { "name": "美 10년물", "value": "4.55%", "change": "-0.01%p", "source": "https://tradingeconomics.com/united-states/government-bond-yield" },
+    { "name": "달러인덱스(DXY)", "value": "100.6", "change": "소폭 상승", "source": "https://tradingeconomics.com/united-states/currency" },
+    { "name": "원/달러", "value": "1,480.4원 (7/16 15:30 기준·휴장중)", "change": "-4.3원", "source": "https://www.yna.co.kr/view/AKR20260716150100002" },
+    { "name": "한국 기준금리", "value": "2.75%", "change": "+0.25%p 인상(만장일치, 3년6개월만 긴축전환, 7/16)", "source": "https://www.fnnews.com/news/202607160953106773" }
   ]
 }
