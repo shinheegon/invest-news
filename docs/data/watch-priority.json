@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-07-18T20:28:25+09:00",
+ "updatedAt": "2026-07-19T08:12:43+09:00",
  "note": "대기 예측을 학습패턴(승세테마+구체촉발재)으로 점수화. 투자권유 아님.",
  "top": [
   {
@@ -39,6 +39,24 @@
    "why": "승세테마(AI반도체설계(팹리스/IP)) · 구체촉발재: SSD컨트롤러공급계약(420억)"
   },
   {
+   "name": "자람테크놀로지(389020)",
+   "type": "leading",
+   "theme": "AI반도체설계(팹리스/IP)",
+   "flagDate": "2026-07-19",
+   "score": 5,
+   "concrete": true,
+   "why": "승세테마(AI반도체설계(팹리스/IP)) · 구체촉발재: 유럽2차양산수주13억"
+  },
+  {
+   "name": "가온칩스(399720)",
+   "type": "discovery",
+   "theme": "AI반도체설계(팹리스/IP)",
+   "flagDate": "2026-07-19",
+   "score": 5,
+   "concrete": true,
+   "why": "승세테마(AI반도체설계(팹리스/IP)) · 구체촉발재: 일본향AI반도체설계수주재부각"
+  },
+  {
    "name": "에이직랜드(445090)",
    "type": "leading",
    "theme": "AI반도체설계(팹리스/IP)",
@@ -70,6 +88,33 @@
    "type": "discovery",
    "theme": "AI반도체설계(팹리스/IP)",
    "flagDate": "2026-07-18",
+   "score": 3,
+   "concrete": false,
+   "why": "승세테마(AI반도체설계(팹리스/IP)) · 신호약함(테마첫거론류)"
+  },
+  {
+   "name": "파두(440110)",
+   "type": "leading",
+   "theme": "AI반도체설계(팹리스/IP)",
+   "flagDate": "2026-07-19",
+   "score": 3,
+   "concrete": false,
+   "why": "승세테마(AI반도체설계(팹리스/IP)) · 신호약함(테마첫거론류)"
+  },
+  {
+   "name": "에이디테크놀로지(200710)",
+   "type": "leading",
+   "theme": "AI반도체설계(팹리스/IP)",
+   "flagDate": "2026-07-19",
+   "score": 3,
+   "concrete": false,
+   "why": "승세테마(AI반도체설계(팹리스/IP)) · 신호약함(테마첫거론류)"
+  },
+  {
+   "name": "세미파이브(490470)",
+   "type": "discovery",
+   "theme": "AI반도체설계(팹리스/IP)",
+   "flagDate": "2026-07-19",
    "score": 3,
    "concrete": false,
    "why": "승세테마(AI반도체설계(팹리스/IP)) · 신호약함(테마첫거론류)"
@@ -124,6 +169,24 @@
    "why": "승세테마(AI반도체설계(팹리스/IP)) · 구체촉발재: SSD컨트롤러공급계약(420억)"
   },
   {
+   "name": "자람테크놀로지(389020)",
+   "type": "leading",
+   "theme": "AI반도체설계(팹리스/IP)",
+   "flagDate": "2026-07-19",
+   "score": 5,
+   "concrete": true,
+   "why": "승세테마(AI반도체설계(팹리스/IP)) · 구체촉발재: 유럽2차양산수주13억"
+  },
+  {
+   "name": "가온칩스(399720)",
+   "type": "discovery",
+   "theme": "AI반도체설계(팹리스/IP)",
+   "flagDate": "2026-07-19",
+   "score": 5,
+   "concrete": true,
+   "why": "승세테마(AI반도체설계(팹리스/IP)) · 구체촉발재: 일본향AI반도체설계수주재부각"
+  },
+  {
    "name": "에이직랜드(445090)",
    "type": "leading",
    "theme": "AI반도체설계(팹리스/IP)",
@@ -155,6 +218,33 @@
    "type": "discovery",
    "theme": "AI반도체설계(팹리스/IP)",
    "flagDate": "2026-07-18",
+   "score": 3,
+   "concrete": false,
+   "why": "승세테마(AI반도체설계(팹리스/IP)) · 신호약함(테마첫거론류)"
+  },
+  {
+   "name": "파두(440110)",
+   "type": "leading",
+   "theme": "AI반도체설계(팹리스/IP)",
+   "flagDate": "2026-07-19",
+   "score": 3,
+   "concrete": false,
+   "why": "승세테마(AI반도체설계(팹리스/IP)) · 신호약함(테마첫거론류)"
+  },
+  {
+   "name": "에이디테크놀로지(200710)",
+   "type": "leading",
+   "theme": "AI반도체설계(팹리스/IP)",
+   "flagDate": "2026-07-19",
+   "score": 3,
+   "concrete": false,
+   "why": "승세테마(AI반도체설계(팹리스/IP)) · 신호약함(테마첫거론류)"
+  },
+  {
+   "name": "세미파이브(490470)",
+   "type": "discovery",
+   "theme": "AI반도체설계(팹리스/IP)",
+   "flagDate": "2026-07-19",
    "score": 3,
    "concrete": false,
    "why": "승세테마(AI반도체설계(팹리스/IP)) · 신호약함(테마첫거론류)"

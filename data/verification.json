@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-07-18T20:28:25+09:00",
+ "updatedAt": "2026-07-19T08:12:43+09:00",
  "cases": [
   {
    "name": "이지트로닉스(377330)",
@@ -8902,6 +8902,161 @@
      "price": 1580
     }
    ]
+  },
+  {
+   "name": "파두(440110)",
+   "type": "leading",
+   "market": "韓",
+   "flagDate": "2026-07-19",
+   "signals": [
+    "203억계약대금수령",
+    "420억확정계약",
+    "9일반복포착"
+   ],
+   "theme": "AI반도체설계(팹리스/IP)",
+   "status": "pending",
+   "checks": [],
+   "flagPrice": 70400,
+   "priceLog": [
+    {
+     "date": "2026-07-16",
+     "price": 70400
+    }
+   ]
+  },
+  {
+   "name": "자람테크놀로지(389020)",
+   "type": "leading",
+   "market": "韓",
+   "flagDate": "2026-07-19",
+   "signals": [
+    "유럽2차양산수주13억",
+    "재발주사이클"
+   ],
+   "theme": "AI반도체설계(팹리스/IP)",
+   "status": "pending",
+   "checks": [],
+   "flagPrice": 20750,
+   "priceLog": [
+    {
+     "date": "2026-07-16",
+     "price": 20750
+    }
+   ]
+  },
+  {
+   "name": "에이디테크놀로지(200710)",
+   "type": "leading",
+   "market": "韓",
+   "flagDate": "2026-07-19",
+   "signals": [
+    "확정계약396억+400억",
+    "양산파이프라인급증전망"
+   ],
+   "theme": "AI반도체설계(팹리스/IP)",
+   "status": "pending",
+   "checks": [],
+   "flagPrice": 29400,
+   "priceLog": [
+    {
+     "date": "2026-07-16",
+     "price": 29400
+    }
+   ]
+  },
+  {
+   "name": "세미파이브(490470)",
+   "type": "discovery",
+   "market": "韓",
+   "flagDate": "2026-07-19",
+   "signals": [
+    "4나노NPU턴키계약(180억)",
+    "AI반도체설계승세테마",
+    "티커정정(373170→490470)"
+   ],
+   "theme": "AI반도체설계(팹리스/IP)",
+   "status": "pending",
+   "checks": [],
+   "flagPrice": 18360,
+   "priceLog": [
+    {
+     "date": "2026-07-16",
+     "price": 18360
+    }
+   ]
+  },
+  {
+   "name": "가온칩스(399720)",
+   "type": "discovery",
+   "market": "韓",
+   "flagDate": "2026-07-19",
+   "signals": [
+    "일본향AI반도체설계수주재부각"
+   ],
+   "theme": "AI반도체설계(팹리스/IP)",
+   "status": "pending",
+   "checks": [],
+   "flagPrice": 49750,
+   "priceLog": [
+    {
+     "date": "2026-07-16",
+     "price": 49750
+    }
+   ]
+  },
+  {
+   "name": "삼현(437730)",
+   "type": "warning",
+   "market": "韓",
+   "flagDate": "2026-07-19",
+   "signals": [
+    "누적23회",
+    "주가+111%대반영추정",
+    "후발경고"
+   ],
+   "theme": "로봇/휴머노이드",
+   "status": "pending",
+   "checks": [],
+   "flagPrice": 29000,
+   "priceLog": [
+    {
+     "date": "2026-07-16",
+     "price": 29000
+    }
+   ]
+  },
+  {
+   "name": "우림피티에스(101170)",
+   "type": "warning",
+   "market": "韓",
+   "flagDate": "2026-07-19",
+   "signals": [
+    "반복소진",
+    "테마재평가"
+   ],
+   "theme": "로봇/휴머노이드",
+   "status": "pending",
+   "checks": [],
+   "flagPrice": 6840,
+   "priceLog": [
+    {
+     "date": "2026-07-16",
+     "price": 6840
+    }
+   ]
+  },
+  {
+   "name": "한국피아이엠(448970)",
+   "type": "warning",
+   "market": "韓",
+   "flagDate": "2026-07-19",
+   "signals": [
+    "반복소진",
+    "테마재평가"
+   ],
+   "theme": "로봇/휴머노이드",
+   "status": "pending",
+   "checks": []
   }
  ],
  "stats": {
@@ -8911,8 +9066,8 @@
   "miss": 62,
   "hitRate": 16.8,
   "avgD3ChangePct": -0.01,
-  "pending": 33,
-  "total": 164,
+  "pending": 41,
+  "total": 172,
   "byType": {
    "leading": {
     "verified": 68,
