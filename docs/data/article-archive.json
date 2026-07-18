@@ -1451,6 +1451,12 @@
   "현대차(005380)": {
    "articles": [
     {
+     "date": "2026-07-18",
+     "source": "한국경제·증권",
+     "title": "연중 최저 수준 급락한 현대차…현 시점 투자계획 세워보니",
+     "link": "https://www.hankyung.com/article/202607160095i"
+    },
+    {
      "date": "2026-07-16",
      "source": "아시아경제",
      "title": "LS증권, 현대차증권과 CERCG ABCP 소송 종결…화해권고 확정",
@@ -2008,6 +2014,12 @@
   },
   "애플(AAPL)": {
    "articles": [
+    {
+     "date": "2026-07-18",
+     "source": "한국경제·증권",
+     "title": "애플, 오픈AI 이직자에 경고장…'내부기밀 탈취' 공세",
+     "link": "https://www.hankyung.com/article/2026071817917"
+    },
     {
      "date": "2026-07-16",
      "source": "아시아경제",
@@ -3750,6 +3762,12 @@
   },
   "스페이스X(SPCX)": {
    "articles": [
+    {
+     "date": "2026-07-18",
+     "source": "한국경제·증권",
+     "title": "공모가 아래로 주저앉은 스페이스X, 시총 1500조 증발",
+     "link": "https://www.hankyung.com/article/2026071815787"
+    },
     {
      "date": "2026-07-17",
      "source": "한국경제·증권",
@@ -5575,6 +5593,12 @@
   "키옥시아(285A)": {
    "articles": [
     {
+     "date": "2026-07-18",
+     "source": "한국경제·증권",
+     "title": "키옥시아, 美특허소송 패소로 3000억대 배상…주가 16% 폭락",
+     "link": "https://www.hankyung.com/article/2026071817167"
+    },
+    {
      "date": "2026-07-17",
      "source": "한국경제·증권",
      "title": "日키옥시아 시총 반토막…亞 반도체 일제히 급락",
@@ -6290,6 +6314,12 @@
   },
   "KT(030200)": {
    "articles": [
+    {
+     "date": "2026-07-18",
+     "source": "연합뉴스·경제",
+     "title": "\"코로나19로 원자재 급등\" 쌍용건설, KT사옥 공사비 소송서 패소",
+     "link": "https://www.yna.co.kr/view/AKR20260717035500004"
+    },
     {
      "date": "2026-07-16",
      "source": "연합뉴스·경제",
@@ -12887,6 +12917,18 @@
   "한화(000880)": {
    "articles": [
     {
+     "date": "2026-07-18",
+     "source": "한국경제·경제",
+     "title": "한화 필리조선소, 美 미사일 계측함 2척 수주…사업비 3조원",
+     "link": "https://www.hankyung.com/article/2026071819807"
+    },
+    {
+     "date": "2026-07-18",
+     "source": "파이낸셜뉴스",
+     "title": "한화 필리조선소, 미국 미사일시험 계측선 수주...'골든돔' 참여",
+     "link": "https://www.fnnews.com/news/202607181252524950"
+    },
+    {
      "date": "2026-07-16",
      "source": "연합뉴스·경제",
      "title": "한화증권, 美 디지털에셋에 300억원 투자 완료",
@@ -14200,6 +14242,12 @@
   },
   "대상(001680)": {
    "articles": [
+    {
+     "date": "2026-07-18",
+     "source": "연합뉴스·경제",
+     "title": "창원 정비 대상 빈집 934호…57%는 도시지역·진해구가 많아",
+     "link": "https://www.yna.co.kr/view/AKR20260716142600052"
+    },
     {
      "date": "2026-07-16",
      "source": "연합뉴스·경제",
@@ -17011,7 +17059,69 @@
      "link": "https://www.hankyung.com/article/202607168097i"
     }
    ]
+  },
+  "에스넷시스템(230360)": {
+   "articles": [
+    {
+     "date": "2026-07-18",
+     "source": "아시아경제",
+     "title": "에스넷시스템, 효성중공업·시스코 '차세대 디지털 변전소 기술 검증' 참여",
+     "link": "https://view.asiae.co.kr/article/2026071609183789204"
+    }
+   ]
+  },
+  "아이씨에이치(447770)": {
+   "articles": [
+    {
+     "date": "2026-07-18",
+     "source": "아시아경제",
+     "title": "아이씨에이치, 애플 폴더블폰용 PE폼 기반 솔루션 양산 공급 개시",
+     "link": "https://view.asiae.co.kr/article/2026071608145861288"
+    }
+   ]
+  },
+  "HD현대마린엔진(456040)": {
+   "articles": [
+    {
+     "date": "2026-07-18",
+     "source": "아시아경제",
+     "title": "극심한 저평가라는 HD현대마린엔진[클릭 e종목]",
+     "link": "https://view.asiae.co.kr/article/2026071516011365244"
+    }
+   ]
+  },
+  "SpaceX": {
+   "articles": [
+    {
+     "date": "2026-07-18",
+     "source": "CNBC·Finance",
+     "title": "Short sellers load up against SpaceX as stock drops below IPO price",
+     "link": "https://www.cnbc.com/2026/07/16/short-sellers-load-up-against-spacex-as-stock-retreats-back-to-ipo-price.html"
+    },
+    {
+     "date": "2026-07-18",
+     "source": "CNBC·Finance",
+     "title": "Big banks poised to report booming revenue propelled by SpaceX IPO, Iran war volatility",
+     "link": "https://www.cnbc.com/2026/07/13/bank-earnings-jpmorgan-chase-goldman-sachs-bank-of-america.html"
+    },
+    {
+     "date": "2026-07-18",
+     "source": "MarketWatch",
+     "title": "SpaceX postponed a crucial launch — and its stock went on to close below IPO price for second day",
+     "link": "https://www.marketwatch.com/story/spacex-postponed-a-crucial-launch-now-its-stock-is-set-to-slide-even-further-below-the-ipo-price-143adfe0?mod=mw_rss_topstories"
+    }
+   ]
+  },
+  "Anthropic": {
+   "articles": [
+    {
+     "date": "2026-07-18",
+     "source": "CNBC·Finance",
+     "title": "Anthropic moves closer to mega-IPO as bankers line up investor meetings",
+     "link": "https://www.cnbc.com/2026/07/15/anthropic-ipo-banks-investor-meetings.html"
+    }
+   ]
   }
  },
- "updatedAt": "2026-07-18T07:55:40+09:00"
+ "updatedAt": "2026-07-18T20:12:56+09:00"
 }
