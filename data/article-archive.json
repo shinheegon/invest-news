@@ -4935,6 +4935,12 @@
   "마이크론(MU)": {
    "articles": [
     {
+     "date": "2026-07-20",
+     "source": "한국경제·증권",
+     "title": "\"하나마이크론, 2분기 실적 예상치 웃돌 전망…목표가↑\"-한국",
+     "link": "https://www.hankyung.com/article/2026072032726"
+    },
+    {
      "date": "2026-07-17",
      "source": "한국경제·경제",
      "title": "모비스·하만, 마이크론과 '車메모리' 장기 계약",
@@ -7516,6 +7522,18 @@
   },
   "LS(006260)": {
    "articles": [
+    {
+     "date": "2026-07-20",
+     "source": "한국경제·증권",
+     "title": "\"LS일렉트릭, 2분기에만 2조원 이상 수주했을 것…목표가↑\"-KB",
+     "link": "https://www.hankyung.com/article/2026072032816"
+    },
+    {
+     "date": "2026-07-20",
+     "source": "CNBC·Finance",
+     "title": "Kalshi adds 3 million new users as prediction market capitalizes on the World Cup",
+     "link": "https://www.cnbc.com/2026/07/19/kalshi-adds-3-million-new-users-as-company-capitalizes-on-world-cup.html"
+    },
     {
      "date": "2026-07-17",
      "source": "CNBC·Markets",
@@ -12051,6 +12069,12 @@
   "알파벳(GOOGL)": {
    "articles": [
     {
+     "date": "2026-07-20",
+     "source": "한국경제·증권",
+     "title": "반도체 랠리 분수령 알파벳 2분기 실적발표, 관전포인트 4가지",
+     "link": "https://www.hankyung.com/article/202607203257i"
+    },
+    {
      "date": "2026-07-19",
      "source": "한국경제·증권",
      "title": "알파벳이 코스피 운명 가른다…AI 투자 계획에 쏠린 눈 [주간전망]",
@@ -12788,6 +12812,12 @@
   },
   "LS일렉트릭(010120)": {
    "articles": [
+    {
+     "date": "2026-07-20",
+     "source": "한국경제·증권",
+     "title": "\"LS일렉트릭, 2분기에만 2조원 이상 수주했을 것…목표가↑\"-KB",
+     "link": "https://www.hankyung.com/article/2026072032816"
+    },
     {
      "date": "2026-07-12",
      "source": "연합뉴스·경제",
@@ -17241,7 +17271,17 @@
      "link": "https://www.cnbc.com/2026/07/15/anthropic-ipo-banks-investor-meetings.html"
     }
    ]
+  },
+  "하이브(352820)": {
+   "articles": [
+    {
+     "date": "2026-07-20",
+     "source": "한국경제·증권",
+     "title": "\"하이브, 2분기 사상 최대 실적 전망…목표가는 하향\"-키움",
+     "link": "https://www.hankyung.com/article/2026072032636"
+    }
+   ]
   }
  },
- "updatedAt": "2026-07-19T20:16:48+09:00"
+ "updatedAt": "2026-07-20T07:58:28+09:00"
 }
