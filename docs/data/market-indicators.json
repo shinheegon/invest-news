@@ -1,19 +1,19 @@
 {
-  "updatedAt": "2026-07-19T07:30:00+09:00", "session": "AM",
-  "note": "국내 증시는 7/17(제헌절)·7/18(토)에 이어 7/19(일)까지 사흘째 사실상 휴장 상태 — 코스피·코스닥·원/달러는 직전 거래일(7/16 목) 마감 기준 유지. 美 지수도 가장 최근 마감치인 7/17(금) 종가 그대로(주말, 다음 마감은 7/20 월 밤사이).",
+  "updatedAt": "2026-07-19T20:30:00+09:00", "session": "PM",
+  "note": "국내 증시는 7/17(제헌절)·7/18(토)에 이어 7/19(일)까지 사흘째 휴장 — 코스피·코스닥은 직전 거래일(7/16 목) 마감 기준 유지, 월요일(7/20) 개장 예정. 美 지수도 가장 최근 마감치인 7/17(금) 종가 그대로. 단, 주말 사이 美·이란 충돌이 '전면전' 수준으로 격화(美軍 2명 사망·1명 실종, 호르무즈 통항 급감)돼 원/달러·유가는 역외 시장 기준 추가 변동 조짐이 있음 — 월요일 개장 시 재확인 필요.",
   "stock_fng": { "value": 37, "label": "Fear", "source": "https://www.cnn.com/markets/fear-and-greed" },
   "indices": [
     { "name": "코스피", "value": "6,820.60 (7/16 종가·휴장중)", "change": "-6.37%", "source": "https://www.mt.co.kr/stock/2026/07/16/2026071615305048444" },
-    { "name": "코스닥", "value": "791.84 (7/16 종가·휴장중)", "change": "-4.53%", "source": "https://www.mt.co.kr/stock/2026/07/16/2026071615311157540" },
+    { "name": "코스닥", "value": "791.84 (7/16 종가·휴장중)", "change": "-4.53%", "source": "https://view.asiae.co.kr/article/2026071615412210205" },
     { "name": "S&P 500", "value": "7,457.69 (7/17 종가)", "change": "-1.01%", "source": "https://finance.yahoo.com/markets/live/stock-market-today-friday-july-17-dow-sp-500-nasdaq-092345307.html" },
     { "name": "나스닥", "value": "25,520.24 (7/17 종가)", "change": "-1.40%", "source": "https://finance.yahoo.com/markets/live/stock-market-today-friday-july-17-dow-sp-500-nasdaq-092345307.html" },
     { "name": "다우", "value": "52,146.42 (7/17 종가)", "change": "-0.77%", "source": "https://finance.yahoo.com/markets/live/stock-market-today-friday-july-17-dow-sp-500-nasdaq-092345307.html" },
     { "name": "필라델피아반도체지수(SOX)", "value": "6/22 고점 대비 -20.2%(주간 -11%)", "change": "약세장(bear market) 공식 진입, 7월 누적 -18%", "source": "https://www.bloomberg.com/news/articles/2026-07-17/chips-stocks-tumble-into-bear-market-as-105-ai-rally-fizzles" },
     { "name": "VIX", "value": "18.77 (7/17 종가)", "change": "+12.19%(+2.04pt)", "source": "https://www.cnbc.com/quotes/.VIX" },
-    { "name": "美 10년물", "value": "4.55%", "change": "-0.01%p", "source": "https://tradingeconomics.com/united-states/government-bond-yield" },
-    { "name": "달러인덱스(DXY)", "value": "100.78", "change": "+0.06%", "source": "https://tradingeconomics.com/united-states/currency" },
-    { "name": "원/달러", "value": "1,478.82원 (7/16 기준·휴장중)", "change": "최근 한달 원화 3.18%대 강세", "source": "https://ko.tradingeconomics.com/south-korea/currency" },
-    { "name": "브렌트유", "value": "88.10달러(9월물)", "change": "+4.5%(주간 +12% 근접)", "source": "https://www.techtimes.com/articles/320922/20260718/brent-crude-hits-88-iran-extends-war-hormuz-kuwait-drinking-water.htm" },
+    { "name": "美 10년물", "value": "4.56%", "change": "2개월래 고점(4.62%, 7/13)에서 소폭 하락", "source": "https://tradingeconomics.com/united-states/government-bond-yield" },
+    { "name": "달러인덱스(DXY)", "value": "100.75 (7/17 종가)", "change": "-0.01%", "source": "https://www.fxstreet.com/news/us-dollar-index-holds-as-mixed-us-data-limits-upside-202607171707" },
+    { "name": "원/달러", "value": "1,478.82원(7/16 공식 종가) · 역외 약 1,499원 수준(주말 위험회피 반영 추정)", "change": "주말 이란전쟁 확전 여파로 약세 조짐, 월요일 개장 재확인 필요", "source": "https://wise.com/us/currency-converter/usd-to-krw-rate/history" },
+    { "name": "브렌트유", "value": "88.10달러(9월물, 7/17 종가)", "change": "+4.5%(주간 +12%↑), 주말 확전으로 추가 상승 압력", "source": "https://www.cnbc.com/2026/07/17/oil-price-today-brent-wti.html" },
     { "name": "한국 기준금리", "value": "2.75%", "change": "+0.25%p 인상(신현송 총재 취임 후 첫 인상, 3년6개월만 긴축전환, 7/16)", "source": "https://www.fnnews.com/news/202607161303293438" }
   ]
 }
