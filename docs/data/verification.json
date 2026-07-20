@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-07-20T08:15:46+09:00",
+ "updatedAt": "2026-07-20T21:39:40+09:00",
  "cases": [
   {
    "name": "이지트로닉스(377330)",
@@ -5964,7 +5964,7 @@
     "기술력입증"
    ],
    "theme": "AI반도체설계(팹리스/IP)",
-   "status": "pending",
+   "status": "verified",
    "checks": [
     {
      "horizon": "D+3",
@@ -5973,6 +5973,16 @@
      "changePct": 30.06,
      "indexPct": 7.69,
      "excessPct": 22.37,
+     "index": "KOSDAQ",
+     "verdict": "적중"
+    },
+    {
+     "horizon": "D+7",
+     "date": "2026-07-20",
+     "price": 20100,
+     "changePct": 16.18,
+     "indexPct": -4.5,
+     "excessPct": 20.69,
      "index": "KOSDAQ",
      "verdict": "적중"
     }
@@ -6023,7 +6033,7 @@
     "주관기관선정"
    ],
    "theme": "로봇/휴머노이드",
-   "status": "pending",
+   "status": "verified",
    "checks": [
     {
      "horizon": "D+3",
@@ -6034,6 +6044,16 @@
      "excessPct": 4.39,
      "index": "KOSDAQ",
      "verdict": "중립"
+    },
+    {
+     "horizon": "D+7",
+     "date": "2026-07-20",
+     "price": 15540,
+     "changePct": 3.12,
+     "indexPct": -4.5,
+     "excessPct": 7.62,
+     "index": "KOSDAQ",
+     "verdict": "적중"
     }
    ],
    "flagPrice": 15070,
@@ -6082,7 +6102,7 @@
     "단독공급"
    ],
    "theme": "반도체 클러스터 인프라",
-   "status": "pending",
+   "status": "verified",
    "checks": [
     {
      "horizon": "D+3",
@@ -6091,6 +6111,16 @@
      "changePct": 0.94,
      "indexPct": 7.69,
      "excessPct": -6.75,
+     "index": "KOSDAQ",
+     "verdict": "빗나감"
+    },
+    {
+     "horizon": "D+7",
+     "date": "2026-07-20",
+     "price": 1388,
+     "changePct": -6.78,
+     "indexPct": -4.5,
+     "excessPct": -2.28,
      "index": "KOSDAQ",
      "verdict": "빗나감"
     }
@@ -6141,7 +6171,7 @@
     "테마첫거론"
    ],
    "theme": "로봇·자율주행 센서",
-   "status": "pending",
+   "status": "verified",
    "checks": [
     {
      "horizon": "D+3",
@@ -6150,6 +6180,16 @@
      "changePct": 7.18,
      "indexPct": 7.69,
      "excessPct": -0.51,
+     "index": "KOSDAQ",
+     "verdict": "빗나감"
+    },
+    {
+     "horizon": "D+7",
+     "date": "2026-07-20",
+     "price": 3420,
+     "changePct": -5.52,
+     "indexPct": -4.5,
+     "excessPct": -1.02,
      "index": "KOSDAQ",
      "verdict": "빗나감"
     }
@@ -6212,7 +6252,7 @@
     "상한가(이미반영)"
    ],
    "theme": "AI데이터센터",
-   "status": "pending",
+   "status": "verified",
    "checks": [
     {
      "horizon": "D+3",
@@ -6223,6 +6263,16 @@
      "excessPct": 5.78,
      "index": "KOSDAQ",
      "verdict": "빗나감"
+    },
+    {
+     "horizon": "D+7",
+     "date": "2026-07-20",
+     "price": 5600,
+     "changePct": -5.72,
+     "indexPct": -4.5,
+     "excessPct": -1.22,
+     "index": "KOSDAQ",
+     "verdict": "중립"
     }
    ],
    "flagPrice": 5940,
@@ -6271,7 +6321,7 @@
     "급등(이미반영)"
    ],
    "theme": "AI데이터센터",
-   "status": "pending",
+   "status": "verified",
    "checks": [
     {
      "horizon": "D+3",
@@ -6280,6 +6330,16 @@
      "changePct": -10.46,
      "indexPct": 7.69,
      "excessPct": -18.15,
+     "index": "KOSDAQ",
+     "verdict": "적중"
+    },
+    {
+     "horizon": "D+7",
+     "date": "2026-07-20",
+     "price": 8820,
+     "changePct": -30.11,
+     "indexPct": -4.5,
+     "excessPct": -25.61,
      "index": "KOSDAQ",
      "verdict": "적중"
     }
@@ -6331,7 +6391,7 @@
     "통신사매출추정증가"
    ],
    "theme": "사이버보안",
-   "status": "pending",
+   "status": "verified",
    "checks": [
     {
      "horizon": "D+3",
@@ -6342,6 +6402,16 @@
      "excessPct": 9.14,
      "index": "KOSDAQ",
      "verdict": "적중"
+    },
+    {
+     "horizon": "D+7",
+     "date": "2026-07-20",
+     "price": 14140,
+     "changePct": -3.28,
+     "indexPct": -4.5,
+     "excessPct": 1.22,
+     "index": "KOSDAQ",
+     "verdict": "중립"
     }
    ],
    "flagPrice": 14620,
@@ -6390,7 +6460,7 @@
     "정책수혜(해킹규제)"
    ],
    "theme": "사이버보안",
-   "status": "pending",
+   "status": "verified",
    "checks": [
     {
      "horizon": "D+3",
@@ -6399,6 +6469,16 @@
      "changePct": 1.82,
      "indexPct": 7.69,
      "excessPct": -5.87,
+     "index": "KOSDAQ",
+     "verdict": "빗나감"
+    },
+    {
+     "horizon": "D+7",
+     "date": "2026-07-20",
+     "price": 6800,
+     "changePct": -4.76,
+     "indexPct": -4.5,
+     "excessPct": -0.26,
      "index": "KOSDAQ",
      "verdict": "빗나감"
     }
@@ -6449,7 +6529,7 @@
     "상장첫날따블(이미반영)"
    ],
    "theme": "사이버보안",
-   "status": "pending",
+   "status": "verified",
    "checks": [
     {
      "horizon": "D+3",
@@ -6458,6 +6538,16 @@
      "changePct": 6.48,
      "indexPct": 7.69,
      "excessPct": -1.21,
+     "index": "KOSDAQ",
+     "verdict": "중립"
+    },
+    {
+     "horizon": "D+7",
+     "date": "2026-07-20",
+     "price": 7890,
+     "changePct": -7.07,
+     "indexPct": -4.5,
+     "excessPct": -2.56,
      "index": "KOSDAQ",
      "verdict": "중립"
     }
@@ -8888,7 +8978,18 @@
    ],
    "theme": "로봇/휴머노이드",
    "status": "pending",
-   "checks": [],
+   "checks": [
+    {
+     "horizon": "D+3",
+     "date": "2026-07-20",
+     "price": 4170,
+     "changePct": -3.7,
+     "indexPct": -4.97,
+     "excessPct": 1.27,
+     "index": "KOSPI",
+     "verdict": "중립"
+    }
+   ],
    "flagPrice": 4330,
    "priceLog": [
     {
@@ -8911,7 +9012,8 @@
      "date": "2026-07-20",
      "price": 4330
     }
-   ]
+   ],
+   "finalVerdict": "중립"
   },
   {
    "name": "씨메스로보틱스(475400)",
@@ -8924,7 +9026,18 @@
    ],
    "theme": "로봇/휴머노이드",
    "status": "pending",
-   "checks": [],
+   "checks": [
+    {
+     "horizon": "D+3",
+     "date": "2026-07-20",
+     "price": 14280,
+     "changePct": -6.36,
+     "indexPct": -4.38,
+     "excessPct": -1.98,
+     "index": "KOSDAQ",
+     "verdict": "빗나감"
+    }
+   ],
    "flagPrice": 15250,
    "priceLog": [
     {
@@ -8943,7 +9056,8 @@
      "date": "2026-07-20",
      "price": 15410
     }
-   ]
+   ],
+   "finalVerdict": "빗나감"
   },
   {
    "name": "한미반도체(042700)",
@@ -8956,7 +9070,18 @@
    ],
    "theme": "HBM",
    "status": "pending",
-   "checks": [],
+   "checks": [
+    {
+     "horizon": "D+3",
+     "date": "2026-07-20",
+     "price": 222000,
+     "changePct": 6.99,
+     "indexPct": -4.97,
+     "excessPct": 11.95,
+     "index": "KOSPI",
+     "verdict": "적중"
+    }
+   ],
    "flagPrice": 207500,
    "priceLog": [
     {
@@ -8975,7 +9100,8 @@
      "date": "2026-07-20",
      "price": 242500
     }
-   ]
+   ],
+   "finalVerdict": "적중"
   },
   {
    "name": "HL만도(204320)",
@@ -9067,7 +9193,18 @@
    ],
    "theme": "AI반도체설계(팹리스/IP)",
    "status": "pending",
-   "checks": [],
+   "checks": [
+    {
+     "horizon": "D+3",
+     "date": "2026-07-20",
+     "price": 19000,
+     "changePct": -9.95,
+     "indexPct": -4.38,
+     "excessPct": -5.57,
+     "index": "KOSDAQ",
+     "verdict": "빗나감"
+    }
+   ],
    "flagPrice": 21100,
    "priceLog": [
     {
@@ -9086,7 +9223,8 @@
      "date": "2026-07-20",
      "price": 20750
     }
-   ]
+   ],
+   "finalVerdict": "빗나감"
   },
   {
    "name": "우진엔텍(457550)",
@@ -9098,7 +9236,18 @@
    ],
    "theme": "원전/SMR",
    "status": "pending",
-   "checks": [],
+   "checks": [
+    {
+     "horizon": "D+3",
+     "date": "2026-07-20",
+     "price": 13690,
+     "changePct": -5.46,
+     "indexPct": -4.38,
+     "excessPct": -1.08,
+     "index": "KOSDAQ",
+     "verdict": "빗나감"
+    }
+   ],
    "flagPrice": 14480,
    "priceLog": [
     {
@@ -9117,7 +9266,8 @@
      "date": "2026-07-20",
      "price": 14510
     }
-   ]
+   ],
+   "finalVerdict": "빗나감"
   },
   {
    "name": "로킷헬스케어(419120)",
@@ -9129,7 +9279,18 @@
    ],
    "theme": "바이오/의료",
    "status": "pending",
-   "checks": [],
+   "checks": [
+    {
+     "horizon": "D+3",
+     "date": "2026-07-20",
+     "price": 2485,
+     "changePct": 2.05,
+     "indexPct": -4.38,
+     "excessPct": 6.43,
+     "index": "KOSDAQ",
+     "verdict": "빗나감"
+    }
+   ],
    "flagPrice": 2435,
    "priceLog": [
     {
@@ -9148,7 +9309,8 @@
      "date": "2026-07-20",
      "price": 2555
     }
-   ]
+   ],
+   "finalVerdict": "빗나감"
   },
   {
    "name": "글로벌텍스프리(204620)",
@@ -9681,33 +9843,192 @@
    "theme": "로봇/휴머노이드",
    "status": "pending",
    "checks": []
+  },
+  {
+   "name": "자람테크놀로지(389020)",
+   "type": "leading",
+   "market": "韓",
+   "flagDate": "2026-07-20",
+   "signals": [
+    "유럽2차양산수주13억",
+    "10일이상반복포착"
+   ],
+   "theme": "AI반도체설계(팹리스/IP)",
+   "status": "pending",
+   "checks": [],
+   "flagPrice": 19000,
+   "priceLog": [
+    {
+     "date": "2026-07-20",
+     "price": 19000
+    }
+   ]
+  },
+  {
+   "name": "세미파이브(490470)",
+   "type": "leading",
+   "market": "韓",
+   "flagDate": "2026-07-20",
+   "signals": [
+    "일본고객사110억HPCAI반도체양산계약"
+   ],
+   "theme": "AI반도체설계(팹리스/IP)",
+   "status": "pending",
+   "checks": [],
+   "flagPrice": 16930,
+   "priceLog": [
+    {
+     "date": "2026-07-20",
+     "price": 16930
+    }
+   ]
+  },
+  {
+   "name": "칩스앤미디어(094360)",
+   "type": "leading",
+   "market": "韓",
+   "flagDate": "2026-07-20",
+   "signals": [
+    "북미빅테크APV코덱IP라이선스",
+    "저점권(52주최고대비-42%)"
+   ],
+   "theme": "AI반도체설계(팹리스/IP)",
+   "status": "pending",
+   "checks": [],
+   "flagPrice": 9920,
+   "priceLog": [
+    {
+     "date": "2026-07-20",
+     "price": 9920
+    }
+   ]
+  },
+  {
+   "name": "에이디테크놀로지(200710)",
+   "type": "leading",
+   "market": "韓",
+   "flagDate": "2026-07-20",
+   "signals": [
+    "확정계약396억+400억",
+    "양산파이프라인급증전망"
+   ],
+   "theme": "AI반도체설계(팹리스/IP)",
+   "status": "pending",
+   "checks": [],
+   "flagPrice": 27000,
+   "priceLog": [
+    {
+     "date": "2026-07-20",
+     "price": 27000
+    }
+   ]
+  },
+  {
+   "name": "자람테크놀로지(389020)",
+   "type": "discovery",
+   "market": "韓",
+   "flagDate": "2026-07-20",
+   "signals": [
+    "조기발굴Top"
+   ],
+   "theme": "AI반도체설계(팹리스/IP)",
+   "status": "pending",
+   "checks": [],
+   "flagPrice": 19000,
+   "priceLog": [
+    {
+     "date": "2026-07-20",
+     "price": 19000
+    }
+   ]
+  },
+  {
+   "name": "파두(440110)",
+   "type": "warning",
+   "market": "韓",
+   "flagDate": "2026-07-20",
+   "signals": [
+    "시총3조원돌파",
+    "후발경고"
+   ],
+   "theme": "AI반도체설계(팹리스/IP)",
+   "status": "pending",
+   "checks": [],
+   "flagPrice": 71600,
+   "priceLog": [
+    {
+     "date": "2026-07-20",
+     "price": 71600
+    }
+   ]
+  },
+  {
+   "name": "가온칩스(399720)",
+   "type": "warning",
+   "market": "韓",
+   "flagDate": "2026-07-20",
+   "signals": [
+    "누적반영",
+    "후발경고"
+   ],
+   "theme": "AI반도체-디자인",
+   "status": "pending",
+   "checks": [],
+   "flagPrice": 43150,
+   "priceLog": [
+    {
+     "date": "2026-07-20",
+     "price": 43150
+    }
+   ]
+  },
+  {
+   "name": "삼현(437730)",
+   "type": "warning",
+   "market": "韓",
+   "flagDate": "2026-07-20",
+   "signals": [
+    "+111%대반영추정",
+    "열세테마",
+    "후발경고"
+   ],
+   "theme": "로봇/휴머노이드",
+   "status": "pending",
+   "checks": [],
+   "flagPrice": 26600,
+   "priceLog": [
+    {
+     "date": "2026-07-20",
+     "price": 26600
+    }
+   ]
   }
  ],
  "stats": {
-  "verified": 131,
-  "hit": 22,
-  "neutral": 47,
-  "miss": 62,
+  "verified": 137,
+  "hit": 23,
+  "neutral": 48,
+  "miss": 66,
   "hitRate": 16.8,
-  "avgD3ChangePct": -0.01,
-  "pending": 41,
-  "total": 172,
+  "avgD3ChangePct": 0.07,
+  "pending": 43,
+  "total": 180,
   "byType": {
    "leading": {
-    "verified": 68,
+    "verified": 69,
     "hit": 10,
     "neutral": 20,
-    "miss": 38,
-    "hitRate": 14.7,
-    "avgD3ChangePct": -1.44
+    "miss": 39,
+    "hitRate": 14.5,
+    "avgD3ChangePct": -1.5
    },
    "discovery": {
-    "verified": 44,
-    "hit": 8,
+    "verified": 47,
+    "hit": 9,
     "neutral": 14,
-    "miss": 22,
-    "hitRate": 18.2,
-    "avgD3ChangePct": 1.61
+    "miss": 24,
+    "hitRate": 19.1,
+    "avgD3ChangePct": 1.7
    }
   }
  }
