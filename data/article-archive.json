@@ -3,6 +3,12 @@
   "SK하이닉스(000660)": {
    "articles": [
     {
+     "date": "2026-07-21",
+     "source": "한국경제·증권",
+     "title": "환율, 왜 갑자기 떨어졌나 봤더니…SK하이닉스 효과였다 [분석+]",
+     "link": "https://www.hankyung.com/article/2026072051156"
+    },
+    {
      "date": "2026-07-20",
      "source": "한국경제·증권",
      "title": "초고수들은 기판·전력株에 베팅…SK하이닉스는 순매도 나서",
@@ -715,12 +721,6 @@
      "source": "아시아경제",
      "title": "SKT, SK하이닉스 美 AI 투자법인 4000억 규모 주식 취득",
      "link": "https://view.asiae.co.kr/article/2026062918003049416"
-    },
-    {
-     "date": "2026-06-29",
-     "source": "한국경제",
-     "title": "- SK하이닉스(000660): SK그룹 2100조 AI·반도체 베팅의 핵심. 주가는 -1.68%로 삼성보다 선방.",
-     "link": "https://www.hankyung.com/article/202606294672g"
     }
    ]
   },
@@ -2947,6 +2947,12 @@
   "엔비디아(NVDA)": {
    "articles": [
     {
+     "date": "2026-07-21",
+     "source": "아시아경제",
+     "title": "스카이인텔리전스, ABB로보틱스·엔비디아 '제조 AI 백서'에 핵심 기술 수록",
+     "link": "https://view.asiae.co.kr/article/2026072107581094199"
+    },
+    {
      "date": "2026-07-20",
      "source": "한국경제·증권",
      "title": "\"삼전닉스 분수령은 8월 엔비디아 실적…추가 하락 제한적일 것\"",
@@ -3172,6 +3178,12 @@
   },
   "인텔(INTC)": {
    "articles": [
+    {
+     "date": "2026-07-21",
+     "source": "아시아경제",
+     "title": "스카이인텔리전스, ABB로보틱스·엔비디아 '제조 AI 백서'에 핵심 기술 수록",
+     "link": "https://view.asiae.co.kr/article/2026072107581094199"
+    },
     {
      "date": "2026-07-14",
      "source": "한국경제·경제",
@@ -4502,6 +4514,12 @@
   },
   "신세계(004170)": {
    "articles": [
+    {
+     "date": "2026-07-21",
+     "source": "아시아경제",
+     "title": "[클릭 e종목]\"소비 양극화 수혜주…신세계, 목표주가 유지\"",
+     "link": "https://view.asiae.co.kr/article/2026072018051768279"
+    },
     {
      "date": "2026-07-13",
      "source": "한국경제·경제",
@@ -7619,6 +7637,12 @@
   "LS(006260)": {
    "articles": [
     {
+     "date": "2026-07-21",
+     "source": "MarketWatch",
+     "title": "Why cheap Chinese AI models could actually be a boon for Nvidia, Micron and other chip stocks",
+     "link": "https://www.marketwatch.com/story/why-cheap-chinese-ai-models-could-actually-be-a-boon-for-nvidia-micron-and-other-chip-stocks-8dd4baba?mod=mw_rss_topstories"
+    },
+    {
      "date": "2026-07-20",
      "source": "한국경제·증권",
      "title": "\"LS일렉트릭, 2분기에만 2조원 이상 수주했을 것…목표가↑\"-KB",
@@ -9079,6 +9103,12 @@
   "두나무": {
    "articles": [
     {
+     "date": "2026-07-21",
+     "source": "연합뉴스·경제",
+     "title": "'미래금융 새판짜기' 의기투합한 하나금융·두나무",
+     "link": "https://www.yna.co.kr/view/AKR20260720151100002"
+    },
+    {
      "date": "2026-07-19",
      "source": "연합뉴스·경제",
      "title": "'445억원 해킹' 두나무에 금감원 검사의견서 송부…제재 본격화",
@@ -9244,6 +9274,12 @@
   },
   "ISC(095340)": {
    "articles": [
+    {
+     "date": "2026-07-21",
+     "source": "CNBC·Finance",
+     "title": "Capital One bet big on Discover. Now it must prove the gamble was worth it",
+     "link": "https://www.cnbc.com/2026/07/20/capital-one-bet-big-on-discover-now-it-must-prove-the-gamble-was-worth-it-.html"
+    },
     {
      "date": "2026-07-09",
      "source": "이데일리·경제",
@@ -10677,6 +10713,18 @@
   "SK(034730)": {
    "articles": [
     {
+     "date": "2026-07-21",
+     "source": "한국경제·증권",
+     "title": "환율, 왜 갑자기 떨어졌나 봤더니…SK하이닉스 효과였다 [분석+]",
+     "link": "https://www.hankyung.com/article/2026072051156"
+    },
+    {
+     "date": "2026-07-21",
+     "source": "MarketWatch",
+     "title": "Americans are skipping lettuce and salads as investigation into cyclospora outbreak continues",
+     "link": "https://www.marketwatch.com/story/americans-are-skipping-lettuce-and-salads-as-investigation-into-cyclospora-outbreak-continues-562499b6?mod=mw_rss_topstories"
+    },
+    {
      "date": "2026-07-20",
      "source": "한국경제·증권",
      "title": "초고수들은 기판·전력株에 베팅…SK하이닉스는 순매도 나서",
@@ -11383,18 +11431,6 @@
      "source": "연합뉴스·경제",
      "title": "[특징주] 삼성전자, 장초반 2%대 상승…SK하이닉스는 0.78%↑",
      "link": "https://www.yna.co.kr/view/AKR20260710035600008"
-    },
-    {
-     "date": "2026-07-10",
-     "source": "아시아경제",
-     "title": "SK하이닉스 ADR 훈풍에…코스피 3%대 급등",
-     "link": "https://view.asiae.co.kr/article/2026071010112469881"
-    },
-    {
-     "date": "2026-07-10",
-     "source": "MarketWatch",
-     "title": "SK Hynix raises $26.5 billion in U.S. offering. What to know about the stock.",
-     "link": "https://www.marketwatch.com/story/sk-hynix-is-about-to-hit-the-u-s-market-heres-what-to-know-about-the-deal-1c873fa4?mod=mw_rss_topstories"
     }
    ]
   },
@@ -12745,6 +12781,12 @@
   "롯데쇼핑(023530)": {
    "articles": [
     {
+     "date": "2026-07-21",
+     "source": "아시아경제",
+     "title": "백화점이 끌어올린 실적…롯데쇼핑, 목표주가 19만원으로 상향[클릭e종목]",
+     "link": "https://view.asiae.co.kr/article/2026072014503283431"
+    },
+    {
      "date": "2026-07-06",
      "source": "한국경제·증권",
      "title": "홈플러스 회생절차 폐지에…'반사이익' 롯데쇼핑·이마트 강세",
@@ -13096,6 +13138,12 @@
   },
   "우리투자증권": {
    "articles": [
+    {
+     "date": "2026-07-21",
+     "source": "아시아경제",
+     "title": "인수금융 강자로 떠오른 우리투자증권…시너지 효과 톡톡",
+     "link": "https://view.asiae.co.kr/article/2026072015260618241"
+    },
     {
      "date": "2026-07-10",
      "source": "한국경제·증권",
@@ -13951,6 +13999,12 @@
   "GS리테일(007070)": {
    "articles": [
     {
+     "date": "2026-07-21",
+     "source": "아시아경제",
+     "title": "생활 플랫폼으로 진화하는 GS리테일[클릭 e종목]",
+     "link": "https://view.asiae.co.kr/article/2026072016053553063"
+    },
+    {
      "date": "2026-07-19",
      "source": "한국경제·증권",
      "title": "코스피 20% 급락에도 편의점주 선방…GS리테일 12%·BGF리테일 7%↑",
@@ -14218,6 +14272,12 @@
   },
   "쿠팡(CPNG)": {
    "articles": [
+    {
+     "date": "2026-07-21",
+     "source": "연합뉴스·경제",
+     "title": "'쿠팡이츠' 출신 '땡겨요' 팀장 영업비밀 유출 의혹…경찰 수사",
+     "link": "https://www.yna.co.kr/view/AKR20260721020200004"
+    },
     {
      "date": "2026-07-20",
      "source": "연합뉴스·경제",
@@ -16301,6 +16361,12 @@
   "홈플러스": {
    "articles": [
     {
+     "date": "2026-07-21",
+     "source": "연합뉴스·경제",
+     "title": "카드업계 홈플러스 대금 지급보류…\"결제취소 리스크 관리\"",
+     "link": "https://www.yna.co.kr/view/AKR20260720167100002"
+    },
+    {
      "date": "2026-07-20",
      "source": "연합뉴스·경제",
      "title": "'홈플러스 사태' MBK, 오스템임플란트도 구조조정 논란(종합)",
@@ -16497,6 +16563,12 @@
   "TSMC(TSM)": {
    "articles": [
     {
+     "date": "2026-07-21",
+     "source": "아시아경제",
+     "title": "[클릭 e종목]TSMC 투자 시 고려해야 할 요소는",
+     "link": "https://view.asiae.co.kr/article/2026072015430734250"
+    },
+    {
      "date": "2026-07-20",
      "source": "한국경제·경제",
      "title": "TSMC, 파운드리 선두 굳히기…\"대만과 미국에 팹 25개 증설\"",
@@ -16690,6 +16762,12 @@
   },
   "GS(078930)": {
    "articles": [
+    {
+     "date": "2026-07-21",
+     "source": "아시아경제",
+     "title": "생활 플랫폼으로 진화하는 GS리테일[클릭 e종목]",
+     "link": "https://view.asiae.co.kr/article/2026072016053553063"
+    },
     {
      "date": "2026-07-20",
      "source": "MarketWatch",
@@ -17591,6 +17669,12 @@
   "SpaceX": {
    "articles": [
     {
+     "date": "2026-07-21",
+     "source": "MarketWatch",
+     "title": "SpaceX gave investors intense FOMO. Now the decade’s hottest IPO represents a brutal reality check.",
+     "link": "https://www.marketwatch.com/story/spacex-gave-investors-intense-fomo-now-the-decades-hottest-ipo-represents-a-brutal-reality-check-54f878cb?mod=mw_rss_topstories"
+    },
+    {
      "date": "2026-07-18",
      "source": "CNBC·Finance",
      "title": "Short sellers load up against SpaceX as stock drops below IPO price",
@@ -17659,7 +17743,37 @@
      "link": "https://view.asiae.co.kr/article/2026072017255734500"
     }
    ]
+  },
+  "SK이노베이션(096770)": {
+   "articles": [
+    {
+     "date": "2026-07-21",
+     "source": "한국경제·증권",
+     "title": "\"SK이노베이션, 정유·윤활유 호황 지속…목표가↑\"-DB",
+     "link": "https://www.hankyung.com/article/2026072034866"
+    }
+   ]
+  },
+  "종근당(185750)": {
+   "articles": [
+    {
+     "date": "2026-07-21",
+     "source": "아시아경제",
+     "title": "[클릭e종목]\"종근당, R&D모멘텀 더 기다려야...목표주가 하향\"",
+     "link": "https://view.asiae.co.kr/article/2026072107460549139"
+    }
+   ]
+  },
+  "Travelers(TRV)": {
+   "articles": [
+    {
+     "date": "2026-07-21",
+     "source": "CNBC·Markets",
+     "title": "Ryanair says 'no shortage' of travelers despite Iran war denting profit",
+     "link": "https://www.cnbc.com/2026/07/20/ryanair-q1-earnings-iran-war-summer-fares.html"
+    }
+   ]
   }
  },
- "updatedAt": "2026-07-20T21:23:32+09:00"
+ "updatedAt": "2026-07-21T08:05:35+09:00"
 }
