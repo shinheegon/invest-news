@@ -1,143 +1,7 @@
 {
- "updatedAt": "2026-07-21T08:22:42+09:00",
+ "updatedAt": "2026-07-22T08:23:27+09:00",
  "note": "대기 예측을 학습패턴(승세테마+구체촉발재)으로 점수화. 투자권유 아님.",
- "top": [
-  {
-   "name": "파두(440110)",
-   "type": "leading",
-   "theme": "AI반도체설계(팹리스/IP)",
-   "flagDate": "2026-07-13",
-   "score": 5,
-   "concrete": true,
-   "why": "승세테마(AI반도체설계(팹리스/IP)) · 구체촉발재: SSD컨트롤러공급계약(420억)"
-  },
-  {
-   "name": "자람테크놀로지(389020)",
-   "type": "leading",
-   "theme": "AI반도체설계(팹리스/IP)",
-   "flagDate": "2026-07-14",
-   "score": 5,
-   "concrete": true,
-   "why": "승세테마(AI반도체설계(팹리스/IP)) · 구체촉발재: 공급계약(XGS-PON 반도체 13억)"
-  },
-  {
-   "name": "자람테크놀로지(389020)",
-   "type": "leading",
-   "theme": "AI반도체설계(팹리스/IP)",
-   "flagDate": "2026-07-15",
-   "score": 5,
-   "concrete": true,
-   "why": "승세테마(AI반도체설계(팹리스/IP)) · 구체촉발재: 2주내반복수주"
-  },
-  {
-   "name": "파두(440110)",
-   "type": "leading",
-   "theme": "AI반도체설계(팹리스/IP)",
-   "flagDate": "2026-07-16",
-   "score": 5,
-   "concrete": true,
-   "why": "승세테마(AI반도체설계(팹리스/IP)) · 구체촉발재: SSD컨트롤러공급계약(420억)"
-  },
-  {
-   "name": "자람테크놀로지(389020)",
-   "type": "leading",
-   "theme": "AI반도체설계(팹리스/IP)",
-   "flagDate": "2026-07-19",
-   "score": 5,
-   "concrete": true,
-   "why": "승세테마(AI반도체설계(팹리스/IP)) · 구체촉발재: 유럽2차양산수주13억"
-  },
-  {
-   "name": "가온칩스(399720)",
-   "type": "discovery",
-   "theme": "AI반도체설계(팹리스/IP)",
-   "flagDate": "2026-07-19",
-   "score": 5,
-   "concrete": true,
-   "why": "승세테마(AI반도체설계(팹리스/IP)) · 구체촉발재: 일본향AI반도체설계수주재부각"
-  },
-  {
-   "name": "자람테크놀로지(389020)",
-   "type": "leading",
-   "theme": "AI반도체설계(팹리스/IP)",
-   "flagDate": "2026-07-20",
-   "score": 5,
-   "concrete": true,
-   "why": "승세테마(AI반도체설계(팹리스/IP)) · 구체촉발재: 유럽2차양산수주13억"
-  },
-  {
-   "name": "자람테크놀로지(389020)",
-   "type": "leading",
-   "theme": "AI반도체설계(팹리스/IP)",
-   "flagDate": "2026-07-16",
-   "score": 3,
-   "concrete": false,
-   "why": "승세테마(AI반도체설계(팹리스/IP)) · 신호약함(테마첫거론류)"
-  },
-  {
-   "name": "에이디테크놀로지(200710)",
-   "type": "discovery",
-   "theme": "AI반도체설계(팹리스/IP)",
-   "flagDate": "2026-07-18",
-   "score": 3,
-   "concrete": false,
-   "why": "승세테마(AI반도체설계(팹리스/IP)) · 신호약함(테마첫거론류)"
-  },
-  {
-   "name": "세미파이브(373170)",
-   "type": "discovery",
-   "theme": "AI반도체설계(팹리스/IP)",
-   "flagDate": "2026-07-18",
-   "score": 3,
-   "concrete": false,
-   "why": "승세테마(AI반도체설계(팹리스/IP)) · 신호약함(테마첫거론류)"
-  },
-  {
-   "name": "파두(440110)",
-   "type": "leading",
-   "theme": "AI반도체설계(팹리스/IP)",
-   "flagDate": "2026-07-19",
-   "score": 3,
-   "concrete": false,
-   "why": "승세테마(AI반도체설계(팹리스/IP)) · 신호약함(테마첫거론류)"
-  },
-  {
-   "name": "에이디테크놀로지(200710)",
-   "type": "leading",
-   "theme": "AI반도체설계(팹리스/IP)",
-   "flagDate": "2026-07-19",
-   "score": 3,
-   "concrete": false,
-   "why": "승세테마(AI반도체설계(팹리스/IP)) · 신호약함(테마첫거론류)"
-  },
-  {
-   "name": "세미파이브(490470)",
-   "type": "discovery",
-   "theme": "AI반도체설계(팹리스/IP)",
-   "flagDate": "2026-07-19",
-   "score": 3,
-   "concrete": false,
-   "why": "승세테마(AI반도체설계(팹리스/IP)) · 신호약함(테마첫거론류)"
-  },
-  {
-   "name": "세미파이브(490470)",
-   "type": "leading",
-   "theme": "AI반도체설계(팹리스/IP)",
-   "flagDate": "2026-07-20",
-   "score": 3,
-   "concrete": false,
-   "why": "승세테마(AI반도체설계(팹리스/IP)) · 신호약함(테마첫거론류)"
-  },
-  {
-   "name": "칩스앤미디어(094360)",
-   "type": "leading",
-   "theme": "AI반도체설계(팹리스/IP)",
-   "flagDate": "2026-07-20",
-   "score": 3,
-   "concrete": false,
-   "why": "승세테마(AI반도체설계(팹리스/IP)) · 신호약함(테마첫거론류)"
-  }
- ],
+ "top": [],
  "avoid": [
   {
    "name": "부강테크(279960)",
@@ -151,159 +15,6 @@
  ],
  "all": [
   {
-   "name": "파두(440110)",
-   "type": "leading",
-   "theme": "AI반도체설계(팹리스/IP)",
-   "flagDate": "2026-07-13",
-   "score": 5,
-   "concrete": true,
-   "why": "승세테마(AI반도체설계(팹리스/IP)) · 구체촉발재: SSD컨트롤러공급계약(420억)"
-  },
-  {
-   "name": "자람테크놀로지(389020)",
-   "type": "leading",
-   "theme": "AI반도체설계(팹리스/IP)",
-   "flagDate": "2026-07-14",
-   "score": 5,
-   "concrete": true,
-   "why": "승세테마(AI반도체설계(팹리스/IP)) · 구체촉발재: 공급계약(XGS-PON 반도체 13억)"
-  },
-  {
-   "name": "자람테크놀로지(389020)",
-   "type": "leading",
-   "theme": "AI반도체설계(팹리스/IP)",
-   "flagDate": "2026-07-15",
-   "score": 5,
-   "concrete": true,
-   "why": "승세테마(AI반도체설계(팹리스/IP)) · 구체촉발재: 2주내반복수주"
-  },
-  {
-   "name": "파두(440110)",
-   "type": "leading",
-   "theme": "AI반도체설계(팹리스/IP)",
-   "flagDate": "2026-07-16",
-   "score": 5,
-   "concrete": true,
-   "why": "승세테마(AI반도체설계(팹리스/IP)) · 구체촉발재: SSD컨트롤러공급계약(420억)"
-  },
-  {
-   "name": "자람테크놀로지(389020)",
-   "type": "leading",
-   "theme": "AI반도체설계(팹리스/IP)",
-   "flagDate": "2026-07-19",
-   "score": 5,
-   "concrete": true,
-   "why": "승세테마(AI반도체설계(팹리스/IP)) · 구체촉발재: 유럽2차양산수주13억"
-  },
-  {
-   "name": "가온칩스(399720)",
-   "type": "discovery",
-   "theme": "AI반도체설계(팹리스/IP)",
-   "flagDate": "2026-07-19",
-   "score": 5,
-   "concrete": true,
-   "why": "승세테마(AI반도체설계(팹리스/IP)) · 구체촉발재: 일본향AI반도체설계수주재부각"
-  },
-  {
-   "name": "자람테크놀로지(389020)",
-   "type": "leading",
-   "theme": "AI반도체설계(팹리스/IP)",
-   "flagDate": "2026-07-20",
-   "score": 5,
-   "concrete": true,
-   "why": "승세테마(AI반도체설계(팹리스/IP)) · 구체촉발재: 유럽2차양산수주13억"
-  },
-  {
-   "name": "자람테크놀로지(389020)",
-   "type": "leading",
-   "theme": "AI반도체설계(팹리스/IP)",
-   "flagDate": "2026-07-16",
-   "score": 3,
-   "concrete": false,
-   "why": "승세테마(AI반도체설계(팹리스/IP)) · 신호약함(테마첫거론류)"
-  },
-  {
-   "name": "에이디테크놀로지(200710)",
-   "type": "discovery",
-   "theme": "AI반도체설계(팹리스/IP)",
-   "flagDate": "2026-07-18",
-   "score": 3,
-   "concrete": false,
-   "why": "승세테마(AI반도체설계(팹리스/IP)) · 신호약함(테마첫거론류)"
-  },
-  {
-   "name": "세미파이브(373170)",
-   "type": "discovery",
-   "theme": "AI반도체설계(팹리스/IP)",
-   "flagDate": "2026-07-18",
-   "score": 3,
-   "concrete": false,
-   "why": "승세테마(AI반도체설계(팹리스/IP)) · 신호약함(테마첫거론류)"
-  },
-  {
-   "name": "파두(440110)",
-   "type": "leading",
-   "theme": "AI반도체설계(팹리스/IP)",
-   "flagDate": "2026-07-19",
-   "score": 3,
-   "concrete": false,
-   "why": "승세테마(AI반도체설계(팹리스/IP)) · 신호약함(테마첫거론류)"
-  },
-  {
-   "name": "에이디테크놀로지(200710)",
-   "type": "leading",
-   "theme": "AI반도체설계(팹리스/IP)",
-   "flagDate": "2026-07-19",
-   "score": 3,
-   "concrete": false,
-   "why": "승세테마(AI반도체설계(팹리스/IP)) · 신호약함(테마첫거론류)"
-  },
-  {
-   "name": "세미파이브(490470)",
-   "type": "discovery",
-   "theme": "AI반도체설계(팹리스/IP)",
-   "flagDate": "2026-07-19",
-   "score": 3,
-   "concrete": false,
-   "why": "승세테마(AI반도체설계(팹리스/IP)) · 신호약함(테마첫거론류)"
-  },
-  {
-   "name": "세미파이브(490470)",
-   "type": "leading",
-   "theme": "AI반도체설계(팹리스/IP)",
-   "flagDate": "2026-07-20",
-   "score": 3,
-   "concrete": false,
-   "why": "승세테마(AI반도체설계(팹리스/IP)) · 신호약함(테마첫거론류)"
-  },
-  {
-   "name": "칩스앤미디어(094360)",
-   "type": "leading",
-   "theme": "AI반도체설계(팹리스/IP)",
-   "flagDate": "2026-07-20",
-   "score": 3,
-   "concrete": false,
-   "why": "승세테마(AI반도체설계(팹리스/IP)) · 신호약함(테마첫거론류)"
-  },
-  {
-   "name": "에이디테크놀로지(200710)",
-   "type": "leading",
-   "theme": "AI반도체설계(팹리스/IP)",
-   "flagDate": "2026-07-20",
-   "score": 3,
-   "concrete": false,
-   "why": "승세테마(AI반도체설계(팹리스/IP)) · 신호약함(테마첫거론류)"
-  },
-  {
-   "name": "자람테크놀로지(389020)",
-   "type": "discovery",
-   "theme": "AI반도체설계(팹리스/IP)",
-   "flagDate": "2026-07-20",
-   "score": 3,
-   "concrete": false,
-   "why": "승세테마(AI반도체설계(팹리스/IP)) · 신호약함(테마첫거론류)"
-  },
-  {
    "name": "웨이버스",
    "type": "discovery",
    "theme": "기타",
@@ -311,24 +22,6 @@
    "score": 2,
    "concrete": true,
    "why": "중립테마(기타) · 구체촉발재: 공공기관수주"
-  },
-  {
-   "name": "나우로보틱스(459510)",
-   "type": "leading",
-   "theme": "로봇/휴머노이드",
-   "flagDate": "2026-07-09",
-   "score": 2,
-   "concrete": true,
-   "why": "중립테마(로봇/휴머노이드) · 구체촉발재: 수주"
-  },
-  {
-   "name": "대동기어(008830)",
-   "type": "leading",
-   "theme": "기타",
-   "flagDate": "2026-07-09",
-   "score": 2,
-   "concrete": true,
-   "why": "중립테마(기타) · 구체촉발재: 수주"
   },
   {
    "name": "씨메스(475400)",
@@ -421,6 +114,15 @@
    "why": "중립테마(기타) · 구체촉발재: 캐파증설(평택 신규거점)"
   },
   {
+   "name": "파두(440110)",
+   "type": "leading",
+   "theme": "AI반도체설계(팹리스/IP)",
+   "flagDate": "2026-07-13",
+   "score": 2,
+   "concrete": true,
+   "why": "중립테마(AI반도체설계(팹리스/IP)) · 구체촉발재: SSD컨트롤러공급계약(420억)"
+  },
+  {
    "name": "원익IPS(240810)",
    "type": "discovery",
    "theme": "반도체소재/장비",
@@ -437,6 +139,33 @@
    "score": 2,
    "concrete": true,
    "why": "중립테마(로봇/휴머노이드) · 구체촉발재: 서흥향24.8억자동화설비공급계약"
+  },
+  {
+   "name": "자람테크놀로지(389020)",
+   "type": "leading",
+   "theme": "AI반도체설계(팹리스/IP)",
+   "flagDate": "2026-07-14",
+   "score": 2,
+   "concrete": true,
+   "why": "중립테마(AI반도체설계(팹리스/IP)) · 구체촉발재: 공급계약(XGS-PON 반도체 13억)"
+  },
+  {
+   "name": "자람테크놀로지(389020)",
+   "type": "leading",
+   "theme": "AI반도체설계(팹리스/IP)",
+   "flagDate": "2026-07-15",
+   "score": 2,
+   "concrete": true,
+   "why": "중립테마(AI반도체설계(팹리스/IP)) · 구체촉발재: 2주내반복수주"
+  },
+  {
+   "name": "파두(440110)",
+   "type": "leading",
+   "theme": "AI반도체설계(팹리스/IP)",
+   "flagDate": "2026-07-16",
+   "score": 2,
+   "concrete": true,
+   "why": "중립테마(AI반도체설계(팹리스/IP)) · 구체촉발재: SSD컨트롤러공급계약(420억)"
   },
   {
    "name": "대동기어(008830)",
@@ -466,6 +195,33 @@
    "why": "중립테마(로봇/휴머노이드) · 구체촉발재: 정책실증주관사선정(경기도 제조로봇 이니셔티브)"
   },
   {
+   "name": "자람테크놀로지(389020)",
+   "type": "leading",
+   "theme": "AI반도체설계(팹리스/IP)",
+   "flagDate": "2026-07-19",
+   "score": 2,
+   "concrete": true,
+   "why": "중립테마(AI반도체설계(팹리스/IP)) · 구체촉발재: 유럽2차양산수주13억"
+  },
+  {
+   "name": "가온칩스(399720)",
+   "type": "discovery",
+   "theme": "AI반도체설계(팹리스/IP)",
+   "flagDate": "2026-07-19",
+   "score": 2,
+   "concrete": true,
+   "why": "중립테마(AI반도체설계(팹리스/IP)) · 구체촉발재: 일본향AI반도체설계수주재부각"
+  },
+  {
+   "name": "자람테크놀로지(389020)",
+   "type": "leading",
+   "theme": "AI반도체설계(팹리스/IP)",
+   "flagDate": "2026-07-20",
+   "score": 2,
+   "concrete": true,
+   "why": "중립테마(AI반도체설계(팹리스/IP)) · 구체촉발재: 유럽2차양산수주13억"
+  },
+  {
    "name": "덕산넵코어스(360030)",
    "type": "leading",
    "theme": "우주/방산",
@@ -484,43 +240,7 @@
    "why": "중립테마(로봇/휴머노이드) · 신호약함(테마첫거론류)"
   },
   {
-   "name": "아스트(067390)",
-   "type": "discovery",
-   "theme": "우주/방산",
-   "flagDate": "2026-07-09",
-   "score": 0,
-   "concrete": false,
-   "why": "중립테마(우주/방산) · 신호약함(테마첫거론류)"
-  },
-  {
-   "name": "브이원텍(251630)",
-   "type": "discovery",
-   "theme": "피지컬AI",
-   "flagDate": "2026-07-09",
-   "score": 0,
-   "concrete": false,
-   "why": "중립테마(피지컬AI) · 신호약함(테마첫거론류)"
-  },
-  {
-   "name": "하이젠알앤엠(160190)",
-   "type": "discovery",
-   "theme": "로봇/휴머노이드",
-   "flagDate": "2026-07-09",
-   "score": 0,
-   "concrete": false,
-   "why": "중립테마(로봇/휴머노이드) · 신호약함(테마첫거론류)"
-  },
-  {
    "name": "본시스템즈",
-   "type": "discovery",
-   "theme": "로봇/휴머노이드",
-   "flagDate": "2026-07-09",
-   "score": 0,
-   "concrete": false,
-   "why": "중립테마(로봇/휴머노이드) · 신호약함(테마첫거론류)"
-  },
-  {
-   "name": "로보티즈(108490)",
    "type": "discovery",
    "theme": "로봇/휴머노이드",
    "flagDate": "2026-07-09",
@@ -691,6 +411,15 @@
    "why": "중립테마(로봇/휴머노이드) · 신호약함(테마첫거론류)"
   },
   {
+   "name": "자람테크놀로지(389020)",
+   "type": "leading",
+   "theme": "AI반도체설계(팹리스/IP)",
+   "flagDate": "2026-07-16",
+   "score": 0,
+   "concrete": false,
+   "why": "중립테마(AI반도체설계(팹리스/IP)) · 신호약함(테마첫거론류)"
+  },
+  {
    "name": "해성에어로보틱스",
    "type": "leading",
    "theme": "로봇/휴머노이드",
@@ -700,13 +429,103 @@
    "why": "중립테마(로봇/휴머노이드) · 신호약함(테마첫거론류)"
   },
   {
-   "name": "서진시스템(178320)",
+   "name": "에이디테크놀로지(200710)",
    "type": "discovery",
-   "theme": "이차전지",
-   "flagDate": "2026-07-09",
-   "score": -1,
-   "concrete": true,
-   "why": "⚠️열세테마(이차전지) · 구체촉발재: ESS장비공급계약537억"
+   "theme": "AI반도체설계(팹리스/IP)",
+   "flagDate": "2026-07-18",
+   "score": 0,
+   "concrete": false,
+   "why": "중립테마(AI반도체설계(팹리스/IP)) · 신호약함(테마첫거론류)"
+  },
+  {
+   "name": "세미파이브(373170)",
+   "type": "discovery",
+   "theme": "AI반도체설계(팹리스/IP)",
+   "flagDate": "2026-07-18",
+   "score": 0,
+   "concrete": false,
+   "why": "중립테마(AI반도체설계(팹리스/IP)) · 신호약함(테마첫거론류)"
+  },
+  {
+   "name": "파두(440110)",
+   "type": "leading",
+   "theme": "AI반도체설계(팹리스/IP)",
+   "flagDate": "2026-07-19",
+   "score": 0,
+   "concrete": false,
+   "why": "중립테마(AI반도체설계(팹리스/IP)) · 신호약함(테마첫거론류)"
+  },
+  {
+   "name": "에이디테크놀로지(200710)",
+   "type": "leading",
+   "theme": "AI반도체설계(팹리스/IP)",
+   "flagDate": "2026-07-19",
+   "score": 0,
+   "concrete": false,
+   "why": "중립테마(AI반도체설계(팹리스/IP)) · 신호약함(테마첫거론류)"
+  },
+  {
+   "name": "세미파이브(490470)",
+   "type": "discovery",
+   "theme": "AI반도체설계(팹리스/IP)",
+   "flagDate": "2026-07-19",
+   "score": 0,
+   "concrete": false,
+   "why": "중립테마(AI반도체설계(팹리스/IP)) · 신호약함(테마첫거론류)"
+  },
+  {
+   "name": "세미파이브(490470)",
+   "type": "leading",
+   "theme": "AI반도체설계(팹리스/IP)",
+   "flagDate": "2026-07-20",
+   "score": 0,
+   "concrete": false,
+   "why": "중립테마(AI반도체설계(팹리스/IP)) · 신호약함(테마첫거론류)"
+  },
+  {
+   "name": "칩스앤미디어(094360)",
+   "type": "leading",
+   "theme": "AI반도체설계(팹리스/IP)",
+   "flagDate": "2026-07-20",
+   "score": 0,
+   "concrete": false,
+   "why": "중립테마(AI반도체설계(팹리스/IP)) · 신호약함(테마첫거론류)"
+  },
+  {
+   "name": "에이디테크놀로지(200710)",
+   "type": "leading",
+   "theme": "AI반도체설계(팹리스/IP)",
+   "flagDate": "2026-07-20",
+   "score": 0,
+   "concrete": false,
+   "why": "중립테마(AI반도체설계(팹리스/IP)) · 신호약함(테마첫거론류)"
+  },
+  {
+   "name": "자람테크놀로지(389020)",
+   "type": "discovery",
+   "theme": "AI반도체설계(팹리스/IP)",
+   "flagDate": "2026-07-20",
+   "score": 0,
+   "concrete": false,
+   "why": "중립테마(AI반도체설계(팹리스/IP)) · 신호약함(테마첫거론류)"
+  },
+  {
+   "name": "세미파이브(490470)",
+   "type": "leading",
+   "theme": "AI반도체설계(팹리스/IP)",
+   "flagDate": "2026-07-22",
+   "score": 0,
+   "concrete": false,
+   "why": "중립테마(AI반도체설계(팹리스/IP)) · 신호약함(테마첫거론류)"
+  },
+  {
+   "name": "칩스앤미디어(094360)",
+   "type": "discovery",
+   "theme": "AI반도체설계(팹리스/IP)",
+   "flagDate": "2026-07-22",
+   "score": 0,
+   "concrete": false,
+   "why": "중립테마(AI반도체설계(팹리스/IP)) · 신호약함(테마첫거론류)"
   },
   {
    "name": "부강테크(279960)",

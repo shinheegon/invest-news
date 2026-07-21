@@ -1,31 +1,40 @@
 {
- "updatedAt": "2026-07-21T08:22:42+09:00",
+ "updatedAt": "2026-07-22T08:23:27+09:00",
  "themes": [
   {
    "theme": "AI반도체설계(팹리스/IP)",
-   "n": 5,
+   "n": 6,
    "hit": 1,
-   "miss": 2,
-   "hitRate": 20.0,
-   "avgD3": 3.8,
-   "momentum": "상승"
+   "miss": 3,
+   "hitRate": 16.7,
+   "avgD3": 2.5,
+   "momentum": "중립"
   },
   {
    "theme": "기타",
-   "n": 36,
+   "n": 37,
    "hit": 7,
    "miss": 13,
-   "hitRate": 19.4,
+   "hitRate": 18.9,
    "avgD3": 2.3,
    "momentum": "중립"
   },
   {
    "theme": "로봇/휴머노이드",
-   "n": 35,
+   "n": 36,
    "hit": 6,
    "miss": 19,
-   "hitRate": 17.1,
+   "hitRate": 16.7,
    "avgD3": 2.0,
+   "momentum": "중립"
+  },
+  {
+   "theme": "우주/방산",
+   "n": 5,
+   "hit": 1,
+   "miss": 1,
+   "hitRate": 20.0,
+   "avgD3": 1.6,
    "momentum": "중립"
   },
   {
@@ -38,21 +47,12 @@
    "momentum": "중립"
   },
   {
-   "theme": "우주/방산",
-   "n": 4,
-   "hit": 0,
-   "miss": 1,
-   "hitRate": 0.0,
-   "avgD3": 0.5,
-   "momentum": "중립"
-  },
-  {
    "theme": "반도체소재/장비",
-   "n": 20,
+   "n": 21,
    "hit": 3,
    "miss": 9,
-   "hitRate": 15.0,
-   "avgD3": -0.5,
+   "hitRate": 14.3,
+   "avgD3": -0.7,
    "momentum": "중립"
   },
   {
@@ -75,11 +75,11 @@
   },
   {
    "theme": "바이오/의료",
-   "n": 5,
+   "n": 6,
    "hit": 1,
    "miss": 3,
-   "hitRate": 20.0,
-   "avgD3": -5.0,
+   "hitRate": 16.7,
+   "avgD3": -4.7,
    "momentum": "하락"
   },
   {
@@ -92,9 +92,7 @@
    "momentum": "하락"
   }
  ],
- "winning": [
-  "AI반도체설계(팹리스/IP)"
- ],
+ "winning": [],
  "losing": [
   "바이오/의료",
   "이차전지"

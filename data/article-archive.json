@@ -727,6 +727,18 @@
   "삼성전자(005930)": {
    "articles": [
     {
+     "date": "2026-07-22",
+     "source": "한국경제·경제",
+     "title": "삼성전자의 첫 스마트글래스·폴드8…오늘 밤 런던 언팩서 공개",
+     "link": "https://www.hankyung.com/article/2026072281017"
+    },
+    {
+     "date": "2026-07-22",
+     "source": "한국경제·경제",
+     "title": "삼성전자, 미국서 첫 신용카드 내놨다",
+     "link": "https://www.hankyung.com/article/2026072176521"
+    },
+    {
      "date": "2026-07-21",
      "source": "한국경제·경제",
      "title": "노태문 57억원, 전영현 26억원…삼성전자 자사주 상여금 '돈방석'",
@@ -1433,18 +1445,6 @@
      "source": "한국경제·증권",
      "title": "반도체 흔들려도…초고수들, SK하이닉스·삼성전자 쓸어담아",
      "link": "https://www.hankyung.com/article/202606293577i"
-    },
-    {
-     "date": "2026-06-29",
-     "source": "한국경제·증권",
-     "title": "\"삼성전자, CXMT 상장으로 D램 공급 확대 우려 부각될 수도\"-LS",
-     "link": "https://www.hankyung.com/article/2026062927786"
-    },
-    {
-     "date": "2026-06-29",
-     "source": "한국경제·증권",
-     "title": "310% 하이닉스 vs 183% 삼성전자…수익률 차이난 이유",
-     "link": "https://www.hankyung.com/article/202606271075i"
     }
    ]
   },
@@ -4587,6 +4587,12 @@
   "신세계(004170)": {
    "articles": [
     {
+     "date": "2026-07-22",
+     "source": "한국경제·경제",
+     "title": "감귤·흑돼지·성게알 모았다…신세계百 '제주 미식전' 개최",
+     "link": "https://www.hankyung.com/article/202607217353g"
+    },
+    {
      "date": "2026-07-21",
      "source": "아시아경제",
      "title": "[클릭 e종목]\"소비 양극화 수혜주…신세계, 목표주가 유지\"",
@@ -5096,6 +5102,12 @@
   },
   "마이크론(MU)": {
    "articles": [
+    {
+     "date": "2026-07-22",
+     "source": "한국경제·증권",
+     "title": "유가 상승에도 반발 매수세 유입…마이크론 12% 반등 [뉴욕증시 브리핑]",
+     "link": "https://www.hankyung.com/article/2026072281296"
+    },
     {
      "date": "2026-07-20",
      "source": "한국경제·증권",
@@ -8463,6 +8475,18 @@
   "현대백화점(069960)": {
    "articles": [
     {
+     "date": "2026-07-22",
+     "source": "한국경제·경제",
+     "title": "현대백화점·이마트·11번가·롯데온 '상생 우수기업'",
+     "link": "https://www.hankyung.com/article/2026072176701"
+    },
+    {
+     "date": "2026-07-22",
+     "source": "아시아경제",
+     "title": "'더현대부터 송도까지' 외국인 싹쓸이…현대백화점, 명품·주얼리 고성장[클릭e종목]",
+     "link": "https://view.asiae.co.kr/article/2026072114551902327"
+    },
+    {
      "date": "2026-07-09",
      "source": "연합뉴스·경제",
      "title": "현대백화점, 도쿄에 첫 플래그십 스토어 '더 현대' 오픈",
@@ -9455,6 +9479,18 @@
   "ISC(095340)": {
    "articles": [
     {
+     "date": "2026-07-22",
+     "source": "CNBC·Markets",
+     "title": "Super Micro surges 15% on new order and margin disclosure after SpaceX announcement",
+     "link": "https://www.cnbc.com/2026/07/21/super-micro-stock-spacex-announcement.html"
+    },
+    {
+     "date": "2026-07-22",
+     "source": "MarketWatch",
+     "title": "Why Paramount could win if it loses the Warner Bros. Discovery deal",
+     "link": "https://www.marketwatch.com/story/why-paramount-could-win-if-it-loses-the-warner-bros-discovery-deal-5f174963?mod=mw_rss_topstories"
+    },
+    {
      "date": "2026-07-21",
      "source": "CNBC·Finance",
      "title": "Capital One bet big on Discover. Now it must prove the gamble was worth it",
@@ -10050,6 +10086,12 @@
   },
   "JP모건(JPM)": {
    "articles": [
+    {
+     "date": "2026-07-22",
+     "source": "한국경제·경제",
+     "title": "JP모건·UBS \"반도체 주식 매도 마무리\" vs 씨티 \"중립\" 하향",
+     "link": "https://www.hankyung.com/article/202607217793i"
+    },
     {
      "date": "2026-07-21",
      "source": "아시아경제",
@@ -10911,6 +10953,12 @@
   "SK(034730)": {
    "articles": [
     {
+     "date": "2026-07-22",
+     "source": "CNBC·Finance",
+     "title": "Bets against SpaceX grow to 32% of float as Elon Musk warns short sellers won't survive",
+     "link": "https://www.cnbc.com/2026/07/21/bets-against-spacex-grow-to-32percent-of-float-as-elon-musk-warns-short-sellers-wont-survive.html"
+    },
+    {
      "date": "2026-07-21",
      "source": "한국경제·증권",
      "title": "환율, 왜 갑자기 떨어졌나 봤더니…SK하이닉스 효과였다 [분석+]",
@@ -11623,12 +11671,6 @@
      "source": "한국경제·증권",
      "title": "SK하이닉스 \"ADR 공모가 149달러\"…외국기업 美IPO 사상 최대",
      "link": "https://www.hankyung.com/article/2026071067797"
-    },
-    {
-     "date": "2026-07-10",
-     "source": "한국경제·증권",
-     "title": "SK하이닉스 ADR 공모가 149달러 확정…40조원 조달 눈앞",
-     "link": "https://www.hankyung.com/article/2026071067507"
     }
    ]
   },
@@ -11770,6 +11812,24 @@
   },
   "NC(036570)": {
    "articles": [
+    {
+     "date": "2026-07-22",
+     "source": "CNBC·Markets",
+     "title": "Super Micro surges 15% on new order and margin disclosure after SpaceX announcement",
+     "link": "https://www.cnbc.com/2026/07/21/super-micro-stock-spacex-announcement.html"
+    },
+    {
+     "date": "2026-07-22",
+     "source": "MarketWatch",
+     "title": "SpaceX’s stock snaps brutal losing streak ahead of key Starship rocket launch",
+     "link": "https://www.marketwatch.com/story/spacexs-stock-looks-to-snap-brutal-losing-streak-as-it-heads-for-one-of-its-best-days-yet-74220273?mod=mw_rss_topstories"
+    },
+    {
+     "date": "2026-07-22",
+     "source": "MarketWatch",
+     "title": "Why Micron and other chip stocks are bouncing back so strongly",
+     "link": "https://www.marketwatch.com/story/why-micron-and-other-chip-stocks-are-bouncing-back-so-strongly-3f6d3cee?mod=mw_rss_topstories"
+    },
     {
      "date": "2026-07-21",
      "source": "CNBC·Markets",
@@ -14257,6 +14317,12 @@
   "GS리테일(007070)": {
    "articles": [
     {
+     "date": "2026-07-22",
+     "source": "아시아경제",
+     "title": "체질 개선 끝낸 GS리테일…'편의점·슈퍼' 양날개 달았다[클릭e종목]",
+     "link": "https://view.asiae.co.kr/article/2026072115370713938"
+    },
+    {
      "date": "2026-07-21",
      "source": "아시아경제",
      "title": "생활 플랫폼으로 진화하는 GS리테일[클릭 e종목]",
@@ -15182,6 +15248,12 @@
   },
   "APS(054620)": {
    "articles": [
+    {
+     "date": "2026-07-22",
+     "source": "MarketWatch",
+     "title": "SpaceX’s stock snaps brutal losing streak ahead of key Starship rocket launch",
+     "link": "https://www.marketwatch.com/story/spacexs-stock-looks-to-snap-brutal-losing-streak-as-it-heads-for-one-of-its-best-days-yet-74220273?mod=mw_rss_topstories"
+    },
     {
      "date": "2026-07-17",
      "source": "MarketWatch",
@@ -16471,6 +16543,12 @@
   "이마트(139480)": {
    "articles": [
     {
+     "date": "2026-07-22",
+     "source": "한국경제·경제",
+     "title": "\"장어 반값\"…이마트, 중복 앞두고 보양식 최대 50% 할인",
+     "link": "https://www.hankyung.com/article/202607217430g"
+    },
+    {
      "date": "2026-07-21",
      "source": "한국경제·경제",
      "title": "현대百·이마트·11번가·롯데온 '상생 우수기업'",
@@ -16947,6 +17025,12 @@
   "TSMC(TSM)": {
    "articles": [
     {
+     "date": "2026-07-22",
+     "source": "한국경제·경제",
+     "title": "\"TSMC, 내년부터 위탁칩 가격 최대 10% 인상\" [닛케이]",
+     "link": "https://www.hankyung.com/article/202607217955i"
+    },
+    {
      "date": "2026-07-21",
      "source": "아시아경제",
      "title": "[클릭 e종목]TSMC 투자 시 고려해야 할 요소는",
@@ -17146,6 +17230,12 @@
   },
   "GS(078930)": {
    "articles": [
+    {
+     "date": "2026-07-22",
+     "source": "아시아경제",
+     "title": "체질 개선 끝낸 GS리테일…'편의점·슈퍼' 양날개 달았다[클릭e종목]",
+     "link": "https://view.asiae.co.kr/article/2026072115370713938"
+    },
     {
      "date": "2026-07-21",
      "source": "아시아경제",
@@ -18119,6 +18209,30 @@
   "SpaceX": {
    "articles": [
     {
+     "date": "2026-07-22",
+     "source": "CNBC·Markets",
+     "title": "Super Micro surges 15% on new order and margin disclosure after SpaceX announcement",
+     "link": "https://www.cnbc.com/2026/07/21/super-micro-stock-spacex-announcement.html"
+    },
+    {
+     "date": "2026-07-22",
+     "source": "CNBC·Finance",
+     "title": "Goldman Sachs creates private markets platform as rich investors seek the next SpaceX and Stripe",
+     "link": "https://www.cnbc.com/2026/07/21/goldman-sachs-private-markets-platform.html"
+    },
+    {
+     "date": "2026-07-22",
+     "source": "CNBC·Finance",
+     "title": "Bets against SpaceX grow to 32% of float as Elon Musk warns short sellers won't survive",
+     "link": "https://www.cnbc.com/2026/07/21/bets-against-spacex-grow-to-32percent-of-float-as-elon-musk-warns-short-sellers-wont-survive.html"
+    },
+    {
+     "date": "2026-07-22",
+     "source": "MarketWatch",
+     "title": "SpaceX’s stock snaps brutal losing streak ahead of key Starship rocket launch",
+     "link": "https://www.marketwatch.com/story/spacexs-stock-looks-to-snap-brutal-losing-streak-as-it-heads-for-one-of-its-best-days-yet-74220273?mod=mw_rss_topstories"
+    },
+    {
      "date": "2026-07-21",
      "source": "MarketWatch",
      "title": "SpaceX gave investors intense FOMO. Now the decade’s hottest IPO represents a brutal reality check.",
@@ -18257,7 +18371,17 @@
      "link": "https://www.hankyung.com/article/202607216838i"
     }
    ]
+  },
+  "HLB이노베이션(024850)": {
+   "articles": [
+    {
+     "date": "2026-07-22",
+     "source": "아시아경제",
+     "title": "HLB이노베이션, 베리스모 차세대 고형암 표적 확보",
+     "link": "https://view.asiae.co.kr/article/2026072108095279373"
+    }
+   ]
   }
  },
- "updatedAt": "2026-07-21T20:54:46+09:00"
+ "updatedAt": "2026-07-22T08:03:07+09:00"
 }

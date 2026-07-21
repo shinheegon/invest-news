@@ -1,17 +1,18 @@
 {
-  "updatedAt": "2026-07-21T21:00:00+09:00", "session": "PM",
-  "note": "코스피가 반도체 대형주 반등과 반도체 수출 호조(7/1~20 +180.6%)에 힘입어 +3.56% 급등, 매수 사이드카가 발동되며 전일(7/20) 급락분을 대부분 만회했다. 코스닥도 +0.49% 소폭 반등. 美 증시는 7/20(월) 마감 기준 3대 지수 동반 소폭 하락 유지(변동 없음), 이란-후티 관련 지정학 리스크는 지속 중.",
-  "stock_fng": { "value": 37, "label": "Fear", "source": "https://feargreedmeter.com/fear-and-greed-index" },
+  "updatedAt": "2026-07-22T07:30:00+09:00", "session": "AM",
+  "note": "美 증시는 3거래일 연속 하락을 끊고 반도체株 강세(마이크론 실적 기대감 +12%, 슈퍼마이크로 +15%)에 힘입어 3대 지수 동반 상승 마감(S&P500 +0.89%·나스닥 +1.29%·다우 +0.74%). TSMC는 2027년 파운드리 가격 최대 10% 인상 협상 소식과 애리조나 추가 투자(총 2,650억달러)로 +3.29%. 다만 캐나다 최대 50% 신규 관세(7/20 서명)·글로벌 관세10%(7/24 만료 예정) 등 통상 리스크와 케빈 워시 Fed의장의 매파 기조는 여전히 상단을 제한하는 요인. 한국은 전일(7/21) 코스피 +3.56%(매수사이드카 발동)로 전전일 급락분을 상당폭 만회했다.",
+  "stock_fng": { "value": 41, "label": "Fear", "source": "https://www.benzinga.com/markets/market-summary/26/07/60569657/dow-dips-over-300-points-as-oil-prices-rise-greed-index-remains-in-fear-zone" },
   "indices": [
-    { "name": "코스피", "value": "6,747.95", "change": "+3.56%(+231.68p), 매수사이드카 발동", "source": "https://www.edaily.co.kr/News/Read?newsId=04493606645516816" },
-    { "name": "코스닥", "value": "753.34", "change": "+0.49%(+3.70p)", "source": "https://www.edaily.co.kr/News/Read?newsId=04493606645516816" },
-    { "name": "S&P 500", "value": "7,443.28", "change": "-0.19%(-14.41p), 7/20 종가", "source": "https://finance.yahoo.com/markets/live/stock-market-today-monday-july-20-dow-sp-500-nasdaq-111429441.html" },
-    { "name": "나스닥", "value": "25,508.07", "change": "-0.05%(-12.17p), 7/20 종가", "source": "https://finance.yahoo.com/markets/live/stock-market-today-monday-july-20-dow-sp-500-nasdaq-111429441.html" },
-    { "name": "다우", "value": "51,839.26", "change": "-0.59%(-307.16p), 7/20 종가", "source": "https://finance.yahoo.com/markets/live/stock-market-today-monday-july-20-dow-sp-500-nasdaq-111429441.html" },
-    { "name": "VIX", "value": "18.65", "change": "-0.64%(-0.12pt), 7/20 종가", "source": "https://finance.yahoo.com/markets/live/stock-market-today-monday-july-20-dow-sp-500-nasdaq-111429441.html" },
-    { "name": "美 10년물", "value": "4.61%", "change": "+4bp, 7/20 기준", "source": "https://www.benzinga.com/markets/equities/26/07/60560678/stock-market-today-nasdaq-100-chip-stock-rebound" },
-    { "name": "달러인덱스(DXY)", "value": "100.98", "change": "+0.03%", "source": "https://tradingeconomics.com/dxy:cur" },
-    { "name": "원/달러", "value": "1,473.4원", "change": "-5.0원(15:30 기준), 6거래일 연속 하락", "source": "https://www.mt.co.kr/economy/2026/07/21/2026072115384439966" },
+    { "name": "코스피", "value": "6,747.95", "change": "+3.56%(+231.68p), 7/21 종가·매수사이드카 발동", "source": "https://view.asiae.co.kr/article/2026072115351795800" },
+    { "name": "코스닥", "value": "753.34", "change": "+0.49%(+3.70p), 7/21 종가", "source": "https://view.asiae.co.kr/article/2026072115360502535" },
+    { "name": "S&P 500", "value": "7,509.20", "change": "+0.89%(+65.92p), 7/21 종가", "source": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-july-21-dow-sp-500-nasdaq-084631499.html" },
+    { "name": "나스닥", "value": "25,837.21", "change": "+1.29%(+329.13p), 7/21 종가", "source": "https://www.fool.com/coverage/stock-market-today/2026/07/21/stock-market-today-july-21-micron-surges-12-as-semiconductor-strength-lifts-nasdaq/" },
+    { "name": "다우", "value": "52,224.64", "change": "+0.74%(+385.38p), 7/21 종가", "source": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-july-21-2026" },
+    { "name": "VIX", "value": "17선", "change": "전일(18.65) 대비 하락 추정, 위험선호 회복", "source": "https://www.investing.com/indices/volatility-s-p-500" },
+    { "name": "美 10년물", "value": "4.60%", "change": "인플레·관세 우려에 소폭 상승", "source": "https://tradingeconomics.com/united-states/government-bond-yield" },
+    { "name": "달러인덱스(DXY)", "value": "101.00", "change": "+0.2%, 국채금리·중동긴장 반영", "source": "https://www.fxstreet.com/news/forex-today-us-dollar-rises-as-gulf-tensions-lift-oil-and-canadian-inflation-cool-202607202043" },
+    { "name": "WTI", "value": "84.29달러", "change": "+2.20%, 중동 긴장 지속", "source": "https://tradingeconomics.com/commodity/crude-oil" },
+    { "name": "원/달러", "value": "1,473.4원", "change": "-5.0원(15:30 기준, 7/21), 6거래일 연속 하락", "source": "https://www.mt.co.kr/economy/2026/07/21/2026072115384439966" },
     { "name": "한국 기준금리", "value": "2.75%", "change": "7/16 인상 후 유지, 8월 추가 인상 가능성 열려있음", "source": "https://www.fnnews.com/news/202607161303293438" }
   ]
 }
