@@ -727,6 +727,24 @@
   "삼성전자(005930)": {
    "articles": [
     {
+     "date": "2026-07-23",
+     "source": "한국경제·경제",
+     "title": "3년 만에 '언팩' 찾은 퀄컴 CEO…\"삼성전자, 구글과 차세대 갤럭시 경험 구축\"",
+     "link": "https://www.hankyung.com/article/202607220424i"
+    },
+    {
+     "date": "2026-07-23",
+     "source": "아시아경제",
+     "title": "[상법개정 1년]③삼성전자·네이버 내년 주총때 이사 선출 놓고 표대결할 수도",
+     "link": "https://view.asiae.co.kr/article/2026072211393886093"
+    },
+    {
+     "date": "2026-07-23",
+     "source": "newspim.com",
+     "title": "- 삼성전자(005930): CEO 직속 'RX사업추진단' 신설 발표로 로봇 관련주 동반 급등 촉발, 레인보우로보틱스(35% 지분 보유) 재조명.",
+     "link": "https://www.newspim.com/news/view/20260722000246"
+    },
+    {
      "date": "2026-07-22",
      "source": "한국경제·경제",
      "title": "삼성전자의 첫 스마트글래스·폴드8…오늘 밤 런던 언팩서 공개",
@@ -1427,24 +1445,6 @@
      "source": "한국경제",
      "title": "- 삼성전자(005930): 전일 -4.86% '셀온뉴스' 이후, 밤사이 美 반도체 랠리(SMH +3%)로 오늘 반등 시도 가능. 2,655조 국내투자 모멘텀 유",
      "link": "https://www.hankyung.com/article/2026062951167"
-    },
-    {
-     "date": "2026-06-30",
-     "source": "한국경제·경제",
-     "title": "삼성전자 '한 지붕 두 살림' 비상…반도체 '과반 노조' 나오나",
-     "link": "https://www.hankyung.com/article/202606307034g"
-    },
-    {
-     "date": "2026-06-30",
-     "source": "한국경제·증권",
-     "title": "삼성전자·전기의 힘…코스피, 외인 '팔자'에도 0.97% 상승",
-     "link": "https://www.hankyung.com/article/2026063070016"
-    },
-    {
-     "date": "2026-06-30",
-     "source": "한국경제·증권",
-     "title": "\"삼성전자·전기보다 SK하이닉스·스퀘어\"…ETF 확 바뀌었다 왜?",
-     "link": "https://www.hankyung.com/article/202606306522i"
     }
    ]
   },
@@ -1999,6 +1999,12 @@
   "아마존(AMZN)": {
    "articles": [
     {
+     "date": "2026-07-23",
+     "source": "아시아경제",
+     "title": "[클릭 e종목]2분기 실적 앞둔 아마존…투자포인트는?",
+     "link": "https://view.asiae.co.kr/article/2026072216192805045"
+    },
+    {
      "date": "2026-07-19",
      "source": "연합뉴스·경제",
      "title": "에이피알, 아마존 글로벌 경영진에 제조·물류 통합체계 공개",
@@ -2062,6 +2068,12 @@
   },
   "애플(AAPL)": {
    "articles": [
+    {
+     "date": "2026-07-23",
+     "source": "아시아경제",
+     "title": "\"메모리값 방어할까\"…애플, 이익체력 시험대[클릭 e종목]",
+     "link": "https://view.asiae.co.kr/article/2026072215372132100"
+    },
     {
      "date": "2026-07-22",
      "source": "연합뉴스·경제",
@@ -3601,6 +3613,12 @@
   "네이버(035420)": {
    "articles": [
     {
+     "date": "2026-07-23",
+     "source": "아시아경제",
+     "title": "[상법개정 1년]③삼성전자·네이버 내년 주총때 이사 선출 놓고 표대결할 수도",
+     "link": "https://view.asiae.co.kr/article/2026072211393886093"
+    },
+    {
      "date": "2026-07-21",
      "source": "한국경제·경제",
      "title": "중고 거래 판 키우는 네이버",
@@ -3884,6 +3902,12 @@
   },
   "한울반도체": {
    "articles": [
+    {
+     "date": "2026-07-23",
+     "source": "아시아경제",
+     "title": "한울반도체, \"MLCC 분당 1만3000개 검사\"…AI 전수검사로 글로벌 증설시장 공략",
+     "link": "https://view.asiae.co.kr/article/2026072308090719749"
+    },
     {
      "date": "2026-07-20",
      "source": "아시아경제",
@@ -4872,6 +4896,12 @@
   },
   "한미반도체(042700)": {
    "articles": [
+    {
+     "date": "2026-07-23",
+     "source": "newspim.com",
+     "title": "- 한미반도체(042700): 인천 제8공장 매입 추진하며 HBM·AI패키징 생산능력 확대 중.",
+     "link": "https://www.newspim.com/news/view/20260720000985"
+    },
     {
      "date": "2026-07-15",
      "source": "한국경제·증권",
@@ -5919,6 +5949,12 @@
   "KT&G(033780)": {
    "articles": [
     {
+     "date": "2026-07-23",
+     "source": "아시아경제",
+     "title": "[클릭 e종목]본업 성장+주주환원 기대…'KT&G' 목표가↑",
+     "link": "https://view.asiae.co.kr/article/2026072215374146129"
+    },
+    {
      "date": "2026-07-21",
      "source": "파이낸셜뉴스",
      "title": "KT&G장학재단, 문화예술 장학생 선정해 장학금 전달한다",
@@ -6602,6 +6638,12 @@
   },
   "KT(030200)": {
    "articles": [
+    {
+     "date": "2026-07-23",
+     "source": "아시아경제",
+     "title": "[클릭 e종목]본업 성장+주주환원 기대…'KT&G' 목표가↑",
+     "link": "https://view.asiae.co.kr/article/2026072215374146129"
+    },
     {
      "date": "2026-07-22",
      "source": "한국경제·증권",
@@ -7853,6 +7895,18 @@
   "LS(006260)": {
    "articles": [
     {
+     "date": "2026-07-23",
+     "source": "CNBC·Markets",
+     "title": "Southwest Airlines' third-quarter forecast falls short as fuel bill climbs",
+     "link": "https://www.cnbc.com/2026/07/22/southwest-airlines-luv-2q-2026-earnings.html"
+    },
+    {
+     "date": "2026-07-23",
+     "source": "CNBC·Finance",
+     "title": "John Paulson says we are in the early stages of a long-term bull market for gold",
+     "link": "https://www.cnbc.com/2026/07/22/john-paulson-says-we-are-in-early-stages-of-a-long-term-bull-market-for-gold.html"
+    },
+    {
      "date": "2026-07-22",
      "source": "한국경제·경제",
      "title": "LS일렉·LG유플, 직류기반 전력 인프라 개발",
@@ -8667,6 +8721,12 @@
   "퀄컴(QCOM)": {
    "articles": [
     {
+     "date": "2026-07-23",
+     "source": "한국경제·경제",
+     "title": "3년 만에 '언팩' 찾은 퀄컴 CEO…\"삼성전자, 구글과 차세대 갤럭시 경험 구축\"",
+     "link": "https://www.hankyung.com/article/202607220424i"
+    },
+    {
      "date": "2026-07-17",
      "source": "한국경제·경제",
      "title": "마이크론·현대모비스·퀄컴 '부품 동맹' 맺었다…장기 계약 체결",
@@ -8814,6 +8874,12 @@
   },
   "AMD(AMD)": {
    "articles": [
+    {
+     "date": "2026-07-23",
+     "source": "한국경제·경제",
+     "title": "\"AMD, 앤스로픽에 수백억 달러 차세대 AI 칩 공급 빅딜\"",
+     "link": "https://www.hankyung.com/article/202607220389i"
+    },
     {
      "date": "2026-07-07",
      "source": "한국경제·증권",
@@ -9208,6 +9274,18 @@
   },
   "테슬라(TSLA)": {
    "articles": [
+    {
+     "date": "2026-07-23",
+     "source": "한국경제·경제",
+     "title": "'웃돈 3000만원' 줘도 못 산다…중고 테슬라 몸값 뛴 이유",
+     "link": "https://www.hankyung.com/article/2026072200551"
+    },
+    {
+     "date": "2026-07-23",
+     "source": "한국경제·증권",
+     "title": "테슬라, 2분기 매출 26%↑…사상 최대 실적에도 영업이익은 반토막",
+     "link": "https://www.hankyung.com/article/202607230480i"
+    },
     {
      "date": "2026-07-19",
      "source": "한국경제·경제",
@@ -10232,6 +10310,12 @@
   },
   "KB증권": {
    "articles": [
+    {
+     "date": "2026-07-23",
+     "source": "한국경제·증권",
+     "title": "6개월 수익률 42%…KB증권, 투자고수 대회 정상",
+     "link": "https://www.hankyung.com/article/2026072200031"
+    },
     {
      "date": "2026-07-22",
      "source": "한국경제·증권",
@@ -12699,6 +12783,24 @@
   "알파벳(GOOGL)": {
    "articles": [
     {
+     "date": "2026-07-23",
+     "source": "한국경제·경제",
+     "title": "자본투자 얼마나 늘리나?…알파벳 실적 발표에 쏠린 눈",
+     "link": "https://www.hankyung.com/article/202607220423i"
+    },
+    {
+     "date": "2026-07-23",
+     "source": "한국경제·증권",
+     "title": "역대급 실적에도 주가 하락…구글 모회사 알파벳의 '속사정'",
+     "link": "https://www.hankyung.com/article/202607230496i"
+    },
+    {
+     "date": "2026-07-23",
+     "source": "한국경제·증권",
+     "title": "고유가·고금리 속 알파벳 실적 시험대…AI 투자 경쟁은 이어진다 [빈난새의 개장전요것만]",
+     "link": "https://www.hankyung.com/article/202607220422i"
+    },
+    {
      "date": "2026-07-20",
      "source": "한국경제·증권",
      "title": "반도체 랠리 분수령 알파벳 2분기 실적발표, 관전포인트 4가지",
@@ -15123,6 +15225,12 @@
   "대우건설(047040)": {
    "articles": [
     {
+     "date": "2026-07-23",
+     "source": "아시아경제",
+     "title": "\"대우건설 2Q 실적 양호…주가에 필요한 건 원전\"[클릭 e종목]",
+     "link": "https://view.asiae.co.kr/article/2026072307184170539"
+    },
+    {
      "date": "2026-07-14",
      "source": "아시아경제",
      "title": "\"대우건설, 실적 반등 기대…투자의견 상향\"[클릭 e종목]",
@@ -15734,6 +15842,12 @@
   },
   "디알젬(263690)": {
    "articles": [
+    {
+     "date": "2026-07-23",
+     "source": "아시아경제",
+     "title": "디알젬, 터키 업체와 193억원 의료기기 공급계약",
+     "link": "https://view.asiae.co.kr/article/2026072308093026488"
+    },
     {
      "date": "2026-07-07",
      "source": "아시아경제",
@@ -17483,6 +17597,12 @@
   "코아시아씨엠(196450)": {
    "articles": [
     {
+     "date": "2026-07-23",
+     "source": "zdnet.co.kr",
+     "title": "- 🟢 선행 포착(오르기 전 기회): 코아시아씨엠(196450) — 신제품 공동개발+실적개선+경영진 매수 신호 동시 켜짐, 아직 로봇 매출 비중 미공시로 시장 반",
+     "link": "https://zdnet.co.kr/view/?no=20260616094602"
+    },
+    {
      "date": "2026-07-10",
      "source": "아시아경제",
      "title": "- 코아시아씨엠(196450)·소 [재점화·검증 +15.5% 승자] · [로봇 광학] 경영진 자사주 매입 연쇄 — 내부자 신호.",
@@ -17518,6 +17638,30 @@
   },
   "GS(078930)": {
    "articles": [
+    {
+     "date": "2026-07-23",
+     "source": "CNBC·Markets",
+     "title": "IBM lowers full-year forecast after earnings warning",
+     "link": "https://www.cnbc.com/2026/07/22/ibm-q2-earnings-report-2026.html"
+    },
+    {
+     "date": "2026-07-23",
+     "source": "CNBC·Markets",
+     "title": "GE Vernova sellers blinded by an earnings miss should focus on strong demand instead",
+     "link": "https://www.cnbc.com/2026/07/22/ge-vernova-sellers-blinded-by-an-earnings-miss-should-focus-on-strong-demand-instead.html"
+    },
+    {
+     "date": "2026-07-23",
+     "source": "CNBC·Markets",
+     "title": "Tesla misses on earnings, as free cash flow turns negative and margins slide",
+     "link": "https://www.cnbc.com/2026/07/22/tesla-tsla-q2-2026-earnings-report.html"
+    },
+    {
+     "date": "2026-07-23",
+     "source": "MarketWatch",
+     "title": "ServiceNow’s stock rises as earnings show momentum in cybersecurity",
+     "link": "https://www.marketwatch.com/story/servicenows-stock-gains-as-earnings-show-momentum-in-cybersecurity-86e7a038?mod=mw_rss_topstories"
+    },
     {
      "date": "2026-07-22",
      "source": "아시아경제",
@@ -18016,6 +18160,18 @@
   },
   "IBM(IBM)": {
    "articles": [
+    {
+     "date": "2026-07-23",
+     "source": "CNBC·Markets",
+     "title": "IBM lowers full-year forecast after earnings warning",
+     "link": "https://www.cnbc.com/2026/07/22/ibm-q2-earnings-report-2026.html"
+    },
+    {
+     "date": "2026-07-23",
+     "source": "MarketWatch",
+     "title": "IBM just cut its outlook, but not by as much as investors feared",
+     "link": "https://www.marketwatch.com/story/ibm-just-cut-its-outlook-why-its-stock-is-bouncing-anyway-9d36e22a?mod=mw_rss_topstories"
+    },
     {
      "date": "2026-07-16",
      "source": "한국경제·증권",
@@ -18683,6 +18839,12 @@
   "모건스탠리(MS)": {
    "articles": [
     {
+     "date": "2026-07-23",
+     "source": "한국경제·증권",
+     "title": "\"삼전닉스 비중 줄여라\" 했던 모건스탠리…2주 만에 '돌변' [분석+]",
+     "link": "https://www.hankyung.com/article/2026072294186"
+    },
+    {
      "date": "2026-07-21",
      "source": "한국경제·증권",
      "title": "모건스탠리·JP모간 \"반도체 저가매수 기회\"…삼전닉스 반등",
@@ -18771,6 +18933,12 @@
   "클래시스(214150)": {
    "articles": [
     {
+     "date": "2026-07-23",
+     "source": "아시아경제",
+     "title": "[클릭 e종목]\"클래시스, 단기 눈높이 재조정 필요…목표가↓\"",
+     "link": "https://view.asiae.co.kr/article/2026072216093543621"
+    },
+    {
      "date": "2026-07-22",
      "source": "머니투데이·증권",
      "title": "[투자원정대 동행] 로체시스템즈 vs 클래시스 vs 엠디바이스, 공략법은?",
@@ -18787,7 +18955,89 @@
      "link": "https://view.asiae.co.kr/article/2026072115555971311"
     }
    ]
+  },
+  "한솔테크닉스(004710)": {
+   "articles": [
+    {
+     "date": "2026-07-23",
+     "source": "한국경제·경제",
+     "title": "[단독] 한솔테크닉스 \"이젠 반도체 소부장 기업…추가 M&A할 수도\"",
+     "link": "https://www.hankyung.com/article/2026072200151"
+    }
+   ]
+  },
+  "하나머티리얼즈(166090)": {
+   "articles": [
+    {
+     "date": "2026-07-23",
+     "source": "한국경제·증권",
+     "title": "\"하나머티리얼즈, 반도체 업황 개선에 계단식 실적 증가…목표가↑\"-신한",
+     "link": "https://www.hankyung.com/article/2026072281576"
+    },
+    {
+     "date": "2026-07-23",
+     "source": "아시아경제",
+     "title": "[클릭 e종목]\"하나머티리얼즈, 계단식 성장 예상…목표가↑\"",
+     "link": "https://view.asiae.co.kr/article/2026072215490961613"
+    }
+   ]
+  },
+  "넥스틸(002230)": {
+   "articles": [
+    {
+     "date": "2026-07-23",
+     "source": "연합뉴스·경제",
+     "title": "넥스틸 \"미국 법인 주식 738억원어치 취득…지분율 50%\"",
+     "link": "https://www.yna.co.kr/view/AKR20260722155800008"
+    },
+    {
+     "date": "2026-07-23",
+     "source": "아시아경제",
+     "title": "넥스틸, 美강관업체 텍스-아일 지분 50% 취득",
+     "link": "https://view.asiae.co.kr/article/2026072217343777880"
+    }
+   ]
+  },
+  "PS일렉트로닉스(332570)": {
+   "articles": [
+    {
+     "date": "2026-07-23",
+     "source": "아시아경제",
+     "title": "PS일렉트로닉스, 309억 규모 고성능 서버 장비 공급계약",
+     "link": "https://view.asiae.co.kr/article/2026072217383993420"
+    }
+   ]
+  },
+  "나노엔텍(039860)": {
+   "articles": [
+    {
+     "date": "2026-07-23",
+     "source": "아시아경제",
+     "title": "나노엔텍, 조혈줄기세포계수기 美FDA 냉동 HPC-A 검체 추가 승인",
+     "link": "https://view.asiae.co.kr/article/2026072209400297805"
+    }
+   ]
+  },
+  "비츠로넥스텍(488900)": {
+   "articles": [
+    {
+     "date": "2026-07-23",
+     "source": "아시아경제",
+     "title": "비츠로넥스텍, 클라이스트론 1시간 연속운전 성능인증",
+     "link": "https://view.asiae.co.kr/article/2026072208382338162"
+    }
+   ]
+  },
+  "플라즈맵(163280)": {
+   "articles": [
+    {
+     "date": "2026-07-23",
+     "source": "아시아경제",
+     "title": "[클릭 e종목]\"플라즈맵, 신제품 2종·글로벌 계약 앞세워 반등 시동\"",
+     "link": "https://view.asiae.co.kr/article/2026072208142161932"
+    }
+   ]
   }
  },
- "updatedAt": "2026-07-22T20:56:43+09:00"
+ "updatedAt": "2026-07-23T08:10:38+09:00"
 }
