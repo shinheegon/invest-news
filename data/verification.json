@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-07-23T08:32:28+09:00",
+ "updatedAt": "2026-07-23T20:32:00+09:00",
  "cases": [
   {
    "name": "이지트로닉스(377330)",
@@ -12839,6 +12839,84 @@
      "price": 39200
     }
    ]
+  },
+  {
+   "name": "유일로보틱스(388720)",
+   "type": "leading",
+   "market": "韓",
+   "flagDate": "2026-07-23",
+   "signals": [
+    "HD현대일렉트릭 미국법인 59억 VPD 공급계약",
+    "전력기기 밸류체인 파생수주"
+   ],
+   "theme": "로봇/휴머노이드",
+   "status": "pending",
+   "checks": []
+  },
+  {
+   "name": "유진로봇(056080)",
+   "type": "leading",
+   "market": "韓",
+   "flagDate": "2026-07-23",
+   "signals": [
+    "89.9억 자동화 공급계약",
+    "173억 유상증자(AI로봇 개발자금)"
+   ],
+   "theme": "로봇/휴머노이드",
+   "status": "pending",
+   "checks": []
+  },
+  {
+   "name": "스트라드비젼(475040)",
+   "type": "warning",
+   "market": "韓",
+   "flagDate": "2026-07-23",
+   "signals": [
+    "공시당일 21~26%급등(최대주주 Aptiv向 237억 계약)",
+    "신규상장 3주차 변동성"
+   ],
+   "theme": "로봇/휴머노이드(피지컬AI)",
+   "status": "pending",
+   "checks": []
+  },
+  {
+   "name": "레인보우로보틱스(277810)",
+   "type": "warning",
+   "market": "韓",
+   "flagDate": "2026-07-23",
+   "signals": [
+    "삼성 로봇사업 재료로 재차 28% 급등",
+    "재료 상당부분 반영 추정"
+   ],
+   "theme": "로봇/휴머노이드",
+   "status": "pending",
+   "checks": []
+  },
+  {
+   "name": "삼성전기(009150)",
+   "type": "warning",
+   "market": "韓",
+   "flagDate": "2026-07-23",
+   "signals": [
+    "AI서버 MLCC 수주로 +7%대 급등",
+    "재료 반영 완료 추정"
+   ],
+   "theme": "AI전력/데이터센터",
+   "status": "pending",
+   "checks": []
+  },
+  {
+   "name": "LS일렉트릭(010120)",
+   "type": "warning",
+   "market": "韓",
+   "flagDate": "2026-07-23",
+   "signals": [
+    "2분기 사상 최대 실적으로 +15~17%대 급등",
+    "재료 반영 완료 추정"
+   ],
+   "theme": "AI전력/데이터센터",
+   "status": "pending",
+   "checks": []
   }
  ],
  "stats": {
