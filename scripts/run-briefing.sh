@@ -22,6 +22,8 @@ RETRY_WAIT="${RETRY_WAIT:-45}"               # 재시도 간 대기(초)
 
 # --- ① 중복 실행 잠금 + 잔여(좀비) 프로세스 정리 ---
 LOCK="$PROJECT_DIR/data/.run-lock"
+GUARD_COPY=""
+GUARD_STATE=""
 if [ -f "$LOCK" ]; then
   OLDPID="$(cat "$LOCK" 2>/dev/null)"
   if [ -n "${OLDPID:-}" ] && kill -0 "$OLDPID" 2>/dev/null; then
@@ -35,7 +37,12 @@ if [ -f "$LOCK" ]; then
     echo "[$(ts)] CLEAN 잔여 claude 프로세스 종료" >> "$LOG"
 fi
 echo $$ > "$LOCK"
-trap 'rm -f "$LOCK"' EXIT
+cleanup() {
+  rm -f "$LOCK"
+  if [ -n "$GUARD_COPY" ]; then rm -f "$GUARD_COPY"; fi
+  if [ -n "$GUARD_STATE" ]; then rm -f "$GUARD_STATE"; fi
+}
+trap cleanup EXIT
 
 # --- ⭐ 잠들기 방지: 브리핑이 도는 내내 맥을 깨어있게 잡아둔다 ---
 # (실행 중 맥이 자면 claude도 타임아웃 타이머도 같이 얼어 무한 hang → 이게 핵심 원인이었음)
@@ -115,6 +122,17 @@ python3 "$PROJECT_DIR/scripts/build-krx-dict.py" >> "$LOG" 2>&1 || echo "[$(ts)]
 python3 "$PROJECT_DIR/scripts/niche-radar.py" >> "$LOG" 2>&1 || echo "[$(ts)] WARN niche-radar failed" >> "$LOG"
 python3 "$PROJECT_DIR/scripts/macro-context.py" >> "$LOG" 2>&1 || echo "[$(ts)] WARN macro-context failed" >> "$LOG"
 
+# 생성 에이전트 실행 전 코드·설정 파일의 기준점을 별도 임시 복사본으로 저장한다.
+GUARD_COPY="$(mktemp)"
+GUARD_STATE="$(mktemp)"
+cp "$PROJECT_DIR/scripts/agent-guard.py" "$GUARD_COPY"
+if ! python3 "$GUARD_COPY" snapshot \
+  --project "$PROJECT_DIR" --output "$GUARD_STATE" --date "$DATE" --session "$SESSION" \
+  >> "$LOG" 2>&1; then
+  echo "[$(ts)] ERROR agent guard snapshot failed" >> "$LOG"
+  exit 85
+fi
+
 # --- ③ 타임아웃+재시도 루프로 헤드리스 Claude 실행 ---
 RC=1
 for attempt in $(seq 1 "$MAX_ATTEMPTS"); do
@@ -122,9 +140,15 @@ for attempt in $(seq 1 "$MAX_ATTEMPTS"); do
   run_with_timeout "$ATTEMPT_TIMEOUT" \
     claude -p "$PROMPT" \
       --permission-mode acceptEdits \
-      --allowedTools "WebSearch,WebFetch,Read,Write,Edit,Bash" \
+      --allowedTools "WebSearch,WebFetch,Read,Write,Edit" \
     >> "$LOG" 2>&1
   RC=$?
+  if ! python3 "$GUARD_COPY" check \
+    --project "$PROJECT_DIR" --output "$GUARD_STATE" --date "$DATE" --session "$SESSION" \
+    >> "$LOG" 2>&1; then
+    echo "[$(ts)] SECURITY BLOCK agent changed protected files" >> "$LOG"
+    exit 86
+  fi
   if [ "$RC" -eq 0 ]; then
     break
   fi
@@ -138,8 +162,7 @@ for attempt in $(seq 1 "$MAX_ATTEMPTS"); do
 done
 
 if [ "$RC" -eq 0 ]; then
-  echo "$DATE-$SESSION" > "$MARKER"   # ④ 성공했을 때만 집계 완료 확정
-  echo "[$(ts)] DONE  session=$SESSION rc=0" >> "$LOG"
+  echo "[$(ts)] CLAUDE DONE session=$SESSION rc=0" >> "$LOG"
 else
   echo "[$(ts)] ERROR session=$SESSION rc=$RC ($MAX_ATTEMPTS회 모두 실패)" >> "$LOG"
 fi
@@ -178,9 +201,26 @@ python3 "$PROJECT_DIR/scripts/ai-group.py" >> "$LOG" 2>&1 || \
 bash "$PROJECT_DIR/scripts/build-site.sh" >> "$LOG" 2>&1 || \
   echo "[$(ts)] WARN build-site failed" >> "$LOG"
 
-if git -C "$PROJECT_DIR" rev-parse --is-inside-work-tree >/dev/null 2>&1; then
-  git -C "$PROJECT_DIR" add -A >> "$LOG" 2>&1 || true
+if [ "$RC" -eq 0 ]; then
+  python3 "$PROJECT_DIR/scripts/validate-generated.py" \
+    --project "$PROJECT_DIR" --date "$DATE" --session "$SESSION" \
+    >> "$LOG" 2>&1 || RC=87
+fi
+
+if [ "$RC" -eq 0 ]; then
+  echo "$DATE-$SESSION" > "$MARKER"   # 생성·빌드·검증까지 성공했을 때만 집계 완료 확정
+  echo "[$(ts)] VALIDATED session=$SESSION rc=0" >> "$LOG"
+fi
+
+if [ "$RC" -eq 0 ] && git -C "$PROJECT_DIR" rev-parse --is-inside-work-tree >/dev/null 2>&1; then
   if ! git -C "$PROJECT_DIR" diff --cached --quiet 2>/dev/null; then
+    echo "[$(ts)] BLOCK 실행 전부터 stage된 변경이 있어 자동 커밋 중단" >> "$LOG"
+    RC=89
+  elif ! python3 "$PROJECT_DIR/scripts/stage-generated.py" \
+    --project "$PROJECT_DIR" --date "$DATE" --session "$SESSION" \
+    >> "$LOG" 2>&1; then
+    RC=88
+  elif ! git -C "$PROJECT_DIR" diff --cached --quiet 2>/dev/null; then
     git -C "$PROJECT_DIR" commit -m "briefing: $DATE $SESSION" >> "$LOG" 2>&1 || true
     if git -C "$PROJECT_DIR" remote get-url origin >/dev/null 2>&1; then
       git -C "$PROJECT_DIR" push origin HEAD >> "$LOG" 2>&1 \
@@ -191,13 +231,17 @@ if git -C "$PROJECT_DIR" rev-parse --is-inside-work-tree >/dev/null 2>&1; then
 fi
 
 # --- 이메일 요약 + 급등 알림 발송 (RESEND_API_KEY 있으면 발송) ---
-BRIEFING_SESSION="$SESSION" BRIEFING_DATE="$DATE" \
-  python3 "$PROJECT_DIR/scripts/notify-email.py" >> "$LOG" 2>&1 \
-  && echo "[$(ts)] EMAIL sent/preview $DATE $SESSION" >> "$LOG" \
-  || echo "[$(ts)] WARN email failed" >> "$LOG"
+if [ "$RC" -eq 0 ]; then
+  BRIEFING_SESSION="$SESSION" BRIEFING_DATE="$DATE" \
+    python3 "$PROJECT_DIR/scripts/notify-email.py" >> "$LOG" 2>&1 \
+    && echo "[$(ts)] EMAIL sent/preview $DATE $SESSION" >> "$LOG" \
+    || echo "[$(ts)] WARN email failed" >> "$LOG"
+else
+  echo "[$(ts)] EMAIL SKIP invalid or failed briefing" >> "$LOG"
+fi
 
 # --- Vercel 자동 재배포 (docs/.vercel 링크가 있으면 = 최초 배포 완료 후) ---
-if command -v vercel >/dev/null 2>&1 && [ -f "$PROJECT_DIR/docs/.vercel/project.json" ]; then
+if [ "$RC" -eq 0 ] && command -v vercel >/dev/null 2>&1 && [ -f "$PROJECT_DIR/docs/.vercel/project.json" ]; then
   ( cd "$PROJECT_DIR/docs" && vercel deploy --prod --yes >> "$LOG" 2>&1 ) \
     && echo "[$(ts)] VERCEL DEPLOYED $DATE $SESSION" >> "$LOG" \
     || echo "[$(ts)] WARN vercel deploy failed (vercel login 확인)" >> "$LOG"

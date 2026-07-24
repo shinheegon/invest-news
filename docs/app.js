@@ -12,8 +12,15 @@ async function getText(path) {
   try { const r = await fetch(path, { cache: 'no-store' }); if (!r.ok) throw 0; return await r.text(); }
   catch { return null; }
 }
+function setHTML(el, value) {
+  if (!el) return;
+  el.innerHTML = DOMPurify.sanitize(String(value ?? ''), {
+    USE_PROFILES: { html: true },
+    ADD_ATTR: ['target'],
+  });
+}
 function renderMD(el, text, fallback) {
-  el.innerHTML = text ? marked.parse(text) : `<p class="muted">${fallback}</p>`;
+  setHTML(el, text ? marked.parse(text) : `<p class="muted">${fallback}</p>`);
 }
 function sortedDates(daily) { return Object.keys(daily || {}).sort(); }
 function sumLast(daily, days) {
@@ -95,7 +102,7 @@ function bindCompanyCells(table, colspan) {
     if (next && next.classList.contains('art-row')) { next.remove(); t.classList.remove('open'); return; }
     const art = document.createElement('tr');
     art.className = 'art-row';
-    art.innerHTML = `<td colspan="${colspan}">${articlesBySourceHTML(t.dataset.art)}</td>`;
+    setHTML(art, `<td colspan="${colspan}">${articlesBySourceHTML(t.dataset.art)}</td>`);
     tr.after(art);
     t.classList.add('open');
   });
@@ -144,16 +151,16 @@ function renderFavTab() {
   if (!wrap) return;
   const names = [...FAVS];
   if (!names.length) {
-    wrap.innerHTML = '<p class="muted">아직 관심 종목이 없습니다. 🎯 검증 탭의 <b>⭐유망 대기 선별</b>, 또는 🌱 발굴·🏢 회사 표에서 종목 옆 ☆를 눌러 추가하세요. 추가하면 여기서 주가 흐름·검증까지 계속 추적됩니다.</p>';
+    setHTML(wrap, '<p class="muted">아직 관심 종목이 없습니다. 🎯 검증 탭의 <b>⭐유망 대기 선별</b>, 또는 🌱 발굴·🏢 회사 표에서 종목 옆 ☆를 눌러 추가하세요. 추가하면 여기서 주가 흐름·검증까지 계속 추적됩니다.</p>');
     return;
   }
   // 유망도 높은 순으로 정렬(강력 → 유망 → 나머지)
   const wscore = n => { const w = (WATCH.all || []).find(x => x.name === n); return w ? w.score : -99; };
   names.sort((a, b) => wscore(b) - wscore(a));
-  wrap.innerHTML = names.map(n =>
+  setHTML(wrap, names.map(n =>
     `<div class="fav-card"><div class="fav-head">` +
     `<button class="star on" data-fav="${n}" title="관심 해제">★</button> <b class="fav-name">${n}</b> ${favMeta(n)}` +
-    `</div>${favFlow(n)}${articlesBySourceHTML(n)}</div>`).join('');
+    `</div>${favFlow(n)}${articlesBySourceHTML(n)}</div>`).join(''));
   wrap.querySelectorAll('.star').forEach(b => b.onclick = () => {
     toggleFav(b.dataset.fav); syncStars(b.dataset.fav); renderFavTab();
   });
@@ -218,10 +225,10 @@ function renderEarlyTable(tableId, rows) {
   const table = document.getElementById(tableId);
   if (!table) return;
   if (!rows.length) {
-    table.innerHTML = '<tbody><tr><td class="muted">아직 조기 신호 종목이 없습니다. 며칠 데이터가 쌓이면 막 출몰하는 소형주가 잡힙니다.</td></tr></tbody>';
+    setHTML(table, '<tbody><tr><td class="muted">아직 조기 신호 종목이 없습니다. 며칠 데이터가 쌓이면 막 출몰하는 소형주가 잡힙니다.</td></tr></tbody>');
     return;
   }
-  table.innerHTML =
+  setHTML(table,
     '<thead><tr><th>🌱 종목</th><th>시장</th><th>연결 성장사업</th><th>첫 등장</th><th>최근활동</th><th>누적</th><th>선점점수</th></tr></thead>' +
     '<tbody>' + rows.map(r =>
       '<tr>' +
@@ -232,7 +239,7 @@ function renderEarlyTable(tableId, rows) {
       `<td><span class="delta-up">↗ ${r.last3}</span></td>` +
       `<td>${r.total}</td>` +
       `<td><b>${r.score}</b></td>` +
-      '</tr>').join('') + '</tbody>';
+      '</tr>').join('') + '</tbody>');
   bindCompanyCells(table, 7);
 }
 
@@ -257,7 +264,7 @@ function renderFreqTable(tableId, rows, hasMarket, interactive) {
     if (typeof av === 'string') return st.dir * av.localeCompare(bv);
     return st.dir * (av - bv);
   });
-  table.innerHTML =
+  setHTML(table,
     '<thead><tr>' + cols.map(c => `<th data-k="${c.key}">${c.label}</th>`).join('') + '</tr></thead>' +
     '<tbody>' + (rows.length ? rows.map(r =>
       '<tr>' +
@@ -271,7 +278,7 @@ function renderFreqTable(tableId, rows, hasMarket, interactive) {
       `<td class="muted">${r.lastSeen.slice(5)}</td>` +
       '</tr>').join('')
       : `<tr><td colspan="${cols.length}" class="muted">아직 데이터가 없습니다. 첫 브리핑이 실행되면 채워집니다.</td></tr>`) +
-    '</tbody>';
+    '</tbody>');
   if (interactive) bindCompanyCells(table, cols.length);
   table.querySelectorAll('th').forEach(th => th.onclick = () => {
     const k = th.dataset.k;
@@ -312,9 +319,9 @@ async function loadArchive() {
   const list = document.getElementById('archiveList');
   const body = document.getElementById('archiveBody');
   const items = (manifest.briefings || []).slice().reverse();
-  if (!items.length) { list.innerHTML = '<li class="muted">아직 브리핑 없음</li>'; return; }
-  list.innerHTML = items.map((b, i) =>
-    `<li data-file="${b.file}" data-i="${i}">${b.date} ${b.session === 'AM' ? '오전' : '오후'}</li>`).join('');
+  if (!items.length) { setHTML(list, '<li class="muted">아직 브리핑 없음</li>'); return; }
+  setHTML(list, items.map((b, i) =>
+    `<li data-file="${b.file}" data-i="${i}">${b.date} ${b.session === 'AM' ? '오전' : '오후'}</li>`).join(''));
   list.querySelectorAll('li').forEach(li => li.onclick = async () => {
     list.querySelectorAll('li').forEach(x => x.classList.remove('active'));
     li.classList.add('active');
@@ -426,14 +433,14 @@ async function loadCoinPrices() {
     const ids = coins.map(c => c[0]).join(',');
     const r = await fetch(`https://api.coingecko.com/api/v3/simple/price?ids=${ids}&vs_currencies=usd,krw&include_24hr_change=true`);
     const j = await r.json();
-    table.innerHTML =
+    setHTML(table,
       '<thead><tr><th>코인</th><th>달러</th><th>원화</th><th>24h</th></tr></thead><tbody>' +
       coins.map(([id, name]) => {
         const d = j[id]; if (!d) return '';
         return `<tr><td>${name}</td><td>${usd(d.usd)}</td><td>${won(d.krw)}</td><td>${chg(d.usd_24h_change)}</td></tr>`;
-      }).join('') + '</tbody>';
+      }).join('') + '</tbody>');
   } catch (e) {
-    table.innerHTML = '<tbody><tr><td class="muted">코인 시세를 불러오지 못했습니다(잠시 후 자동 재시도).</td></tr></tbody>';
+    setHTML(table, '<tbody><tr><td class="muted">코인 시세를 불러오지 못했습니다(잠시 후 자동 재시도).</td></tr></tbody>');
   }
 }
 async function loadMarketIndicators() {
@@ -444,7 +451,7 @@ async function loadMarketIndicators() {
   const table = document.getElementById('indexTable');
   if (!data) {
     paintGauge('sfg', null, '다음 브리핑에서 갱신');
-    if (table) table.innerHTML = '<tbody><tr><td class="muted">증시 지표는 다음 브리핑(7시·19시)에 생성됩니다.</td></tr></tbody>';
+    if (table) setHTML(table, '<tbody><tr><td class="muted">증시 지표는 다음 브리핑(7시·19시)에 생성됩니다.</td></tr></tbody>');
     return;
   }
   const when = data.updatedAt ? new Date(data.updatedAt).toLocaleString('ko-KR') : '';
@@ -457,12 +464,12 @@ async function loadMarketIndicators() {
   const idxTime = document.getElementById('idxTime');
   if (idxTime && when) idxTime.textContent = `· 기준 ${when}`;
   if (table) {
-    table.innerHTML = rows.length
+    setHTML(table, rows.length
       ? '<thead><tr><th>지표</th><th>값</th><th>변동</th><th>출처</th></tr></thead><tbody>' +
         rows.map(x => `<tr><td>${x.name || ''}</td><td>${x.value || '—'}</td>` +
           `<td>${x.change ? `<span class="${(x.change+'').startsWith('-') ? 'delta-down' : 'delta-up'}">${x.change}</span>` : '—'}</td>` +
           `<td>${x.source ? `<a href="${x.source}" target="_blank" rel="noopener">link</a>` : '—'}</td></tr>`).join('') + '</tbody>'
-      : '<tbody><tr><td class="muted">지표 데이터가 비어 있습니다.</td></tr></tbody>';
+      : '<tbody><tr><td class="muted">지표 데이터가 비어 있습니다.</td></tr></tbody>');
   }
 }
 async function loadMarketTab() {
@@ -490,23 +497,23 @@ async function loadPortfolio() {
     ['평균 수익률', st.avgReturnPct == null ? '—' : (st.avgReturnPct >= 0 ? '+' : '') + st.avgReturnPct + '%', (st.avgReturnPct ?? 0) >= 0 ? '#f85149' : '#3fb950'],
   ];
   const statsEl = document.getElementById('pfStats');
-  if (statsEl) statsEl.innerHTML = cards.map(([t, v, c]) =>
-    `<div class="gauge-card"><div class="gauge-title">${t}</div><div class="gauge-num" style="color:${c}">${v}</div></div>`).join('');
+  if (statsEl) setHTML(statsEl, cards.map(([t, v, c]) =>
+    `<div class="gauge-card"><div class="gauge-title">${t}</div><div class="gauge-num" style="color:${c}">${v}</div></div>`).join(''));
 
   const openT = document.getElementById('pfOpenTable');
-  if (openT) openT.innerHTML = open.length
+  if (openT) setHTML(openT, open.length
     ? '<thead><tr><th>종목</th><th>매수일</th><th>매수가</th><th>수량</th><th>테마</th><th>매수 사유</th></tr></thead><tbody>' +
       open.map(p => `<tr><td>${p.name}</td><td class="muted">${p.buy.date}</td><td>${fmtNum(p.buy.price)}</td><td>${fmtNum(p.buy.qty)}</td><td class="muted">${p.theme || '—'}</td><td>${p.buy.reason || '—'}${p.buy.source ? ` <a href="${p.buy.source}" target="_blank" rel="noopener">link</a>` : ''}</td></tr>`).join('') + '</tbody>'
-    : '<tbody><tr><td class="muted">보유 중인 종목이 없습니다. 채팅으로 "OO 매수"라고 하면 기록됩니다.</td></tr></tbody>';
+    : '<tbody><tr><td class="muted">보유 중인 종목이 없습니다. 채팅으로 "OO 매수"라고 하면 기록됩니다.</td></tr></tbody>');
 
   const closedT = document.getElementById('pfClosedTable');
-  if (closedT) closedT.innerHTML = closed.length
+  if (closedT) setHTML(closedT, closed.length
     ? '<thead><tr><th>종목</th><th>매수가→매도가</th><th>수익률</th><th>손익</th><th>보유일</th><th>매도 사유</th></tr></thead><tbody>' +
       closed.map(p => {
         const pnl = p.pnl != null ? `<span class="${p.pnl >= 0 ? 'delta-up' : 'delta-down'}">${p.pnl >= 0 ? '+' : ''}${fmtNum(p.pnl)}</span>` : '—';
         return `<tr><td>${p.name}</td><td>${fmtNum(p.buy.price)} → ${fmtNum(p.sell.price)}</td><td>${retCell(p.returnPct)}</td><td>${pnl}</td><td class="muted">${p.heldDays ?? '—'}일</td><td class="muted">${p.sell.reason || '—'}</td></tr>`;
       }).join('') + '</tbody>'
-    : '<tbody><tr><td class="muted">청산 완료된 거래가 아직 없습니다.</td></tr></tbody>';
+    : '<tbody><tr><td class="muted">청산 완료된 거래가 아직 없습니다.</td></tr></tbody>');
 
   renderMD(document.getElementById('holdingsBody'),
     await getText(`${DATA}/holdings-analysis.md`), '보유 종목이 없거나 아직 분석 전입니다. 매수 기록 후 다음 브리핑부터 추적 분석이 생성됩니다.');
@@ -529,13 +536,13 @@ async function loadVerification() {
     ['대기 중', st.pending ?? 0, '#8b949e'],
   ];
   const se = document.getElementById('vfStats');
-  if (se) se.innerHTML = cards.map(([t, val, c]) =>
-    `<div class="gauge-card"><div class="gauge-title">${t}</div><div class="gauge-num" style="color:${c}">${val}</div></div>`).join('');
+  if (se) setHTML(se, cards.map(([t, val, c]) =>
+    `<div class="gauge-card"><div class="gauge-title">${t}</div><div class="gauge-num" style="color:${c}">${val}</div></div>`).join(''));
 
   // 최신 flag 순 정렬
   const cases = (v.cases || []).slice().sort((a, b) => (b.flagDate || '').localeCompare(a.flagDate || ''));
   const t = document.getElementById('vfTable');
-  if (t) t.innerHTML = cases.length
+  if (t) setHTML(t, cases.length
     ? '<thead><tr><th>종목</th><th>유형</th><th>flag일</th><th>flag가</th><th>D+3 변동</th><th>뉴스</th><th>판정</th></tr></thead><tbody>' +
       cases.map(c => {
         const d3 = (c.checks || []).find(x => x.horizon === 'D+3') || (c.checks || [])[c.checks?.length - 1];
@@ -544,7 +551,7 @@ async function loadVerification() {
         const typeTag = c.type === 'leading' ? '🔮 선행' : '🌱 발굴';
         return `<tr><td>${c.name}</td><td class="muted">${typeTag}</td><td class="muted">${c.flagDate || ''}</td><td>${c.flagPrice != null ? Number(c.flagPrice).toLocaleString('ko-KR') : '—'}</td><td>${chg}</td><td>${nd}</td><td>${verdictCell(c.finalVerdict)}</td></tr>`;
       }).join('') + '</tbody>'
-    : '<tbody><tr><td class="muted">아직 검증 사례가 없습니다. 발굴/선행 종목이 flag된 뒤 3일이 지나면 자동 검증됩니다.</td></tr></tbody>';
+    : '<tbody><tr><td class="muted">아직 검증 사례가 없습니다. 발굴/선행 종목이 flag된 뒤 3일이 지나면 자동 검증됩니다.</td></tr></tbody>');
 
   renderMD(document.getElementById('verifyBody'),
     await getText(`${DATA}/verification.md`), '검증 리포트는 데이터가 3일 이상 쌓이면 생성됩니다.');
@@ -611,9 +618,9 @@ async function loadAiGroup() {
   if (mb && g.macro && g.macro.regime) {
     const rg = g.macro.regime, cls = rg === '위험회피' ? 'down' : rg === '위험선호' ? 'up' : 'flat';
     const icon = rg === '위험회피' ? '🔴' : rg === '위험선호' ? '🟢' : '🟡';
-    mb.innerHTML = `<div class="macro-head ${cls}">${icon} 현재 거시 국면: <b>${rg}</b> <span class="muted" style="font-weight:400">— 장기 비전 그룹이라 단기 국면과 별개로 관찰</span></div>` +
+    setHTML(mb, `<div class="macro-head ${cls}">${icon} 현재 거시 국면: <b>${rg}</b> <span class="muted" style="font-weight:400">— 장기 비전 그룹이라 단기 국면과 별개로 관찰</span></div>` +
       (g.macroOverview ? `<div class="macro-guide"><b>🌐 거시 흐름:</b> ${g.macroOverview}</div>` : '') +
-      (g.macro.guidance ? `<div class="macro-guide">🎯 ${g.macro.guidance}</div>` : '');
+      (g.macro.guidance ? `<div class="macro-guide">🎯 ${g.macro.guidance}</div>` : ''));
   }
   const star = n => `<button class="star${isFav(n) ? ' on' : ''}" data-fav="${n}" title="관심 추가/해제">${isFav(n) ? '★' : '☆'}</button>`;
   const momTag = m => m === '승세' ? '<span class="mom up">▲승세</span>' : m === '열세' ? '<span class="mom down">▼열세</span>' : '<span class="mom flat">—중립</span>';
@@ -641,7 +648,7 @@ async function loadAiGroup() {
           `<td class="ai-thesis"><b>${c.thesis}</b><div class="muted">✅ ${c.essential}</div><div class="ai-risk muted">⚠️ ${c.risk}</div></td></tr>`;
       }).join('') + '</tbody></table></div></div>';
   }).join('');
-  wrap.innerHTML = chips + body;
+  setHTML(wrap, chips + body);
   // 필터 동작
   wrap.querySelectorAll('.ai-chip').forEach(ch => ch.onclick = () => {
     const key = ch.dataset.cat;
@@ -667,23 +674,23 @@ async function renderMissAnalysis() {
   const rg = m.macro?.regime || '—';
   const rgCls = rg === '위험회피' ? 'down' : rg === '위험선호' ? 'up' : 'flat';
   const rgIcon = rg === '위험회피' ? '🔴' : rg === '위험선호' ? '🟢' : '🟡';
-  if (box) box.innerHTML = m.macro ? `<div class="macro-head ${rgCls}">${rgIcon} 현재 거시 국면: <b>${rg}</b></div>` +
+  if (box) setHTML(box, m.macro ? `<div class="macro-head ${rgCls}">${rgIcon} 현재 거시 국면: <b>${rg}</b></div>` +
     `<div class="macro-metrics muted">코스피 5일 ${m.macro.kospi5d >= 0 ? '+' : ''}${m.macro.kospi5d ?? '—'}% · 공포탐욕 ${m.macro.fearGreed ?? '—'} · VIX ${m.macro.vix ?? '—'}</div>` +
-    `<div class="macro-guide">🎯 ${m.macro.guidance || ''}</div>` : '';
+    `<div class="macro-guide">🎯 ${m.macro.guidance || ''}</div>` : '');
   const s = m.summary || {};
-  if (sum) sum.innerHTML = `검증 ${s.resolved}건 중 <b>빗나감 ${s.miss}건(${s.missRate}%)</b> · ` +
-    `그중 <b class="delta-down">${s.preventableShare}%가 예방 가능</b>(약신호·열세테마·후발) → 아래 필터로 자동 차단`;
-  if (t) t.innerHTML = (m.byCause || []).length
+  if (sum) setHTML(sum, `검증 ${s.resolved}건 중 <b>빗나감 ${s.miss}건(${s.missRate}%)</b> · ` +
+    `그중 <b class="delta-down">${s.preventableShare}%가 예방 가능</b>(약신호·열세테마·후발) → 아래 필터로 자동 차단`);
+  if (t) setHTML(t, (m.byCause || []).length
     ? '<thead><tr><th>원인</th><th>건수</th><th>비중</th><th>평균 초과수익</th><th>예방</th></tr></thead><tbody>' +
       m.byCause.map(c => `<tr><td>${c.label}</td><td>${c.n}</td><td>${c.share}%</td>` +
         `<td><span class="delta-down">${c.avgExcess != null ? c.avgExcess + '%' : '—'}</span></td>` +
         `<td style="text-align:center">${c.preventable ? '✅ 필터' : '—'}</td></tr>`).join('') + '</tbody>'
-    : '<tbody><tr><td class="muted">빗나감 사례 없음</td></tr></tbody>';
+    : '<tbody><tr><td class="muted">빗나감 사례 없음</td></tr></tbody>');
   const rl = m.learnedFilter?.rules || [];
-  if (rules) rules.innerHTML = rl.length
+  if (rules) setHTML(rules, rl.length
     ? '<div class="miss-rules-title">🤖 스스로 도출한 필터 규칙 (매 회차 갱신)</div><ul>' +
       rl.map(r => `<li>${r}</li>`).join('') + '</ul>'
-    : '';
+    : '');
   if (dev) dev.textContent = m.develop ? `📈 자기발전: ${m.develop}` : '';
 }
 async function renderWatchPriority() {
@@ -701,20 +708,20 @@ async function renderWatchPriority() {
   // 🔥 지금 주목: 최고점(≥5) 종목을 강조 카드로
   const feat = (w.top || []).filter(r => r.score >= 5);
   const fb = document.getElementById('watchFeatured');
-  if (fb) fb.innerHTML = feat.length
+  if (fb) setHTML(fb, feat.length
     ? `<div class="feat-title">🔥 지금 주목 — 승세 테마 + 종목 고유 재료를 모두 갖춘 최우선 후보</div>` +
       `<div class="feat-grid">` + feat.map(r =>
         `<div class="feat-card">${starBtn(r.name)} <b>${r.name}</b><div class="feat-sub">${typeTag(r.type)} · ${r.theme}</div>` +
         `<div class="feat-why muted">${r.why}</div></div>`).join('') + `</div>`
-    : '';
+    : '');
   const wt = document.getElementById('watchTable');
-  if (wt) wt.innerHTML = w.top && w.top.length
+  if (wt) setHTML(wt, w.top && w.top.length
     ? '<thead><tr><th>종목</th><th>유형</th><th>등재일</th><th>구체재료</th><th>근거</th></tr></thead><tbody>' + w.top.map(rowHTML).join('') + '</tbody>'
-    : '<tbody><tr><td class="muted">검증·테마 데이터가 쌓이면 유망 대기 종목이 선별됩니다.</td></tr></tbody>';
+    : '<tbody><tr><td class="muted">검증·테마 데이터가 쌓이면 유망 대기 종목이 선별됩니다.</td></tr></tbody>');
   const at = document.getElementById('avoidTable');
-  if (at) at.innerHTML = (w.avoid && w.avoid.length)
+  if (at) setHTML(at, (w.avoid && w.avoid.length)
     ? '<thead><tr><th>종목</th><th>유형</th><th>등재일</th><th>사유</th></tr></thead><tbody>' + w.avoid.map(r => `<tr><td>${r.name}</td><td>${typeTag(r.type)}</td><td>${r.flagDate || ''}</td><td class="muted">${r.why}</td></tr>`).join('') + '</tbody>'
-    : '<tbody><tr><td class="muted">회피 후보 없음</td></tr></tbody>';
+    : '<tbody><tr><td class="muted">회피 후보 없음</td></tr></tbody>');
   // 별표 버튼 바인딩(유망표 + 강조카드)
   [fb, wt].forEach(el => el && el.querySelectorAll('.star').forEach(b => b.onclick = e => {
     e.stopPropagation();
@@ -725,10 +732,10 @@ async function renderThemeBoard() {
   const sb = await getJSON(`${DATA}/theme-scoreboard.json`) || { themes: [] };
   const t = document.getElementById('themeTable');
   const momTag = m => m === '상승' ? '<span class="delta-up">▲ 승세</span>' : m === '하락' ? '<span class="delta-down">▼ 열세</span>' : '<span class="delta-flat">— 중립</span>';
-  if (t) t.innerHTML = sb.themes.length
+  if (t) setHTML(t, sb.themes.length
     ? '<thead><tr><th>테마</th><th>모멘텀</th><th>검증</th><th>적중률</th><th>평균 D+3</th></tr></thead><tbody>' +
       sb.themes.map(x => `<tr><td>${x.theme}</td><td>${momTag(x.momentum)}</td><td>${x.n}</td><td>${x.hitRate != null ? x.hitRate + '%' : '—'}</td><td><span class="${(x.avgD3 ?? 0) >= 0 ? 'delta-up' : 'delta-down'}">${x.avgD3 != null ? (x.avgD3 >= 0 ? '+' : '') + x.avgD3 + '%' : '—'}</span></td></tr>`).join('') + '</tbody>'
-    : '<tbody><tr><td class="muted">검증 데이터가 쌓이면 테마별 성적이 생성됩니다.</td></tr></tbody>';
+    : '<tbody><tr><td class="muted">검증 데이터가 쌓이면 테마별 성적이 생성됩니다.</td></tr></tbody>');
   renderMD(document.getElementById('learnBody'),
     await getText(`${DATA}/discovery-learnings.md`), '학습 노트는 검증이 쌓이면 생성됩니다.');
 }
@@ -739,12 +746,12 @@ async function renderPriceHistory() {
   const names = Object.keys(PRICEHIST.companies);
   const sel = document.getElementById('priceSelect');
   if (sel) {
-    sel.innerHTML = '<option value="__all__">📊 전체 비교 (시작=100)</option>' +
+    setHTML(sel, '<option value="__all__">📊 전체 비교 (시작=100)</option>' +
       names.map(n => {
         const c = PRICEHIST.companies[n];
         const chg = c.changePct != null ? ` (${c.changePct >= 0 ? '+' : ''}${c.changePct}%)` : '';
         return `<option value="${n}">${n}${chg}</option>`;
-      }).join('');
+      }).join(''));
     sel.onchange = () => drawPriceChart(sel.value);
   }
   drawPriceChart('__all__');

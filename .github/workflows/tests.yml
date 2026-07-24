@@ -1,0 +1,37 @@
+name: 코드 안전성 검사
+
+on:
+  pull_request:
+  push:
+    branches: [main]
+
+permissions:
+  contents: read
+
+jobs:
+  regression-tests:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: false
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Python 회귀 테스트
+        run: PYTHONDONTWRITEBYTECODE=1 python -m unittest discover -s tests -p "test_*.py" -v
+
+      - name: JavaScript·셸 문법 검사
+        run: |
+          node --check docs/app.js
+          bash -n scripts/ci-run.sh scripts/run-briefing.sh scripts/build-site.sh
+
+      - name: 현재 데이터·대시보드 검증
+        run: |
+          LATEST="$(find briefings -maxdepth 1 -type f -name '*.md' | sort | tail -1)"
+          BASE="$(basename "$LATEST" .md)"
+          DATE="${BASE%-??}"
+          SESSION="${BASE##*-}"
+          python scripts/validate-generated.py \
+            --project . --date "$DATE" --session "$SESSION"
