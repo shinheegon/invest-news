@@ -4,13 +4,16 @@
 # 표준 라이브러리만 사용. 산출물:
 #   data/news-feed.json : 전체 항목(소스·제목·링크) + 집계 메타
 #   data/news-feed.txt  : 브리핑이 읽기 쉬운 헤드라인 목록(소스별)
-import json, re, html, sys, os
+import json, re, html, sys, os, time
 from urllib.request import Request, urlopen
+from email.utils import parsedate_to_datetime
 from datetime import datetime, timezone, timedelta
 
 PROJECT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 DATA = os.path.join(PROJECT, "data")
 KST = timezone(timedelta(hours=9))
+MAX_AGE_DAYS = 3        # 이보다 오래된 기사는 '오늘 뉴스' 아님 → 배제(구기사 혼입 차단)
+MIN_ITEMS_WARN = 150    # 이 미만이면 수집 이상 경고
 
 # (이름, URL) — 실패하는 피드는 자동 skip. 필요시 여기에 추가만 하면 된다.
 FEEDS = [
@@ -40,19 +43,60 @@ def field(block, name):
     m = re.search(rf"<{name}[^>]*>(.*?)</{name}>", block, re.S | re.I)
     return clean(m.group(1)) if m else ""
 
-def fetch(url):
-    req = Request(url, headers={"User-Agent": "Mozilla/5.0 (Macintosh; news-briefing-bot)"})
-    with urlopen(req, timeout=15) as r:
-        raw = r.read()
-    for enc in ("utf-8", "euc-kr", "cp949"):
+def fetch(url, tries=3):
+    """재시도 + http 폴백. 한 번 실패로 0건 되는 것 방지."""
+    last = None
+    for i in range(tries):
         try:
-            return raw.decode(enc)
-        except UnicodeDecodeError:
-            continue
-    return raw.decode("utf-8", "ignore")
+            req = Request(url, headers={"User-Agent": "Mozilla/5.0 (Macintosh; news-briefing-bot)"})
+            with urlopen(req, timeout=15) as r:
+                raw = r.read()
+            for enc in ("utf-8", "euc-kr", "cp949"):
+                try:
+                    return raw.decode(enc)
+                except UnicodeDecodeError:
+                    continue
+            return raw.decode("utf-8", "ignore")
+        except Exception as e:
+            last = e
+            time.sleep(1.5 * (i + 1))
+    raise last
 
-def parse_items(xml):
-    out = []
+def parse_date(block):
+    """RSS pubDate / Atom published·updated / dc:date 파싱 → KST datetime(없으면 None)."""
+    raw = ""
+    for tag in ("pubDate", "published", "updated", "dc:date", "date"):
+        raw = field(block, tag)
+        if raw:
+            break
+    if not raw:
+        return None
+    # RFC822 (RSS)
+    try:
+        dt = parsedate_to_datetime(raw)
+        if dt:
+            return dt.astimezone(KST) if dt.tzinfo else dt.replace(tzinfo=KST)
+    except Exception:
+        pass
+    # ISO 8601 (Atom)
+    try:
+        s = raw.replace("Z", "+00:00")
+        dt = datetime.fromisoformat(s)
+        return dt.astimezone(KST) if dt.tzinfo else dt.replace(tzinfo=KST)
+    except Exception:
+        pass
+    # YYYY-MM-DD 또는 YYYY.MM.DD
+    m = re.search(r"(20\d{2})[-.](\d{1,2})[-.](\d{1,2})", raw)
+    if m:
+        try:
+            return datetime(int(m.group(1)), int(m.group(2)), int(m.group(3)), tzinfo=KST)
+        except Exception:
+            pass
+    return None
+
+def parse_items(xml, now_dt):
+    """항목 파싱 + 날짜 필터(최근 MAX_AGE_DAYS일만). 날짜 없으면 보류(keep)."""
+    out, dropped_old = [], 0
     blocks = re.findall(r"<item\b.*?</item>", xml, re.S | re.I) or \
              re.findall(r"<entry\b.*?</entry>", xml, re.S | re.I)
     for b in blocks:
@@ -63,8 +107,15 @@ def parse_items(xml):
         if not link:  # atom <link href="...">
             m = re.search(r'<link[^>]*href="([^"]+)"', b, re.I)
             link = m.group(1) if m else ""
-        out.append({"title": title, "link": link})
-    return out
+        dt = parse_date(b)
+        if dt is not None:
+            age = (now_dt - dt).days
+            if age > MAX_AGE_DAYS or age < -1:   # 구기사·미래오류 배제
+                dropped_old += 1
+                continue
+        out.append({"title": title, "link": link,
+                    "date": dt.strftime("%Y-%m-%d") if dt else now_dt.strftime("%Y-%m-%d")})
+    return out, dropped_old
 
 def _base_name(name):
     """'우리로(046970)' -> '우리로' (티커·괄호 제거)."""
@@ -122,26 +173,30 @@ def update_article_archive(all_items, now):
     print(f"[collect] 기사 아카이브 갱신 · 종목 {matched}개에 누적 기사 보유")
 
 def main():
+    now_dt = datetime.now(KST)
     all_items, per_source, seen = [], {}, set()
+    total_dropped = 0
     for name, url in FEEDS:
         try:
-            items = parse_items(fetch(url))
+            items, dropped = parse_items(fetch(url), now_dt)
         except Exception as e:
             sys.stderr.write(f"[collect] skip {name}: {e}\n")
             per_source[name] = 0
             continue
+        total_dropped += dropped
         kept = 0
         for it in items:
             key = it["title"].lower()
             if key in seen:
                 continue
             seen.add(key)
-            all_items.append({"source": name, "title": it["title"], "link": it["link"]})
+            all_items.append({"source": name, "title": it["title"],
+                              "link": it["link"], "date": it.get("date")})
             kept += 1
         per_source[name] = kept
 
-    now = datetime.now(KST).isoformat(timespec="seconds")
-    payload = {"updatedAt": now, "count": len(all_items),
+    now = now_dt.isoformat(timespec="seconds")
+    payload = {"updatedAt": now, "count": len(all_items), "droppedOld": total_dropped,
                "sources": per_source, "items": all_items}
     os.makedirs(DATA, exist_ok=True)
     with open(os.path.join(DATA, "news-feed.json"), "w", encoding="utf-8") as f:
@@ -165,7 +220,9 @@ def main():
         sys.stderr.write(f"[collect] 아카이브 갱신 실패: {e}\n")
 
     ok = sum(1 for v in per_source.values() if v)
-    print(f"[collect] {len(all_items)}건 수집 · 피드 {ok}/{len(FEEDS)}개 성공")
+    print(f"[collect] {len(all_items)}건 수집 · 피드 {ok}/{len(FEEDS)}개 성공 · 구기사 배제 {total_dropped}건")
+    if len(all_items) < MIN_ITEMS_WARN:
+        sys.stderr.write(f"[collect] ⚠️ 수집량 부족({len(all_items)}<{MIN_ITEMS_WARN}) — 피드 상태 점검 필요\n")
     for n, c in per_source.items():
         print(f"  {'✅' if c else '❌'} {n}: {c}")
 

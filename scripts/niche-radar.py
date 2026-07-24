@@ -47,7 +47,7 @@ def get_titles_today(today):
             for it in items:
                 t = (it.get("title") or "").strip()
                 if t:
-                    out.append({"date": today, "title": t, "source": it.get("source", "")})
+                    out.append({"date": (it.get("date") or today), "title": t, "source": it.get("source", "")})
         except Exception:
             pass
     return out
