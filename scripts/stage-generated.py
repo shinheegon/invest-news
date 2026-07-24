@@ -4,7 +4,6 @@
 from __future__ import annotations
 
 import argparse
-import os
 import subprocess
 from pathlib import Path
 
@@ -16,17 +15,21 @@ GENERATED_DATA = (
     "analysis.md",
     "article-archive.json",
     "company-index.json",
+    "corpus.jsonl",
     "discovery-index.json",
     "discovery-learnings.md",
     "discovery.md",
     "holdings-analysis.md",
     "keyword-index.json",
+    "krx-names.json",
     "latest.md",
     "leading-index.json",
     "leading-signals.md",
     "market-history.json",
     "market-indicators.json",
     "miss-analysis.json",
+    "niche-counts.json",
+    "niche-radar.json",
     "price-history.json",
     "review.md",
     "synthesis-3day.md",
@@ -72,4 +75,3 @@ def main() -> int:
 
 if __name__ == "__main__":
     raise SystemExit(main())
-

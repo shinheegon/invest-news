@@ -18,6 +18,12 @@ class StageGeneratedTests(unittest.TestCase):
             (project / "data" / "latest.md").write_text(
                 "generated", encoding="utf-8"
             )
+            (project / "data" / "corpus.jsonl").write_text(
+                '{"title":"generated"}\n', encoding="utf-8"
+            )
+            (project / "data" / "niche-radar.json").write_text(
+                '{"companies":[]}\n', encoding="utf-8"
+            )
             (project / "scripts" / "unexpected.py").write_text(
                 "print('must not stage')\n", encoding="utf-8"
             )
@@ -46,7 +52,14 @@ class StageGeneratedTests(unittest.TestCase):
                 text=True,
             ).stdout.splitlines()
 
-        self.assertEqual(staged, ["data/latest.md"])
+        self.assertEqual(
+            staged,
+            [
+                "data/corpus.jsonl",
+                "data/latest.md",
+                "data/niche-radar.json",
+            ],
+        )
 
 
 if __name__ == "__main__":
