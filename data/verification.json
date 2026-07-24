@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-07-24T08:21:38+09:00",
+ "updatedAt": "2026-07-24T21:05:44+09:00",
  "cases": [
   {
    "name": "이지트로닉스(377330)",
@@ -11475,7 +11475,7 @@
     "상한가(+29.8%)"
    ],
    "theme": "로봇/휴머노이드",
-   "status": "pending",
+   "status": "verified",
    "checks": [
     {
      "horizon": "D+3",
@@ -11484,6 +11484,16 @@
      "changePct": -3.7,
      "indexPct": -4.97,
      "excessPct": 1.27,
+     "index": "KOSPI",
+     "verdict": "중립"
+    },
+    {
+     "horizon": "D+7",
+     "date": "2026-07-24",
+     "price": 4195,
+     "changePct": -3.12,
+     "indexPct": -2.42,
+     "excessPct": -0.69,
      "index": "KOSPI",
      "verdict": "중립"
     }
@@ -11539,7 +11549,7 @@
     "매출대비19%비중"
    ],
    "theme": "로봇/휴머노이드",
-   "status": "pending",
+   "status": "verified",
    "checks": [
     {
      "horizon": "D+3",
@@ -11550,6 +11560,16 @@
      "excessPct": -1.98,
      "index": "KOSDAQ",
      "verdict": "빗나감"
+    },
+    {
+     "horizon": "D+7",
+     "date": "2026-07-24",
+     "price": 15740,
+     "changePct": 3.21,
+     "indexPct": -4.56,
+     "excessPct": 7.77,
+     "index": "KOSDAQ",
+     "verdict": "적중"
     }
    ],
    "flagPrice": 15250,
@@ -11599,7 +11619,7 @@
     "사상최대매출"
    ],
    "theme": "HBM",
-   "status": "pending",
+   "status": "verified",
    "checks": [
     {
      "horizon": "D+3",
@@ -11610,6 +11630,16 @@
      "excessPct": 11.95,
      "index": "KOSPI",
      "verdict": "적중"
+    },
+    {
+     "horizon": "D+7",
+     "date": "2026-07-24",
+     "price": 200000,
+     "changePct": -3.61,
+     "indexPct": -2.42,
+     "excessPct": -1.19,
+     "index": "KOSPI",
+     "verdict": "빗나감"
     }
    ],
    "flagPrice": 207500,
@@ -11822,7 +11852,7 @@
     "공급계약(XGS-PON 반도체 13억)"
    ],
    "theme": "AI반도체설계(팹리스/IP)",
-   "status": "pending",
+   "status": "verified",
    "checks": [
     {
      "horizon": "D+3",
@@ -11831,6 +11861,16 @@
      "changePct": -9.95,
      "indexPct": -4.38,
      "excessPct": -5.57,
+     "index": "KOSDAQ",
+     "verdict": "빗나감"
+    },
+    {
+     "horizon": "D+7",
+     "date": "2026-07-24",
+     "price": 19210,
+     "changePct": -8.96,
+     "indexPct": -4.56,
+     "excessPct": -4.4,
      "index": "KOSDAQ",
      "verdict": "빗나감"
     }
@@ -11881,7 +11921,7 @@
     "원전 MI케이블 어셈블리 국산화"
    ],
    "theme": "원전/SMR",
-   "status": "pending",
+   "status": "verified",
    "checks": [
     {
      "horizon": "D+3",
@@ -11892,6 +11932,16 @@
      "excessPct": -1.08,
      "index": "KOSDAQ",
      "verdict": "빗나감"
+    },
+    {
+     "horizon": "D+7",
+     "date": "2026-07-24",
+     "price": 14830,
+     "changePct": 2.42,
+     "indexPct": -4.56,
+     "excessPct": 6.98,
+     "index": "KOSDAQ",
+     "verdict": "적중"
     }
    ],
    "flagPrice": 14480,
@@ -11940,7 +11990,7 @@
     "임상 뉴스에 23% 급등(후발)"
    ],
    "theme": "바이오/의료",
-   "status": "pending",
+   "status": "verified",
    "checks": [
     {
      "horizon": "D+3",
@@ -11951,6 +12001,16 @@
      "excessPct": 6.43,
      "index": "KOSDAQ",
      "verdict": "빗나감"
+    },
+    {
+     "horizon": "D+7",
+     "date": "2026-07-24",
+     "price": 2255,
+     "changePct": -7.39,
+     "indexPct": -4.56,
+     "excessPct": -2.83,
+     "index": "KOSDAQ",
+     "verdict": "중립"
     }
    ],
    "flagPrice": 2435,
@@ -13794,6 +13854,69 @@
      "price": 3365
     }
    ]
+  },
+  {
+   "name": "아이씨에이치(368600)",
+   "type": "leading",
+   "market": "韓",
+   "flagDate": "2026-07-24",
+   "signals": [
+    "테슬라옵티머스양산공급확정",
+    "삼성갤럭시Z소재공급",
+    "이중모멘텀",
+    "신규포착"
+   ],
+   "theme": "로봇/휴머노이드",
+   "status": "pending",
+   "checks": [],
+   "flagPrice": 795,
+   "priceLog": [
+    {
+     "date": "2026-07-24",
+     "price": 795
+    }
+   ]
+  },
+  {
+   "name": "디와이씨(310870)",
+   "type": "discovery",
+   "market": "韓",
+   "flagDate": "2026-07-24",
+   "signals": [
+    "LIG유상증자참여",
+    "방산소부장확장"
+   ],
+   "theme": "우주/방산",
+   "status": "pending",
+   "checks": [],
+   "flagPrice": 1411,
+   "priceLog": [
+    {
+     "date": "2026-07-24",
+     "price": 1411
+    }
+   ]
+  },
+  {
+   "name": "삼성바이오로직스(207940)",
+   "type": "warning",
+   "market": "韓",
+   "flagDate": "2026-07-24",
+   "signals": [
+    "급락장나홀로급등",
+    "이미반영",
+    "후발경고"
+   ],
+   "theme": "바이오/의료(대형)",
+   "status": "pending",
+   "checks": [],
+   "flagPrice": 1518000,
+   "priceLog": [
+    {
+     "date": "2026-07-24",
+     "price": 1518000
+    }
+   ]
   }
  ],
  "stats": {
@@ -13803,8 +13926,8 @@
   "miss": 78,
   "hitRate": 17.4,
   "avgD3ChangePct": 0.77,
-  "pending": 28,
-  "total": 195,
+  "pending": 31,
+  "total": 198,
   "byType": {
    "leading": {
     "verified": 81,

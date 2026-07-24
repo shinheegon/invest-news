@@ -1,18 +1,19 @@
 {
-  "updatedAt": "2026-07-24T07:30:00+09:00", "session": "AM",
-  "note": "간밤 美 증시는 알파벳(-6%)·테슬라(-14%) 실적발 AI 설비투자 우려로 나스닥 약세, 호르무즈·홍해 유조선 피격에 브렌트유 100달러 재돌파하며 美 10년물 국채금리 4.697%(17개월래 최고)·달러인덱스 101.47로 급등. 오늘 한국장은 전일(7/23) GDP 서프라이즈발 코스피 7000선 회복(+4.40%) 이후 미국발 리스크(유가·금리·관세)를 얼마나 소화하는지가 관건.",
-  "stock_fng": { "value": 43, "label": "Fear", "source": "https://www.benzinga.com/markets/market-summary/26/07/60629250/nasdaq-falls-over-100-points-as-oil-prices-surge-investor-sentiment-edges-lower-greed-index-remains-in-fear-zone" },
+  "updatedAt": "2026-07-24T20:50:00+09:00", "session": "PM",
+  "note": "오늘(7/24) 코스피·코스닥 매도 사이드카 발동 속 5%대 동반 급락, 전일(7/23) +4~5% 급등을 하루 만에 반납('또 검은 금요일', 올해 21번째 매도 사이드카). 호르무즈 정세 격화로 브렌트유 100.69달러(+7.04%)·WTI 92.19달러(+6.17%)까지 급등, 美 10년물 국채금리 4.71%(4거래일 연속 상승, 2025년 1월來 최고)로 치솟으며 7/29 FOMC 금리인상 우려가 시장을 짓눌렀다. 삼성전자·SK하이닉스는 외국인·기관 동반 매도로 각각 -7.59%·-8.34% 급락.",
+  "stock_fng": { "value": 43, "label": "Fear", "source": "https://www.benzinga.com/markets/market-summary/26/07/60660103/nasdaq-tumbles-over-2-amid-higher-oil-prices-investor-sentiment-weakens-greed-index-remains-in-fear-zone" },
   "indices": [
-    { "name": "코스피", "value": "7,096.89", "change": "+4.40%(+299.19p), 7/23 종가·7000선 회복", "source": "https://www.mt.co.kr/stock/2026/07/23/2026072315015067484" },
-    { "name": "코스닥", "value": "790.28", "change": "+5.22%(+39.19p), 7/23 종가·매수 사이드카 발동", "source": "https://www.mt.co.kr/stock/2026/07/23/2026072315021674781" },
-    { "name": "S&P 500", "value": "7,498.96", "change": "-0.14%(-10.24p), 7/22 종가(7/23 알파벳·테슬라 실적 반영은 익일 반영 예정)", "source": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-july-22-dow-sp-500-nasdaq-alphabet-tesla-earnings-083644887.html" },
-    { "name": "나스닥", "value": "25,690.90", "change": "-0.57%(-146.30p), 7/22 종가", "source": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-july-22-dow-sp-500-nasdaq-alphabet-tesla-earnings-083644887.html" },
-    { "name": "다우", "value": "52,218.58", "change": "-0.01%(-6.06p), 7/22 종가", "source": "https://www.washingtonpost.com/business/2026/07/22/stock-market-dow-nasdaq/c8c78c64-860a-11f1-9cec-0fb26676f07e_story.html" },
-    { "name": "VIX", "value": "16.64", "change": "7/22 종가", "source": "https://finance.yahoo.com/quote/%5EVIX/history/" },
-    { "name": "美 10년물", "value": "4.697%", "change": "+4.02bp, 17개월래 최고(브렌트유 100달러·연준 추가인상 우려)", "source": "https://www.newspim.com/news/view/20260724000042" },
-    { "name": "달러인덱스(DXY)", "value": "101.47", "change": "+0.36%, 달러/엔 163.79엔(1986년 이후 최고)", "source": "https://www.newspim.com/news/view/20260724000042" },
-    { "name": "원/달러", "value": "1,466.8원", "change": "-13.3원(15:30 기준, 7/23) 원화 강세 전환", "source": "https://www.yna.co.kr/view/AKR20260723139900002" },
-    { "name": "한국 기준금리", "value": "2.75%", "change": "7/16 인상 후 유지, 2분기 GDP 서프라이즈(+0.6%QoQ)로 8월 27일 추가 인상(3.50% 목표) 가능성 확대(씨티은행)", "source": "https://www.fnnews.com/news/202607231400166635" },
-    { "name": "브렌트유", "value": "$101.21", "change": "+7.59%, 5/26 이후 첫 100달러 돌파(홍해 유조선 피격·호르무즈 긴장)", "source": "https://www.fnnews.com/news/202607240509025758" }
+    { "name": "코스피", "value": "6,690.62", "change": "-5.72%(-406.27p), 7/24 종가·매도 사이드카 발동", "source": "https://www.hankyung.com/article/2026072440726" },
+    { "name": "코스닥", "value": "748.22", "change": "-5.32%(-42.06p), 7/24 종가·매도 사이드카 발동", "source": "https://view.asiae.co.kr/article/2026072420294140510" },
+    { "name": "S&P 500", "value": "7,408.30", "change": "-1.21%, 7/23 종가", "source": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-july-23-2026" },
+    { "name": "나스닥", "value": "25,137.69", "change": "-2.15%, 7/23 종가(알파벳 -6.5%·테슬라 -14% 실적 반영)", "source": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-july-23-2026" },
+    { "name": "다우", "value": "51,711.65", "change": "-0.97%(-506.93p), 7/23 종가", "source": "https://www.washingtonpost.com/business/2026/07/23/wall-street-dow-nasdaq-stocks/70df2dda-86d3-11f1-9cec-0fb26676f07e_story.html" },
+    { "name": "VIX", "value": "18.70", "change": "+12.38%(+2.06p), 7/23 종가(전일 16.64)", "source": "https://finance.yahoo.com/quote/%5EVIX/history/" },
+    { "name": "美 10년물", "value": "4.71%", "change": "4거래일 연속 상승, 2025년 1월來 최고(유가 급등發 연준 추가인상 우려)", "source": "https://www.fool.com/investing/2026/07/24/probability-july-fed-rate-hike-tripled-last-week/" },
+    { "name": "달러인덱스(DXY)", "value": "101.30", "change": "101.25~101.47 레인지, 美 고용지표 호조+중동 안전자산 수요", "source": "https://www.fxstreet.com/news/united-states-dollar-index-price-forecast-pullbacks-could-be-bought-into-near-10100-202607240810" },
+    { "name": "원/달러", "value": "1,466.6원", "change": "-0.2원(15:30 기준, 7/24) 보합, 하이닉스 수급 효과가 유가발 강달러 상쇄", "source": "https://www.yna.co.kr/view/AKR20260724006953072" },
+    { "name": "한국 기준금리", "value": "2.75%", "change": "7/16 인상 후 유지, 8월 27일 추가 인상(3.50% 목표) 가능성 지속(씨티은행)", "source": "https://www.fnnews.com/news/202607231400166635" },
+    { "name": "브렌트유", "value": "$100.69", "change": "+7.04%, 5월말 이후 첫 100달러 돌파(호르무즈 긴장 고조)", "source": "https://biz.heraldcorp.com/article/10818486" },
+    { "name": "WTI", "value": "$92.19", "change": "+6.17%, 6월초 이후 최고치", "source": "https://biz.heraldcorp.com/article/10818486" }
   ]
 }

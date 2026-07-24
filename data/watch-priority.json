@@ -1,16 +1,7 @@
 {
- "updatedAt": "2026-07-24T08:21:38+09:00",
+ "updatedAt": "2026-07-24T21:05:44+09:00",
  "note": "대기 예측을 학습패턴(승세테마+구체촉발재)으로 점수화. 투자권유 아님.",
  "top": [
-  {
-   "name": "씨메스로보틱스(475400)",
-   "type": "discovery",
-   "theme": "로봇/휴머노이드",
-   "flagDate": "2026-07-14",
-   "score": 5,
-   "concrete": true,
-   "why": "승세테마(로봇/휴머노이드) · 구체촉발재: 서흥향24.8억자동화설비공급계약"
-  },
   {
    "name": "대동기어(008830)",
    "type": "discovery",
@@ -115,6 +106,15 @@
    "type": "leading",
    "theme": "로봇/휴머노이드",
    "flagDate": "2026-07-17",
+   "score": 3,
+   "concrete": false,
+   "why": "승세테마(로봇/휴머노이드) · 신호약함(테마첫거론류)"
+  },
+  {
+   "name": "아이씨에이치(368600)",
+   "type": "leading",
+   "theme": "로봇/휴머노이드",
+   "flagDate": "2026-07-24",
    "score": 3,
    "concrete": false,
    "why": "승세테마(로봇/휴머노이드) · 신호약함(테마첫거론류)"
@@ -133,15 +133,6 @@
  ],
  "all": [
   {
-   "name": "씨메스로보틱스(475400)",
-   "type": "discovery",
-   "theme": "로봇/휴머노이드",
-   "flagDate": "2026-07-14",
-   "score": 5,
-   "concrete": true,
-   "why": "승세테마(로봇/휴머노이드) · 구체촉발재: 서흥향24.8억자동화설비공급계약"
-  },
-  {
    "name": "대동기어(008830)",
    "type": "discovery",
    "theme": "로봇/휴머노이드",
@@ -245,6 +236,15 @@
    "type": "leading",
    "theme": "로봇/휴머노이드",
    "flagDate": "2026-07-17",
+   "score": 3,
+   "concrete": false,
+   "why": "승세테마(로봇/휴머노이드) · 신호약함(테마첫거론류)"
+  },
+  {
+   "name": "아이씨에이치(368600)",
+   "type": "leading",
+   "theme": "로봇/휴머노이드",
+   "flagDate": "2026-07-24",
    "score": 3,
    "concrete": false,
    "why": "승세테마(로봇/휴머노이드) · 신호약함(테마첫거론류)"
@@ -266,15 +266,6 @@
    "score": 2,
    "concrete": true,
    "why": "중립테마(반도체소재/장비) · 구체촉발재: 신제품(유리기판 결함분석 장비)"
-  },
-  {
-   "name": "자람테크놀로지(389020)",
-   "type": "leading",
-   "theme": "AI반도체설계(팹리스/IP)",
-   "flagDate": "2026-07-14",
-   "score": 2,
-   "concrete": true,
-   "why": "중립테마(AI반도체설계(팹리스/IP)) · 구체촉발재: 공급계약(XGS-PON 반도체 13억)"
   },
   {
    "name": "자람테크놀로지(389020)",
@@ -338,24 +329,6 @@
    "score": 0,
    "concrete": false,
    "why": "중립테마(우주/방산) · 신호약함(테마첫거론류)"
-  },
-  {
-   "name": "한미반도체(042700)",
-   "type": "discovery",
-   "theme": "반도체소재/장비",
-   "flagDate": "2026-07-14",
-   "score": 0,
-   "concrete": false,
-   "why": "중립테마(반도체소재/장비) · 신호약함(테마첫거론류)"
-  },
-  {
-   "name": "우진엔텍(457550)",
-   "type": "discovery",
-   "theme": "신재생에너지",
-   "flagDate": "2026-07-14",
-   "score": 0,
-   "concrete": false,
-   "why": "중립테마(신재생에너지) · 신호약함(테마첫거론류)"
   },
   {
    "name": "글로벌텍스프리(204620)",
@@ -488,6 +461,15 @@
    "type": "discovery",
    "theme": "우주/방산",
    "flagDate": "2026-07-22",
+   "score": 0,
+   "concrete": false,
+   "why": "중립테마(우주/방산) · 신호약함(테마첫거론류)"
+  },
+  {
+   "name": "디와이씨(310870)",
+   "type": "discovery",
+   "theme": "우주/방산",
+   "flagDate": "2026-07-24",
    "score": 0,
    "concrete": false,
    "why": "중립테마(우주/방산) · 신호약함(테마첫거론류)"
