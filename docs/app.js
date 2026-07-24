@@ -556,6 +556,7 @@ async function loadVerification() {
   renderMD(document.getElementById('verifyBody'),
     await getText(`${DATA}/verification.md`), '검증 리포트는 데이터가 3일 이상 쌓이면 생성됩니다.');
 
+  await renderCrossValidation();
   await renderWatchPriority();
   await renderThemeBoard();
   await renderMissAnalysis();
@@ -700,6 +701,35 @@ async function renderMissAnalysis() {
       rl.map(r => `<li>${r}</li>`).join('') + '</ul>'
     : '');
   if (dev) dev.textContent = m.develop ? `📈 자기발전: ${m.develop}` : '';
+}
+async function renderCrossValidation() {
+  const cv = await getJSON(`${DATA}/cross-signal.json`);
+  const tw = document.getElementById('crossTiers');
+  const t = document.getElementById('crossTable');
+  if (!cv) { if (tw) setHTML(tw, '<div class="muted">데이터가 쌓이면 교차검증 성적이 생성됩니다.</div>'); return; }
+  const ts = cv.tierStats || {};
+  const base = cv.baseHitRate;
+  const card = (label, s, color) => `<div class="gauge-card"><div class="gauge-title">${label}</div>` +
+    `<div class="gauge-num" style="color:${color}">${s && s.hitRate != null ? s.hitRate + '%' : '—'}</div>` +
+    `<div class="gauge-label muted">n=${s ? s.n : 0}${base != null ? ' · 기준 ' + base + '%' : ''}</div></div>`;
+  if (tw) setHTML(tw,
+    card('🔥 高수렴(신호 여럿)', ts.high, '#3fb950') +
+    card('中수렴', ts.mid, '#f5a524') +
+    card('低수렴(신호 1개↓)', ts.low, '#8b949e'));
+  const star = n => `<button class="star${isFav(n) ? ' on' : ''}" data-fav="${n}" title="관심 추가/해제">${isFav(n) ? '★' : '☆'}</button>`;
+  const typeTag = t => t === 'leading' ? '🔮선행' : t === 'discovery' ? '🌱발굴' : t;
+  const chip = s => { const bad = s.startsWith('⚠️'); return `<span class="flow-chip ${bad ? 'down' : 'up'}">${s}</span>`; };
+  const top = (cv.topCandidates || []).filter(c => c.score >= 3);
+  if (t) setHTML(t, top.length
+    ? '<thead><tr><th>종목</th><th>유형</th><th>수렴점수</th><th>겹친 신호</th></tr></thead><tbody>' +
+      top.map(c => `<tr class="${c.score >= 5 ? 'watch-hot' : ''}"><td>${star(c.name)} <b>${c.name}</b>` +
+        `${c.score >= 5 ? ' <span class="hot-badge">🔥高확률</span>' : ''}</td>` +
+        `<td>${typeTag(c.type)}</td><td><b>${c.score >= 0 ? '+' : ''}${c.score}</b></td>` +
+        `<td>${(c.signals || []).map(chip).join(' ')}</td></tr>`).join('') + '</tbody>'
+    : '<tbody><tr><td class="muted">수렴 신호가 충분한 대기 후보가 아직 없습니다.</td></tr></tbody>');
+  if (t) t.querySelectorAll('.star').forEach(b => b.onclick = e => {
+    e.stopPropagation(); toggleFav(b.dataset.fav); syncStars(b.dataset.fav); renderCrossValidation(); renderFavTab();
+  });
 }
 async function renderWatchPriority() {
   const w = await getJSON(`${DATA}/watch-priority.json`) || { top: [], avoid: [], all: [] };
