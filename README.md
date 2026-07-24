@@ -9,6 +9,8 @@
 news/
 ├── prompt/briefing-prompt.md   # 리서치+작성 지시문(브리핑 품질의 핵심)
 ├── scripts/run-briefing.sh     # 실행 래퍼 (launchd가 호출)
+├── scripts/agent-guard.py      # 생성 AI의 코드·Git 설정 변경 차단
+├── scripts/validate-generated.py # 배포 전 결과 검증
 ├── scripts/install.sh          # launchd 자동실행 등록 (1회)
 ├── briefings/YYYY-MM-DD-AM/PM.md# 날짜·회차별 브리핑(자동 생성)
 ├── data/keyword-index.json     # 누적 키워드 빈도/이력
@@ -60,6 +62,22 @@ bash scripts/serve.sh        # http://localhost:8765
 자동 커밋·푸시 → 사이트가 자동 업데이트됩니다.
 
 > 참고: `docs/data/`의 샘플(미리보기) 데이터는 **첫 실제 브리핑 실행 시 실데이터로 교체**됩니다.
+
+## 자동 생성 안전장치
+
+- 생성 AI에는 웹 검색·읽기·지정 산출물 편집만 허용하며 셸 실행 권한은 주지 않습니다.
+- 실행 전후 코드·워크플로·Git 설정·Git 훅의 해시를 비교해 변경 시 즉시 중단합니다.
+- JSON, 필수 브리핑 섹션, 회사-기사명 매칭, 사이트 복사본을 검증한 뒤에만 커밋·메일·배포합니다.
+- 자동 커밋은 허용된 데이터 파일만 stage하며, 사람이 미리 stage한 변경이 있으면 중단합니다.
+- 대시보드에 표시하는 Markdown과 동적 HTML은 DOMPurify로 정화합니다.
+
+로컬 회귀 테스트:
+
+```bash
+PYTHONDONTWRITEBYTECODE=1 python3 -m unittest discover -s tests -v
+node --check docs/app.js
+bash -n scripts/ci-run.sh scripts/run-briefing.sh scripts/build-site.sh
+```
 
 ## 시간 변경 / 중지
 - **시간 변경**: `scripts/install.sh`의 `StartCalendarInterval` Hour/Minute 수정 후 다시

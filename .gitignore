@@ -10,3 +10,5 @@ docs/deploy.out
 docs/deploy.err
 docs/.vercel/README.txt
 node_modules/
+__pycache__/
+*.py[cod]

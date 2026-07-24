@@ -8,6 +8,12 @@ import json, re, html, sys, os, time
 from urllib.request import Request, urlopen
 from email.utils import parsedate_to_datetime
 from datetime import datetime, timezone, timedelta
+from company_matcher import (
+    entity_matches,
+    load_company_entities,
+    matching_entities,
+    split_company_name,
+)
 
 PROJECT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 DATA = os.path.join(PROJECT, "data")
@@ -117,26 +123,15 @@ def parse_items(xml, now_dt):
                     "date": dt.strftime("%Y-%m-%d") if dt else now_dt.strftime("%Y-%m-%d")})
     return out, dropped_old
 
-def _base_name(name):
-    """'우리로(046970)' -> '우리로' (티커·괄호 제거)."""
-    return re.sub(r"\(.*?\)", "", name).strip()
-
 def update_article_archive(all_items, now):
     """수집된 기사를 발굴·회사·선행 종목명으로 매칭해 종목별로 '누적' 저장한다.
     news-feed.json은 매번 덮어써 오늘치만 남지만, 이 아카이브는 과거 기사를 보존해
-    종목별로 '언론사별 기사 흐름'을 지속적으로 볼 수 있게 한다(링크 기준 중복 제거)."""
-    universe = {}  # base_name(소문자) -> 표시용 원본 종목명
-    for idx_file in ("discovery-index.json", "company-index.json", "leading-index.json"):
-        try:
-            with open(os.path.join(DATA, idx_file), encoding="utf-8") as f:
-                comps = json.load(f).get("companies", {})
-        except Exception:
-            continue
-        for full in comps:
-            b = _base_name(full)
-            if len(b) >= 2:
-                universe.setdefault(b.lower(), full)
-    if not universe:
+    종목별로 '언론사별 기사 흐름'을 지속적으로 볼 수 있게 한다.
+
+    매번 기존 기사까지 새 매칭 규칙으로 재검사하므로, 과거의 오탐 기사도 자동 제거되고
+    같은 티커의 약칭(NC)·정식명(엔씨소프트)은 하나의 대표 회사로 합쳐진다."""
+    entities = load_company_entities(DATA)
+    if not entities:
         return
 
     path = os.path.join(DATA, "article-archive.json")
@@ -147,33 +142,76 @@ def update_article_archive(all_items, now):
         archive = {"companies": {}}
     archive.setdefault("companies", {})
 
+    rebuilt = {"companies": {}, "updatedAt": now}
+    entity_by_name = {entity.name: entity for entity in entities}
+
+    def archive_entity(display_name):
+        exact = entity_by_name.get(display_name)
+        if exact:
+            return exact
+        base, ticker = split_company_name(display_name)
+        return next(
+            (
+                entity
+                for entity in entities
+                if entity.ticker == ticker and base in entity.aliases
+            ),
+            None,
+        )
+
+    def add_article(entity, article):
+        entry = rebuilt["companies"].setdefault(entity.name, {"articles": []})
+        key = article.get("link") or article.get("title")
+        if key and not any(
+            (existing.get("link") or existing.get("title")) == key
+            for existing in entry["articles"]
+        ):
+            entry["articles"].append(article)
+
+    # 기존 회사 귀속은 유지하면서 새 규칙에 맞지 않는 기사만 제거한다.
+    # 전체 기사를 모든 회사에 다시 뿌리면 잘못 생성된 중복 티커끼리 섞일 수 있다.
+    for display_name, entry in archive["companies"].items():
+        entity = archive_entity(display_name)
+        if not entity:
+            continue
+        for article in entry.get("articles", []):
+            if entity_matches(article.get("title", ""), entity):
+                add_article(entity, article)
+
     today = now[:10]
-    for it in all_items:
-        title = it.get("title", "")
-        low = title.lower()
-        for b, full in universe.items():
-            if b in low:
-                entry = archive["companies"].setdefault(full, {"articles": []})
-                arts = entry["articles"]
-                link = it.get("link", "")
-                if any((link and a.get("link") == link) or a.get("title") == title for a in arts):
-                    continue  # 이미 있는 기사
-                arts.append({"date": today, "source": it.get("source", ""),
-                             "title": title, "link": link})
+    for item in all_items:
+        article = {
+            "date": today,
+            "source": item.get("source", ""),
+            "title": item.get("title", ""),
+            "link": item.get("link", ""),
+        }
+        for entity in matching_entities(article["title"], entities):
+            add_article(entity, article)
 
     # 종목별 최신순 정렬 + 과대 누적 방지(종목당 최대 120건 보관)
-    for entry in archive["companies"].values():
-        entry["articles"].sort(key=lambda a: a.get("date", ""), reverse=True)
+    for entry in rebuilt["companies"].values():
+        entry["articles"].sort(
+            key=lambda article: (
+                article.get("date", ""),
+                article.get("source", ""),
+                article.get("title", ""),
+            ),
+            reverse=True,
+        )
         del entry["articles"][120:]
 
-    archive["updatedAt"] = now
     with open(path, "w", encoding="utf-8") as f:
-        json.dump(archive, f, ensure_ascii=False, indent=1)
-    matched = sum(1 for e in archive["companies"].values() if e["articles"])
-    print(f"[collect] 기사 아카이브 갱신 · 종목 {matched}개에 누적 기사 보유")
+        json.dump(rebuilt, f, ensure_ascii=False, indent=1)
+    matched = sum(1 for entry in rebuilt["companies"].values() if entry["articles"])
+    print(f"[collect] 기사 아카이브 재분류 · 종목 {matched}개에 누적 기사 보유")
 
 def main():
     now_dt = datetime.now(KST)
+    if "--repair-archive-only" in sys.argv:
+        update_article_archive([], now_dt.isoformat(timespec="seconds"))
+        return
+
     all_items, per_source, seen = [], {}, set()
     total_dropped = 0
     for name, url in FEEDS:

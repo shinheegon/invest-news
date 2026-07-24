@@ -1,6 +1,6 @@
 {
  "note": "거시·시장의 '역사가 반복되는' 패턴 사례집. 매 회차 에이전트가 오늘 상황을 이 패턴들과 매칭해 확률을 높인다. observed=관찰횟수, hit=적중횟수, confidence=hit/observed(검증으로 자기갱신). 새 패턴은 에이전트가 추가한다. 투자권유 아님.",
- "updatedAt": "2026-07-24T21:29:56+09:00",
+ "updatedAt": "2026-07-24T22:04:32+09:00",
  "patterns": [
   {
    "id": "sell-on-news",
@@ -18,7 +18,8 @@
    "timeframe": "발표 당일~3일",
    "observed": 3,
    "hit": 3,
-   "confidence": 1.0
+   "confidence": 1.0,
+   "method": "seed"
   },
   {
    "id": "crash-v-rotation",
@@ -34,9 +35,23 @@
     "급락 주도 대형주 추격"
    ],
    "timeframe": "반등 1~2주",
-   "observed": 2,
-   "hit": 2,
-   "confidence": 1.0
+   "observed": 48,
+   "hit": 10,
+   "confidence": 0.21,
+   "method": "auto",
+   "dataN": 48,
+   "lastVerified": "2026-07-24",
+   "sampleCases": [
+    "티로보틱스(117730)",
+    "솔루스첨단소재(336370)",
+    "글로벌에스엠(900070)",
+    "한국피아이엠(448970)",
+    "삼기(122350)"
+   ],
+   "baseRate": 0.17,
+   "edge": 0.04,
+   "validated": false,
+   "direction": "FAVOR"
   },
   {
    "id": "rate-cut-growth",
@@ -55,7 +70,8 @@
    "timeframe": "발표 당일~수주",
    "observed": 2,
    "hit": 1,
-   "confidence": 0.5
+   "confidence": 0.5,
+   "method": "seed"
   },
   {
    "id": "oil-spike-defense",
@@ -72,7 +88,8 @@
    "timeframe": "급등 당일~수일",
    "observed": 2,
    "hit": 1,
-   "confidence": 0.5
+   "confidence": 0.5,
+   "method": "seed"
   },
   {
    "id": "buried-contract-rebound",
@@ -85,9 +102,23 @@
    ],
    "avoids": [],
    "timeframe": "반등 시작 후 3~7일",
-   "observed": 1,
-   "hit": 0,
-   "confidence": null
+   "observed": 34,
+   "hit": 7,
+   "confidence": 0.21,
+   "method": "auto",
+   "dataN": 34,
+   "lastVerified": "2026-07-24",
+   "sampleCases": [
+    "비에이치아이(083650)",
+    "대동(000490)",
+    "퓨쳐켐(220100)",
+    "태성(323280)",
+    "파라텍(033540)"
+   ],
+   "baseRate": 0.17,
+   "edge": 0.04,
+   "validated": false,
+   "direction": "FAVOR"
   },
   {
    "id": "big-ipo-supply-swap",
@@ -104,7 +135,8 @@
    "timeframe": "상장 전후 1~2주",
    "observed": 1,
    "hit": 1,
-   "confidence": 1.0
+   "confidence": 1.0,
+   "method": "seed"
   },
   {
    "id": "structural-adoption",
@@ -119,9 +151,23 @@
     "이미 급등한 완성품주"
    ],
    "timeframe": "선언 후 수일~수주",
-   "observed": 1,
-   "hit": 1,
-   "confidence": 1.0
+   "observed": 13,
+   "hit": 2,
+   "confidence": 0.15,
+   "method": "auto",
+   "dataN": 13,
+   "lastVerified": "2026-07-24",
+   "sampleCases": [
+    "티로보틱스(117730)",
+    "글로벌에스엠(900070)",
+    "이엠앤아이(481070)",
+    "나우로보틱스(459510)",
+    "씨메스(475400)"
+   ],
+   "baseRate": 0.17,
+   "edge": -0.02,
+   "validated": false,
+   "direction": "FAVOR"
   },
   {
    "id": "insider-buy",
@@ -134,9 +180,51 @@
    ],
    "avoids": [],
    "timeframe": "매수 후 수주",
-   "observed": 2,
+   "observed": 4,
    "hit": 1,
-   "confidence": 0.5
+   "confidence": 0.25,
+   "method": "auto",
+   "dataN": 4,
+   "lastVerified": "2026-07-24",
+   "sampleCases": [
+    "에이비온(203400)",
+    "라온시큐어(042510)",
+    "한국주강(025890)",
+    "코아시아씨엠(196450)"
+   ],
+   "baseRate": 0.17,
+   "edge": 0.08,
+   "validated": false,
+   "direction": "FAVOR"
+  },
+  {
+   "id": "concrete-catalyst",
+   "name": "구체 촉발재(수주·계약·특허·양산) 보유 → 우대 [핵심 채택]",
+   "trigger": "종목 고유의 구체 촉발재(수주·계약·공급·선정·특허·신제품·양산·캐파)가 확인됨",
+   "precedent": "우리 검증 실측: 구체재료 보유 종목이 '테마 거론만'보다 적중률이 유의미하게 높음.",
+   "outcome": "재료가 실제 실적·수급으로 이어져 지속력↑. 약신호 회피 패턴의 정반대(양성) 짝.",
+   "favors": [
+    "구체 촉발재 보유 소형주"
+   ],
+   "avoids": [],
+   "timeframe": "포착 후 D+3~D+7",
+   "observed": 65,
+   "hit": 14,
+   "confidence": 0.22,
+   "baseRate": 0.17,
+   "edge": 0.05,
+   "validated": false,
+   "direction": "FAVOR",
+   "method": "auto",
+   "dataN": 65,
+   "lastVerified": "2026-07-24",
+   "sampleCases": [
+    "비에이치아이(083650)",
+    "대동(000490)",
+    "퓨쳐켐(220100)",
+    "태성(323280)",
+    "파라텍(033540)"
+   ]
   },
   {
    "id": "theme-first-only",
@@ -149,9 +237,23 @@
     "구체재료 없는 테마성 종목 등재"
    ],
    "timeframe": "-",
-   "observed": 37,
-   "hit": 0,
-   "confidence": 0.0
+   "observed": 13,
+   "hit": 9,
+   "confidence": 0.69,
+   "method": "auto",
+   "dataN": 13,
+   "lastVerified": "2026-07-24",
+   "sampleCases": [
+    "이지트로닉스(377330)",
+    "옵트론텍(082210)",
+    "에스피지(058610)",
+    "와이엠티(251370)",
+    "엠케이전자(033160)"
+   ],
+   "baseRate": 0.47,
+   "edge": 0.22,
+   "validated": true,
+   "direction": "AVOID"
   },
   {
    "id": "memory-peak-rotation",
@@ -166,9 +268,23 @@
     "메모리 소부장 추격"
    ],
    "timeframe": "경고 후 수일~수주",
-   "observed": 1,
-   "hit": 1,
-   "confidence": 1.0
+   "observed": 65,
+   "hit": 13,
+   "confidence": 0.2,
+   "method": "auto",
+   "dataN": 65,
+   "lastVerified": "2026-07-24",
+   "sampleCases": [
+    "다이나믹솔루션(290660)",
+    "에스피지(058610)",
+    "이엠앤아이(083470)",
+    "티로보틱스(117730)",
+    "코아시아씨엠(196450)"
+   ],
+   "baseRate": 0.18,
+   "edge": 0.02,
+   "validated": false,
+   "direction": "FAVOR"
   }
  ]
 }

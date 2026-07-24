@@ -29,6 +29,8 @@ jobs:
     steps:
       - name: 저장소 체크아웃
         uses: actions/checkout@v4
+        with:
+          persist-credentials: false
 
       - name: Node 설치
         uses: actions/setup-node@v4
@@ -42,25 +44,42 @@ jobs:
         env:
           # 구독 토큰 방식(claude setup-token) — 구독에 포함, 추가비용 0.
           CLAUDE_CODE_OAUTH_TOKEN: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
+          INPUT_SESSION: ${{ github.event.inputs.session }}
           RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
           TO_EMAIL: ${{ vars.TO_EMAIL || 'shinheegon@gmail.com' }}
         run: |
           chmod +x scripts/*.sh
-          bash scripts/ci-run.sh "${{ github.event.inputs.session }}"
+          DATE="$(TZ=Asia/Seoul date +%F)"
+          SESSION="$INPUT_SESSION"
+          if [ "$SESSION" != "AM" ] && [ "$SESSION" != "PM" ]; then
+            HOUR="$(TZ=Asia/Seoul date +%H)"
+            if [ "$HOUR" -lt 12 ]; then SESSION="AM"; else SESSION="PM"; fi
+          fi
+          echo "BRIEFING_DATE=$DATE" >> "$GITHUB_ENV"
+          echo "BRIEFING_SESSION=$SESSION" >> "$GITHUB_ENV"
+          bash scripts/ci-run.sh "$SESSION"
 
       - name: 데이터 커밋 & 푸시
-        if: always()          # claude 실패해도 부분 산출물(지표·검증·빌드)은 커밋
+        if: success()         # 생성·무결성·데이터 검증을 모두 통과한 경우에만 반영
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
         run: |
           git config user.name "invest-news-bot"
           git config user.email "actions@github.com"
-          git add -A
+          if ! git diff --cached --quiet; then
+            echo "차단: 실행 전부터 stage된 변경이 있습니다."; exit 1
+          fi
+          python3 scripts/stage-generated.py \
+            --date "$BRIEFING_DATE" --session "$BRIEFING_SESSION"
           if git diff --cached --quiet; then
             echo "변경 없음 — 커밋 생략"; exit 0
           fi
           git commit -m "briefing: $(TZ=Asia/Seoul date +%F\ %H:%M) [skip ci]"
           # 동시 push(로컬 맥 등)로 밀려도 원격을 rebase로 흡수 후 재시도. 충돌 시 클라우드 생성분(ours) 우선.
           for i in 1 2 3; do
-            if git push; then echo "push 성공"; exit 0; fi
+            if git push "https://x-access-token:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git" HEAD:main; then
+              echo "push 성공"; exit 0
+            fi
             echo "push 충돌 — 원격 반영 후 재시도 $i"
             git pull --rebase -X ours origin main || git rebase --abort
             sleep 3
