@@ -97,6 +97,38 @@ def main():
     N = len(resolved)
     base = round(sum(1 for c in resolved if c.get("finalVerdict") == "적중") / N * 100, 1) if N else None
 
+    # ── 전향 stamp: 대기 예측에 flag시점 convergence를 '한 번' 새겨 verification에 저장 ──
+    # (이후 그 케이스가 만기검증되면, 우리가 미리 찍은 수렴점수가 실제로 맞았는지 추적 가능 = 완전 폐루프)
+    today = datetime.now(KST).strftime("%Y-%m-%d")
+    stamped = 0
+    for c in cases:
+        if c.get("status") == "verified" or c.get("type") not in ("leading", "discovery"):
+            continue
+        if "convScore" in c:            # 이미 새김(flag시점 기록 보존) — 재계산 금지
+            continue
+        # ⚠️ 전향성 보장: 결과(D+3)가 아직 안 난 케이스만 stamp(이미 판정났으면 예측 아님)
+        if any(k.get("horizon") == "D+3" for k in (c.get("checks") or [])):
+            continue
+        f, cnt = current_features(c, niche_names, disc_cnt, lead_cnt)
+        c["convScore"] = score(f)
+        c["convTier"] = tier(c["convScore"])
+        c["convSignals"] = signal_list(f)
+        c["convStampedAt"] = today
+        stamped += 1
+    if stamped:
+        json.dump(vf, open(VF, "w", encoding="utf-8"), ensure_ascii=False, indent=1)
+
+    # ── 검증(전향적): '미리 새긴' convScore를 가진 채 만기검증된 케이스만 → 진짜 예측 성적 ──
+    prosp = {"high": [], "mid": [], "low": []}
+    for c in resolved:
+        if "convScore" in c:            # stamp된 뒤 resolve = 전향적 추적 대상
+            prosp[tier(c["convScore"])].append(c)
+    tier_prospective = {}
+    for k, arr in prosp.items():
+        n = len(arr); h = sum(1 for c in arr if c.get("finalVerdict") == "적중")
+        tier_prospective[k] = {"n": n, "hit": h, "hitRate": round(h / n * 100, 1) if n else None}
+    prosp_total = sum(v["n"] for v in tier_prospective.values())
+
     # ── 전방: 오늘 대기 후보를 convergence로 랭킹 (이름 중복 제거) ──
     best = {}
     for c in pending:
@@ -112,14 +144,17 @@ def main():
 
     out = {
         "updatedAt": datetime.now(KST).isoformat(timespec="seconds"),
-        "note": "여러 독립 신호가 동시에 가리키는(수렴) 종목일수록 실측 적중률↑. tier별 적중률로 방법 자체를 검증. 투자권유 아님.",
+        "note": "여러 독립 신호가 동시에 가리키는(수렴) 종목일수록 실측 적중률↑. tierStats=과거전수(회귀), tierProspective=미리 찍은 예측만(전향). 투자권유 아님.",
         "baseHitRate": base, "tierStats": tier_stats,
+        "tierProspective": tier_prospective, "prospectiveTotal": prosp_total,
         "weights": W,
         "topCandidates": cands[:20],
     }
     json.dump(out, open(OUT, "w", encoding="utf-8"), ensure_ascii=False, indent=1)
-    print(f"[cross] tier별 적중률(기준 {base}%): "
+    print(f"[cross] 회귀 tier(기준 {base}%): "
           + " · ".join(f"{k}={v['hitRate']}%(n={v['n']})" for k, v in tier_stats.items()))
+    print(f"[cross] 전향 stamp {stamped}건 새김 · 전향검증 {prosp_total}건"
+          + (f" (high={tier_prospective['high']['hitRate']}% n={tier_prospective['high']['n']})" if prosp_total else " (아직 만기 전 — 며칠 뒤부터 채워짐)"))
     print(f"[cross] 오늘 대기 후보 {len(cands)}개 · 최고 convergence:")
     for c in cands[:6]:
         print(f"   [{c['score']:+d}] {c['name'][:18]:18} {'/'.join(c['signals'])}")

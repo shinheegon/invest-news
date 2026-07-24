@@ -1664,7 +1664,13 @@
    "priceLog": [],
    "checks": [],
    "status": "pending",
-   "backfill": true
+   "backfill": true,
+   "convScore": -2,
+   "convTier": "low",
+   "convSignals": [
+    "⚠️약신호"
+   ],
+   "convStampedAt": "2026-07-25"
   },
   {
    "name": "에스에너지(095910)",
@@ -2824,7 +2830,11 @@
    "priceLog": [],
    "checks": [],
    "status": "pending",
-   "backfill": true
+   "backfill": true,
+   "convScore": 0,
+   "convTier": "low",
+   "convSignals": [],
+   "convStampedAt": "2026-07-25"
   },
   {
    "name": "에이루트(096690)",
@@ -7521,7 +7531,14 @@
    ],
    "theme": "휴머노이드(로봇손)",
    "status": "pending",
-   "checks": []
+   "checks": [],
+   "convScore": 5,
+   "convTier": "high",
+   "convSignals": [
+    "반복포착",
+    "승세테마"
+   ],
+   "convStampedAt": "2026-07-25"
   },
   {
    "name": "데이타솔루션(263800)",
@@ -7960,7 +7977,13 @@
    ],
    "theme": "공공AX/GeoAI",
    "status": "pending",
-   "checks": []
+   "checks": [],
+   "convScore": 2,
+   "convTier": "low",
+   "convSignals": [
+    "구체촉발재"
+   ],
+   "convStampedAt": "2026-07-25"
   },
   {
    "name": "아스트(067390)",
@@ -8298,7 +8321,14 @@
    ],
    "theme": "로봇/휴머노이드",
    "status": "pending",
-   "checks": []
+   "checks": [],
+   "convScore": 4,
+   "convTier": "mid",
+   "convSignals": [
+    "승세테마",
+    "구체촉발재"
+   ],
+   "convStampedAt": "2026-07-25"
   },
   {
    "name": "레이저쎌(412350)",
@@ -11216,7 +11246,14 @@
    ],
    "theme": "반도체소재/장비",
    "status": "pending",
-   "checks": []
+   "checks": [],
+   "convScore": -1,
+   "convTier": "low",
+   "convSignals": [
+    "구체촉발재",
+    "⚠️열세테마"
+   ],
+   "convStampedAt": "2026-07-25"
   },
   {
    "name": "선익시스템(171090)",
@@ -11303,7 +11340,15 @@
    ],
    "theme": "로봇/휴머노이드",
    "status": "pending",
-   "checks": []
+   "checks": [],
+   "convScore": 7,
+   "convTier": "high",
+   "convSignals": [
+    "반복포착",
+    "승세테마",
+    "구체촉발재"
+   ],
+   "convStampedAt": "2026-07-25"
   },
   {
    "name": "파두(440110)",
@@ -12602,7 +12647,14 @@
    ],
    "theme": "로봇/휴머노이드",
    "status": "pending",
-   "checks": []
+   "checks": [],
+   "convScore": 0,
+   "convTier": "low",
+   "convSignals": [
+    "승세테마",
+    "⚠️약신호"
+   ],
+   "convStampedAt": "2026-07-25"
   },
   {
    "name": "유일로보틱스",
@@ -12616,7 +12668,14 @@
    ],
    "theme": "로봇/휴머노이드",
    "status": "pending",
-   "checks": []
+   "checks": [],
+   "convScore": 4,
+   "convTier": "mid",
+   "convSignals": [
+    "승세테마",
+    "구체촉발재"
+   ],
+   "convStampedAt": "2026-07-25"
   },
   {
    "name": "이엠앤아이",
@@ -12629,7 +12688,14 @@
    ],
    "theme": "로봇/휴머노이드",
    "status": "pending",
-   "checks": []
+   "checks": [],
+   "convScore": 4,
+   "convTier": "mid",
+   "convSignals": [
+    "승세테마",
+    "구체촉발재"
+   ],
+   "convStampedAt": "2026-07-25"
   },
   {
    "name": "에이디테크놀로지(200710)",
@@ -13523,7 +13589,15 @@
      "date": "2026-07-24",
      "price": 17970
     }
-   ]
+   ],
+   "convScore": 7,
+   "convTier": "high",
+   "convSignals": [
+    "반복포착",
+    "승세테마",
+    "구체촉발재"
+   ],
+   "convStampedAt": "2026-07-25"
   },
   {
    "name": "칩스앤미디어(094360)",
@@ -13551,7 +13625,14 @@
      "date": "2026-07-24",
      "price": 10480
     }
-   ]
+   ],
+   "convScore": 5,
+   "convTier": "high",
+   "convSignals": [
+    "반복포착",
+    "승세테마"
+   ],
+   "convStampedAt": "2026-07-25"
   },
   {
    "name": "에이디테크놀로지(200710)",
@@ -13663,7 +13744,13 @@
      "date": "2026-07-24",
      "price": 8760
     }
-   ]
+   ],
+   "convScore": 2,
+   "convTier": "low",
+   "convSignals": [
+    "구체촉발재"
+   ],
+   "convStampedAt": "2026-07-25"
   },
   {
    "name": "아이엘(307180)",
@@ -13688,7 +13775,15 @@
      "date": "2026-07-24",
      "price": 4690
     }
-   ]
+   ],
+   "convScore": 7,
+   "convTier": "high",
+   "convSignals": [
+    "반복포착",
+    "승세테마",
+    "구체촉발재"
+   ],
+   "convStampedAt": "2026-07-25"
   },
   {
    "name": "에이치브이엠(295310)",
@@ -13712,7 +13807,13 @@
      "date": "2026-07-24",
      "price": 42450
     }
-   ]
+   ],
+   "convScore": 2,
+   "convTier": "low",
+   "convSignals": [
+    "구체촉발재"
+   ],
+   "convStampedAt": "2026-07-25"
   },
   {
    "name": "유일로보틱스(388720)",
@@ -13732,7 +13833,15 @@
      "date": "2026-07-24",
      "price": 65900
     }
-   ]
+   ],
+   "convScore": 1,
+   "convTier": "low",
+   "convSignals": [
+    "승세테마",
+    "구체촉발재",
+    "⚠️열세테마"
+   ],
+   "convStampedAt": "2026-07-25"
   },
   {
    "name": "유진로봇(056080)",
@@ -13752,7 +13861,14 @@
      "date": "2026-07-24",
      "price": 12900
     }
-   ]
+   ],
+   "convScore": 4,
+   "convTier": "mid",
+   "convSignals": [
+    "승세테마",
+    "구체촉발재"
+   ],
+   "convStampedAt": "2026-07-25"
   },
   {
    "name": "스트라드비젼(475040)",
@@ -13875,7 +13991,15 @@
      "date": "2026-07-24",
      "price": 795
     }
-   ]
+   ],
+   "convScore": 6,
+   "convTier": "high",
+   "convSignals": [
+    "승세테마",
+    "구체촉발재",
+    "틈새레이더"
+   ],
+   "convStampedAt": "2026-07-25"
   },
   {
    "name": "디와이씨(310870)",
@@ -13895,7 +14019,13 @@
      "date": "2026-07-24",
      "price": 1411
     }
-   ]
+   ],
+   "convScore": -3,
+   "convTier": "low",
+   "convSignals": [
+    "⚠️열세테마"
+   ],
+   "convStampedAt": "2026-07-25"
   },
   {
    "name": "삼성바이오로직스(207940)",
