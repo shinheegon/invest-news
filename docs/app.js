@@ -716,6 +716,18 @@ async function renderCrossValidation() {
     card('🔥 高수렴(신호 여럿)', ts.high, '#3fb950') +
     card('中수렴', ts.mid, '#f5a524') +
     card('低수렴(신호 1개↓)', ts.low, '#8b949e'));
+  // 전향적 추적(우리가 미리 찍은 예측의 실제 성적)
+  const pmeta = document.getElementById('crossProspective');
+  if (pmeta) {
+    const tp = cv.tierProspective || {}, tot = cv.prospectiveTotal || 0;
+    if (tot > 0) {
+      const h = tp.high || {}, m = tp.mid || {}, l = tp.low || {};
+      setHTML(pmeta, `🔮 <b>전향적 검증</b>(우리가 미리 찍은 예측의 실제 성적, ${tot}건): ` +
+        `高 <b class="delta-up">${h.hitRate ?? '—'}%</b>(n=${h.n || 0}) · 中 ${m.hitRate ?? '—'}%(n=${m.n || 0}) · 低 ${l.hitRate ?? '—'}%(n=${l.n || 0}) — 회귀 성적과 일치할수록 방법이 확실해짐`);
+    } else {
+      setHTML(pmeta, '🔮 <b>전향적 검증</b>: 오늘 찍은 高확률 예측들이 <b>3일 뒤부터</b> 실제로 맞았는지 채워집니다(진짜 폐루프).');
+    }
+  }
   const star = n => `<button class="star${isFav(n) ? ' on' : ''}" data-fav="${n}" title="관심 추가/해제">${isFav(n) ? '★' : '☆'}</button>`;
   const typeTag = t => t === 'leading' ? '🔮선행' : t === 'discovery' ? '🌱발굴' : t;
   const chip = s => { const bad = s.startsWith('⚠️'); return `<span class="flow-chip ${bad ? 'down' : 'up'}">${s}</span>`; };

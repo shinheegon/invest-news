@@ -1,6 +1,6 @@
 {
- "updatedAt": "2026-07-24T22:23:55+09:00",
- "note": "여러 독립 신호가 동시에 가리키는(수렴) 종목일수록 실측 적중률↑. tier별 적중률로 방법 자체를 검증. 투자권유 아님.",
+ "updatedAt": "2026-07-25T00:06:13+09:00",
+ "note": "여러 독립 신호가 동시에 가리키는(수렴) 종목일수록 실측 적중률↑. tierStats=과거전수(회귀), tierProspective=미리 찍은 예측만(전향). 투자권유 아님.",
  "baseHitRate": 18.4,
  "tierStats": {
   "high": {
@@ -19,6 +19,24 @@
    "hitRate": 16.5
   }
  },
+ "tierProspective": {
+  "high": {
+   "n": 0,
+   "hit": 0,
+   "hitRate": null
+  },
+  "mid": {
+   "n": 0,
+   "hit": 0,
+   "hitRate": null
+  },
+  "low": {
+   "n": 0,
+   "hit": 0,
+   "hitRate": null
+  }
+ },
+ "prospectiveTotal": 0,
  "weights": {
   "repeat": 3,
   "winTheme": 2,
