@@ -670,6 +670,12 @@
     },
     {
      "date": "2026-07-01",
+     "source": "한국경제",
+     "title": "- SK하이닉스(000660): 메모리 양대 축, 반도체 수출 사상 최고의 직접 수혜. 메가프로젝트 증권신고서 정정(투자위험 추가)은 확인 필요.",
+     "link": "https://www.hankyung.com/article/2026070183457"
+    },
+    {
+     "date": "2026-07-01",
      "source": "파이낸셜뉴스",
      "title": "'하닉고시' 말까지 나왔다…SK하이닉스 생산직 채용에 온라인 들썩",
      "link": "https://www.fnnews.com/news/202607010741542464"
@@ -705,22 +711,16 @@
      "link": "https://view.asiae.co.kr/article/2026070109005996390"
     },
     {
-     "date": "2026-07-01",
+     "date": "2026-06-30",
      "source": "한국경제",
-     "title": "- SK하이닉스(000660): 메모리 양대 축, 반도체 수출 사상 최고의 직접 수혜. 메가프로젝트 증권신고서 정정(투자위험 추가)은 확인 필요.",
-     "link": "https://www.hankyung.com/article/2026070183457"
+     "title": "- SK하이닉스(000660): +0.8% 마감. 신한 \"美 증시 진출로 메모리 대장주 지위 재부각\", SKT가 美 AI 투자법인 지분 4,000억 취득.",
+     "link": "https://www.hankyung.com/article/2026063056766"
     },
     {
      "date": "2026-06-30",
      "source": "연합뉴스",
      "title": "- SK하이닉스(000660): SK 2,100조 AI·반도체 베팅 핵심. 마이크론 'AI 파티 계속'·HBM 호황 지속 코멘트가 우호.",
      "link": "https://www.yna.co.kr/view/AKR20260629139400003"
-    },
-    {
-     "date": "2026-06-30",
-     "source": "한국경제",
-     "title": "- SK하이닉스(000660): +0.8% 마감. 신한 \"美 증시 진출로 메모리 대장주 지위 재부각\", SKT가 美 AI 투자법인 지분 4,000억 취득.",
-     "link": "https://www.hankyung.com/article/2026063056766"
     }
    ]
   },
@@ -749,6 +749,12 @@
      "source": "연합뉴스·경제",
      "title": "[특징주] 삼성전자·SK하이닉스, 장 초반 4∼5% 하락",
      "link": "https://www.yna.co.kr/view/AKR20260724046100008"
+    },
+    {
+     "date": "2026-07-24",
+     "source": "뉴시스·경제",
+     "title": "\"삼성전자 땡큐\"…머스크, 실적발표서 깜짝 발언, 무슨 일?",
+     "link": "https://www.newsis.com/view/NISX20260724_0003721625"
     },
     {
      "date": "2026-07-24",
@@ -1439,12 +1445,6 @@
      "source": "연합뉴스",
      "title": "- 삼성전자(005930): 6/30 3%대 급반등 마감, 지수 견인. 메모리 슈퍼사이클·800조 메가프로젝트 이중 수혜선.",
      "link": "https://www.yna.co.kr/view/AKR20260630040451008"
-    },
-    {
-     "date": "2026-06-29",
-     "source": "한국경제",
-     "title": "- 삼성전자(005930): 오늘 1000조 청사진의 주역. 호남 반도체 클러스터+AI데이터센터·2차전지·디스플레이 사업부별 중장기 투자 합산. 단 전력·용수(초",
-     "link": "https://www.hankyung.com/article/2026062821317"
     }
    ]
   },
@@ -1461,6 +1461,18 @@
      "source": "한국경제·증권",
      "title": "삼성·현대차 담은 '피지컬AI 액티브' 나온다…로봇 ETF 경쟁 격화",
      "link": "https://www.hankyung.com/article/202607244282i"
+    },
+    {
+     "date": "2026-07-24",
+     "source": "파이낸셜·증권",
+     "title": "대신證 \"현대차, 2분기 실적 바닥 확인…하반기 신차·관세 기저에 반등 기대\"",
+     "link": "https://www.fnnews.com/news/202607240808303974"
+    },
+    {
+     "date": "2026-07-24",
+     "source": "연합인포맥스",
+     "title": "현대차·기아, 매출 신기록에도 왜 기대치 미달했나",
+     "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4426740"
     },
     {
      "date": "2026-07-24",
@@ -2444,6 +2456,18 @@
     },
     {
      "date": "2026-07-24",
+     "source": "연합인포맥스",
+     "title": "현대차·기아, 매출 신기록에도 왜 기대치 미달했나",
+     "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4426740"
+    },
+    {
+     "date": "2026-07-24",
+     "source": "연합인포맥스",
+     "title": "기아 &quot;유럽서 수익성 양보해 中 전기차 대응&quot;…주가 13%↓(종합)",
+     "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4426735"
+    },
+    {
+     "date": "2026-07-24",
      "source": "연합뉴스·경제",
      "title": "[전남광주소식] 기아 오토랜드광주, 취약계층에 냉방물품 후원",
      "link": "https://www.yna.co.kr/view/AKR20260724077100054"
@@ -2649,6 +2673,12 @@
   "삼성전기(009150)": {
    "articles": [
     {
+     "date": "2026-07-24",
+     "source": "파이낸셜·증권",
+     "title": "\"올해 주가 5배 뛴 삼성전기, 300만원까지 더 오를 것\"…\"LS일렉트릭, 역대 최대 실적\" [株토피아]",
+     "link": "https://www.fnnews.com/news/202607241044154380"
+    },
+    {
      "date": "2026-07-23",
      "source": "한국경제·경제",
      "title": "삼성전기, AI서버 MLCC 잇단 수주",
@@ -2843,6 +2873,12 @@
      "source": "한국경제·경제",
      "title": "엔비디아, 서울대·카이스트에 아시아 첫 'AI 연구거점' [퇴근길 30초 경제]",
      "link": "https://www.hankyung.com/article/202607244951H"
+    },
+    {
+     "date": "2026-07-24",
+     "source": "이데일리·증권",
+     "title": "K-기업 총수들, 엔비디아 CEO와 미국서 회동… 반도체 피크아웃 우려 씻어낼까",
+     "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=33898806645517800"
     },
     {
      "date": "2026-07-22",
@@ -3083,6 +3119,12 @@
      "link": "https://www.hankyung.com/article/2026072449681"
     },
     {
+     "date": "2026-07-24",
+     "source": "뉴시스·경제",
+     "title": "인텔, 15년 만 최대 매출 증가세…시간 외 거래서 한때 11% 급등",
+     "link": "https://www.newsis.com/view/NISX20260724_0003721297"
+    },
+    {
      "date": "2026-07-14",
      "source": "한국경제·경제",
      "title": "인텔, 아일랜드 반도체 공장에 50억유로 투자…유럽 생산 확대",
@@ -3257,6 +3299,12 @@
      "source": "이데일리·경제",
      "title": "특금법 대주주 규제, 원안대로 규제 심사대…네이버·두나무 '빅딜' 영향은",
      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=02830646645517800"
+    },
+    {
+     "date": "2026-07-24",
+     "source": "연합인포맥스",
+     "title": "네이버·두나무 합병 걸림돌 걷어냈다…특금법 시행령 '개선 권고'",
+     "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4426760"
     },
     {
      "date": "2026-07-24",
@@ -3952,6 +4000,12 @@
   },
   "메타(META)": {
    "articles": [
+    {
+     "date": "2026-07-24",
+     "source": "뉴시스·경제",
+     "title": "AI 투자에 '리스크 프리미엄' 붙는다…메타, 웃돈 내고 자금 조달",
+     "link": "https://www.newsis.com/view/NISX20260724_0003722241"
+    },
     {
      "date": "2026-07-14",
      "source": "한국경제·경제",
@@ -6707,6 +6761,18 @@
   "덕산넵코어스(360030)": {
    "articles": [
     {
+     "date": "2026-07-24",
+     "source": "이데일리·증권",
+     "title": "덕산넵코어스, 증권신고서 제출…코스닥 상장 본격 추진",
+     "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=04349286645517800"
+    },
+    {
+     "date": "2026-07-24",
+     "source": "연합인포맥스",
+     "title": "'중복상장 예외 1호' 덕산넵코어스, 증권신고서 제출…향후 관전 포인트는",
+     "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4426739"
+    },
+    {
      "date": "2026-07-21",
      "source": "한국경제·증권",
      "title": "덕산넵코어스·디티에스, 상장 예비심사 통과",
@@ -6789,6 +6855,12 @@
      "source": "연합뉴스·경제",
      "title": "[게시판] 현대건설, 건설 실무과정 교육생 모집…전기·안전 등 9개 과정",
      "link": "https://www.yna.co.kr/view/AKR20260724059900003"
+    },
+    {
+     "date": "2026-07-24",
+     "source": "뉴시스·경제",
+     "title": "현대건설, 9개 과정 기술교육생 모집…AI 교육도 도입",
+     "link": "https://www.newsis.com/view/NISX20260724_0003721807"
     },
     {
      "date": "2026-07-14",
@@ -7823,6 +7895,12 @@
   "셀트리온(068270)": {
    "articles": [
     {
+     "date": "2026-07-24",
+     "source": "이데일리·증권",
+     "title": "셀트리온, 코센틱스 바이오시밀러 ‘CT-P55’ 유럽 품목허가 신청",
+     "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=03775286645517800"
+    },
+    {
      "date": "2026-07-15",
      "source": "아시아경제",
      "title": "셀트리온, 트렘피어 바이오시밀러 1상 국내 IND 승인",
@@ -7950,9 +8028,21 @@
     },
     {
      "date": "2026-07-24",
+     "source": "파이낸셜·증권",
+     "title": "신한투자증권, '쏠 링크 이벤트' 1호 당첨자에게 테슬라 모델Y 전달",
+     "link": "https://www.fnnews.com/news/202607241215256331"
+    },
+    {
+     "date": "2026-07-24",
      "source": "아시아경제",
      "title": "아이씨에이치, 테슬라 '옵티머스' 로봇용 소재 퀄 테스트 완료…양산 공급 확정",
      "link": "https://view.asiae.co.kr/article/2026072414312151532"
+    },
+    {
+     "date": "2026-07-24",
+     "source": "뉴시스·경제",
+     "title": "머스크 신화 흔들리나…테슬라·스페이스X 동반 급락",
+     "link": "https://www.newsis.com/view/NISX20260724_0003721701"
     },
     {
      "date": "2026-07-23",
@@ -8141,6 +8231,12 @@
      "source": "이데일리·경제",
      "title": "특금법 대주주 규제, 원안대로 규제 심사대…네이버·두나무 '빅딜' 영향은",
      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=02830646645517800"
+    },
+    {
+     "date": "2026-07-24",
+     "source": "연합인포맥스",
+     "title": "네이버·두나무 합병 걸림돌 걷어냈다…특금법 시행령 '개선 권고'",
+     "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4426760"
     },
     {
      "date": "2026-07-24",
@@ -10140,6 +10236,12 @@
     },
     {
      "date": "2026-07-24",
+     "source": "이데일리·증권",
+     "title": "\"AI 인프라 잡아라\"… 알파벳 투자 증액 소식에 전력망 관련주 주목",
+     "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=33911926645517800"
+    },
+    {
+     "date": "2026-07-24",
      "source": "아시아경제",
      "title": "알파벳이 쏘아올린 공…코스피 3%대 상승세",
      "link": "https://view.asiae.co.kr/article/2026072309515865587"
@@ -10614,6 +10716,12 @@
    "articles": [
     {
      "date": "2026-07-24",
+     "source": "파이낸셜·증권",
+     "title": "갤럭시아머니트리, 400만 '머니트리'에 GXA 심는다…디지털자산 실사용 확대",
+     "link": "https://www.fnnews.com/news/202607241018420887"
+    },
+    {
+     "date": "2026-07-24",
      "source": "아시아경제",
      "title": "갤럭시아머니트리, 서클 '커런트 서울' 참가",
      "link": "https://view.asiae.co.kr/article/2026072308274446458"
@@ -10745,6 +10853,12 @@
      "source": "연합뉴스·경제",
      "title": "GS건설, 분양부터 입주까지 전자계약…목동윤슬자이 첫 적용",
      "link": "https://www.yna.co.kr/view/AKR20260724049400003"
+    },
+    {
+     "date": "2026-07-24",
+     "source": "뉴시스·경제",
+     "title": "GS건설, 계약부터 입주까지 디지털화…전자계약 시스템 도입",
+     "link": "https://www.newsis.com/view/NISX20260724_0003721609"
     },
     {
      "date": "2026-07-15",
@@ -10985,6 +11099,12 @@
      "link": "https://www.hankyung.com/article/202607244108i"
     },
     {
+     "date": "2026-07-24",
+     "source": "파이낸셜·증권",
+     "title": "\"올해 주가 5배 뛴 삼성전기, 300만원까지 더 오를 것\"…\"LS일렉트릭, 역대 최대 실적\" [株토피아]",
+     "link": "https://www.fnnews.com/news/202607241044154380"
+    },
+    {
      "date": "2026-07-23",
      "source": "한국경제·증권",
      "title": "조정끝났나…LS일렉트릭·HD현대일렉트릭·효성중공업 동반 급등",
@@ -11124,6 +11244,12 @@
   },
   "우리투자증권": {
    "articles": [
+    {
+     "date": "2026-07-24",
+     "source": "연합인포맥스",
+     "title": "우리투자증권, 상반기 순익 247억원…수익 기반 강화에 47.1%↑",
+     "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4426738"
+    },
     {
      "date": "2026-07-21",
      "source": "아시아경제",
@@ -11501,6 +11627,12 @@
      "link": "https://www.hankyung.com/article/2026072325791"
     },
     {
+     "date": "2026-07-24",
+     "source": "이데일리·증권",
+     "title": "NH투자증권, 운용·자문사 CEO와 간담회…WM 협업 강화",
+     "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=03906486645517800"
+    },
+    {
      "date": "2026-07-23",
      "source": "한국경제·증권",
      "title": "증시 활황에…NH투자증권, 2분기 순이익 4894억원 '역대 최대'",
@@ -11715,6 +11847,12 @@
      "link": "https://www.hankyung.com/article/2026072449761"
     },
     {
+     "date": "2026-07-24",
+     "source": "한국경제·경제",
+     "title": "[단독] \"中 BYD가 이렇게 많았나\"…한국 공습에 '초비상'",
+     "link": "https://www.hankyung.com/article/2026072449501"
+    },
+    {
      "date": "2026-07-10",
      "source": "한국경제·경제",
      "title": "테슬라·BYD 돌풍에 신차 4대중 1대 수입차",
@@ -11730,6 +11868,18 @@
   },
   "삼천당제약(000250)": {
    "articles": [
+    {
+     "date": "2026-07-24",
+     "source": "파이낸셜·증권",
+     "title": "삼천당제약, 경구 인슐린 임상 순항…S-PASS 첫 검증 '눈앞'",
+     "link": "https://www.fnnews.com/news/202607241346390634"
+    },
+    {
+     "date": "2026-07-24",
+     "source": "이데일리·증권",
+     "title": "삼천당제약, 전체 환자 3분의 1 경구용 인슐린 투약 완료",
+     "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=03988486645517800"
+    },
     {
      "date": "2026-07-22",
      "source": "아시아경제",
@@ -11910,6 +12060,12 @@
   },
   "SK이터닉스(475150)": {
    "articles": [
+    {
+     "date": "2026-07-24",
+     "source": "파이낸셜·증권",
+     "title": "\"하이닉스 290만→190만원됐는데\"...하락장에서 주가 2배 뛴 SK이터닉스",
+     "link": "https://www.fnnews.com/news/202607231636425536"
+    },
     {
      "date": "2026-07-20",
      "source": "연합뉴스·경제",
@@ -12333,6 +12489,12 @@
      "link": "https://www.yna.co.kr/view/AKR20260724061400003"
     },
     {
+     "date": "2026-07-24",
+     "source": "뉴시스·경제",
+     "title": "대우건설, KINX와 협력…\"데이터센터 통합 디벨로퍼 도약\"",
+     "link": "https://www.newsis.com/view/NISX20260724_0003721654"
+    },
+    {
      "date": "2026-07-23",
      "source": "아시아경제",
      "title": "\"대우건설 2Q 실적 양호…주가에 필요한 건 원전\"[클릭 e종목]",
@@ -12489,6 +12651,36 @@
      "source": "아시아경제",
      "title": "빗썸, 초고령층 대상 '영상통화 확인' 도입",
      "link": "https://view.asiae.co.kr/article/2026072308191592761"
+    },
+    {
+     "date": "2026-07-24",
+     "source": "뉴시스·경제",
+     "title": "축평원, 농협사료 실무자 대상으로 한우 경매·유통 교육",
+     "link": "https://www.newsis.com/view/NISX20260724_0003722295"
+    },
+    {
+     "date": "2026-07-24",
+     "source": "뉴시스·경제",
+     "title": "식품진흥원, 도내 교사들 대상 ESG·푸드테크 교육 운영",
+     "link": "https://www.newsis.com/view/NISX20260724_0003722308"
+    },
+    {
+     "date": "2026-07-24",
+     "source": "뉴시스·경제",
+     "title": "부영그룹 '놀이의 힘' 주제 어린이집 학부모 대상 온라인 교육",
+     "link": "https://www.newsis.com/view/NISX20260724_0003721948"
+    },
+    {
+     "date": "2026-07-24",
+     "source": "뉴시스·경제",
+     "title": "농어촌공사, 과테말라 산림공무원 대상 연수 마무리",
+     "link": "https://www.newsis.com/view/NISX20260724_0003721579"
+    },
+    {
+     "date": "2026-07-24",
+     "source": "뉴시스·경제",
+     "title": "'2026년 첨단산업 표준화 경진대회'서 국민대 팀 대상",
+     "link": "https://www.newsis.com/view/NISX20260724_0003722701"
     },
     {
      "date": "2026-07-23",
@@ -13068,6 +13260,12 @@
   },
   "동국제강(460860)": {
    "articles": [
+    {
+     "date": "2026-07-24",
+     "source": "연합인포맥스",
+     "title": "동국제강, 2분기 활짝 웃었다…영업익 52% 뛴 456억",
+     "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4426723"
+    },
     {
      "date": "2026-07-07",
      "source": "한국경제·경제",
@@ -13868,6 +14066,24 @@
    "articles": [
     {
      "date": "2026-07-24",
+     "source": "파이낸셜·증권",
+     "title": "노머스, 400억 CB 발행...'40% 할증·무이자·리픽싱 없음' [공시록]",
+     "link": "https://www.fnnews.com/news/202607241340198435"
+    },
+    {
+     "date": "2026-07-24",
+     "source": "이데일리·증권",
+     "title": "노머스, 400억 규모 전환사채권 발행 결정",
+     "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=04132806645517800"
+    },
+    {
+     "date": "2026-07-24",
+     "source": "이데일리·증권",
+     "title": "노머스, 400억 규모 CB 발행 통한 투자 유치 완료",
+     "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=04080326645517800"
+    },
+    {
+     "date": "2026-07-24",
      "source": "아시아경제",
      "title": "노머스, '40% 할증·리픽싱 X' 400억원 투자 유치",
      "link": "https://view.asiae.co.kr/article/2026072413442205663"
@@ -14204,9 +14420,21 @@
     },
     {
      "date": "2026-07-24",
+     "source": "연합인포맥스",
+     "title": "정부, 홈플러스 피해지원 점검…근로자 상담 1천935건 접수",
+     "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4426741"
+    },
+    {
+     "date": "2026-07-24",
      "source": "연합뉴스·경제",
      "title": "홈플러스 회생 폐지 이후 23일까지 1천935건 노동상담 접수",
      "link": "https://www.yna.co.kr/view/AKR20260724137900002"
+    },
+    {
+     "date": "2026-07-24",
+     "source": "뉴시스·경제",
+     "title": "홈플러스 협력사 대출 5.2조 만기연장…근로자 상담 1935건",
+     "link": "https://www.newsis.com/view/NISX20260724_0003722488"
     },
     {
      "date": "2026-07-23",
@@ -14777,6 +15005,12 @@
   "오라클(ORCL)": {
    "articles": [
     {
+     "date": "2026-07-24",
+     "source": "뉴시스·경제",
+     "title": "오라클, 美국방부와 최장 10년 SW 공급 계약…\"부처별 계약 단일화\"",
+     "link": "https://www.newsis.com/view/NISX20260724_0003721941"
+    },
+    {
      "date": "2026-07-13",
      "source": "아시아경제",
      "title": "스카이인텔리전스, 기업가치 1000억 인정…오라클-벡터지역혁신벤처펀드 투자 유치",
@@ -15092,6 +15326,12 @@
   },
   "삼성중공업(010140)": {
    "articles": [
+    {
+     "date": "2026-07-24",
+     "source": "연합인포맥스",
+     "title": "삼성중공업, LNG·탱커선 수요 계속…&quot;매출 목표 12.8조 달성 무난&quot;",
+     "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4426737"
+    },
     {
      "date": "2026-07-22",
      "source": "연합뉴스·경제",
@@ -15645,6 +15885,12 @@
   "클래시스(214150)": {
    "articles": [
     {
+     "date": "2026-07-24",
+     "source": "이데일리·증권",
+     "title": "거래소, 클래시스 불성실공시법인 지정 예고",
+     "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=04985606645517800"
+    },
+    {
      "date": "2026-07-23",
      "source": "아시아경제",
      "title": "[클릭 e종목]\"클래시스, 단기 눈높이 재조정 필요…목표가↓\"",
@@ -15937,7 +16183,17 @@
      "link": "https://view.asiae.co.kr/article/2026072308004975374"
     }
    ]
+  },
+  "기가비스(420770)": {
+   "articles": [
+    {
+     "date": "2026-07-24",
+     "source": "이데일리·증권",
+     "title": "기가비스, 223억 규모 공급계약 체결",
+     "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=04523126645517800"
+    }
+   ]
   }
  },
- "updatedAt": "2026-07-24T21:46:21+09:00"
+ "updatedAt": "2026-07-24T22:23:33+09:00"
 }

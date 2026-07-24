@@ -1,0 +1,280 @@
+{
+ "updatedAt": "2026-07-24T22:23:55+09:00",
+ "note": "여러 독립 신호가 동시에 가리키는(수렴) 종목일수록 실측 적중률↑. tier별 적중률로 방법 자체를 검증. 투자권유 아님.",
+ "baseHitRate": 18.4,
+ "tierStats": {
+  "high": {
+   "n": 8,
+   "hit": 4,
+   "hitRate": 50.0
+  },
+  "mid": {
+   "n": 31,
+   "hit": 5,
+   "hitRate": 16.1
+  },
+  "low": {
+   "n": 97,
+   "hit": 16,
+   "hitRate": 16.5
+  }
+ },
+ "weights": {
+  "repeat": 3,
+  "winTheme": 2,
+  "concrete": 2,
+  "niche": 2,
+  "weak": -2,
+  "loseTheme": -3
+ },
+ "topCandidates": [
+  {
+   "name": "파두(440110)",
+   "type": "leading",
+   "theme": "AI반도체설계(팹리스/IP)",
+   "score": 7,
+   "count": 15,
+   "signals": [
+    "반복포착",
+    "승세테마",
+    "구체촉발재"
+   ],
+   "convergence": 3
+  },
+  {
+   "name": "자람테크놀로지(389020)",
+   "type": "leading",
+   "theme": "AI반도체설계(팹리스/IP)",
+   "score": 7,
+   "count": 14,
+   "signals": [
+    "반복포착",
+    "승세테마",
+    "구체촉발재"
+   ],
+   "convergence": 3
+  },
+  {
+   "name": "대동기어(008830)",
+   "type": "discovery",
+   "theme": "로봇/휴머노이드",
+   "score": 7,
+   "count": 11,
+   "signals": [
+    "반복포착",
+    "승세테마",
+    "구체촉발재"
+   ],
+   "convergence": 3
+  },
+  {
+   "name": "세미파이브(490470)",
+   "type": "discovery",
+   "theme": "AI반도체설계(팹리스/IP)",
+   "score": 7,
+   "count": 11,
+   "signals": [
+    "반복포착",
+    "승세테마",
+    "구체촉발재"
+   ],
+   "convergence": 3
+  },
+  {
+   "name": "한국피아이엠(448970)",
+   "type": "leading",
+   "theme": "로봇/휴머노이드",
+   "score": 7,
+   "count": 10,
+   "signals": [
+    "반복포착",
+    "승세테마",
+    "구체촉발재"
+   ],
+   "convergence": 3
+  },
+  {
+   "name": "씨메스로보틱스(475400)",
+   "type": "leading",
+   "theme": "로봇/휴머노이드",
+   "score": 7,
+   "count": 9,
+   "signals": [
+    "반복포착",
+    "승세테마",
+    "구체촉발재"
+   ],
+   "convergence": 3
+  },
+  {
+   "name": "에이디테크놀로지(200710)",
+   "type": "discovery",
+   "theme": "AI반도체설계(팹리스/IP)",
+   "score": 7,
+   "count": 9,
+   "signals": [
+    "반복포착",
+    "승세테마",
+    "구체촉발재"
+   ],
+   "convergence": 3
+  },
+  {
+   "name": "가온칩스(399720)",
+   "type": "discovery",
+   "theme": "AI반도체설계(팹리스/IP)",
+   "score": 7,
+   "count": 7,
+   "signals": [
+    "반복포착",
+    "승세테마",
+    "구체촉발재"
+   ],
+   "convergence": 3
+  },
+  {
+   "name": "아이엘(307180)",
+   "type": "leading",
+   "theme": "로봇/휴머노이드",
+   "score": 7,
+   "count": 3,
+   "signals": [
+    "반복포착",
+    "승세테마",
+    "구체촉발재"
+   ],
+   "convergence": 3
+  },
+  {
+   "name": "아이씨에이치(368600)",
+   "type": "leading",
+   "theme": "로봇/휴머노이드",
+   "score": 6,
+   "count": 1,
+   "signals": [
+    "승세테마",
+    "구체촉발재",
+    "틈새레이더"
+   ],
+   "convergence": 3
+  },
+  {
+   "name": "칩스앤미디어(094360)",
+   "type": "leading",
+   "theme": "AI반도체설계(팹리스/IP)",
+   "score": 5,
+   "count": 17,
+   "signals": [
+    "반복포착",
+    "승세테마"
+   ],
+   "convergence": 2
+  },
+  {
+   "name": "우림피티에스(101170)",
+   "type": "leading",
+   "theme": "로봇/휴머노이드",
+   "score": 5,
+   "count": 9,
+   "signals": [
+    "반복포착",
+    "승세테마"
+   ],
+   "convergence": 2
+  },
+  {
+   "name": "다이나믹솔루션(070120)",
+   "type": "discovery",
+   "theme": "휴머노이드(로봇손)",
+   "score": 5,
+   "count": 6,
+   "signals": [
+    "반복포착",
+    "승세테마"
+   ],
+   "convergence": 2
+  },
+  {
+   "name": "유일로보틱스",
+   "type": "leading",
+   "theme": "로봇/휴머노이드",
+   "score": 4,
+   "count": 2,
+   "signals": [
+    "승세테마",
+    "구체촉발재"
+   ],
+   "convergence": 2
+  },
+  {
+   "name": "유진로봇(056080)",
+   "type": "leading",
+   "theme": "로봇/휴머노이드",
+   "score": 4,
+   "count": 2,
+   "signals": [
+    "승세테마",
+    "구체촉발재"
+   ],
+   "convergence": 2
+  },
+  {
+   "name": "이엠앤아이",
+   "type": "leading",
+   "theme": "로봇/휴머노이드",
+   "score": 4,
+   "count": 1,
+   "signals": [
+    "승세테마",
+    "구체촉발재"
+   ],
+   "convergence": 2
+  },
+  {
+   "name": "본시스템즈",
+   "type": "discovery",
+   "theme": "로봇/휴머노이드",
+   "score": 4,
+   "count": 0,
+   "signals": [
+    "승세테마",
+    "구체촉발재"
+   ],
+   "convergence": 2
+  },
+  {
+   "name": "세미파이브(373170)",
+   "type": "discovery",
+   "theme": "AI반도체설계(팹리스/IP)",
+   "score": 4,
+   "count": 0,
+   "signals": [
+    "승세테마",
+    "구체촉발재"
+   ],
+   "convergence": 2
+  },
+  {
+   "name": "글로벌텍스프리(204620)",
+   "type": "discovery",
+   "theme": "여행/소비회복",
+   "score": 3,
+   "count": 0,
+   "signals": [
+    "반복포착"
+   ],
+   "convergence": 1
+  },
+  {
+   "name": "비츠로넥스텍(488900)",
+   "type": "discovery",
+   "theme": "우주/방산",
+   "score": 2,
+   "count": 1,
+   "signals": [
+    "구체촉발재"
+   ],
+   "convergence": 1
+  }
+ ]
+}
