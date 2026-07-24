@@ -193,8 +193,10 @@ WebSearch/WebFetch로 아래를 최신값으로 확보(각 항목 출처 URL 필
 - 매칭된 패턴마다: **과거 사례(precedent) → 그때 결과(outcome) → 이번엔 무엇이 유리(favors)/불리(avoids)** 를 근거와 함께 기술.
 
 **(C) 함의 → 발굴/선행에 반영**: 매칭된 패턴의 `favors`는 2.8/2.85에서 **가점**, `avoids`는 **감점/제외**.
-(예: 'crash-v-rotation'이 켜지면 승세테마 소형주 우대·급락 주도 대형주 추격 금지. 'theme-first-only'는 항상 회피.)
-`confidence` 높은 패턴을 더 신뢰한다.
+- ⭐ **`validated:true`(자동검증에서 기준선 +10%p↑ 엣지 입증) 패턴만 강하게 신뢰**한다. 실측상 지금
+  검증된 건 **'theme-first-only(약신호 회피)'**뿐 — 이건 반드시 적용(구체재료 없는 종목 제외).
+- `method:"auto"`인데 `validated:false`(엣지 미미) 패턴은 **가설로만** 참고(약한 가점, 맹신 금지).
+- `method:"seed"`(이벤트성·표본부족 미검증)는 방향 참고만. **confidence보다 `edge`를 본다**(기준선 대비 초과분).
 
 **(D) 학습(자기갱신)**: 오늘 **새로운 반복 패턴을 발견하면** `patterns[]`에 추가한다(id·name·trigger·precedent·
 outcome·favors·avoids·timeframe·observed:1·hit:null·confidence:null). 기존 패턴이 오늘 또 관찰되면 해당

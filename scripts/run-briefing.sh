@@ -192,6 +192,7 @@ python3 "$PROJECT_DIR/scripts/watch-priority.py" >> "$LOG" 2>&1 || \
 # --- 빗나감 원인분석 엔진(자기발전 필터 + 거시국면) ---
 python3 "$PROJECT_DIR/scripts/miss-analysis.py" >> "$LOG" 2>&1 || \
   echo "[$(ts)] WARN miss-analysis failed" >> "$LOG"
+python3 "$PROJECT_DIR/scripts/verify-patterns.py" >> "$LOG" 2>&1 || echo "[$(ts)] WARN verify-patterns failed" >> "$LOG"
 
 # --- AI 밸류체인 관찰 그룹(시세·모멘텀 갱신) ---
 python3 "$PROJECT_DIR/scripts/ai-group.py" >> "$LOG" 2>&1 || \

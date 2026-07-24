@@ -578,12 +578,19 @@ async function loadHistoryTab() {
   const pat = await getJSON(`${DATA}/macro-patterns.json`);
   const t = document.getElementById('patternTable');
   if (t && pat && pat.patterns) {
-    const conf = c => c == null ? '<span class="muted">미검증</span>' : `<b class="${c >= 0.6 ? 'delta-up' : c <= 0.3 ? 'delta-down' : ''}">${Math.round(c * 100)}%</b>`;
-    const sorted = pat.patterns.slice().sort((a, b) => (b.confidence ?? -1) - (a.confidence ?? -1));
-    setHTML(t, '<thead><tr><th>패턴</th><th>트리거</th><th>과거 사례 → 결과</th><th>관찰</th><th>신뢰도</th></tr></thead><tbody>' +
-      sorted.map(p => `<tr><td><b>${p.name}</b></td><td class="muted">${p.trigger}</td>` +
+    const edgeCell = p => {
+      if (p.method !== 'auto') return '<span class="muted">seed(미검증)</span>';
+      const e = p.edge ?? 0;
+      const badge = p.validated ? '✅' : '▫';
+      return `${badge} <b class="${e >= 0.1 ? 'delta-up' : e < 0 ? 'delta-down' : ''}">${e >= 0 ? '+' : ''}${Math.round(e * 100)}%p</b>` +
+        `<div class="muted" style="font-size:.75rem">신뢰 ${Math.round((p.confidence ?? 0) * 100)}% vs 기준 ${Math.round((p.baseRate ?? 0) * 100)}%</div>`;
+    };
+    const rank = p => p.method === 'auto' ? (p.edge ?? -9) : -99;
+    const sorted = pat.patterns.slice().sort((a, b) => rank(b) - rank(a));
+    setHTML(t, '<thead><tr><th>패턴</th><th>트리거</th><th>과거 사례 → 결과</th><th>표본</th><th>검증 엣지</th></tr></thead><tbody>' +
+      sorted.map(p => `<tr class="${p.validated ? 'watch-hot' : ''}"><td><b>${p.name}</b></td><td class="muted">${p.trigger}</td>` +
         `<td class="niche-samps"><div class="niche-samp">${p.precedent}</div><div class="niche-samp muted">→ ${p.outcome}</div></td>` +
-        `<td>${p.observed || 0}회</td><td>${conf(p.confidence)}</td></tr>`).join('') + '</tbody>');
+        `<td>${p.method === 'auto' ? p.observed + '건' : (p.observed || 0) + '회'}</td><td>${edgeCell(p)}</td></tr>`).join('') + '</tbody>');
   }
 }
 async function loadNicheRadar() {
