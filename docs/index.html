@@ -19,6 +19,7 @@
     <button class="tab active" data-tab="latest">🗞️ 최신 브리핑</button>
     <button class="tab" data-tab="market">📉 투자지표</button>
     <button class="tab" data-tab="analysis">🧠 분석·전망</button>
+    <button class="tab" data-tab="history">🔁 역사의 반복</button>
     <button class="tab" data-tab="discovery">🌱 성장기업 발굴</button>
     <button class="tab" data-tab="niche">📡 틈새 레이더</button>
     <button class="tab" data-tab="aigroup">🤖 AI 그룹</button>
@@ -75,6 +76,17 @@
     <!-- 분석·전망 -->
     <section id="tab-analysis" class="panel">
       <article id="analysisBody" class="md">불러오는 중…</article>
+    </section>
+
+    <!-- 역사의 반복 -->
+    <section id="tab-history" class="panel">
+      <h2>🔁 역사의 반복 <span class="muted">(거시 상황을 과거 사례와 대조해 확률을 높인다)</span></h2>
+      <p class="muted">단순 키워드가 아니라 <b>기사 내용 + 거시 상황을 과거 반복 패턴과 매칭</b>합니다. "지금이 과거 어떤 국면과 닮았나"를 알면 무엇이 유리/불리한지 근거가 생깁니다. 각 패턴의 적중이력(신뢰도)은 검증으로 쌓입니다. 투자권유 아님.</p>
+      <div id="macroCtx" class="macro-box"></div>
+      <h3 style="margin-top:18px">🔁 오늘 매칭된 역사 반복 신호</h3>
+      <article id="macroAnalogBody" class="md">거시·뉴스가 쌓이면 오늘 상황과 닮은 과거 패턴이 매칭됩니다.</article>
+      <h3 style="margin-top:22px">📚 패턴 사례집 <span class="muted">(검증으로 신뢰도 자기갱신)</span></h3>
+      <div class="table-scroll"><table id="patternTable" class="freq"></table></div>
     </section>
 
     <!-- 성장기업 발굴 -->

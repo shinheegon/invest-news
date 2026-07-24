@@ -28,6 +28,7 @@ echo "[$(TZ=Asia/Seoul date '+%F %T')] CI START session=$SESSION date=$DATE coun
 python3 "$PROJECT_DIR/scripts/collect-news.py" 2>&1 | tee -a "$LOG" || true
 python3 "$PROJECT_DIR/scripts/build-krx-dict.py" 2>&1 | tee -a "$LOG" || true
 python3 "$PROJECT_DIR/scripts/niche-radar.py" 2>&1 | tee -a "$LOG" || true
+python3 "$PROJECT_DIR/scripts/macro-context.py" 2>&1 | tee -a "$LOG" || true
 
 # --- 브리핑 생성 (Claude Code 헤드리스, CLAUDE_CODE_OAUTH_TOKEN 사용) ---
 claude -p "$(cat "$PROJECT_DIR/prompt/briefing-prompt.md")" \
