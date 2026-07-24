@@ -53,8 +53,8 @@ def crash_days(mh):
     return out
 
 
-def near_crash(flag, crashes, win=4):
-    """flagDate가 급락일 당일~win일 이내(급락 직후 포착)인가."""
+def near_crash(flag, crashes, lo=0, win=4):
+    """flagDate가 급락일 +lo~+win일 이내(급락 직후 포착창)인가."""
     try:
         fd = datetime.strptime(flag, "%Y-%m-%d").date()
     except Exception:
@@ -62,25 +62,43 @@ def near_crash(flag, crashes, win=4):
     for cd in crashes:
         try:
             d = (fd - datetime.strptime(cd, "%Y-%m-%d").date()).days
-            if 0 <= d <= win:
+            if lo <= d <= win:
                 return True
         except Exception:
             pass
     return False
 
 
-# 패턴별 (매처, 방향) — FAVOR: 적중이 성공 / AVOID: 빗나감이 성공(회피 정당)
+def theme_base(resolved, themes):
+    """특정 테마 케이스들의 적중률(로테이션 기준선)."""
+    sub = [c for c in resolved if has(c, themes)]
+    if not sub:
+        return None
+    return round(sum(1 for c in sub if c.get("finalVerdict") == "적중") / len(sub), 2)
+
+
+SEMI = ("반도체", "소재", "장비", "소부장", "hbm", "도금", "기판", "후공정", "본딩")
+
+# 패턴별 (매처, 방향, base override) — FAVOR: 적중이 성공 / AVOID: 빗나감이 성공(회피 정당)
+# base_kind: "hit"(전체 적중률)·"miss"(전체 빗나감률)·("theme", themes)=특정 테마 적중률을 기준선으로
 def build_matchers(crashes):
     return {
-        "theme-first-only": (lambda c: has(c, WEAK) and not has(c, CONCRETE), "AVOID"),
-        "insider-buy": (lambda c: has(c, ("자사주", "내부자", "경영진 매입", "경영진매수")), "FAVOR"),
+        # 검증된 핵심: 약신호는 회피가 옳다 / 구체재료는 우대가 옳다(정반대 쌍)
+        "theme-first-only": (lambda c: has(c, WEAK) and not has(c, CONCRETE), "AVOID", "miss"),
+        "concrete-catalyst": (lambda c: has(c, CONCRETE) and not has(c, WEAK), "FAVOR", "hit"),
+        # 내부자 신호
+        "insider-buy": (lambda c: has(c, ("자사주", "내부자", "경영진 매입", "경영진매수")), "FAVOR", "hit"),
+        # 구조적 채택: 로봇 밸류체인 + 실제 채택/납품 신호
         "structural-adoption": (lambda c: has(c, ("로봇", "휴머노이드", "감속", "액추", "구동"))
-                                and has(c, ("채택", "전환", "양산", "납품", "선정", "수주")), "FAVOR"),
-        "memory-peak-rotation": (lambda c: has(c, WIN_THEMES), "FAVOR"),
-        "crash-v-rotation": (lambda c: near_crash(c.get("flagDate", ""), crashes)
-                             and has(c, WIN_THEMES), "FAVOR"),
-        "buried-contract-rebound": (lambda c: near_crash(c.get("flagDate", ""), crashes)
-                                    and has(c, CONCRETE), "FAVOR"),
+                                and has(c, ("채택", "전환", "양산", "납품", "선정", "수주")), "FAVOR", "hit"),
+        # 메모리 로테이션: 로봇/설계가 '반도체소부장 테마 적중률(=로테이션 출발지)'을 이기는가
+        "memory-peak-rotation": (lambda c: has(c, WIN_THEMES), "FAVOR", ("theme", SEMI)),
+        # 급락 직후 로테이션: 급락 1~3일내 포착 + 승세테마 (진입창 좁힘)
+        "crash-v-rotation": (lambda c: near_crash(c.get("flagDate", ""), crashes, lo=1, win=3)
+                             and has(c, WIN_THEMES), "FAVOR", "hit"),
+        # 급락일에 묻힌 계약: 급락 당일~익일 + 구체 계약재료 (묻힌 순간으로 좁힘)
+        "buried-contract-rebound": (lambda c: near_crash(c.get("flagDate", ""), crashes, lo=0, win=1)
+                                    and has(c, CONCRETE), "FAVOR", "hit"),
     }
 
 
@@ -105,7 +123,7 @@ def main():
         if not m:
             p["method"] = "seed"       # 데이터 자동검증 불가(이벤트성) — seed 유지
             continue
-        fn, direction = m
+        fn, direction, base_kind = m
         subset = [c for c in resolved if _safe(fn, c)]
         n = len(subset)
         if n < MIN_CASES:
@@ -113,7 +131,10 @@ def main():
             continue
         if direction == "FAVOR":
             hit = sum(1 for c in subset if c.get("finalVerdict") == "적중")
-            base = base_hit
+            if isinstance(base_kind, tuple) and base_kind[0] == "theme":
+                base = theme_base(resolved, base_kind[1]) or base_hit
+            else:
+                base = base_hit
         else:  # AVOID: 빗나감이면 회피가 옳았음 = 성공
             hit = sum(1 for c in subset if c.get("finalVerdict") == "빗나감")
             base = base_miss
