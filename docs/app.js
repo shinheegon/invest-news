@@ -569,9 +569,9 @@ async function loadHistoryTab() {
     const s = ctx.snapshot;
     const dn = (v, suf = '') => v == null ? '—' : v + suf;
     const chg = v => v == null ? '' : `<span class="${v >= 0 ? 'delta-up' : 'delta-down'}">${v >= 0 ? '+' : ''}${v}%</span>`;
-    cb.innerHTML = `<div class="macro-head flat">📊 오늘 거시 스냅샷 <span class="muted" style="font-weight:400">(${ctx.asOf || ''})</span></div>` +
+    setHTML(cb, `<div class="macro-head flat">📊 오늘 거시 스냅샷 <span class="muted" style="font-weight:400">(${ctx.asOf || ''})</span></div>` +
       `<div class="macro-metrics">코스피 ${dn(s.kospi)} ${chg(s.kospi1d)} · 코스닥 ${dn(s.kosdaq)} ${chg(s.kosdaq1d)} · VIX ${dn(s.vix)} · 공포탐욕 ${dn(s.fearGreed)} · 원/달러 ${dn(s.usdkrw)} · WTI ${dn(s.wti)} · 美10Y ${dn(s.ust10y)}</div>` +
-      (ctx.activeTriggers && ctx.activeTriggers.length ? `<div class="macro-guide">🔔 켜진 트리거: <b>${ctx.activeTriggers.join(' · ')}</b></div>` : '');
+      (ctx.activeTriggers && ctx.activeTriggers.length ? `<div class="macro-guide">🔔 켜진 트리거: <b>${ctx.activeTriggers.join(' · ')}</b></div>` : ''));
   }
   renderMD(document.getElementById('macroAnalogBody'),
     await getText(`${DATA}/macro-analog.md`), '거시·뉴스가 쌓이면 오늘 상황과 닮은 과거 패턴이 매칭됩니다(다음 브리핑부터).');
@@ -580,10 +580,10 @@ async function loadHistoryTab() {
   if (t && pat && pat.patterns) {
     const conf = c => c == null ? '<span class="muted">미검증</span>' : `<b class="${c >= 0.6 ? 'delta-up' : c <= 0.3 ? 'delta-down' : ''}">${Math.round(c * 100)}%</b>`;
     const sorted = pat.patterns.slice().sort((a, b) => (b.confidence ?? -1) - (a.confidence ?? -1));
-    t.innerHTML = '<thead><tr><th>패턴</th><th>트리거</th><th>과거 사례 → 결과</th><th>관찰</th><th>신뢰도</th></tr></thead><tbody>' +
+    setHTML(t, '<thead><tr><th>패턴</th><th>트리거</th><th>과거 사례 → 결과</th><th>관찰</th><th>신뢰도</th></tr></thead><tbody>' +
       sorted.map(p => `<tr><td><b>${p.name}</b></td><td class="muted">${p.trigger}</td>` +
         `<td class="niche-samps"><div class="niche-samp">${p.precedent}</div><div class="niche-samp muted">→ ${p.outcome}</div></td>` +
-        `<td>${p.observed || 0}회</td><td>${conf(p.confidence)}</td></tr>`).join('') + '</tbody>';
+        `<td>${p.observed || 0}회</td><td>${conf(p.confidence)}</td></tr>`).join('') + '</tbody>');
   }
 }
 async function loadNicheRadar() {
