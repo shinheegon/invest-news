@@ -555,6 +555,30 @@ async function loadVerification() {
   await renderPriceHistory();
   renderFavTab();   // 검증·주가·유망도 로드 후 관심 탭의 흐름 정보 갱신
 }
+async function loadNicheRadar() {
+  const r = await getJSON(`${DATA}/niche-radar.json`);
+  const meta = document.getElementById('nicheMeta');
+  const t = document.getElementById('nicheCompTable');
+  if (!r) { if (meta) meta.textContent = '레이더는 원본 뉴스가 며칠 쌓이면 신호를 잡습니다.'; return; }
+  const capTxt = c => c == null ? '—' : c >= 10000 ? (c / 10000).toFixed(1) + '조' : c + '억';
+  if (meta) meta.innerHTML = `추적 종목 <b>${r.trackedCompanies || 0}</b>개 · 오늘 헤드라인 ${r.corpusToday || 0}건 · 관측창 ${r.window || 30}일`;
+  const star = n => `<button class="star${isFav(n) ? ' on' : ''}" data-fav="${n}" title="관심 추가/해제">${isFav(n) ? '★' : '☆'}</button>`;
+  const comps = r.companies || [];
+  if (t) t.innerHTML = comps.length
+    ? '<thead><tr><th>종목</th><th>시총</th><th>누적</th><th>최근3일</th><th>등장일수</th><th>첫등장</th><th>근거 헤드라인</th></tr></thead><tbody>' +
+      comps.map(c => {
+        const nm = `${c.name}(${c.code})`;
+        const samp = (c.samples || []).map(s => `<div class="niche-samp"><span class="muted">${(s.date || '').slice(5)}</span> ${s.title}</div>`).join('') || '<span class="muted">—</span>';
+        return `<tr><td>${star(nm)} <b>${c.name}</b> <span class="muted">${c.code}·${c.market || ''}</span></td>` +
+          `<td>${capTxt(c.cap)}</td><td>${c.total}</td><td><b class="delta-up">${c.recent}</b></td>` +
+          `<td>${c.activeDays}일</td><td class="muted">${(c.firstSeen || '').slice(5)}</td>` +
+          `<td class="niche-samps">${samp}</td></tr>`;
+      }).join('') + '</tbody>'
+    : '<tbody><tr><td class="muted">최근 반복 언급되는 소형주가 잡히면 표시됩니다(뉴스 누적 필요).</td></tr></tbody>';
+  if (t) t.querySelectorAll('.star').forEach(b => b.onclick = e => {
+    e.stopPropagation(); toggleFav(b.dataset.fav); syncStars(b.dataset.fav); loadNicheRadar(); renderFavTab();
+  });
+}
 async function loadAiGroup() {
   const g = await getJSON(`${DATA}/ai-group-live.json`) || await getJSON(`${DATA}/ai-group.json`);
   const wrap = document.getElementById('aiGroupBody');
@@ -783,6 +807,7 @@ function setupTabs() {
   await loadArchive();
   await loadPortfolio();
   await loadVerification();
+  await loadNicheRadar();
   await loadAiGroup();
 
   // 투자지표: 최초 로드 + 코인 실시간 90초 자동 새로고침

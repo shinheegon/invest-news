@@ -151,6 +151,12 @@ table.freq tbody tr:hover { background: #1c2330; }
 .mom.up { color: #3fb950; }
 .mom.down { color: #f85149; }
 .mom.flat { color: #8b949e; }
+/* 틈새 레이더 */
+.niche-samps { max-width: 380px; }
+.niche-samp { font-size: 0.78rem; line-height: 1.45; margin: 1px 0; }
+.niche-kw { display: flex; flex-wrap: wrap; gap: 6px; }
+.niche-chip { font-size: 0.82rem; padding: 4px 10px; border-radius: 999px;
+  background: #161b22; border: 1px solid var(--border); }
 /* AI 그룹 테마 필터 칩 */
 .ai-filter { display: flex; flex-wrap: wrap; gap: 6px; margin-bottom: 16px; }
 .ai-chip { font-size: 0.82rem; padding: 5px 12px; border-radius: 999px; cursor: pointer;

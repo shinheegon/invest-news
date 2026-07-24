@@ -20,6 +20,7 @@
     <button class="tab" data-tab="market">📉 투자지표</button>
     <button class="tab" data-tab="analysis">🧠 분석·전망</button>
     <button class="tab" data-tab="discovery">🌱 성장기업 발굴</button>
+    <button class="tab" data-tab="niche">📡 틈새 레이더</button>
     <button class="tab" data-tab="aigroup">🤖 AI 그룹</button>
     <button class="tab" data-tab="favorites">⭐ 내 관심</button>
     <button class="tab" data-tab="leading">🔮 선행 신호</button>
@@ -86,6 +87,15 @@
       <p class="muted">여러 회차에 걸쳐 반복 발굴되는 종목일수록 신호가 강합니다. 증감율·누적 추적.</p>
       <div class="chart-box"><canvas id="dcChart"></canvas></div>
       <div class="table-scroll"><table id="dcTable" class="freq"></table></div>
+    </section>
+
+    <!-- 틈새 레이더 -->
+    <section id="tab-niche" class="panel">
+      <h2>📡 틈새 레이더 <span class="muted">(작지만 며칠째 조용히 반복 언급되는 소형주)</span></h2>
+      <p class="muted">KRX <b>전종목 이름 사전</b>으로 원본 뉴스 헤드라인을 <b>기계적으로 스캔</b>해, 에이전트 눈에 안 띄는 것까지 <b>작은 회사(소형주)가 반복 언급되는 신호</b>를 결정적으로 찾아냅니다. <b>낮은 누적 + 최근 반복 = 아직 시장이 모르는 틈새.</b> 대형주·메가키워드는 제외. ⚠️ 레이더는 '반복'만 알지 '이유'는 모릅니다 — 구체 촉발재는 직접 확인하세요. 투자권유 아님.</p>
+      <div id="nicheMeta" class="muted" style="margin:8px 0"></div>
+      <h3>🏢 소형 반복언급주 <span class="muted">(누적 적고 최근 3일 반복 = 조기 신호)</span></h3>
+      <div class="table-scroll"><table id="nicheCompTable" class="freq"></table></div>
     </section>
 
     <!-- AI 그룹 -->

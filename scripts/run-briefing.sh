@@ -110,6 +110,10 @@ python3 "$PROJECT_DIR/scripts/collect-news.py" >> "$LOG" 2>&1 \
   && echo "[$(ts)] NEWS collected" >> "$LOG" \
   || echo "[$(ts)] WARN news collect failed (브리핑은 계속)" >> "$LOG"
 
+# --- 📡 틈새 레이더: KRX 전종목 사전 스캔으로 소형 반복언급주 포착(에이전트가 읽음) ---
+python3 "$PROJECT_DIR/scripts/build-krx-dict.py" >> "$LOG" 2>&1 || echo "[$(ts)] WARN krx-dict failed" >> "$LOG"
+python3 "$PROJECT_DIR/scripts/niche-radar.py" >> "$LOG" 2>&1 || echo "[$(ts)] WARN niche-radar failed" >> "$LOG"
+
 # --- ③ 타임아웃+재시도 루프로 헤드리스 Claude 실행 ---
 RC=1
 for attempt in $(seq 1 "$MAX_ATTEMPTS"); do
