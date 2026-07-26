@@ -618,6 +618,26 @@ async function loadHistoryTab() {
         `<td class="niche-samps"><div class="niche-samp">${p.precedent}</div><div class="niche-samp muted">→ ${p.outcome}</div></td>` +
         `<td>${p.method === 'auto' ? p.observed + '건' : (p.observed || 0) + '회'}</td><td>${edgeCell(p)}</td></tr>`).join('') + '</tbody>');
   }
+  // 📜 역사 위기 플레이북
+  const hist = await getJSON(`${DATA}/macro-history-agg.json`);
+  const cn = document.getElementById('crisisNow');
+  const ct = document.getElementById('crisisTable');
+  if (hist && hist.patterns) {
+    const now = hist.currentMatch || [];
+    const nowLabels = hist.patterns.filter(p => now.includes(p.type)).map(p => p.label);
+    if (cn) setHTML(cn, nowLabels.length
+      ? `🔔 <b>오늘 닮은 역사 패턴</b>: ${nowLabels.join(' · ')} — 아래 확률·낙폭·회복기간 참고`
+      : '오늘은 뚜렷이 닮은 위기 패턴이 없습니다(정상 국면).');
+    const rng = r => r ? `${r[0]}~${r[1]}` : '—';
+    if (ct) setHTML(ct, '<thead><tr><th>역사 패턴</th><th>반복확률</th><th>평균 낙폭</th><th>회복기간(개월)</th><th>유리 / 불리</th><th>사례</th></tr></thead><tbody>' +
+      hist.patterns.map(p => `<tr class="${now.includes(p.type) ? 'watch-hot' : ''}">` +
+        `<td><b>${p.label}</b></td>` +
+        `<td><b class="delta-up">${p.repeatProbPct}%</b> <span class="muted">(${p.recoveredCount}/${p.n})</span></td>` +
+        `<td><span class="delta-down">${p.avgDrawdownPct}%</span></td>` +
+        `<td>${rng(p.recoveryRange)}</td>` +
+        `<td class="niche-samps"><div class="niche-samp">✅ ${(p.favored || []).join(', ')}</div><div class="niche-samp muted">⚠️ ${(p.hurt || []).join(', ')}</div></td>` +
+        `<td class="muted">${(p.examples || []).map(e => e.year + ' ' + e.name).join('<br>')}</td></tr>`).join('') + '</tbody>');
+  }
 }
 async function loadNicheRadar() {
   const r = await getJSON(`${DATA}/niche-radar.json`);

@@ -121,6 +121,7 @@ python3 "$PROJECT_DIR/scripts/collect-news.py" >> "$LOG" 2>&1 \
 python3 "$PROJECT_DIR/scripts/build-krx-dict.py" >> "$LOG" 2>&1 || echo "[$(ts)] WARN krx-dict failed" >> "$LOG"
 python3 "$PROJECT_DIR/scripts/niche-radar.py" >> "$LOG" 2>&1 || echo "[$(ts)] WARN niche-radar failed" >> "$LOG"
 python3 "$PROJECT_DIR/scripts/macro-context.py" >> "$LOG" 2>&1 || echo "[$(ts)] WARN macro-context failed" >> "$LOG"
+python3 "$PROJECT_DIR/scripts/macro-history.py" >> "$LOG" 2>&1 || echo "[$(ts)] WARN macro-history failed" >> "$LOG"
 
 # 생성 에이전트 실행 전 코드·설정 파일의 기준점을 별도 임시 복사본으로 저장한다.
 GUARD_COPY="$(mktemp)"
