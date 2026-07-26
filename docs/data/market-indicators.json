@@ -1,19 +1,22 @@
 {
-  "updatedAt": "2026-07-26T19:00:00+09:00", "session": "PM",
-  "note": "오늘(7/26, 일)은 한국·미국 모두 휴장. 최근 거래일(7/24 금) 마감 기준 수치를 유지·갱신했다. 코스피·코스닥은 7/24 매도 사이드카 발동 속 -5.72%·-5.32% 동반 급락('또 검은 금요일'), 호르무즈·紅海(바브엘만데브) 봉쇄發 유가 급등과 美 국채금리 급등(FOMC 금리인상 우려)이 겹친 결과. 美 증시는 7/24 다우·S&P500 소폭 반등(+0.46%/+0.05%), 나스닥은 기술주 약세로 -0.64%. 7/29 FOMC는 3.50~3.75% 동결이 유력하지만 유가발 인플레로 훗날(9~10월) 인상 확률이 급등(38%, 1주 전 12%)했다.",
+  "updatedAt": "2026-07-26T20:40:00+09:00", "session": "PM",
+  "note": "오늘(7/26, 일)은 한국·미국 모두 휴장. 최근 거래일(7/24 금) 마감 기준 수치를 유지·갱신했다. 코스피·코스닥은 7/24 매도 사이드카 발동 속 -5.72%·-5.32% 동반 급락('또 검은 금요일'), 호르무즈 해협 통제권을 둘러싼 美-이란 갈등發 유가 급등이 직접 원인. 7/25 美-이란이 공격 중단에 합의, 7/30 도하(카타르) 재협상 예정 소식에 유가는 진정 국면. 7/29 FOMC는 신임 워시 의장 하 3.50~3.75% 동결이 유력. 한국은행은 7/16 기준금리를 2.50%→2.75%로 3년6개월 만에 인상(만장일치), 2분기 GDP는 +0.6%(전기비)·+3.7%(전년비)로 깜짝 성장.",
   "stock_fng": { "value": 41, "label": "Fear", "source": "https://www.benzinga.com/markets/market-summary/26/07/60660103/nasdaq-tumbles-over-2-amid-higher-oil-prices-investor-sentiment-weakens-greed-index-remains-in-fear-zone" },
   "indices": [
-    { "name": "코스피", "value": "6,690.62", "change": "-5.72%(-406.27p), 7/24(금) 종가·매도 사이드카 발동", "source": "https://www.hankyung.com/article/2026072445416" },
-    { "name": "코스닥", "value": "748.22", "change": "-5.32%(-42.06p), 7/24(금) 종가·매도 사이드카 발동", "source": "https://view.asiae.co.kr/article/2026072420294140510" },
+    { "name": "코스피", "value": "6,690.62", "change": "-5.72%(-406.27p), 7/24(금) 종가·매도 사이드카 발동", "source": "https://view.asiae.co.kr/article/2026072415330089502" },
+    { "name": "코스닥", "value": "748.22", "change": "-5.32%(-42.06p), 7/24(금) 종가·매도 사이드카 발동", "source": "https://view.asiae.co.kr/article/2026072415334396412" },
     { "name": "S&P 500", "value": "7,412.0", "change": "+0.05%, 7/24(금) 종가", "source": "https://finance.yahoo.com/markets/live/stock-market-today-friday-july-24-dow-sp-500-nasdaq-081854465.html" },
-    { "name": "나스닥", "value": "24,976.0", "change": "-0.64%, 7/24(금) 종가(기술주 -2.37%)", "source": "https://www.thestreet.com/stock-market-today/stock-market-today-july-24-2026-dow-futures-rebound-as-oil-retreats-after-market-sell-off" },
-    { "name": "다우", "value": "51,947.25", "change": "+0.46%(+235.60p), 7/24(금) 종가", "source": "https://www.washingtonpost.com/business/2026/07/24/stocks-dow-nasdaq-iran-oil/72ff5b36-879f-11f1-9cec-0fb26676f07e_story.html" },
-    { "name": "VIX", "value": "18.58", "change": "7/24(금) 기준, 전거래일 대비 소폭 하락", "source": "https://tradingeconomics.com/united-states/government-bond-yield" },
-    { "name": "美 10년물", "value": "4.69%", "change": "-0.01%p, 7/24(금)(FOMC 앞두고 4거래일 급등 후 소폭 진정)", "source": "https://tradingeconomics.com/united-states/government-bond-yield" },
+    { "name": "나스닥", "value": "24,976.0", "change": "-0.64%, 7/24(금) 종가(기술주 약세)", "source": "https://finance.yahoo.com/markets/live/stock-market-today-friday-july-24-dow-sp-500-nasdaq-081854465.html" },
+    { "name": "VIX", "value": "18.58", "change": "7/24(금) 기준, 급락 이후 소폭 진정", "source": "https://finance.yahoo.com/quote/%5EVIX/" },
+    { "name": "美 10년물", "value": "4.69%", "change": "유가발 인플레 우려·FOMC 경계에 4거래일 급등 후 소폭 진정", "source": "https://tradingeconomics.com/united-states/government-bond-yield" },
     { "name": "달러인덱스(DXY)", "value": "101.30", "change": "101.25~101.47 레인지, 유가발 안전자산 수요", "source": "https://www.fxstreet.com/news/united-states-dollar-index-price-forecast-pullbacks-could-be-bought-into-near-10100-202607240810" },
-    { "name": "원/달러", "value": "1,466.6원", "change": "-0.2원, 7/24(금) 15:30 기준 보합", "source": "https://www.yna.co.kr/view/AKR20260724006953072" },
-    { "name": "한국 기준금리", "value": "2.75%", "change": "7/16 인상 후 유지, 8/27 추가 인상(3.50% 목표) 가능성 지속", "source": "https://www.hankookilbo.com/news/article/A2026071712080003402" },
-    { "name": "브렌트유", "value": "$100.69", "change": "+7.04%(7/24), 5월말來 첫 100달러 돌파", "source": "https://biz.heraldcorp.com/article/10818486" },
+    { "name": "원/달러", "value": "1,466.6", "change": "-0.2원, 7/24(금) 15:30 기준 보합(하이닉스 실적기대가 강달러 상쇄)", "source": "https://www.yna.co.kr/view/AKR20260724129300002" },
+    { "name": "美 기준금리", "value": "3.50~3.75%", "change": "0(동결 지속), 7/29 FOMC서 워시 신임 의장 하 동결 유력(시장 확률 70~80%)", "source": "https://fedratecalc.com/next-fomc-meeting/" },
+    { "name": "한국 기준금리", "value": "2.75%", "change": "+0.25%p, 7/16 인상(2.50%→2.75%, 금통위 7명 만장일치, 3년6개월 만의 인상)", "source": "https://m.joseilbo.com/news/view.htm?newsid=572037&class2=&class=2" },
+    { "name": "美 CPI", "value": "3.5%", "change": "-0.7%p, 6월 발표(전월 4.2%→3.5%, 컨센 3.8% 하회, 예상외 둔화)", "source": "https://www.cnbc.com/2026/07/14/consumer-price-index-inflation-report-june-2026.html" },
+    { "name": "韓 CPI", "value": "3.2%", "change": "+0.1%p, 6월 발표(전월 3.1%→3.2%)", "source": "https://www.korea.kr/briefing/policyBriefingView.do?newsId=156769262" },
+    { "name": "금(Gold)", "value": "4,052", "change": "+0.06%, 7/24 기준(온스당 $, 이란 리스크·금리 불확실성에 강세 지속)", "source": "https://tradingeconomics.com/commodity/gold" },
+    { "name": "브렌트유", "value": "$100.69", "change": "+7.04%(7/24), 5월말來 첫 100달러 돌파 후 中·파키스탄 중재설에 진정 국면", "source": "https://biz.heraldcorp.com/article/10818486" },
     { "name": "WTI", "value": "$92.19", "change": "+6.17%(7/24), 6월초來 최고치", "source": "https://biz.heraldcorp.com/article/10818486" }
   ]
 }

@@ -3297,6 +3297,12 @@
   "카카오(035720)": {
    "articles": [
     {
+     "date": "2026-07-26",
+     "source": "한국경제·증권",
+     "title": "카카오 계열사 2대 주주들, 회수 통로 막히자 '각자도생' 추진",
+     "link": "https://www.hankyung.com/article/202607266468i"
+    },
+    {
      "date": "2026-07-23",
      "source": "연합뉴스·경제",
      "title": "카카오·토스, 미국 서클과 원화 스테이블코인 협력(종합)",
@@ -6586,6 +6592,12 @@
    "articles": [
     {
      "date": "2026-07-26",
+     "source": "한국경제·경제",
+     "title": "LG전자, 로봇 데이터·생산 독자 생태계 구축",
+     "link": "https://www.hankyung.com/article/2026072665821"
+    },
+    {
+     "date": "2026-07-26",
      "source": "연합인포맥스",
      "title": "LG전자 인스타뷰 냉장고, 2016년 출시 이후 누적 판매 530만대 돌파",
      "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4426871"
@@ -7391,6 +7403,12 @@
   "LS(006260)": {
    "articles": [
     {
+     "date": "2026-07-26",
+     "source": "한국경제·경제",
+     "title": "AI 슈퍼사이클 올라탄 LS…빅테크도 줄섰다",
+     "link": "https://www.hankyung.com/article/2026072665271"
+    },
+    {
      "date": "2026-07-22",
      "source": "연합뉴스·경제",
      "title": "[게시판] LS, 고용부 주관 'K-뉴딜 아카데미' 교육생 모집",
@@ -7770,6 +7788,12 @@
   },
   "AMD(AMD)": {
    "articles": [
+    {
+     "date": "2026-07-26",
+     "source": "한국경제·증권",
+     "title": "한경 특파원의 AMD 밀착 취재 [한경 프리미엄9 TODAY]",
+     "link": "https://www.hankyung.com/article/2026072666101"
+    },
     {
      "date": "2026-07-24",
      "source": "MarketWatch",
@@ -9997,6 +10021,12 @@
     {
      "date": "2026-07-26",
      "source": "한국경제·경제",
+     "title": "파운드리까지 대규모 수주…삼성·SK 'AI생태계 중심축' 부상",
+     "link": "https://www.hankyung.com/article/2026072666421"
+    },
+    {
+     "date": "2026-07-26",
+     "source": "한국경제·경제",
      "title": "최태원 \"메가 프로젝트, 韓 성장 위한 것\"…SK, 엔비디아와 AI 동맹",
      "link": "https://www.hankyung.com/article/202607255728i"
     },
@@ -10406,6 +10436,12 @@
   },
   "HD현대(267250)": {
    "articles": [
+    {
+     "date": "2026-07-26",
+     "source": "한국경제·경제",
+     "title": "HD현대, 마스가 첫 수주…美 항만크레인 4기 계약",
+     "link": "https://www.hankyung.com/article/2026072665851"
+    },
     {
      "date": "2026-07-24",
      "source": "한국경제·경제",
@@ -12898,6 +12934,12 @@
   },
   "대상(001680)": {
    "articles": [
+    {
+     "date": "2026-07-26",
+     "source": "한국경제·경제",
+     "title": "하나은행, 인천 소상공인·기업 대상 금융 지원 확대",
+     "link": "https://www.hankyung.com/article/2026072665111"
+    },
     {
      "date": "2026-07-26",
      "source": "연합뉴스·경제",
@@ -16541,9 +16583,15 @@
      "source": "아시아경제",
      "title": "이엠앤아이(083470)·소",
      "link": "https://view.asiae.co.kr/article/2026072414312151532"
+    },
+    {
+     "date": "2026-07-26",
+     "source": "머니투데이",
+     "title": "이엠앤아이(083470) — 국책과제 선정, 첫등장 D-2.",
+     "link": "https://news.mt.co.kr/mtview.php?no=2025091909170119143"
     }
    ]
   }
  },
- "updatedAt": "2026-07-26T15:37:36+09:00"
+ "updatedAt": "2026-07-26T20:25:36+09:00"
 }
