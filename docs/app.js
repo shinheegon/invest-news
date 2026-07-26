@@ -472,6 +472,28 @@ async function loadMarketIndicators() {
       : '<tbody><tr><td class="muted">지표 데이터가 비어 있습니다.</td></tr></tbody>');
   }
 }
+async function renderScorecard() {
+  const sc = await getJSON(`${DATA}/value-scorecard.json`);
+  const t = document.getElementById('scorecardTable');
+  if (!t) return;
+  const axis = a => { if (!a) return '—'; const s = a.score || ''; const cls = s === '高' ? 'delta-up' : s === '低' ? 'delta-down' : ''; return `<b class="${cls}">${s || '—'}</b>`; };
+  const star = n => `<button class="star${isFav(n) ? ' on' : ''}" data-fav="${n}" title="관심 추가/해제">${isFav(n) ? '★' : '☆'}</button>`;
+  const vtag = v => v === '핵심' ? '<span class="hot-badge">🎯핵심</span>' : v === '관찰' ? '<span class="muted">관찰</span>' : `<span class="muted">${v || ''}</span>`;
+  const picks = (sc && sc.picks) || [];
+  if (!picks.length) { setHTML(t, '<tbody><tr><td class="muted">다음 브리핑부터 3축 가치평가가 생성됩니다.</td></tr></tbody>'); return; }
+  setHTML(t, '<thead><tr><th>종목</th><th>🌊경제흐름</th><th>📈가치성장</th><th>🚀선점성</th><th>판정</th><th>캐치 근거</th></tr></thead><tbody>' +
+    picks.map(p => `<tr class="${p.verdict === '핵심' ? 'watch-hot' : ''}">` +
+      `<td>${star(p.name)} <b>${p.name}</b> ${vtag(p.verdict)}<div class="muted" style="font-size:.76rem">${p.theme || ''}</div></td>` +
+      `<td title="${(p.flowFit || {}).why || ''}">${axis(p.flowFit)}</td>` +
+      `<td title="${(p.valueGrowth || {}).why || ''}">${axis(p.valueGrowth)}</td>` +
+      `<td title="${(p.preemptive || {}).why || ''}">${axis(p.preemptive)}</td>` +
+      `<td>${vtag(p.verdict)}</td>` +
+      `<td class="niche-samps"><div class="niche-samp muted">${p.catchNote || ''}</div>` +
+      `<div class="niche-samp" style="font-size:.76rem">🌊 ${(p.flowFit || {}).why || ''}<br>📈 ${(p.valueGrowth || {}).why || ''}<br>🚀 ${(p.preemptive || {}).why || ''}</div></td></tr>`).join('') + '</tbody>');
+  t.querySelectorAll('.star').forEach(b => b.onclick = e => {
+    e.stopPropagation(); toggleFav(b.dataset.fav); syncStars(b.dataset.fav); renderScorecard(); renderFavTab();
+  });
+}
 async function loadMacroCompass() {
   const c = await getJSON(`${DATA}/macro-compass.json`);
   const sg = document.getElementById('compassSignal');
@@ -918,6 +940,7 @@ function setupTabs() {
   await loadHistoryTab();
   renderMD(document.getElementById('discoveryBody'),
     await getText(`${DATA}/discovery.md`), '성장기업 발굴은 다음 브리핑부터 생성됩니다.');
+  await renderScorecard();
   renderMD(document.getElementById('leadingBody'),
     await getText(`${DATA}/leading-signals.md`), '선행 신호 분석은 다음 브리핑부터 생성됩니다.');
   renderMD(document.getElementById('reviewBody'),
