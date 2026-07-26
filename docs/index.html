@@ -26,6 +26,7 @@
     <button class="tab" data-tab="favorites">⭐ 내 관심</button>
     <button class="tab" data-tab="leading">🔮 선행 신호</button>
     <button class="tab" data-tab="verify">🎯 검증</button>
+    <button class="tab" data-tab="mock">📊 모의 포트폴리오</button>
     <button class="tab" data-tab="portfolio">💼 매매일지</button>
     <button class="tab" data-tab="review">🕵️ 중간보스 검토</button>
     <button class="tab" data-tab="synth">🧭 3일 중간 종합</button>
@@ -131,6 +132,16 @@
       <h3>🔥 반복 선행 포착 누적 <span class="muted">(며칠째 🟢로 잡히는 종목 = 강한 신호)</span></h3>
       <div class="table-scroll"><table id="ldTable" class="freq"></table></div>
       <article id="leadingBody" class="md" style="margin-top:18px">불러오는 중…</article>
+    </section>
+
+    <!-- 모의 포트폴리오 -->
+    <section id="tab-mock" class="panel">
+      <h2>📊 모의 포트폴리오 <span class="muted">(₩200만 3버킷 · 우리 데이터 실전 검증)</span></h2>
+      <p class="muted">성장발굴(우리 高수렴 소형주)·우량주·배당ETF 3버킷에 <b>₩200만을 모의 배분</b>해, 우리 데이터가 <b>실제 돈으로 얼마나 맞는지</b> 추적합니다. <b>코스피 대비 초과수익</b>이 핵심 — 시장을 이기는지 봅니다. ⚠️ 모의(paper)·정보용, 투자권유 아님. 실전 매매는 💼 매매일지.</p>
+      <div id="mockSummary" class="gauge-row" style="grid-template-columns:repeat(4,1fr)"></div>
+      <div id="mockBuckets" style="margin-top:8px"></div>
+      <h3 style="margin-top:20px">📋 보유 종목</h3>
+      <div class="table-scroll"><table id="mockTable" class="freq"></table></div>
     </section>
 
     <!-- 매매일지 -->

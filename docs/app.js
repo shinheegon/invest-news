@@ -484,6 +484,31 @@ function retCell(r) {
   const c = r >= 0 ? 'delta-up' : 'delta-down';
   return `<span class="${c}">${r >= 0 ? '+' : ''}${r}%</span>`;
 }
+async function loadMockPortfolio() {
+  const m = await getJSON(`${DATA}/mock-portfolio-live.json`) || await getJSON(`${DATA}/mock-portfolio.json`);
+  const sm = document.getElementById('mockSummary');
+  const bw = document.getElementById('mockBuckets');
+  const t = document.getElementById('mockTable');
+  if (!m || !m.holdings) { if (sm) setHTML(sm, '<div class="muted">모의 포트폴리오가 아직 없습니다.</div>'); return; }
+  const won = n => n == null ? '—' : Number(n).toLocaleString('ko-KR') + '원';
+  const pct = v => v == null ? '—' : `<span class="${v >= 0 ? 'delta-up' : 'delta-down'}">${v >= 0 ? '+' : ''}${v}%</span>`;
+  const tr = m.totalReturnPct, exc = m.excessPct;
+  const card = (title, val, color) => `<div class="gauge-card"><div class="gauge-title">${title}</div><div class="gauge-num" style="color:${color}">${val}</div></div>`;
+  if (sm) setHTML(sm,
+    card('총 수익률', tr == null ? '—' : (tr >= 0 ? '+' : '') + tr + '%', (tr ?? 0) >= 0 ? '#3fb950' : '#f85149') +
+    card('코스피 대비', exc == null ? '—' : (exc >= 0 ? '+' : '') + exc + '%p', (exc ?? 0) >= 0 ? '#3fb950' : '#f85149') +
+    card('평가액', m.totalNow != null ? Math.round(m.totalNow / 10000) + '만' : '—', '#2f81f7') +
+    card('원금', (m.capital / 10000) + '만', '#8b949e'));
+  if (bw) setHTML(bw, '<div class="ai-filter">' + Object.entries(m.bucketAgg || {}).map(([k, a]) => {
+    const lb = (m.buckets?.[k]?.label) || k;
+    return `<span class="niche-chip">${lb} ${pct(a.returnPct)} <span class="muted">(${won(a.value)})</span></span>`;
+  }).join('') + (m.cash ? `<span class="niche-chip">💵 현금 <span class="muted">${won(m.cash)}</span></span>` : '') + '</div>');
+  if (t) setHTML(t, '<thead><tr><th>버킷</th><th>종목</th><th>수량</th><th>진입가</th><th>현재가</th><th>수익률</th><th>평가손익</th></tr></thead><tbody>' +
+    m.holdings.map(h => `<tr><td>${(m.buckets?.[h.bucket]?.label) || h.bucket}</td>` +
+      `<td><b>${h.name}</b> <span class="muted">${h.ticker}</span></td><td>${h.shares}</td>` +
+      `<td>${won(h.entryPrice)}</td><td>${won(h.price)}</td><td>${pct(h.returnPct)}</td>` +
+      `<td>${h.pnl != null ? (h.pnl >= 0 ? '+' : '') + won(h.pnl) : '—'}</td></tr>`).join('') + '</tbody>');
+}
 async function loadPortfolio() {
   const pf = await getJSON(`${DATA}/portfolio.json`) || { positions: [], stats: {} };
   const st = pf.stats || {};
@@ -888,6 +913,7 @@ function setupTabs() {
 
   await loadArchive();
   await loadPortfolio();
+  await loadMockPortfolio();
   await loadVerification();
   await loadNicheRadar();
   await loadAiGroup();

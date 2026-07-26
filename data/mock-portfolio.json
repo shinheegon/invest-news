@@ -1,0 +1,20 @@
+{
+ "note": "₩200만 3버킷 모의(paper) 포트폴리오 — 성장발굴(우리 高수렴)·우량주·배당ETF. 우리 데이터가 실제 돈으로 얼마나 맞는지 추적. 실전 투입 전 검증용. 투자권유 아님.",
+ "capital": 2000000,
+ "startDate": "2026-07-26",
+ "profile": "균형형(성장30/우량40/배당30)",
+ "buckets": {
+  "growth": { "label": "🌱 성장 발굴", "desc": "우리 시스템 高수렴 소형주(고위험·고수익)" },
+  "blue": { "label": "💎 우량주", "desc": "대형 우량주(안정)" },
+  "etf": { "label": "🛡️ 배당 ETF", "desc": "배당·안전 ETF(방어·인컴)" }
+ },
+ "holdings": [
+  { "bucket": "growth", "name": "자람테크놀로지", "ticker": "389020", "shares": 10, "entryPrice": 19210 },
+  { "bucket": "growth", "name": "씨메스로보틱스", "ticker": "475400", "shares": 12, "entryPrice": 15740 },
+  { "bucket": "growth", "name": "대동기어", "ticker": "008830", "shares": 22, "entryPrice": 9050 },
+  { "bucket": "blue", "name": "삼성전자", "ticker": "005930", "shares": 2, "entryPrice": 249500 },
+  { "bucket": "blue", "name": "KB금융", "ticker": "105560", "shares": 1, "entryPrice": 171500 },
+  { "bucket": "etf", "name": "TIGER 미국배당다우존스", "ticker": "458730", "shares": 20, "entryPrice": 15300 },
+  { "bucket": "etf", "name": "KODEX 고배당주", "ticker": "279530", "shares": 17, "entryPrice": 17625 }
+ ]
+}

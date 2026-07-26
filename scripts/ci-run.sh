@@ -74,6 +74,7 @@ python3 "$PROJECT_DIR/scripts/watch-priority.py" 2>&1 | tee -a "$LOG" || true
 python3 "$PROJECT_DIR/scripts/miss-analysis.py" 2>&1 | tee -a "$LOG" || true
 python3 "$PROJECT_DIR/scripts/verify-patterns.py" 2>&1 | tee -a "$LOG" || true
 python3 "$PROJECT_DIR/scripts/cross-validate.py" 2>&1 | tee -a "$LOG" || true
+python3 "$PROJECT_DIR/scripts/mock-portfolio.py" 2>&1 | tee -a "$LOG" || true
 python3 "$PROJECT_DIR/scripts/ai-group.py" 2>&1 | tee -a "$LOG" || true
 bash "$PROJECT_DIR/scripts/build-site.sh" 2>&1 | tee -a "$LOG" || true
 
