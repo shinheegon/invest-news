@@ -1,0 +1,135 @@
+{
+ "updatedAt": "2026-07-26T16:31:31+09:00",
+ "note": "₩200만 3버킷 모의(paper) 포트폴리오 — 성장발굴(우리 高수렴)·우량주·배당ETF. 우리 데이터가 실제 돈으로 얼마나 맞는지 추적. 실전 투입 전 검증용. 투자권유 아님.",
+ "capital": 2000000,
+ "startDate": "2026-07-26",
+ "profile": "균형형(성장30/우량40/배당30)",
+ "buckets": {
+  "growth": {
+   "label": "🌱 성장 발굴",
+   "desc": "우리 시스템 高수렴 소형주(고위험·고수익)"
+  },
+  "blue": {
+   "label": "💎 우량주",
+   "desc": "대형 우량주(안정)"
+  },
+  "etf": {
+   "label": "🛡️ 배당 ETF",
+   "desc": "배당·안전 ETF(방어·인컴)"
+  }
+ },
+ "holdings": [
+  {
+   "bucket": "growth",
+   "name": "자람테크놀로지",
+   "ticker": "389020",
+   "shares": 10,
+   "entryPrice": 19210,
+   "price": 19210,
+   "cost": 192100,
+   "value": 192100,
+   "returnPct": 0.0,
+   "pnl": 0
+  },
+  {
+   "bucket": "growth",
+   "name": "씨메스로보틱스",
+   "ticker": "475400",
+   "shares": 12,
+   "entryPrice": 15740,
+   "price": 15740,
+   "cost": 188880,
+   "value": 188880,
+   "returnPct": 0.0,
+   "pnl": 0
+  },
+  {
+   "bucket": "growth",
+   "name": "대동기어",
+   "ticker": "008830",
+   "shares": 22,
+   "entryPrice": 9050,
+   "price": 9050,
+   "cost": 199100,
+   "value": 199100,
+   "returnPct": 0.0,
+   "pnl": 0
+  },
+  {
+   "bucket": "blue",
+   "name": "삼성전자",
+   "ticker": "005930",
+   "shares": 2,
+   "entryPrice": 249500,
+   "price": 249500,
+   "cost": 499000,
+   "value": 499000,
+   "returnPct": 0.0,
+   "pnl": 0
+  },
+  {
+   "bucket": "blue",
+   "name": "KB금융",
+   "ticker": "105560",
+   "shares": 1,
+   "entryPrice": 171500,
+   "price": 171500,
+   "cost": 171500,
+   "value": 171500,
+   "returnPct": 0.0,
+   "pnl": 0
+  },
+  {
+   "bucket": "etf",
+   "name": "TIGER 미국배당다우존스",
+   "ticker": "458730",
+   "shares": 20,
+   "entryPrice": 15300,
+   "price": 15300,
+   "cost": 306000,
+   "value": 306000,
+   "returnPct": 0.0,
+   "pnl": 0
+  },
+  {
+   "bucket": "etf",
+   "name": "KODEX 고배당주",
+   "ticker": "279530",
+   "shares": 17,
+   "entryPrice": 17625,
+   "price": 17625,
+   "cost": 299625,
+   "value": 299625,
+   "returnPct": 0.0,
+   "pnl": 0
+  }
+ ],
+ "bucketAgg": {
+  "growth": {
+   "cost": 580080,
+   "value": 580080,
+   "returnPct": 0.0,
+   "pnl": 0
+  },
+  "blue": {
+   "cost": 670500,
+   "value": 670500,
+   "returnPct": 0.0,
+   "pnl": 0
+  },
+  "etf": {
+   "cost": 605625,
+   "value": 605625,
+   "returnPct": 0.0,
+   "pnl": 0
+  }
+ },
+ "invested": 1856205,
+ "cash": 143795,
+ "valueNow": 1856205,
+ "totalNow": 2000000,
+ "totalReturnPct": 0.0,
+ "totalPnl": 0,
+ "kospiReturnPct": 0.0,
+ "excessPct": 0.0
+}
