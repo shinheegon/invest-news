@@ -28,6 +28,7 @@ AGENT_OUTPUTS = {
     "data/verification.md",
     "data/macro-analog.md",
     "data/macro-patterns.json",
+    "data/value-scorecard.json",
 }
 RUNTIME_PATHS = {
     "data/news-feed.json",
