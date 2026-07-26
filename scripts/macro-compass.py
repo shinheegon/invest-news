@@ -22,7 +22,27 @@ ALIASES = {
     "dxy": ["달러인덱스(DXY)", "달러인덱스", "DXY"],
     "us_cpi": ["美 CPI", "미국 CPI", "美 소비자물가"],
     "kr_cpi": ["韓 CPI", "한국 CPI", "韓 소비자물가"],
+    "gold": ["금(Gold)", "국제 금값", "금 현물", "금값", "Gold", "금(달러/온스)"],
 }
+
+
+def days_old(datestr):
+    try:
+        return (datetime.now(KST).date() - datetime.strptime(datestr, "%Y-%m-%d").date()).days
+    except Exception:
+        return 999
+
+
+def pct_trend(vals, n=5):
+    """최근 n관측 % 변화 + 라벨(값 없거나 stale이면 None)."""
+    if len(vals) < 2:
+        return (None, None)
+    recent = vals[-min(n, len(vals)):]
+    base = recent[0][1]
+    if not base:
+        return (None, None)
+    ch = round((recent[-1][1] - base) / base * 100, 1)
+    return (ch, "상승" if ch > 0 else "하락" if ch < 0 else "횡보")
 
 
 def merged_series(series, keys):
@@ -86,6 +106,16 @@ def main():
           "level": "고환율(1500+)" if (usdkrw and usdkrw >= 1500) else "안정권",
           "phase": "원화약세(위험회피)" if won_weak else "원화강세(위험선호)" if won_strong else "안정"}
 
+    # ── 4) 금값(안전자산·인플레헤지·위험회피 게이지) ──
+    g = S["gold"]
+    g_fresh = bool(g) and days_old(g[-1][0]) <= 7      # 신선한 데이터만(옛 garbage 배제)
+    gp_ch, gp_t = pct_trend(g) if g_fresh else (None, None)
+    gold_surge = g_fresh and gp_ch is not None and gp_ch >= 2     # 안전자산 수요 급증
+    gold = {"value": latest("gold") if g_fresh else None, "trend": gp_t,
+            "changePct": gp_ch, "tracked": g_fresh,
+            "read": ("안전자산 수요↑(위험회피·인플레헤지)" if gold_surge
+                     else "안정/중립" if g_fresh else "미기록")}
+
     # ── 통합 신호 (위험선호 ↔ 위험회피) ──
     tilt = 0
     if rate_easing: tilt += 1
@@ -94,6 +124,7 @@ def main():
     if inf_rising: tilt -= 1
     if won_strong: tilt += 1
     if won_weak: tilt -= 1
+    if gold_surge: tilt -= 1        # 금값 급등 = 안전자산 쏠림 = 위험회피 신호
     regime = "위험선호" if tilt >= 1 else "위험회피" if tilt <= -1 else "중립"
     guide = {
         "위험선호": "금리·물가·환율이 우호 방향 → 성장주·소형주에 유리. 위기 후라면 '완화→회복' 패턴 진행 신호.",
@@ -104,11 +135,11 @@ def main():
     out = {
         "updatedAt": datetime.now(KST).isoformat(timespec="seconds"),
         "note": "금리·인플레이션·달러환율 3대 축의 수준·추세와 통합 신호. 위기 플레이북(완화=금리인하 트리거)과 연결. 투자권유 아님.",
-        "rates": rates, "inflation": inflation, "fx": fx,
+        "rates": rates, "inflation": inflation, "fx": fx, "gold": gold,
         "signal": {"regime": regime, "tilt": tilt, "guidance": guide},
     }
     json.dump(out, open(OUT, "w", encoding="utf-8"), ensure_ascii=False, indent=1)
-    print(f"[compass] 금리 {rates['phase']}({rates['ust10y']}) · 물가 {inflation['phase']} · 환율 {fx['usdkrw']}({fx['phase']}) → 통합 {regime}(tilt {tilt:+d})")
+    print(f"[compass] 금리 {rates['phase']} · 물가 {inflation['phase']} · 환율 {fx['usdkrw']}({fx['phase']}) · 금값 {gold['read']} → 통합 {regime}(tilt {tilt:+d})")
 
 
 if __name__ == "__main__":

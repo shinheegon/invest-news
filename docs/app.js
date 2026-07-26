@@ -485,11 +485,12 @@ async function loadMacroCompass() {
   const arrow = t => t === '상승' ? '▲' : t === '하락' ? '▼' : t === '둔화' ? '▼' : t === '가속' ? '▲' : '—';
   const card = (title, main, sub) => `<div class="gauge-card"><div class="gauge-title">${title}</div>` +
     `<div class="gauge-num" style="font-size:1.1rem">${main}</div><div class="gauge-label muted">${sub}</div></div>`;
-  const r = c.rates || {}, inf = c.inflation || {}, fx = c.fx || {};
+  const r = c.rates || {}, inf = c.inflation || {}, fx = c.fx || {}, gd = c.gold || {};
   if (cc) setHTML(cc,
     card('💵 금리', r.phase || '—', `美10Y ${r.ust10y ?? '—'} ${arrow(r.ust10yTrend)} · 국고3Y ${r.kr3y ?? '—'} · 韓기준 ${r.krBase ?? '—'}`) +
     card('🔥 인플레이션', inf.tracked ? inf.phase : '미기록', inf.tracked ? `美CPI ${inf.usCpi ?? '—'} ${arrow(inf.usCpiTrend)} · 韓 ${inf.krCpi ?? '—'}` : 'CPI 수집되면 표시') +
-    card('💱 달러환율', fx.phase || '—', `원/달러 ${fx.usdkrw ?? '—'} ${arrow(fx.usdkrwTrend)} · DXY ${fx.dxy ?? '—'} · ${fx.level || ''}`));
+    card('💱 달러환율', fx.phase || '—', `원/달러 ${fx.usdkrw ?? '—'} ${arrow(fx.usdkrwTrend)} · DXY ${fx.dxy ?? '—'} · ${fx.level || ''}`) +
+    card('🥇 금값(안전자산)', gd.tracked ? gd.read : '미기록', gd.tracked ? `${gd.value ?? '—'} ${arrow(gd.trend)} ${gd.changePct != null ? '(' + (gd.changePct >= 0 ? '+' : '') + gd.changePct + '%)' : ''}` : '금값 수집되면 표시'));
 }
 async function loadMarketTab() {
   await loadMacroCompass();
