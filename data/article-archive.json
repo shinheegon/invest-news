@@ -3,6 +3,24 @@
   "SK하이닉스(000660)": {
    "articles": [
     {
+     "date": "2026-07-26",
+     "source": "파이낸셜·증권",
+     "title": "서학개미 7300억 쓸어담은 SK하이닉스 ADR…액티브 ETF도 편입 확대",
+     "link": "https://www.fnnews.com/news/202607261031099815"
+    },
+    {
+     "date": "2026-07-26",
+     "source": "연합인포맥스",
+     "title": "다음주 SK하이닉스·삼성전자 실적 발표…코스피 향방은",
+     "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4426853"
+    },
+    {
+     "date": "2026-07-26",
+     "source": "연합뉴스·경제",
+     "title": "SK하이닉스 업은 크레딧물…높아진 캐리 매력에 투심 살아날까",
+     "link": "https://www.yna.co.kr/view/AKR20260725026700008"
+    },
+    {
      "date": "2026-07-24",
      "source": "한국경제·경제",
      "title": "\"최태원, 노소영에 현금 9440억 줘라\"…SK하이닉스 주가 영향은",
@@ -703,29 +721,35 @@
      "source": "연합뉴스·경제",
      "title": "SK하이닉스, 메가프로젝트 반영 증권신고서 정정…투자위험 추가",
      "link": "https://www.yna.co.kr/view/AKR20260701062000003"
-    },
-    {
-     "date": "2026-07-01",
-     "source": "아시아경제",
-     "title": "유진투자증권, '삼성전자 vs SK하이닉스' 수익률 경쟁 이벤트 진행",
-     "link": "https://view.asiae.co.kr/article/2026070109005996390"
-    },
-    {
-     "date": "2026-06-30",
-     "source": "한국경제",
-     "title": "- SK하이닉스(000660): +0.8% 마감. 신한 \"美 증시 진출로 메모리 대장주 지위 재부각\", SKT가 美 AI 투자법인 지분 4,000억 취득.",
-     "link": "https://www.hankyung.com/article/2026063056766"
-    },
-    {
-     "date": "2026-06-30",
-     "source": "연합뉴스",
-     "title": "- SK하이닉스(000660): SK 2,100조 AI·반도체 베팅 핵심. 마이크론 'AI 파티 계속'·HBM 호황 지속 코멘트가 우호.",
-     "link": "https://www.yna.co.kr/view/AKR20260629139400003"
     }
    ]
   },
   "삼성전자(005930)": {
    "articles": [
+    {
+     "date": "2026-07-26",
+     "source": "한국경제·경제",
+     "title": "최재인 \"삼성전자 스마트 글라스, AI 경험 확장하는 계기 될 것\"",
+     "link": "https://www.hankyung.com/article/202607265833i"
+    },
+    {
+     "date": "2026-07-26",
+     "source": "한국경제·경제",
+     "title": "삼성전자, 브로드컴과 290조원 규모 AI 반도체 초대형 동맹",
+     "link": "https://www.hankyung.com/article/202607255637i"
+    },
+    {
+     "date": "2026-07-26",
+     "source": "한국경제·경제",
+     "title": "[속보] 삼성전자, 브로드컴 제품에 2nm 이하 첨단 파운드리 공정 적용",
+     "link": "https://www.hankyung.com/article/2026072556167"
+    },
+    {
+     "date": "2026-07-26",
+     "source": "연합인포맥스",
+     "title": "다음주 SK하이닉스·삼성전자 실적 발표…코스피 향방은",
+     "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4426853"
+    },
     {
      "date": "2026-07-24",
      "source": "한국경제·경제",
@@ -1421,35 +1445,35 @@
      "source": "한국경제",
      "title": "- 삼성전자(005930): 수출 반도체 448억·마이크론 실적의 구조적 수혜지만 외인 순매도 표적. 밤사이 나스닥 반도체 약세로 개장 약세 전이 가능. \"메모리",
      "link": "https://www.hankyung.com/article/2026070180066"
-    },
-    {
-     "date": "2026-07-02",
-     "source": "파이낸셜뉴스",
-     "title": "\"5억 올인했더니 30억\"… 삼성전자 장기투자로 은퇴한다는 학원강사",
-     "link": "https://www.fnnews.com/news/202607011558345464"
-    },
-    {
-     "date": "2026-07-01",
-     "source": "한국경제·증권",
-     "title": "코스피, 미 기술주 훈풍에 장 초반 상승…삼성전자 1%↑",
-     "link": "https://www.hankyung.com/article/2026070183906"
-    },
-    {
-     "date": "2026-06-30",
-     "source": "한국경제",
-     "title": "- 삼성전자(005930): 전일 -4.86% '셀온뉴스' 이후, 밤사이 美 반도체 랠리(SMH +3%)로 오늘 반등 시도 가능. 2,655조 국내투자 모멘텀 유",
-     "link": "https://www.hankyung.com/article/2026062951167"
-    },
-    {
-     "date": "2026-06-30",
-     "source": "연합뉴스",
-     "title": "- 삼성전자(005930): 6/30 3%대 급반등 마감, 지수 견인. 메모리 슈퍼사이클·800조 메가프로젝트 이중 수혜선.",
-     "link": "https://www.yna.co.kr/view/AKR20260630040451008"
     }
    ]
   },
   "현대차(005380)": {
    "articles": [
+    {
+     "date": "2026-07-26",
+     "source": "한국경제·경제",
+     "title": "[속보]현대차, 엔비디아와 '로봇 레퍼런스 플랫폼' 구축…개방형 생태계 조성",
+     "link": "https://www.hankyung.com/article/2026072556157"
+    },
+    {
+     "date": "2026-07-26",
+     "source": "한국경제·경제",
+     "title": "[속보] 젠슨황 \"현대차와 자율운행 제네시스 차량 함께 개발\"",
+     "link": "https://www.hankyung.com/article/2026072553697"
+    },
+    {
+     "date": "2026-07-26",
+     "source": "한국경제·경제",
+     "title": "[속보] 정의선 \"현대차 추구 피지컬 AI는 도시 레벨의 통합 지능화\"",
+     "link": "https://www.hankyung.com/article/2026072554227"
+    },
+    {
+     "date": "2026-07-26",
+     "source": "아시아경제",
+     "title": "'삼성 휴머노이드' 카운트다운…LG·현대차 로봇전쟁 본격화 [주末머니]",
+     "link": "https://view.asiae.co.kr/article/2026072411230773805"
+    },
     {
      "date": "2026-07-24",
      "source": "한국경제·증권",
@@ -1973,6 +1997,12 @@
   "애플(AAPL)": {
    "articles": [
     {
+     "date": "2026-07-26",
+     "source": "한국경제·경제",
+     "title": "애플, '후려치기'에 결국 발목 잡혔다…'슈퍼을' 메모리의 반란",
+     "link": "https://www.hankyung.com/article/202607266251i"
+    },
+    {
      "date": "2026-07-23",
      "source": "한국경제·경제",
      "title": "노태문, 애플 겨냥 \"7년 쌓은 폴더블 기술 못 따라와\"",
@@ -2443,6 +2473,12 @@
   "기아(000270)": {
    "articles": [
     {
+     "date": "2026-07-26",
+     "source": "한국경제·증권",
+     "title": "영업이익 감소 '쇼크'로 급락한 기아…증권가선 \"극단적 저평가 구간\"",
+     "link": "https://www.hankyung.com/article/202607245152i"
+    },
+    {
      "date": "2026-07-24",
      "source": "한국경제·경제",
      "title": "전기차 판매 60% 뛴 기아, 글로벌 매출·판매량·시장점유율 '역대 최대' [종합]",
@@ -2673,6 +2709,12 @@
   "삼성전기(009150)": {
    "articles": [
     {
+     "date": "2026-07-26",
+     "source": "한국경제·증권",
+     "title": "급등락하는 삼성전기, 30일 실적발표 앞두고 'PER 73배' 부각된 이유",
+     "link": "https://www.hankyung.com/article/202607244627i"
+    },
+    {
      "date": "2026-07-24",
      "source": "파이낸셜·증권",
      "title": "\"올해 주가 5배 뛴 삼성전기, 300만원까지 더 오를 것\"…\"LS일렉트릭, 역대 최대 실적\" [株토피아]",
@@ -2862,6 +2904,54 @@
   },
   "엔비디아(NVDA)": {
    "articles": [
+    {
+     "date": "2026-07-26",
+     "source": "한국경제·경제",
+     "title": "최태원 \"메가 프로젝트, 韓 성장 위한 것\"…SK, 엔비디아와 AI 동맹",
+     "link": "https://www.hankyung.com/article/202607255728i"
+    },
+    {
+     "date": "2026-07-26",
+     "source": "한국경제·경제",
+     "title": "[속보]현대차, 엔비디아와 '로봇 레퍼런스 플랫폼' 구축…개방형 생태계 조성",
+     "link": "https://www.hankyung.com/article/2026072556157"
+    },
+    {
+     "date": "2026-07-26",
+     "source": "한국경제·경제",
+     "title": "[속보] 李대통령 만난 젠슨 황 \"엔비디아-SK, 5000억불 파트너십 발표\"",
+     "link": "https://www.hankyung.com/article/2026072553607"
+    },
+    {
+     "date": "2026-07-26",
+     "source": "한국경제·경제",
+     "title": "[속보] 정의선 회장 \"엔비디아·구글 등과 협력, 피지컬 AI 구현 가속화\"",
+     "link": "https://www.hankyung.com/article/2026072554157"
+    },
+    {
+     "date": "2026-07-26",
+     "source": "한국경제·경제",
+     "title": "[속보] 네이버 이해진 \"엔비디아·브룩필드서 100억달러 거금 투자\"",
+     "link": "https://www.hankyung.com/article/2026072554217"
+    },
+    {
+     "date": "2026-07-26",
+     "source": "한국경제·경제",
+     "title": "'깐부' 정의선·젠슨 황, 엔비디아 본사에서 회동…AI 후속 논의",
+     "link": "https://www.hankyung.com/article/202607255391g"
+    },
+    {
+     "date": "2026-07-26",
+     "source": "연합인포맥스",
+     "title": "KAIST-엔비디아, 인간 움직임 학습하는 피지컬 AI 센터 설립",
+     "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4426870"
+    },
+    {
+     "date": "2026-07-26",
+     "source": "연합뉴스·경제",
+     "title": "이해진 \"엔비디아·브룩필드, 네이버에 14조6천억원 투자\"",
+     "link": "https://www.yna.co.kr/view/AKR20260725033600017"
+    },
     {
      "date": "2026-07-24",
      "source": "한국경제·증권",
@@ -3113,6 +3203,12 @@
   "인텔(INTC)": {
    "articles": [
     {
+     "date": "2026-07-26",
+     "source": "한국경제·증권",
+     "title": "인텔까지 번진 '과다 지출 우려'…\"반도체 조정은 건강\" 64% [김현석의 월스트리트나우]",
+     "link": "https://www.hankyung.com/article/202607255306i"
+    },
+    {
      "date": "2026-07-24",
      "source": "한국경제·경제",
      "title": "'깜짝 실적' 인텔 \"CPU 전례없는 수요 강세\"",
@@ -3282,6 +3378,24 @@
   },
   "네이버(035420)": {
    "articles": [
+    {
+     "date": "2026-07-26",
+     "source": "한국경제·경제",
+     "title": "[속보] 네이버 이해진 \"엔비디아·브룩필드서 100억달러 거금 투자\"",
+     "link": "https://www.hankyung.com/article/2026072554217"
+    },
+    {
+     "date": "2026-07-26",
+     "source": "연합뉴스·경제",
+     "title": "이해진 \"엔비디아·브룩필드, 네이버에 14조6천억원 투자\"",
+     "link": "https://www.yna.co.kr/view/AKR20260725033600017"
+    },
+    {
+     "date": "2026-07-26",
+     "source": "연합뉴스·경제",
+     "title": "AI 데이터센터 판 키운다…네이버 14조·SKT 2GW 추진(종합)",
+     "link": "https://www.yna.co.kr/view/AKR20260725033651017"
+    },
     {
      "date": "2026-07-24",
      "source": "한국경제·증권",
@@ -5677,6 +5791,12 @@
   "LG화학(051910)": {
    "articles": [
     {
+     "date": "2026-07-26",
+     "source": "연합인포맥스",
+     "title": "LG화학, 그린수소 전극 수명 2배 높여…이리듐 사용량 절반 절감",
+     "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4426874"
+    },
+    {
      "date": "2026-07-13",
      "source": "연합뉴스·경제",
      "title": "7월 엔지니어상에 김세현 LG화학 연구위원·최양일 이엠텍 대표",
@@ -6111,6 +6231,12 @@
   "KT(030200)": {
    "articles": [
     {
+     "date": "2026-07-26",
+     "source": "연합인포맥스",
+     "title": "KT, 실제 생산성 보여주는 '금융 AX' 제안…팔란티어 도입 컨설팅도 제공",
+     "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4426866"
+    },
+    {
      "date": "2026-07-24",
      "source": "연합뉴스·경제",
      "title": "KT, 갤럭시 폴드8·플립8 체험공간 전국 운영",
@@ -6458,6 +6584,12 @@
   },
   "LG전자(066570)": {
    "articles": [
+    {
+     "date": "2026-07-26",
+     "source": "연합인포맥스",
+     "title": "LG전자 인스타뷰 냉장고, 2016년 출시 이후 누적 판매 530만대 돌파",
+     "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4426871"
+    },
     {
      "date": "2026-07-23",
      "source": "한국경제·경제",
@@ -8015,6 +8147,18 @@
   "테슬라(TSLA)": {
    "articles": [
     {
+     "date": "2026-07-26",
+     "source": "한국경제·증권",
+     "title": "퇴직연금도 반도체 쏠림...美 장기채, 테슬라는 팔았다",
+     "link": "https://www.hankyung.com/article/202607244284i"
+    },
+    {
+     "date": "2026-07-26",
+     "source": "아시아경제",
+     "title": "[주末머니]테슬라, 외형은 성장 수익성은 후퇴…\"로보택시 확장 과제\"",
+     "link": "https://view.asiae.co.kr/article/2026072409311961519"
+    },
+    {
      "date": "2026-07-24",
      "source": "한국경제·증권",
      "title": "간밤 15% 급락한 테슬라…보유지분 많은 한국 상장사 따져보니",
@@ -8455,6 +8599,12 @@
   "HMM(011200)": {
    "articles": [
     {
+     "date": "2026-07-26",
+     "source": "한국경제·경제",
+     "title": "'마스가' 본격화…HD현대삼호, HMM 美 항만크레인 공급 계약",
+     "link": "https://www.hankyung.com/article/202607266165i"
+    },
+    {
      "date": "2026-07-15",
      "source": "이데일리·경제",
      "title": "HMM, 美 캘리포니아산 오렌지 40% 운송…4년 연속 1위",
@@ -8570,6 +8720,12 @@
   },
   "팔란티어(PLTR)": {
    "articles": [
+    {
+     "date": "2026-07-26",
+     "source": "연합인포맥스",
+     "title": "KT, 실제 생산성 보여주는 '금융 AX' 제안…팔란티어 도입 컨설팅도 제공",
+     "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4426866"
+    },
     {
      "date": "2026-06-26",
      "source": "연합뉴스·경제",
@@ -9607,6 +9763,12 @@
   "이리듐(IRDM)": {
    "articles": [
     {
+     "date": "2026-07-26",
+     "source": "연합인포맥스",
+     "title": "LG화학, 그린수소 전극 수명 2배 높여…이리듐 사용량 절반 절감",
+     "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4426874"
+    },
+    {
      "date": "2026-06-30",
      "source": "한국경제·증권",
      "title": "'리틀 스페이스X' 로켓랩, 위성통신사 이리듐 80억달러에 인수",
@@ -9616,6 +9778,12 @@
   },
   "에이피알(278470)": {
    "articles": [
+    {
+     "date": "2026-07-26",
+     "source": "연합뉴스·경제",
+     "title": "[게시판] 에이피알, '반도체 첨단산업 기술개발 사업' 착수 회의",
+     "link": "https://www.yna.co.kr/view/AKR20260726018500030"
+    },
     {
      "date": "2026-07-19",
      "source": "연합뉴스·경제",
@@ -9827,6 +9995,42 @@
   "SK(034730)": {
    "articles": [
     {
+     "date": "2026-07-26",
+     "source": "한국경제·경제",
+     "title": "최태원 \"메가 프로젝트, 韓 성장 위한 것\"…SK, 엔비디아와 AI 동맹",
+     "link": "https://www.hankyung.com/article/202607255728i"
+    },
+    {
+     "date": "2026-07-26",
+     "source": "한국경제·경제",
+     "title": "삼성·SK, 美 빅테크와 9500억달러 'AI 동맹'…메모리·파운드리 전방위 구축",
+     "link": "https://www.hankyung.com/article/202607255676i"
+    },
+    {
+     "date": "2026-07-26",
+     "source": "한국경제·경제",
+     "title": "[속보] 李대통령 만난 젠슨 황 \"엔비디아-SK, 5000억불 파트너십 발표\"",
+     "link": "https://www.hankyung.com/article/2026072553607"
+    },
+    {
+     "date": "2026-07-26",
+     "source": "한국경제·경제",
+     "title": "[속보] SK, 앤트로픽·AWS와 AI 데이터센터 구축 등 협력 확대",
+     "link": "https://www.hankyung.com/article/2026072556147"
+    },
+    {
+     "date": "2026-07-26",
+     "source": "한국경제·경제",
+     "title": "[속보] SK, 마이크로소프트와 AI 메모리 장기 공급 협력",
+     "link": "https://www.hankyung.com/article/2026072556137"
+    },
+    {
+     "date": "2026-07-26",
+     "source": "한국경제·경제",
+     "title": "SK, 美 빅테크와 1100조원 'AI 동맹'…글로벌 생태계 주도권 잡는다",
+     "link": "https://www.hankyung.com/article/202607255655i"
+    },
+    {
      "date": "2026-07-24",
      "source": "한국경제·증권",
      "title": "1조원 달하는 세기의 재산분할 판결…\"SK 팔고 텔레콤 사라\"",
@@ -10006,6 +10210,24 @@
   },
   "SKT(017670)": {
    "articles": [
+    {
+     "date": "2026-07-26",
+     "source": "연합인포맥스",
+     "title": "SKT, 독자 AI 모델로 스타트업 혁신 지원…A.X K1 API 제공",
+     "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4426875"
+    },
+    {
+     "date": "2026-07-26",
+     "source": "연합뉴스·경제",
+     "title": "SKT, 독파모 AI 모델로 스타트업 AX 지원…\"활용범위 확대\"",
+     "link": "https://www.yna.co.kr/view/AKR20260726022300017"
+    },
+    {
+     "date": "2026-07-26",
+     "source": "연합뉴스·경제",
+     "title": "AI 데이터센터 판 키운다…네이버 14조·SKT 2GW 추진(종합)",
+     "link": "https://www.yna.co.kr/view/AKR20260725033651017"
+    },
     {
      "date": "2026-07-24",
      "source": "한국경제·증권",
@@ -10310,6 +10532,12 @@
   },
   "삼성SDI(006400)": {
    "articles": [
+    {
+     "date": "2026-07-26",
+     "source": "한국경제·증권",
+     "title": "삼성SDI, 올해 영업익 -2650억 vs +4300억…극과 극 전망 원인은?",
+     "link": "https://www.hankyung.com/article/202607244812i"
+    },
     {
      "date": "2026-07-22",
      "source": "한국경제·증권",
@@ -11092,6 +11320,12 @@
   },
   "LS일렉트릭(010120)": {
    "articles": [
+    {
+     "date": "2026-07-26",
+     "source": "아시아경제",
+     "title": "[주末머니]\"하이퍼스케일러, 의심 말라\" 목표가 20% 높아진 LS일렉트릭",
+     "link": "https://view.asiae.co.kr/article/2026072415252852173"
+    },
     {
      "date": "2026-07-24",
      "source": "한국경제·증권",
@@ -12219,6 +12453,12 @@
   "쿠팡(CPNG)": {
    "articles": [
     {
+     "date": "2026-07-26",
+     "source": "연합뉴스·경제",
+     "title": "쿠팡 사태 진화 나선 정부…미국 정부·의회·업계 현지 설득전",
+     "link": "https://www.yna.co.kr/view/AKR20260725028600003"
+    },
+    {
      "date": "2026-07-22",
      "source": "한국경제·경제",
      "title": "쿠팡 6200억 과징금 소송…쟁점은 유출규모, 3700만개냐 3000개냐",
@@ -12413,6 +12653,12 @@
   "마이크로소프트(MSFT)": {
    "articles": [
     {
+     "date": "2026-07-26",
+     "source": "한국경제·경제",
+     "title": "[속보] SK, 마이크로소프트와 AI 메모리 장기 공급 협력",
+     "link": "https://www.hankyung.com/article/2026072556137"
+    },
+    {
      "date": "2026-07-07",
      "source": "한국경제·경제",
      "title": "마이크로소프트, 전체 인력의 2.1% 해고",
@@ -12450,6 +12696,30 @@
   },
   "브로드컴(AVGO)": {
    "articles": [
+    {
+     "date": "2026-07-26",
+     "source": "한국경제·경제",
+     "title": "삼성전자, 브로드컴과 290조원 규모 AI 반도체 초대형 동맹",
+     "link": "https://www.hankyung.com/article/202607255637i"
+    },
+    {
+     "date": "2026-07-26",
+     "source": "한국경제·경제",
+     "title": "[속보] 최태원 회장 \"브로드컴, 깜짝 놀랄 숫자의 메모리칩 계속 요구\"",
+     "link": "https://www.hankyung.com/article/2026072554147"
+    },
+    {
+     "date": "2026-07-26",
+     "source": "한국경제·경제",
+     "title": "[속보] 삼성전자, 브로드컴 제품에 2nm 이하 첨단 파운드리 공정 적용",
+     "link": "https://www.hankyung.com/article/2026072556167"
+    },
+    {
+     "date": "2026-07-26",
+     "source": "한국경제·경제",
+     "title": "[속보] 삼성-브로드컴 '5년간 200억불' 첨단 메모리 반도체·파운드리 MOU 체결",
+     "link": "https://www.hankyung.com/article/2026072555697"
+    },
     {
      "date": "2026-07-09",
      "source": "한국경제·경제",
@@ -12628,6 +12898,30 @@
   },
   "대상(001680)": {
    "articles": [
+    {
+     "date": "2026-07-26",
+     "source": "연합뉴스·경제",
+     "title": "크라운해태제과, 한음영재 대회 개최…대상에 '예움전통연희단'",
+     "link": "https://www.yna.co.kr/view/AKR20260726017000030"
+    },
+    {
+     "date": "2026-07-26",
+     "source": "연합뉴스·경제",
+     "title": "농식품부, 제15회 김치품평회 대상에 '본가 총각김치' 선정",
+     "link": "https://www.yna.co.kr/view/AKR20260726014700030"
+    },
+    {
+     "date": "2026-07-26",
+     "source": "뉴시스·경제",
+     "title": "해외 소비자가 뽑은 K-김치…본가 총각김치, 대상 수상",
+     "link": "https://www.newsis.com/view/NISX20260725_0003722914"
+    },
+    {
+     "date": "2026-07-26",
+     "source": "뉴시스·경제",
+     "title": "한전, ICA 신설 APAC 어워즈 대상…국내 기업 유일 수상",
+     "link": "https://www.newsis.com/view/NISX20260726_0003723445"
+    },
     {
      "date": "2026-07-24",
      "source": "한국경제·경제",
@@ -13260,6 +13554,12 @@
   },
   "동국제강(460860)": {
    "articles": [
+    {
+     "date": "2026-07-26",
+     "source": "한국경제·증권",
+     "title": "데이터센터 짓느라 철강이 모자란다...현대제철·동국제강 볕드나",
+     "link": "https://www.hankyung.com/article/202607244722i"
+    },
     {
      "date": "2026-07-24",
      "source": "연합인포맥스",
@@ -14805,6 +15105,18 @@
   "호반건설": {
    "articles": [
     {
+     "date": "2026-07-26",
+     "source": "연합뉴스·경제",
+     "title": "호반건설, 군포 금정3구역 재개발 수주…공사비 2천300억원",
+     "link": "https://www.yna.co.kr/view/AKR20260726021900003"
+    },
+    {
+     "date": "2026-07-26",
+     "source": "뉴시스·경제",
+     "title": "호반건설, 2300억원 군포 금정3구역 재개발 시공권 확보",
+     "link": "https://www.newsis.com/view/NISX20260726_0003723452"
+    },
+    {
      "date": "2026-07-11",
      "source": "한국경제·증권",
      "title": "호반건설, 한진칼 추가 매입…지분율 18%→20% 확대",
@@ -15237,6 +15549,12 @@
   "JP모간(JPM)": {
    "articles": [
     {
+     "date": "2026-07-26",
+     "source": "연합뉴스·경제",
+     "title": "KB국민은행, 'JP모간 키넥시스' 블록체인 기반 기업결제 서비스",
+     "link": "https://www.yna.co.kr/view/AKR20260726028400002"
+    },
+    {
      "date": "2026-07-21",
      "source": "한국경제·증권",
      "title": "모건스탠리·JP모간 \"반도체 저가매수 기회\"…삼전닉스 반등",
@@ -15463,6 +15781,12 @@
   "SK텔레콤(017670)": {
    "articles": [
     {
+     "date": "2026-07-26",
+     "source": "아시아경제",
+     "title": "아시아 1위 데이터센터 사업자 노리는 SK텔레콤[주末머니]",
+     "link": "https://view.asiae.co.kr/article/2026072415093838974"
+    },
+    {
      "date": "2026-07-24",
      "source": "아시아경제",
      "title": "SK텔레콤, AI 데이터센터 사업 위해 'SK하이퍼' 설립…7500억 출자 계획",
@@ -15610,6 +15934,12 @@
   },
   "SpaceX": {
    "articles": [
+    {
+     "date": "2026-07-26",
+     "source": "MarketWatch",
+     "title": "‘Time will tell whether that was a good bet’: My adviser got me a full SpaceX IPO allocation. Was I lucky?",
+     "link": "https://www.marketwatch.com/story/time-will-tell-whether-that-was-a-good-bet-my-adviser-got-me-a-full-spacex-ipo-allocation-was-i-lucky-7f319645?mod=mw_rss_topstories"
+    },
     {
      "date": "2026-07-22",
      "source": "MarketWatch",
@@ -16193,7 +16523,27 @@
      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=04523126645517800"
     }
    ]
+  },
+  "이수페타시스(007660)": {
+   "articles": [
+    {
+     "date": "2026-07-26",
+     "source": "한국경제·증권",
+     "title": "AI랠리 최대 수혜주라더니…'반토막' 이수페타시스, 반등은 언제쯤?",
+     "link": "https://www.hankyung.com/article/202607243994i"
+    }
+   ]
+  },
+  "이엠앤아이(083470)": {
+   "articles": [
+    {
+     "date": "2026-07-26",
+     "source": "아시아경제",
+     "title": "이엠앤아이(083470)·소",
+     "link": "https://view.asiae.co.kr/article/2026072414312151532"
+    }
+   ]
   }
  },
- "updatedAt": "2026-07-24T22:23:33+09:00"
+ "updatedAt": "2026-07-26T15:37:36+09:00"
 }
