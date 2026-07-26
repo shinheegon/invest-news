@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-07-26T17:05:39+09:00",
+ "updatedAt": "2026-07-26T17:29:04+09:00",
  "note": "금리·인플레이션·달러환율 3대 축의 수준·추세와 통합 신호. 위기 플레이북(완화=금리인하 트리거)과 연결. 투자권유 아님.",
  "rates": {
   "ust10y": 4.69,
@@ -25,6 +25,13 @@
   "dxyTrend": "상승",
   "level": "안정권",
   "phase": "원화강세(위험선호)"
+ },
+ "gold": {
+  "value": null,
+  "trend": null,
+  "changePct": null,
+  "tracked": false,
+  "read": "미기록"
  },
  "signal": {
   "regime": "중립",
