@@ -472,7 +472,27 @@ async function loadMarketIndicators() {
       : '<tbody><tr><td class="muted">지표 데이터가 비어 있습니다.</td></tr></tbody>');
   }
 }
+async function loadMacroCompass() {
+  const c = await getJSON(`${DATA}/macro-compass.json`);
+  const sg = document.getElementById('compassSignal');
+  const cc = document.getElementById('compassCards');
+  if (!c) { if (sg) setHTML(sg, '<div class="muted">거시 데이터가 쌓이면 나침반이 생성됩니다.</div>'); return; }
+  const rg = c.signal?.regime || '중립';
+  const cls = rg === '위험선호' ? 'up' : rg === '위험회피' ? 'down' : 'flat';
+  const icon = rg === '위험선호' ? '🟢' : rg === '위험회피' ? '🔴' : '🟡';
+  if (sg) setHTML(sg, `<div class="macro-head ${cls}">${icon} 통합 신호: <b>${rg}</b> <span class="muted" style="font-weight:400">(tilt ${c.signal?.tilt >= 0 ? '+' : ''}${c.signal?.tilt ?? 0})</span></div>` +
+    `<div class="macro-guide">🎯 ${c.signal?.guidance || ''}</div>`);
+  const arrow = t => t === '상승' ? '▲' : t === '하락' ? '▼' : t === '둔화' ? '▼' : t === '가속' ? '▲' : '—';
+  const card = (title, main, sub) => `<div class="gauge-card"><div class="gauge-title">${title}</div>` +
+    `<div class="gauge-num" style="font-size:1.1rem">${main}</div><div class="gauge-label muted">${sub}</div></div>`;
+  const r = c.rates || {}, inf = c.inflation || {}, fx = c.fx || {};
+  if (cc) setHTML(cc,
+    card('💵 금리', r.phase || '—', `美10Y ${r.ust10y ?? '—'} ${arrow(r.ust10yTrend)} · 국고3Y ${r.kr3y ?? '—'} · 韓기준 ${r.krBase ?? '—'}`) +
+    card('🔥 인플레이션', inf.tracked ? inf.phase : '미기록', inf.tracked ? `美CPI ${inf.usCpi ?? '—'} ${arrow(inf.usCpiTrend)} · 韓 ${inf.krCpi ?? '—'}` : 'CPI 수집되면 표시') +
+    card('💱 달러환율', fx.phase || '—', `원/달러 ${fx.usdkrw ?? '—'} ${arrow(fx.usdkrwTrend)} · DXY ${fx.dxy ?? '—'} · ${fx.level || ''}`));
+}
 async function loadMarketTab() {
+  await loadMacroCompass();
   await Promise.all([loadCryptoFearGreed(), loadCoinPrices(), loadMarketIndicators()]);
   renderFGChart();
 }

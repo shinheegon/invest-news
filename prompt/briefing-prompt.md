@@ -100,6 +100,10 @@ WebSearch/WebFetch로 아래를 최신값으로 확보(각 항목 출처 URL 필
 - **주식 공포·탐욕 지수(CNN Fear & Greed)**: 0~100 값 + 분류(예: Fear/Greed). 검색: "CNN fear and greed index today".
 - **증시 지수**: 코스피, 코스닥, S&P500, 나스닥, (가능하면 다우) — 종가/현재가 + 등락률(%).
 - **변동성·금리·환율**: VIX, 美 10년물 국채금리, 달러인덱스(DXY), 원/달러 환율.
+- **🧭 거시 3대 축(반드시 포함 — 나침반 원천)**: 아래 정식 이름 그대로 저장할 것(이름 일관성이 추세추적의 핵심):
+  - 금리: `美 기준금리`(연%), `한국 기준금리`(연%), `美 10년물`, `국고채 3년물`
+  - 인플레이션: `美 CPI`(전년비 %, 최근 발표치), `韓 CPI`(전년비 %) — 월간 발표라 값 유지, 새 발표 시 갱신
+  - 환율: `원/달러`, `달러인덱스(DXY)`
 아래 구조로 `data/market-indicators.json`에 저장한다(값을 못 구한 항목은 빼도 됨):
 ```json
 {
@@ -112,7 +116,11 @@ WebSearch/WebFetch로 아래를 최신값으로 확보(각 항목 출처 URL 필
     { "name": "VIX", "value": "15.2", "change": "-3.1%", "source": "..." },
     { "name": "美 10년물", "value": "4.21%", "change": "+0.03", "source": "..." },
     { "name": "달러인덱스(DXY)", "value": "...", "change": "...", "source": "..." },
-    { "name": "원/달러", "value": "1,360", "change": "+4", "source": "..." }
+    { "name": "원/달러", "value": "1,360", "change": "+4", "source": "..." },
+    { "name": "美 기준금리", "value": "5.25%", "change": "0", "source": "..." },
+    { "name": "한국 기준금리", "value": "2.75%", "change": "0", "source": "..." },
+    { "name": "美 CPI", "value": "3.5%", "change": "-0.3", "source": "..." },
+    { "name": "韓 CPI", "value": "2.4%", "change": "-0.1", "source": "..." }
   ]
 }
 ```
@@ -184,8 +192,12 @@ WebSearch/WebFetch로 아래를 최신값으로 확보(각 항목 출처 URL 필
 > 단순 키워드가 아니라 **기사 내용 + 거시 상황을 과거 사례와 대조**해 "역사가 반복되는지"를 포착한다.
 > 이게 확률을 높이는 핵심 — 지금이 과거 어떤 국면과 닮았는지 알면 무엇이 유리/불리한지 근거가 생긴다.
 
-**(A) 입력 Read**: `data/macro-patterns.json`(패턴 사례집 — 우리가 검증한 반복 패턴) + `data/macro-context.json`
-(오늘 거시 정량 스냅샷 + **자동 감지된 트리거**). 오늘의 브리핑·`analysis.md`·뉴스 내용도 함께 본다.
+**(A) 입력 Read**: `data/macro-patterns.json`(패턴 사례집) + `data/macro-context.json`(오늘 거시 스냅샷·트리거)
++ **`data/macro-compass.json`(🧭 금리·인플레·환율 3대 축의 추세·통합신호)**. 오늘 브리핑·`analysis.md`·뉴스도 본다.
+- 🧭 **거시 나침반 반영(필수)**: `macro-compass.json`의 `signal.regime`(위험선호/중립/위험회피)과 `rates.phase`(인하/인상)·
+  `inflation.phase`(둔화/가속)·`fx.phase`(원화강세/약세)를 시나리오·발굴 판단에 반영한다.
+  - **금리인하+인플레둔화**면 위기 플레이북의 '완화→회복' 패턴 진행 신호 → 성장주 우호. **긴축+물가가속+원화약세**면 방어(우량주·배당) 우위.
+  - 특히 안정형·거시민감 종목은 이 3대 축 방향을 근거로 판단(`signal.guidance` 따름).
 
 **(A-2) 📜 역사 위기 플레이북 참조 — `data/macro-history-agg.json`도 Read** 한다. 굵직한 위기(IMF·닷컴·
 2008·코로나·전쟁)의 **반복 확률·평균 낙폭·회복기간**이 수치화돼 있다. `currentMatch`가 오늘 닮은 패턴이다.

@@ -34,6 +34,7 @@ python3 "$PROJECT_DIR/scripts/build-krx-dict.py" 2>&1 | tee -a "$LOG" || true
 python3 "$PROJECT_DIR/scripts/niche-radar.py" 2>&1 | tee -a "$LOG" || true
 python3 "$PROJECT_DIR/scripts/macro-context.py" 2>&1 | tee -a "$LOG" || true
 python3 "$PROJECT_DIR/scripts/macro-history.py" 2>&1 | tee -a "$LOG" || true
+python3 "$PROJECT_DIR/scripts/macro-compass.py" 2>&1 | tee -a "$LOG" || true
 
 # --- 생성 에이전트가 코드·설정을 건드리지 못하도록 실행 전 기준점 저장 ---
 cp "$PROJECT_DIR/scripts/agent-guard.py" "$GUARD_COPY"
@@ -67,6 +68,7 @@ fi
 
 # --- 투자지표 히스토리 + 검증 통계 + 사이트 빌드 + 이메일 발송 ---
 BRIEFING_DATE="$DATE" python3 "$PROJECT_DIR/scripts/track-indicators.py" 2>&1 | tee -a "$LOG" || true
+python3 "$PROJECT_DIR/scripts/macro-compass.py" 2>&1 | tee -a "$LOG" || true
 python3 "$PROJECT_DIR/scripts/score-predictions.py" 2>&1 | tee -a "$LOG" || true
 python3 "$PROJECT_DIR/scripts/verify-stats.py" 2>&1 | tee -a "$LOG" || true
 python3 "$PROJECT_DIR/scripts/price-history.py" 2>&1 | tee -a "$LOG" || true

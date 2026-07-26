@@ -122,6 +122,7 @@ python3 "$PROJECT_DIR/scripts/build-krx-dict.py" >> "$LOG" 2>&1 || echo "[$(ts)]
 python3 "$PROJECT_DIR/scripts/niche-radar.py" >> "$LOG" 2>&1 || echo "[$(ts)] WARN niche-radar failed" >> "$LOG"
 python3 "$PROJECT_DIR/scripts/macro-context.py" >> "$LOG" 2>&1 || echo "[$(ts)] WARN macro-context failed" >> "$LOG"
 python3 "$PROJECT_DIR/scripts/macro-history.py" >> "$LOG" 2>&1 || echo "[$(ts)] WARN macro-history failed" >> "$LOG"
+python3 "$PROJECT_DIR/scripts/macro-compass.py" >> "$LOG" 2>&1 || echo "[$(ts)] WARN macro-compass failed" >> "$LOG"
 
 # 생성 에이전트 실행 전 코드·설정 파일의 기준점을 별도 임시 복사본으로 저장한다.
 GUARD_COPY="$(mktemp)"
@@ -171,6 +172,7 @@ fi
 # --- 투자지표 히스토리 누적(추세 그래프 원천) ---
 BRIEFING_DATE="$DATE" python3 "$PROJECT_DIR/scripts/track-indicators.py" >> "$LOG" 2>&1 || \
   echo "[$(ts)] WARN track-indicators failed" >> "$LOG"
+python3 "$PROJECT_DIR/scripts/macro-compass.py" >> "$LOG" 2>&1 || echo "[$(ts)] WARN macro-compass(post) failed" >> "$LOG"
 
 # --- 예측 자동 채점(네이버 금융, 초과수익률 기준) → 통계 재계산 ---
 python3 "$PROJECT_DIR/scripts/score-predictions.py" >> "$LOG" 2>&1 || \
