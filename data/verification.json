@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-07-28T10:23:37+09:00",
+ "updatedAt": "2026-07-28T21:36:14+09:00",
  "cases": [
   {
    "name": "이지트로닉스(377330)",
@@ -16015,6 +16015,28 @@
      "price": 57600
     }
    ]
+  },
+  {
+   "name": "엔비알모션(0004V0)",
+   "type": "discovery",
+   "market": "韓",
+   "flagDate": "2026-07-28",
+   "signals": [
+    "휴머노이드액추에이터베어링",
+    "캐파대비수주기회",
+    "신규상장6개월이내"
+   ],
+   "theme": "로봇/휴머노이드",
+   "status": "pending",
+   "checks": [],
+   "convScore": 7,
+   "convTier": "high",
+   "convSignals": [
+    "반복포착",
+    "승세테마",
+    "구체촉발재"
+   ],
+   "convStampedAt": "2026-07-28"
   }
  ],
  "stats": {
@@ -16024,8 +16046,8 @@
   "miss": 84,
   "hitRate": 18.8,
   "avgD3ChangePct": 0.5,
-  "pending": 22,
-  "total": 203,
+  "pending": 23,
+  "total": 204,
   "byType": {
    "leading": {
     "verified": 86,

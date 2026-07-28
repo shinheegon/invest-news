@@ -1,20 +1,21 @@
 {
-  "updatedAt": "2026-07-28T10:30:00+09:00", "session": "AM",
-  "note": "7/28(화) 오전 코스피·코스닥이 개장과 동시에 급락, 장중 두 차례 매도 사이드카가 발동됐다. 발단은 밤사이 뉴욕에서 엔비디아가 'AI 순환금융' 우려(오픈AI에 2,500억달러 지급보증 추진 보도)로 5% 급락했고, 여기에 중국 D램업체 CXMT가 상장 첫날 465% 폭등(시총 712조원)하며 메모리 경쟁 위협론이 겹쳤다. ASML도 -8% 급락. 이 여파로 코스피는 개장 -5.26%(6,400.27)로 출발해 장중 낙폭이 -6~-7%대까지 확대, 코스피·코스닥 양 시장에서 매도 사이드카가 잇달아 발동됐다. 삼성전자·SK하이닉스는 장 초반 8~10% 급락. 7/29(수, 현지시간) FOMC 결과 발표(케빈 워시 신임 의장 첫 주재)를 앞두고 트럼프 대통령은 재차 금리인하를 압박했다.",
-  "stock_fng": { "value": 40, "label": "Fear", "source": "https://www.benzinga.com/markets/market-summary/26/07/60569657/dow-dips-over-300-points-as-oil-prices-rise-greed-index-remains-in-fear-zone" },
+  "updatedAt": "2026-07-28T21:10:00+09:00", "session": "PM",
+  "note": "7/28(화) 코스피·코스닥이 '검은 화요일' 급락 마감. 코스피 -10.84%(6,023.66), 코스닥 -7.72%(705.85)로 사상 최대급 낙폭을 기록했다. 발단은 밤사이 뉴욕 반도체주 급락('AI 순환금융' 우려)에 이어 중국 D램업체 창신메모리(CXMT)가 상하이 커촹반 상장 첫날 465% 폭등(시총 급증)하며 메모리 3강 구도 위협론이 확산된 것. 삼성전자 -13.39%, SK하이닉스 -14.65%로 급락했고 외국인이 약 4조9,820억원 순매도했다. 매도 사이드카·서킷브레이커가 코스피·코스닥 양 시장에서 잇달아 발동됐다(코스피 올 8번째). 정부는 개인 레버리지 ETF 투자 제한 등 대응책을 검토 중이다. 7/29(현지시간) 케빈 워시 신임 연준의장 첫 FOMC 결과 발표, SK하이닉스 2분기 실적발표를 앞두고 있다.",
+  "stock_fng": { "value": 40, "label": "Fear", "source": "https://www.benzinga.com/markets/market-summary/26/07/60715901/dow-gains-over-250-points-amid-lower-oil-prices-investor-sentiment-weakens-greed-index-remains-in-fear-zone" },
   "indices": [
-    { "name": "코스피", "value": "6,400.27", "change": "-5.26%(개장) → 장중 -6~-7%대로 낙폭 확대, 매도 사이드카 발동(전일 6,755.75 +0.97%)", "source": "https://www.yna.co.kr/view/AKR20260728033851008" },
-    { "name": "코스닥", "value": "742.14", "change": "-2.97%(개장) 매도 사이드카 발동(전일 764.86 +2.22%)", "source": "https://www.fnnews.com/news/202607280913174557" },
-    { "name": "S&P 500", "value": "7,413.18", "change": "+0.02%, 7/27(월) 종가", "source": "https://www.washingtonpost.com/business/2026/07/27/wall-street-stocks-dow-nasdaq/504db546-89f8-11f1-8912-d71e69d679d7_story.html" },
-    { "name": "나스닥", "value": "24,932.08", "change": "-0.18%, 7/27(월) 종가 — 엔비디아 -5% 급락이 지수 하방압력", "source": "https://www.washingtonpost.com/business/2026/07/27/wall-street-stocks-dow-nasdaq/504db546-89f8-11f1-8912-d71e69d679d7_story.html" },
-    { "name": "VIX", "value": "22.16", "change": "전일 대비 상승 — 반도체 쇼크로 변동성 확대", "source": "https://www.indexergo.com/series/?frq=Q&idxDetail=23111" },
-    { "name": "美 10년물", "value": "4.60%", "change": "FOMC 대기 속 소폭 하락", "source": "https://news.einfomax.co.kr/news/articleView.html?idxno=4427187" },
-    { "name": "달러인덱스(DXY)", "value": "101.39", "change": "101.3~101.4 레인지 유지", "source": "https://tradingeconomics.com/commodity/gold" },
-    { "name": "원/달러", "value": "1,468.5", "change": "+1.9원, 7/27 15:30 기준가 — 외국인 주식 매도세 영향", "source": "https://www.yna.co.kr/view/AKR20260727120000002" },
-    { "name": "美 기준금리", "value": "3.50~3.75%", "change": "0(동결) — 7/29(현지) FOMC서 케빈 워시 신임 의장 첫 주재, 트럼프는 인하 압박 지속", "source": "https://www.yna.co.kr/view/AKR20260728003900071" },
-    { "name": "한국 기준금리", "value": "2.75%", "change": "+0.25%p, 7/16 인상(2.50%→2.75%, 3년6개월만의 인상)", "source": "https://www.welfarehello.com/community/policyInfo/2026%EB%85%84-7%EC%9B%94-16%EC%9D%BC-%EA%B8%B0%EC%A4%80%EA%B8%88%EB%A6%AC-275-%EC%9D%B8%EC%83%81-%EB%8C%80%EC%B6%9C%ED%88%AC%EC%9E%90%EC%9E%AC%ED%85%8C%ED%81%AC-%EC%98%81%ED%96%A5-%EC%B4%9D%EC%A0%95%EB%A6%AC--48755739-42e9-4173-a5cd-3db71eac13d6" },
-    { "name": "美 CPI", "value": "3.5%", "change": "6월 발표(7/14) — 컨센서스 3.8% 하회, 5개월만의 첫 둔화. 코어 2.6%", "source": "https://intellectia.ai/blog/us-cpi-inflation-fed-policy-july-2026" },
-    { "name": "韓 CPI", "value": "3.2%", "change": "6월, 2개월 연속 3%대 — 한은 인상 근거", "source": "https://www.welfarehello.com/community/policyInfo/2026%EB%85%84-7%EC%9B%94-16%EC%9D%BC-%EA%B8%B0%EC%A4%80%EA%B8%88%EB%A6%AC-275-%EC%9D%B8%EC%83%81-%EB%8C%80%EC%B6%9C%ED%88%AC%EC%9E%90%EC%9E%AC%ED%85%8C%ED%81%AC-%EC%98%81%ED%96%A5-%EC%B4%9D%EC%A0%95%EB%A6%AC--48755739-42e9-4173-a5cd-3db71eac13d6" },
-    { "name": "금(Gold)", "value": "4,052", "change": "안전자산 수요 지속 — 반도체 쇼크·위험회피 속 강세", "source": "https://www.vegannews.co.kr/news/article.html?no=384295" }
+    { "name": "코스피", "value": "6,023.66", "change": "-10.84%(-732.09p)", "source": "https://www.ajunews.com/view/20260728152855341" },
+    { "name": "코스닥", "value": "705.85", "change": "-7.72%(-59.01p)", "source": "https://www.mt.co.kr/stock/2026/07/28/2026072815271081651" },
+    { "name": "S&P 500", "value": "7,413.18", "change": "+0.02%, 7/27(월) 종가", "source": "https://finance.yahoo.com/markets/stocks/articles/stock-market-news-july-27-132000679.html" },
+    { "name": "나스닥", "value": "24,932.08", "change": "-0.18%, 7/27(월) 종가", "source": "https://finance.yahoo.com/markets/stocks/articles/stock-market-news-july-27-132000679.html" },
+    { "name": "VIX", "value": "18.58", "change": "7/27 종가 기준(7/28 韓증시 급락분 미반영 가능)", "source": "https://finance.yahoo.com/quote/%5EVIX/history/" },
+    { "name": "美 10년물", "value": "4.62%", "change": "FOMC 대기", "source": "https://tradingeconomics.com/united-states/government-bond-yield" },
+    { "name": "달러인덱스(DXY)", "value": "101.53", "change": "-0.01%", "source": "https://tradingeconomics.com/dxy:cur" },
+    { "name": "원/달러", "value": "1,462.5", "change": "-6.0원(15:30 기준가)", "source": "https://www.mt.co.kr/economy/2026/07/28/2026072815364551633" },
+    { "name": "美 기준금리", "value": "3.50~3.75%", "change": "0(동결) — 7/29(현지) FOMC 결과 대기, 케빈 워시 신임 의장 첫 주재", "source": "https://www.cnbc.com/2026/06/17/fed-interest-rate-decision-june-2026.html" },
+    { "name": "한국 기준금리", "value": "2.75%", "change": "+0.25%p, 7/16 인상(3년6개월만)", "source": "https://www.korea.kr/briefing/policyBriefingView.do?newsId=156769262" },
+    { "name": "美 CPI", "value": "3.5%", "change": "6월 발표 — 컨센서스 하회, 둔화", "source": "https://www.bls.gov/opub/ted/2026/consumer-prices-up-3-5-percent-over-the-year-ended-june-2026.htm" },
+    { "name": "韓 CPI", "value": "3.2%", "change": "6월, 2개월 연속 3%대", "source": "https://www.korea.kr/briefing/policyBriefingView.do?newsId=156769262" },
+    { "name": "국고채 3년물", "value": "3.829%", "change": "-3.6bp, 급락장 속 안전자산 선호로 강세", "source": "https://www.etoday.co.kr/news/view/2608438" },
+    { "name": "금(Gold)", "value": "4,049.87", "change": "-1.05%", "source": "https://www.riotimesonline.com/gold-silver-precious-metals-tuesday-july-28-2026/" }
   ]
 }

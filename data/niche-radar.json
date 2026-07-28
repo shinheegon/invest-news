@@ -1,9 +1,9 @@
 {
- "updatedAt": "2026-07-28T09:56:05+09:00",
+ "updatedAt": "2026-07-28T21:06:16+09:00",
  "note": "원본 헤드라인의 반복 언급을 탐지한 조사 후보이며 투자권유가 아니다. 동일 기사 재실행은 한 번만 집계하고, 순수 악재 반복과 모호한 회사명은 제외한다.",
  "window": 30,
- "corpusToday": 549,
- "trackedCompanies": 433,
+ "corpusToday": 1003,
+ "trackedCompanies": 442,
  "companies": [
   {
    "code": "030610",
@@ -170,6 +170,34 @@
     {
      "date": "2026-07-26",
      "title": "이엠앤아이(083470)·소"
+    }
+   ]
+  },
+  {
+   "code": "294870",
+   "name": "IPARK현대산업개발",
+   "market": "KOSPI",
+   "cap": 13511,
+   "total": 4,
+   "recent": 3,
+   "activeDays": 4,
+   "firstSeen": "2026-07-24",
+   "lastSeen": "2026-07-28",
+   "score": 20.6,
+   "riskMentions": 0,
+   "catalystMentions": 0,
+   "samples": [
+    {
+     "date": "2026-07-28",
+     "title": "IPARK현대산업개발, 2분기 영업이익 53%↑…5년 만에 1000억원 돌파"
+    },
+    {
+     "date": "2026-07-27",
+     "title": "IPARK현대산업개발, 2분기 영업이익 1227억원…전년 대비 53% 증가"
+    },
+    {
+     "date": "2026-07-26",
+     "title": "IPARK현대산업개발, 2분기 영업이익 1227억원…전년 대비 53% 증가"
     }
    ]
   },
@@ -342,6 +370,34 @@
    ]
   },
   {
+   "code": "032800",
+   "name": "판타지오",
+   "market": "KOSDAQ",
+   "cap": 187,
+   "total": 6,
+   "recent": 2,
+   "activeDays": 5,
+   "firstSeen": "2026-07-07",
+   "lastSeen": "2026-07-28",
+   "score": 16.8,
+   "riskMentions": 0,
+   "catalystMentions": 0,
+   "samples": [
+    {
+     "date": "2026-07-28",
+     "title": "판타지오, 130억원 규모 CB 전량 소각 \"잠재 희석 우려 해소\""
+    },
+    {
+     "date": "2026-07-28",
+     "title": "판타지오 제작 '김부장', 시청률 23%로 종영…2026년 미니시리즈 정상"
+    },
+    {
+     "date": "2026-07-20",
+     "title": "판타지오, 제작 드라마 '김부장' 최고 시청률 경신…콘텐츠 제작 역량 부각"
+    }
+   ]
+  },
+  {
    "code": "368600",
    "name": "아이씨에이치",
    "market": "KOSDAQ",
@@ -478,34 +534,6 @@
     {
      "date": "2026-07-24",
      "title": "노머스, 400억 규모 전환사채권 발행 결정"
-    }
-   ]
-  },
-  {
-   "code": "294870",
-   "name": "IPARK현대산업개발",
-   "market": "KOSPI",
-   "cap": 13511,
-   "total": 3,
-   "recent": 2,
-   "activeDays": 3,
-   "firstSeen": "2026-07-24",
-   "lastSeen": "2026-07-27",
-   "score": 14.2,
-   "riskMentions": 0,
-   "catalystMentions": 0,
-   "samples": [
-    {
-     "date": "2026-07-27",
-     "title": "IPARK현대산업개발, 2분기 영업이익 1227억원…전년 대비 53% 증가"
-    },
-    {
-     "date": "2026-07-26",
-     "title": "IPARK현대산업개발, 2분기 영업이익 1227억원…전년 대비 53% 증가"
-    },
-    {
-     "date": "2026-07-24",
-     "title": "IPARK현대산업개발, 2분기 영업이익 1227억원…전년 대비 53% 증가"
     }
    ]
   },
@@ -810,34 +838,6 @@
     {
      "date": "2026-07-26",
      "title": "\"통신비 다이어트 지원\"…롯데하이마트, 자체 요금제 띄웠다"
-    }
-   ]
-  },
-  {
-   "code": "096240",
-   "name": "크레버스",
-   "market": "KOSDAQ",
-   "cap": 880,
-   "total": 4,
-   "recent": 2,
-   "activeDays": 2,
-   "firstSeen": "2026-07-24",
-   "lastSeen": "2026-07-26",
-   "score": 11.8,
-   "riskMentions": 0,
-   "catalystMentions": 0,
-   "samples": [
-    {
-     "date": "2026-07-26",
-     "title": "크레버스, 퓨리오사AI와 교육AI 인프라 통합 업무협약 체결"
-    },
-    {
-     "date": "2026-07-26",
-     "title": "[더벨]크레버스-퓨리오사AI, AI 기술 활용한 사업화 공동추진 MOU 체결"
-    },
-    {
-     "date": "2026-07-24",
-     "title": "크레버스, 퓨리오사AI와 교육AI 인프라 통합 업무협약 체결"
     }
    ]
   }
