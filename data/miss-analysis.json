@@ -1,19 +1,19 @@
 {
- "updatedAt": "2026-07-27T08:32:31+09:00",
+ "updatedAt": "2026-07-28T10:23:37+09:00",
  "note": "빗나감 자동 원인분류 + 자기발전 필터. 투자권유 아님.",
  "summary": {
-  "resolved": 136,
-  "miss": 71,
-  "missRate": 52.2,
+  "resolved": 143,
+  "miss": 75,
+  "missRate": 52.4,
   "preventable": 40,
-  "preventableShare": 56.3
+  "preventableShare": 53.3
  },
  "byCause": [
   {
    "cause": "weak_signal",
    "label": "신호 약함(구체 촉발재 없음)",
    "n": 38,
-   "share": 53.5,
+   "share": 50.7,
    "avgExcess": -4.58,
    "preventable": true,
    "examples": [
@@ -52,9 +52,9 @@
   {
    "cause": "idiosyncratic",
    "label": "개별 악재(불가피)",
-   "n": 18,
-   "share": 25.4,
-   "avgExcess": -4.01,
+   "n": 20,
+   "share": 26.7,
+   "avgExcess": -3.74,
    "preventable": false,
    "examples": [
     {
@@ -83,9 +83,9 @@
   {
    "cause": "macro_riskoff",
    "label": "거시 위험회피(시장 동반 급락)",
-   "n": 13,
-   "share": 18.3,
-   "avgExcess": -3.81,
+   "n": 15,
+   "share": 20.0,
+   "avgExcess": -3.74,
    "preventable": false,
    "examples": [
     {
@@ -107,10 +107,10 @@
      ]
     },
     {
-     "name": "자람테크놀로지(389020)",
-     "flagDate": "2026-07-14",
-     "excessPct": -5.57,
-     "theme": "AI반도체설계(팹리스/IP)",
+     "name": "유진로봇(056080)",
+     "flagDate": "2026-07-23",
+     "excessPct": -6.42,
+     "theme": "로봇/휴머노이드",
      "tags": [
       "macro_riskoff"
      ]
@@ -121,7 +121,7 @@
    "cause": "theme_headwind",
    "label": "열세 테마(자금 이탈)",
    "n": 2,
-   "share": 2.8,
+   "share": 2.7,
    "avgExcess": -55.29,
    "preventable": true,
    "examples": [
@@ -150,34 +150,33 @@
   "themeMissRate": {
    "기타": 36.1,
    "바이오/의료": 100.0,
-   "로봇/휴머노이드": 55.9,
+   "로봇/휴머노이드": 56.8,
    "반도체소재/장비": 62.5,
    "신재생에너지": 80.0,
    "AI전력/데이터센터": 66.7,
    "이차전지": 40.0,
    "우주/방산": 50.0,
-   "AI반도체설계(팹리스/IP)": 47.6
+   "AI반도체설계(팹리스/IP)": 47.8
   },
   "signalMissRate": {
-   "weak": 52.8,
-   "concrete": 51.6
+   "weak": 52.1,
+   "concrete": 52.9
   },
   "rules": [
    "'바이오/의료' 테마는 빗나감률 100.0% — 강한 회피(구체촉발재+승세 아니면 제외).",
    "'신재생에너지' 테마는 빗나감률 80.0% — 강한 회피(구체촉발재+승세 아니면 제외).",
    "'AI전력/데이터센터' 테마는 빗나감률 66.7% — 강한 회피(구체촉발재+승세 아니면 제외).",
-   "'반도체소재/장비' 테마는 빗나감률 62.5% — 강한 회피(구체촉발재+승세 아니면 제외).",
-   "구체 촉발재 없는 '테마 거론'류는 빗나감률 52.8%(구체재료 51.6%) — 약신호 단독 등재 금지."
+   "'반도체소재/장비' 테마는 빗나감률 62.5% — 강한 회피(구체촉발재+승세 아니면 제외)."
   ]
  },
  "macro": {
-  "regime": "중립",
-  "kospi5d": 2.68,
-  "kosdaq5d": -0.19,
-  "fearGreed": 39.0,
-  "vix": 18.58,
-  "guidance": "선별 유지 — 승세테마+구체촉발재 우선, 약신호·열세테마 경계.",
-  "asOf": "2026-07-27"
+  "regime": "위험회피",
+  "kospi5d": -5.85,
+  "kosdaq5d": -1.19,
+  "fearGreed": 40.0,
+  "vix": 22.16,
+  "guidance": "소형주 언더퍼폼 국면 — 포착 수를 줄이고 승세테마×구체촉발재만 최고확신으로. 열세테마·약신호 전면 배제.",
+  "asOf": "2026-07-28"
  },
  "history": [
   {
@@ -344,7 +343,18 @@
     "macro_riskoff": 18.3,
     "theme_headwind": 2.8
    }
+  },
+  {
+   "date": "2026-07-28",
+   "resolved": 143,
+   "missRate": 52.4,
+   "causeShares": {
+    "weak_signal": 50.7,
+    "idiosyncratic": 26.7,
+    "macro_riskoff": 20.0,
+    "theme_headwind": 2.7
+   }
   }
  ],
- "develop": "직전(2026-07-26) 대비 빗나감률 52.2%→52.2% (+0.0p). 최다 원인=‘신호 약함(구체 촉발재 없음)’. 필터에 반영됨."
+ "develop": "직전(2026-07-27) 대비 빗나감률 52.2%→52.4% (+0.2p). 최다 원인=‘신호 약함(구체 촉발재 없음)’. 필터에 반영됨."
 }
