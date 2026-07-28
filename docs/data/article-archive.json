@@ -3,6 +3,30 @@
   "SK하이닉스(000660)": {
    "articles": [
     {
+     "date": "2026-07-29",
+     "source": "연합인포맥스",
+     "title": "SK하이닉스, 2Q 영업익 60.5조…'예상치 소폭 하회'",
+     "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4427369"
+    },
+    {
+     "date": "2026-07-29",
+     "source": "연합인포맥스",
+     "title": "SK하이닉스, 2Q 매출·영업익 사상 최대…시장 예상치는 5% 하회(상보)",
+     "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4427372"
+    },
+    {
+     "date": "2026-07-29",
+     "source": "연합인포맥스",
+     "title": "SK하이닉스, 2Q 매출 79.3조…'예상치 하회'",
+     "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4427370"
+    },
+    {
+     "date": "2026-07-29",
+     "source": "연합인포맥스",
+     "title": "SK하이닉스 ADR 7% 급락…반도체 투자심리 악화에 사흘째 '뚝'",
+     "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4427335"
+    },
+    {
      "date": "2026-07-28",
      "source": "한국경제·증권",
      "title": "삼성전자·SK하이닉스 '와르르'…반도체 쇼크 덮쳤다 [종목+]",
@@ -697,30 +721,6 @@
      "source": "한국경제·증권",
      "title": "한달간 최대 15조 투자…'채권시장 큰손'된 SK하이닉스",
      "link": "https://www.hankyung.com/article/2026070685821"
-    },
-    {
-     "date": "2026-07-06",
-     "source": "한국경제·증권",
-     "title": "초고수들의 선택은 여전히 SK하이닉스…ADR 상장에 기대감↑",
-     "link": "https://www.hankyung.com/article/202607056048i"
-    },
-    {
-     "date": "2026-07-06",
-     "source": "한국경제·증권",
-     "title": "SK하이닉스, ADR 발행 총액 45조→43조원 정정…주가 하락 반영",
-     "link": "https://www.hankyung.com/article/2026070687127"
-    },
-    {
-     "date": "2026-07-06",
-     "source": "파이낸셜뉴스",
-     "title": "삼성전자도, SK하이닉스도 아니다…상반기 코스피 '상승률 1위' 반전 종목은?",
-     "link": "https://www.fnnews.com/news/202607060505207549"
-    },
-    {
-     "date": "2026-07-06",
-     "source": "연합뉴스·경제",
-     "title": "청주시, SK하이닉스 투자 지원 '부시장 총괄 TF' 가동",
-     "link": "https://www.yna.co.kr/view/AKR20260706118500064"
     }
    ]
   },
@@ -2039,6 +2039,12 @@
   "애플(AAPL)": {
    "articles": [
     {
+     "date": "2026-07-29",
+     "source": "한국경제·경제",
+     "title": "애플, 미국서 아이폰·맥·아이패드 2년 리스프로그램 시행",
+     "link": "https://www.hankyung.com/article/202607281638i"
+    },
+    {
      "date": "2026-07-28",
      "source": "한국경제·증권",
      "title": "'AI 지각생' 애플의 반전…엔비디아 제치고 시총 1위 탈환",
@@ -2989,6 +2995,18 @@
   "엔비디아(NVDA)": {
    "articles": [
     {
+     "date": "2026-07-29",
+     "source": "한국경제·경제",
+     "title": "엔비디아 직원이 엔비디아칩 中밀수…대만검찰에 구금",
+     "link": "https://www.hankyung.com/article/202607281558i"
+    },
+    {
+     "date": "2026-07-29",
+     "source": "연합인포맥스",
+     "title": "엔비디아, 왜 네이버에 직접 투자했나",
+     "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4427367"
+    },
+    {
      "date": "2026-07-28",
      "source": "한국경제·증권",
      "title": "엔비디아 동맹에 급등하는 네이버…1.5조 투자에 자사주 소각 '겹호재'",
@@ -3606,6 +3624,12 @@
   },
   "네이버(035420)": {
    "articles": [
+    {
+     "date": "2026-07-29",
+     "source": "연합인포맥스",
+     "title": "엔비디아, 왜 네이버에 직접 투자했나",
+     "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4427367"
+    },
     {
      "date": "2026-07-28",
      "source": "한국경제·증권",
@@ -7583,6 +7607,12 @@
   "한화오션(042660)": {
    "articles": [
     {
+     "date": "2026-07-29",
+     "source": "한국경제·증권",
+     "title": "'어닝 서프라이즈' 한화오션, 목표가 '뒷걸음질' 이유는 [종목+]",
+     "link": "https://www.hankyung.com/article/2026072808526"
+    },
+    {
      "date": "2026-07-28",
      "source": "파이낸셜·증권",
      "title": "두산에너빌, 목표가 줄하향에도 투자 의견 '매수'…한화오션, 상선 이익률 23% 깜짝실적 [株토피아]",
@@ -8482,6 +8512,12 @@
   },
   "셀트리온(068270)": {
    "articles": [
+    {
+     "date": "2026-07-29",
+     "source": "아시아경제",
+     "title": "[클릭 e종목]\"셀트리온, 2분기 실적 서프라이즈…올해 강력 성장\"",
+     "link": "https://view.asiae.co.kr/article/2026072815354965305"
+    },
     {
      "date": "2026-07-28",
      "source": "한국경제·증권",
@@ -10511,6 +10547,12 @@
   "SK(034730)": {
    "articles": [
     {
+     "date": "2026-07-29",
+     "source": "MarketWatch",
+     "title": "Leveraged ETFs tied to SK Hynix are getting hammered as chip wreck deepens",
+     "link": "https://www.marketwatch.com/story/leveraged-etfs-tied-to-sk-hynix-are-getting-hammered-as-chip-wreck-deepens-5303c33c?mod=mw_rss_topstories"
+    },
+    {
      "date": "2026-07-27",
      "source": "한국경제·경제",
      "title": "\"상가마다 공실\"…삼성·SK 패싱한 '33년 꼴찌' 대구의 한숨 [소멸 리포트]",
@@ -11748,6 +11790,12 @@
   },
   "두산에너빌리티(034020)": {
    "articles": [
+    {
+     "date": "2026-07-29",
+     "source": "한국경제·증권",
+     "title": "주가 반토막 난 두산에너빌리티…증권가 \"하반기 모멘텀 주목\" [종목+]",
+     "link": "https://www.hankyung.com/article/2026072815046"
+    },
     {
      "date": "2026-07-28",
      "source": "한국경제·증권",
@@ -14831,6 +14879,12 @@
   "한샘(009240)": {
    "articles": [
     {
+     "date": "2026-07-29",
+     "source": "아시아경제",
+     "title": "[클릭 e종목]\"지금이 매수할 때\"…한샘의 투자 포인트는",
+     "link": "https://view.asiae.co.kr/article/2026072814260742430"
+    },
+    {
      "date": "2026-07-10",
      "source": "연합뉴스·경제",
      "title": "한샘, 삼성물산 건설부문과 인테리어 제휴…맞춤형 서비스 제공",
@@ -15344,6 +15398,12 @@
   },
   "이마트(139480)": {
    "articles": [
+    {
+     "date": "2026-07-29",
+     "source": "아시아경제",
+     "title": "[클릭 e종목]\"이마트, 3분기부터 실적 모멘텀 다시 강화…목표가↓\"",
+     "link": "https://view.asiae.co.kr/article/2026072815381807167"
+    },
     {
      "date": "2026-07-28",
      "source": "파이낸셜·증권",
@@ -16889,6 +16949,12 @@
   "SpaceX": {
    "articles": [
     {
+     "date": "2026-07-29",
+     "source": "MarketWatch",
+     "title": "Space stocks are falling hard — but SpaceX doesn’t deserve all of the blame",
+     "link": "https://www.marketwatch.com/story/space-stocks-are-falling-hard-but-spacex-doesnt-deserve-all-of-the-blame-e5c1c8d0?mod=mw_rss_topstories"
+    },
+    {
      "date": "2026-07-28",
      "source": "MarketWatch",
      "title": "SpaceX’s stock falls to a new low despite a near-flawless Starship flight",
@@ -16968,6 +17034,12 @@
   },
   "하이브(352820)": {
    "articles": [
+    {
+     "date": "2026-07-29",
+     "source": "아시아경제",
+     "title": "[클릭 e종목]\"역대급 실적에도 16% 급락한 하이브, 지금 사라\"",
+     "link": "https://view.asiae.co.kr/article/2026072908020021546"
+    },
     {
      "date": "2026-07-28",
      "source": "한국경제·증권",
@@ -17637,7 +17709,33 @@
      "link": "https://www.hankyung.com/article/202607280511i"
     }
    ]
+  },
+  "엠플러스(038440)": {
+   "articles": [
+    {
+     "date": "2026-07-29",
+     "source": "파이낸셜·증권",
+     "title": "엠플러스, 美 전고체 배터리社와 장비 공동개발…양산 수주 '시동'",
+     "link": "https://www.fnnews.com/news/202607280809048127"
+    },
+    {
+     "date": "2026-07-29",
+     "source": "아시아경제",
+     "title": "엠플러스, 美 글로벌 전고체 배터리 업체와 장비 공동개발…양산 수주 발판 마련",
+     "link": "https://view.asiae.co.kr/article/2026072808224052479"
+    }
+   ]
+  },
+  "유일로보틱스(388720)": {
+   "articles": [
+    {
+     "date": "2026-07-29",
+     "source": "한국경제",
+     "title": "/ 유일로보틱스(388720) — 대형 공급계약,",
+     "link": "https://www.hankyung.com/article/202607289606i"
+    }
+   ]
   }
  },
- "updatedAt": "2026-07-28T21:04:39+09:00"
+ "updatedAt": "2026-07-29T08:06:29+09:00"
 }
