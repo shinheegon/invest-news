@@ -3,6 +3,18 @@
   "SK하이닉스(000660)": {
    "articles": [
     {
+     "date": "2026-07-30",
+     "source": "연합인포맥스",
+     "title": "SK하이닉스 ADR, 美 국채 30년물 금리 급등에 4일째 하락 마감(종합)",
+     "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4427644"
+    },
+    {
+     "date": "2026-07-30",
+     "source": "연합인포맥스",
+     "title": "SK하이닉스 ADR 나흘만에 상승…차가운 AI 투심 딛고 2% 반등",
+     "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4427625"
+    },
+    {
      "date": "2026-07-29",
      "source": "한국경제·증권",
      "title": "SK하이닉스 실적발표 후 분단된 증권가…\"공급 부족 지속\" VS \"추세 하락 전환\"",
@@ -709,23 +721,17 @@
      "source": "한국경제·경제",
      "title": "'43조 잭팟' SK하이닉스…\"한국서 팔아라\" 이유 알고보니",
      "link": "https://www.hankyung.com/article/202607083846i"
-    },
-    {
-     "date": "2026-07-09",
-     "source": "연합뉴스·경제",
-     "title": "[특징주] 삼성전자, 6.3% 급락 마감…SK하이닉스도 5.7%↓(종합)",
-     "link": "https://www.yna.co.kr/view/AKR20260708047251008"
-    },
-    {
-     "date": "2026-07-09",
-     "source": "연합뉴스·경제",
-     "title": "KB증권 \"SK하이닉스 ADR 상장, TSMC 사례처럼 재평가 기대\"",
-     "link": "https://www.yna.co.kr/view/AKR20260709071700008"
     }
    ]
   },
   "삼성전자(005930)": {
    "articles": [
+    {
+     "date": "2026-07-30",
+     "source": "파이낸셜뉴스",
+     "title": "\"삼성전자 20만·하이닉스 130만 무너졌다\"...이틀 연속 폭락에 멘붕 빠진 개미들",
+     "link": "https://www.fnnews.com/news/202607291637446464"
+    },
     {
      "date": "2026-07-29",
      "source": "한국경제·증권",
@@ -1439,12 +1445,6 @@
      "source": "아시아경제",
      "title": "[마켓 ING]출렁이는 코스피, 삼성전자 실적 주목",
      "link": "https://view.asiae.co.kr/article/2026070513525912103"
-    },
-    {
-     "date": "2026-07-05",
-     "source": "연합뉴스·경제",
-     "title": "삼성전자 감사 페스티벌 흥행…DX부문 2분기 실적 힘 보탤듯",
-     "link": "https://www.yna.co.kr/view/AKR20260703130100003"
     }
    ]
   },
@@ -2051,6 +2051,12 @@
   "애플(AAPL)": {
    "articles": [
     {
+     "date": "2026-07-30",
+     "source": "한국경제·경제",
+     "title": "\"AI 투자안하고 아이폰만 팔았다\"…애플, 5년만에 최고 매출 성장",
+     "link": "https://www.hankyung.com/article/202607294269i"
+    },
+    {
      "date": "2026-07-29",
      "source": "한국경제·경제",
      "title": "애플, 미국서 아이폰·맥·아이패드 2년 리스프로그램 시행",
@@ -2568,6 +2574,12 @@
   },
   "기아(000270)": {
    "articles": [
+    {
+     "date": "2026-07-30",
+     "source": "한국경제·경제",
+     "title": "기아, 9400억 투자…멕시코산 EV3로 북미 공략",
+     "link": "https://www.hankyung.com/article/202607304299i"
+    },
     {
      "date": "2026-07-29",
      "source": "한국경제·증권",
@@ -4432,6 +4444,12 @@
   },
   "메타(META)": {
    "articles": [
+    {
+     "date": "2026-07-30",
+     "source": "연합인포맥스",
+     "title": "메타, 2분기 '어닝 미스'에도 자본지출 상향…시간외서 6% 급락(상보)",
+     "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4427638"
+    },
     {
      "date": "2026-07-24",
      "source": "뉴시스·경제",
@@ -8133,6 +8151,12 @@
   "퀄컴(QCOM)": {
    "articles": [
     {
+     "date": "2026-07-30",
+     "source": "연합인포맥스",
+     "title": "퀄컴, 메모리 공급난에 가격인상 예고…'가이던스 실망' 시간외 급락(상보)",
+     "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4427650"
+    },
+    {
      "date": "2026-07-23",
      "source": "한국경제·경제",
      "title": "3년 만에 '언팩' 찾은 퀄컴 CEO…\"삼성전자, 구글과 차세대 갤럭시 경험 구축\"",
@@ -11655,6 +11679,18 @@
   "한미약품(128940)": {
    "articles": [
     {
+     "date": "2026-07-30",
+     "source": "한국경제·증권",
+     "title": "1300억 실적 대박에도 '목표가 줄하향'…한미약품 전망은? [종목+]",
+     "link": "https://www.hankyung.com/article/2026072935966"
+    },
+    {
+     "date": "2026-07-30",
+     "source": "한국경제·경제",
+     "title": "'167억→6억' 영업익 증발…한미약품 中 자회사 '미스터리'",
+     "link": "https://www.hankyung.com/article/2026072938121"
+    },
+    {
      "date": "2026-07-29",
      "source": "연합뉴스·경제",
      "title": "한미약품 \"북경한미 매출채권 관리 강화\"",
@@ -11868,6 +11904,12 @@
   },
   "GS건설(006360)": {
    "articles": [
+    {
+     "date": "2026-07-30",
+     "source": "뉴시스·경제",
+     "title": "14층 스틸 모듈러 아파트 도전…GS건설, 프리패브 건설 혁신 속도[짤막영상]",
+     "link": "https://www.newsis.com/view/NISX20260729_0003728577"
+    },
     {
      "date": "2026-07-29",
      "source": "뉴시스·경제",
@@ -16699,6 +16741,12 @@
   "HD한국조선해양(009540)": {
    "articles": [
     {
+     "date": "2026-07-30",
+     "source": "한국경제·경제",
+     "title": "'초호황' HD한국조선해양 영업이익 1.6조 사상 최대",
+     "link": "https://www.hankyung.com/article/2026072938631"
+    },
+    {
      "date": "2026-07-29",
      "source": "연합인포맥스",
      "title": "HD한국조선해양, 조선부문 수주 목표 96% 달성…HD현대重은 이미 초과",
@@ -18173,7 +18221,67 @@
      "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4427608"
     }
    ]
+  },
+  "포드(F)": {
+   "articles": [
+    {
+     "date": "2026-07-30",
+     "source": "한국경제·증권",
+     "title": "포드, SUV 판매호조에 연간 실적 전망 또 상향",
+     "link": "https://www.hankyung.com/article/2026072937821"
+    }
+   ]
+  },
+  "SK디앤디(210980)": {
+   "articles": [
+    {
+     "date": "2026-07-30",
+     "source": "연합뉴스·경제",
+     "title": "[특징주] SK디앤디, 대규모 유상증자 결정에 하한가…52주 신저가(종합)",
+     "link": "https://www.yna.co.kr/view/AKR20260729044251008"
+    }
+   ]
+  },
+  "휴림로봇(090710)": {
+   "articles": [
+    {
+     "date": "2026-07-30",
+     "source": "파이낸셜·증권",
+     "title": "휴림로봇, 제이케이시냅스 최대주주 등극…30억 투입해 재무체질 강화",
+     "link": "https://www.fnnews.com/news/202607290923444379"
+    }
+   ]
+  },
+  "정원엔시스(045510)": {
+   "articles": [
+    {
+     "date": "2026-07-30",
+     "source": "파이낸셜·증권",
+     "title": "정원엔시스, 'AI 데이터센터 밸류체인' 확장…인프라 넘어 EMS까지 품는다",
+     "link": "https://www.fnnews.com/news/202607291107035711"
+    }
+   ]
+  },
+  "P&G(PG)": {
+   "articles": [
+    {
+     "date": "2026-07-30",
+     "source": "CNBC·Markets",
+     "title": "Here's a closer look at our decision to change course on P&G",
+     "link": "https://www.cnbc.com/2026/07/29/heres-a-closer-look-at-our-decision-to-change-course-on-pg-.html"
+    }
+   ]
+  },
+  "UPS(UPS)": {
+   "articles": [
+    {
+     "date": "2026-07-30",
+     "source": "CNBC·Markets",
+     "title": "UPS expects third-quarter domestic revenue to be flat but CEO tells CNBC the company is through its 'bumps'",
+     "link": "https://www.cnbc.com/2026/07/28/ups-ups-q2-2026-earnings.html"
+    }
+   ]
   }
  },
- "updatedAt": "2026-07-29T21:09:51+09:00"
+ "updatedAt": "2026-07-30T08:03:18+09:00"
 }

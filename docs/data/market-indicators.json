@@ -1,22 +1,22 @@
 {
-  "updatedAt": "2026-07-29T21:20:00+09:00", "session": "PM",
-  "note": "7/28 '검은 화요일'(코스피 -10.84%)에 이어 7/29 '검은 수요일'도 코스피 -5.98%(5,663.24)·코스닥 -6.12%(662.68)로 마감 — 양대 시장 이틀 연속 매도 사이드카+서킷브레이커 발동은 사상 최초. SK하이닉스는 2분기 매출 79.32조원·영업이익 60.54조원(사상 최대, YoY+557%)을 냈지만 컨센서스(83.94조/63.99조)를 하회해 '사상 최대 실적에도 하락'(-12.52%), 삼성전자도 -7.84%. 반면 美 정부의 중국산 휴머노이드·4족로봇·전력인버터 수입금지 발표로 로봇 테마는 상한가 속출(나우로보틱스·에스피지·에브리봇 등). 금융위·금감원·한은·재정경제부는 오후 6시 F4 긴급회의를 열어 단일종목 레버리지 상품 기본예탁금 3천만원 강화(7/31 시행)를 발표했다.",
-  "stock_fng": { "value": 38.6, "label": "Fear", "source": "https://www.benzinga.com/markets/market-summary/26/07/60750007/dow-jumps-over-500-points-as-oil-prices-fall-investor-sentiment-improves-greed-index-remains-in-fear-zone" },
+  "updatedAt": "2026-07-30T08:16:30+09:00", "session": "AM",
+  "note": "간밤(7/29, 美) FOMC는 3.50~3.75%로 5연속 금리 동결(9대3, 3명은 0.25%p 인상 주장)했으나 신임 케빈 워시 의장의 매파적 발언(\"목표는 오직 2%\")에도 정책 자체는 완화적으로 읽히며 채권시장이 '긴축을 대신 해줬다'는 평가. 그 결과 美 30년물 국채금리가 5.2%대(2007년來 최고)까지 급등했고 뉴욕 3대 지수는 다우 -2.19%·S&P500 -1.52%·나스닥 -1.74%로 동반 급락(나스닥100은 조정권 진입). 국내는 전일(7/29) 코스피·코스닥이 사상 첫 이틀연속 서킷브레이커 속 각각 -5.98%·-6.12% 마감한 뒤 오늘 개장을 앞두고 있어, 간밤 미국발 악재가 추가 하방 압력으로 작용할지 주목된다. 중동(이란-이스라엘) 확전 우려로 브렌트유는 7~8% 급등해 90달러대에 진입했다.",
+  "stock_fng": { "value": 37, "label": "Fear", "source": "https://www.benzinga.com/markets/market-summary/26/07/60750007/dow-jumps-over-500-points-as-oil-prices-fall-investor-sentiment-improves-greed-index-remains-in-fear-zone" },
   "indices": [
-    { "name": "코스피", "value": "5,663.24", "change": "-5.98%(-360.42p, 7/29 마감)", "source": "https://view.asiae.co.kr/article/2026072915342661686" },
-    { "name": "코스닥", "value": "662.68", "change": "-6.12%(-43.17p, 7/29 마감)", "source": "https://view.asiae.co.kr/article/2026072915344165250" },
-    { "name": "다우존스", "value": "52,210.08", "change": "+0.51%, 7/28(화) 마감(간밤)", "source": "https://www.newsis.com/view/NISX20260728_0003725527" },
-    { "name": "S&P 500", "value": "7,413.18", "change": "+0.02%, 7/28(화) 마감(간밤)", "source": "https://www.newsis.com/view/NISX20260728_0003725527" },
-    { "name": "나스닥", "value": "24,932.08", "change": "-0.18%, 7/28(화) 마감(간밤) — SOX -2.23%", "source": "https://www.newsis.com/view/NISX20260728_0003725527" },
-    { "name": "VIX", "value": "22.16", "change": "18.67→22.16 급등", "source": "https://www.newspim.com/news/view/20260729000194" },
-    { "name": "美 10년물", "value": "4.602%", "change": "-3.9bp", "source": "https://www.newspim.com/news/view/20260729000030" },
-    { "name": "달러인덱스(DXY)", "value": "101.39", "change": "-0.14%", "source": "https://www.newspim.com/news/view/20260729000030" },
-    { "name": "원/달러", "value": "1,446.7", "change": "-15.8원, 5개월래 최저", "source": "https://www.etoday.co.kr/news/view/2608853" },
+    { "name": "코스피", "value": "5,663.24", "change": "-5.98%(-360.42p, 7/29 마감·직전 거래일)", "source": "https://view.asiae.co.kr/article/2026072915342661686" },
+    { "name": "코스닥", "value": "662.68", "change": "-6.12%(-43.17p, 7/29 마감·직전 거래일)", "source": "https://view.asiae.co.kr/article/2026072915344165250" },
+    { "name": "다우존스", "value": "51,594.14", "change": "-2.19%(-1,153.18p), 7/29(美) FOMC 매파적 동결에 급락", "source": "https://www.newsis.com/view/NISX20260730_0003728952" },
+    { "name": "S&P 500", "value": "7,316.15", "change": "-1.52%, 7/29(美) 마감", "source": "https://www.cnbc.com/2026/07/29/fed-rate-decision-july-2026.html" },
+    { "name": "나스닥", "value": "24,442.94", "change": "-1.74%, 7/29(美) 마감 — 나스닥100 조정권 진입", "source": "https://www.cnbc.com/2026/07/29/fed-meeting-today-live-updates.html" },
+    { "name": "VIX", "value": "22.16", "change": "18.67→22.16 급등(전일 국내 반영치), 간밤 Fed 매파적 동결로 변동성 확대 지속", "source": "https://www.newspim.com/news/view/20260729000194" },
+    { "name": "美 10년물", "value": "4.67%", "change": "+7bp, FOMC 이후 급등(30년물은 5.2%대·2007년來 최고)", "source": "https://www.cnbc.com/2026/07/29/fed-meeting-today-live-updates.html" },
+    { "name": "달러인덱스(DXY)", "value": "101.30", "change": "-0.12%", "source": "https://www.fxstreet.com/news/united-states-dollar-index-dxy-flat-below-10150-as-bulls-await-fomc-amid-iran-risks-202607290200" },
+    { "name": "원/달러", "value": "1,446.7", "change": "-15.8원, 5개월래 최저(7/29 15:30 기준가)", "source": "https://www.etoday.co.kr/news/view/2608853" },
     { "name": "국고채 3년물", "value": "3.800%", "change": "증시 급락에 이틀째 강세(하락)", "source": "https://www.yna.co.kr/view/AKR20260729153651008" },
-    { "name": "美 기준금리", "value": "3.50~3.75%", "change": "0(FOMC 결과는 7/30 새벽 KST 발표 예정)", "source": "https://www.fool.com/investing/2026/07/28/will-new-fed-chair-kevin-warsh-shock-the-market-and-deliver-a-surprise-rate-hike-at-the-fed-s-july-meeting/" },
+    { "name": "美 기준금리", "value": "3.50~3.75%", "change": "0(5연속 동결, 9대3 표결·3명은 인상 주장)", "source": "https://www.cnbc.com/2026/07/29/fed-rate-decision-july-2026.html" },
     { "name": "한국 기준금리", "value": "2.75%", "change": "0(7/16 인상 이후 유지)", "source": "https://www.etoday.co.kr/news/view/2604536" },
     { "name": "美 CPI", "value": "3.5%", "change": "6월 발표 — 컨센서스 하회, 둔화", "source": "https://www.bls.gov/opub/ted/2026/consumer-prices-up-3-5-percent-over-the-year-ended-june-2026.htm" },
     { "name": "韓 CPI", "value": "3.2%", "change": "6월, 2개월 연속 3%대", "source": "https://www.fnnews.com/news/202607210911361602" },
-    { "name": "금(Gold)", "value": "4,026.49", "change": "-1.2%", "source": "https://www.gukjenews.com/news/articleView.html?idxno=3649153" }
+    { "name": "금(Gold)", "value": "4,103.80", "change": "+1%대, FOMC 동결에 안도 랠리", "source": "https://www.yna.co.kr/view/AKR20260730010800072" }
   ]
 }
