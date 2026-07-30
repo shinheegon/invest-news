@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-07-30T08:43:47+09:00",
+ "updatedAt": "2026-07-30T21:26:24+09:00",
  "companies": {
   "이지트로닉스(377330)": {
    "market": "韓",
@@ -3601,6 +3601,30 @@
    "series": {
     "2026-07-29": 3970,
     "2026-07-30": 3970
+   }
+  },
+  "캠시스(050110)": {
+   "market": "韓",
+   "type": "leading",
+   "firstSeen": "2026-07-30",
+   "firstPrice": 849,
+   "lastPrice": 849,
+   "changePct": 0.0,
+   "points": 1,
+   "series": {
+    "2026-07-30": 849
+   }
+  },
+  "엔젤로보틱스(455900)": {
+   "market": "韓",
+   "type": "warning",
+   "firstSeen": "2026-07-30",
+   "firstPrice": 19050,
+   "lastPrice": 19050,
+   "changePct": 0.0,
+   "points": 1,
+   "series": {
+    "2026-07-30": 19050
    }
   }
  }

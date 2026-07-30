@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-07-30T08:43:46+09:00",
+ "updatedAt": "2026-07-30T21:26:24+09:00",
  "cases": [
   {
    "name": "이지트로닉스(377330)",
@@ -17788,6 +17788,52 @@
     "구체촉발재"
    ],
    "convStampedAt": "2026-07-29"
+  },
+  {
+   "name": "캠시스(050110)",
+   "type": "leading",
+   "market": "韓",
+   "flagDate": "2026-07-30",
+   "signals": [
+    "로봇밸류체인신규진입",
+    "코라스로보틱스MOU"
+   ],
+   "theme": "로봇/휴머노이드",
+   "status": "pending",
+   "checks": [],
+   "flagPrice": 849,
+   "priceLog": [
+    {
+     "date": "2026-07-30",
+     "price": 849
+    }
+   ],
+   "convScore": 2,
+   "convTier": "low",
+   "convSignals": [
+    "승세테마"
+   ],
+   "convStampedAt": "2026-07-30"
+  },
+  {
+   "name": "엔젤로보틱스(455900)",
+   "type": "warning",
+   "market": "韓",
+   "flagDate": "2026-07-30",
+   "signals": [
+    "美로봇수입금지반사이익",
+    "전일급등29.87%"
+   ],
+   "theme": "로봇/휴머노이드",
+   "status": "pending",
+   "checks": [],
+   "flagPrice": 19050,
+   "priceLog": [
+    {
+     "date": "2026-07-30",
+     "price": 19050
+    }
+   ]
   }
  ],
  "stats": {
@@ -17797,8 +17843,8 @@
   "miss": 86,
   "hitRate": 19.5,
   "avgD3ChangePct": 0.88,
-  "pending": 24,
-  "total": 209,
+  "pending": 26,
+  "total": 211,
   "byType": {
    "leading": {
     "verified": 87,
