@@ -727,6 +727,12 @@
   "삼성전자(005930)": {
    "articles": [
     {
+     "date": "2026-08-01",
+     "source": "연합인포맥스",
+     "title": "최태원 이어 노태문도 책임경영…삼성전자 7억원어치 매수",
+     "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4428115"
+    },
+    {
      "date": "2026-07-31",
      "source": "한국경제·증권",
      "title": "역사적 급등장서 '초고수 픽'은 SK하이닉스…삼성전자는 외면 왜",
@@ -1439,12 +1445,6 @@
      "source": "한국경제·증권",
      "title": "'실적 D-day' 삼성전자 담은 초고수…SK하이닉스도 쓸어담았다",
      "link": "https://www.hankyung.com/article/202607079143i"
-    },
-    {
-     "date": "2026-07-07",
-     "source": "한국경제·증권",
-     "title": "'삼성전자 반드시 오른다'는 증권가…\"메모리 고점, 빨라야 올해말\"",
-     "link": "https://www.hankyung.com/article/202607070359i"
     }
    ]
   },
@@ -1993,6 +1993,36 @@
   "아마존(AMZN)": {
    "articles": [
     {
+     "date": "2026-08-01",
+     "source": "한국경제·증권",
+     "title": "아마존 실적 훈풍에 상승 마감…나스닥 1%↑ [뉴욕증시 브리핑]",
+     "link": "https://www.hankyung.com/article/2026080189767"
+    },
+    {
+     "date": "2026-08-01",
+     "source": "연합인포맥스",
+     "title": "뉴욕증시, 아마존 실적·반도체 강세 속 혼조 출발",
+     "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4428119"
+    },
+    {
+     "date": "2026-08-01",
+     "source": "연합인포맥스",
+     "title": "[뉴욕증시] MS 이어 아마존까지 연타석 홈런…강세 마감",
+     "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4428135"
+    },
+    {
+     "date": "2026-08-01",
+     "source": "연합인포맥스",
+     "title": "[뉴욕증시-1보] MS 이어 아마존까지 연타석 홈런…강세 마감",
+     "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4428134"
+    },
+    {
+     "date": "2026-08-01",
+     "source": "뉴시스·경제",
+     "title": "아마존 호실적에 투심 회복…뉴욕증시 상승 마감, 나스닥 1.0%↑",
+     "link": "https://www.newsis.com/view/NISX20260801_0003732380"
+    },
+    {
      "date": "2026-07-31",
      "source": "한국경제·증권",
      "title": "역대 최대 매출 아마존, 올해 투자액 2200억달러로 증액",
@@ -2092,6 +2122,12 @@
   },
   "애플(AAPL)": {
    "articles": [
+    {
+     "date": "2026-08-01",
+     "source": "한국경제·증권",
+     "title": "엔비디아, 나흘 만에 애플 제치고 '세계 시총 1위' 탈환",
+     "link": "https://www.hankyung.com/article/2026080189627"
+    },
     {
      "date": "2026-07-31",
      "source": "한국경제·증권",
@@ -2448,6 +2484,12 @@
   },
   "두산(000150)": {
    "articles": [
+    {
+     "date": "2026-08-01",
+     "source": "연합인포맥스",
+     "title": "130주년 맞은 두산…전통 위에 '첨단 기술' 쌓다",
+     "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4428138"
+    },
     {
      "date": "2026-07-31",
      "source": "한국경제·경제",
@@ -3204,6 +3246,12 @@
   },
   "엔비디아(NVDA)": {
    "articles": [
+    {
+     "date": "2026-08-01",
+     "source": "한국경제·증권",
+     "title": "엔비디아, 나흘 만에 애플 제치고 '세계 시총 1위' 탈환",
+     "link": "https://www.hankyung.com/article/2026080189627"
+    },
     {
      "date": "2026-07-31",
      "source": "한국경제·증권",
@@ -9311,6 +9359,12 @@
   "테슬라(TSLA)": {
    "articles": [
     {
+     "date": "2026-08-01",
+     "source": "한국경제·경제",
+     "title": "머스크 \"가짜 뉴스\"라지만…끊이지 않는 테슬라·스페이스x 합병설 [박신영의 개장전 요것만]",
+     "link": "https://www.hankyung.com/article/202608018920i"
+    },
+    {
      "date": "2026-07-31",
      "source": "뉴시스·경제",
      "title": "\"테슬라, 중국 사업부 매각 검토…스페이스X 합병 대비?\"",
@@ -13462,6 +13516,12 @@
   },
   "HJ중공업(097230)": {
    "articles": [
+    {
+     "date": "2026-08-01",
+     "source": "뉴시스·경제",
+     "title": "수시 점검부터 실시간 감시까지…HJ중공업 안전 경영 강화[짤막영상]",
+     "link": "https://www.newsis.com/view/NISX20260728_0003726791"
+    },
     {
      "date": "2026-07-28",
      "source": "뉴시스·경제",
@@ -19553,5 +19613,5 @@
    ]
   }
  },
- "updatedAt": "2026-07-31T21:07:20+09:00"
+ "updatedAt": "2026-08-01T08:08:47+09:00"
 }

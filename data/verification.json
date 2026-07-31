@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-07-31T21:35:38+09:00",
+ "updatedAt": "2026-08-01T08:52:36+09:00",
  "cases": [
   {
    "name": "이지트로닉스(377330)",
@@ -18800,6 +18800,178 @@
     "승세테마"
    ],
    "convStampedAt": "2026-07-31"
+  },
+  {
+   "name": "제이케이시냅스(060230)",
+   "type": "leading",
+   "market": "韓",
+   "flagDate": "2026-08-01",
+   "signals": [
+    "지배구조변경(휴림로봇최대주주등극)",
+    "경영진자사주매입",
+    "신규포착"
+   ],
+   "theme": "로봇/휴머노이드",
+   "status": "pending",
+   "checks": [],
+   "flagPrice": 1339,
+   "priceLog": [
+    {
+     "date": "2026-07-31",
+     "price": 1339
+    }
+   ],
+   "convScore": 6,
+   "convTier": "high",
+   "convSignals": [
+    "승세테마",
+    "구체촉발재",
+    "틈새레이더"
+   ],
+   "convStampedAt": "2026-08-01"
+  },
+  {
+   "name": "휴림로봇(090710)",
+   "type": "leading",
+   "market": "韓",
+   "flagDate": "2026-08-01",
+   "signals": [
+    "제이케이시냅스인수",
+    "로봇사업확장재무재편",
+    "신규포착"
+   ],
+   "theme": "로봇/휴머노이드",
+   "status": "pending",
+   "checks": [],
+   "flagPrice": 6190,
+   "priceLog": [
+    {
+     "date": "2026-07-31",
+     "price": 6190
+    }
+   ],
+   "convScore": 4,
+   "convTier": "mid",
+   "convSignals": [
+    "승세테마",
+    "틈새레이더"
+   ],
+   "convStampedAt": "2026-08-01"
+  },
+  {
+   "name": "파인엠텍(441270)",
+   "type": "leading",
+   "market": "韓",
+   "flagDate": "2026-08-01",
+   "signals": [
+    "북미폴더블공급본궤도",
+    "535억설비증설",
+    "Z폴드8흥행수혜기대"
+   ],
+   "theme": "폴더블 부품",
+   "status": "pending",
+   "checks": [],
+   "flagPrice": 7060,
+   "priceLog": [
+    {
+     "date": "2026-07-31",
+     "price": 7060
+    }
+   ],
+   "convScore": 4,
+   "convTier": "mid",
+   "convSignals": [
+    "구체촉발재",
+    "틈새레이더"
+   ],
+   "convStampedAt": "2026-08-01"
+  },
+  {
+   "name": "크린앤사이언스(045520)",
+   "type": "leading",
+   "market": "韓",
+   "flagDate": "2026-08-01",
+   "signals": [
+    "AI데이터센터필터신규진입",
+    "약신호(열세인접테마)"
+   ],
+   "theme": "AI전력/데이터센터",
+   "status": "pending",
+   "checks": [],
+   "flagPrice": 2425,
+   "priceLog": [
+    {
+     "date": "2026-07-31",
+     "price": 2425
+    }
+   ],
+   "convScore": -1,
+   "convTier": "low",
+   "convSignals": [
+    "⚠️열세테마",
+    "틈새레이더"
+   ],
+   "convStampedAt": "2026-08-01"
+  },
+  {
+   "name": "가온칩스(399720)",
+   "type": "warning",
+   "market": "韓",
+   "flagDate": "2026-08-01",
+   "signals": [
+    "이미급등",
+    "296억계약(7/9)기반영"
+   ],
+   "theme": "AI반도체설계(팹리스/IP)",
+   "status": "pending",
+   "checks": [],
+   "flagPrice": 48450,
+   "priceLog": [
+    {
+     "date": "2026-07-31",
+     "price": 48450
+    }
+   ]
+  },
+  {
+   "name": "파두(440110)",
+   "type": "warning",
+   "market": "韓",
+   "flagDate": "2026-08-01",
+   "signals": [
+    "이미급등",
+    "7/31상한가기반영"
+   ],
+   "theme": "AI반도체설계(팹리스/IP)",
+   "status": "pending",
+   "checks": [],
+   "flagPrice": 63400,
+   "priceLog": [
+    {
+     "date": "2026-07-31",
+     "price": 63400
+    }
+   ]
+  },
+  {
+   "name": "씨메스로보틱스(475400)",
+   "type": "warning",
+   "market": "韓",
+   "flagDate": "2026-08-01",
+   "signals": [
+    "이미급등",
+    "파스토9.9억계약기반영"
+   ],
+   "theme": "로봇/휴머노이드",
+   "status": "pending",
+   "checks": [],
+   "flagPrice": 18690,
+   "priceLog": [
+    {
+     "date": "2026-07-31",
+     "price": 18690
+    }
+   ]
   }
  ],
  "stats": {
@@ -18809,8 +18981,8 @@
   "miss": 88,
   "hitRate": 20.1,
   "avgD3ChangePct": 1.12,
-  "pending": 26,
-  "total": 215,
+  "pending": 33,
+  "total": 222,
   "byType": {
    "leading": {
     "verified": 89,
