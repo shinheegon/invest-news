@@ -120,6 +120,15 @@ table.freq tbody tr:hover { background: #1c2330; }
 .watch-hot { background: #14100422; }
 .hot-badge { font-size: 0.72rem; color: #f5a524; font-weight: 600; }
 
+/* 모의 포트폴리오 수익률 막대바 */
+.ret-wrap { min-width: 92px; }
+.ret-bar { height: 6px; background: #161b22; border-radius: 3px; margin-top: 3px; overflow: hidden;
+  position: relative; }
+.ret-fill { height: 100%; border-radius: 3px; }
+.ret-fill.up { background: #3fb950; }
+.ret-fill.down { background: #f85149; }
+.mock-bkt td { background: #12161c; font-weight: 600; border-top: 2px solid var(--border); }
+
 /* 거시 국면 카드 */
 .macro-box { border: 1px solid var(--border); border-radius: 10px; padding: 14px 16px;
   background: #0d1117; margin: 8px 0; }
