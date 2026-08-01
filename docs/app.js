@@ -546,11 +546,28 @@ async function loadMockPortfolio() {
     const lb = (m.buckets?.[k]?.label) || k;
     return `<span class="niche-chip">${lb} ${pct(a.returnPct)} <span class="muted">(${won(a.value)})</span></span>`;
   }).join('') + (m.cash ? `<span class="niche-chip">💵 현금 <span class="muted">${won(m.cash)}</span></span>` : '') + '</div>');
-  if (t) setHTML(t, '<thead><tr><th>버킷</th><th>종목</th><th>수량</th><th>진입가</th><th>현재가</th><th>수익률</th><th>평가손익</th></tr></thead><tbody>' +
-    m.holdings.map(h => `<tr><td>${(m.buckets?.[h.bucket]?.label) || h.bucket}</td>` +
-      `<td><b>${h.name}</b> <span class="muted">${h.ticker}</span></td><td>${h.shares}</td>` +
-      `<td>${won(h.entryPrice)}</td><td>${won(h.price)}</td><td>${pct(h.returnPct)}</td>` +
-      `<td>${h.pnl != null ? (h.pnl >= 0 ? '+' : '') + won(h.pnl) : '—'}</td></tr>`).join('') + '</tbody>');
+  // 수익률 막대바(±20% 스케일) + 색·부호
+  const retCell = v => {
+    if (v == null) return '—';
+    const up = v >= 0, w = Math.min(Math.abs(v) / 20 * 100, 100);
+    return `<div class="ret-wrap"><b class="${up ? 'delta-up' : 'delta-down'}" style="font-size:.98rem">${up ? '+' : ''}${v}%</b>` +
+      `<div class="ret-bar"><div class="ret-fill ${up ? 'up' : 'down'}" style="width:${w}%"></div></div></div>`;
+  };
+  const star = n => `<button class="star${isFav(n) ? ' on' : ''}" data-fav="${n}" title="관심 추가/해제">${isFav(n) ? '★' : '☆'}</button>`;
+  const byBucket = {};
+  m.holdings.forEach(h => { (byBucket[h.bucket] = byBucket[h.bucket] || []).push(h); });
+  let rows = '';
+  for (const [bk, list] of Object.entries(byBucket)) {
+    const a = (m.bucketAgg || {})[bk] || {};
+    rows += `<tr class="mock-bkt"><td colspan="4">${(m.buckets?.[bk]?.label) || bk} <span class="muted">${m.buckets?.[bk]?.desc || ''}</span></td>` +
+      `<td>${retCell(a.returnPct)}</td><td>${won(a.cost)}</td><td>${won(a.value)}</td></tr>`;
+    rows += list.map(h => `<tr><td>${star(`${h.name}(${h.ticker})`)} <b>${h.name}</b> <span class="muted">${h.ticker}</span></td>` +
+      `<td>${h.shares}주</td><td>${won(h.entryPrice)}</td><td><b>${won(h.price)}</b></td>` +
+      `<td>${retCell(h.returnPct)}</td><td class="muted">${won(h.cost)}</td><td>${won(h.value)}</td></tr>`).join('');
+  }
+  if (m.cash) rows += `<tr class="mock-bkt"><td colspan="4">💵 현금 <span class="muted">(미투자·완충)</span></td><td>—</td><td colspan="2">${won(m.cash)}</td></tr>`;
+  if (t) { setHTML(t, '<thead><tr><th>종목</th><th>수량</th><th>매수가</th><th>현재가</th><th>수익률(성장율)</th><th>매수금액</th><th>평가금액</th></tr></thead><tbody>' + rows + '</tbody>');
+    t.querySelectorAll('.star').forEach(b => b.onclick = e => { e.stopPropagation(); toggleFav(b.dataset.fav); syncStars(b.dataset.fav); loadMockPortfolio(); renderFavTab(); }); }
 }
 async function loadPortfolio() {
   const pf = await getJSON(`${DATA}/portfolio.json`) || { positions: [], stats: {} };
