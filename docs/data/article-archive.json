@@ -3,6 +3,18 @@
   "SK하이닉스(000660)": {
    "articles": [
     {
+     "date": "2026-08-01",
+     "source": "한국경제·증권",
+     "title": "\"삼성전자, SK하이닉스 추월하고 1위\"…파격 전망 나왔다 [강경주의 테크X]",
+     "link": "https://www.hankyung.com/article/2026073181776"
+    },
+    {
+     "date": "2026-08-01",
+     "source": "한국경제·경제",
+     "title": "8년 묵힌 4조원이 '63조' 됐다…SK하이닉스 '잭팟' [홍민성의 테토남]",
+     "link": "https://www.hankyung.com/article/202607317995g"
+    },
+    {
      "date": "2026-07-31",
      "source": "한국경제·증권",
      "title": "역사적 급등장서 '초고수 픽'은 SK하이닉스…삼성전자는 외면 왜",
@@ -709,23 +721,17 @@
      "source": "아시아경제",
      "title": "SK하이닉스 실적전망 하향…코스피 과열론 불붙이나(종합)",
      "link": "https://view.asiae.co.kr/article/2026071310103520294"
-    },
-    {
-     "date": "2026-07-12",
-     "source": "한국경제·증권",
-     "title": "SK하이닉스 미국 데뷔, 거세진 메모리 피크아웃 논란 [월가백브리핑]",
-     "link": "https://www.hankyung.com/article/202607129717i"
-    },
-    {
-     "date": "2026-07-12",
-     "source": "연합뉴스·경제",
-     "title": "환시에 '통화스와프급' 265억달러 퍼붓는 구원투수 SK하이닉스(종합)",
-     "link": "https://www.yna.co.kr/view/AKR20260710148451003"
     }
    ]
   },
   "삼성전자(005930)": {
    "articles": [
+    {
+     "date": "2026-08-01",
+     "source": "한국경제·증권",
+     "title": "\"삼성전자, SK하이닉스 추월하고 1위\"…파격 전망 나왔다 [강경주의 테크X]",
+     "link": "https://www.hankyung.com/article/2026073181776"
+    },
     {
      "date": "2026-08-01",
      "source": "연합인포맥스",
@@ -1439,12 +1445,6 @@
      "source": "한국경제·증권",
      "title": "모건스탠리 \"반도체주 팔아라\"…외국인, 삼성전자 2조원 던졌다",
      "link": "https://www.hankyung.com/article/2026070710601"
-    },
-    {
-     "date": "2026-07-07",
-     "source": "한국경제·증권",
-     "title": "'실적 D-day' 삼성전자 담은 초고수…SK하이닉스도 쓸어담았다",
-     "link": "https://www.hankyung.com/article/202607079143i"
     }
    ]
   },
@@ -7201,6 +7201,12 @@
   "롯데카드": {
    "articles": [
     {
+     "date": "2026-08-01",
+     "source": "연합뉴스·경제",
+     "title": "[속보] 금융위, '정보유출' 롯데카드 제재 감경…업무정지 4.5→1.5개월",
+     "link": "https://www.yna.co.kr/view/AKR20260731138300002"
+    },
+    {
      "date": "2026-07-31",
      "source": "한국경제·경제",
      "title": "한숨 돌린 롯데카드, 1.5개월 영업정지",
@@ -9365,6 +9371,12 @@
      "link": "https://www.hankyung.com/article/202608018920i"
     },
     {
+     "date": "2026-08-01",
+     "source": "연합인포맥스",
+     "title": "한국에서 터진 '갓성비' 테슬라 국산차 꺾고 결국 1위 올랐다",
+     "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4428159"
+    },
+    {
      "date": "2026-07-31",
      "source": "뉴시스·경제",
      "title": "\"테슬라, 중국 사업부 매각 검토…스페이스X 합병 대비?\"",
@@ -11332,6 +11344,12 @@
   },
   "SK(034730)": {
    "articles": [
+    {
+     "date": "2026-08-01",
+     "source": "연합인포맥스",
+     "title": "SK, 국내 유일 웨이퍼 제조사 SK실트론 왜 팔았나",
+     "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4428163"
+    },
     {
      "date": "2026-07-31",
      "source": "한국경제·경제",
@@ -19205,6 +19223,12 @@
   "SK실트론": {
    "articles": [
     {
+     "date": "2026-08-01",
+     "source": "연합인포맥스",
+     "title": "SK, 국내 유일 웨이퍼 제조사 SK실트론 왜 팔았나",
+     "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4428163"
+    },
+    {
      "date": "2026-07-31",
      "source": "연합인포맥스",
      "title": "두산, SK실트론 지분 70% 인수…2.3兆 규모(종합)",
@@ -19611,7 +19635,27 @@
      "link": "https://view.asiae.co.kr/article/2026073110261626609"
     }
    ]
+  },
+  "동원시스템즈(014820)": {
+   "articles": [
+    {
+     "date": "2026-08-01",
+     "source": "연합뉴스·경제",
+     "title": "동원시스템즈 2분기 영업익 21.1% 증가…친환경포장재 수출 확대(종합)",
+     "link": "https://www.yna.co.kr/view/AKR20260731067651527"
+    }
+   ]
+  },
+  "셰브런(CVX)": {
+   "articles": [
+    {
+     "date": "2026-08-01",
+     "source": "연합인포맥스",
+     "title": "엑손·셰브런, 유가 상승에 2분기 순이익 급증",
+     "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4428117"
+    }
+   ]
   }
  },
- "updatedAt": "2026-08-01T08:08:47+09:00"
+ "updatedAt": "2026-08-01T20:24:27+09:00"
 }

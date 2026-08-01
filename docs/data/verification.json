@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-08-01T08:52:36+09:00",
+ "updatedAt": "2026-08-01T21:03:47+09:00",
  "cases": [
   {
    "name": "이지트로닉스(377330)",
@@ -18972,6 +18972,27 @@
      "price": 18690
     }
    ]
+  },
+  {
+   "name": "세아메카닉스(HT로보틱스)",
+   "type": "discovery",
+   "market": "韓",
+   "flagDate": "2026-08-01",
+   "signals": [
+    "로봇밸류체인 사업다각화",
+    "상호변경예정(8/19)",
+    "복수 대기업向 부품공급"
+   ],
+   "theme": "로봇/휴머노이드",
+   "status": "pending",
+   "checks": [],
+   "convScore": 4,
+   "convTier": "mid",
+   "convSignals": [
+    "승세테마",
+    "구체촉발재"
+   ],
+   "convStampedAt": "2026-08-01"
   }
  ],
  "stats": {
@@ -18981,8 +19002,8 @@
   "miss": 88,
   "hitRate": 20.1,
   "avgD3ChangePct": 1.12,
-  "pending": 33,
-  "total": 222,
+  "pending": 34,
+  "total": 223,
   "byType": {
    "leading": {
     "verified": 89,
