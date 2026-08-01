@@ -1,21 +1,77 @@
 {
- "updatedAt": "2026-08-01T20:26:58+09:00",
+ "updatedAt": "2026-08-02T08:02:11+09:00",
  "note": "원본 헤드라인의 반복 언급을 탐지한 조사 후보이며 투자권유가 아니다. 동일 기사 재실행은 한 번만 집계하고, 순수 악재 반복과 모호한 회사명은 제외한다.",
  "window": 30,
- "corpusToday": 566,
- "trackedCompanies": 503,
+ "corpusToday": 373,
+ "trackedCompanies": 495,
  "companies": [
+  {
+   "code": "001080",
+   "name": "만호제강",
+   "market": "KOSPI",
+   "cap": 1619,
+   "total": 6,
+   "recent": 6,
+   "activeDays": 3,
+   "firstSeen": "2026-07-31",
+   "lastSeen": "2026-08-02",
+   "score": 32.2,
+   "riskMentions": 0,
+   "catalystMentions": 0,
+   "samples": [
+    {
+     "date": "2026-08-02",
+     "title": "금융위, 매출 과대계상 만호제강·임원에 과징금 7.4억원"
+    },
+    {
+     "date": "2026-08-01",
+     "title": "금융위, 회계위반 만호제강·의왕백운PFV 등에 과징금 12.5억"
+    },
+    {
+     "date": "2026-08-01",
+     "title": "금융위, 매출 과대계상 만호제강·임원에 과징금 7.4억원"
+    }
+   ]
+  },
+  {
+   "code": "017810",
+   "name": "풀무원",
+   "market": "KOSPI",
+   "cap": 3366,
+   "total": 7,
+   "recent": 4,
+   "activeDays": 5,
+   "firstSeen": "2026-07-29",
+   "lastSeen": "2026-08-02",
+   "score": 26.0,
+   "riskMentions": 0,
+   "catalystMentions": 0,
+   "samples": [
+    {
+     "date": "2026-08-02",
+     "title": "풀무원, 내달 13일 30개 품목 평균 6.7% 인상…두부는 동결"
+    },
+    {
+     "date": "2026-08-01",
+     "title": "풀무원, 내달 13일 30개 품목 평균 6.7% 인상…두부는 동결"
+    },
+    {
+     "date": "2026-07-31",
+     "title": "풀무원, 내달 13일 30개 품목 평균 6.7% 인상…두부는 동결"
+    }
+   ]
+  },
   {
    "code": "030610",
    "name": "교보증권",
    "market": "KOSPI",
    "cap": 10940,
-   "total": 10,
-   "recent": 3,
-   "activeDays": 9,
-   "firstSeen": "2026-07-03",
+   "total": 9,
+   "recent": 2,
+   "activeDays": 8,
+   "firstSeen": "2026-07-24",
    "lastSeen": "2026-08-01",
-   "score": 27.7,
+   "score": 21.3,
    "riskMentions": 0,
    "catalystMentions": 0,
    "samples": [
@@ -30,118 +86,6 @@
     {
      "date": "2026-07-30",
      "title": "교보증권, 코스피200 연계 월지급식 ELB 공모"
-    }
-   ]
-  },
-  {
-   "code": "068930",
-   "name": "디지털대성",
-   "market": "KOSDAQ",
-   "cap": 2139,
-   "total": 5,
-   "recent": 5,
-   "activeDays": 2,
-   "firstSeen": "2026-07-30",
-   "lastSeen": "2026-07-31",
-   "score": 25.8,
-   "riskMentions": 0,
-   "catalystMentions": 0,
-   "samples": [
-    {
-     "date": "2026-07-31",
-     "title": "디지털대성, 자사주 63만주 소각…100억원 규모 추가 매입"
-    },
-    {
-     "date": "2026-07-31",
-     "title": "디지털대성, 자사주 63만주 소각·100억 추가 매입…주주환원 정책 강화"
-    },
-    {
-     "date": "2026-07-31",
-     "title": "디지털대성, 자사주 63만주 소각·100억 추가 매입 계획에 '급등'"
-    }
-   ]
-  },
-  {
-   "code": "001080",
-   "name": "만호제강",
-   "market": "KOSPI",
-   "cap": 1619,
-   "total": 5,
-   "recent": 5,
-   "activeDays": 2,
-   "firstSeen": "2026-07-31",
-   "lastSeen": "2026-08-01",
-   "score": 25.8,
-   "riskMentions": 0,
-   "catalystMentions": 0,
-   "samples": [
-    {
-     "date": "2026-08-01",
-     "title": "금융위, 회계위반 만호제강·의왕백운PFV 등에 과징금 12.5억"
-    },
-    {
-     "date": "2026-08-01",
-     "title": "금융위, 매출 과대계상 만호제강·임원에 과징금 7.4억원"
-    },
-    {
-     "date": "2026-07-31",
-     "title": "금융위, 회계위반 만호제강·의왕백운PFV 등에 과징금 12.5억"
-    }
-   ]
-  },
-  {
-   "code": "017810",
-   "name": "풀무원",
-   "market": "KOSPI",
-   "cap": 3366,
-   "total": 6,
-   "recent": 4,
-   "activeDays": 4,
-   "firstSeen": "2026-07-29",
-   "lastSeen": "2026-08-01",
-   "score": 24.5,
-   "riskMentions": 0,
-   "catalystMentions": 0,
-   "samples": [
-    {
-     "date": "2026-08-01",
-     "title": "풀무원, 내달 13일 30개 품목 평균 6.7% 인상…두부는 동결"
-    },
-    {
-     "date": "2026-07-31",
-     "title": "풀무원, 내달 13일 30개 품목 평균 6.7% 인상…두부는 동결"
-    },
-    {
-     "date": "2026-07-31",
-     "title": "풀무원, 400억원 규모 제3자배정 유상증자 결정"
-    }
-   ]
-  },
-  {
-   "code": "058450",
-   "name": "한주에이알티",
-   "market": "KOSDAQ",
-   "cap": 193,
-   "total": 4,
-   "recent": 4,
-   "activeDays": 3,
-   "firstSeen": "2026-07-30",
-   "lastSeen": "2026-08-01",
-   "score": 23.5,
-   "riskMentions": 0,
-   "catalystMentions": 2,
-   "samples": [
-    {
-     "date": "2026-08-01",
-     "title": "한주에이알티, 40억원 운영자금 조달…외형 성장 넘어 '수익성 전환' 속도"
-    },
-    {
-     "date": "2026-07-31",
-     "title": "한주에이알티, 40억원 운영자금 조달…외형 성장 넘어 '수익성 전환' 속도"
-    },
-    {
-     "date": "2026-07-31",
-     "title": "한주에이알티, 20억원 유상증자…아르테미스2호조합에 제3자배정"
     }
    ]
   },
@@ -174,58 +118,114 @@
    ]
   },
   {
-   "code": "060230",
-   "name": "제이케이시냅스",
-   "market": "KOSDAQ",
-   "cap": 151,
+   "code": "298050",
+   "name": "HS효성첨단소재",
+   "market": "KOSPI",
+   "cap": 7204,
    "total": 4,
    "recent": 3,
    "activeDays": 4,
-   "firstSeen": "2026-07-29",
-   "lastSeen": "2026-08-01",
+   "firstSeen": "2026-07-09",
+   "lastSeen": "2026-08-02",
    "score": 20.6,
    "riskMentions": 0,
    "catalystMentions": 0,
    "samples": [
     {
+     "date": "2026-08-02",
+     "title": "HS효성첨단소재, 어닝서프라이즈에 강세…타이어코드·탄소섬유 '쌍끌이'"
+    },
+    {
      "date": "2026-08-01",
-     "title": "\"휴림로봇 최대주주 변경 후…\" 제이케이시냅스 경영진 '자사주 매입'"
+     "title": "HS효성첨단소재, 어닝서프라이즈에 강세…타이어코드·탄소섬유 '쌍끌이'"
     },
     {
      "date": "2026-07-31",
-     "title": "\"휴림로봇 최대주주 변경 후…\" 제이케이시냅스 경영진 '자사주 매입'"
-    },
-    {
-     "date": "2026-07-30",
-     "title": "휴림로봇, 제이케이시냅스 최대주주 등극…30억 투입해 재무체질 강화"
+     "title": "HS효성첨단소재, 어닝서프라이즈에 강세…타이어코드·탄소섬유 '쌍끌이'"
     }
    ]
   },
   {
-   "code": "090710",
-   "name": "휴림로봇",
+   "code": "357230",
+   "name": "에이치피오",
    "market": "KOSDAQ",
-   "cap": 7401,
-   "total": 4,
+   "cap": 880,
+   "total": 3,
    "recent": 3,
-   "activeDays": 4,
-   "firstSeen": "2026-07-29",
-   "lastSeen": "2026-08-01",
-   "score": 20.6,
+   "activeDays": 3,
+   "firstSeen": "2026-07-31",
+   "lastSeen": "2026-08-02",
+   "score": 19.1,
    "riskMentions": 0,
    "catalystMentions": 0,
    "samples": [
     {
+     "date": "2026-08-02",
+     "title": "'극단적 저평가' 에이치피오…건기식 넘어 뷰티로 재평가 노린다"
+    },
+    {
      "date": "2026-08-01",
-     "title": "\"휴림로봇 최대주주 변경 후…\" 제이케이시냅스 경영진 '자사주 매입'"
+     "title": "'극단적 저평가' 에이치피오…건기식 넘어 뷰티로 재평가 노린다"
     },
     {
      "date": "2026-07-31",
-     "title": "\"휴림로봇 최대주주 변경 후…\" 제이케이시냅스 경영진 '자사주 매입'"
+     "title": "'극단적 저평가' 에이치피오…건기식 넘어 뷰티로 재평가 노린다"
+    }
+   ]
+  },
+  {
+   "code": "080160",
+   "name": "모두투어",
+   "market": "KOSDAQ",
+   "cap": 1601,
+   "total": 3,
+   "recent": 3,
+   "activeDays": 3,
+   "firstSeen": "2026-07-31",
+   "lastSeen": "2026-08-02",
+   "score": 19.1,
+   "riskMentions": 0,
+   "catalystMentions": 3,
+   "samples": [
+    {
+     "date": "2026-08-02",
+     "title": "[게시판] 농협은행, 모두투어 제휴 'NH모두트래블리적금' 출시"
     },
     {
-     "date": "2026-07-30",
-     "title": "휴림로봇, 제이케이시냅스 최대주주 등극…30억 투입해 재무체질 강화"
+     "date": "2026-08-01",
+     "title": "[게시판] 농협은행, 모두투어 제휴 'NH모두트래블리적금' 출시"
+    },
+    {
+     "date": "2026-07-31",
+     "title": "[게시판] 농협은행, 모두투어 제휴 'NH모두트래블리적금' 출시"
+    }
+   ]
+  },
+  {
+   "code": "290650",
+   "name": "엘앤씨바이오",
+   "market": "KOSDAQ",
+   "cap": 13997,
+   "total": 3,
+   "recent": 3,
+   "activeDays": 3,
+   "firstSeen": "2026-07-31",
+   "lastSeen": "2026-08-02",
+   "score": 19.1,
+   "riskMentions": 0,
+   "catalystMentions": 0,
+   "samples": [
+    {
+     "date": "2026-08-02",
+     "title": "엘앤씨바이오, 1천400억원 주주배정 유상증자 결정"
+    },
+    {
+     "date": "2026-08-01",
+     "title": "엘앤씨바이오, 1천400억원 주주배정 유상증자 결정"
+    },
+    {
+     "date": "2026-07-31",
+     "title": "엘앤씨바이오, 1천400억원 주주배정 유상증자 결정"
     }
    ]
   },
@@ -258,30 +258,30 @@
    ]
   },
   {
-   "code": "018000",
-   "name": "유니슨",
+   "code": "058450",
+   "name": "한주에이알티",
    "market": "KOSDAQ",
-   "cap": 1887,
-   "total": 6,
-   "recent": 2,
-   "activeDays": 6,
-   "firstSeen": "2026-07-10",
-   "lastSeen": "2026-07-31",
-   "score": 18.8,
+   "cap": 193,
+   "total": 4,
+   "recent": 3,
+   "activeDays": 3,
+   "firstSeen": "2026-07-30",
+   "lastSeen": "2026-08-01",
+   "score": 18.6,
    "riskMentions": 0,
    "catalystMentions": 2,
    "samples": [
     {
+     "date": "2026-08-01",
+     "title": "한주에이알티, 40억원 운영자금 조달…외형 성장 넘어 '수익성 전환' 속도"
+    },
+    {
      "date": "2026-07-31",
-     "title": "유니슨, 한전KPS와 육상풍력 사업 협력 확대...\"풍력 밸류체인 맞손\""
+     "title": "한주에이알티, 40억원 운영자금 조달…외형 성장 넘어 '수익성 전환' 속도"
     },
     {
-     "date": "2026-07-30",
-     "title": "유니슨, 한전KPS와 육상풍력 사업 협력 확대...\"풍력 밸류체인 맞손\""
-    },
-    {
-     "date": "2026-07-27",
-     "title": "유니슨, 육·해상풍력 사업 확대…2030년 매출 1조원 목표"
+     "date": "2026-07-31",
+     "title": "한주에이알티, 20억원 유상증자…아르테미스2호조합에 제3자배정"
     }
    ]
   },
@@ -314,114 +314,30 @@
    ]
   },
   {
-   "code": "001510",
-   "name": "SK증권",
+   "code": "097230",
+   "name": "HJ중공업",
    "market": "KOSPI",
-   "cap": 4661,
+   "cap": 14176,
    "total": 5,
    "recent": 2,
    "activeDays": 5,
-   "firstSeen": "2026-07-09",
-   "lastSeen": "2026-07-31",
+   "firstSeen": "2026-07-04",
+   "lastSeen": "2026-08-02",
    "score": 17.3,
-   "riskMentions": 0,
-   "catalystMentions": 2,
-   "samples": [
-    {
-     "date": "2026-07-31",
-     "title": "엑시온그룹, SK증권 통해 소액공모 20억 조달…한도 확대 후 코스닥 첫 사례"
-    },
-    {
-     "date": "2026-07-30",
-     "title": "SK증권 \"파인엠텍, 북미 폴더블 공급 본궤도…4분기 성장 재시동\""
-    },
-    {
-     "date": "2026-07-29",
-     "title": "SK증권 \"파인엠텍, 북미 폴더블 공급 본궤도…4분기 성장 재시동\""
-    }
-   ]
-  },
-  {
-   "code": "419050",
-   "name": "삼기에너지솔루션즈",
-   "market": "KOSDAQ",
-   "cap": 633,
-   "total": 3,
-   "recent": 3,
-   "activeDays": 2,
-   "firstSeen": "2026-07-30",
-   "lastSeen": "2026-07-31",
-   "score": 17.1,
-   "riskMentions": 0,
-   "catalystMentions": 3,
-   "samples": [
-    {
-     "date": "2026-07-31",
-     "title": "삼기에너지솔루션즈, ESS용 핵심 커넥터 사업 확대"
-    },
-    {
-     "date": "2026-07-31",
-     "title": "삼기에너지솔루션즈, ESS 핵심 커넥터 사업 확대…AIDC發 수요 선점 나선다"
-    },
-    {
-     "date": "2026-07-30",
-     "title": "삼기에너지솔루션즈, ESS 핵심 커넥터 사업 확대…AIDC發 수요 선점 나선다"
-    }
-   ]
-  },
-  {
-   "code": "123010",
-   "name": "알엔티엑스",
-   "market": "KOSDAQ",
-   "cap": 402,
-   "total": 3,
-   "recent": 3,
-   "activeDays": 2,
-   "firstSeen": "2026-07-30",
-   "lastSeen": "2026-07-31",
-   "score": 17.1,
-   "riskMentions": 0,
-   "catalystMentions": 2,
-   "samples": [
-    {
-     "date": "2026-07-31",
-     "title": "알엔티엑스, 군수품 무역대리 등록 완료…글로벌 미사일 사업 확대 '교두보' 마련"
-    },
-    {
-     "date": "2026-07-31",
-     "title": "알엔티엑스, '군수품 무역 대리업체' 지정"
-    },
-    {
-     "date": "2026-07-30",
-     "title": "알엔티엑스, 군수품 무역대리 등록 완료…글로벌 미사일 사업 확대 '교두보' 마련"
-    }
-   ]
-  },
-  {
-   "code": "075130",
-   "name": "플랜티넷",
-   "market": "KOSDAQ",
-   "cap": 322,
-   "total": 3,
-   "recent": 3,
-   "activeDays": 2,
-   "firstSeen": "2026-07-30",
-   "lastSeen": "2026-07-31",
-   "score": 17.1,
    "riskMentions": 0,
    "catalystMentions": 0,
    "samples": [
     {
-     "date": "2026-07-31",
-     "title": "플랜티넷, 상장 후 첫 중간배당 실시"
+     "date": "2026-08-02",
+     "title": "수시 점검부터 실시간 감시까지…HJ중공업 안전 경영 강화[짤막영상]"
     },
     {
-     "date": "2026-07-31",
-     "title": "플랜티넷, 상장 이후 처음으로 중간배당 실시키로"
+     "date": "2026-08-01",
+     "title": "수시 점검부터 실시간 감시까지…HJ중공업 안전 경영 강화[짤막영상]"
     },
     {
-     "date": "2026-07-30",
-     "title": "플랜티넷, 상장 이후 처음으로 중간배당 실시키로"
+     "date": "2026-07-28",
+     "title": "HJ중공업, 한국토지신탁 골프단 인수…KLPGA 골프단 창단"
     }
    ]
   },
@@ -482,58 +398,86 @@
    ]
   },
   {
-   "code": "001750",
-   "name": "한양증권",
-   "market": "KOSPI",
-   "cap": 2485,
-   "total": 7,
-   "recent": 2,
-   "activeDays": 5,
-   "firstSeen": "2026-07-13",
-   "lastSeen": "2026-07-30",
-   "score": 16.3,
-   "riskMentions": 0,
-   "catalystMentions": 0,
-   "samples": [
-    {
-     "date": "2026-07-30",
-     "title": "한양증권, 레버리지 ETF 이해 돕는 콘텐츠 공개"
-    },
-    {
-     "date": "2026-07-30",
-     "title": "\"레버리지 ETF 공부하세요\"... 한양증권 교육 콘텐츠 공개"
-    },
-    {
-     "date": "2026-07-29",
-     "title": "한양증권, 레버리지 ETF 이해 돕는 콘텐츠 공개"
-    }
-   ]
-  },
-  {
-   "code": "034830",
-   "name": "한국토지신탁",
-   "market": "KOSPI",
-   "cap": 2790,
-   "total": 4,
-   "recent": 2,
-   "activeDays": 4,
-   "firstSeen": "2026-07-24",
+   "code": "068930",
+   "name": "디지털대성",
+   "market": "KOSDAQ",
+   "cap": 2139,
+   "total": 5,
+   "recent": 3,
+   "activeDays": 2,
+   "firstSeen": "2026-07-30",
    "lastSeen": "2026-07-31",
-   "score": 15.8,
+   "score": 16.1,
    "riskMentions": 0,
    "catalystMentions": 0,
    "samples": [
     {
      "date": "2026-07-31",
-     "title": "한국토지신탁, 신입직원 대상 AI 맞춤형 교육 강화"
+     "title": "디지털대성, 자사주 63만주 소각…100억원 규모 추가 매입"
+    },
+    {
+     "date": "2026-07-31",
+     "title": "디지털대성, 자사주 63만주 소각·100억 추가 매입…주주환원 정책 강화"
+    },
+    {
+     "date": "2026-07-31",
+     "title": "디지털대성, 자사주 63만주 소각·100억 추가 매입 계획에 '급등'"
+    }
+   ]
+  },
+  {
+   "code": "060230",
+   "name": "제이케이시냅스",
+   "market": "KOSDAQ",
+   "cap": 151,
+   "total": 4,
+   "recent": 2,
+   "activeDays": 4,
+   "firstSeen": "2026-07-29",
+   "lastSeen": "2026-08-01",
+   "score": 15.8,
+   "riskMentions": 0,
+   "catalystMentions": 0,
+   "samples": [
+    {
+     "date": "2026-08-01",
+     "title": "\"휴림로봇 최대주주 변경 후…\" 제이케이시냅스 경영진 '자사주 매입'"
+    },
+    {
+     "date": "2026-07-31",
+     "title": "\"휴림로봇 최대주주 변경 후…\" 제이케이시냅스 경영진 '자사주 매입'"
     },
     {
      "date": "2026-07-30",
-     "title": "한국토지신탁, 신입직원 대상 AI 맞춤형 교육 강화"
+     "title": "휴림로봇, 제이케이시냅스 최대주주 등극…30억 투입해 재무체질 강화"
+    }
+   ]
+  },
+  {
+   "code": "090710",
+   "name": "휴림로봇",
+   "market": "KOSDAQ",
+   "cap": 7401,
+   "total": 4,
+   "recent": 2,
+   "activeDays": 4,
+   "firstSeen": "2026-07-29",
+   "lastSeen": "2026-08-01",
+   "score": 15.8,
+   "riskMentions": 0,
+   "catalystMentions": 0,
+   "samples": [
+    {
+     "date": "2026-08-01",
+     "title": "\"휴림로봇 최대주주 변경 후…\" 제이케이시냅스 경영진 '자사주 매입'"
     },
     {
-     "date": "2026-07-28",
-     "title": "HJ중공업, 한국토지신탁 골프단 인수…KLPGA 골프단 창단"
+     "date": "2026-07-31",
+     "title": "\"휴림로봇 최대주주 변경 후…\" 제이케이시냅스 경영진 '자사주 매입'"
+    },
+    {
+     "date": "2026-07-30",
+     "title": "휴림로봇, 제이케이시냅스 최대주주 등극…30억 투입해 재무체질 강화"
     }
    ]
   },
@@ -594,62 +538,6 @@
    ]
   },
   {
-   "code": "298050",
-   "name": "HS효성첨단소재",
-   "market": "KOSPI",
-   "cap": 7204,
-   "total": 3,
-   "recent": 2,
-   "activeDays": 3,
-   "firstSeen": "2026-07-09",
-   "lastSeen": "2026-08-01",
-   "score": 14.2,
-   "riskMentions": 0,
-   "catalystMentions": 0,
-   "samples": [
-    {
-     "date": "2026-08-01",
-     "title": "HS효성첨단소재, 어닝서프라이즈에 강세…타이어코드·탄소섬유 '쌍끌이'"
-    },
-    {
-     "date": "2026-07-31",
-     "title": "HS효성첨단소재, 어닝서프라이즈에 강세…타이어코드·탄소섬유 '쌍끌이'"
-    },
-    {
-     "date": "2026-07-09",
-     "title": "HS효성첨단소재 \"벨기에 계열사 주식 345억원에 추가취득\""
-    }
-   ]
-  },
-  {
-   "code": "441270",
-   "name": "파인엠텍",
-   "market": "KOSDAQ",
-   "cap": 2968,
-   "total": 3,
-   "recent": 2,
-   "activeDays": 3,
-   "firstSeen": "2026-07-29",
-   "lastSeen": "2026-07-31",
-   "score": 14.2,
-   "riskMentions": 0,
-   "catalystMentions": 1,
-   "samples": [
-    {
-     "date": "2026-07-31",
-     "title": "삼성 Z폴드8 흥행에…부품 엄체 파인엠텍 수혜 기대감 ↑"
-    },
-    {
-     "date": "2026-07-30",
-     "title": "SK증권 \"파인엠텍, 북미 폴더블 공급 본궤도…4분기 성장 재시동\""
-    },
-    {
-     "date": "2026-07-29",
-     "title": "SK증권 \"파인엠텍, 북미 폴더블 공급 본궤도…4분기 성장 재시동\""
-    }
-   ]
-  },
-  {
    "code": "096240",
    "name": "크레버스",
    "market": "KOSDAQ",
@@ -678,130 +566,10 @@
    ]
   },
   {
-   "code": "063160",
-   "name": "종근당바이오",
+   "code": "001200",
+   "name": "유진투자증권",
    "market": "KOSPI",
-   "cap": 707,
-   "total": 2,
-   "recent": 2,
-   "activeDays": 2,
-   "firstSeen": "2026-07-30",
-   "lastSeen": "2026-07-31",
-   "score": 12.7,
-   "riskMentions": 0,
-   "catalystMentions": 0,
-   "samples": [
-    {
-     "date": "2026-07-31",
-     "title": "[바이오스냅] 종근당바이오, 미국서 우울장애 치료제 임상 추진"
-    },
-    {
-     "date": "2026-07-30",
-     "title": "[바이오스냅] 종근당바이오, 미국서 우울장애 치료제 임상 추진"
-    }
-   ]
-  },
-  {
-   "code": "077970",
-   "name": "STX엔진",
-   "market": "KOSPI",
-   "cap": 9254,
-   "total": 2,
-   "recent": 2,
-   "activeDays": 2,
-   "firstSeen": "2026-07-30",
-   "lastSeen": "2026-07-31",
-   "score": 12.7,
-   "riskMentions": 0,
-   "catalystMentions": 2,
-   "samples": [
-    {
-     "date": "2026-07-31",
-     "title": "STX엔진, 머스크에 컨선 엔진 공급"
-    },
-    {
-     "date": "2026-07-30",
-     "title": "STX엔진, 머스크에 컨선 엔진 공급"
-    }
-   ]
-  },
-  {
-   "code": "007460",
-   "name": "에이프로젠",
-   "market": "KOSPI",
-   "cap": 545,
-   "total": 2,
-   "recent": 2,
-   "activeDays": 2,
-   "firstSeen": "2026-07-30",
-   "lastSeen": "2026-07-31",
-   "score": 12.7,
-   "riskMentions": 0,
-   "catalystMentions": 0,
-   "samples": [
-    {
-     "date": "2026-07-31",
-     "title": "에이프로젠, '퇴행성관절염 신약' AP209 임상 본궤도…첫 IRB 접수 완료"
-    },
-    {
-     "date": "2026-07-30",
-     "title": "에이프로젠, '퇴행성관절염 신약' AP209 임상 본궤도…첫 IRB 접수 완료"
-    }
-   ]
-  },
-  {
-   "code": "050110",
-   "name": "캠시스",
-   "market": "KOSDAQ",
-   "cap": 267,
-   "total": 2,
-   "recent": 2,
-   "activeDays": 2,
-   "firstSeen": "2026-07-30",
-   "lastSeen": "2026-07-31",
-   "score": 12.7,
-   "riskMentions": 0,
-   "catalystMentions": 0,
-   "samples": [
-    {
-     "date": "2026-07-31",
-     "title": "캠시스, 카메라모듈 기술 'AI 로봇'으로 확장…코라스로보틱스와 맞손"
-    },
-    {
-     "date": "2026-07-30",
-     "title": "캠시스, 카메라모듈 기술 'AI 로봇'으로 확장…코라스로보틱스와 맞손"
-    }
-   ]
-  },
-  {
-   "code": "045520",
-   "name": "크린앤사이언스",
-   "market": "KOSDAQ",
-   "cap": 158,
-   "total": 2,
-   "recent": 2,
-   "activeDays": 2,
-   "firstSeen": "2026-07-30",
-   "lastSeen": "2026-07-31",
-   "score": 12.7,
-   "riskMentions": 0,
-   "catalystMentions": 2,
-   "samples": [
-    {
-     "date": "2026-07-31",
-     "title": "크린앤사이언스, 'AI 데이터센터 필터' 시장 첫 발…MRO 성장성 주목"
-    },
-    {
-     "date": "2026-07-30",
-     "title": "크린앤사이언스, 'AI 데이터센터 필터' 시장 첫 발…MRO 성장성 주목"
-    }
-   ]
-  },
-  {
-   "code": "357230",
-   "name": "에이치피오",
-   "market": "KOSDAQ",
-   "cap": 880,
+   "cap": 4010,
    "total": 2,
    "recent": 2,
    "activeDays": 2,
@@ -809,15 +577,151 @@
    "lastSeen": "2026-08-01",
    "score": 12.7,
    "riskMentions": 0,
-   "catalystMentions": 0,
+   "catalystMentions": 2,
    "samples": [
     {
      "date": "2026-08-01",
-     "title": "'극단적 저평가' 에이치피오…건기식 넘어 뷰티로 재평가 노린다"
+     "title": "유진투자증권, 테니스 대회 후원…'2026 서울오픈 챌린저' 타이틀스폰서"
     },
     {
      "date": "2026-07-31",
-     "title": "'극단적 저평가' 에이치피오…건기식 넘어 뷰티로 재평가 노린다"
+     "title": "유진투자증권, 테니스 대회 후원…'2026 서울오픈 챌린저' 타이틀스폰서"
+    }
+   ]
+  },
+  {
+   "code": "456070",
+   "name": "이엔셀",
+   "market": "KOSDAQ",
+   "cap": 602,
+   "total": 2,
+   "recent": 2,
+   "activeDays": 2,
+   "firstSeen": "2026-07-31",
+   "lastSeen": "2026-08-01",
+   "score": 12.7,
+   "riskMentions": 0,
+   "catalystMentions": 2,
+   "samples": [
+    {
+     "date": "2026-08-01",
+     "title": "이엔셀, 보툴리눔 톡신 CDMO 확대…디오비랩스와 생산 협력 '맞손'"
+    },
+    {
+     "date": "2026-07-31",
+     "title": "이엔셀, 보툴리눔 톡신 CDMO 확대…디오비랩스와 생산 협력 '맞손'"
+    }
+   ]
+  },
+  {
+   "code": "185750",
+   "name": "종근당",
+   "market": "KOSPI",
+   "cap": 9234,
+   "total": 3,
+   "recent": 2,
+   "activeDays": 2,
+   "firstSeen": "2026-07-21",
+   "lastSeen": "2026-07-31",
+   "score": 12.2,
+   "riskMentions": 0,
+   "catalystMentions": 0,
+   "samples": [
+    {
+     "date": "2026-07-31",
+     "title": "종근당, 2Q 영업익 199억…전년비 10%↓"
+    },
+    {
+     "date": "2026-07-31",
+     "title": "종근당, 2Q 영업익 199억·10%↓…&quot;연구개발비 증가&quot;(종합)"
+    },
+    {
+     "date": "2026-07-21",
+     "title": "[클릭e종목]\"종근당, R&D모멘텀 더 기다려야...목표주가 하향\""
+    }
+   ]
+  },
+  {
+   "code": "419050",
+   "name": "삼기에너지솔루션즈",
+   "market": "KOSDAQ",
+   "cap": 633,
+   "total": 3,
+   "recent": 2,
+   "activeDays": 2,
+   "firstSeen": "2026-07-30",
+   "lastSeen": "2026-07-31",
+   "score": 12.2,
+   "riskMentions": 0,
+   "catalystMentions": 2,
+   "samples": [
+    {
+     "date": "2026-07-31",
+     "title": "삼기에너지솔루션즈, ESS용 핵심 커넥터 사업 확대"
+    },
+    {
+     "date": "2026-07-31",
+     "title": "삼기에너지솔루션즈, ESS 핵심 커넥터 사업 확대…AIDC發 수요 선점 나선다"
+    },
+    {
+     "date": "2026-07-30",
+     "title": "삼기에너지솔루션즈, ESS 핵심 커넥터 사업 확대…AIDC發 수요 선점 나선다"
+    }
+   ]
+  },
+  {
+   "code": "123010",
+   "name": "알엔티엑스",
+   "market": "KOSDAQ",
+   "cap": 402,
+   "total": 3,
+   "recent": 2,
+   "activeDays": 2,
+   "firstSeen": "2026-07-30",
+   "lastSeen": "2026-07-31",
+   "score": 12.2,
+   "riskMentions": 0,
+   "catalystMentions": 1,
+   "samples": [
+    {
+     "date": "2026-07-31",
+     "title": "알엔티엑스, 군수품 무역대리 등록 완료…글로벌 미사일 사업 확대 '교두보' 마련"
+    },
+    {
+     "date": "2026-07-31",
+     "title": "알엔티엑스, '군수품 무역 대리업체' 지정"
+    },
+    {
+     "date": "2026-07-30",
+     "title": "알엔티엑스, 군수품 무역대리 등록 완료…글로벌 미사일 사업 확대 '교두보' 마련"
+    }
+   ]
+  },
+  {
+   "code": "075130",
+   "name": "플랜티넷",
+   "market": "KOSDAQ",
+   "cap": 322,
+   "total": 3,
+   "recent": 2,
+   "activeDays": 2,
+   "firstSeen": "2026-07-30",
+   "lastSeen": "2026-07-31",
+   "score": 12.2,
+   "riskMentions": 0,
+   "catalystMentions": 0,
+   "samples": [
+    {
+     "date": "2026-07-31",
+     "title": "플랜티넷, 상장 후 첫 중간배당 실시"
+    },
+    {
+     "date": "2026-07-31",
+     "title": "플랜티넷, 상장 이후 처음으로 중간배당 실시키로"
+    },
+    {
+     "date": "2026-07-30",
+     "title": "플랜티넷, 상장 이후 처음으로 중간배당 실시키로"
     }
    ]
   }
