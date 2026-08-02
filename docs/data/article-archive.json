@@ -3,6 +3,18 @@
   "SK하이닉스(000660)": {
    "articles": [
     {
+     "date": "2026-08-02",
+     "source": "한국경제·경제",
+     "title": "'억대 성과급'으로 인재 싹쓸이…SK하이닉스, 채용 시장 '블랙홀'",
+     "link": "https://www.hankyung.com/article/202608020006i"
+    },
+    {
+     "date": "2026-08-02",
+     "source": "아시아경제",
+     "title": "24시간 거래되는 SK하이닉스 주식, 국내 증시 영향은 [주末머니]",
+     "link": "https://view.asiae.co.kr/article/2026073110484698695"
+    },
+    {
      "date": "2026-08-01",
      "source": "한국경제·증권",
      "title": "\"삼성전자, SK하이닉스 추월하고 1위\"…파격 전망 나왔다 [강경주의 테크X]",
@@ -709,23 +721,17 @@
      "source": "아시아경제",
      "title": "코스피, SK하이닉스 하락…기관·외인 순매도에 장중 3%대 약세",
      "link": "https://view.asiae.co.kr/article/2026071310285582518"
-    },
-    {
-     "date": "2026-07-13",
-     "source": "아시아경제",
-     "title": "[굿모닝 증시]SK하이닉스 ADR 흥행…TSMC 실적이 코스피 반등 분수령",
-     "link": "https://view.asiae.co.kr/article/2026071308125349456"
-    },
-    {
-     "date": "2026-07-13",
-     "source": "아시아경제",
-     "title": "SK하이닉스 실적전망 하향…코스피 과열론 불붙이나(종합)",
-     "link": "https://view.asiae.co.kr/article/2026071310103520294"
     }
    ]
   },
   "삼성전자(005930)": {
    "articles": [
+    {
+     "date": "2026-08-02",
+     "source": "연합인포맥스",
+     "title": "삼성전자 외국인 지분율 16년來 최저…&quot;비중 축소 과도&quot;",
+     "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4428194"
+    },
     {
      "date": "2026-08-01",
      "source": "한국경제·증권",
@@ -1439,12 +1445,6 @@
      "source": "한국경제·증권",
      "title": "삼성전자, 2분기 '어닝 서프라이즈'에도 5%대 급락",
      "link": "https://www.hankyung.com/article/2026070795546"
-    },
-    {
-     "date": "2026-07-07",
-     "source": "한국경제·증권",
-     "title": "모건스탠리 \"반도체주 팔아라\"…외국인, 삼성전자 2조원 던졌다",
-     "link": "https://www.hankyung.com/article/2026070710601"
     }
    ]
   },
@@ -2122,6 +2122,12 @@
   },
   "애플(AAPL)": {
    "articles": [
+    {
+     "date": "2026-08-02",
+     "source": "아시아경제",
+     "title": "지도·펜슬도 한발짝 늦었지만 따라잡던 애플…AI도 역전극 펼칠까[주末머니]",
+     "link": "https://view.asiae.co.kr/article/2026073116074055052"
+    },
     {
      "date": "2026-08-01",
      "source": "한국경제·증권",
@@ -3246,6 +3252,12 @@
   },
   "엔비디아(NVDA)": {
    "articles": [
+    {
+     "date": "2026-08-02",
+     "source": "한국경제·경제",
+     "title": "[단독] \"주성은 현재 인큐베이팅 기간…엔비디아의 2018년과 유사\"",
+     "link": "https://www.hankyung.com/article/202607318431i"
+    },
     {
      "date": "2026-08-01",
      "source": "한국경제·증권",
@@ -6015,6 +6027,12 @@
   "삼성물산(028260)": {
    "articles": [
     {
+     "date": "2026-08-02",
+     "source": "뉴시스·경제",
+     "title": "삼성물산, 돌봄형 실버타운에 'AI 시니어 리빙' 첫 적용",
+     "link": "https://www.newsis.com/view/NISX20260802_0003732868"
+    },
+    {
      "date": "2026-07-31",
      "source": "아시아경제",
      "title": "[클릭 e종목]\"삼전 주가 떨어졌네\" 호실적에도...삼성물산 목표주가 하향",
@@ -6312,6 +6330,12 @@
   },
   "BGF리테일(282330)": {
    "articles": [
+    {
+     "date": "2026-08-02",
+     "source": "연합뉴스·경제",
+     "title": "BGF리테일, CU PB '피빅' 패키지로 레드닷 디자인 본상 수상",
+     "link": "https://www.yna.co.kr/view/AKR20260802015600030"
+    },
     {
      "date": "2026-07-19",
      "source": "한국경제·증권",
@@ -7454,6 +7478,18 @@
   },
   "LG전자(066570)": {
    "articles": [
+    {
+     "date": "2026-08-02",
+     "source": "한국경제·경제",
+     "title": "LG전자, 제주 히트펌프 보급 1위 사업자 선정",
+     "link": "https://www.hankyung.com/article/2026080201051"
+    },
+    {
+     "date": "2026-08-02",
+     "source": "한국경제·경제",
+     "title": "LG전자 '모듈러 주택' 홈쇼핑에서 판다",
+     "link": "https://www.hankyung.com/article/2026080202191"
+    },
     {
      "date": "2026-07-30",
      "source": "한국경제·증권",
@@ -8887,6 +8923,12 @@
   "AMD(AMD)": {
    "articles": [
     {
+     "date": "2026-08-02",
+     "source": "한국경제·증권",
+     "title": "뉴욕·상하이 증시, AMD·샌디스크·팰런티어 실적 발표",
+     "link": "https://www.hankyung.com/article/2026080201741"
+    },
+    {
      "date": "2026-07-28",
      "source": "아시아경제",
      "title": "'예비유니콘' 망고부스트, AMD 동맹 기반 시리즈B 펀딩 본격화",
@@ -8996,6 +9038,12 @@
   },
   "LG이노텍(011070)": {
    "articles": [
+    {
+     "date": "2026-08-02",
+     "source": "한국경제·경제",
+     "title": "\"LG이노텍, 위닝 테크로 피지컬 AI 강화\"",
+     "link": "https://www.hankyung.com/article/2026080201791"
+    },
     {
      "date": "2026-07-30",
      "source": "한국경제·경제",
@@ -10032,6 +10080,12 @@
   },
   "오리온(271560)": {
    "articles": [
+    {
+     "date": "2026-08-02",
+     "source": "연합뉴스·경제",
+     "title": "GS25, 오리온 협업 '춘식이 꼬북칩 고구마탕후루맛' 단독 출시",
+     "link": "https://www.yna.co.kr/view/AKR20260802009300030"
+    },
     {
      "date": "2026-07-30",
      "source": "한국경제·경제",
@@ -11135,6 +11189,12 @@
   "에이피알(278470)": {
    "articles": [
     {
+     "date": "2026-08-02",
+     "source": "한국경제·경제",
+     "title": "여기어때·에이피알·네오위즈…첫 ESG 보고서 낸 중견사들",
+     "link": "https://www.hankyung.com/article/2026080201041"
+    },
+    {
      "date": "2026-07-26",
      "source": "연합뉴스·경제",
      "title": "[게시판] 에이피알, '반도체 첨단산업 기술개발 사업' 착수 회의",
@@ -11266,6 +11326,12 @@
   },
   "고려아연(010130)": {
    "articles": [
+    {
+     "date": "2026-08-02",
+     "source": "연합인포맥스",
+     "title": "최윤범 고려아연 회장 &quot;글로벌 핵심광물 플랫폼 도약&quot;",
+     "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4428199"
+    },
     {
      "date": "2026-07-31",
      "source": "연합인포맥스",
@@ -11656,6 +11722,12 @@
   },
   "SKT(017670)": {
    "articles": [
+    {
+     "date": "2026-08-02",
+     "source": "연합인포맥스",
+     "title": "SKT, 천만 러너 사로잡을 '가민' 워치, '샥즈' 이어폰 도입",
+     "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4428182"
+    },
     {
      "date": "2026-08-02",
      "source": "연합인포맥스",
@@ -12108,6 +12180,12 @@
   },
   "샌디스크(SNDK)": {
    "articles": [
+    {
+     "date": "2026-08-02",
+     "source": "한국경제·증권",
+     "title": "뉴욕·상하이 증시, AMD·샌디스크·팰런티어 실적 발표",
+     "link": "https://www.hankyung.com/article/2026080201741"
+    },
     {
      "date": "2026-07-01",
      "source": "한국경제·증권",
@@ -12672,6 +12750,12 @@
   },
   "GS건설(006360)": {
    "articles": [
+    {
+     "date": "2026-08-02",
+     "source": "아시아경제",
+     "title": "2분기 부진 GS건설…주가 향방은 AI데이터센터에[주末머니]",
+     "link": "https://view.asiae.co.kr/article/2026073015401446812"
+    },
     {
      "date": "2026-07-30",
      "source": "연합뉴스·경제",
@@ -14035,6 +14119,12 @@
   "케이엠제약(225430)": {
    "articles": [
     {
+     "date": "2026-08-02",
+     "source": "한국경제·경제",
+     "title": "백승원 케이엠제약 대표 \"자체 브랜드로 수익성 강화\"",
+     "link": "https://www.hankyung.com/article/2026080201291"
+    },
+    {
      "date": "2026-07-31",
      "source": "아시아경제",
      "title": "케이엠제약, 대표·회사가 연달아 자사주 매입…주주환원 기대에 상한가",
@@ -14282,6 +14372,18 @@
   },
   "쿠팡(CPNG)": {
    "articles": [
+    {
+     "date": "2026-08-02",
+     "source": "연합뉴스·경제",
+     "title": "쿠팡 \"PB 협력 중소기업, 매출 늘며 R&D·설비 투자 확대\"",
+     "link": "https://www.yna.co.kr/view/AKR20260802018000030"
+    },
+    {
+     "date": "2026-08-02",
+     "source": "연합뉴스·경제",
+     "title": "온라인플랫폼·입점업체 분쟁 2.2배로↑…쿠팡 등 오픈마켓 집중",
+     "link": "https://www.yna.co.kr/view/AKR20260731172400002"
+    },
     {
      "date": "2026-07-28",
      "source": "한국경제·경제",
@@ -14830,6 +14932,24 @@
   },
   "대상(001680)": {
    "articles": [
+    {
+     "date": "2026-08-02",
+     "source": "연합뉴스·경제",
+     "title": "신세계면세점-화해, 중국 고객 대상 'K-뷰티 콘텐츠' 선보여",
+     "link": "https://www.yna.co.kr/view/AKR20260802011600030"
+    },
+    {
+     "date": "2026-08-02",
+     "source": "연합뉴스·경제",
+     "title": "대법 \"전선 지중이설 공사때 지자체 분담금, 부가세 대상 아냐\"",
+     "link": "https://www.yna.co.kr/view/AKR20260801033100004"
+    },
+    {
+     "date": "2026-08-02",
+     "source": "뉴시스·경제",
+     "title": "통상본부장, 美 주 정부 대상 아웃리치…전략적 협력 외연 확대",
+     "link": "https://www.newsis.com/view/NISX20260802_0003732907"
+    },
     {
      "date": "2026-07-31",
      "source": "파이낸셜·증권",
@@ -15584,6 +15704,12 @@
   },
   "롯데웰푸드(280360)": {
    "articles": [
+    {
+     "date": "2026-08-02",
+     "source": "연합뉴스·경제",
+     "title": "롯데웰푸드, 유네스코 세계유산위원회서 'K-스낵' 알렸다",
+     "link": "https://www.yna.co.kr/view/AKR20260802010400030"
+    },
     {
      "date": "2026-07-16",
      "source": "한국경제·경제",
@@ -18221,6 +18347,12 @@
   "롯데렌탈(089860)": {
    "articles": [
     {
+     "date": "2026-08-02",
+     "source": "연합뉴스·경제",
+     "title": "소비자분쟁조정위, 롯데렌탈 상조 결합상품 할부 30% 감액 결정",
+     "link": "https://www.yna.co.kr/view/AKR20260731042000030"
+    },
+    {
      "date": "2026-07-29",
      "source": "한국경제·경제",
      "title": "롯데렌탈, 오릭스 자동차와 日 단기렌터카 시장 진출",
@@ -19653,6 +19785,12 @@
   "파인엠텍(441270)": {
    "articles": [
     {
+     "date": "2026-08-02",
+     "source": "irobotnews.com",
+     "title": "아직 조용. 파인엠텍(441270) — AI디바이스 폼팩터 확대 + 이틀 연속 신호.",
+     "link": "https://www.irobotnews.com/news/articleView.html?idxno=47684"
+    },
+    {
      "date": "2026-07-31",
      "source": "아시아경제",
      "title": "삼성 Z폴드8 흥행에…부품 엄체 파인엠텍 수혜 기대감 ↑",
@@ -19679,7 +19817,17 @@
      "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4428117"
     }
    ]
+  },
+  "에이치피오(357230)": {
+   "articles": [
+    {
+     "date": "2026-08-02",
+     "source": "한국경제·증권",
+     "title": "'극단적 저평가' 에이치피오…건기식 넘어 뷰티로 재평가 노린다",
+     "link": "https://www.hankyung.com/article/202607318049i"
+    }
+   ]
   }
  },
- "updatedAt": "2026-08-02T07:59:42+09:00"
+ "updatedAt": "2026-08-02T20:23:02+09:00"
 }
