@@ -1,21 +1,21 @@
 {
- "updatedAt": "2026-08-03T08:02:13+09:00",
+ "updatedAt": "2026-08-03T22:17:20+09:00",
  "note": "원본 헤드라인의 반복 언급을 탐지한 조사 후보이며 투자권유가 아니다. 동일 기사 재실행은 한 번만 집계하고, 순수 악재 반복과 모호한 회사명은 제외한다.",
  "window": 30,
- "corpusToday": 491,
- "trackedCompanies": 491,
+ "corpusToday": 1027,
+ "trackedCompanies": 509,
  "companies": [
   {
    "code": "001080",
    "name": "만호제강",
    "market": "KOSPI",
    "cap": 1619,
-   "total": 8,
-   "recent": 5,
+   "total": 9,
+   "recent": 6,
    "activeDays": 4,
    "firstSeen": "2026-07-31",
    "lastSeen": "2026-08-03",
-   "score": 28.4,
+   "score": 32.7,
    "riskMentions": 0,
    "catalystMentions": 0,
    "samples": [
@@ -24,12 +24,68 @@
      "title": "금융위, 매출 과대계상 만호제강·임원에 과징금 7.4억원"
     },
     {
-     "date": "2026-08-02",
-     "title": "금융위, 매출 과대계상 만호제강·임원에 과징금 7.4억원"
+     "date": "2026-08-03",
+     "title": "금융위, '회계처리기준 위반' 만호제강과 임원에 7.4억 과징금"
     },
     {
      "date": "2026-08-02",
-     "title": "금융위, '회계처리기준 위반' 만호제강과 임원에 7.4억 과징금"
+     "title": "금융위, 매출 과대계상 만호제강·임원에 과징금 7.4억원"
+    }
+   ]
+  },
+  {
+   "code": "030610",
+   "name": "교보증권",
+   "market": "KOSPI",
+   "cap": 10940,
+   "total": 12,
+   "recent": 4,
+   "activeDays": 9,
+   "firstSeen": "2026-07-24",
+   "lastSeen": "2026-08-03",
+   "score": 31.6,
+   "riskMentions": 0,
+   "catalystMentions": 0,
+   "samples": [
+    {
+     "date": "2026-08-03",
+     "title": "교보증권, '블라인드 테마런치' 운영…부서·직급 넘어 소통"
+    },
+    {
+     "date": "2026-08-03",
+     "title": "교보증권 \"블라인드 테마런치로 조직 소통문화 확산\""
+    },
+    {
+     "date": "2026-08-03",
+     "title": "[게시판] 교보증권, 사내 소통 프로그램 '블라인드 테마런치' 운영"
+    }
+   ]
+  },
+  {
+   "code": "001500",
+   "name": "현대차증권",
+   "market": "KOSPI",
+   "cap": 4668,
+   "total": 8,
+   "recent": 3,
+   "activeDays": 6,
+   "firstSeen": "2026-07-10",
+   "lastSeen": "2026-08-03",
+   "score": 22.7,
+   "riskMentions": 0,
+   "catalystMentions": 2,
+   "samples": [
+    {
+     "date": "2026-08-03",
+     "title": "현대차증권, 티맵모빌리티와 투자지원금·수수료 할인 이벤트"
+    },
+    {
+     "date": "2026-08-03",
+     "title": "현대차증권 \"티맵과 제휴해 투자지원금 증정 이벤트\""
+    },
+    {
+     "date": "2026-08-03",
+     "title": "\"운전하고 주식받고\"…현대차증권, 티맵모빌리티 협업 이벤트"
     }
    ]
   },
@@ -118,6 +174,34 @@
    ]
   },
   {
+   "code": "071200",
+   "name": "인피니트헬스케어",
+   "market": "KOSDAQ",
+   "cap": 1940,
+   "total": 5,
+   "recent": 3,
+   "activeDays": 4,
+   "firstSeen": "2026-07-31",
+   "lastSeen": "2026-08-03",
+   "score": 20.1,
+   "riskMentions": 0,
+   "catalystMentions": 0,
+   "samples": [
+    {
+     "date": "2026-08-03",
+     "title": "인피니트헬스케어 \"전자위임장 1심 판결 아직 미확정…항소심서 적극 소명\""
+    },
+    {
+     "date": "2026-08-02",
+     "title": "\"인피니트헬스케어 정관변경 임시주총 결의는 적법\""
+    },
+    {
+     "date": "2026-08-01",
+     "title": "인피니트헬스케어, 법원서 '임시주총 적법성' 확인"
+    }
+   ]
+  },
+  {
    "code": "280360",
    "name": "롯데웰푸드",
    "market": "KOSPI",
@@ -198,6 +282,62 @@
     {
      "date": "2026-07-31",
      "title": "케이엠제약, 대표·회사가 연달아 자사주 매입…주주환원 기대에 상한가"
+    }
+   ]
+  },
+  {
+   "code": "079940",
+   "name": "가비아",
+   "market": "KOSDAQ",
+   "cap": 6308,
+   "total": 7,
+   "recent": 2,
+   "activeDays": 6,
+   "firstSeen": "2026-07-24",
+   "lastSeen": "2026-08-03",
+   "score": 18.3,
+   "riskMentions": 0,
+   "catalystMentions": 0,
+   "samples": [
+    {
+     "date": "2026-08-03",
+     "title": "얼라인 \"가비아 공개매수 관련 진정…중요정보 공개돼야\""
+    },
+    {
+     "date": "2026-08-02",
+     "title": "얼라인 \"가비아 공개매수 관련 진정…중요정보 공개돼야\""
+    },
+    {
+     "date": "2026-07-31",
+     "title": "얼라인 \"가비아 공개매수 관련 진정…중요정보 공개돼야\""
+    }
+   ]
+  },
+  {
+   "code": "489460",
+   "name": "바이오비쥬",
+   "market": "KOSDAQ",
+   "cap": 1549,
+   "total": 5,
+   "recent": 3,
+   "activeDays": 3,
+   "firstSeen": "2026-07-31",
+   "lastSeen": "2026-08-03",
+   "score": 18.1,
+   "riskMentions": 0,
+   "catalystMentions": 2,
+   "samples": [
+    {
+     "date": "2026-08-03",
+     "title": "바이오비쥬, 하반기 북미 시장 사업 확대…실적 턴어라운드 기대감"
+    },
+    {
+     "date": "2026-08-03",
+     "title": "바이오비쥬, 북미 뚫고 ECM 더한다…하반기 실적 턴어라운드 기대"
+    },
+    {
+     "date": "2026-08-02",
+     "title": "바이오비쥬, 하반기 북미 시장 사업 확대…실적 턴어라운드 기대감"
     }
    ]
   },
@@ -314,6 +454,34 @@
    ]
   },
   {
+   "code": "100090",
+   "name": "SK오션플랜트",
+   "market": "KOSPI",
+   "cap": 7822,
+   "total": 4,
+   "recent": 2,
+   "activeDays": 4,
+   "firstSeen": "2026-07-28",
+   "lastSeen": "2026-08-03",
+   "score": 15.8,
+   "riskMentions": 0,
+   "catalystMentions": 2,
+   "samples": [
+    {
+     "date": "2026-08-03",
+     "title": "SK오션플랜트, 1605억원 규모 공사 수주"
+    },
+    {
+     "date": "2026-08-02",
+     "title": "SK오션플랜트, 1605억원 규모 공사 수주"
+    },
+    {
+     "date": "2026-07-31",
+     "title": "SK오션플랜트, 1605억원 규모 공사 수주"
+    }
+   ]
+  },
+  {
    "code": "441270",
    "name": "파인엠텍",
    "market": "KOSDAQ",
@@ -398,30 +566,58 @@
    ]
   },
   {
-   "code": "071200",
-   "name": "인피니트헬스케어",
+   "code": "456070",
+   "name": "이엔셀",
    "market": "KOSDAQ",
-   "cap": 1940,
-   "total": 4,
+   "cap": 602,
+   "total": 3,
    "recent": 2,
    "activeDays": 3,
    "firstSeen": "2026-07-31",
-   "lastSeen": "2026-08-02",
-   "score": 13.8,
+   "lastSeen": "2026-08-03",
+   "score": 14.2,
+   "riskMentions": 0,
+   "catalystMentions": 2,
+   "samples": [
+    {
+     "date": "2026-08-03",
+     "title": "\"NK세포 치료 문턱 낮아지자\"…이엔셀, 품질관리 특허로 CDMO 경쟁력 강화"
+    },
+    {
+     "date": "2026-08-01",
+     "title": "이엔셀, 보툴리눔 톡신 CDMO 확대…디오비랩스와 생산 협력 '맞손'"
+    },
+    {
+     "date": "2026-07-31",
+     "title": "이엔셀, 보툴리눔 톡신 CDMO 확대…디오비랩스와 생산 협력 '맞손'"
+    }
+   ]
+  },
+  {
+   "code": "204610",
+   "name": "티쓰리",
+   "market": "KOSDAQ",
+   "cap": 1692,
+   "total": 3,
+   "recent": 2,
+   "activeDays": 3,
+   "firstSeen": "2026-07-31",
+   "lastSeen": "2026-08-03",
+   "score": 14.2,
    "riskMentions": 0,
    "catalystMentions": 0,
    "samples": [
     {
-     "date": "2026-08-02",
-     "title": "\"인피니트헬스케어 정관변경 임시주총 결의는 적법\""
+     "date": "2026-08-03",
+     "title": "티쓰리, 주당 40원 분기 현금배당 결정"
     },
     {
-     "date": "2026-08-01",
-     "title": "인피니트헬스케어, 법원서 '임시주총 적법성' 확인"
+     "date": "2026-08-02",
+     "title": "티쓰리, 주당 40원 분기 현금배당 결정"
     },
     {
      "date": "2026-07-31",
-     "title": "인피니트헬스케어, 법원서 '임시주총 적법성' 확인"
+     "title": "티쓰리, 주당 40원 분기 현금배당 결정"
     }
    ]
   },

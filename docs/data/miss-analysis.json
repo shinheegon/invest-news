@@ -1,19 +1,19 @@
 {
- "updatedAt": "2026-08-03T08:38:40+09:00",
+ "updatedAt": "2026-08-03T22:40:41+09:00",
  "note": "빗나감 자동 원인분류 + 자기발전 필터. 투자권유 아님.",
  "summary": {
-  "resolved": 147,
-  "miss": 76,
+  "resolved": 149,
+  "miss": 77,
   "missRate": 51.7,
   "preventable": 40,
-  "preventableShare": 52.6
+  "preventableShare": 51.9
  },
  "byCause": [
   {
    "cause": "weak_signal",
    "label": "신호 약함(구체 촉발재 없음)",
    "n": 39,
-   "share": 51.3,
+   "share": 50.6,
    "avgExcess": -4.59,
    "preventable": true,
    "examples": [
@@ -51,9 +51,9 @@
   {
    "cause": "idiosyncratic",
    "label": "개별 악재(불가피)",
-   "n": 21,
-   "share": 27.6,
-   "avgExcess": -4.1,
+   "n": 22,
+   "share": 28.6,
+   "avgExcess": -4.43,
    "preventable": false,
    "examples": [
     {
@@ -64,17 +64,17 @@
      "tags": []
     },
     {
+     "name": "웨이버스(336060)",
+     "flagDate": "2026-07-29",
+     "excessPct": -11.27,
+     "theme": "기타",
+     "tags": []
+    },
+    {
      "name": "대동기어(008830)",
      "flagDate": "2026-07-11",
      "excessPct": -9.73,
      "theme": "로봇/휴머노이드",
-     "tags": []
-    },
-    {
-     "name": "서진시스템(178320)",
-     "flagDate": "2026-07-09",
-     "excessPct": -8.33,
-     "theme": "반도체소재/장비",
      "tags": []
     }
    ]
@@ -83,7 +83,7 @@
    "cause": "macro_riskoff",
    "label": "거시 위험회피(시장 동반 급락)",
    "n": 15,
-   "share": 19.7,
+   "share": 19.5,
    "avgExcess": -3.74,
    "preventable": false,
    "examples": [
@@ -138,9 +138,9 @@
  ],
  "learnedFilter": {
   "themeMissRate": {
-   "기타": 36.1,
+   "기타": 37.8,
    "바이오/의료": 100.0,
-   "로봇/휴머노이드": 52.5,
+   "로봇/휴머노이드": 51.2,
    "반도체소재/장비": 62.5,
    "신재생에너지": 80.0,
    "AI전력/데이터센터": 66.7,
@@ -149,21 +149,20 @@
    "AI반도체설계(팹리스/IP)": 47.8
   },
   "signalMissRate": {
-   "weak": 52.0,
-   "concrete": 51.4
+   "weak": 51.3,
+   "concrete": 52.1
   },
   "rules": [
    "'바이오/의료' 테마는 빗나감률 100.0% — 강한 회피(구체촉발재+승세 아니면 제외).",
    "'신재생에너지' 테마는 빗나감률 80.0% — 강한 회피(구체촉발재+승세 아니면 제외).",
    "'AI전력/데이터센터' 테마는 빗나감률 66.7% — 강한 회피(구체촉발재+승세 아니면 제외).",
-   "'반도체소재/장비' 테마는 빗나감률 62.5% — 강한 회피(구체촉발재+승세 아니면 제외).",
-   "구체 촉발재 없는 '테마 거론'류는 빗나감률 52.0%(구체재료 51.4%) — 약신호 단독 등재 금지."
+   "'반도체소재/장비' 테마는 빗나감률 62.5% — 강한 회피(구체촉발재+승세 아니면 제외)."
   ]
  },
  "macro": {
   "regime": "중립",
-  "kospi5d": 16.46,
-  "kosdaq5d": 8.61,
+  "kospi5d": 10.49,
+  "kosdaq5d": 11.27,
   "fearGreed": 42.0,
   "vix": 15.99,
   "guidance": "선별 유지 — 승세테마+구체촉발재 우선, 약신호·열세테마 경계.",
@@ -403,12 +402,12 @@
   },
   {
    "date": "2026-08-03",
-   "resolved": 147,
+   "resolved": 149,
    "missRate": 51.7,
    "causeShares": {
-    "weak_signal": 51.3,
-    "idiosyncratic": 27.6,
-    "macro_riskoff": 19.7,
+    "weak_signal": 50.6,
+    "idiosyncratic": 28.6,
+    "macro_riskoff": 19.5,
     "theme_headwind": 1.3
    }
   }

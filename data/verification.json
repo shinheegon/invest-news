@@ -1,6 +1,52 @@
 {
- "updatedAt": "2026-08-03T08:38:40+09:00",
+ "updatedAt": "2026-08-03T22:40:41+09:00",
  "cases": [
+  {
+   "name": "HS효성첨단소재(298050)",
+   "type": "discovery",
+   "market": "韓",
+   "flagDate": "2026-08-03",
+   "signals": [
+    "실적서프라이즈",
+    "로봇/eVTOL향 소재확장"
+   ],
+   "theme": "로봇/휴머노이드",
+   "status": "pending",
+   "checks": [],
+   "flagPrice": 160200,
+   "priceLog": [
+    {
+     "date": "2026-08-03",
+     "price": 160200
+    }
+   ],
+   "convScore": 4,
+   "convTier": "mid",
+   "convSignals": [
+    "승세테마",
+    "틈새레이더"
+   ],
+   "convStampedAt": "2026-08-03"
+  },
+  {
+   "name": "티엑스알로보틱스",
+   "type": "leading",
+   "market": "韓",
+   "flagDate": "2026-08-03",
+   "signals": [
+    "중국로봇수입금지반사이익",
+    "테마급등"
+   ],
+   "theme": "로봇/휴머노이드",
+   "status": "pending",
+   "checks": [],
+   "convScore": 2,
+   "convTier": "low",
+   "convSignals": [
+    "승세테마"
+   ],
+   "convStampedAt": "2026-08-03"
+  },
   {
    "name": "이지트로닉스(377330)",
    "type": "leading",
@@ -18275,7 +18321,7 @@
     "전략적투자유치"
    ],
    "theme": "로봇/휴머노이드",
-   "status": "pending",
+   "status": "verified",
    "checks": [
     {
      "horizon": "D+3",
@@ -18284,6 +18330,16 @@
      "changePct": -6.94,
      "indexPct": -9.55,
      "excessPct": 2.61,
+     "index": "KOSDAQ",
+     "verdict": "중립"
+    },
+    {
+     "horizon": "D+7",
+     "date": "2026-08-03",
+     "price": 4320,
+     "changePct": -6.29,
+     "indexPct": -6.7,
+     "excessPct": 0.41,
      "index": "KOSDAQ",
      "verdict": "중립"
     }
@@ -18343,7 +18399,7 @@
     "수주잔고확대"
    ],
    "theme": "우주/방산",
-   "status": "pending",
+   "status": "verified",
    "checks": [
     {
      "horizon": "D+3",
@@ -18354,6 +18410,16 @@
      "excessPct": 2.15,
      "index": "KOSDAQ",
      "verdict": "중립"
+    },
+    {
+     "horizon": "D+7",
+     "date": "2026-08-03",
+     "price": 39100,
+     "changePct": -0.26,
+     "indexPct": -6.7,
+     "excessPct": 6.44,
+     "index": "KOSDAQ",
+     "verdict": "적중"
     }
    ],
    "flagPrice": 39200,
@@ -18409,7 +18475,7 @@
     "전력기기 밸류체인 파생수주"
    ],
    "theme": "로봇/휴머노이드",
-   "status": "pending",
+   "status": "verified",
    "checks": [
     {
      "horizon": "D+3",
@@ -18420,6 +18486,16 @@
      "excessPct": -0.16,
      "index": "KOSDAQ",
      "verdict": "빗나감"
+    },
+    {
+     "horizon": "D+7",
+     "date": "2026-08-03",
+     "price": 66700,
+     "changePct": 1.21,
+     "indexPct": -6.7,
+     "excessPct": 7.91,
+     "index": "KOSDAQ",
+     "verdict": "적중"
     }
    ],
    "flagPrice": 65900,
@@ -18473,7 +18549,7 @@
     "173억 유상증자(AI로봇 개발자금)"
    ],
    "theme": "로봇/휴머노이드",
-   "status": "pending",
+   "status": "verified",
    "checks": [
     {
      "horizon": "D+3",
@@ -18482,6 +18558,16 @@
      "changePct": -15.97,
      "indexPct": -9.55,
      "excessPct": -6.42,
+     "index": "KOSDAQ",
+     "verdict": "빗나감"
+    },
+    {
+     "horizon": "D+7",
+     "date": "2026-08-03",
+     "price": 11530,
+     "changePct": -10.62,
+     "indexPct": -6.7,
+     "excessPct": -3.92,
      "index": "KOSDAQ",
      "verdict": "빗나감"
     }
@@ -18536,7 +18622,7 @@
     "신규상장 3주차 변동성"
    ],
    "theme": "로봇/휴머노이드(피지컬AI)",
-   "status": "pending",
+   "status": "verified",
    "checks": [
     {
      "horizon": "D+3",
@@ -18545,6 +18631,16 @@
      "changePct": -22.64,
      "indexPct": -9.55,
      "excessPct": -13.09,
+     "index": "KOSDAQ",
+     "verdict": "적중"
+    },
+    {
+     "horizon": "D+7",
+     "date": "2026-08-03",
+     "price": 2680,
+     "changePct": -25.56,
+     "indexPct": -6.7,
+     "excessPct": -18.86,
      "index": "KOSDAQ",
      "verdict": "적중"
     }
@@ -18592,7 +18688,7 @@
     "재료 상당부분 반영 추정"
    ],
    "theme": "로봇/휴머노이드",
-   "status": "pending",
+   "status": "verified",
    "checks": [
     {
      "horizon": "D+3",
@@ -18603,6 +18699,16 @@
      "excessPct": -10.43,
      "index": "KOSDAQ",
      "verdict": "적중"
+    },
+    {
+     "horizon": "D+7",
+     "date": "2026-08-03",
+     "price": 458500,
+     "changePct": -9.74,
+     "indexPct": -6.7,
+     "excessPct": -3.05,
+     "index": "KOSDAQ",
+     "verdict": "중립"
     }
    ],
    "flagPrice": 508000,
@@ -18648,7 +18754,7 @@
     "재료 반영 완료 추정"
    ],
    "theme": "AI전력/데이터센터",
-   "status": "pending",
+   "status": "verified",
    "checks": [
     {
      "horizon": "D+3",
@@ -18657,6 +18763,16 @@
      "changePct": -21.2,
      "indexPct": -12.47,
      "excessPct": -8.74,
+     "index": "KOSPI",
+     "verdict": "적중"
+    },
+    {
+     "horizon": "D+7",
+     "date": "2026-08-03",
+     "price": 1181000,
+     "changePct": -18.44,
+     "indexPct": -11.83,
+     "excessPct": -6.61,
      "index": "KOSPI",
      "verdict": "적중"
     }
@@ -18704,7 +18820,7 @@
     "재료 반영 완료 추정"
    ],
    "theme": "AI전력/데이터센터",
-   "status": "pending",
+   "status": "verified",
    "checks": [
     {
      "horizon": "D+3",
@@ -18715,6 +18831,16 @@
      "excessPct": -7.62,
      "index": "KOSPI",
      "verdict": "적중"
+    },
+    {
+     "horizon": "D+7",
+     "date": "2026-08-03",
+     "price": 188400,
+     "changePct": -15.7,
+     "indexPct": -11.83,
+     "excessPct": -3.88,
+     "index": "KOSPI",
+     "verdict": "중립"
     }
    ],
    "flagPrice": 223500,
@@ -19262,7 +19388,18 @@
    ],
    "theme": "반도체",
    "status": "pending",
-   "checks": [],
+   "checks": [
+    {
+     "horizon": "D+3",
+     "date": "2026-08-03",
+     "price": 1567000,
+     "changePct": 1.1,
+     "indexPct": 10.49,
+     "excessPct": -9.4,
+     "index": "KOSPI",
+     "verdict": "적중"
+    }
+   ],
    "flagPrice": 1550000,
    "priceLog": [
     {
@@ -19281,7 +19418,8 @@
      "date": "2026-08-03",
      "price": 1718000
     }
-   ]
+   ],
+   "finalVerdict": "적중"
   },
   {
    "name": "삼성전자(005930)",
@@ -19295,7 +19433,18 @@
    ],
    "theme": "반도체",
    "status": "pending",
-   "checks": [],
+   "checks": [
+    {
+     "horizon": "D+3",
+     "date": "2026-08-03",
+     "price": 239500,
+     "changePct": 8.86,
+     "indexPct": 10.49,
+     "excessPct": -1.63,
+     "index": "KOSPI",
+     "verdict": "중립"
+    }
+   ],
    "flagPrice": 220000,
    "priceLog": [
     {
@@ -19314,7 +19463,8 @@
      "date": "2026-08-03",
      "price": 262500
     }
-   ]
+   ],
+   "finalVerdict": "중립"
   },
   {
    "name": "웨이버스(336060)",
@@ -19328,7 +19478,18 @@
    ],
    "theme": "UAM 인프라",
    "status": "pending",
-   "checks": [],
+   "checks": [
+    {
+     "horizon": "D+3",
+     "date": "2026-08-03",
+     "price": 590,
+     "changePct": 0.0,
+     "indexPct": 11.27,
+     "excessPct": -11.27,
+     "index": "KOSDAQ",
+     "verdict": "빗나감"
+    }
+   ],
    "flagPrice": 590,
    "priceLog": [
     {
@@ -19355,7 +19516,8 @@
     "구체촉발재",
     "틈새레이더"
    ],
-   "convStampedAt": "2026-07-29"
+   "convStampedAt": "2026-07-29",
+   "finalVerdict": "빗나감"
   },
   {
    "name": "에스오에스랩(373480)",
@@ -19389,7 +19551,18 @@
    ],
    "theme": "로봇/휴머노이드",
    "status": "pending",
-   "checks": [],
+   "checks": [
+    {
+     "horizon": "D+3",
+     "date": "2026-08-03",
+     "price": 4580,
+     "changePct": 15.37,
+     "indexPct": 10.49,
+     "excessPct": 4.87,
+     "index": "KOSPI",
+     "verdict": "중립"
+    }
+   ],
    "flagPrice": 3970,
    "priceLog": [
     {
@@ -19415,7 +19588,8 @@
     "승세테마",
     "구체촉발재"
    ],
-   "convStampedAt": "2026-07-29"
+   "convStampedAt": "2026-07-29",
+   "finalVerdict": "중립"
   },
   {
    "name": "캠시스(050110)",
@@ -19804,14 +19978,14 @@
   }
  ],
  "stats": {
-  "verified": 189,
-  "hit": 38,
-  "neutral": 63,
-  "miss": 88,
-  "hitRate": 20.1,
-  "avgD3ChangePct": 1.12,
-  "pending": 34,
-  "total": 223,
+  "verified": 193,
+  "hit": 39,
+  "neutral": 65,
+  "miss": 89,
+  "hitRate": 20.2,
+  "avgD3ChangePct": 1.01,
+  "pending": 32,
+  "total": 225,
   "byType": {
    "leading": {
     "verified": 89,
@@ -19822,12 +19996,12 @@
     "avgD3ChangePct": 0.35
    },
    "discovery": {
-    "verified": 58,
+    "verified": 60,
     "hit": 11,
-    "neutral": 18,
-    "miss": 29,
-    "hitRate": 19.0,
-    "avgD3ChangePct": 1.38
+    "neutral": 19,
+    "miss": 30,
+    "hitRate": 18.3,
+    "avgD3ChangePct": 1.23
    }
   }
  }
