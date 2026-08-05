@@ -1451,6 +1451,18 @@
   "현대차(005380)": {
    "articles": [
     {
+     "date": "2026-08-06",
+     "source": "연합인포맥스",
+     "title": "현대차·기아 등 4개사, 51만대 차종 결함에 자발적 리콜 실시",
+     "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4428840"
+    },
+    {
+     "date": "2026-08-06",
+     "source": "연합뉴스·경제",
+     "title": "현대차·기아 11종 50만9천대 리콜…그랜저·투싼·카니발 등",
+     "link": "https://www.yna.co.kr/view/AKR20260805143600003"
+    },
+    {
      "date": "2026-08-05",
      "source": "한국경제·경제",
      "title": "현대차 '디 올 뉴 아반떼' 시작 가격 2398만원부터",
@@ -2875,6 +2887,18 @@
   "기아(000270)": {
    "articles": [
     {
+     "date": "2026-08-06",
+     "source": "연합인포맥스",
+     "title": "현대차·기아 등 4개사, 51만대 차종 결함에 자발적 리콜 실시",
+     "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4428840"
+    },
+    {
+     "date": "2026-08-06",
+     "source": "연합뉴스·경제",
+     "title": "현대차·기아 11종 50만9천대 리콜…그랜저·투싼·카니발 등",
+     "link": "https://www.yna.co.kr/view/AKR20260805143600003"
+    },
+    {
      "date": "2026-08-05",
      "source": "아시아경제",
      "title": "\"현대차 울고 기아 웃고\"…7월 판매 희비 갈린 형제들[클릭e종목]",
@@ -3432,6 +3456,12 @@
   },
   "엔비디아(NVDA)": {
    "articles": [
+    {
+     "date": "2026-08-06",
+     "source": "한국경제·경제",
+     "title": "머스크가 쏘아올린 엔비디아 주가[박신영의 개장전 요것만]",
+     "link": "https://www.hankyung.com/article/202608067357i"
+    },
     {
      "date": "2026-08-05",
      "source": "한국경제·증권",
@@ -5624,6 +5654,12 @@
   },
   "마이크론(MU)": {
    "articles": [
+    {
+     "date": "2026-08-06",
+     "source": "파이낸셜·증권",
+     "title": "\"마이크론보다 저렴, SK하닉 320달러까지 간다\"…월가는 왜 ADR '매수'인가",
+     "link": "https://www.fnnews.com/news/202608051518444096"
+    },
     {
      "date": "2026-07-28",
      "source": "연합인포맥스",
@@ -8257,6 +8293,12 @@
   "카카오게임즈(293490)": {
    "articles": [
     {
+     "date": "2026-08-06",
+     "source": "아시아경제",
+     "title": "\"실적·주가 모두 바닥인 카카오게임즈, 투자의견 매수\"[클릭 e종목]",
+     "link": "https://view.asiae.co.kr/article/2026080515583399678"
+    },
+    {
      "date": "2026-08-04",
      "source": "연합뉴스·경제",
      "title": "카카오게임즈, '김부장' 보유 더그림엔터와 IP 협력",
@@ -9366,6 +9408,12 @@
   },
   "AMD(AMD)": {
    "articles": [
+    {
+     "date": "2026-08-06",
+     "source": "아시아경제",
+     "title": "AMD, 서버 CPU 매출 5분기 연속 최고…\"성장은 증명, 해자는 숙제\"[클릭e종목]",
+     "link": "https://view.asiae.co.kr/article/2026080517060927881"
+    },
     {
      "date": "2026-08-05",
      "source": "한국경제·증권",
@@ -11831,6 +11879,12 @@
   "에이피알(278470)": {
    "articles": [
     {
+     "date": "2026-08-06",
+     "source": "아시아경제",
+     "title": "수익성 증명한 에이피알…실적 우상향에 신사업까지[클릭e종목]",
+     "link": "https://view.asiae.co.kr/article/2026080516334110704"
+    },
+    {
      "date": "2026-08-05",
      "source": "한국경제·경제",
      "title": "에이피알, 상반기에만 작년 연 매출 벌었다",
@@ -12106,6 +12160,12 @@
   },
   "SK(034730)": {
    "articles": [
+    {
+     "date": "2026-08-06",
+     "source": "연합뉴스·경제",
+     "title": "\"부품 넘어 지능 수출\"…글로벌 분석가, SK AI 전략 주목",
+     "link": "https://www.yna.co.kr/view/AKR20260805153200017"
+    },
     {
      "date": "2026-08-04",
      "source": "한국경제·경제",
@@ -12755,6 +12815,12 @@
   "알파벳(GOOGL)": {
    "articles": [
     {
+     "date": "2026-08-06",
+     "source": "연합인포맥스",
+     "title": "'구글의 전설' 제프 딘 수석 과학자 퇴사한다…알파벳 주가 4%↓",
+     "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4428835"
+    },
+    {
      "date": "2026-07-28",
      "source": "한국경제·증권",
      "title": "AI 돈 몰리는 엔비디아·알파벳…한 번에 담는 ETF 나왔다",
@@ -12918,6 +12984,18 @@
   },
   "샌디스크(SNDK)": {
    "articles": [
+    {
+     "date": "2026-08-06",
+     "source": "한국경제·경제",
+     "title": "샌디스크의 AI 메모리 승부수…주가 부활 노리는 오라클[박신영의 개장전 요것만]",
+     "link": "https://www.hankyung.com/article/202608067359i"
+    },
+    {
+     "date": "2026-08-06",
+     "source": "연합인포맥스",
+     "title": "샌디스크, 실적 호조에도 가이던스 실망에 시간외 6% 급락",
+     "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4428846"
+    },
     {
      "date": "2026-08-04",
      "source": "파이낸셜·증권",
@@ -14669,6 +14747,12 @@
   "플래티어(367000)": {
    "articles": [
     {
+     "date": "2026-08-06",
+     "source": "아시아경제",
+     "title": "플래티어, 에이전트 AI 플랫폼 '엑스젠' 고도화",
+     "link": "https://view.asiae.co.kr/article/2026080608080934124"
+    },
+    {
      "date": "2026-07-08",
      "source": "아시아경제",
      "title": "플래티어 '엑스젠(XGEN)', GS인증 1등급 획득",
@@ -15436,6 +15520,12 @@
   },
   "한화시스템(272210)": {
    "articles": [
+    {
+     "date": "2026-08-06",
+     "source": "아시아경제",
+     "title": "\"본업·신사업 모두 우수한 한화시스템, 목표가 9만원\"[클릭 e종목]",
+     "link": "https://view.asiae.co.kr/article/2026080516191144582"
+    },
     {
      "date": "2026-08-04",
      "source": "한국경제·경제",
@@ -16828,6 +16918,12 @@
   },
   "OCI홀딩스(010060)": {
    "articles": [
+    {
+     "date": "2026-08-06",
+     "source": "아시아경제",
+     "title": "[클릭 e종목] OCI홀딩스, '우주향 공급망' 구체화…목표가 40만원",
+     "link": "https://view.asiae.co.kr/article/2026080516161418570"
+    },
     {
      "date": "2026-08-05",
      "source": "파이낸셜·증권",
@@ -19067,6 +19163,12 @@
   "오라클(ORCL)": {
    "articles": [
     {
+     "date": "2026-08-06",
+     "source": "한국경제·경제",
+     "title": "샌디스크의 AI 메모리 승부수…주가 부활 노리는 오라클[박신영의 개장전 요것만]",
+     "link": "https://www.hankyung.com/article/202608067359i"
+    },
+    {
      "date": "2026-07-28",
      "source": "한국경제·증권",
      "title": "AI에 가려졌던 소프트웨어, 이젠 반등하나…팔란티어 7%·오라클 4.27%↑",
@@ -19864,6 +19966,24 @@
   },
   "SpaceX": {
    "articles": [
+    {
+     "date": "2026-08-06",
+     "source": "MarketWatch",
+     "title": "Why AT&T, Verizon and T-Mobile shares are down after SpaceX’s earnings",
+     "link": "https://www.marketwatch.com/story/why-at-t-verizon-and-t-mobile-shares-are-down-after-spacexs-earnings-033a07ce?mod=mw_rss_topstories"
+    },
+    {
+     "date": "2026-08-06",
+     "source": "MarketWatch",
+     "title": "SpaceX’s stock falls as Wall Street gets spooked by the extent of AI spending",
+     "link": "https://www.marketwatch.com/story/spacexs-stock-falls-as-wall-street-gets-spooked-by-the-extent-of-ai-spending-9ce9ddb8?mod=mw_rss_topstories"
+    },
+    {
+     "date": "2026-08-06",
+     "source": "MarketWatch",
+     "title": "Retail investors are buying the dip on SpaceX’s stock before more shares flood the market",
+     "link": "https://www.marketwatch.com/story/retail-investors-are-buying-the-dip-on-spacexs-stock-before-more-shares-flood-the-market-9f83e00f?mod=mw_rss_topstories"
+    },
     {
      "date": "2026-08-05",
      "source": "CNBC·Markets",
@@ -21249,6 +21369,12 @@
   "SanDisk(SNDK)": {
    "articles": [
     {
+     "date": "2026-08-06",
+     "source": "MarketWatch",
+     "title": "Sandisk’s stock falls as the company’s forecast doesn’t live up to high expectations",
+     "link": "https://www.marketwatch.com/story/sandisks-stock-falls-as-the-companys-forecast-doesnt-live-up-to-high-expectations-8fd13d9b?mod=mw_rss_topstories"
+    },
+    {
      "date": "2026-07-31",
      "source": "MarketWatch",
      "title": "Micron, Sandisk and other chip stocks get major boosts in the wake of Microsoft’s earnings",
@@ -21661,7 +21787,57 @@
      "link": "https://www.fnnews.com/news/202608051055104683"
     }
    ]
+  },
+  "두산퓨얼셀(336260)": {
+   "articles": [
+    {
+     "date": "2026-08-06",
+     "source": "연합뉴스·경제",
+     "title": "두산퓨얼셀, 고체 산화물연료전지 핵심부품 '스택' 첫 해외 수출",
+     "link": "https://www.yna.co.kr/view/AKR20260805097400003"
+    }
+   ]
+  },
+  "대성하이텍(025980)": {
+   "articles": [
+    {
+     "date": "2026-08-06",
+     "source": "파이낸셜·증권",
+     "title": "대성하이텍, AIDC 냉각부품 양산 확대 \"베트남 생산라인 풀가동 임박\"",
+     "link": "https://www.fnnews.com/news/202608051030478252"
+    }
+   ]
+  },
+  "알에프텍(085170)": {
+   "articles": [
+    {
+     "date": "2026-08-06",
+     "source": "파이낸셜·증권",
+     "title": "알에프텍, 북미 5G 투자 재개 수혜 \"차세대 안테나 필터 유닛 양산\"",
+     "link": "https://www.fnnews.com/news/202608051337341241"
+    }
+   ]
+  },
+  "뉴인텍(151860)": {
+   "articles": [
+    {
+     "date": "2026-08-06",
+     "source": "파이낸셜·증권",
+     "title": "뉴인텍, 상반기 '흑자전환'…커패시터·증착필름 동반 성장",
+     "link": "https://www.fnnews.com/news/202608051624241967"
+    }
+   ]
+  },
+  "넷마블(251270)": {
+   "articles": [
+    {
+     "date": "2026-08-06",
+     "source": "아시아경제",
+     "title": "넷마블, 영업이익 20.8%↓…\"마케팅·인건비 확대 영향\"",
+     "link": "https://view.asiae.co.kr/article/2026080516220361147"
+    }
+   ]
   }
  },
- "updatedAt": "2026-08-05T21:06:17+09:00"
+ "updatedAt": "2026-08-06T08:07:13+09:00"
 }
