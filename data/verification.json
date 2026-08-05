@@ -1,6 +1,66 @@
 {
- "updatedAt": "2026-08-05T08:40:12+09:00",
+ "updatedAt": "2026-08-05T21:36:19+09:00",
  "cases": [
+  {
+   "name": "대한광통신(010170)",
+   "type": "warning",
+   "market": "韓",
+   "flagDate": "2026-08-05",
+   "signals": [
+    "美中부품수입금지검토수혜",
+    "당일급등18.57%"
+   ],
+   "theme": "광통신부품",
+   "status": "pending",
+   "checks": [],
+   "flagPrice": 12070,
+   "priceLog": [
+    {
+     "date": "2026-08-05",
+     "price": 12070
+    }
+   ]
+  },
+  {
+   "name": "빛과전자(032680)",
+   "type": "warning",
+   "market": "韓",
+   "flagDate": "2026-08-05",
+   "signals": [
+    "美中부품수입금지검토수혜",
+    "당일급등29.89%"
+   ],
+   "theme": "광통신부품",
+   "status": "pending",
+   "checks": [],
+   "flagPrice": 897,
+   "priceLog": [
+    {
+     "date": "2026-08-05",
+     "price": 897
+    }
+   ]
+  },
+  {
+   "name": "알에프텍(085170)",
+   "type": "discovery",
+   "market": "韓",
+   "flagDate": "2026-08-05",
+   "signals": [
+    "신제품양산개시",
+    "북미5G투자재개수혜"
+   ],
+   "theme": "5G/AI데이터센터 인프라",
+   "status": "pending",
+   "checks": [],
+   "convScore": -1,
+   "convTier": "low",
+   "convSignals": [
+    "구체촉발재",
+    "⚠️열세테마"
+   ],
+   "convStampedAt": "2026-08-05"
+  },
   {
    "name": "HS효성첨단소재(298050)",
    "type": "discovery",
@@ -21286,7 +21346,18 @@
    ],
    "theme": "로봇/휴머노이드",
    "status": "pending",
-   "checks": [],
+   "checks": [
+    {
+     "horizon": "D+3",
+     "date": "2026-08-05",
+     "price": 6060,
+     "changePct": 14.99,
+     "indexPct": 11.09,
+     "excessPct": 3.9,
+     "index": "KOSDAQ",
+     "verdict": "중립"
+    }
+   ],
    "flagPrice": 5270,
    "priceLog": [
     {
@@ -21313,7 +21384,8 @@
     "승세테마",
     "구체촉발재"
    ],
-   "convStampedAt": "2026-07-31"
+   "convStampedAt": "2026-07-31",
+   "finalVerdict": "중립"
   },
   {
    "name": "두산로보틱스(454910)",
@@ -21327,7 +21399,18 @@
    ],
    "theme": "로봇/휴머노이드",
    "status": "pending",
-   "checks": [],
+   "checks": [
+    {
+     "horizon": "D+3",
+     "date": "2026-08-05",
+     "price": 73000,
+     "changePct": 18.51,
+     "indexPct": 0.04,
+     "excessPct": 18.46,
+     "index": "KOSPI",
+     "verdict": "빗나감"
+    }
+   ],
    "flagPrice": 61600,
    "priceLog": [
     {
@@ -21346,7 +21429,8 @@
      "date": "2026-08-05",
      "price": 68500
     }
-   ]
+   ],
+   "finalVerdict": "빗나감"
   },
   {
    "name": "이랜시스(264850)",
@@ -21360,7 +21444,18 @@
    ],
    "theme": "로봇/휴머노이드",
    "status": "pending",
-   "checks": [],
+   "checks": [
+    {
+     "horizon": "D+3",
+     "date": "2026-08-05",
+     "price": 6530,
+     "changePct": 40.73,
+     "indexPct": 11.09,
+     "excessPct": 29.64,
+     "index": "KOSDAQ",
+     "verdict": "적중"
+    }
+   ],
    "flagPrice": 4640,
    "priceLog": [
     {
@@ -21385,7 +21480,8 @@
    "convSignals": [
     "승세테마"
    ],
-   "convStampedAt": "2026-07-31"
+   "convStampedAt": "2026-07-31",
+   "finalVerdict": "적중"
   },
   {
    "name": "제이케이시냅스(060230)",
@@ -21399,7 +21495,18 @@
    ],
    "theme": "로봇/휴머노이드",
    "status": "pending",
-   "checks": [],
+   "checks": [
+    {
+     "horizon": "D+3",
+     "date": "2026-08-05",
+     "price": 1419,
+     "changePct": 5.97,
+     "indexPct": 11.09,
+     "excessPct": -5.12,
+     "index": "KOSDAQ",
+     "verdict": "빗나감"
+    }
+   ],
    "flagPrice": 1339,
    "priceLog": [
     {
@@ -21426,7 +21533,8 @@
     "구체촉발재",
     "틈새레이더"
    ],
-   "convStampedAt": "2026-08-01"
+   "convStampedAt": "2026-08-01",
+   "finalVerdict": "빗나감"
   },
   {
    "name": "휴림로봇(090710)",
@@ -21440,7 +21548,18 @@
    ],
    "theme": "로봇/휴머노이드",
    "status": "pending",
-   "checks": [],
+   "checks": [
+    {
+     "horizon": "D+3",
+     "date": "2026-08-05",
+     "price": 7640,
+     "changePct": 23.42,
+     "indexPct": 11.09,
+     "excessPct": 12.33,
+     "index": "KOSDAQ",
+     "verdict": "적중"
+    }
+   ],
    "flagPrice": 6190,
    "priceLog": [
     {
@@ -21466,7 +21585,8 @@
     "승세테마",
     "틈새레이더"
    ],
-   "convStampedAt": "2026-08-01"
+   "convStampedAt": "2026-08-01",
+   "finalVerdict": "적중"
   },
   {
    "name": "파인엠텍(441270)",
@@ -21480,7 +21600,18 @@
    ],
    "theme": "폴더블 부품",
    "status": "pending",
-   "checks": [],
+   "checks": [
+    {
+     "horizon": "D+3",
+     "date": "2026-08-05",
+     "price": 8470,
+     "changePct": 19.97,
+     "indexPct": 11.09,
+     "excessPct": 8.88,
+     "index": "KOSDAQ",
+     "verdict": "적중"
+    }
+   ],
    "flagPrice": 7060,
    "priceLog": [
     {
@@ -21506,7 +21637,8 @@
     "구체촉발재",
     "틈새레이더"
    ],
-   "convStampedAt": "2026-08-01"
+   "convStampedAt": "2026-08-01",
+   "finalVerdict": "적중"
   },
   {
    "name": "크린앤사이언스(045520)",
@@ -21519,7 +21651,18 @@
    ],
    "theme": "AI전력/데이터센터",
    "status": "pending",
-   "checks": [],
+   "checks": [
+    {
+     "horizon": "D+3",
+     "date": "2026-08-05",
+     "price": 2840,
+     "changePct": 17.11,
+     "indexPct": 11.09,
+     "excessPct": 6.02,
+     "index": "KOSDAQ",
+     "verdict": "적중"
+    }
+   ],
    "flagPrice": 2425,
    "priceLog": [
     {
@@ -21545,7 +21688,8 @@
     "⚠️열세테마",
     "틈새레이더"
    ],
-   "convStampedAt": "2026-08-01"
+   "convStampedAt": "2026-08-01",
+   "finalVerdict": "적중"
   },
   {
    "name": "가온칩스(399720)",
@@ -21558,7 +21702,18 @@
    ],
    "theme": "AI반도체설계(팹리스/IP)",
    "status": "pending",
-   "checks": [],
+   "checks": [
+    {
+     "horizon": "D+3",
+     "date": "2026-08-05",
+     "price": 48100,
+     "changePct": -0.72,
+     "indexPct": 11.09,
+     "excessPct": -11.81,
+     "index": "KOSDAQ",
+     "verdict": "적중"
+    }
+   ],
    "flagPrice": 48450,
    "priceLog": [
     {
@@ -21577,7 +21732,8 @@
      "date": "2026-08-05",
      "price": 47700
     }
-   ]
+   ],
+   "finalVerdict": "적중"
   },
   {
    "name": "파두(440110)",
@@ -21590,7 +21746,18 @@
    ],
    "theme": "AI반도체설계(팹리스/IP)",
    "status": "pending",
-   "checks": [],
+   "checks": [
+    {
+     "horizon": "D+3",
+     "date": "2026-08-05",
+     "price": 66500,
+     "changePct": 4.89,
+     "indexPct": 11.09,
+     "excessPct": -6.2,
+     "index": "KOSDAQ",
+     "verdict": "적중"
+    }
+   ],
    "flagPrice": 63400,
    "priceLog": [
     {
@@ -21609,7 +21776,8 @@
      "date": "2026-08-05",
      "price": 61900
     }
-   ]
+   ],
+   "finalVerdict": "적중"
   },
   {
    "name": "씨메스로보틱스(475400)",
@@ -21622,7 +21790,18 @@
    ],
    "theme": "로봇/휴머노이드",
    "status": "pending",
-   "checks": [],
+   "checks": [
+    {
+     "horizon": "D+3",
+     "date": "2026-08-05",
+     "price": 21300,
+     "changePct": 13.96,
+     "indexPct": 11.09,
+     "excessPct": 2.87,
+     "index": "KOSDAQ",
+     "verdict": "중립"
+    }
+   ],
    "flagPrice": 18690,
    "priceLog": [
     {
@@ -21641,7 +21820,8 @@
      "date": "2026-08-05",
      "price": 20550
     }
-   ]
+   ],
+   "finalVerdict": "중립"
   },
   {
    "name": "세아메카닉스(HT로보틱스)",
@@ -21861,30 +22041,30 @@
   }
  ],
  "stats": {
-  "verified": 195,
-  "hit": 39,
-  "neutral": 66,
-  "miss": 90,
-  "hitRate": 20.0,
-  "avgD3ChangePct": 0.94,
-  "pending": 39,
-  "total": 234,
+  "verified": 205,
+  "hit": 45,
+  "neutral": 68,
+  "miss": 92,
+  "hitRate": 22.0,
+  "avgD3ChangePct": 1.19,
+  "pending": 32,
+  "total": 237,
   "byType": {
    "leading": {
-    "verified": 90,
-    "hit": 17,
+    "verified": 94,
+    "hit": 20,
     "neutral": 25,
-    "miss": 48,
-    "hitRate": 18.9,
-    "avgD3ChangePct": 0.26
+    "miss": 49,
+    "hitRate": 21.3,
+    "avgD3ChangePct": 0.48
    },
    "discovery": {
-    "verified": 60,
-    "hit": 11,
-    "neutral": 19,
+    "verified": 62,
+    "hit": 12,
+    "neutral": 20,
     "miss": 30,
-    "hitRate": 18.3,
-    "avgD3ChangePct": 1.23
+    "hitRate": 19.4,
+    "avgD3ChangePct": 1.73
    }
   }
  }
