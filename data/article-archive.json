@@ -3,6 +3,12 @@
   "SK하이닉스(000660)": {
    "articles": [
     {
+     "date": "2026-08-08",
+     "source": "연합인포맥스",
+     "title": "SK하이닉스 ADR 주가 1% 하락…주주환원 기대감에 낙폭 축소",
+     "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4429219"
+    },
+    {
      "date": "2026-08-07",
      "source": "한국경제·증권",
      "title": "\"어제도 10% 빠졌는데 또\"…SK하이닉스 개미들 '곡소리'",
@@ -715,12 +721,6 @@
      "source": "한국경제·증권",
      "title": "물가 우려 완화에 상승…SK하이닉스 ADR 27%↑ [뉴욕증시 브리핑]",
      "link": "https://www.hankyung.com/article/2026071555906"
-    },
-    {
-     "date": "2026-07-15",
-     "source": "한국경제·증권",
-     "title": "\"어제 살 걸 그랬나\"…SK하이닉스 ADR 27% 폭등하더니 결국",
-     "link": "https://www.hankyung.com/article/2026071559756"
     }
    ]
   },
@@ -2218,6 +2218,12 @@
   },
   "애플(AAPL)": {
    "articles": [
+    {
+     "date": "2026-08-08",
+     "source": "한국경제·경제",
+     "title": "애플 저가 매수 기회?…금값도 시동 건다[박신영의 개장전 요것만]",
+     "link": "https://www.hankyung.com/article/202608081598i"
+    },
     {
      "date": "2026-08-07",
      "source": "한국경제·증권",
@@ -7532,6 +7538,12 @@
   },
   "농심(004370)": {
    "articles": [
+    {
+     "date": "2026-08-08",
+     "source": "한국경제·경제",
+     "title": "농심 막내 '바나나킥 아기' 아이디어에…46년 장수과자 역주행 [영상]",
+     "link": "https://www.hankyung.com/article/202608070853i"
+    },
     {
      "date": "2026-08-07",
      "source": "연합뉴스·경제",
@@ -14837,6 +14849,12 @@
   "코웨이(021240)": {
    "articles": [
     {
+     "date": "2026-08-08",
+     "source": "한국경제·증권",
+     "title": "코웨이, 2분기 영업익 2532억…전년비 4.3%↑",
+     "link": "https://www.hankyung.com/article/2026080715296"
+    },
+    {
      "date": "2026-08-07",
      "source": "연합인포맥스",
      "title": "코웨이, 2분기 영업익 4.3%↑…국내외 사업 호조세(종합)",
@@ -20001,6 +20019,12 @@
   "오뚜기(007310)": {
    "articles": [
     {
+     "date": "2026-08-08",
+     "source": "연합뉴스·경제",
+     "title": "[신상잇슈] 오뚜기 '제주 드립 커피'·팔도-엔씨 '왕뚜껑 한정판'",
+     "link": "https://www.yna.co.kr/view/AKR20260807099800030"
+    },
+    {
      "date": "2026-07-30",
      "source": "한국경제·경제",
      "title": "'라면 도시' 이름값 통했다…구미, 오뚜기 수출공장 유치",
@@ -20860,6 +20884,12 @@
   },
   "SpaceX": {
    "articles": [
+    {
+     "date": "2026-08-08",
+     "source": "MarketWatch",
+     "title": "SpaceX’s stock just had one of its best days ever — with the first lockup expiration now behind it",
+     "link": "https://www.marketwatch.com/story/spacexs-stock-is-having-one-of-its-best-days-ever-with-the-first-lockup-expiration-now-behind-it-cd55946c?mod=mw_rss_topstories"
+    },
     {
      "date": "2026-08-06",
      "source": "MarketWatch",
@@ -22979,7 +23009,57 @@
      "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4429185"
     }
    ]
+  },
+  "상상인증권(001290)": {
+   "articles": [
+    {
+     "date": "2026-08-08",
+     "source": "한국경제·증권",
+     "title": "상상인증권, 이틀째 상한가 직행…인수 추진 기대감",
+     "link": "https://www.hankyung.com/article/2026080700416"
+    }
+   ]
+  },
+  "포스코퓨처엠(003670)": {
+   "articles": [
+    {
+     "date": "2026-08-08",
+     "source": "한국경제·증권",
+     "title": "포스코퓨처엠, LFP 양극재 첫 공급에 장 초반 15% 급등",
+     "link": "https://www.hankyung.com/article/2026080799736"
+    }
+   ]
+  },
+  "서울전자통신(027040)": {
+   "articles": [
+    {
+     "date": "2026-08-08",
+     "source": "연합뉴스·경제",
+     "title": "서울전자통신, 30억원 제3자배정 유상증자",
+     "link": "https://www.yna.co.kr/view/AKR20260807112600008"
+    }
+   ]
+  },
+  "모아라이프플러스(142760)": {
+   "articles": [
+    {
+     "date": "2026-08-08",
+     "source": "아시아경제",
+     "title": "모아라이프플러스, K뷰티로 2억3000만 인니 무슬림 시장 공략…9월 할랄 인증",
+     "link": "https://view.asiae.co.kr/article/2026080608330789061"
+    }
+   ]
+  },
+  "CVS(CVS)": {
+   "articles": [
+    {
+     "date": "2026-08-08",
+     "source": "CNBC·Markets",
+     "title": "CVS blows past estimates, hikes guidance as insurance unit continues to improve",
+     "link": "https://www.cnbc.com/2026/08/05/cvs-health-cvs-earnings-q2-2026.html"
+    }
+   ]
   }
  },
- "updatedAt": "2026-08-07T20:01:18+09:00"
+ "updatedAt": "2026-08-08T07:44:02+09:00"
 }
