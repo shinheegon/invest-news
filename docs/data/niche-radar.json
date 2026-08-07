@@ -1,24 +1,28 @@
 {
- "updatedAt": "2026-08-07T10:31:44+09:00",
+ "updatedAt": "2026-08-07T20:02:02+09:00",
  "note": "원본 헤드라인의 반복 언급을 탐지한 조사 후보이며 투자권유가 아니다. 동일 기사 재실행은 한 번만 집계하고, 순수 악재 반복과 모호한 회사명은 제외한다.",
  "window": 30,
- "corpusToday": 685,
- "trackedCompanies": 530,
+ "corpusToday": 982,
+ "trackedCompanies": 542,
  "companies": [
   {
    "code": "018000",
    "name": "유니슨",
    "market": "KOSDAQ",
    "cap": 1887,
-   "total": 13,
-   "recent": 6,
-   "activeDays": 9,
+   "total": 14,
+   "recent": 7,
+   "activeDays": 10,
    "firstSeen": "2026-07-10",
-   "lastSeen": "2026-08-06",
-   "score": 40.8,
+   "lastSeen": "2026-08-07",
+   "score": 47.2,
    "riskMentions": 0,
    "catalystMentions": 4,
    "samples": [
+    {
+     "date": "2026-08-07",
+     "title": "유니슨, 풍력 '생산할수록 세제혜택'…국산 터빈 경쟁력 높인다"
+    },
     {
      "date": "2026-08-06",
      "title": "최대주주 측 지분 늘리는 유니슨…장내매수로 '책임경영 강화'"
@@ -26,10 +30,34 @@
     {
      "date": "2026-08-06",
      "title": "유니슨, 최대주주 측 장내매수…책임경영 강화·추가 지분 확대 추진"
+    }
+   ]
+  },
+  {
+   "code": "294870",
+   "name": "IPARK현대산업개발",
+   "market": "KOSPI",
+   "cap": 13083,
+   "total": 10,
+   "recent": 4,
+   "activeDays": 9,
+   "firstSeen": "2026-07-24",
+   "lastSeen": "2026-08-07",
+   "score": 32.6,
+   "riskMentions": 0,
+   "catalystMentions": 0,
+   "samples": [
+    {
+     "date": "2026-08-07",
+     "title": "IPARK현대산업개발, 노원구 어르신에 삼계탕 배식 봉사"
+    },
+    {
+     "date": "2026-08-06",
+     "title": "IPARK현대산업개발, 폭염 건설 현장 찾아 온열질환 예방"
     },
     {
      "date": "2026-08-05",
-     "title": "최대주주 측 지분 늘리는 유니슨…장내매수로 '책임경영 강화'"
+     "title": "IPARK현대산업개발, 폭염 건설 현장 찾아 온열질환 예방"
     }
    ]
   },
@@ -118,34 +146,6 @@
    ]
   },
   {
-   "code": "294870",
-   "name": "IPARK현대산업개발",
-   "market": "KOSPI",
-   "cap": 13083,
-   "total": 9,
-   "recent": 3,
-   "activeDays": 8,
-   "firstSeen": "2026-07-24",
-   "lastSeen": "2026-08-06",
-   "score": 26.2,
-   "riskMentions": 0,
-   "catalystMentions": 0,
-   "samples": [
-    {
-     "date": "2026-08-06",
-     "title": "IPARK현대산업개발, 폭염 건설 현장 찾아 온열질환 예방"
-    },
-    {
-     "date": "2026-08-05",
-     "title": "IPARK현대산업개발, 폭염 건설 현장 찾아 온열질환 예방"
-    },
-    {
-     "date": "2026-08-05",
-     "title": "IPARK현대산업개발, 파주 G-하우징에 3000만원 기부"
-    }
-   ]
-  },
-  {
    "code": "189330",
    "name": "씨이랩",
    "market": "KOSDAQ",
@@ -198,6 +198,34 @@
     {
      "date": "2026-08-05",
      "title": "[클릭 e종목]\"지니언스, AI 보안 수요 확대 수혜…어닝서프라이즈에 성장 기대감↑\""
+    }
+   ]
+  },
+  {
+   "code": "280360",
+   "name": "롯데웰푸드",
+   "market": "KOSPI",
+   "cap": 9481,
+   "total": 9,
+   "recent": 3,
+   "activeDays": 7,
+   "firstSeen": "2026-07-13",
+   "lastSeen": "2026-08-07",
+   "score": 24.2,
+   "riskMentions": 0,
+   "catalystMentions": 1,
+   "samples": [
+    {
+     "date": "2026-08-07",
+     "title": "해외서 아이스크림 판매 늘더니…롯데웰푸드 영업익 88.5% 급증"
+    },
+    {
+     "date": "2026-08-07",
+     "title": "롯데웰푸드, 2분기 영업익 647억원…예상치 훌쩍 넘었다"
+    },
+    {
+     "date": "2026-08-07",
+     "title": "&quot;글로벌 사업 성장세&quot;…롯데웰푸드, 2분기 영업익 89%↑(종합)"
     }
    ]
   },
@@ -482,6 +510,34 @@
    ]
   },
   {
+   "code": "027040",
+   "name": "서울전자통신",
+   "market": "KOSDAQ",
+   "cap": 235,
+   "total": 3,
+   "recent": 3,
+   "activeDays": 3,
+   "firstSeen": "2026-08-05",
+   "lastSeen": "2026-08-07",
+   "score": 19.1,
+   "riskMentions": 0,
+   "catalystMentions": 2,
+   "samples": [
+    {
+     "date": "2026-08-07",
+     "title": "서울전자통신, 30억원 제3자배정 유상증자"
+    },
+    {
+     "date": "2026-08-06",
+     "title": "서울전자통신, '결제 후 리워드' 플랫폼 사업 진출…POS 인프라 기반 신성장동력 확보"
+    },
+    {
+     "date": "2026-08-05",
+     "title": "서울전자통신, '결제 후 리워드' 플랫폼 사업 진출…POS 인프라 기반 신성장동력 확보"
+    }
+   ]
+  },
+  {
    "code": "051500",
    "name": "CJ프레시웨이",
    "market": "KOSDAQ",
@@ -590,6 +646,34 @@
     {
      "date": "2026-07-27",
      "title": "케이쓰리아이, 세계 1위 유니티 생태계 겨냥 차세대 3D 생성형 AI 플러그인 출시"
+    }
+   ]
+  },
+  {
+   "code": "322510",
+   "name": "제이엘케이",
+   "market": "KOSDAQ",
+   "cap": 1250,
+   "total": 5,
+   "recent": 2,
+   "activeDays": 5,
+   "firstSeen": "2026-07-29",
+   "lastSeen": "2026-08-07",
+   "score": 17.3,
+   "riskMentions": 0,
+   "catalystMentions": 1,
+   "samples": [
+    {
+     "date": "2026-08-07",
+     "title": "\"제이엘케이, 뇌졸중 전주기 대응 솔루션 내수·수출 동반성장 기대\"-한국"
+    },
+    {
+     "date": "2026-08-05",
+     "title": "제이엘케이, 22개 병원 뇌졸중 AI 임상 착수 \"보험 진입 속도\""
+    },
+    {
+     "date": "2026-08-04",
+     "title": "제이엘케이, 22개 병원 뇌졸중 AI 임상 착수 \"보험 진입 속도\""
     }
    ]
   },
@@ -758,90 +842,6 @@
     {
      "date": "2026-07-31",
      "title": "티로보틱스, 40억원 규모 우리사주조합 주식 취득"
-    }
-   ]
-  },
-  {
-   "code": "355690",
-   "name": "에이텀",
-   "market": "KOSDAQ",
-   "cap": 413,
-   "total": 5,
-   "recent": 2,
-   "activeDays": 4,
-   "firstSeen": "2026-07-16",
-   "lastSeen": "2026-08-06",
-   "score": 15.3,
-   "riskMentions": 0,
-   "catalystMentions": 0,
-   "samples": [
-    {
-     "date": "2026-08-06",
-     "title": "에이텀, EV 전장·AI 데이터센터 정조준…정관 변경으로 사업 재편 본격화"
-    },
-    {
-     "date": "2026-08-05",
-     "title": "에이텀, EV 전장·AI 데이터센터 정조준…정관 변경으로 사업 재편 본격화"
-    },
-    {
-     "date": "2026-07-20",
-     "title": "에이텀, 베트남 자회사 누적 900만 달러 출자전환…\"재무구조 개선·생산 경쟁력 강화\""
-    }
-   ]
-  },
-  {
-   "code": "071840",
-   "name": "롯데하이마트",
-   "market": "KOSPI",
-   "cap": 1452,
-   "total": 6,
-   "recent": 2,
-   "activeDays": 4,
-   "firstSeen": "2026-07-26",
-   "lastSeen": "2026-08-05",
-   "score": 14.8,
-   "riskMentions": 0,
-   "catalystMentions": 1,
-   "samples": [
-    {
-     "date": "2026-08-05",
-     "title": "촉발재, 아직 조용. / 롯데하이마트(071840) —"
-    },
-    {
-     "date": "2026-08-05",
-     "title": "롯데하이마트, 2분기 막판 매출 반등…영업익도 흑자 전환"
-    },
-    {
-     "date": "2026-08-04",
-     "title": "롯데하이마트, 2분기 매출 개선세…하반기 '턴어라운드' 하나"
-    }
-   ]
-  },
-  {
-   "code": "003070",
-   "name": "코오롱글로벌",
-   "market": "KOSPI",
-   "cap": 2123,
-   "total": 3,
-   "recent": 2,
-   "activeDays": 3,
-   "firstSeen": "2026-07-09",
-   "lastSeen": "2026-08-06",
-   "score": 14.2,
-   "riskMentions": 0,
-   "catalystMentions": 0,
-   "samples": [
-    {
-     "date": "2026-08-06",
-     "title": "코오롱글로벌, AI·DX 속도…디지털 통합 플랫폼 구축"
-    },
-    {
-     "date": "2026-08-05",
-     "title": "코오롱글로벌, AI·DX 속도…디지털 통합 플랫폼 구축"
-    },
-    {
-     "date": "2026-07-09",
-     "title": "코오롱글로벌, 841억원 규모 삼성전자 평택캠퍼스 부대동 건설 공사 수주"
     }
    ]
   }

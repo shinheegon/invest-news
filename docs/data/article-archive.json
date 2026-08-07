@@ -4,9 +4,63 @@
    "articles": [
     {
      "date": "2026-08-07",
+     "source": "한국경제·증권",
+     "title": "\"어제도 10% 빠졌는데 또\"…SK하이닉스 개미들 '곡소리'",
+     "link": "https://www.hankyung.com/article/2026080710146"
+    },
+    {
+     "date": "2026-08-07",
+     "source": "한국경제·경제",
+     "title": "SK하이닉스, 용인·청주에 54조 투자 확정",
+     "link": "https://www.hankyung.com/article/2026080712661"
+    },
+    {
+     "date": "2026-08-07",
+     "source": "한국경제·경제",
+     "title": "SK하이닉스, 용인·청주에 54조 투입…AI 메모리 적기 공급 총력",
+     "link": "https://www.hankyung.com/article/202608071160i"
+    },
+    {
+     "date": "2026-08-07",
+     "source": "파이낸셜·증권",
+     "title": "코스피, 상승 출발 뒤 1%대 하락…SK하이닉스 5%↓ [fn오전시황]",
+     "link": "https://www.fnnews.com/news/202608071049068228"
+    },
+    {
+     "date": "2026-08-07",
      "source": "파이낸셜·증권",
      "title": "SK하이닉스, 11주에 또 프리마켓 하한가...시초가 논란 반복",
      "link": "https://www.fnnews.com/news/202608061409460129"
+    },
+    {
+     "date": "2026-08-07",
+     "source": "연합인포맥스",
+     "title": "주주환원 애태우던 SK하이닉스, 2천733억 '맛보기' 분기 배당",
+     "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4429207"
+    },
+    {
+     "date": "2026-08-07",
+     "source": "연합인포맥스",
+     "title": "SK하이닉스, 청주·용인에 54조 투자…&quot;중장기 생산기반 확보&quot;(상보)",
+     "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4429201"
+    },
+    {
+     "date": "2026-08-07",
+     "source": "연합인포맥스",
+     "title": "SK하이닉스, 용인 2기 팹 35조·청주 M17 19조 투자",
+     "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4429197"
+    },
+    {
+     "date": "2026-08-07",
+     "source": "연합인포맥스",
+     "title": "SK하이닉스, 54조 투자로 D램·낸드 생산시설 확충(종합)",
+     "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4429203"
+    },
+    {
+     "date": "2026-08-07",
+     "source": "연합인포맥스",
+     "title": "SK하이닉스, 2천733억원 분기배당 결정…&quot;추가 주주환원 검토&quot;",
+     "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4429190"
     },
     {
      "date": "2026-08-07",
@@ -667,60 +721,6 @@
      "source": "한국경제·증권",
      "title": "\"어제 살 걸 그랬나\"…SK하이닉스 ADR 27% 폭등하더니 결국",
      "link": "https://www.hankyung.com/article/2026071559756"
-    },
-    {
-     "date": "2026-07-15",
-     "source": "한국경제·경제",
-     "title": "SK하이닉스 ADR 달러 유입 기대…환율 1400원대 안착하나",
-     "link": "https://www.hankyung.com/article/2026071450001"
-    },
-    {
-     "date": "2026-07-15",
-     "source": "아시아경제",
-     "title": "\"어제 괜히 팔았어\" SK하이닉스 '492만원' 전망까지…美ADR 급등에 10%대 ↑",
-     "link": "https://view.asiae.co.kr/article/2026071510132202774"
-    },
-    {
-     "date": "2026-07-15",
-     "source": "아시아경제",
-     "title": "\"SK하이닉스, 쌀 때 사라\"…목표주가 420만원 그대로 [클릭e종목]",
-     "link": "https://view.asiae.co.kr/article/2026071414455627347"
-    },
-    {
-     "date": "2026-07-14",
-     "source": "한국경제·증권",
-     "title": "삼성전자보다 덜 오른 SK하이닉스…'이것'이 달랐다",
-     "link": "https://www.hankyung.com/article/202607144224i"
-    },
-    {
-     "date": "2026-07-14",
-     "source": "한국경제·증권",
-     "title": "[단독] SK하이닉스, 호남팹 합작 투자 가능 … 수십조 재무부담 던다",
-     "link": "https://www.hankyung.com/article/202607132461i"
-    },
-    {
-     "date": "2026-07-14",
-     "source": "한국경제·증권",
-     "title": "SK하이닉스, 美 ADR도 9.3% 하락…공모가 소폭 웃돌아",
-     "link": "https://www.hankyung.com/article/2026071430007"
-    },
-    {
-     "date": "2026-07-14",
-     "source": "한국경제·증권",
-     "title": "SK하이닉스 美 ADR 9% 급락…가격 격차 37%→19%로 줄어 [분석+]",
-     "link": "https://www.hankyung.com/article/2026071429936"
-    },
-    {
-     "date": "2026-07-14",
-     "source": "한국경제·증권",
-     "title": "\"SK하이닉스, 저점 비중 확대 유효 구간…목표가 420만원\"-미래",
-     "link": "https://www.hankyung.com/article/2026071430356"
-    },
-    {
-     "date": "2026-07-14",
-     "source": "한국경제·경제",
-     "title": "월가,\"SK하이닉스 美IPO성공,다른 기술기업들은 쉽지않아\"",
-     "link": "https://www.hankyung.com/article/202607132810i"
     }
    ]
   },
@@ -1450,6 +1450,12 @@
   },
   "현대차(005380)": {
    "articles": [
+    {
+     "date": "2026-08-07",
+     "source": "한국경제·경제",
+     "title": "현대차·기아 '2026 레드 닷 어워드' 17개 수상",
+     "link": "https://www.hankyung.com/article/2026080712701"
+    },
     {
      "date": "2026-08-07",
      "source": "연합인포맥스",
@@ -2900,6 +2906,12 @@
    "articles": [
     {
      "date": "2026-08-07",
+     "source": "한국경제·경제",
+     "title": "현대차·기아 '2026 레드 닷 어워드' 17개 수상",
+     "link": "https://www.hankyung.com/article/2026080712701"
+    },
+    {
+     "date": "2026-08-07",
      "source": "연합인포맥스",
      "title": "현대차·기아, '레드 닷 어워드' 최우수상 포함 17개 상 석권",
      "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4429080"
@@ -3218,6 +3230,12 @@
   },
   "삼성전기(009150)": {
    "articles": [
+    {
+     "date": "2026-08-07",
+     "source": "한국경제·증권",
+     "title": "초고수는 삼성전기 이틀 연속 담았다…삼성SDI는 하루만에 차익실현",
+     "link": "https://www.hankyung.com/article/202608070268i"
+    },
     {
      "date": "2026-08-05",
      "source": "한국경제·증권",
@@ -4090,6 +4108,30 @@
    "articles": [
     {
      "date": "2026-08-07",
+     "source": "한국경제·증권",
+     "title": "카카오, 2분기 최대 실적에도…증권가 \"향후 AI 성과가 관건\" [종목+]",
+     "link": "https://www.hankyung.com/article/2026080797026"
+    },
+    {
+     "date": "2026-08-07",
+     "source": "한국경제·증권",
+     "title": "[속보] 카카오 노사 올해 임금협약 최종 타결…연봉 6.3% 인상",
+     "link": "https://www.hankyung.com/article/2026080710917"
+    },
+    {
+     "date": "2026-08-07",
+     "source": "파이낸셜·증권",
+     "title": "카카오, 깜짝실적에도 목표주가 하향 \"AI 수익화 멀었다\"…CJ ENM, TV 광고 턴어라운드 '청신호' [株토피아]",
+     "link": "https://www.fnnews.com/news/202608071044355146"
+    },
+    {
+     "date": "2026-08-07",
+     "source": "연합인포맥스",
+     "title": "카카오, 올해 임금협약 최종 타결…연봉 6.3% 인상",
+     "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4429191"
+    },
+    {
+     "date": "2026-08-07",
      "source": "연합뉴스·경제",
      "title": "삼성증권 \"카카오, 수익성 개선 가시화…목표가 상향\"",
      "link": "https://www.yna.co.kr/view/AKR20260807023300008"
@@ -4193,6 +4235,24 @@
      "source": "한국경제·증권",
      "title": "엔비디아 발판으로 사업 전환하는 네이버, 주가 전망은?",
      "link": "https://www.hankyung.com/article/202608068607i"
+    },
+    {
+     "date": "2026-08-07",
+     "source": "한국경제·경제",
+     "title": "'과징금 여파' 쿠팡 1.2조 적자 내는 사이 커머스 키운 네이버 1.1조 흑자…\"엇갈린 희비\"",
+     "link": "https://www.hankyung.com/article/202608070440g"
+    },
+    {
+     "date": "2026-08-07",
+     "source": "연합뉴스·경제",
+     "title": "네이버, 2분기 역대 최대 매출…AI 광고 첫 수익화 통했다(종합2보)",
+     "link": "https://www.yna.co.kr/view/AKR20260807022052527"
+    },
+    {
+     "date": "2026-08-07",
+     "source": "아시아경제",
+     "title": "네이버, 또 분기 최대매출…\"내년 상반기에는 AI 팩토리 매출도 발생\"(종합)",
+     "link": "https://view.asiae.co.kr/article/2026080708435024560"
     },
     {
      "date": "2026-08-05",
@@ -5049,6 +5109,12 @@
      "source": "뉴시스·경제",
      "title": "메타 AI, 평가 도중 외부 기관 해킹…\"또 '이레귤러' 설정 오류 악용\"",
      "link": "https://www.newsis.com/view/NISX20260806_0003738825"
+    },
+    {
+     "date": "2026-08-07",
+     "source": "뉴시스·경제",
+     "title": "\"메타, 아동 보호 실패\"…美법원, 8100억원 기금 조성 명령",
+     "link": "https://www.newsis.com/view/NISX20260807_0003740241"
     },
     {
      "date": "2026-07-30",
@@ -6043,6 +6109,12 @@
   "알테오젠(196170)": {
    "articles": [
     {
+     "date": "2026-08-07",
+     "source": "연합뉴스·경제",
+     "title": "알테오젠 2분기 영업이익 342억원…흑자 전환(종합)",
+     "link": "https://www.yna.co.kr/view/AKR20260807054551527"
+    },
+    {
      "date": "2026-08-05",
      "source": "아시아경제",
      "title": "키트루다 SC 매출 262% '폭발'...알테오젠, 글로벌 입지 강화",
@@ -6634,6 +6706,12 @@
    "articles": [
     {
      "date": "2026-08-07",
+     "source": "한국경제·증권",
+     "title": "'국가대표 배당주' KT&G…“연내 공개될 중장기 주주환원책 주목”",
+     "link": "https://www.hankyung.com/article/202608079927i"
+    },
+    {
+     "date": "2026-08-07",
      "source": "한국경제·경제",
      "title": "해외 사업 호조에…KT&G 매출 '사상 최대'",
      "link": "https://www.hankyung.com/article/2026080692091"
@@ -6759,6 +6837,12 @@
     {
      "date": "2026-08-07",
      "source": "한국경제·증권",
+     "title": "더위에 불붙는 편의점주…“BGF리테일·GS리테일, 이익 체질 달라졌다\"",
+     "link": "https://www.hankyung.com/article/202608071077i"
+    },
+    {
+     "date": "2026-08-07",
+     "source": "한국경제·증권",
      "title": "BGF리테일, 2분기 호실적에 장 초반 10%대 급등",
      "link": "https://www.hankyung.com/article/2026080700066"
     },
@@ -6767,6 +6851,12 @@
      "source": "파이낸셜·증권",
      "title": "폭염에 음료·아이스크림 매출 '쑥쑥'…BGF리테일 목표가↑-LS證",
      "link": "https://www.fnnews.com/news/202608070825006623"
+    },
+    {
+     "date": "2026-08-07",
+     "source": "파이낸셜·증권",
+     "title": "BGF리테일, 2분기 호실적·실적 기대감에 15%대 강세…52주 최고가 경신 [특징주]",
+     "link": "https://www.fnnews.com/news/202608071141054371"
     },
     {
      "date": "2026-08-02",
@@ -6943,6 +7033,18 @@
      "source": "연합인포맥스",
      "title": "롯데케미칼, 전쟁 특수에 2분기 흑자 전망…종전 이후는",
      "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4429069"
+    },
+    {
+     "date": "2026-08-07",
+     "source": "연합인포맥스",
+     "title": "롯데케미칼, 2분기 흑자기조 유지…사업 재편으로 체질개선(종합)",
+     "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4429192"
+    },
+    {
+     "date": "2026-08-07",
+     "source": "연합인포맥스",
+     "title": "롯데케미칼, 2분기 영업익 1천101억…흑자전환",
+     "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4429181"
     },
     {
      "date": "2026-07-24",
@@ -7431,6 +7533,12 @@
   "농심(004370)": {
    "articles": [
     {
+     "date": "2026-08-07",
+     "source": "연합뉴스·경제",
+     "title": "[게시판] 농심·기상청, 폭염 취약층에 백산수·식료품 전달",
+     "link": "https://www.yna.co.kr/view/AKR20260807102400030"
+    },
+    {
      "date": "2026-08-05",
      "source": "파이낸셜뉴스",
      "title": "바나나킥 먹으려다 '머쓱'...2500만 조회수 폭발한 아기 영상 보고 농심이 한 일",
@@ -7544,6 +7652,12 @@
   },
   "KT(030200)": {
    "articles": [
+    {
+     "date": "2026-08-07",
+     "source": "한국경제·증권",
+     "title": "'국가대표 배당주' KT&G…“연내 공개될 중장기 주주환원책 주목”",
+     "link": "https://www.hankyung.com/article/202608079927i"
+    },
     {
      "date": "2026-08-07",
      "source": "한국경제·경제",
@@ -10549,6 +10663,24 @@
   "두나무": {
    "articles": [
     {
+     "date": "2026-08-07",
+     "source": "연합인포맥스",
+     "title": "두나무, 경찰청 압수 가상자산 보관·관리 사업자로 선정",
+     "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4429187"
+    },
+    {
+     "date": "2026-08-07",
+     "source": "연합뉴스·경제",
+     "title": "두나무, 경찰청 '압수 가상자산 커스터디' 최종 낙찰",
+     "link": "https://www.yna.co.kr/view/AKR20260807112500002"
+    },
+    {
+     "date": "2026-08-07",
+     "source": "아시아경제",
+     "title": "두나무, 경찰청 '압수 디지털자산 커스터디' 최종 낙찰자 선정",
+     "link": "https://view.asiae.co.kr/article/2026080715415975059"
+    },
+    {
      "date": "2026-07-28",
      "source": "한국경제·증권",
      "title": "\"네이버, 엔비디아 투자 이어 연말 두나무 합병으로 밸류업\"-하나",
@@ -10767,6 +10899,24 @@
   "포스코홀딩스(005490)": {
    "articles": [
     {
+     "date": "2026-08-07",
+     "source": "연합인포맥스",
+     "title": "포스코홀딩스, 계열사 지분 매각…2.5조 투자재원 마련",
+     "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4429213"
+    },
+    {
+     "date": "2026-08-07",
+     "source": "연합인포맥스",
+     "title": "포스코홀딩스, 계열사 지분 2.5조 매각…NH-키움證 등 인수(종합)",
+     "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4429214"
+    },
+    {
+     "date": "2026-08-07",
+     "source": "아시아경제",
+     "title": "포스코홀딩스, 포스코인터·DX 지분 일부 매각…2조4817억원 투자 재원 마련",
+     "link": "https://view.asiae.co.kr/article/2026080717533971785"
+    },
+    {
      "date": "2026-07-30",
      "source": "한국경제·경제",
      "title": "포스코홀딩스, 2분기 실적 고공행진",
@@ -10806,6 +10956,12 @@
   },
   "HMM(011200)": {
    "articles": [
+    {
+     "date": "2026-08-07",
+     "source": "한국경제·경제",
+     "title": "HMM, '2026 어린이 상선 체험' 행사",
+     "link": "https://www.hankyung.com/article/2026080713711"
+    },
     {
      "date": "2026-07-27",
      "source": "연합인포맥스",
@@ -10952,6 +11108,18 @@
   },
   "팔란티어(PLTR)": {
    "articles": [
+    {
+     "date": "2026-08-07",
+     "source": "한국경제·증권",
+     "title": "팔란티어 실적 올라탄 SOL 커버드콜 ETF…연 배당률 최대 28%",
+     "link": "https://www.hankyung.com/article/2026080704736"
+    },
+    {
+     "date": "2026-08-07",
+     "source": "파이낸셜·증권",
+     "title": "팔란티어 실적 '훨훨'…SOL 커버드콜 ETF 2종도 주목",
+     "link": "https://www.fnnews.com/news/202608071405017144"
+    },
     {
      "date": "2026-08-07",
      "source": "아시아경제",
@@ -11384,6 +11552,12 @@
   },
   "JP모건(JPM)": {
    "articles": [
+    {
+     "date": "2026-08-07",
+     "source": "뉴시스·경제",
+     "title": "JP모건 CEO \"신용융자 역사상 최고…드러나지 않은 것도 많아\"",
+     "link": "https://www.newsis.com/view/NISX20260807_0003740303"
+    },
     {
      "date": "2026-07-22",
      "source": "한국경제·경제",
@@ -12040,6 +12214,12 @@
    "articles": [
     {
      "date": "2026-08-07",
+     "source": "한국경제·증권",
+     "title": "'K-보톡스' 휴젤, 코스닥 우량주로 재조명...일주일 새 18%↑",
+     "link": "https://www.hankyung.com/article/202608070735i"
+    },
+    {
+     "date": "2026-08-07",
      "source": "아시아경제",
      "title": "휴젤, 상반기 매출 2545억…\"全사업 고른 성장\"",
      "link": "https://view.asiae.co.kr/article/2026080614232165923"
@@ -12319,6 +12499,12 @@
     {
      "date": "2026-08-07",
      "source": "연합뉴스·경제",
+     "title": "고려아연 온산제련소, 생산 현장에 커피차·온열 예방 용품 지원",
+     "link": "https://www.yna.co.kr/view/AKR20260807054700057"
+    },
+    {
+     "date": "2026-08-07",
+     "source": "연합뉴스·경제",
      "title": "iM증권, 고려아연 목표가 4%↓…\"3분기 이익 전 분기보다 감소\"",
      "link": "https://www.yna.co.kr/view/AKR20260807023500008"
     },
@@ -12448,6 +12634,12 @@
   },
   "SK(034730)": {
    "articles": [
+    {
+     "date": "2026-08-07",
+     "source": "아시아경제",
+     "title": "\"SK에 이런 효자가 있었네\"…하이닉스만 보다가 놓친 2분기 깜짝 실적 1위",
+     "link": "https://view.asiae.co.kr/article/2026080709561002462"
+    },
     {
      "date": "2026-08-06",
      "source": "연합뉴스·경제",
@@ -13221,6 +13413,12 @@
   "삼성SDI(006400)": {
    "articles": [
     {
+     "date": "2026-08-07",
+     "source": "한국경제·증권",
+     "title": "초고수는 삼성전기 이틀 연속 담았다…삼성SDI는 하루만에 차익실현",
+     "link": "https://www.hankyung.com/article/202608070268i"
+    },
+    {
      "date": "2026-07-30",
      "source": "한국경제·증권",
      "title": "[속보] 삼성SDI, 2분기 영업이익 2038억 '흑자전환'",
@@ -13336,6 +13534,12 @@
   },
   "유니슨(018000)": {
    "articles": [
+    {
+     "date": "2026-08-07",
+     "source": "파이낸셜·증권",
+     "title": "유니슨, 풍력 '생산할수록 세제혜택'…국산 터빈 경쟁력 높인다",
+     "link": "https://www.fnnews.com/news/202608071055374263"
+    },
     {
      "date": "2026-08-05",
      "source": "파이낸셜·증권",
@@ -13906,6 +14110,12 @@
     },
     {
      "date": "2026-08-07",
+     "source": "한국경제·경제",
+     "title": "방한 외국인 급증…롯데쇼핑 2분기 '훨훨'",
+     "link": "https://www.hankyung.com/article/2026080713531"
+    },
+    {
+     "date": "2026-08-07",
      "source": "연합인포맥스",
      "title": "롯데쇼핑, 2분기 영업익 899억원…전년비 2배 훌쩍(상보)",
      "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4429071"
@@ -13962,6 +14172,12 @@
   },
   "GS건설(006360)": {
    "articles": [
+    {
+     "date": "2026-08-07",
+     "source": "아시아경제",
+     "title": "GS건설, 부산 사직3구역 재개발 공사 본계약…4082억원 규모",
+     "link": "https://view.asiae.co.kr/article/2026080718042597362"
+    },
     {
      "date": "2026-08-05",
      "source": "파이낸셜·증권",
@@ -14309,6 +14525,12 @@
   "LS일렉트릭(010120)": {
    "articles": [
     {
+     "date": "2026-08-07",
+     "source": "한국경제·경제",
+     "title": "LS일렉트릭·효성도 합류…나주에 '에너지 밸리' 생긴다",
+     "link": "https://www.hankyung.com/article/202608070510i"
+    },
+    {
      "date": "2026-07-29",
      "source": "한국경제·증권",
      "title": "역대급 수주에도 곤두박질…LS일렉트릭 '성장통' 끝날까",
@@ -14389,6 +14611,12 @@
      "source": "연합뉴스·경제",
      "title": "키움증권, 트래블월렛과 업무협약…디지털 자산·금융 협력",
      "link": "https://www.yna.co.kr/view/AKR20260806102300008"
+    },
+    {
+     "date": "2026-08-07",
+     "source": "연합뉴스·경제",
+     "title": "키움증권 \"포스코인터내셔널 주식 4천727억원에 추가취득\"",
+     "link": "https://www.yna.co.kr/view/AKR20260807136000008"
     },
     {
      "date": "2026-08-07",
@@ -14609,6 +14837,24 @@
   "코웨이(021240)": {
    "articles": [
     {
+     "date": "2026-08-07",
+     "source": "연합인포맥스",
+     "title": "코웨이, 2분기 영업익 4.3%↑…국내외 사업 호조세(종합)",
+     "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4429196"
+    },
+    {
+     "date": "2026-08-07",
+     "source": "연합인포맥스",
+     "title": "코웨이, 2분기 영업익 2천532억원…예상치 소폭 하회",
+     "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4429186"
+    },
+    {
+     "date": "2026-08-07",
+     "source": "연합뉴스·경제",
+     "title": "코웨이, 2분기 영업익 4.3% 성장…말레이·美 등 해외시장 견인(종합)",
+     "link": "https://www.yna.co.kr/view/AKR20260807112251527"
+    },
+    {
      "date": "2026-07-21",
      "source": "한국경제·경제",
      "title": "코웨이, 우리 집 맞춤 '5종 얼음정수기'…1인 가구·대가족 다 잡았다",
@@ -14646,6 +14892,18 @@
   },
   "한화(000880)": {
    "articles": [
+    {
+     "date": "2026-08-07",
+     "source": "한국경제·경제",
+     "title": "[단독] KDB생명 본입찰, 한화·한투·흥국 '3파전'",
+     "link": "https://www.hankyung.com/article/2026080712711"
+    },
+    {
+     "date": "2026-08-07",
+     "source": "연합뉴스·경제",
+     "title": "KDB생명 인수에 한투·한화·흥국 '3파전'…삼성·교보 불참",
+     "link": "https://www.yna.co.kr/view/AKR20260807141100002"
+    },
     {
      "date": "2026-08-05",
      "source": "연합뉴스·경제",
@@ -15201,6 +15459,12 @@
   "동국제약(086450)": {
    "articles": [
     {
+     "date": "2026-08-07",
+     "source": "연합뉴스·경제",
+     "title": "[바이오스냅] 동국제약 임직원, 환경보호·아동돌봄 활동 나서",
+     "link": "https://www.yna.co.kr/view/AKR20260807064800017"
+    },
+    {
      "date": "2026-07-04",
      "source": "아시아경제",
      "title": "동국제약, 전립선비대증 개량신약 '유레스코' 중남미 진출",
@@ -15382,6 +15646,18 @@
   },
   "GS리테일(007070)": {
    "articles": [
+    {
+     "date": "2026-08-07",
+     "source": "한국경제·증권",
+     "title": "더위에 불붙는 편의점주…“BGF리테일·GS리테일, 이익 체질 달라졌다\"",
+     "link": "https://www.hankyung.com/article/202608071077i"
+    },
+    {
+     "date": "2026-08-07",
+     "source": "한국경제·경제",
+     "title": "편의점·슈퍼·홈쇼핑 '고른 성장'…GS리테일 영업익 27.5% 증가",
+     "link": "https://www.hankyung.com/article/202608070365g"
+    },
     {
      "date": "2026-08-07",
      "source": "연합인포맥스",
@@ -15733,6 +16009,12 @@
      "source": "한국경제·증권",
      "title": "쿠팡, 과징금에 탈팡 여파로 주가 40% 밀려…반전 카드는 [종목+]",
      "link": "https://www.hankyung.com/article/2026080687916"
+    },
+    {
+     "date": "2026-08-07",
+     "source": "한국경제·경제",
+     "title": "'과징금 여파' 쿠팡 1.2조 적자 내는 사이 커머스 키운 네이버 1.1조 흑자…\"엇갈린 희비\"",
+     "link": "https://www.hankyung.com/article/202608070440g"
     },
     {
      "date": "2026-08-05",
@@ -16470,9 +16752,21 @@
     },
     {
      "date": "2026-08-07",
+     "source": "연합뉴스·경제",
+     "title": "KCOC, 베트남서 활동하는 NGO 대상 '법률 리스크 대응' 워크숍",
+     "link": "https://www.yna.co.kr/view/AKR20260807056700371"
+    },
+    {
+     "date": "2026-08-07",
      "source": "뉴시스·경제",
      "title": "데이터처, 27일까지 '운수업·기업활동' 조사…3.1만곳 대상",
      "link": "https://www.newsis.com/view/NISX20260806_0003738494"
+    },
+    {
+     "date": "2026-08-07",
+     "source": "뉴시스·경제",
+     "title": "LH, 군인 자녀 대상 'AI 창의성 캠프' 추진",
+     "link": "https://www.newsis.com/view/NISX20260807_0003740681"
     },
     {
      "date": "2026-08-05",
@@ -17301,6 +17595,24 @@
   "롯데웰푸드(280360)": {
    "articles": [
     {
+     "date": "2026-08-07",
+     "source": "한국경제·경제",
+     "title": "해외서 아이스크림 판매 늘더니…롯데웰푸드 영업익 88.5% 급증",
+     "link": "https://www.hankyung.com/article/202608070868g"
+    },
+    {
+     "date": "2026-08-07",
+     "source": "연합인포맥스",
+     "title": "롯데웰푸드, 2분기 영업익 647억원…예상치 훌쩍 넘었다",
+     "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4429176"
+    },
+    {
+     "date": "2026-08-07",
+     "source": "연합인포맥스",
+     "title": "&quot;글로벌 사업 성장세&quot;…롯데웰푸드, 2분기 영업익 89%↑(종합)",
+     "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4429177"
+    },
+    {
      "date": "2026-08-04",
      "source": "연합뉴스·경제",
      "title": "롯데웰푸드, 1형당뇨 환자 일상 지원…캠프·희망가방 후원",
@@ -17756,6 +18068,12 @@
   },
   "알리바바(BABA)": {
    "articles": [
+    {
+     "date": "2026-08-07",
+     "source": "한국경제·경제",
+     "title": "LG, 산업특화 AI모델로 구글·알리바바 제쳤다",
+     "link": "https://www.hankyung.com/article/2026080712691"
+    },
     {
      "date": "2026-08-07",
      "source": "연합인포맥스",
@@ -18239,6 +18557,18 @@
   "엘앤에프(066970)": {
    "articles": [
     {
+     "date": "2026-08-07",
+     "source": "한국경제·증권",
+     "title": "\"LFP 양산이 구원투수\"…실적 부진 딛고 엘앤에프 급등",
+     "link": "https://www.hankyung.com/article/202608071013i"
+    },
+    {
+     "date": "2026-08-07",
+     "source": "파이낸셜·증권",
+     "title": "'흑자 전환' 엘앤에프, 6%대 강세...증권가 호실적 전망 [특징주]",
+     "link": "https://www.fnnews.com/news/202608071042352110"
+    },
+    {
      "date": "2026-07-29",
      "source": "한국경제·경제",
      "title": "엘앤에프, 美 코어셸과 LFP 양극재 계약",
@@ -18619,6 +18949,12 @@
   "보잉(BA)": {
    "articles": [
     {
+     "date": "2026-08-07",
+     "source": "한국경제·경제",
+     "title": "\"무인기 조종하는 유인기\"…美 보잉·노스롭, 해상 협업 시연 성공",
+     "link": "https://www.hankyung.com/article/202608070503i"
+    },
+    {
      "date": "2026-08-04",
      "source": "한국경제·증권",
      "title": "보잉, '737 맥스 7' 비행승인·투자의견 상향에 8% 급등",
@@ -18966,6 +19302,24 @@
   },
   "홈플러스": {
    "articles": [
+    {
+     "date": "2026-08-07",
+     "source": "한국경제·경제",
+     "title": "홈플러스, 67개 점포 임시 개장",
+     "link": "https://www.hankyung.com/article/2026080713541"
+    },
+    {
+     "date": "2026-08-07",
+     "source": "한국경제·경제",
+     "title": "[포토] 홈플러스 긴급자금 확보…7일 가오픈, 13일부터 정상영업",
+     "link": "https://www.hankyung.com/article/202608070708i"
+    },
+    {
+     "date": "2026-08-07",
+     "source": "한국경제·경제",
+     "title": "\"응원하고 싶어서 왔어요\"…홈플러스 재개장에 고객 줄 섰다 [현장+]",
+     "link": "https://www.hankyung.com/article/202608070535g"
+    },
     {
      "date": "2026-08-05",
      "source": "한국경제·경제",
@@ -19518,6 +19872,12 @@
   },
   "GS(078930)": {
    "articles": [
+    {
+     "date": "2026-08-07",
+     "source": "뉴시스·경제",
+     "title": "'1.1조 재건축' 목동 8단지 현장설명회 '대우·현산·DL·GS' 참석",
+     "link": "https://www.newsis.com/view/NISX20260807_0003740950"
+    },
     {
      "date": "2026-07-31",
      "source": "뉴시스·경제",
@@ -21389,6 +21749,12 @@
   "교보증권(030610)": {
    "articles": [
     {
+     "date": "2026-08-07",
+     "source": "파이낸셜·증권",
+     "title": "교보증권, 코스피200 연계 원금지급형 ELB 공모…연 7.4%",
+     "link": "https://www.fnnews.com/news/202608071415415472"
+    },
+    {
      "date": "2026-08-03",
      "source": "파이낸셜·증권",
      "title": "교보증권, '블라인드 테마런치' 운영…부서·직급 넘어 소통",
@@ -21590,6 +21956,12 @@
   },
   "IPARK현대산업개발(294870)": {
    "articles": [
+    {
+     "date": "2026-08-07",
+     "source": "뉴시스·경제",
+     "title": "IPARK현대산업개발, 노원구 어르신에 삼계탕 배식 봉사",
+     "link": "https://www.newsis.com/view/NISX20260807_0003740686"
+    },
     {
      "date": "2026-08-05",
      "source": "뉴시스·경제",
@@ -21967,6 +22339,12 @@
   "포스코인터내셔널(047050)": {
    "articles": [
     {
+     "date": "2026-08-07",
+     "source": "연합뉴스·경제",
+     "title": "키움증권 \"포스코인터내셔널 주식 4천727억원에 추가취득\"",
+     "link": "https://www.yna.co.kr/view/AKR20260807136000008"
+    },
+    {
      "date": "2026-07-31",
      "source": "아시아경제",
      "title": "포스코인터내셔널, 주당 1480원 중간 현금배당 결정",
@@ -22094,6 +22472,12 @@
   },
   "현대차증권(001500)": {
    "articles": [
+    {
+     "date": "2026-08-07",
+     "source": "아시아경제",
+     "title": "현대차증권, IRP 로보어드바이저로 맞춤형 자동 투자",
+     "link": "https://view.asiae.co.kr/article/2026080713573360694"
+    },
     {
      "date": "2026-08-03",
      "source": "파이낸셜·증권",
@@ -22230,6 +22614,12 @@
   },
   "제이엘케이(322510)": {
    "articles": [
+    {
+     "date": "2026-08-07",
+     "source": "한국경제·증권",
+     "title": "\"제이엘케이, 뇌졸중 전주기 대응 솔루션 내수·수출 동반성장 기대\"-한국",
+     "link": "https://www.hankyung.com/article/2026080702526"
+    },
     {
      "date": "2026-08-04",
      "source": "파이낸셜·증권",
@@ -22461,7 +22851,135 @@
      "link": "https://view.asiae.co.kr/article/2026080609505878937"
     }
    ]
+  },
+  "LIG디펜스앤에어로스": {
+   "articles": [
+    {
+     "date": "2026-08-07",
+     "source": "한국경제·증권",
+     "title": "\"LIG디펜스앤에어로스, 실적 부진 따른 단기 변동성은 기회\"-신한",
+     "link": "https://www.hankyung.com/article/2026080798556"
+    }
+   ]
+  },
+  "CJ ENM(035760)": {
+   "articles": [
+    {
+     "date": "2026-08-07",
+     "source": "파이낸셜·증권",
+     "title": "카카오, 깜짝실적에도 목표주가 하향 \"AI 수익화 멀었다\"…CJ ENM, TV 광고 턴어라운드 '청신호' [株토피아]",
+     "link": "https://www.fnnews.com/news/202608071044355146"
+    },
+    {
+     "date": "2026-08-07",
+     "source": "파이낸셜·증권",
+     "title": "대신증권 \"CJ ENM, 효자 된 티빙 2분기 깜짝 흑자…내년 영업이익 60% 뛴다\"",
+     "link": "https://www.fnnews.com/news/202608070828316793"
+    },
+    {
+     "date": "2026-08-07",
+     "source": "아시아경제",
+     "title": "CJ ENM, KBO리그 독점 유무선 중계권 확보",
+     "link": "https://view.asiae.co.kr/article/2026080615164008879"
+    }
+   ]
+  },
+  "한솔홈데코(025750)": {
+   "articles": [
+    {
+     "date": "2026-08-07",
+     "source": "머니투데이·증권",
+     "title": "한솔홈데코, '톤맞춤 인테리어'로 집안 전체를 하나로 통일",
+     "link": "https://news.mt.co.kr/mtview.php?no=2025091716125478838"
+    }
+   ]
+  },
+  "에스트래픽(234300)": {
+   "articles": [
+    {
+     "date": "2026-08-07",
+     "source": "아시아경제",
+     "title": "에스트래픽, LS ELECTRIC 철도신호 사업 인수 계약 체결",
+     "link": "https://view.asiae.co.kr/article/2026080708192126325"
+    }
+   ]
+  },
+  "수젠텍(253840)": {
+   "articles": [
+    {
+     "date": "2026-08-07",
+     "source": "아시아경제",
+     "title": "수젠텍, 정량면역분석 현장진단 플랫폼 캐나다 보건부 승인",
+     "link": "https://view.asiae.co.kr/article/2026080708120089695"
+    }
+   ]
+  },
+  "티엠씨(217590)": {
+   "articles": [
+    {
+     "date": "2026-08-07",
+     "source": "아시아경제",
+     "title": "티엠씨, 美 UL 인증 획득 후 첫 220억원 수주",
+     "link": "https://view.asiae.co.kr/article/2026080708082576497"
+    }
+   ]
+  },
+  "보령(003850)": {
+   "articles": [
+    {
+     "date": "2026-08-07",
+     "source": "아시아경제",
+     "title": "보령, 상반기 매출 5350억…탁소텔 매출 본격 반영",
+     "link": "https://view.asiae.co.kr/article/2026080616563877838"
+    }
+   ]
+  },
+  "웹젠(069080)": {
+   "articles": [
+    {
+     "date": "2026-08-07",
+     "source": "아시아경제",
+     "title": "웹젠, 주당 590원 중간배당",
+     "link": "https://view.asiae.co.kr/article/2026080615191226990"
+    }
+   ]
+  },
+  "헥토파이낸셜(234340)": {
+   "articles": [
+    {
+     "date": "2026-08-07",
+     "source": "아시아경제",
+     "title": "헥토파이낸셜, 상반기 영업익 137억원…역대 최대 기록 경신",
+     "link": "https://view.asiae.co.kr/article/2026080610091617127"
+    }
+   ]
+  },
+  "파라다이스(034230)": {
+   "articles": [
+    {
+     "date": "2026-08-07",
+     "source": "연합인포맥스",
+     "title": "파라다이스, 2분기 영업익 356억원…예상치 하회",
+     "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4429202"
+    }
+   ]
+  },
+  "CJ CGV(079160)": {
+   "articles": [
+    {
+     "date": "2026-08-07",
+     "source": "연합인포맥스",
+     "title": "CJ CGV, 2분기 영업익 115억…매출도 성장세 이어져(종합)",
+     "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4429198"
+    },
+    {
+     "date": "2026-08-07",
+     "source": "연합인포맥스",
+     "title": "CJ CGV 2분기 영업익 115억…568% 급증",
+     "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4429185"
+    }
+   ]
   }
  },
- "updatedAt": "2026-08-07T10:31:04+09:00"
+ "updatedAt": "2026-08-07T20:01:18+09:00"
 }

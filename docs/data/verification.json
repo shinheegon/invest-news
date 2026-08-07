@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-08-07T10:59:51+09:00",
+ "updatedAt": "2026-08-07T20:36:11+09:00",
  "cases": [
   {
    "name": "오이솔루션(138080)",
@@ -23929,6 +23929,109 @@
     "틈새레이더"
    ],
    "convStampedAt": "2026-08-07"
+  },
+  {
+   "name": "엑스페릭스(317770)",
+   "type": "leading",
+   "market": "韓",
+   "flagDate": "2026-08-07",
+   "signals": [
+    "특허소송합의금",
+    "반도체특허분쟁수혜",
+    "테마첫거론"
+   ],
+   "theme": "반도체 특허 수익화",
+   "status": "pending",
+   "checks": [],
+   "flagPrice": 2645,
+   "priceLog": [
+    {
+     "date": "2026-08-07",
+     "price": 2645
+    }
+   ],
+   "convScore": 4,
+   "convTier": "mid",
+   "convSignals": [
+    "구체촉발재",
+    "틈새레이더"
+   ],
+   "convStampedAt": "2026-08-07"
+  },
+  {
+   "name": "아이엘(307180)",
+   "type": "leading",
+   "market": "韓",
+   "flagDate": "2026-08-07",
+   "signals": [
+    "승세테마",
+    "구체촉발재"
+   ],
+   "theme": "로봇/휴머노이드",
+   "status": "pending",
+   "checks": [],
+   "flagPrice": 4255,
+   "priceLog": [
+    {
+     "date": "2026-08-07",
+     "price": 4255
+    }
+   ],
+   "convScore": 5,
+   "convTier": "high",
+   "convSignals": [
+    "반복포착",
+    "승세테마"
+   ],
+   "convStampedAt": "2026-08-07"
+  },
+  {
+   "name": "케이쓰리아이(431190)",
+   "type": "discovery",
+   "market": "韓",
+   "flagDate": "2026-08-07",
+   "signals": [
+    "엔비디아옴니버스연동",
+    "신제품연속출시"
+   ],
+   "theme": "피지컬AI/AI미들웨어",
+   "status": "pending",
+   "checks": [],
+   "flagPrice": 2500,
+   "priceLog": [
+    {
+     "date": "2026-08-07",
+     "price": 2500
+    }
+   ],
+   "convScore": 4,
+   "convTier": "mid",
+   "convSignals": [
+    "구체촉발재",
+    "틈새레이더"
+   ],
+   "convStampedAt": "2026-08-07"
+  },
+  {
+   "name": "SK하이닉스(000660)",
+   "type": "warning",
+   "market": "韓",
+   "flagDate": "2026-08-07",
+   "signals": [
+    "HBM사양조정설",
+    "3거래일연속변동성",
+    "이미반영된대형재료"
+   ],
+   "theme": "반도체 대형주",
+   "status": "pending",
+   "checks": [],
+   "flagPrice": 1422000,
+   "priceLog": [
+    {
+     "date": "2026-08-07",
+     "price": 1422000
+    }
+   ]
   }
  ],
  "stats": {
@@ -23938,8 +24041,8 @@
   "miss": 92,
   "hitRate": 22.3,
   "avgD3ChangePct": 1.24,
-  "pending": 35,
-  "total": 241,
+  "pending": 39,
+  "total": 245,
   "byType": {
    "leading": {
     "verified": 94,
