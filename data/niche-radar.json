@@ -1,24 +1,28 @@
 {
- "updatedAt": "2026-08-08T19:46:05+09:00",
+ "updatedAt": "2026-08-09T07:36:34+09:00",
  "note": "원본 헤드라인의 반복 언급을 탐지한 조사 후보이며 투자권유가 아니다. 동일 기사 재실행은 한 번만 집계하고, 순수 악재 반복과 모호한 회사명은 제외한다.",
  "window": 30,
- "corpusToday": 631,
- "trackedCompanies": 534,
+ "corpusToday": 554,
+ "trackedCompanies": 530,
  "companies": [
   {
    "code": "035760",
    "name": "CJ ENM",
    "market": "KOSDAQ",
    "cap": 7774,
-   "total": 7,
-   "recent": 7,
-   "activeDays": 2,
+   "total": 8,
+   "recent": 8,
+   "activeDays": 3,
    "firstSeen": "2026-08-07",
-   "lastSeen": "2026-08-08",
-   "score": 34.6,
+   "lastSeen": "2026-08-09",
+   "score": 40.9,
    "riskMentions": 0,
-   "catalystMentions": 5,
+   "catalystMentions": 6,
    "samples": [
+    {
+     "date": "2026-08-09",
+     "title": "CJ ENM, KBO리그 독점 유무선 중계권 확보"
+    },
     {
      "date": "2026-08-08",
      "title": "카카오, 깜짝실적에도 목표주가 하향 \"AI 수익화 멀었다\"…CJ ENM, TV 광고 턴어라운드 '청신호' [株토피아]"
@@ -26,38 +30,6 @@
     {
      "date": "2026-08-08",
      "title": "대신증권 \"CJ ENM, 효자 된 티빙 2분기 깜짝 흑자…내년 영업이익 60% 뛴다\""
-    },
-    {
-     "date": "2026-08-08",
-     "title": "CJ ENM, KBO리그 독점 유무선 중계권 확보"
-    }
-   ]
-  },
-  {
-   "code": "018000",
-   "name": "유니슨",
-   "market": "KOSDAQ",
-   "cap": 2382,
-   "total": 15,
-   "recent": 4,
-   "activeDays": 11,
-   "firstSeen": "2026-07-10",
-   "lastSeen": "2026-08-08",
-   "score": 34.1,
-   "riskMentions": 0,
-   "catalystMentions": 1,
-   "samples": [
-    {
-     "date": "2026-08-08",
-     "title": "유니슨, 풍력 '생산할수록 세제혜택'…국산 터빈 경쟁력 높인다"
-    },
-    {
-     "date": "2026-08-07",
-     "title": "유니슨, 풍력 '생산할수록 세제혜택'…국산 터빈 경쟁력 높인다"
-    },
-    {
-     "date": "2026-08-06",
-     "title": "최대주주 측 지분 늘리는 유니슨…장내매수로 '책임경영 강화'"
     }
    ]
   },
@@ -66,15 +38,19 @@
    "name": "롯데웰푸드",
    "market": "KOSPI",
    "cap": 10760,
-   "total": 10,
-   "recent": 4,
-   "activeDays": 8,
+   "total": 11,
+   "recent": 5,
+   "activeDays": 9,
    "firstSeen": "2026-07-13",
-   "lastSeen": "2026-08-08",
-   "score": 30.6,
+   "lastSeen": "2026-08-09",
+   "score": 36.9,
    "riskMentions": 0,
    "catalystMentions": 1,
    "samples": [
+    {
+     "date": "2026-08-09",
+     "title": "해외서 아이스크림 판매 늘더니…롯데웰푸드 영업익 88.5% 급증"
+    },
     {
      "date": "2026-08-08",
      "title": "해외서 아이스크림 판매 늘더니…롯데웰푸드 영업익 88.5% 급증"
@@ -82,66 +58,342 @@
     {
      "date": "2026-08-07",
      "title": "해외서 아이스크림 판매 늘더니…롯데웰푸드 영업익 88.5% 급증"
-    },
-    {
-     "date": "2026-08-07",
-     "title": "롯데웰푸드, 2분기 영업익 647억원…예상치 훌쩍 넘었다"
     }
    ]
   },
   {
-   "code": "294870",
-   "name": "IPARK현대산업개발",
+   "code": "003220",
+   "name": "대원제약",
    "market": "KOSPI",
-   "cap": 14928,
-   "total": 11,
-   "recent": 3,
-   "activeDays": 10,
-   "firstSeen": "2026-07-24",
-   "lastSeen": "2026-08-08",
-   "score": 29.2,
+   "cap": 1830,
+   "total": 6,
+   "recent": 6,
+   "activeDays": 3,
+   "firstSeen": "2026-08-07",
+   "lastSeen": "2026-08-09",
+   "score": 32.2,
    "riskMentions": 0,
    "catalystMentions": 0,
    "samples": [
     {
+     "date": "2026-08-09",
+     "title": "대원제약, 상반기 영업익 44억…R&D·마케팅 비용에 45.3%↓"
+    },
+    {
+     "date": "2026-08-09",
+     "title": "대원제약 상반기 매출 3천109억원…3.1% 증가"
+    },
+    {
      "date": "2026-08-08",
-     "title": "IPARK현대산업개발, 노원구 어르신에 삼계탕 배식 봉사"
-    },
-    {
-     "date": "2026-08-07",
-     "title": "IPARK현대산업개발, 노원구 어르신에 삼계탕 배식 봉사"
-    },
-    {
-     "date": "2026-08-06",
-     "title": "IPARK현대산업개발, 폭염 건설 현장 찾아 온열질환 예방"
+     "title": "대원제약, 상반기 영업익 44억…R&D·마케팅 비용에 45.3%↓"
     }
    ]
   },
   {
-   "code": "189330",
-   "name": "씨이랩",
-   "market": "KOSDAQ",
-   "cap": 1098,
-   "total": 9,
-   "recent": 3,
-   "activeDays": 8,
-   "firstSeen": "2026-07-16",
-   "lastSeen": "2026-08-08",
-   "score": 26.2,
-   "riskMentions": 0,
-   "catalystMentions": 1,
+   "code": "272450",
+   "name": "진에어",
+   "market": "KOSPI",
+   "cap": 2808,
+   "total": 6,
+   "recent": 6,
+   "activeDays": 3,
+   "firstSeen": "2026-08-07",
+   "lastSeen": "2026-08-09",
+   "score": 32.2,
+   "riskMentions": 6,
+   "catalystMentions": 3,
    "samples": [
     {
+     "date": "2026-08-09",
+     "title": "진에어, 2분기 영업손실 731억원…고유가 부담에 적자 확대"
+    },
+    {
+     "date": "2026-08-09",
+     "title": "진에어, 2분기 영업손실 731억원…\"고유가 여파에 적자↑\""
+    },
+    {
      "date": "2026-08-08",
-     "title": "씨이랩, HPC·AI 전문가 황순욱 박사 영입"
+     "title": "진에어, 2분기 영업손실 731억원…고유가 부담에 적자 확대"
+    }
+   ]
+  },
+  {
+   "code": "051500",
+   "name": "CJ프레시웨이",
+   "market": "KOSDAQ",
+   "cap": 2784,
+   "total": 7,
+   "recent": 5,
+   "activeDays": 5,
+   "firstSeen": "2026-07-13",
+   "lastSeen": "2026-08-09",
+   "score": 30.9,
+   "riskMentions": 0,
+   "catalystMentions": 5,
+   "samples": [
+    {
+     "date": "2026-08-09",
+     "title": "'급식·식자재 호조' CJ프레시웨이, 2분기 영업익 14%↓…\"온라인 투자 영향\""
+    },
+    {
+     "date": "2026-08-08",
+     "title": "'급식·식자재 호조' CJ프레시웨이, 2분기 영업익 14%↓…\"온라인 투자 영향\""
     },
     {
      "date": "2026-08-07",
-     "title": "씨이랩, HPC·AI 전문가 황순욱 박사 영입"
+     "title": "CJ프레시웨이 영업익 14.2% 감소…\"플랫폼 투자 확대 영향\""
+    }
+   ]
+  },
+  {
+   "code": "079940",
+   "name": "가비아",
+   "market": "KOSDAQ",
+   "cap": 5771,
+   "total": 13,
+   "recent": 3,
+   "activeDays": 11,
+   "firstSeen": "2026-07-24",
+   "lastSeen": "2026-08-09",
+   "score": 30.2,
+   "riskMentions": 0,
+   "catalystMentions": 0,
+   "samples": [
+    {
+     "date": "2026-08-09",
+     "title": "잡음 커지는 가비아 공개매수…얼라인 \"맥쿼리가 자가당착\""
     },
     {
-     "date": "2026-08-06",
-     "title": "씨이랩, 글로벌 유체기업 왓슨말로우와 협력 논의…AIDC 냉각 인프라 강화"
+     "date": "2026-08-08",
+     "title": "잡음 커지는 가비아 공개매수…얼라인 \"맥쿼리가 자가당착\""
+    },
+    {
+     "date": "2026-08-07",
+     "title": "잡음 커지는 가비아 공개매수…얼라인 \"맥쿼리가 자가당착\""
+    }
+   ]
+  },
+  {
+   "code": "171090",
+   "name": "선익시스템",
+   "market": "KOSDAQ",
+   "cap": 6846,
+   "total": 8,
+   "recent": 4,
+   "activeDays": 7,
+   "firstSeen": "2026-07-11",
+   "lastSeen": "2026-08-09",
+   "score": 29.5,
+   "riskMentions": 0,
+   "catalystMentions": 4,
+   "samples": [
+    {
+     "date": "2026-08-09",
+     "title": "선익시스템, 산업부 '제3기 슈퍼을 기업' 선정"
+    },
+    {
+     "date": "2026-08-08",
+     "title": "선익시스템, 산업부 '제3기 슈퍼을 기업' 선정"
+    },
+    {
+     "date": "2026-08-07",
+     "title": "한화오션·선익시스템 등 '슈퍼 을' 5곳 선정…소부장 지원 확대"
+    }
+   ]
+  },
+  {
+   "code": "201490",
+   "name": "미투온",
+   "market": "KOSDAQ",
+   "cap": 700,
+   "total": 18,
+   "recent": 4,
+   "activeDays": 9,
+   "firstSeen": "2026-07-11",
+   "lastSeen": "2026-08-09",
+   "score": 28.7,
+   "riskMentions": 0,
+   "catalystMentions": 0,
+   "samples": [
+    {
+     "date": "2026-08-09",
+     "title": "[종목상담소 주식민원처리반 1부] '미투온 vs 아이시티케이' ... 다음주 승자는?"
+    },
+    {
+     "date": "2026-08-09",
+     "title": "[이재상의 하프타임 빅매치] 미투온 돌아온 상승 모멘텀! 美 따라가는 韓스테이블코인주"
+    },
+    {
+     "date": "2026-08-07",
+     "title": "[종목상담소 주식민원처리반 1부] '미투온 vs 아이시티케이' ... 다음주 승자는?"
+    }
+   ]
+  },
+  {
+   "code": "339770",
+   "name": "교촌에프앤비",
+   "market": "KOSPI",
+   "cap": 1889,
+   "total": 5,
+   "recent": 5,
+   "activeDays": 3,
+   "firstSeen": "2026-08-07",
+   "lastSeen": "2026-08-09",
+   "score": 27.8,
+   "riskMentions": 0,
+   "catalystMentions": 0,
+   "samples": [
+    {
+     "date": "2026-08-09",
+     "title": "교촌에프앤비, 2분기 영업익 15.7% 감소…원부자재비 상승 영향"
+    },
+    {
+     "date": "2026-08-08",
+     "title": "교촌에프앤비, 2분기 영업익 78억원·15.7%↓…원자재 부담"
+    },
+    {
+     "date": "2026-08-08",
+     "title": "교촌에프앤비, 2분기 영업익 15.7% 감소…원부자재비 상승 영향"
+    }
+   ]
+  },
+  {
+   "code": "096240",
+   "name": "크레버스",
+   "market": "KOSDAQ",
+   "cap": 870,
+   "total": 16,
+   "recent": 4,
+   "activeDays": 8,
+   "firstSeen": "2026-07-24",
+   "lastSeen": "2026-08-09",
+   "score": 27.6,
+   "riskMentions": 0,
+   "catalystMentions": 0,
+   "samples": [
+    {
+     "date": "2026-08-09",
+     "title": "크레버스, 퓨리오사AI와 교육AI 인프라 통합 업무협약 체결"
+    },
+    {
+     "date": "2026-08-09",
+     "title": "[더벨]크레버스-퓨리오사AI, AI 기술 활용한 사업화 공동추진 MOU 체결"
+    },
+    {
+     "date": "2026-08-07",
+     "title": "크레버스, 퓨리오사AI와 교육AI 인프라 통합 업무협약 체결"
+    }
+   ]
+  },
+  {
+   "code": "072710",
+   "name": "농심홀딩스",
+   "market": "KOSPI",
+   "cap": 4211,
+   "total": 16,
+   "recent": 4,
+   "activeDays": 8,
+   "firstSeen": "2026-07-24",
+   "lastSeen": "2026-08-09",
+   "score": 27.6,
+   "riskMentions": 0,
+   "catalystMentions": 0,
+   "samples": [
+    {
+     "date": "2026-08-09",
+     "title": "[여의도 클라쓰] '제이엔비, 칩스앤미디어, 농심홀딩스' 클라쓰 올릴 종목은?"
+    },
+    {
+     "date": "2026-08-09",
+     "title": "[박진섭의 황금선] 농심에 비해 지주사 주가 저평가 '농심홀딩스'"
+    },
+    {
+     "date": "2026-08-07",
+     "title": "[여의도 클라쓰] '제이엔비, 칩스앤미디어, 농심홀딩스' 클라쓰 올릴 종목은?"
+    }
+   ]
+  },
+  {
+   "code": "042510",
+   "name": "라온시큐어",
+   "market": "KOSDAQ",
+   "cap": 891,
+   "total": 8,
+   "recent": 3,
+   "activeDays": 8,
+   "firstSeen": "2026-07-13",
+   "lastSeen": "2026-08-09",
+   "score": 26.7,
+   "riskMentions": 0,
+   "catalystMentions": 0,
+   "samples": [
+    {
+     "date": "2026-08-09",
+     "title": "라온시큐어, 정부 블록체인 특성화대학 지원사업 수행…DID 기반 인재양성 나선다"
+    },
+    {
+     "date": "2026-08-08",
+     "title": "라온시큐어, 정부 블록체인 특성화대학 지원사업 수행…DID 기반 인재양성 나선다"
+    },
+    {
+     "date": "2026-08-07",
+     "title": "라온시큐어, 정부 블록체인 특성화대학 지원사업 수행…DID 기반 인재양성 나선다"
+    }
+   ]
+  },
+  {
+   "code": "001500",
+   "name": "현대차증권",
+   "market": "KOSPI",
+   "cap": 4910,
+   "total": 10,
+   "recent": 3,
+   "activeDays": 8,
+   "firstSeen": "2026-07-13",
+   "lastSeen": "2026-08-09",
+   "score": 25.7,
+   "riskMentions": 0,
+   "catalystMentions": 3,
+   "samples": [
+    {
+     "date": "2026-08-09",
+     "title": "현대차증권, IRP 로보어드바이저로 맞춤형 자동 투자"
+    },
+    {
+     "date": "2026-08-08",
+     "title": "현대차증권, IRP 로보어드바이저로 맞춤형 자동 투자"
+    },
+    {
+     "date": "2026-08-07",
+     "title": "현대차증권, IRP 로보어드바이저로 맞춤형 자동 투자"
+    }
+   ]
+  },
+  {
+   "code": "322510",
+   "name": "제이엘케이",
+   "market": "KOSDAQ",
+   "cap": 1402,
+   "total": 7,
+   "recent": 3,
+   "activeDays": 7,
+   "firstSeen": "2026-07-29",
+   "lastSeen": "2026-08-09",
+   "score": 25.2,
+   "riskMentions": 0,
+   "catalystMentions": 3,
+   "samples": [
+    {
+     "date": "2026-08-09",
+     "title": "\"제이엘케이, 뇌졸중 전주기 대응 솔루션 내수·수출 동반성장 기대\"-한국"
+    },
+    {
+     "date": "2026-08-08",
+     "title": "\"제이엘케이, 뇌졸중 전주기 대응 솔루션 내수·수출 동반성장 기대\"-한국"
+    },
+    {
+     "date": "2026-08-07",
+     "title": "\"제이엘케이, 뇌졸중 전주기 대응 솔루션 내수·수출 동반성장 기대\"-한국"
     }
    ]
   },
@@ -174,422 +426,30 @@
    ]
   },
   {
-   "code": "051500",
-   "name": "CJ프레시웨이",
-   "market": "KOSDAQ",
-   "cap": 2784,
-   "total": 6,
-   "recent": 4,
-   "activeDays": 4,
-   "firstSeen": "2026-07-13",
-   "lastSeen": "2026-08-08",
-   "score": 24.5,
-   "riskMentions": 0,
-   "catalystMentions": 4,
-   "samples": [
-    {
-     "date": "2026-08-08",
-     "title": "'급식·식자재 호조' CJ프레시웨이, 2분기 영업익 14%↓…\"온라인 투자 영향\""
-    },
-    {
-     "date": "2026-08-07",
-     "title": "CJ프레시웨이 영업익 14.2% 감소…\"플랫폼 투자 확대 영향\""
-    },
-    {
-     "date": "2026-08-07",
-     "title": "CJ프레시웨이 2분기 영업익 14% 감소…\"온라인 사업 투자 영향\""
-    }
-   ]
-  },
-  {
-   "code": "079940",
-   "name": "가비아",
-   "market": "KOSDAQ",
-   "cap": 5771,
-   "total": 12,
+   "code": "294870",
+   "name": "IPARK현대산업개발",
+   "market": "KOSPI",
+   "cap": 14928,
+   "total": 11,
    "recent": 2,
    "activeDays": 10,
    "firstSeen": "2026-07-24",
    "lastSeen": "2026-08-08",
-   "score": 23.9,
+   "score": 24.4,
    "riskMentions": 0,
    "catalystMentions": 0,
    "samples": [
     {
      "date": "2026-08-08",
-     "title": "잡음 커지는 가비아 공개매수…얼라인 \"맥쿼리가 자가당착\""
+     "title": "IPARK현대산업개발, 노원구 어르신에 삼계탕 배식 봉사"
     },
     {
      "date": "2026-08-07",
-     "title": "잡음 커지는 가비아 공개매수…얼라인 \"맥쿼리가 자가당착\""
-    },
-    {
-     "date": "2026-08-05",
-     "title": "맥쿼리, 얼라인의 가비아 공개매수 공시 누락 주장 반박"
-    }
-   ]
-  },
-  {
-   "code": "171090",
-   "name": "선익시스템",
-   "market": "KOSDAQ",
-   "cap": 6846,
-   "total": 7,
-   "recent": 3,
-   "activeDays": 6,
-   "firstSeen": "2026-07-11",
-   "lastSeen": "2026-08-08",
-   "score": 23.2,
-   "riskMentions": 0,
-   "catalystMentions": 3,
-   "samples": [
-    {
-     "date": "2026-08-08",
-     "title": "선익시스템, 산업부 '제3기 슈퍼을 기업' 선정"
-    },
-    {
-     "date": "2026-08-07",
-     "title": "한화오션·선익시스템 등 '슈퍼 을' 5곳 선정…소부장 지원 확대"
-    },
-    {
-     "date": "2026-08-07",
-     "title": "선익시스템, 산업부 '제3기 슈퍼을 기업' 선정"
-    }
-   ]
-  },
-  {
-   "code": "339770",
-   "name": "교촌에프앤비",
-   "market": "KOSPI",
-   "cap": 1889,
-   "total": 4,
-   "recent": 4,
-   "activeDays": 2,
-   "firstSeen": "2026-08-07",
-   "lastSeen": "2026-08-08",
-   "score": 21.5,
-   "riskMentions": 0,
-   "catalystMentions": 0,
-   "samples": [
-    {
-     "date": "2026-08-08",
-     "title": "교촌에프앤비, 2분기 영업익 78억원·15.7%↓…원자재 부담"
-    },
-    {
-     "date": "2026-08-08",
-     "title": "교촌에프앤비, 2분기 영업익 15.7% 감소…원부자재비 상승 영향"
-    },
-    {
-     "date": "2026-08-07",
-     "title": "교촌에프앤비, 2분기 영업익 78억원·15.7%↓…원자재 부담"
-    }
-   ]
-  },
-  {
-   "code": "003220",
-   "name": "대원제약",
-   "market": "KOSPI",
-   "cap": 1830,
-   "total": 4,
-   "recent": 4,
-   "activeDays": 2,
-   "firstSeen": "2026-08-07",
-   "lastSeen": "2026-08-08",
-   "score": 21.5,
-   "riskMentions": 0,
-   "catalystMentions": 0,
-   "samples": [
-    {
-     "date": "2026-08-08",
-     "title": "대원제약, 상반기 영업익 44억…R&D·마케팅 비용에 45.3%↓"
-    },
-    {
-     "date": "2026-08-08",
-     "title": "대원제약 상반기 매출 3천109억원…3.1% 증가"
-    },
-    {
-     "date": "2026-08-07",
-     "title": "대원제약, 상반기 영업익 44억…R&D·마케팅 비용에 45.3%↓"
-    }
-   ]
-  },
-  {
-   "code": "272450",
-   "name": "진에어",
-   "market": "KOSPI",
-   "cap": 2808,
-   "total": 4,
-   "recent": 4,
-   "activeDays": 2,
-   "firstSeen": "2026-08-07",
-   "lastSeen": "2026-08-08",
-   "score": 21.5,
-   "riskMentions": 4,
-   "catalystMentions": 2,
-   "samples": [
-    {
-     "date": "2026-08-08",
-     "title": "진에어, 2분기 영업손실 731억원…고유가 부담에 적자 확대"
-    },
-    {
-     "date": "2026-08-08",
-     "title": "진에어, 2분기 영업손실 731억원…\"고유가 여파에 적자↑\""
-    },
-    {
-     "date": "2026-08-07",
-     "title": "진에어, 2분기 영업손실 731억원…고유가 부담에 적자 확대"
-    }
-   ]
-  },
-  {
-   "code": "001500",
-   "name": "현대차증권",
-   "market": "KOSPI",
-   "cap": 4910,
-   "total": 10,
-   "recent": 2,
-   "activeDays": 8,
-   "firstSeen": "2026-07-10",
-   "lastSeen": "2026-08-08",
-   "score": 20.9,
-   "riskMentions": 0,
-   "catalystMentions": 2,
-   "samples": [
-    {
-     "date": "2026-08-08",
-     "title": "현대차증권, IRP 로보어드바이저로 맞춤형 자동 투자"
-    },
-    {
-     "date": "2026-08-07",
-     "title": "현대차증권, IRP 로보어드바이저로 맞춤형 자동 투자"
-    },
-    {
-     "date": "2026-08-03",
-     "title": "현대차증권, 티맵모빌리티와 투자지원금·수수료 할인 이벤트"
-    }
-   ]
-  },
-  {
-   "code": "142760",
-   "name": "모아라이프플러스",
-   "market": "KOSDAQ",
-   "cap": 147,
-   "total": 4,
-   "recent": 3,
-   "activeDays": 4,
-   "firstSeen": "2026-08-05",
-   "lastSeen": "2026-08-08",
-   "score": 20.6,
-   "riskMentions": 0,
-   "catalystMentions": 0,
-   "samples": [
-    {
-     "date": "2026-08-08",
-     "title": "모아라이프플러스, K뷰티로 2억3000만 인니 무슬림 시장 공략…9월 할랄 인증"
-    },
-    {
-     "date": "2026-08-07",
-     "title": "모아라이프플러스, K뷰티로 2억3000만 인니 무슬림 시장 공략…9월 할랄 인증"
+     "title": "IPARK현대산업개발, 노원구 어르신에 삼계탕 배식 봉사"
     },
     {
      "date": "2026-08-06",
-     "title": "모아라이프플러스, 비만치료제 'EL-22' 美 상용화 공정 본격화…현지 임상 개발 속도"
-    }
-   ]
-  },
-  {
-   "code": "027040",
-   "name": "서울전자통신",
-   "market": "KOSDAQ",
-   "cap": 310,
-   "total": 4,
-   "recent": 3,
-   "activeDays": 4,
-   "firstSeen": "2026-08-05",
-   "lastSeen": "2026-08-08",
-   "score": 20.6,
-   "riskMentions": 0,
-   "catalystMentions": 1,
-   "samples": [
-    {
-     "date": "2026-08-08",
-     "title": "서울전자통신, 30억원 제3자배정 유상증자"
-    },
-    {
-     "date": "2026-08-07",
-     "title": "서울전자통신, 30억원 제3자배정 유상증자"
-    },
-    {
-     "date": "2026-08-06",
-     "title": "서울전자통신, '결제 후 리워드' 플랫폼 사업 진출…POS 인프라 기반 신성장동력 확보"
-    }
-   ]
-  },
-  {
-   "code": "042510",
-   "name": "라온시큐어",
-   "market": "KOSDAQ",
-   "cap": 891,
-   "total": 7,
-   "recent": 2,
-   "activeDays": 7,
-   "firstSeen": "2026-07-13",
-   "lastSeen": "2026-08-08",
-   "score": 20.3,
-   "riskMentions": 0,
-   "catalystMentions": 0,
-   "samples": [
-    {
-     "date": "2026-08-08",
-     "title": "라온시큐어, 정부 블록체인 특성화대학 지원사업 수행…DID 기반 인재양성 나선다"
-    },
-    {
-     "date": "2026-08-07",
-     "title": "라온시큐어, 정부 블록체인 특성화대학 지원사업 수행…DID 기반 인재양성 나선다"
-    },
-    {
-     "date": "2026-08-03",
-     "title": "라온시큐어, 블록체인으로 진도개 혈통 관리…디지털 혈통증명 체계 구축"
-    }
-   ]
-  },
-  {
-   "code": "079160",
-   "name": "CJ CGV",
-   "market": "KOSPI",
-   "cap": 9206,
-   "total": 5,
-   "recent": 3,
-   "activeDays": 4,
-   "firstSeen": "2026-07-29",
-   "lastSeen": "2026-08-08",
-   "score": 20.1,
-   "riskMentions": 0,
-   "catalystMentions": 2,
-   "samples": [
-    {
-     "date": "2026-08-08",
-     "title": "CJ CGV, 2분기 영업익 115억…매출도 성장세 이어져(종합)"
-    },
-    {
-     "date": "2026-08-07",
-     "title": "CJ CGV, 2분기 영업익 115억…매출도 성장세 이어져(종합)"
-    },
-    {
-     "date": "2026-08-07",
-     "title": "CJ CGV 2분기 영업익 115억…568% 급증"
-    }
-   ]
-  },
-  {
-   "code": "367000",
-   "name": "플래티어",
-   "market": "KOSDAQ",
-   "cap": 263,
-   "total": 3,
-   "recent": 3,
-   "activeDays": 3,
-   "firstSeen": "2026-08-06",
-   "lastSeen": "2026-08-08",
-   "score": 19.1,
-   "riskMentions": 0,
-   "catalystMentions": 0,
-   "samples": [
-    {
-     "date": "2026-08-08",
-     "title": "플래티어, 에이전트 AI 플랫폼 '엑스젠' 고도화"
-    },
-    {
-     "date": "2026-08-07",
-     "title": "플래티어, 에이전트 AI 플랫폼 '엑스젠' 고도화"
-    },
-    {
-     "date": "2026-08-06",
-     "title": "플래티어, 에이전트 AI 플랫폼 '엑스젠' 고도화"
-    }
-   ]
-  },
-  {
-   "code": "322510",
-   "name": "제이엘케이",
-   "market": "KOSDAQ",
-   "cap": 1402,
-   "total": 6,
-   "recent": 2,
-   "activeDays": 6,
-   "firstSeen": "2026-07-29",
-   "lastSeen": "2026-08-08",
-   "score": 18.8,
-   "riskMentions": 0,
-   "catalystMentions": 2,
-   "samples": [
-    {
-     "date": "2026-08-08",
-     "title": "\"제이엘케이, 뇌졸중 전주기 대응 솔루션 내수·수출 동반성장 기대\"-한국"
-    },
-    {
-     "date": "2026-08-07",
-     "title": "\"제이엘케이, 뇌졸중 전주기 대응 솔루션 내수·수출 동반성장 기대\"-한국"
-    },
-    {
-     "date": "2026-08-05",
-     "title": "제이엘케이, 22개 병원 뇌졸중 AI 임상 착수 \"보험 진입 속도\""
-    }
-   ]
-  },
-  {
-   "code": "201490",
-   "name": "미투온",
-   "market": "KOSDAQ",
-   "cap": 700,
-   "total": 16,
-   "recent": 2,
-   "activeDays": 8,
-   "firstSeen": "2026-07-11",
-   "lastSeen": "2026-08-07",
-   "score": 17.9,
-   "riskMentions": 0,
-   "catalystMentions": 0,
-   "samples": [
-    {
-     "date": "2026-08-07",
-     "title": "[종목상담소 주식민원처리반 1부] '미투온 vs 아이시티케이' ... 다음주 승자는?"
-    },
-    {
-     "date": "2026-08-07",
-     "title": "[이재상의 하프타임 빅매치] 미투온 돌아온 상승 모멘텀! 美 따라가는 韓스테이블코인주"
-    },
-    {
-     "date": "2026-08-04",
-     "title": "[종목상담소 주식민원처리반 1부] '미투온 vs 아이시티케이' ... 다음주 승자는?"
-    }
-   ]
-  },
-  {
-   "code": "115450",
-   "name": "HLB테라퓨틱스",
-   "market": "KOSDAQ",
-   "cap": 1803,
-   "total": 5,
-   "recent": 2,
-   "activeDays": 5,
-   "firstSeen": "2026-07-20",
-   "lastSeen": "2026-08-08",
-   "score": 17.3,
-   "riskMentions": 0,
-   "catalystMentions": 0,
-   "samples": [
-    {
-     "date": "2026-08-08",
-     "title": "HLB테라퓨틱스, 111억원 유상증자…에이치엘비에 제3자배정"
-    },
-    {
-     "date": "2026-08-07",
-     "title": "HLB테라퓨틱스, 111억원 유상증자…에이치엘비에 제3자배정"
-    },
-    {
-     "date": "2026-07-31",
-     "title": "HLB테라퓨틱스, 품질·환경경영 국제표준 ISO 9001·14001 인증"
+     "title": "IPARK현대산업개발, 폭염 건설 현장 찾아 온열질환 예방"
     }
    ]
   },
@@ -598,15 +458,19 @@
    "name": "한울반도체",
    "market": "KOSDAQ",
    "cap": 767,
-   "total": 5,
-   "recent": 2,
-   "activeDays": 5,
+   "total": 6,
+   "recent": 3,
+   "activeDays": 6,
    "firstSeen": "2026-07-20",
-   "lastSeen": "2026-08-08",
-   "score": 17.3,
+   "lastSeen": "2026-08-09",
+   "score": 23.6,
    "riskMentions": 0,
    "catalystMentions": 0,
    "samples": [
+    {
+     "date": "2026-08-09",
+     "title": "한울반도체, 차세대 AI 초음파 검사장비 전략 공개…MLCC 내부결함 전수검사 시장 공략"
+    },
     {
      "date": "2026-08-08",
      "title": "한울반도체, 차세대 AI 초음파 검사장비 전략 공개…MLCC 내부결함 전수검사 시장 공략"
@@ -614,10 +478,6 @@
     {
      "date": "2026-08-07",
      "title": "한울반도체, 차세대 AI 초음파 검사장비 전략 공개…MLCC 내부결함 전수검사 시장 공략"
-    },
-    {
-     "date": "2026-07-24",
-     "title": "한울반도체, \"MLCC 분당 1만3000개 검사\"…AI 전수검사로 글로벌 증설시장 공략"
     }
    ]
   },
@@ -626,15 +486,19 @@
    "name": "동국제강",
    "market": "KOSPI",
    "cap": 4862,
-   "total": 5,
-   "recent": 2,
-   "activeDays": 5,
+   "total": 6,
+   "recent": 3,
+   "activeDays": 6,
    "firstSeen": "2026-07-24",
-   "lastSeen": "2026-08-08",
-   "score": 17.3,
+   "lastSeen": "2026-08-09",
+   "score": 23.6,
    "riskMentions": 0,
    "catalystMentions": 0,
    "samples": [
+    {
+     "date": "2026-08-09",
+     "title": "동국제강, 주당 200원 중간배당 실시"
+    },
     {
      "date": "2026-08-08",
      "title": "동국제강, 주당 200원 중간배당 실시"
@@ -642,10 +506,6 @@
     {
      "date": "2026-08-07",
      "title": "동국제강, 주당 200원 중간배당 실시"
-    },
-    {
-     "date": "2026-07-27",
-     "title": "데이터센터 짓느라 철강이 모자란다...현대제철·동국제강 볕드나"
     }
    ]
   },
@@ -654,138 +514,278 @@
    "name": "인티큐브",
    "market": "KOSDAQ",
    "cap": 234,
-   "total": 5,
-   "recent": 2,
-   "activeDays": 5,
+   "total": 6,
+   "recent": 3,
+   "activeDays": 6,
    "firstSeen": "2026-07-24",
-   "lastSeen": "2026-08-08",
-   "score": 17.3,
+   "lastSeen": "2026-08-09",
+   "score": 23.6,
+   "riskMentions": 0,
+   "catalystMentions": 3,
+   "samples": [
+    {
+     "date": "2026-08-09",
+     "title": "인티큐브, AI 캐릭터 플랫폼 'Who Chu' 9월 출시 목표…콘텐츠 IP 기반 관계형 시장 공략"
+    },
+    {
+     "date": "2026-08-08",
+     "title": "인티큐브, AI 캐릭터 플랫폼 'Who Chu' 9월 출시 목표…콘텐츠 IP 기반 관계형 시장 공략"
+    },
+    {
+     "date": "2026-08-07",
+     "title": "인티큐브, AI 캐릭터 플랫폼 'Who Chu' 9월 출시 목표…콘텐츠 IP 기반 관계형 시장 공략"
+    }
+   ]
+  },
+  {
+   "code": "439580",
+   "name": "블루엠텍",
+   "market": "KOSDAQ",
+   "cap": 580,
+   "total": 9,
+   "recent": 2,
+   "activeDays": 9,
+   "firstSeen": "2026-07-22",
+   "lastSeen": "2026-08-09",
+   "score": 23.3,
+   "riskMentions": 0,
+   "catalystMentions": 0,
+   "samples": [
+    {
+     "date": "2026-08-09",
+     "title": "[고래사냥] '블루엠텍, 아이씨티케이, 주성엔지니어링, 한컴위드!' 오늘 장 궁금종목 분석"
+    },
+    {
+     "date": "2026-08-07",
+     "title": "[고래사냥] '블루엠텍, 아이씨티케이, 주성엔지니어링, 한컴위드!' 오늘 장 궁금종목 분석"
+    },
+    {
+     "date": "2026-08-04",
+     "title": "[고래사냥] '블루엠텍, 아이씨티케이, 주성엔지니어링, 한컴위드!' 오늘 장 궁금종목 분석"
+    }
+   ]
+  },
+  {
+   "code": "054920",
+   "name": "한컴위드",
+   "market": "KOSDAQ",
+   "cap": 1124,
+   "total": 9,
+   "recent": 2,
+   "activeDays": 9,
+   "firstSeen": "2026-07-22",
+   "lastSeen": "2026-08-09",
+   "score": 23.3,
+   "riskMentions": 0,
+   "catalystMentions": 0,
+   "samples": [
+    {
+     "date": "2026-08-09",
+     "title": "[고래사냥] '블루엠텍, 아이씨티케이, 주성엔지니어링, 한컴위드!' 오늘 장 궁금종목 분석"
+    },
+    {
+     "date": "2026-08-07",
+     "title": "[고래사냥] '블루엠텍, 아이씨티케이, 주성엔지니어링, 한컴위드!' 오늘 장 궁금종목 분석"
+    },
+    {
+     "date": "2026-08-04",
+     "title": "[고래사냥] '블루엠텍, 아이씨티케이, 주성엔지니어링, 한컴위드!' 오늘 장 궁금종목 분석"
+    }
+   ]
+  },
+  {
+   "code": "456010",
+   "name": "아이씨티케이",
+   "market": "KOSDAQ",
+   "cap": 2197,
+   "total": 9,
+   "recent": 2,
+   "activeDays": 9,
+   "firstSeen": "2026-07-22",
+   "lastSeen": "2026-08-09",
+   "score": 23.3,
+   "riskMentions": 0,
+   "catalystMentions": 0,
+   "samples": [
+    {
+     "date": "2026-08-09",
+     "title": "[고래사냥] '블루엠텍, 아이씨티케이, 주성엔지니어링, 한컴위드!' 오늘 장 궁금종목 분석"
+    },
+    {
+     "date": "2026-08-07",
+     "title": "[고래사냥] '블루엠텍, 아이씨티케이, 주성엔지니어링, 한컴위드!' 오늘 장 궁금종목 분석"
+    },
+    {
+     "date": "2026-08-04",
+     "title": "[고래사냥] '블루엠텍, 아이씨티케이, 주성엔지니어링, 한컴위드!' 오늘 장 궁금종목 분석"
+    }
+   ]
+  },
+  {
+   "code": "071280",
+   "name": "로체시스템즈",
+   "market": "KOSDAQ",
+   "cap": 907,
+   "total": 9,
+   "recent": 2,
+   "activeDays": 9,
+   "firstSeen": "2026-07-22",
+   "lastSeen": "2026-08-09",
+   "score": 23.3,
    "riskMentions": 0,
    "catalystMentions": 2,
    "samples": [
     {
-     "date": "2026-08-08",
-     "title": "인티큐브, AI 캐릭터 플랫폼 'Who Chu' 9월 출시 목표…콘텐츠 IP 기반 관계형 시장 공략"
+     "date": "2026-08-09",
+     "title": "[투자원정대 동행] 로체시스템즈 vs 클래시스 vs 엠디바이스, 공략법은?"
     },
     {
      "date": "2026-08-07",
-     "title": "인티큐브, AI 캐릭터 플랫폼 'Who Chu' 9월 출시 목표…콘텐츠 IP 기반 관계형 시장 공략"
+     "title": "[투자원정대 동행] 로체시스템즈 vs 클래시스 vs 엠디바이스, 공략법은?"
     },
     {
-     "date": "2026-07-27",
-     "title": "인티큐브, '착한 AI 플랫폼' 비전 제시…창작자와 함께 성장하는 AI 생태계 구축"
+     "date": "2026-08-04",
+     "title": "[투자원정대 동행] 로체시스템즈 vs 클래시스 vs 엠디바이스, 공략법은?"
     }
    ]
   },
   {
-   "code": "253450",
-   "name": "스튜디오드래곤",
+   "code": "226590",
+   "name": "엠디바이스",
    "market": "KOSDAQ",
-   "cap": 7575,
-   "total": 3,
-   "recent": 3,
-   "activeDays": 2,
-   "firstSeen": "2026-08-07",
-   "lastSeen": "2026-08-08",
-   "score": 17.1,
-   "riskMentions": 0,
-   "catalystMentions": 3,
-   "samples": [
-    {
-     "date": "2026-08-08",
-     "title": "\"스튜디오드래곤, 2분기 실적 기대치 상회\"-NH투자증권"
-    },
-    {
-     "date": "2026-08-07",
-     "title": "스튜디오드래곤, '멋진 신세계''취사병''참교육' 흥행에 2분기 흑자 확대"
-    },
-    {
-     "date": "2026-08-07",
-     "title": "\"스튜디오드래곤, 2분기 실적 기대치 상회\"-NH투자증권"
-    }
-   ]
-  },
-  {
-   "code": "001290",
-   "name": "상상인증권",
-   "market": "KOSPI",
-   "cap": 1303,
-   "total": 3,
-   "recent": 3,
-   "activeDays": 2,
-   "firstSeen": "2026-08-07",
-   "lastSeen": "2026-08-08",
-   "score": 17.1,
-   "riskMentions": 0,
-   "catalystMentions": 3,
-   "samples": [
-    {
-     "date": "2026-08-08",
-     "title": "상상인증권, 이틀째 상한가 직행…인수 추진 기대감"
-    },
-    {
-     "date": "2026-08-07",
-     "title": "수협은행, 상상인증권 인수 추진…종합금융 퍼즐 맞춘다"
-    },
-    {
-     "date": "2026-08-07",
-     "title": "상상인증권, 이틀째 상한가 직행…인수 추진 기대감"
-    }
-   ]
-  },
-  {
-   "code": "096240",
-   "name": "크레버스",
-   "market": "KOSDAQ",
-   "cap": 870,
-   "total": 14,
+   "cap": 1222,
+   "total": 9,
    "recent": 2,
-   "activeDays": 7,
-   "firstSeen": "2026-07-24",
-   "lastSeen": "2026-08-07",
-   "score": 16.9,
+   "activeDays": 9,
+   "firstSeen": "2026-07-22",
+   "lastSeen": "2026-08-09",
+   "score": 23.3,
+   "riskMentions": 0,
+   "catalystMentions": 2,
+   "samples": [
+    {
+     "date": "2026-08-09",
+     "title": "[투자원정대 동행] 로체시스템즈 vs 클래시스 vs 엠디바이스, 공략법은?"
+    },
+    {
+     "date": "2026-08-07",
+     "title": "[투자원정대 동행] 로체시스템즈 vs 클래시스 vs 엠디바이스, 공략법은?"
+    },
+    {
+     "date": "2026-08-04",
+     "title": "[투자원정대 동행] 로체시스템즈 vs 클래시스 vs 엠디바이스, 공략법은?"
+    }
+   ]
+  },
+  {
+   "code": "344820",
+   "name": "KCC글라스",
+   "market": "KOSPI",
+   "cap": 3985,
+   "total": 9,
+   "recent": 2,
+   "activeDays": 9,
+   "firstSeen": "2026-07-23",
+   "lastSeen": "2026-08-09",
+   "score": 23.3,
    "riskMentions": 0,
    "catalystMentions": 0,
    "samples": [
     {
-     "date": "2026-08-07",
-     "title": "크레버스, 퓨리오사AI와 교육AI 인프라 통합 업무협약 체결"
+     "date": "2026-08-09",
+     "title": "\"스톤테리어 감성을 그대로\"..KCC글라스 홈씨씨 '숲 강마루 스톤'"
     },
     {
      "date": "2026-08-07",
-     "title": "[더벨]크레버스-퓨리오사AI, AI 기술 활용한 사업화 공동추진 MOU 체결"
+     "title": "\"스톤테리어 감성을 그대로\"..KCC글라스 홈씨씨 '숲 강마루 스톤'"
     },
     {
      "date": "2026-08-04",
-     "title": "크레버스, 퓨리오사AI와 교육AI 인프라 통합 업무협약 체결"
+     "title": "\"스톤테리어 감성을 그대로\"..KCC글라스 홈씨씨 '숲 강마루 스톤'"
     }
    ]
   },
   {
-   "code": "072710",
-   "name": "농심홀딩스",
-   "market": "KOSPI",
-   "cap": 4211,
-   "total": 14,
+   "code": "332570",
+   "name": "PS일렉트로닉스",
+   "market": "KOSDAQ",
+   "cap": 3714,
+   "total": 9,
    "recent": 2,
-   "activeDays": 7,
-   "firstSeen": "2026-07-24",
-   "lastSeen": "2026-08-07",
-   "score": 16.9,
+   "activeDays": 9,
+   "firstSeen": "2026-07-23",
+   "lastSeen": "2026-08-09",
+   "score": 23.3,
    "riskMentions": 0,
    "catalystMentions": 0,
    "samples": [
     {
-     "date": "2026-08-07",
-     "title": "[여의도 클라쓰] '제이엔비, 칩스앤미디어, 농심홀딩스' 클라쓰 올릴 종목은?"
+     "date": "2026-08-09",
+     "title": "[고래사냥] 'LG전자, PS일렉트로닉스, 코리아써키트, 휴네시온!' 오늘 장 궁금종목 분석"
     },
     {
      "date": "2026-08-07",
-     "title": "[박진섭의 황금선] 농심에 비해 지주사 주가 저평가 '농심홀딩스'"
+     "title": "[고래사냥] 'LG전자, PS일렉트로닉스, 코리아써키트, 휴네시온!' 오늘 장 궁금종목 분석"
     },
     {
      "date": "2026-08-04",
-     "title": "[여의도 클라쓰] '제이엔비, 칩스앤미디어, 농심홀딩스' 클라쓰 올릴 종목은?"
+     "title": "[고래사냥] 'LG전자, PS일렉트로닉스, 코리아써키트, 휴네시온!' 오늘 장 궁금종목 분석"
+    }
+   ]
+  },
+  {
+   "code": "170900",
+   "name": "동아에스티",
+   "market": "KOSPI",
+   "cap": 3721,
+   "total": 10,
+   "recent": 2,
+   "activeDays": 9,
+   "firstSeen": "2026-07-24",
+   "lastSeen": "2026-08-09",
+   "score": 22.9,
+   "riskMentions": 0,
+   "catalystMentions": 2,
+   "samples": [
+    {
+     "date": "2026-08-09",
+     "title": "[투자 핫플레이스] 비만·당뇨·MASH·ADC 파이프라인 보유 '동아에스티'"
+    },
+    {
+     "date": "2026-08-07",
+     "title": "[투자 핫플레이스] 비만·당뇨·MASH·ADC 파이프라인 보유 '동아에스티'"
+    },
+    {
+     "date": "2026-08-04",
+     "title": "[투자 핫플레이스] 비만·당뇨·MASH·ADC 파이프라인 보유 '동아에스티'"
+    }
+   ]
+  },
+  {
+   "code": "018000",
+   "name": "유니슨",
+   "market": "KOSDAQ",
+   "cap": 2382,
+   "total": 14,
+   "recent": 2,
+   "activeDays": 10,
+   "firstSeen": "2026-07-24",
+   "lastSeen": "2026-08-08",
+   "score": 22.9,
+   "riskMentions": 0,
+   "catalystMentions": 0,
+   "samples": [
+    {
+     "date": "2026-08-08",
+     "title": "유니슨, 풍력 '생산할수록 세제혜택'…국산 터빈 경쟁력 높인다"
+    },
+    {
+     "date": "2026-08-07",
+     "title": "유니슨, 풍력 '생산할수록 세제혜택'…국산 터빈 경쟁력 높인다"
+    },
+    {
+     "date": "2026-08-06",
+     "title": "최대주주 측 지분 늘리는 유니슨…장내매수로 '책임경영 강화'"
     }
    ]
   },
@@ -794,15 +794,19 @@
    "name": "파인테크닉스",
    "market": "KOSDAQ",
    "cap": 294,
-   "total": 4,
-   "recent": 2,
-   "activeDays": 4,
+   "total": 5,
+   "recent": 3,
+   "activeDays": 5,
    "firstSeen": "2026-07-13",
-   "lastSeen": "2026-08-08",
-   "score": 15.8,
+   "lastSeen": "2026-08-09",
+   "score": 22.1,
    "riskMentions": 0,
-   "catalystMentions": 2,
+   "catalystMentions": 3,
    "samples": [
+    {
+     "date": "2026-08-09",
+     "title": "파인테크닉스, '넥센타이어 창녕공장 조명 효율화' 계약 체결"
+    },
     {
      "date": "2026-08-08",
      "title": "파인테크닉스, '넥센타이어 창녕공장 조명 효율화' 계약 체결"
@@ -810,10 +814,6 @@
     {
      "date": "2026-08-07",
      "title": "파인테크닉스, '넥센타이어 창녕공장 조명 효율화' 계약 체결"
-    },
-    {
-     "date": "2026-07-15",
-     "title": "오르비텍, 파인테크닉스 지분 매각 중도금 수령 완료…9월 거래 마무리 예정"
     }
    ]
   },
@@ -822,15 +822,19 @@
    "name": "에이루트",
    "market": "KOSDAQ",
    "cap": 227,
-   "total": 4,
-   "recent": 2,
-   "activeDays": 4,
+   "total": 5,
+   "recent": 3,
+   "activeDays": 5,
    "firstSeen": "2026-07-15",
-   "lastSeen": "2026-08-08",
-   "score": 15.8,
+   "lastSeen": "2026-08-09",
+   "score": 22.1,
    "riskMentions": 0,
-   "catalystMentions": 2,
+   "catalystMentions": 3,
    "samples": [
+    {
+     "date": "2026-08-09",
+     "title": "에이루트, 북미 리테일 박람회 참가…신규 거래선 발굴로 해외 공략 확대"
+    },
     {
      "date": "2026-08-08",
      "title": "에이루트, 북미 리테일 박람회 참가…신규 거래선 발굴로 해외 공략 확대"
@@ -838,10 +842,6 @@
     {
      "date": "2026-08-07",
      "title": "에이루트, 북미 리테일 박람회 참가…신규 거래선 발굴로 해외 공략 확대"
-    },
-    {
-     "date": "2026-07-20",
-     "title": "에이루트, USDFT 준비금 수탁은행 선정…스테이블코인 발행 기반 구축"
     }
    ]
   }

@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-08-08T20:08:57+09:00",
+ "updatedAt": "2026-08-09T08:11:56+09:00",
  "companies": {
   "오이솔루션(138080)": {
    "market": "韓",
@@ -4609,6 +4609,32 @@
    "points": 1,
    "series": {
     "2026-08-07": 2645
+   }
+  },
+  "센서뷰(321370)": {
+   "market": "韓",
+   "type": "discovery",
+   "firstSeen": "2026-08-07",
+   "firstPrice": 1286,
+   "lastPrice": 1286,
+   "changePct": 0.0,
+   "points": 2,
+   "series": {
+    "2026-08-07": 1286,
+    "2026-08-09": 1286
+   }
+  },
+  "코윈테크(282880)": {
+   "market": "韓",
+   "type": "discovery",
+   "firstSeen": "2026-08-07",
+   "firstPrice": 9530,
+   "lastPrice": 9530,
+   "changePct": 0.0,
+   "points": 2,
+   "series": {
+    "2026-08-07": 9530,
+    "2026-08-09": 9530
    }
   }
  }

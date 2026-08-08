@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-08-08T20:08:57+09:00",
+ "updatedAt": "2026-08-09T08:11:56+09:00",
  "cases": [
   {
    "name": "오이솔루션(138080)",
@@ -24032,6 +24032,61 @@
      "price": 1422000
     }
    ]
+  },
+  {
+   "name": "센서뷰(321370)",
+   "type": "discovery",
+   "market": "韓",
+   "flagDate": "2026-08-09",
+   "signals": [
+    "방산혁신기업지원사업선정",
+    "구체촉발재",
+    "신규포착"
+   ],
+   "theme": "방산",
+   "status": "pending",
+   "checks": [],
+   "flagPrice": 1286,
+   "priceLog": [
+    {
+     "date": "2026-08-07",
+     "price": 1286
+    }
+   ],
+   "convScore": 2,
+   "convTier": "low",
+   "convSignals": [
+    "구체촉발재"
+   ],
+   "convStampedAt": "2026-08-09"
+  },
+  {
+   "name": "코윈테크(282880)",
+   "type": "discovery",
+   "market": "韓",
+   "flagDate": "2026-08-09",
+   "signals": [
+    "대형수주(200억AMR)",
+    "수주465%증가",
+    "구체촉발재"
+   ],
+   "theme": "로봇/휴머노이드",
+   "status": "pending",
+   "checks": [],
+   "flagPrice": 9530,
+   "priceLog": [
+    {
+     "date": "2026-08-07",
+     "price": 9530
+    }
+   ],
+   "convScore": 4,
+   "convTier": "mid",
+   "convSignals": [
+    "승세테마",
+    "구체촉발재"
+   ],
+   "convStampedAt": "2026-08-09"
   }
  ],
  "stats": {
@@ -24041,8 +24096,8 @@
   "miss": 92,
   "hitRate": 22.3,
   "avgD3ChangePct": 1.24,
-  "pending": 39,
-  "total": 245,
+  "pending": 41,
+  "total": 247,
   "byType": {
    "leading": {
     "verified": 94,
