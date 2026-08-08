@@ -1,23 +1,23 @@
 {
-  "updatedAt": "2026-08-08T07:50:00+09:00", "session": "AM",
-  "note": "8/8(토) 오전 — 밤사이(현지 8/7 금) 뉴욕증시는 7월 비농업고용이 -2.3만명(컨센 +8.3만명 대폭 하회)으로 깜짝 감소했음에도, 오히려 '연준 긴축 필요성 후퇴' 해석에 3대지수가 동반 강세로 마감했다. S&P500은 7,757.64(+0.62%)로 사상최고 경신, 나스닥 26,690.62(+1.3%), 다우 54,036.93(+0.28%, +151.83pt). 실업률은 4.1%로 소폭 하락했지만 노동참가율이 61.4%로 5년래 최저치까지 떨어진 영향이며, 임금상승률도 3.2%(전년비)로 2021년 5월 이후 최저였다. 美 10년물 국채금리는 발표 직후 7bp 하락(4.67%→4.60%대)했고, 9월 FOMC 인상 가능성은 58%→42%로 급락(동결 확률 60.4%로 상승). 금값은 안전자산 수요에 4,300달러 재돌파하며 상승세를 이어갔다. 브렌트유는 이란 의회의 호르무즈 해협 통항금지 예비법안 검토 여파로 여전히 급등권(WTI 83달러대)에 머물러 있다. 트럼프 대통령은 폴리실리콘 파생제품(웨이퍼·태양광 셀·모듈)에 15% 관세+최저수입가격을 부과하는 포고문에 서명(12/4 발효)해 국내 태양광·폴리실리콘 대체생산 기업에 반사이익 기대가 있다. 한국은 7월 수출 989억달러(전년비 +62.8%, 역대 7월 2위)·무역수지 303억달러 흑자로 14개월 연속 월간 최대 기록을 경신했고, 반도체 수출은 2개월 연속 400억달러를 상회했다. 원/달러는 1,416원대로 2025년 10월 이후 최저(원화강세) 흐름을 유지 중이며, 8/27 한은 금통위에서는 시장 일각(모건스탠리·씨티)이 기준금리 추가 인상 가능성을 거론하고 있다.",
+  "updatedAt": "2026-08-08T19:50:00+09:00", "session": "PM",
+  "note": "8/8(토) 오후 — 한국·미국 증시 모두 휴장(토요일). 아래 수치는 직전 거래일(8/7 금) 마감 기준 그대로 유지되며, 신규 지표 변동은 없음. 주말 중 트럼프의 리사 쿡 연준이사 해임 재추진, 호르무즈 협상 관련 유가 변동만 갱신.",
   "stock_fng": { "value": 63, "label": "Greed", "source": "https://www.cnn.com/markets/fear-and-greed" },
   "indices": [
-    { "name": "코스피", "value": "6,258.77", "change": "-0.60%(-37.61P), 8/7 마감 · 오늘 밤 美 고용지표發 강세 마감이 반등 재료", "source": "https://www.hankyung.com/article/2026080709686" },
-    { "name": "코스닥", "value": "798.81", "change": "-0.36%(-2.86P), 8/7 마감·800선 이탈", "source": "https://view.asiae.co.kr/article/2026080715355749993" },
+    { "name": "코스피", "value": "6,258.77", "change": "-0.60%(-37.61P), 8/7(금) 마감 · 8/8(토) 휴장", "source": "https://www.hankyung.com/article/2026080709686" },
+    { "name": "코스닥", "value": "798.81", "change": "-0.36%(-2.86P), 8/7(금) 마감·800선 이탈 · 8/8(토) 휴장", "source": "https://www.hankyung.com/article/202608071015i" },
     { "name": "다우존스", "value": "54,036.93", "change": "+0.28%(+151.83pt), 8/7(금) 뉴욕 마감", "source": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-aug-7-2026" },
-    { "name": "S&P 500", "value": "7,757.64", "change": "+0.62%, 사상최고 경신(8/7 마감)", "source": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-aug-7-2026" },
-    { "name": "나스닥", "value": "26,690.62", "change": "+1.3%, 고용쇼크發 금리인상 후퇴 기대에 강세(8/7 마감)", "source": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-aug-7-2026" },
+    { "name": "S&P 500", "value": "7,757.64", "change": "+0.62%, 사상최고 경신(8/7 마감)", "source": "https://www.yna.co.kr/view/AKR20260808005151072" },
+    { "name": "나스닥", "value": "26,690.62", "change": "+1.3%, 고용쇼크發 금리인상 후퇴 기대에 강세(8/7 마감)", "source": "https://www.yna.co.kr/view/AKR20260808005151072" },
     { "name": "VIX", "value": "15.81", "change": "저변동성 지속(Greed 구간)", "source": "https://fred.stlouisfed.org/series/VIXCLS" },
-    { "name": "美 10년물", "value": "4.60%", "change": "-7bp, 7월 고용쇼크에 급락", "source": "https://www.cnbc.com/2026/08/07/treasury-yields-steady-ahead-of-key-nonfarm-payrolls-jobless-data.html" },
+    { "name": "美 10년물", "value": "4.60%", "change": "-7bp, 7월 고용쇼크에 급락(8/7 기준)", "source": "https://news.einfomax.co.kr/news/articleView.html?idxno=4429252" },
     { "name": "국고채 3년물", "value": "3.746%", "change": "8/27 금통위 추가인상 경계 지속(8/7 기준)", "source": "https://news.einfomax.co.kr/news/articleView.html?idxno=4429207" },
     { "name": "달러인덱스(DXY)", "value": "99.76", "change": "고용쇼크에 달러 약세 압력", "source": "https://kr.investing.com/currencies/us-dollar-index" },
-    { "name": "원/달러", "value": "1,416.10", "change": "2025년 10월 이후 최저권 유지", "source": "https://news.einfomax.co.kr/news/articleView.html?idxno=4429206" },
+    { "name": "원/달러", "value": "1,416.10", "change": "이틀째 1,410원대, 2025년 10월 이후 최저권 유지", "source": "https://www.yna.co.kr/view/AKR20260807113100002" },
     { "name": "美 기준금리", "value": "3.50~3.75%", "change": "7/29 FOMC 동결, 9월 인상 확률 58%→42%로 급락", "source": "https://www.cnbc.com/2026/08/07/odds-the-fed-hikes-in-september-tumble-following-big-july-jobs-miss.html" },
     { "name": "한국 기준금리", "value": "2.75%", "change": "7/16 인상 후 유지, 8/27 금통위 추가 인상 가능성 거론", "source": "https://www.bok.or.kr/portal/bbs/P0000559/view.do?nttId=11062942" },
-    { "name": "美 CPI", "value": "3.5%", "change": "6월 발표치 유지(7월분 8/12 발표 예정)", "source": "https://www.bls.gov/opub/ted/2026/consumer-prices-up-3-5-percent-over-the-year-ended-june-2026.htm" },
+    { "name": "美 CPI", "value": "3.5%", "change": "6월 발표치(3.5%) 유지, 7월분은 8/12(수) 발표 예정", "source": "https://www.bls.gov/news.release/cpi.nr0.htm" },
     { "name": "韓 CPI", "value": "2.8%", "change": "3개월만에 2%대 복귀(7월)", "source": "https://en.sedaily.com/finance/2026/08/04/breaking-news-july-consumer-prices-rise-28-percent-return" },
-    { "name": "금(Gold)", "value": "4,350", "change": "+2.61%, 고용쇼크發 안전자산 수요·금리인상 기대 후퇴", "source": "https://tradingeconomics.com/commodity/gold" },
-    { "name": "WTI", "value": "83.0", "change": "호르무즈 통항금지 예비법안 검토, 지정학 프리미엄 지속", "source": "https://www.newspim.com/news/view/20260807000355" }
+    { "name": "금(Gold)", "value": "4,350", "change": "+2.61%(8/7 기준), 안전자산 수요 지속", "source": "https://tradingeconomics.com/commodity/gold" },
+    { "name": "WTI", "value": "83.0", "change": "호르무즈 협상 난항에 지정학 프리미엄 유지, 주간으로는 -7%", "source": "https://news.einfomax.co.kr/news/articleView.html?idxno=4429242" }
   ]
 }
