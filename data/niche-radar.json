@@ -1,8 +1,8 @@
 {
- "updatedAt": "2026-08-09T07:36:34+09:00",
+ "updatedAt": "2026-08-09T19:45:02+09:00",
  "note": "원본 헤드라인의 반복 언급을 탐지한 조사 후보이며 투자권유가 아니다. 동일 기사 재실행은 한 번만 집계하고, 순수 악재 반복과 모호한 회사명은 제외한다.",
  "window": 30,
- "corpusToday": 554,
+ "corpusToday": 754,
  "trackedCompanies": 530,
  "companies": [
   {
@@ -10,15 +10,19 @@
    "name": "CJ ENM",
    "market": "KOSDAQ",
    "cap": 7774,
-   "total": 8,
-   "recent": 8,
+   "total": 9,
+   "recent": 9,
    "activeDays": 3,
    "firstSeen": "2026-08-07",
    "lastSeen": "2026-08-09",
-   "score": 40.9,
-   "riskMentions": 0,
+   "score": 45.3,
+   "riskMentions": 1,
    "catalystMentions": 6,
    "samples": [
+    {
+     "date": "2026-08-09",
+     "title": "CJ ENM, 실적부진 끊어내고 반등"
+    },
     {
      "date": "2026-08-09",
      "title": "CJ ENM, KBO리그 독점 유무선 중계권 확보"
@@ -26,10 +30,6 @@
     {
      "date": "2026-08-08",
      "title": "카카오, 깜짝실적에도 목표주가 하향 \"AI 수익화 멀었다\"…CJ ENM, TV 광고 턴어라운드 '청신호' [株토피아]"
-    },
-    {
-     "date": "2026-08-08",
-     "title": "대신증권 \"CJ ENM, 효자 된 티빙 2분기 깜짝 흑자…내년 영업이익 60% 뛴다\""
     }
    ]
   },
@@ -566,34 +566,6 @@
    ]
   },
   {
-   "code": "054920",
-   "name": "한컴위드",
-   "market": "KOSDAQ",
-   "cap": 1124,
-   "total": 9,
-   "recent": 2,
-   "activeDays": 9,
-   "firstSeen": "2026-07-22",
-   "lastSeen": "2026-08-09",
-   "score": 23.3,
-   "riskMentions": 0,
-   "catalystMentions": 0,
-   "samples": [
-    {
-     "date": "2026-08-09",
-     "title": "[고래사냥] '블루엠텍, 아이씨티케이, 주성엔지니어링, 한컴위드!' 오늘 장 궁금종목 분석"
-    },
-    {
-     "date": "2026-08-07",
-     "title": "[고래사냥] '블루엠텍, 아이씨티케이, 주성엔지니어링, 한컴위드!' 오늘 장 궁금종목 분석"
-    },
-    {
-     "date": "2026-08-04",
-     "title": "[고래사냥] '블루엠텍, 아이씨티케이, 주성엔지니어링, 한컴위드!' 오늘 장 궁금종목 분석"
-    }
-   ]
-  },
-  {
    "code": "456010",
    "name": "아이씨티케이",
    "market": "KOSDAQ",
@@ -622,10 +594,38 @@
    ]
   },
   {
-   "code": "071280",
-   "name": "로체시스템즈",
+   "code": "054920",
+   "name": "한컴위드",
    "market": "KOSDAQ",
-   "cap": 907,
+   "cap": 1124,
+   "total": 9,
+   "recent": 2,
+   "activeDays": 9,
+   "firstSeen": "2026-07-22",
+   "lastSeen": "2026-08-09",
+   "score": 23.3,
+   "riskMentions": 0,
+   "catalystMentions": 0,
+   "samples": [
+    {
+     "date": "2026-08-09",
+     "title": "[고래사냥] '블루엠텍, 아이씨티케이, 주성엔지니어링, 한컴위드!' 오늘 장 궁금종목 분석"
+    },
+    {
+     "date": "2026-08-07",
+     "title": "[고래사냥] '블루엠텍, 아이씨티케이, 주성엔지니어링, 한컴위드!' 오늘 장 궁금종목 분석"
+    },
+    {
+     "date": "2026-08-04",
+     "title": "[고래사냥] '블루엠텍, 아이씨티케이, 주성엔지니어링, 한컴위드!' 오늘 장 궁금종목 분석"
+    }
+   ]
+  },
+  {
+   "code": "226590",
+   "name": "엠디바이스",
+   "market": "KOSDAQ",
+   "cap": 1222,
    "total": 9,
    "recent": 2,
    "activeDays": 9,
@@ -650,10 +650,10 @@
    ]
   },
   {
-   "code": "226590",
-   "name": "엠디바이스",
+   "code": "071280",
+   "name": "로체시스템즈",
    "market": "KOSDAQ",
-   "cap": 1222,
+   "cap": 907,
    "total": 9,
    "recent": 2,
    "activeDays": 9,

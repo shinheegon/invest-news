@@ -4,9 +4,45 @@
    "articles": [
     {
      "date": "2026-08-09",
+     "source": "한국경제·증권",
+     "title": "한달여만에 주가 반토막 난 SK하이닉스…향후 관찰 포인트는",
+     "link": "https://www.hankyung.com/article/202608071043i"
+    },
+    {
+     "date": "2026-08-09",
+     "source": "한국경제·경제",
+     "title": "SK하이닉스, 4조원대 中 충칭공장 지분 매각 검토",
+     "link": "https://www.hankyung.com/article/202608092701i"
+    },
+    {
+     "date": "2026-08-09",
+     "source": "연합인포맥스",
+     "title": "SK하이닉스 통합노조 신설 추진…&quot;성과급 약속 완벽 이행&quot;",
+     "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4429274"
+    },
+    {
+     "date": "2026-08-09",
+     "source": "연합인포맥스",
+     "title": "SK하이닉스 54조 시설투자…최태원 &quot;공급 늘려 가격 낮춰야&quot;",
+     "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4429287"
+    },
+    {
+     "date": "2026-08-09",
+     "source": "연합인포맥스",
+     "title": "&quot;SK하이닉스, 중국 충칭공장 지분 매각 검토&quot;",
+     "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4429275"
+    },
+    {
+     "date": "2026-08-09",
      "source": "연합뉴스·경제",
      "title": "SK하이닉스 통합노조 신설 추진…구성원간 성과급 불만 확산",
      "link": "https://www.yna.co.kr/view/AKR20260807147900003"
+    },
+    {
+     "date": "2026-08-09",
+     "source": "연합뉴스·경제",
+     "title": "SK하이닉스 영업비밀 中회사에 유출…前직원 2심도 징역1년6개월",
+     "link": "https://www.yna.co.kr/view/AKR20260807152300004"
     },
     {
      "date": "2026-08-08",
@@ -685,47 +721,35 @@
      "source": "연합뉴스·경제",
      "title": "최태원, \"SK하이닉스 주식, 샀다 팔았다 말고 갖고 있으면 돼\"",
      "link": "https://www.yna.co.kr/view/AKR20260717026000003"
-    },
-    {
-     "date": "2026-07-16",
-     "source": "한국경제·증권",
-     "title": "[속보] SK하이닉스, 프리마켓서 7.9% 하락…삼전도 6.4%↓",
-     "link": "https://www.hankyung.com/article/2026071682107"
-    },
-    {
-     "date": "2026-07-16",
-     "source": "한국경제·경제",
-     "title": "\"믿을 수 없을 정도\"…일본서 'SK하이닉스' 샤라웃한 젠슨황",
-     "link": "https://www.hankyung.com/article/2026071578557"
-    },
-    {
-     "date": "2026-07-16",
-     "source": "연합뉴스·경제",
-     "title": "노동부, 청년 일경험 민관협의회…삼성전자·SK하이닉스 등 참여",
-     "link": "https://www.yna.co.kr/view/AKR20260716064800530"
-    },
-    {
-     "date": "2026-07-16",
-     "source": "아시아경제",
-     "title": "SG, '1500조 반도체 메가프로젝트' 온다…SK하이닉스향 단독 공급 부각",
-     "link": "https://view.asiae.co.kr/article/2026071608324768378"
-    },
-    {
-     "date": "2026-07-15",
-     "source": "한국경제·증권",
-     "title": "서동주 \"SK하이닉스 259층에 물려\"…전문가 조언 들어보니",
-     "link": "https://www.hankyung.com/article/202607144621H"
-    },
-    {
-     "date": "2026-07-15",
-     "source": "한국경제·증권",
-     "title": "삼성전자는 사고, SK하이닉스는 팔고…엇갈린 초고수의 선택",
-     "link": "https://www.hankyung.com/article/202607156343i"
     }
    ]
   },
   "삼성전자(005930)": {
    "articles": [
+    {
+     "date": "2026-08-09",
+     "source": "한국경제·증권",
+     "title": "고액자산가의 선택은 삼성전자...874억원 쓸어담아",
+     "link": "https://www.hankyung.com/article/202608092440i"
+    },
+    {
+     "date": "2026-08-09",
+     "source": "한국경제·경제",
+     "title": "삼성전자, 美 국립연구소와 '차세대 난방 기술' 협력",
+     "link": "https://www.hankyung.com/article/2026080927961"
+    },
+    {
+     "date": "2026-08-09",
+     "source": "연합인포맥스",
+     "title": "삼성전자, 미국 에너지부 국립연구소와 차세대 난방 기술 개발",
+     "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4429276"
+    },
+    {
+     "date": "2026-08-09",
+     "source": "연합뉴스·경제",
+     "title": "삼성전자, 미국 에너지부 국립연구소와 차세대 난방기술 개발협력",
+     "link": "https://www.yna.co.kr/view/AKR20260809013000003"
+    },
     {
      "date": "2026-08-07",
      "source": "연합뉴스·경제",
@@ -1421,30 +1445,6 @@
      "source": "한국경제·증권",
      "title": "[포토] '국민주' 삼성전자·SK하이닉스 휘청…코스피 7200선 간신히 사수",
      "link": "https://www.hankyung.com/article/202607083755i"
-    },
-    {
-     "date": "2026-07-09",
-     "source": "한국경제·경제",
-     "title": "㈜믿는구석, 삼성전자 기술나눔으로 썸네일 특허 확보",
-     "link": "https://www.hankyung.com/article/202607094420i"
-    },
-    {
-     "date": "2026-07-09",
-     "source": "한국경제·경제",
-     "title": "[단독] 삼성전자, PC용 AI칩 출사표…엔비디아·퀄컴과 '맞짱'",
-     "link": "https://www.hankyung.com/article/2026070963411"
-    },
-    {
-     "date": "2026-07-09",
-     "source": "파이낸셜뉴스",
-     "title": "100대 기업 경제기여액 1731조 육박…1위는 삼성전자 '177조'",
-     "link": "https://www.fnnews.com/news/202607080831044840"
-    },
-    {
-     "date": "2026-07-09",
-     "source": "연합뉴스·경제",
-     "title": "[특징주] 삼성전자, 6.3% 급락 마감…SK하이닉스도 5.7%↓(종합)",
-     "link": "https://www.yna.co.kr/view/AKR20260708047251008"
     }
    ]
   },
@@ -2605,6 +2605,12 @@
   "두산(000150)": {
    "articles": [
     {
+     "date": "2026-08-09",
+     "source": "한국경제·경제",
+     "title": "두산 구조조정 돕고 中企 승계 문제도 해결…성공적 협력 사례 많아",
+     "link": "https://www.hankyung.com/article/2026080928731"
+    },
+    {
      "date": "2026-08-05",
      "source": "아시아경제",
      "title": "\"두산, SK실트론 인수로 핵심 수익 기반 다져…목표가↑\"[클릭 e종목]",
@@ -2916,6 +2922,12 @@
   },
   "기아(000270)": {
    "articles": [
+    {
+     "date": "2026-08-09",
+     "source": "한국경제·경제",
+     "title": "천만이 감동한 기아 'PV5 WAV' 영상",
+     "link": "https://www.hankyung.com/article/2026080928181"
+    },
     {
      "date": "2026-08-07",
      "source": "한국경제·경제",
@@ -10427,6 +10439,12 @@
   "테슬라(TSLA)": {
    "articles": [
     {
+     "date": "2026-08-09",
+     "source": "아시아경제",
+     "title": "\"중국에서만 잘나가는 차 아니었어?\"…유럽서 테슬라까지 제친 BYD[주末머니]",
+     "link": "https://view.asiae.co.kr/article/2026080617150855561"
+    },
+    {
      "date": "2026-08-08",
      "source": "연합인포맥스",
      "title": "5년 앞선 테슬라 기술력 현대·기아차는 어디쯤…",
@@ -11997,6 +12015,12 @@
   "심텍(222800)": {
    "articles": [
     {
+     "date": "2026-08-09",
+     "source": "한국경제·증권",
+     "title": "HD현대·심텍, 실적 눈높이 '쑥'...영업이익 전망 20% 올라가",
+     "link": "https://www.hankyung.com/article/202608092592i"
+    },
+    {
      "date": "2026-07-10",
      "source": "한국경제·증권",
      "title": "소캠 타고 질주하는 심텍... 3개월 새 84% 급등",
@@ -12382,6 +12406,12 @@
   },
   "에이피알(278470)": {
    "articles": [
+    {
+     "date": "2026-08-09",
+     "source": "한국경제·증권",
+     "title": "에이피알 '메디큐브' 검색량 역대 최고",
+     "link": "https://www.hankyung.com/article/2026080928781"
+    },
     {
      "date": "2026-08-07",
      "source": "파이낸셜·증권",
@@ -13257,6 +13287,12 @@
   "HD현대(267250)": {
    "articles": [
     {
+     "date": "2026-08-09",
+     "source": "한국경제·증권",
+     "title": "HD현대·심텍, 실적 눈높이 '쑥'...영업이익 전망 20% 올라가",
+     "link": "https://www.hankyung.com/article/202608092592i"
+    },
+    {
      "date": "2026-08-04",
      "source": "한국경제·경제",
      "title": "정기선, HD현대 2대주주 됐다",
@@ -13460,6 +13496,12 @@
   },
   "삼성SDI(006400)": {
    "articles": [
+    {
+     "date": "2026-08-09",
+     "source": "한국경제·증권",
+     "title": "삼성SDI·에쓰오일…반도체 밖으로 번지는 실적 훈풍",
+     "link": "https://www.hankyung.com/article/2026080928631"
+    },
     {
      "date": "2026-08-07",
      "source": "한국경제·증권",
@@ -14144,6 +14186,12 @@
   },
   "롯데쇼핑(023530)": {
    "articles": [
+    {
+     "date": "2026-08-09",
+     "source": "한국경제·경제",
+     "title": "'PBR 0.2배' 하이마트·이마트·롯데쇼핑…'주가 누르기' 기업일가?",
+     "link": "https://www.hankyung.com/article/202608067949i"
+    },
     {
      "date": "2026-08-07",
      "source": "한국경제·증권",
@@ -15615,6 +15663,12 @@
   "BYD(1211.HK)": {
    "articles": [
     {
+     "date": "2026-08-09",
+     "source": "아시아경제",
+     "title": "\"중국에서만 잘나가는 차 아니었어?\"…유럽서 테슬라까지 제친 BYD[주末머니]",
+     "link": "https://view.asiae.co.kr/article/2026080617150855561"
+    },
+    {
      "date": "2026-07-24",
      "source": "한국경제·경제",
      "title": "고율 관세에도…中 BYD, 유럽서 테슬라 추월",
@@ -16000,6 +16054,12 @@
   },
   "에쓰오일(010950)": {
    "articles": [
+    {
+     "date": "2026-08-09",
+     "source": "한국경제·증권",
+     "title": "삼성SDI·에쓰오일…반도체 밖으로 번지는 실적 훈풍",
+     "link": "https://www.hankyung.com/article/2026080928631"
+    },
     {
      "date": "2026-08-04",
      "source": "한국경제·경제",
@@ -19065,6 +19125,12 @@
   "이마트(139480)": {
    "articles": [
     {
+     "date": "2026-08-09",
+     "source": "한국경제·경제",
+     "title": "'PBR 0.2배' 하이마트·이마트·롯데쇼핑…'주가 누르기' 기업일가?",
+     "link": "https://www.hankyung.com/article/202608067949i"
+    },
+    {
      "date": "2026-07-31",
      "source": "아시아경제",
      "title": "\"이마트, 홈플러스 반사수혜…스벅·쓱닷컴·건설은 부담\"[클릭 e종목]",
@@ -19368,6 +19434,12 @@
   },
   "홈플러스": {
    "articles": [
+    {
+     "date": "2026-08-09",
+     "source": "뉴시스·경제",
+     "title": "홈플러스 사태에 2분기 대형마트 판매 9.4%↓…역대 최대폭",
+     "link": "https://www.newsis.com/view/NISX20260809_0003741887"
+    },
     {
      "date": "2026-08-07",
      "source": "한국경제·경제",
@@ -21263,6 +21335,12 @@
   "모건스탠리(MS)": {
    "articles": [
     {
+     "date": "2026-08-09",
+     "source": "한국경제·증권",
+     "title": "'반도체 저승사자' 모건스탠리 연구원 \"삼전닉스 살 때 됐다\"",
+     "link": "https://www.hankyung.com/article/202608092555i"
+    },
+    {
      "date": "2026-08-05",
      "source": "파이낸셜·증권",
      "title": "모건스탠리, 올해 韓성장률 3.4%로 상향",
@@ -22857,6 +22935,12 @@
   "넷마블(251270)": {
    "articles": [
     {
+     "date": "2026-08-09",
+     "source": "아시아경제",
+     "title": "돈은 벌기 시작했는데…넷마블 주가가 못 웃는 이유[주末머니]",
+     "link": "https://view.asiae.co.kr/article/2026080710560423297"
+    },
+    {
      "date": "2026-08-07",
      "source": "연합뉴스·경제",
      "title": "신한투자 \"넷마블, 대형작 성과 부진·신작 지연…목표가↓\"",
@@ -22942,6 +23026,12 @@
   },
   "CJ ENM(035760)": {
    "articles": [
+    {
+     "date": "2026-08-09",
+     "source": "파이낸셜·증권",
+     "title": "CJ ENM, 실적부진 끊어내고 반등",
+     "link": "https://www.fnnews.com/news/202608091816507686"
+    },
     {
      "date": "2026-08-07",
      "source": "파이낸셜·증권",
@@ -23149,7 +23239,37 @@
      "link": "https://www.yna.co.kr/view/AKR20260807118000030"
     }
    ]
+  },
+  "LG(003550)": {
+   "articles": [
+    {
+     "date": "2026-08-09",
+     "source": "한국경제·경제",
+     "title": "[포토] 美 다저스 구장에 뜬 'LG 초대형 전광판'",
+     "link": "https://www.hankyung.com/article/2026080927951"
+    }
+   ]
+  },
+  "센서뷰(321370)": {
+   "articles": [
+    {
+     "date": "2026-08-09",
+     "source": "아시아경제",
+     "title": "센서뷰, 방산혁신기업 지원사업 최종 선정",
+     "link": "https://view.asiae.co.kr/article/2026080710151691583"
+    }
+   ]
+  },
+  "LS ELECTRIC(010120)": {
+   "articles": [
+    {
+     "date": "2026-08-09",
+     "source": "아시아경제",
+     "title": "에스트래픽, LS ELECTRIC 철도신호 사업 인수 계약 체결",
+     "link": "https://view.asiae.co.kr/article/2026080708192126325"
+    }
+   ]
   }
  },
- "updatedAt": "2026-08-09T07:35:57+09:00"
+ "updatedAt": "2026-08-09T19:44:24+09:00"
 }
