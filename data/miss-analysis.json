@@ -1,19 +1,19 @@
 {
- "updatedAt": "2026-08-10T08:03:28+09:00",
+ "updatedAt": "2026-08-10T20:47:17+09:00",
  "note": "빗나감 자동 원인분류 + 자기발전 필터. 투자권유 아님.",
  "summary": {
-  "resolved": 157,
-  "miss": 79,
+  "resolved": 161,
+  "miss": 81,
   "missRate": 50.3,
   "preventable": 41,
-  "preventableShare": 51.9
+  "preventableShare": 50.6
  },
  "byCause": [
   {
    "cause": "weak_signal",
    "label": "신호 약함(구체 촉발재 없음)",
    "n": 40,
-   "share": 50.6,
+   "share": 49.4,
    "avgExcess": -4.68,
    "preventable": true,
    "examples": [
@@ -51,9 +51,9 @@
   {
    "cause": "idiosyncratic",
    "label": "개별 악재(불가피)",
-   "n": 23,
-   "share": 29.1,
-   "avgExcess": -4.46,
+   "n": 25,
+   "share": 30.9,
+   "avgExcess": -4.88,
    "preventable": false,
    "examples": [
     {
@@ -71,10 +71,10 @@
      "tags": []
     },
     {
-     "name": "대동기어(008830)",
-     "flagDate": "2026-07-11",
-     "excessPct": -9.73,
-     "theme": "로봇/휴머노이드",
+     "name": "웰크론한텍(076080)",
+     "flagDate": "2026-08-05",
+     "excessPct": -9.74,
+     "theme": "기타",
      "tags": []
     }
    ]
@@ -83,7 +83,7 @@
    "cause": "macro_riskoff",
    "label": "거시 위험회피(시장 동반 급락)",
    "n": 15,
-   "share": 19.0,
+   "share": 18.5,
    "avgExcess": -3.74,
    "preventable": false,
    "examples": [
@@ -120,7 +120,7 @@
    "cause": "theme_headwind",
    "label": "열세 테마(자금 이탈)",
    "n": 1,
-   "share": 1.3,
+   "share": 1.2,
    "avgExcess": -99.23,
    "preventable": true,
    "examples": [
@@ -139,7 +139,7 @@
  "learnedFilter": {
   "themeMissRate": {
    "로봇/휴머노이드": 48.9,
-   "기타": 36.8,
+   "기타": 38.1,
    "바이오/의료": 100.0,
    "반도체소재/장비": 62.5,
    "신재생에너지": 80.0,
@@ -149,8 +149,8 @@
    "AI반도체설계(팹리스/IP)": 47.8
   },
   "signalMissRate": {
-   "weak": 49.4,
-   "concrete": 51.3
+   "weak": 48.8,
+   "concrete": 51.9
   },
   "rules": [
    "'바이오/의료' 테마는 빗나감률 100.0% — 강한 회피(구체촉발재+승세 아니면 제외).",
@@ -161,10 +161,10 @@
  },
  "macro": {
   "regime": "위험회피",
-  "kospi5d": -5.15,
-  "kosdaq5d": -0.1,
+  "kospi5d": -4.53,
+  "kosdaq5d": 6.86,
   "fearGreed": 64.0,
-  "vix": 15.81,
+  "vix": 15.3,
   "guidance": "소형주 언더퍼폼 국면 — 포착 수를 줄이고 승세테마×구체촉발재만 최고확신으로. 열세테마·약신호 전면 배제.",
   "asOf": "2026-08-10"
  },
@@ -479,13 +479,13 @@
   },
   {
    "date": "2026-08-10",
-   "resolved": 157,
+   "resolved": 161,
    "missRate": 50.3,
    "causeShares": {
-    "weak_signal": 50.6,
-    "idiosyncratic": 29.1,
-    "macro_riskoff": 19.0,
-    "theme_headwind": 1.3
+    "weak_signal": 49.4,
+    "idiosyncratic": 30.9,
+    "macro_riskoff": 18.5,
+    "theme_headwind": 1.2
    }
   }
  ],
