@@ -3,6 +3,18 @@
   "SK하이닉스(000660)": {
    "articles": [
     {
+     "date": "2026-08-11",
+     "source": "연합뉴스·경제",
+     "title": "급등장에 SK하이닉스 담보대출 1년새 438%↑…40대 이하서 쑥",
+     "link": "https://www.yna.co.kr/view/AKR20260810142600002"
+    },
+    {
+     "date": "2026-08-11",
+     "source": "뉴시스·경제",
+     "title": "\"주가 하락은 오히려 기회\"…美 매체가 주목한 SK하이닉스",
+     "link": "https://www.newsis.com/view/NISX20260810_0003742857"
+    },
+    {
      "date": "2026-08-10",
      "source": "한국경제·증권",
      "title": "삼성전자 팔고 SK하이닉스 매수…1% 초고수의 선택은",
@@ -709,18 +721,6 @@
      "source": "한국경제·증권",
      "title": "환율, 왜 갑자기 떨어졌나 봤더니…SK하이닉스 효과였다 [분석+]",
      "link": "https://www.hankyung.com/article/2026072051156"
-    },
-    {
-     "date": "2026-07-21",
-     "source": "한국경제·증권",
-     "title": "삼성전자 대신 SK하이닉스·SK스퀘어…초고수가 갈아탄 이유",
-     "link": "https://www.hankyung.com/article/202607216408i"
-    },
-    {
-     "date": "2026-07-20",
-     "source": "한국경제·증권",
-     "title": "초고수들은 기판·전력株에 베팅…SK하이닉스는 순매도 나서",
-     "link": "https://www.hankyung.com/article/202607204003i"
     }
    ]
   },
@@ -2236,6 +2236,12 @@
   },
   "애플(AAPL)": {
    "articles": [
+    {
+     "date": "2026-08-11",
+     "source": "한국경제·경제",
+     "title": "제프리스 \"애플, 올글래스폰 출시 취소… 매도하라\"",
+     "link": "https://www.hankyung.com/article/202608105342i"
+    },
     {
      "date": "2026-08-10",
      "source": "뉴시스·경제",
@@ -4072,6 +4078,24 @@
   },
   "인텔(INTC)": {
    "articles": [
+    {
+     "date": "2026-08-11",
+     "source": "한국경제·증권",
+     "title": "늘어나는 AI 컴퓨팅 수요에…인텔, 150억달러 유증 '승부수'",
+     "link": "https://www.hankyung.com/article/2026081053291"
+    },
+    {
+     "date": "2026-08-11",
+     "source": "한국경제·경제",
+     "title": "인텔, 150억달러 규모 보통주 발행…투자 자금 조달 목적",
+     "link": "https://www.hankyung.com/article/202608105318i"
+    },
+    {
+     "date": "2026-08-11",
+     "source": "연합인포맥스",
+     "title": "인텔, AI 컴퓨팅 수요 위해 150억 달러 규모 유상증자",
+     "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4429445"
+    },
     {
      "date": "2026-08-07",
      "source": "연합인포맥스",
@@ -14231,6 +14255,12 @@
   "파마리서치(214450)": {
    "articles": [
     {
+     "date": "2026-08-11",
+     "source": "한국경제·증권",
+     "title": "'연어주사' 수출 호조에 파마리서치 강세…목표가도 줄상향 [종목+]",
+     "link": "https://www.hankyung.com/article/2026081047396"
+    },
+    {
      "date": "2026-07-16",
      "source": "한국경제·증권",
      "title": "'인바운드보다 수출'...파마리서치 \"화장품 수출 118% 증가 전망\"",
@@ -16876,6 +16906,12 @@
   },
   "마이크로소프트(MSFT)": {
    "articles": [
+    {
+     "date": "2026-08-11",
+     "source": "한국경제·경제",
+     "title": "\"마이크로소프트, 올가을 새로운 자체칩 공개\"",
+     "link": "https://www.hankyung.com/article/202608115353i"
+    },
     {
      "date": "2026-07-31",
      "source": "연합인포맥스",
@@ -21575,6 +21611,12 @@
   "SpaceX": {
    "articles": [
     {
+     "date": "2026-08-11",
+     "source": "MarketWatch",
+     "title": "SpaceX’s stock moves above its IPO price for the first time in almost a month",
+     "link": "https://www.marketwatch.com/story/spacexs-stock-moves-above-its-ipo-price-for-the-first-time-in-almost-a-month-fc3f91b7?mod=mw_rss_topstories"
+    },
+    {
      "date": "2026-08-10",
      "source": "MarketWatch",
      "title": "These analysts say Elon Musk’s ambitious AI plans for SpaceX should be taken seriously, thanks to Microsoft",
@@ -23939,7 +23981,99 @@
      "link": "https://view.asiae.co.kr/article/2026081010262545992"
     }
    ]
+  },
+  "동서발전": {
+   "articles": [
+    {
+     "date": "2026-08-11",
+     "source": "연합뉴스·경제",
+     "title": "동서발전·로아스, 로봇 기반 AI 기술개발·실증 협력 협약",
+     "link": "https://www.yna.co.kr/view/AKR20260810116900057"
+    }
+   ]
+  },
+  "로아스": {
+   "articles": [
+    {
+     "date": "2026-08-11",
+     "source": "연합뉴스·경제",
+     "title": "동서발전·로아스, 로봇 기반 AI 기술개발·실증 협력 협약",
+     "link": "https://www.yna.co.kr/view/AKR20260810116900057"
+    }
+   ]
+  },
+  "딥노이드(315640)": {
+   "articles": [
+    {
+     "date": "2026-08-11",
+     "source": "파이낸셜·증권",
+     "title": "딥노이드, 공동창업자 지분 5.41% 우호투자자에 매각 \"오버행 해소\"",
+     "link": "https://www.fnnews.com/news/202608101059141975"
+    },
+    {
+     "date": "2026-08-11",
+     "source": "연합뉴스·경제",
+     "title": "딥노이드, '공동창업자 잔여 지분' 우호 투자자에 매각",
+     "link": "https://www.yna.co.kr/view/AKR20260810058800017"
+    }
+   ]
+  },
+  "카카오페이증권": {
+   "articles": [
+    {
+     "date": "2026-08-11",
+     "source": "파이낸셜·증권",
+     "title": "카카오페이증권, 국내주식 소수점 거래 시작...\"1000원부터 투자\"",
+     "link": "https://www.fnnews.com/news/202608101045251468"
+    },
+    {
+     "date": "2026-08-11",
+     "source": "연합뉴스·경제",
+     "title": "카카오페이증권, 삼전·닉스 소수점거래 서비스 개시",
+     "link": "https://www.yna.co.kr/view/AKR20260810051600008"
+    }
+   ]
+  },
+  "오늘이엔엠": {
+   "articles": [
+    {
+     "date": "2026-08-11",
+     "source": "파이낸셜·증권",
+     "title": "오늘이엔엠, KT에서 74억 안테나 수주 \"연매출 44% 규모 일감 확보\"",
+     "link": "https://www.fnnews.com/news/202608101139120894"
+    }
+   ]
+  },
+  "비츠로시스": {
+   "articles": [
+    {
+     "date": "2026-08-11",
+     "source": "파이낸셜·증권",
+     "title": "비츠로시스 子, 인니 통신사와 30억 독점 공급 계약 \"AI 데이터센터 공략\"",
+     "link": "https://www.fnnews.com/news/202608101432335923"
+    }
+   ]
+  },
+  "크라우드스트라이크(CRWD)": {
+   "articles": [
+    {
+     "date": "2026-08-11",
+     "source": "연합인포맥스",
+     "title": "AI 해커 경고…크라우드스트라이크·팔로알토, 블랙햇 콘퍼런스 후 신고가",
+     "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4429465"
+    }
+   ]
+  },
+  "팔로알토(PANW)": {
+   "articles": [
+    {
+     "date": "2026-08-11",
+     "source": "연합인포맥스",
+     "title": "AI 해커 경고…크라우드스트라이크·팔로알토, 블랙햇 콘퍼런스 후 신고가",
+     "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4429465"
+    }
+   ]
   }
  },
- "updatedAt": "2026-08-10T20:15:39+09:00"
+ "updatedAt": "2026-08-11T07:45:14+09:00"
 }
