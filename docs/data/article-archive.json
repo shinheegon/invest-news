@@ -3,6 +3,24 @@
   "SK하이닉스(000660)": {
    "articles": [
     {
+     "date": "2026-08-12",
+     "source": "한국경제·경제",
+     "title": "SK하이닉스, 키옥시아 최대 주주로 부상",
+     "link": "https://www.hankyung.com/article/202608115237i"
+    },
+    {
+     "date": "2026-08-12",
+     "source": "연합인포맥스",
+     "title": "SK하이닉스 ADR, 5일만에 반등…엔비디아發 인프라 투자 기대 속 유가↓",
+     "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4429640"
+    },
+    {
+     "date": "2026-08-12",
+     "source": "아시아경제",
+     "title": "지금 줍는게 맞다?…\"SK하이닉스, 40조 '통 큰 주주환원' 기대\"[클릭e종목]",
+     "link": "https://view.asiae.co.kr/article/2026081115252275354"
+    },
+    {
      "date": "2026-08-11",
      "source": "한국경제·증권",
      "title": "다시 불거진 AI 순환금융 논란…엔비디아-월가 '710조 동맹'에 SK하이닉스 '흔들'",
@@ -703,29 +721,23 @@
      "source": "한국경제·경제",
      "title": "\"최태원, 노소영에 현금 9440억 줘라\"…SK하이닉스 주가 영향은",
      "link": "https://www.hankyung.com/article/202607244508H"
-    },
-    {
-     "date": "2026-07-24",
-     "source": "연합뉴스·경제",
-     "title": "[특징주] 삼성전자·SK하이닉스, 장 초반 4∼5% 하락",
-     "link": "https://www.yna.co.kr/view/AKR20260724046100008"
-    },
-    {
-     "date": "2026-07-24",
-     "source": "아시아경제",
-     "title": "유니테스트, SK하이닉스에 227억 규모 반도체 검사장비 공급계약",
-     "link": "https://view.asiae.co.kr/article/2026072313563463169"
-    },
-    {
-     "date": "2026-07-24",
-     "source": "imnews.imbc.com",
-     "title": "- SK하이닉스(000660): 삼성에 이어 역대급 실적 발표, HBM 주도권을 이어가며 차세대 개선판 2027년 양산 목표로 개발 중. TSMC·한미반도체 등 ",
-     "link": "https://imnews.imbc.com/replay/2026/nwdesk/article/6817558_37004.html"
     }
    ]
   },
   "삼성전자(005930)": {
    "articles": [
+    {
+     "date": "2026-08-12",
+     "source": "한국경제·증권",
+     "title": "\"35만원\" vs \"60만원\"…삼성전자 두고 증권가 '극과 극' 전망",
+     "link": "https://www.hankyung.com/article/2026081146746"
+    },
+    {
+     "date": "2026-08-12",
+     "source": "한국경제·경제",
+     "title": "삼성전자 8000억 풀자 난리 났다…뜻밖의 '대박' 터진 곳",
+     "link": "https://www.hankyung.com/article/2026081150471"
+    },
     {
      "date": "2026-08-11",
      "source": "한국경제·증권",
@@ -1433,18 +1445,6 @@
      "source": "한국경제·경제",
      "title": "삼성전자 노조 \"호남 반도체도 교섭 대상\"",
      "link": "https://www.hankyung.com/article/2026071325161"
-    },
-    {
-     "date": "2026-07-14",
-     "source": "연합뉴스·경제",
-     "title": "삼성전자, 사내 주택자금 대출 면적제한 지역서 광주 제외 방침",
-     "link": "https://www.yna.co.kr/view/AKR20260714102100003"
-    },
-    {
-     "date": "2026-07-14",
-     "source": "연합뉴스·경제",
-     "title": "[특징주] 삼성전자 장 초반 1%대 상승…하닉은 0.27%↓",
-     "link": "https://www.yna.co.kr/view/AKR20260714045900008"
     }
    ]
   },
@@ -3594,6 +3594,24 @@
   },
   "엔비디아(NVDA)": {
    "articles": [
+    {
+     "date": "2026-08-12",
+     "source": "한국경제·경제",
+     "title": "엔비디아 \"GPU칩을 담보가치 있는 자산으로\"…월가와 710조원 조성",
+     "link": "https://www.hankyung.com/article/202608115217i"
+    },
+    {
+     "date": "2026-08-12",
+     "source": "한국경제·경제",
+     "title": "\"엔비디아, 최고 수준의 오픈소스 모델 겨냥한 AI모델 개발중\"",
+     "link": "https://www.hankyung.com/article/202608125376i"
+    },
+    {
+     "date": "2026-08-12",
+     "source": "연합인포맥스",
+     "title": "엔비디아, 칩 넘어 'AI 금융'까지 손대는 이유는",
+     "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4429655"
+    },
     {
      "date": "2026-08-11",
      "source": "한국경제·증권",
@@ -6987,6 +7005,12 @@
   "KT&G(033780)": {
    "articles": [
     {
+     "date": "2026-08-12",
+     "source": "아시아경제",
+     "title": "해외서 '대박' 터진 KT&G의 반전…\"주당 배당금 7600원\" 벌어서 나눠준다[이주의 관.종]",
+     "link": "https://view.asiae.co.kr/article/2026081110180346562"
+    },
+    {
      "date": "2026-08-07",
      "source": "한국경제·증권",
      "title": "'국가대표 배당주' KT&G…“연내 공개될 중장기 주주환원책 주목”",
@@ -8024,6 +8048,12 @@
   },
   "KT(030200)": {
    "articles": [
+    {
+     "date": "2026-08-12",
+     "source": "아시아경제",
+     "title": "해외서 '대박' 터진 KT&G의 반전…\"주당 배당금 7600원\" 벌어서 나눠준다[이주의 관.종]",
+     "link": "https://view.asiae.co.kr/article/2026081110180346562"
+    },
     {
      "date": "2026-08-10",
      "source": "한국경제·증권",
@@ -14493,6 +14523,12 @@
   "CJ제일제당(097950)": {
    "articles": [
     {
+     "date": "2026-08-12",
+     "source": "아시아경제",
+     "title": "CJ제일제당, 바이오 깜짝 실적…목표가는 하향 [클릭e종목]",
+     "link": "https://view.asiae.co.kr/article/2026081117143080712"
+    },
+    {
      "date": "2026-08-11",
      "source": "한국경제·증권",
      "title": "CJ제일제당, 장 초반 급락…2분기 실적 예상치 밑돌아",
@@ -16887,6 +16923,18 @@
   "쿠팡(CPNG)": {
    "articles": [
     {
+     "date": "2026-08-12",
+     "source": "연합인포맥스",
+     "title": "주병기 &quot;쿠팡 차별 제재 안해…상위 20% 가맹본부 점주 협상 대상&quot;",
+     "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4429635"
+    },
+    {
+     "date": "2026-08-12",
+     "source": "연합뉴스·경제",
+     "title": "주병기 \"쿠팡 차별 안 해…미국 경쟁 당국과 상시 정보 교류\"",
+     "link": "https://www.yna.co.kr/view/AKR20260811164000002"
+    },
+    {
      "date": "2026-08-11",
      "source": "한국경제·경제",
      "title": "\"탈팡 한다더니\"…쿠팡 결제액 4.2조, 사상 최대 찍었다",
@@ -17674,6 +17722,12 @@
   },
   "대상(001680)": {
    "articles": [
+    {
+     "date": "2026-08-12",
+     "source": "연합인포맥스",
+     "title": "주병기 &quot;쿠팡 차별 제재 안해…상위 20% 가맹본부 점주 협상 대상&quot;",
+     "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4429635"
+    },
     {
      "date": "2026-08-11",
      "source": "연합뉴스·경제",
@@ -22609,6 +22663,12 @@
   "슈퍼마이크로(SMCI)": {
    "articles": [
     {
+     "date": "2026-08-12",
+     "source": "연합인포맥스",
+     "title": "슈퍼마이크로, 호실적·'낙관적 가이던스'에 시간외 5% 급등",
+     "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4429660"
+    },
+    {
      "date": "2026-07-22",
      "source": "한국경제·증권",
      "title": "슈퍼마이크로, 마진 전망 두 배로 높였다…시간외 20% 급등",
@@ -24627,7 +24687,37 @@
      "link": "https://view.asiae.co.kr/article/2026081113440216701"
     }
    ]
+  },
+  "SFA(056190)": {
+   "articles": [
+    {
+     "date": "2026-08-12",
+     "source": "한국경제·경제",
+     "title": "SFA, 미국 LS전선에 해저케이블 제조장비 출하",
+     "link": "https://www.hankyung.com/article/202608114863i"
+    }
+   ]
+  },
+  "비에이치(090460)": {
+   "articles": [
+    {
+     "date": "2026-08-12",
+     "source": "한국경제·증권",
+     "title": "비에이치, 삼성전자 휴머노이드 로봇 공급망 진입 기대에 17% 급등",
+     "link": "https://www.hankyung.com/article/202608114376i"
+    }
+   ]
+  },
+  "니어스랩": {
+   "articles": [
+    {
+     "date": "2026-08-12",
+     "source": "아시아경제",
+     "title": "니어스랩, 공모가 상단 4만1200원…기관 경쟁률 743.5 대 1",
+     "link": "https://view.asiae.co.kr/article/2026081110385657573"
+    }
+   ]
   }
  },
- "updatedAt": "2026-08-11T19:58:24+09:00"
+ "updatedAt": "2026-08-12T07:51:34+09:00"
 }
