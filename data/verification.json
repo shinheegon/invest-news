@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-08-11T08:20:30+09:00",
+ "updatedAt": "2026-08-11T20:33:37+09:00",
  "cases": [
   {
    "name": "오이솔루션(138080)",
@@ -12,7 +12,18 @@
    ],
    "theme": "광통신부품",
    "status": "pending",
-   "checks": [],
+   "checks": [
+    {
+     "horizon": "D+3",
+     "date": "2026-08-11",
+     "price": 25350,
+     "changePct": 0.8,
+     "indexPct": 7.01,
+     "excessPct": -6.21,
+     "index": "KOSDAQ",
+     "verdict": "적중"
+    }
+   ],
    "flagPrice": 25150,
    "priceLog": [
     {
@@ -31,7 +42,8 @@
      "date": "2026-08-11",
      "price": 27800
     }
-   ]
+   ],
+   "finalVerdict": "적중"
   },
   {
    "name": "LG이노텍(011070)",
@@ -44,7 +56,18 @@
    ],
    "theme": "전장부품",
    "status": "pending",
-   "checks": [],
+   "checks": [
+    {
+     "horizon": "D+3",
+     "date": "2026-08-11",
+     "price": 549000,
+     "changePct": -8.65,
+     "indexPct": 0.78,
+     "excessPct": -9.43,
+     "index": "KOSPI",
+     "verdict": "적중"
+    }
+   ],
    "flagPrice": 601000,
    "priceLog": [
     {
@@ -63,7 +86,8 @@
      "date": "2026-08-11",
      "price": 555000
     }
-   ]
+   ],
+   "finalVerdict": "적중"
   },
   {
    "name": "대한광통신(010170)",
@@ -24665,7 +24689,7 @@
     "조기단계D-14"
    ],
    "theme": "로봇/휴머노이드",
-   "status": "pending",
+   "status": "verified",
    "checks": [
     {
      "horizon": "D+3",
@@ -24676,6 +24700,16 @@
      "excessPct": 3.9,
      "index": "KOSDAQ",
      "verdict": "중립"
+    },
+    {
+     "horizon": "D+7",
+     "date": "2026-08-11",
+     "price": 6200,
+     "changePct": 17.65,
+     "indexPct": 19.18,
+     "excessPct": -1.54,
+     "index": "KOSDAQ",
+     "verdict": "빗나감"
     }
    ],
    "flagPrice": 5270,
@@ -24734,7 +24768,7 @@
     "이미반영(후발)"
    ],
    "theme": "로봇/휴머노이드",
-   "status": "pending",
+   "status": "verified",
    "checks": [
     {
      "horizon": "D+3",
@@ -24743,6 +24777,16 @@
      "changePct": 18.51,
      "indexPct": 0.04,
      "excessPct": 18.46,
+     "index": "KOSPI",
+     "verdict": "빗나감"
+    },
+    {
+     "horizon": "D+7",
+     "date": "2026-08-11",
+     "price": 74100,
+     "changePct": 20.29,
+     "indexPct": -3.79,
+     "excessPct": 24.08,
      "index": "KOSPI",
      "verdict": "빗나감"
     }
@@ -24795,7 +24839,7 @@
     "조기단계신규포착"
    ],
    "theme": "로봇/휴머노이드",
-   "status": "pending",
+   "status": "verified",
    "checks": [
     {
      "horizon": "D+3",
@@ -24804,6 +24848,16 @@
      "changePct": 40.73,
      "indexPct": 11.09,
      "excessPct": 29.64,
+     "index": "KOSDAQ",
+     "verdict": "적중"
+    },
+    {
+     "horizon": "D+7",
+     "date": "2026-08-11",
+     "price": 6900,
+     "changePct": 48.71,
+     "indexPct": 19.18,
+     "excessPct": 29.52,
      "index": "KOSDAQ",
      "verdict": "적중"
     }
@@ -24862,7 +24916,7 @@
     "신규포착"
    ],
    "theme": "로봇/휴머노이드",
-   "status": "pending",
+   "status": "verified",
    "checks": [
     {
      "horizon": "D+3",
@@ -24871,6 +24925,16 @@
      "changePct": 5.97,
      "indexPct": 11.09,
      "excessPct": -5.12,
+     "index": "KOSDAQ",
+     "verdict": "빗나감"
+    },
+    {
+     "horizon": "D+7",
+     "date": "2026-08-11",
+     "price": 1373,
+     "changePct": 2.54,
+     "indexPct": 19.18,
+     "excessPct": -16.64,
      "index": "KOSDAQ",
      "verdict": "빗나감"
     }
@@ -24931,7 +24995,7 @@
     "신규포착"
    ],
    "theme": "로봇/휴머노이드",
-   "status": "pending",
+   "status": "verified",
    "checks": [
     {
      "horizon": "D+3",
@@ -24942,6 +25006,16 @@
      "excessPct": 12.33,
      "index": "KOSDAQ",
      "verdict": "적중"
+    },
+    {
+     "horizon": "D+7",
+     "date": "2026-08-11",
+     "price": 7440,
+     "changePct": 20.19,
+     "indexPct": 19.18,
+     "excessPct": 1.01,
+     "index": "KOSDAQ",
+     "verdict": "중립"
     }
    ],
    "flagPrice": 6190,
@@ -24999,7 +25073,7 @@
     "Z폴드8흥행수혜기대"
    ],
    "theme": "폴더블 부품",
-   "status": "pending",
+   "status": "verified",
    "checks": [
     {
      "horizon": "D+3",
@@ -25008,6 +25082,16 @@
      "changePct": 19.97,
      "indexPct": 11.09,
      "excessPct": 8.88,
+     "index": "KOSDAQ",
+     "verdict": "적중"
+    },
+    {
+     "horizon": "D+7",
+     "date": "2026-08-11",
+     "price": 8930,
+     "changePct": 26.49,
+     "indexPct": 19.18,
+     "excessPct": 7.3,
      "index": "KOSDAQ",
      "verdict": "적중"
     }
@@ -25066,7 +25150,7 @@
     "약신호(열세인접테마)"
    ],
    "theme": "AI전력/데이터센터",
-   "status": "pending",
+   "status": "verified",
    "checks": [
     {
      "horizon": "D+3",
@@ -25075,6 +25159,16 @@
      "changePct": 17.11,
      "indexPct": 11.09,
      "excessPct": 6.02,
+     "index": "KOSDAQ",
+     "verdict": "적중"
+    },
+    {
+     "horizon": "D+7",
+     "date": "2026-08-11",
+     "price": 3045,
+     "changePct": 25.57,
+     "indexPct": 19.18,
+     "excessPct": 6.38,
      "index": "KOSDAQ",
      "verdict": "적중"
     }
@@ -25133,7 +25227,7 @@
     "296억계약(7/9)기반영"
    ],
    "theme": "AI반도체설계(팹리스/IP)",
-   "status": "pending",
+   "status": "verified",
    "checks": [
     {
      "horizon": "D+3",
@@ -25142,6 +25236,16 @@
      "changePct": -0.72,
      "indexPct": 11.09,
      "excessPct": -11.81,
+     "index": "KOSDAQ",
+     "verdict": "적중"
+    },
+    {
+     "horizon": "D+7",
+     "date": "2026-08-11",
+     "price": 47600,
+     "changePct": -1.75,
+     "indexPct": 19.18,
+     "excessPct": -20.94,
      "index": "KOSDAQ",
      "verdict": "적중"
     }
@@ -25193,7 +25297,7 @@
     "7/31상한가기반영"
    ],
    "theme": "AI반도체설계(팹리스/IP)",
-   "status": "pending",
+   "status": "verified",
    "checks": [
     {
      "horizon": "D+3",
@@ -25202,6 +25306,16 @@
      "changePct": 4.89,
      "indexPct": 11.09,
      "excessPct": -6.2,
+     "index": "KOSDAQ",
+     "verdict": "적중"
+    },
+    {
+     "horizon": "D+7",
+     "date": "2026-08-11",
+     "price": 62000,
+     "changePct": -2.21,
+     "indexPct": 19.18,
+     "excessPct": -21.39,
      "index": "KOSDAQ",
      "verdict": "적중"
     }
@@ -25253,7 +25367,7 @@
     "파스토9.9억계약기반영"
    ],
    "theme": "로봇/휴머노이드",
-   "status": "pending",
+   "status": "verified",
    "checks": [
     {
      "horizon": "D+3",
@@ -25264,6 +25378,16 @@
      "excessPct": 2.87,
      "index": "KOSDAQ",
      "verdict": "중립"
+    },
+    {
+     "horizon": "D+7",
+     "date": "2026-08-11",
+     "price": 20450,
+     "changePct": 9.42,
+     "indexPct": 19.18,
+     "excessPct": -9.77,
+     "index": "KOSDAQ",
+     "verdict": "적중"
     }
    ],
    "flagPrice": 18690,
@@ -26093,17 +26217,135 @@
     "틈새레이더"
    ],
    "convStampedAt": "2026-08-11"
+  },
+  {
+   "name": "한국피아이엠(448970)",
+   "type": "leading",
+   "market": "韓",
+   "flagDate": "2026-08-11",
+   "signals": [
+    "북미휴머노이드감속기논의재확인",
+    "PM세션재포착",
+    "반복포착9회"
+   ],
+   "theme": "로봇/휴머노이드",
+   "status": "pending",
+   "checks": [],
+   "convScore": 5,
+   "convTier": "high",
+   "convSignals": [
+    "반복포착",
+    "승세테마"
+   ],
+   "convStampedAt": "2026-08-11"
+  },
+  {
+   "name": "한국주강(025890)",
+   "type": "leading",
+   "market": "韓",
+   "flagDate": "2026-08-11",
+   "signals": [
+    "삼성중공업26억추가수주",
+    "수주잔고30%증가",
+    "급락장묻힌계약뉴스"
+   ],
+   "theme": "조선기자재/방산",
+   "status": "pending",
+   "checks": [],
+   "flagPrice": 2600,
+   "priceLog": [
+    {
+     "date": "2026-08-11",
+     "price": 2600
+    }
+   ],
+   "convScore": 5,
+   "convTier": "high",
+   "convSignals": [
+    "반복포착",
+    "구체촉발재"
+   ],
+   "convStampedAt": "2026-08-11"
+  },
+  {
+   "name": "비에이치(090460)",
+   "type": "warning",
+   "market": "韓",
+   "flagDate": "2026-08-11",
+   "signals": [
+    "삼성휴머노이드공급망진입기대",
+    "당일+16.83%급등",
+    "이미반영"
+   ],
+   "theme": "로봇/휴머노이드",
+   "status": "pending",
+   "checks": [],
+   "flagPrice": 18120,
+   "priceLog": [
+    {
+     "date": "2026-08-11",
+     "price": 18120
+    }
+   ]
+  },
+  {
+   "name": "자람테크놀로지(389020)",
+   "type": "warning",
+   "market": "韓",
+   "flagDate": "2026-08-11",
+   "signals": [
+    "당일-11.11%급락",
+    "신규촉발재없는변동성",
+    "등급하향(선행포착에서관찰로)"
+   ],
+   "theme": "AI반도체설계(팹리스/IP)",
+   "status": "pending",
+   "checks": [],
+   "flagPrice": 22500,
+   "priceLog": [
+    {
+     "date": "2026-08-11",
+     "price": 22500
+    }
+   ]
+  },
+  {
+   "name": "SFA(056190)",
+   "type": "discovery",
+   "market": "韓",
+   "flagDate": "2026-08-11",
+   "signals": [
+    "LS전선해저케이블턴테이블첫출하",
+    "1500억원수주실물이행"
+   ],
+   "theme": "AI데이터센터/전력인프라",
+   "status": "pending",
+   "checks": [],
+   "flagPrice": 22650,
+   "priceLog": [
+    {
+     "date": "2026-08-11",
+     "price": 22650
+    }
+   ],
+   "convScore": -1,
+   "convTier": "low",
+   "convSignals": [
+    "구체촉발재",
+    "⚠️열세테마"
+   ],
+   "convStampedAt": "2026-08-11"
   }
  ],
  "stats": {
-  "verified": 215,
-  "hit": 51,
+  "verified": 217,
+  "hit": 53,
   "neutral": 68,
   "miss": 96,
-  "hitRate": 23.7,
-  "avgD3ChangePct": 1.07,
-  "pending": 36,
-  "total": 251,
+  "hitRate": 24.4,
+  "avgD3ChangePct": 0.99,
+  "pending": 39,
+  "total": 256,
   "byType": {
    "leading": {
     "verified": 96,
