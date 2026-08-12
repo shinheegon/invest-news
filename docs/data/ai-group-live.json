@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-08-12T20:38:15+09:00",
+ "updatedAt": "2026-08-13T08:26:47+09:00",
  "note": "AI에 구조적으로 필수인 부품·밸류체인 기업을 '장기 전망·비전' 기준으로 선별한 관찰 그룹. 단기 모멘텀(검증 D+3)과는 별개 — 각 종목에 현재 모멘텀도 함께 표기. 투자권유 아님, 정보·관찰용.",
  "macroOverview": "거시 큰 그림: AI 데이터센터 capex는 경기 사이클과 디커플링된 '구조적 투자'다 — 빅테크(MS·구글·메타·아마존)의 설비투자는 경기와 무관하게 매년 증액되고 있다. 금리 인하 사이클 진입은 성장주 밸류에이션에 우호적(할인율↓). 시장의 병목이 HBM → 전력 → 냉각 → 광통신 순으로 '로테이션'하는 게 핵심 흐름이라, 어느 한 계층이 조정받아도 다음 병목으로 자금이 옮겨간다. 단기적으로는 메모리 고점론·급락장(위험회피)으로 소부장·전력이 눌려 있으나, 이는 '구조적 성장 vs 단기 수급'의 괴리 구간. 우리 그룹은 이 괴리를 계층별로 보여줘 '비전은 필수인데 아직 자금이 안 붙은' 눌림 구간을 포착하는 게 목적이다.",
  "categories": [
@@ -77,8 +77,8 @@
    "official": "SK하이닉스",
    "tickerMismatch": false,
    "price": 1504000,
-   "changeRate": "5.54",
-   "sinceAddedPct": -23.4,
+   "changeRate": "0.00",
+   "sinceAddedPct": -19.2,
    "priceLog": [
     {
      "date": "2026-07-13",
@@ -199,6 +199,10 @@
     {
      "date": "2026-08-12",
      "price": 1425000
+    },
+    {
+     "date": "2026-08-13",
+     "price": 1504000
     }
    ],
    "momentum": "중립",
@@ -216,8 +220,8 @@
    "official": "삼성전자",
    "tickerMismatch": false,
    "price": 255500,
-   "changeRate": "6.68",
-   "sinceAddedPct": -6.6,
+   "changeRate": "0.00",
+   "sinceAddedPct": -0.4,
    "priceLog": [
     {
      "date": "2026-07-13",
@@ -338,6 +342,10 @@
     {
      "date": "2026-08-12",
      "price": 239500
+    },
+    {
+     "date": "2026-08-13",
+     "price": 255500
     }
    ],
    "momentum": "중립",
@@ -355,8 +363,8 @@
    "official": "한미반도체",
    "tickerMismatch": false,
    "price": 217500,
-   "changeRate": "2.11",
-   "sinceAddedPct": 3.4,
+   "changeRate": "0.00",
+   "sinceAddedPct": 5.6,
    "priceLog": [
     {
      "date": "2026-07-13",
@@ -477,6 +485,10 @@
     {
      "date": "2026-08-12",
      "price": 213000
+    },
+    {
+     "date": "2026-08-13",
+     "price": 217500
     }
    ],
    "momentum": "중립",
@@ -494,8 +506,8 @@
    "official": "하나마이크론",
    "tickerMismatch": false,
    "price": 35450,
-   "changeRate": "1.29",
-   "sinceAddedPct": -9.7,
+   "changeRate": "0.00",
+   "sinceAddedPct": -8.5,
    "priceLog": [
     {
      "date": "2026-07-13",
@@ -616,6 +628,10 @@
     {
      "date": "2026-08-12",
      "price": 35000
+    },
+    {
+     "date": "2026-08-13",
+     "price": 35450
     }
    ],
    "momentum": "중립",
@@ -633,8 +649,8 @@
    "official": "심텍",
    "tickerMismatch": false,
    "price": 104600,
-   "changeRate": "-8.17",
-   "sinceAddedPct": 4.8,
+   "changeRate": "0.00",
+   "sinceAddedPct": -3.8,
    "priceLog": [
     {
      "date": "2026-07-13",
@@ -755,6 +771,10 @@
     {
      "date": "2026-08-12",
      "price": 113900
+    },
+    {
+     "date": "2026-08-13",
+     "price": 104600
     }
    ],
    "momentum": "중립",
@@ -772,8 +792,8 @@
    "official": "삼성전기",
    "tickerMismatch": false,
    "price": 1335000,
-   "changeRate": "5.78",
-   "sinceAddedPct": -2.8,
+   "changeRate": "0.00",
+   "sinceAddedPct": 2.8,
    "priceLog": [
     {
      "date": "2026-07-13",
@@ -894,6 +914,10 @@
     {
      "date": "2026-08-12",
      "price": 1262000
+    },
+    {
+     "date": "2026-08-13",
+     "price": 1335000
     }
    ],
    "momentum": "중립",
@@ -911,8 +935,8 @@
    "official": "SKC",
    "tickerMismatch": false,
    "price": 87000,
-   "changeRate": "1.99",
-   "sinceAddedPct": -3.1,
+   "changeRate": "0.00",
+   "sinceAddedPct": -1.1,
    "priceLog": [
     {
      "date": "2026-07-13",
@@ -1033,6 +1057,10 @@
     {
      "date": "2026-08-12",
      "price": 85300
+    },
+    {
+     "date": "2026-08-13",
+     "price": 87000
     }
    ],
    "momentum": "중립",
@@ -1050,8 +1078,8 @@
    "official": "필옵틱스",
    "tickerMismatch": false,
    "price": 29600,
-   "changeRate": "3.32",
-   "sinceAddedPct": -1.5,
+   "changeRate": "0.00",
+   "sinceAddedPct": 1.7,
    "priceLog": [
     {
      "date": "2026-07-13",
@@ -1172,6 +1200,10 @@
     {
      "date": "2026-08-12",
      "price": 28650
+    },
+    {
+     "date": "2026-08-13",
+     "price": 29600
     }
    ],
    "momentum": "중립",
@@ -1189,8 +1221,8 @@
    "official": "에이직랜드",
    "tickerMismatch": false,
    "price": 19910,
-   "changeRate": "2.47",
-   "sinceAddedPct": -7.9,
+   "changeRate": "0.00",
+   "sinceAddedPct": -5.6,
    "priceLog": [
     {
      "date": "2026-07-13",
@@ -1311,6 +1343,10 @@
     {
      "date": "2026-08-12",
      "price": 19430
+    },
+    {
+     "date": "2026-08-13",
+     "price": 19910
     }
    ],
    "momentum": "중립",
@@ -1328,8 +1364,8 @@
    "official": "가온칩스",
    "tickerMismatch": false,
    "price": 47800,
-   "changeRate": "0.42",
-   "sinceAddedPct": -4.0,
+   "changeRate": "0.00",
+   "sinceAddedPct": -3.6,
    "priceLog": [
     {
      "date": "2026-07-13",
@@ -1450,6 +1486,10 @@
     {
      "date": "2026-08-12",
      "price": 47600
+    },
+    {
+     "date": "2026-08-13",
+     "price": 47800
     }
    ],
    "momentum": "중립",
@@ -1467,8 +1507,8 @@
    "official": "오픈엣지테크놀로지",
    "tickerMismatch": false,
    "price": 10330,
-   "changeRate": "2.99",
-   "sinceAddedPct": -5.5,
+   "changeRate": "0.00",
+   "sinceAddedPct": -2.6,
    "priceLog": [
     {
      "date": "2026-07-13",
@@ -1589,6 +1629,10 @@
     {
      "date": "2026-08-12",
      "price": 10030
+    },
+    {
+     "date": "2026-08-13",
+     "price": 10330
     }
    ],
    "momentum": "중립",
@@ -1606,8 +1650,8 @@
    "official": "HD현대일렉트릭",
    "tickerMismatch": false,
    "price": 782000,
-   "changeRate": "5.82",
-   "sinceAddedPct": -6.2,
+   "changeRate": "0.00",
+   "sinceAddedPct": -0.8,
    "priceLog": [
     {
      "date": "2026-07-13",
@@ -1728,6 +1772,10 @@
     {
      "date": "2026-08-12",
      "price": 739000
+    },
+    {
+     "date": "2026-08-13",
+     "price": 782000
     }
    ],
    "momentum": "중립",
@@ -1745,8 +1793,8 @@
    "official": "LS ELECTRIC",
    "tickerMismatch": false,
    "price": 208500,
-   "changeRate": "2.71",
-   "sinceAddedPct": 10.6,
+   "changeRate": "0.00",
+   "sinceAddedPct": 13.6,
    "priceLog": [
     {
      "date": "2026-07-13",
@@ -1867,6 +1915,10 @@
     {
      "date": "2026-08-12",
      "price": 203000
+    },
+    {
+     "date": "2026-08-13",
+     "price": 208500
     }
    ],
    "momentum": "중립",
@@ -1884,8 +1936,8 @@
    "official": "효성중공업",
    "tickerMismatch": false,
    "price": 2892000,
-   "changeRate": "2.15",
-   "sinceAddedPct": 5.7,
+   "changeRate": "0.00",
+   "sinceAddedPct": 8.0,
    "priceLog": [
     {
      "date": "2026-07-13",
@@ -2006,6 +2058,10 @@
     {
      "date": "2026-08-12",
      "price": 2831000
+    },
+    {
+     "date": "2026-08-13",
+     "price": 2892000
     }
    ],
    "momentum": "중립",
@@ -2023,8 +2079,8 @@
    "official": "케이엔솔",
    "tickerMismatch": false,
    "price": 9040,
-   "changeRate": "0.56",
-   "sinceAddedPct": 3.9,
+   "changeRate": "0.00",
+   "sinceAddedPct": 4.5,
    "priceLog": [
     {
      "date": "2026-07-13",
@@ -2145,6 +2201,10 @@
     {
      "date": "2026-08-12",
      "price": 8990
+    },
+    {
+     "date": "2026-08-13",
+     "price": 9040
     }
    ],
    "momentum": "중립",
@@ -2162,8 +2222,8 @@
    "official": "퀄리타스반도체",
    "tickerMismatch": false,
    "price": 9430,
-   "changeRate": "4.31",
-   "sinceAddedPct": 7.4,
+   "changeRate": "0.00",
+   "sinceAddedPct": 12.0,
    "priceLog": [
     {
      "date": "2026-07-13",
@@ -2284,6 +2344,10 @@
     {
      "date": "2026-08-12",
      "price": 9040
+    },
+    {
+     "date": "2026-08-13",
+     "price": 9430
     }
    ],
    "momentum": "중립",
@@ -2301,8 +2365,8 @@
    "official": "대한광통신",
    "tickerMismatch": false,
    "price": 13510,
-   "changeRate": "0.45",
-   "sinceAddedPct": 21.5,
+   "changeRate": "0.00",
+   "sinceAddedPct": 22.0,
    "priceLog": [
     {
      "date": "2026-07-13",
@@ -2423,6 +2487,10 @@
     {
      "date": "2026-08-12",
      "price": 13450
+    },
+    {
+     "date": "2026-08-13",
+     "price": 13510
     }
    ],
    "momentum": "중립",
@@ -2440,8 +2508,8 @@
    "official": "레인보우로보틱스",
    "tickerMismatch": false,
    "price": 490000,
-   "changeRate": "2.08",
-   "sinceAddedPct": 14.8,
+   "changeRate": "0.00",
+   "sinceAddedPct": 17.2,
    "priceLog": [
     {
      "date": "2026-07-13",
@@ -2562,6 +2630,10 @@
     {
      "date": "2026-08-12",
      "price": 480000
+    },
+    {
+     "date": "2026-08-13",
+     "price": 490000
     }
    ],
    "momentum": "승세",
@@ -2579,8 +2651,8 @@
    "official": "로보티즈",
    "tickerMismatch": false,
    "price": 247500,
-   "changeRate": "1.64",
-   "sinceAddedPct": 17.3,
+   "changeRate": "0.00",
+   "sinceAddedPct": 19.3,
    "priceLog": [
     {
      "date": "2026-07-13",
@@ -2701,6 +2773,10 @@
     {
      "date": "2026-08-12",
      "price": 243500
+    },
+    {
+     "date": "2026-08-13",
+     "price": 247500
     }
    ],
    "momentum": "승세",
@@ -2718,8 +2794,8 @@
    "official": "에스피지",
    "tickerMismatch": false,
    "price": 112200,
-   "changeRate": "-1.58",
-   "sinceAddedPct": 63.8,
+   "changeRate": "0.00",
+   "sinceAddedPct": 61.2,
    "priceLog": [
     {
      "date": "2026-07-13",
@@ -2840,6 +2916,10 @@
     {
      "date": "2026-08-12",
      "price": 114000
+    },
+    {
+     "date": "2026-08-13",
+     "price": 112200
     }
    ],
    "momentum": "승세",

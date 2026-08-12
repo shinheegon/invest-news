@@ -3,6 +3,18 @@
   "SK하이닉스(000660)": {
    "articles": [
     {
+     "date": "2026-08-13",
+     "source": "한국경제·증권",
+     "title": "SK하이닉스, 인디애나팹 27일 착공식…최태원·젠슨 황 만나나",
+     "link": "https://www.hankyung.com/article/2026081277966"
+    },
+    {
+     "date": "2026-08-13",
+     "source": "연합인포맥스",
+     "title": "SK하이닉스 ADR 이틀째 급등…싱가포르 국부펀드 투자 계획설",
+     "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4429852"
+    },
+    {
      "date": "2026-08-12",
      "source": "한국경제·증권",
      "title": "삼성전자 공매도 잔액 급증…SK하이닉스·삼성전기는 감소",
@@ -709,18 +721,6 @@
      "source": "머니투데이",
      "title": "- SK하이닉스(000660): 7/29 실적 발표를 앞두고 창신메모리 상장 여파로 -14.65% 급락(155만원대).",
      "link": "https://www.mt.co.kr/stock/2026/07/28/2026072808363814528"
-    },
-    {
-     "date": "2026-07-27",
-     "source": "연합인포맥스",
-     "title": "&quot;SK하이닉스 실적 발표 후 '셀온' 우려 과도…비중 유지해야&quot;",
-     "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4426909"
-    },
-    {
-     "date": "2026-07-26",
-     "source": "파이낸셜·증권",
-     "title": "서학개미 7300억 쓸어담은 SK하이닉스 ADR…액티브 ETF도 편입 확대",
-     "link": "https://www.fnnews.com/news/202607261031099815"
     }
    ]
   },
@@ -3351,6 +3351,12 @@
   "삼성전기(009150)": {
    "articles": [
     {
+     "date": "2026-08-13",
+     "source": "파이낸셜·증권",
+     "title": "\"삼성전기 강세 목표가 300만원\"…모건스탠리 최선호주 변경 이유는",
+     "link": "https://www.fnnews.com/news/202608122202154801"
+    },
+    {
      "date": "2026-08-12",
      "source": "한국경제·증권",
      "title": "삼성전자 공매도 잔액 급증…SK하이닉스·삼성전기는 감소",
@@ -5583,6 +5589,12 @@
   "신세계(004170)": {
    "articles": [
     {
+     "date": "2026-08-13",
+     "source": "아시아경제",
+     "title": "[클릭 e종목]\"적극적으로 매수할 때…신세계에 투자해야 하는 이유\"",
+     "link": "https://view.asiae.co.kr/article/2026081214405352170"
+    },
+    {
      "date": "2026-08-12",
      "source": "한국경제·증권",
      "title": "실적 서프라이즈에도 한 달 새 37% 빠진 신세계...증권가 \"우려 과도해\"",
@@ -6566,6 +6578,12 @@
   },
   "대한항공(003490)": {
    "articles": [
+    {
+     "date": "2026-08-13",
+     "source": "연합인포맥스",
+     "title": "대한항공·아시아나, 합병 최종 결의…12월 메가 캐리어 출범(종합)",
+     "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4429851"
+    },
     {
      "date": "2026-08-12",
      "source": "한국경제·경제",
@@ -10514,6 +10532,18 @@
   },
   "LG이노텍(011070)": {
    "articles": [
+    {
+     "date": "2026-08-13",
+     "source": "연합뉴스·경제",
+     "title": "LG이노텍, MSCI한국지수에 편입…HLB·LG디플 등 4개는 빠져",
+     "link": "https://www.yna.co.kr/view/AKR20260813008700008"
+    },
+    {
+     "date": "2026-08-13",
+     "source": "아시아경제",
+     "title": "MSCI한국지수에 LG이노텍 신규편입…LG디플 등 4곳 빠져",
+     "link": "https://view.asiae.co.kr/article/2026081307394315583"
+    },
     {
      "date": "2026-08-05",
      "source": "한국경제·증권",
@@ -15359,6 +15389,12 @@
   "한국콜마(161890)": {
    "articles": [
     {
+     "date": "2026-08-13",
+     "source": "아시아경제",
+     "title": "[클릭 e종목]\"한국콜마, K뷰티 글로벌 모멘텀의 최대 수혜주…목표가↑\"",
+     "link": "https://view.asiae.co.kr/article/2026081307475548722"
+    },
+    {
      "date": "2026-08-12",
      "source": "파이낸셜·증권",
      "title": "\"22.8% 뛰었다\" 한국콜마, 2분기 영업익 첫 1000억 돌파…'소외株'의 반격 [주주클럽]",
@@ -15889,6 +15925,12 @@
   "한화(000880)": {
    "articles": [
     {
+     "date": "2026-08-13",
+     "source": "한국경제·경제",
+     "title": "김승연 한화 회장, 全직원에 보양식 선물",
+     "link": "https://www.hankyung.com/article/2026081274561"
+    },
+    {
      "date": "2026-08-12",
      "source": "한국경제·경제",
      "title": "한화, 동남권 대학과 'AI·우주 인재' 육성",
@@ -16360,6 +16402,12 @@
   },
   "NH투자증권(005940)": {
    "articles": [
+    {
+     "date": "2026-08-13",
+     "source": "한국경제·증권",
+     "title": "사령탑 바뀐 NH투자증권 \"WM·IB 등 협업 확대\"",
+     "link": "https://www.hankyung.com/article/2026081275221"
+    },
     {
      "date": "2026-08-12",
      "source": "파이낸셜·증권",
@@ -18671,6 +18719,12 @@
   "대동(000490)": {
    "articles": [
     {
+     "date": "2026-08-13",
+     "source": "뉴시스·경제",
+     "title": "산업부, 유턴기업 지방투자 지원 강화…대동 800억 투자",
+     "link": "https://www.newsis.com/view/NISX20260812_0003746683"
+    },
+    {
      "date": "2026-08-12",
      "source": "연합뉴스·경제",
      "title": "대동금속, 90억원 유상증자…대동에 제3자배정",
@@ -19786,6 +19840,12 @@
   },
   "한샘(009240)": {
    "articles": [
+    {
+     "date": "2026-08-13",
+     "source": "아시아경제",
+     "title": "한샘, 실적 개선세 둔화 우려…목표가 10%↓ [클릭e종목]",
+     "link": "https://view.asiae.co.kr/article/2026081222441645427"
+    },
     {
      "date": "2026-08-11",
      "source": "한국경제·경제",
@@ -21457,6 +21517,12 @@
   "GS(078930)": {
    "articles": [
     {
+     "date": "2026-08-13",
+     "source": "아시아경제",
+     "title": "\"AI 비즈니스 사업 역량 집중하는 GS, 목표가 상향\"[클릭 e종목]",
+     "link": "https://view.asiae.co.kr/article/2026081215475568695"
+    },
+    {
      "date": "2026-08-12",
      "source": "한국경제·증권",
      "title": "AI 날개 단 GS…\"만년 저평가 해소 기대\"",
@@ -21838,6 +21904,12 @@
   },
   "Cerebras(CBRS)": {
    "articles": [
+    {
+     "date": "2026-08-13",
+     "source": "CNBC·Markets",
+     "title": "Cerebras stock plunges 14% after second earnings report following IPO",
+     "link": "https://www.cnbc.com/2026/08/12/cerebras-cbrs-q2-earnings-report-2026.html"
+    },
     {
      "date": "2026-07-14",
      "source": "CNBC·Markets",
@@ -22413,6 +22485,12 @@
   "시스코(CSCO)": {
    "articles": [
     {
+     "date": "2026-08-13",
+     "source": "연합인포맥스",
+     "title": "시스코 시스템즈, 실적 호조에도 시간외 거래서 4% 하락",
+     "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4429878"
+    },
+    {
      "date": "2026-07-20",
      "source": "아시아경제",
      "title": "에스넷그룹, 시스코와 보안 협력 강화…AI 시대 겨냥한 통합 보안 전략 공개",
@@ -22522,6 +22600,18 @@
   },
   "SpaceX": {
    "articles": [
+    {
+     "date": "2026-08-13",
+     "source": "MarketWatch",
+     "title": "SpaceX’s stock is getting a Grok-fueled boost",
+     "link": "https://www.marketwatch.com/story/spacexs-stock-is-getting-a-grok-fueled-boost-e99497b4?mod=mw_rss_topstories"
+    },
+    {
+     "date": "2026-08-13",
+     "source": "CNBC·Finance",
+     "title": "SpaceX short sellers are running out of bullets as stock rebounds more than 40% off low",
+     "link": "https://www.cnbc.com/2026/08/12/spacex-short-sellers-are-running-out-of-bullets-as-stock-rebounds-38percent-off-low.html"
+    },
     {
      "date": "2026-08-11",
      "source": "MarketWatch",
@@ -22864,6 +22954,12 @@
   },
   "모건스탠리(MS)": {
    "articles": [
+    {
+     "date": "2026-08-13",
+     "source": "파이낸셜·증권",
+     "title": "\"삼성전기 강세 목표가 300만원\"…모건스탠리 최선호주 변경 이유는",
+     "link": "https://www.fnnews.com/news/202608122202154801"
+    },
     {
      "date": "2026-08-10",
      "source": "파이낸셜·증권",
@@ -25171,6 +25267,12 @@
   "코어위브(CRWV)": {
    "articles": [
     {
+     "date": "2026-08-13",
+     "source": "연합인포맥스",
+     "title": "코어위브, 예상 웃돈 호실적에 주가 23% 급등",
+     "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4429857"
+    },
+    {
      "date": "2026-08-12",
      "source": "한국경제·증권",
      "title": "코어위브, AI 인프라 수요에 2분기 매출 두 배…시간외 15% 폭등",
@@ -25229,7 +25331,65 @@
      "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4429813"
     }
    ]
+  },
+  "폭스콘": {
+   "articles": [
+    {
+     "date": "2026-08-13",
+     "source": "한국경제·경제",
+     "title": "폭스콘, AI 하드웨어 수요로 2분기 이익 예상넘는 35% 급증",
+     "link": "https://www.hankyung.com/article/202608127734i"
+    }
+   ]
+  },
+  "펄어비스(263750)": {
+   "articles": [
+    {
+     "date": "2026-08-13",
+     "source": "한국경제·증권",
+     "title": "펄어비스, '어닝 쇼크'에 장중 14%대 급락",
+     "link": "https://www.hankyung.com/article/2026081262516"
+    },
+    {
+     "date": "2026-08-13",
+     "source": "아시아경제",
+     "title": "펄어비스, 2분기 영업익 676억원…전년比 7389% ↑",
+     "link": "https://view.asiae.co.kr/article/2026081118104817596"
+    },
+    {
+     "date": "2026-08-13",
+     "source": "아시아경제",
+     "title": "[클릭 e종목]\"붉은사막 기대치↓…펄어비스 목표가 하향\"",
+     "link": "https://view.asiae.co.kr/article/2026081216022551983"
+    }
+   ]
+  },
+  "JW중외제약(001060)": {
+   "articles": [
+    {
+     "date": "2026-08-13",
+     "source": "한국경제·증권",
+     "title": "JW중외제약, 2분기 호실적·통풍 신약 3상 성과에 급등",
+     "link": "https://www.hankyung.com/article/2026081258986"
+    }
+   ]
+  },
+  "메리츠증권": {
+   "articles": [
+    {
+     "date": "2026-08-13",
+     "source": "파이낸셜·증권",
+     "title": "메리츠증권, 2분기 영업이익 2457억원…전년比 18.2%↓",
+     "link": "https://www.fnnews.com/news/202608121556541210"
+    },
+    {
+     "date": "2026-08-13",
+     "source": "아시아경제",
+     "title": "메리츠증권, 상반기 순익 5140억원…전년 대비 15.9%↑",
+     "link": "https://view.asiae.co.kr/article/2026081217043525147"
+    }
+   ]
   }
  },
- "updatedAt": "2026-08-12T20:06:26+09:00"
+ "updatedAt": "2026-08-13T07:49:48+09:00"
 }
