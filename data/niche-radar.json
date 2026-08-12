@@ -1,9 +1,9 @@
 {
- "updatedAt": "2026-08-12T07:52:16+09:00",
+ "updatedAt": "2026-08-12T20:08:04+09:00",
  "note": "원본 헤드라인의 반복 언급을 탐지한 조사 후보이며 투자권유가 아니다. 동일 기사 재실행은 한 번만 집계하고, 순수 악재 반복과 모호한 회사명은 제외한다.",
  "window": 30,
- "corpusToday": 670,
- "trackedCompanies": 556,
+ "corpusToday": 1173,
+ "trackedCompanies": 576,
  "companies": [
   {
    "code": "041020",
@@ -118,6 +118,90 @@
    ]
   },
   {
+   "code": "181710",
+   "name": "NHN",
+   "market": "KOSPI",
+   "cap": 13691,
+   "total": 8,
+   "recent": 7,
+   "activeDays": 3,
+   "firstSeen": "2026-07-14",
+   "lastSeen": "2026-08-12",
+   "score": 36.1,
+   "riskMentions": 0,
+   "catalystMentions": 1,
+   "samples": [
+    {
+     "date": "2026-08-12",
+     "title": "NHN, AI 데이터센터 실적 기여…목표가 7만원으로↑-NH투자"
+    },
+    {
+     "date": "2026-08-12",
+     "title": "NHN, 2분기 호실적에 15%대 급등…영업익 전년比 164%↑"
+    },
+    {
+     "date": "2026-08-12",
+     "title": "NHN, 2Q 영업익 579억…전년比 164.1%↑"
+    }
+   ]
+  },
+  {
+   "code": "089860",
+   "name": "롯데렌탈",
+   "market": "KOSPI",
+   "cap": 14669,
+   "total": 14,
+   "recent": 5,
+   "activeDays": 9,
+   "firstSeen": "2026-07-15",
+   "lastSeen": "2026-08-12",
+   "score": 35.5,
+   "riskMentions": 0,
+   "catalystMentions": 4,
+   "samples": [
+    {
+     "date": "2026-08-12",
+     "title": "롯데, TPG와 롯데렌탈 매각 본계약 체결"
+    },
+    {
+     "date": "2026-08-12",
+     "title": "TPG 품에 안긴 롯데렌탈…\"매각대금에도 롯데그룹 신용도 영향 제한적\""
+    },
+    {
+     "date": "2026-08-12",
+     "title": "[단독] 美 TPG, 롯데렌탈 1.3조원에 인수한다"
+    }
+   ]
+  },
+  {
+   "code": "025890",
+   "name": "한국주강",
+   "market": "KOSPI",
+   "cap": 275,
+   "total": 7,
+   "recent": 7,
+   "activeDays": 2,
+   "firstSeen": "2026-08-11",
+   "lastSeen": "2026-08-12",
+   "score": 34.6,
+   "riskMentions": 0,
+   "catalystMentions": 6,
+   "samples": [
+    {
+     "date": "2026-08-12",
+     "title": "한국주강, 조선 이어 발전용 주강 키운다…호남 반도체 6.3GW '새 시장' 부상"
+    },
+    {
+     "date": "2026-08-12",
+     "title": "한국주강, 삼성중공업과 대형 주강품 계약…수주잔고 30% 증가"
+    },
+    {
+     "date": "2026-08-12",
+     "title": "한국주강, 삼성중공업과 26억 규모 납품 계약"
+    }
+   ]
+  },
+  {
    "code": "256940",
    "name": "킵스파마",
    "market": "KOSDAQ",
@@ -198,90 +282,6 @@
     {
      "date": "2026-08-11",
      "title": "\"넥센타이어, 하반기 비용 확대 불가피…목표가↓\"-키움"
-    }
-   ]
-  },
-  {
-   "code": "181710",
-   "name": "NHN",
-   "market": "KOSPI",
-   "cap": 13691,
-   "total": 7,
-   "recent": 6,
-   "activeDays": 3,
-   "firstSeen": "2026-07-14",
-   "lastSeen": "2026-08-12",
-   "score": 31.7,
-   "riskMentions": 0,
-   "catalystMentions": 0,
-   "samples": [
-    {
-     "date": "2026-08-12",
-     "title": "NHN, 2분기 호실적에 15%대 급등…영업익 전년比 164%↑"
-    },
-    {
-     "date": "2026-08-12",
-     "title": "NHN, 2Q 영업익 579억…전년比 164.1%↑"
-    },
-    {
-     "date": "2026-08-12",
-     "title": "[클릭 e종목]\"NHN, 중소형주 최선호…수요 즉시대응 유일한 곳\""
-    }
-   ]
-  },
-  {
-   "code": "089860",
-   "name": "롯데렌탈",
-   "market": "KOSPI",
-   "cap": 14669,
-   "total": 13,
-   "recent": 4,
-   "activeDays": 9,
-   "firstSeen": "2026-07-15",
-   "lastSeen": "2026-08-12",
-   "score": 31.1,
-   "riskMentions": 0,
-   "catalystMentions": 4,
-   "samples": [
-    {
-     "date": "2026-08-12",
-     "title": "롯데, TPG와 롯데렌탈 매각 본계약 체결"
-    },
-    {
-     "date": "2026-08-12",
-     "title": "[단독] 美 TPG, 롯데렌탈 1.3조원에 인수한다"
-    },
-    {
-     "date": "2026-08-11",
-     "title": "롯데, TPG와 롯데렌탈 매각 본계약 체결"
-    }
-   ]
-  },
-  {
-   "code": "025890",
-   "name": "한국주강",
-   "market": "KOSPI",
-   "cap": 275,
-   "total": 6,
-   "recent": 6,
-   "activeDays": 2,
-   "firstSeen": "2026-08-11",
-   "lastSeen": "2026-08-12",
-   "score": 30.2,
-   "riskMentions": 0,
-   "catalystMentions": 6,
-   "samples": [
-    {
-     "date": "2026-08-12",
-     "title": "한국주강, 삼성중공업과 대형 주강품 계약…수주잔고 30% 증가"
-    },
-    {
-     "date": "2026-08-12",
-     "title": "한국주강, 삼성중공업과 26억 규모 납품 계약"
-    },
-    {
-     "date": "2026-08-12",
-     "title": "한국주강, 삼성重에서 26억 추가 수주…\"수주잔고 30% 급증\""
     }
    ]
   },
@@ -594,6 +594,34 @@
    ]
   },
   {
+   "code": "001060",
+   "name": "JW중외제약",
+   "market": "KOSPI",
+   "cap": 5798,
+   "total": 5,
+   "recent": 5,
+   "activeDays": 2,
+   "firstSeen": "2026-08-11",
+   "lastSeen": "2026-08-12",
+   "score": 25.8,
+   "riskMentions": 0,
+   "catalystMentions": 0,
+   "samples": [
+    {
+     "date": "2026-08-12",
+     "title": "JW중외제약, 2분기 호실적·통풍 신약 3상 성과에 급등"
+    },
+    {
+     "date": "2026-08-12",
+     "title": "JW중외제약, 2분기 영업이익 337억원…33% 증가"
+    },
+    {
+     "date": "2026-08-12",
+     "title": "JW중외제약 \"통풍 신약 3상 성공…내년 국내 허가 목표\""
+    }
+   ]
+  },
+  {
    "code": "290270",
    "name": "휴네시온",
    "market": "KOSDAQ",
@@ -706,10 +734,10 @@
    ]
   },
   {
-   "code": "452160",
-   "name": "제이엔비",
+   "code": "094360",
+   "name": "칩스앤미디어",
    "market": "KOSDAQ",
-   "cap": 312,
+   "cap": 2144,
    "total": 10,
    "recent": 2,
    "activeDays": 10,
@@ -734,10 +762,10 @@
    ]
   },
   {
-   "code": "094360",
-   "name": "칩스앤미디어",
+   "code": "452160",
+   "name": "제이엔비",
    "market": "KOSDAQ",
-   "cap": 2144,
+   "cap": 312,
    "total": 10,
    "recent": 2,
    "activeDays": 10,
@@ -814,34 +842,6 @@
     {
      "date": "2026-08-09",
      "title": "[적중! 대박 예감] '농심, 티엑스알로보틱스, 다이버시파이드 에너지 컴퍼니' 예감 좋은 대박 종목은?"
-    }
-   ]
-  },
-  {
-   "code": "424960",
-   "name": "스마트레이더시스템",
-   "market": "KOSDAQ",
-   "cap": 634,
-   "total": 10,
-   "recent": 2,
-   "activeDays": 10,
-   "firstSeen": "2026-07-24",
-   "lastSeen": "2026-08-12",
-   "score": 24.9,
-   "riskMentions": 0,
-   "catalystMentions": 0,
-   "samples": [
-    {
-     "date": "2026-08-12",
-     "title": "[주식민원처리반 2부] 스마트레이더시스템 vs 파크시스템스, 매매 포인트는?"
-    },
-    {
-     "date": "2026-08-10",
-     "title": "[주식민원처리반 2부] 스마트레이더시스템 vs 파크시스템스, 매매 포인트는?"
-    },
-    {
-     "date": "2026-08-09",
-     "title": "[주식민원처리반 2부] 스마트레이더시스템 vs 파크시스템스, 매매 포인트는?"
     }
    ]
   }
