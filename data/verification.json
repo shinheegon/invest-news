@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-08-13T08:26:33+09:00",
+ "updatedAt": "2026-08-13T20:32:44+09:00",
  "cases": [
   {
    "name": "오이솔루션(138080)",
@@ -28032,7 +28032,18 @@
    ],
    "theme": "바이오/의료",
    "status": "pending",
-   "checks": [],
+   "checks": [
+    {
+     "horizon": "D+3",
+     "date": "2026-08-13",
+     "price": 317500,
+     "changePct": -8.76,
+     "indexPct": 0.81,
+     "excessPct": -9.57,
+     "index": "KOSDAQ",
+     "verdict": "적중"
+    }
+   ],
    "flagPrice": 348000,
    "priceLog": [
     {
@@ -28051,7 +28062,8 @@
      "date": "2026-08-13",
      "price": 317500
     }
-   ]
+   ],
+   "finalVerdict": "적중"
   },
   {
    "name": "산일전기(062040)",
@@ -28066,7 +28078,18 @@
    ],
    "theme": "AI전력/데이터센터",
    "status": "pending",
-   "checks": [],
+   "checks": [
+    {
+     "horizon": "D+3",
+     "date": "2026-08-13",
+     "price": 188000,
+     "changePct": 2.29,
+     "indexPct": 8.15,
+     "excessPct": -5.87,
+     "index": "KOSPI",
+     "verdict": "적중"
+    }
+   ],
    "flagPrice": 183800,
    "priceLog": [
     {
@@ -28085,7 +28108,8 @@
      "date": "2026-08-13",
      "price": 189100
     }
-   ]
+   ],
+   "finalVerdict": "적중"
   },
   {
    "name": "엠엑스로보틱스(007820)",
@@ -28554,13 +28578,13 @@
   }
  ],
  "stats": {
-  "verified": 225,
-  "hit": 55,
+  "verified": 227,
+  "hit": 57,
   "neutral": 71,
   "miss": 99,
-  "hitRate": 24.4,
-  "avgD3ChangePct": 1.05,
-  "pending": 42,
+  "hitRate": 25.1,
+  "avgD3ChangePct": 0.97,
+  "pending": 40,
   "total": 267,
   "byType": {
    "leading": {

@@ -1,12 +1,12 @@
 {
- "updatedAt": "2026-08-13T08:26:33+09:00",
+ "updatedAt": "2026-08-13T20:32:44+09:00",
  "note": "빗나감 자동 원인분류 + 자기발전 필터. 투자권유 아님.",
  "summary": {
   "resolved": 168,
   "miss": 84,
   "missRate": 50.0,
-  "preventable": 42,
-  "preventableShare": 50.0
+  "preventable": 43,
+  "preventableShare": 51.2
  },
  "byCause": [
   {
@@ -23,7 +23,8 @@
      "excessPct": -23.72,
      "theme": "바이오/의료",
      "tags": [
-      "weak_signal"
+      "weak_signal",
+      "theme_headwind"
      ]
     },
     {
@@ -51,22 +52,22 @@
   {
    "cause": "idiosyncratic",
    "label": "개별 악재(불가피)",
-   "n": 27,
-   "share": 32.1,
-   "avgExcess": -4.76,
+   "n": 26,
+   "share": 31.0,
+   "avgExcess": -4.5,
    "preventable": false,
    "examples": [
-    {
-     "name": "멕아이씨에스(058110)",
-     "flagDate": "2026-06-26",
-     "excessPct": -11.35,
-     "theme": "바이오/의료",
-     "tags": []
-    },
     {
      "name": "웨이버스(336060)",
      "flagDate": "2026-07-29",
      "excessPct": -11.27,
+     "theme": "기타",
+     "tags": []
+    },
+    {
+     "name": "웰크론한텍(076080)",
+     "flagDate": "2026-08-05",
+     "excessPct": -9.74,
      "theme": "기타",
      "tags": []
     },
@@ -119,9 +120,9 @@
   {
    "cause": "theme_headwind",
    "label": "열세 테마(자금 이탈)",
-   "n": 1,
-   "share": 1.2,
-   "avgExcess": -99.23,
+   "n": 2,
+   "share": 2.4,
+   "avgExcess": -55.29,
    "preventable": true,
    "examples": [
     {
@@ -129,6 +130,15 @@
      "flagDate": "2026-07-07",
      "excessPct": -99.23,
      "theme": "이차전지",
+     "tags": [
+      "theme_headwind"
+     ]
+    },
+    {
+     "name": "멕아이씨에스(058110)",
+     "flagDate": "2026-06-26",
+     "excessPct": -11.35,
+     "theme": "바이오/의료",
      "tags": [
       "theme_headwind"
      ]
@@ -161,8 +171,8 @@
  },
  "macro": {
   "regime": "위험선호",
-  "kospi5d": 5.12,
-  "kosdaq5d": 7.52,
+  "kospi5d": 8.86,
+  "kosdaq5d": 7.83,
   "fearGreed": 61.0,
   "vix": 15.28,
   "guidance": "순환매 유리 — 승세테마 우선하되 신선한 조기 종목까지 폭 확대 가능.",
@@ -516,9 +526,9 @@
    "missRate": 50.0,
    "causeShares": {
     "weak_signal": 48.8,
-    "idiosyncratic": 32.1,
+    "idiosyncratic": 31.0,
     "macro_riskoff": 17.9,
-    "theme_headwind": 1.2
+    "theme_headwind": 2.4
    }
   }
  ],

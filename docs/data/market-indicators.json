@@ -1,23 +1,23 @@
 {
-  "updatedAt": "2026-08-13T07:55:00+09:00", "session": "AM",
-  "note": "美 7월 CPI가 헤드라인 3.4%(컨센서스 부합, 전월 3.5%에서 둔화)로 발표되며 안도 랠리 — S&P500 +0.26%·나스닥 +0.54%(다우는 -0.04% 소폭 약세). 국채금리·달러 보합권. 전일(8/12) 한국은 삼성전자·SK하이닉스 5~7%대 동반 급등에 매수 사이드카까지 발동되며 코스피 +3.68%(6,579.04)로 사상 최대 수준 마감 — 오늘 이 훈풍이 이어질지가 관전포인트. Fed 의장은 케빈 워시(Kevin Warsh)로 교체됐으며(파월은 이사로만 잔류) 9월 인상 확률은 시장에서 40~45%선.",
+  "updatedAt": "2026-08-13T20:15:00+09:00", "session": "PM",
+  "note": "코스피가 반도체 대형주(삼성전자 +4.88%·SK하이닉스 +5.92%) 동반 급등에 힘입어 +3.56%(234.30p) 급등한 6,813.34로 마감, 3거래일 연속 상승하며 6,800선을 회복했다. 외국인이 3.7조원 순매수(3일 연속)하며 지수를 견인, VKOSPI(변동성지수)는 약 3개월 만에 최저 수준으로 하락해 시장 안도감을 반영했다. 배경은 美 7월 CPI 컨센서스 부합(3.4%)에 따른 금리 우려 완화 + AI 인프라 기업 실적 호조. 국내는 국토부의 '전월세·매매시장 안정 위한 주택 신속공급 방안' 발표도 우호적으로 작용. 미국 3대지수는 8/12(수) 마감 기준 아직 8/13 정규장 결과 미반영(한국시간 22:30 개장).",
   "stock_fng": { "value": 61, "label": "Greed", "source": "https://www.cnn.com/markets/fear-and-greed" },
   "indices": [
-    { "name": "코스피", "value": "6,579.04", "change": "+3.68%(8/12 마감, +233.51pt, 매수 사이드카 발동)", "source": "https://www.hankyung.com/article/2026081265657" },
-    { "name": "코스닥", "value": "858.91", "change": "+0.12%(8/12 마감, +1.07pt)", "source": "https://www.mt.co.kr/stock/2026/08/11/2026081109491189736" },
+    { "name": "코스피", "value": "6,813.34", "change": "+3.56%(8/13 마감, +234.30pt, 3거래일 연속 상승)", "source": "https://www.hankyung.com/article/2026081396776" },
+    { "name": "코스닥", "value": "861.37", "change": "+0.29%(8/13 마감, +2.46pt)", "source": "https://kr.investing.com/news/stock-market-news/article-2057665" },
     { "name": "다우존스", "value": "53,770.27", "change": "-0.04%(8/12 마감, -21.58pt)", "source": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-august-12-dow-sp-500-nasdaq-cpi-report-091555133.html" },
     { "name": "S&P 500", "value": "7,748.50", "change": "+0.26%(8/12 마감, +20.30pt, CPI 안도)", "source": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-august-12-dow-sp-500-nasdaq-cpi-report-091555133.html" },
     { "name": "나스닥", "value": "26,588.49", "change": "+0.54%(8/12 마감, +143.04pt)", "source": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-august-12-dow-sp-500-nasdaq-cpi-report-091555133.html" },
-    { "name": "VIX", "value": "15.28", "change": "보합(저변동성 국면 지속)", "source": "https://finance.yahoo.com/quote/%5EVIX/history/" },
-    { "name": "美 10년물", "value": "4.66%", "change": "-0.03%p(8/12, CPI 부합 발표 후 소폭 하락)", "source": "https://www.bloomberg.com/news/articles/2026-08-12/bond-traders-keep-cointoss-wager-on-september-fed-hike-post-cpi" },
+    { "name": "VIX", "value": "15.28", "change": "보합(저변동성 국면 지속)", "source": "https://www.investing.com/indices/volatility-s-p-500" },
+    { "name": "美 10년물", "value": "4.68%", "change": "-0.01%p(8/12 기준, CPI 부합 발표 후 안정)", "source": "https://www.forbes.com/advisor/investing/treasury-rates/" },
     { "name": "국고채 3년물", "value": "3.808%", "change": "0(전 회차 대비 유지)", "source": "https://www.yna.co.kr/view/AKR20260811140351008" },
-    { "name": "달러인덱스(DXY)", "value": "99.89", "change": "보합권", "source": "https://www.fxpremiere.com/forex-forecast-currency-trading-signals-12-august-2026/" },
-    { "name": "원/달러", "value": "1,415.7", "change": "-0.2원(8/12 종가 기준, 나흘째 1,410원대)", "source": "https://www.mt.co.kr/economy/2026/08/12/2026081215350076547" },
-    { "name": "美 기준금리", "value": "3.50~3.75%", "change": "0(6/17 워시 의장 첫 FOMC서 동결), 9월(9/16~17) 인상 확률 40~45%", "source": "https://www.cnbc.com/2026/08/07/odds-the-fed-hikes-in-september-tumble-following-big-july-jobs-miss.html" },
-    { "name": "한국 기준금리", "value": "2.75%", "change": "0(7/16 2.50%→2.75% 인상, 3년6개월 만의 인상 전환), 물가·환율 부담이 배경", "source": "https://imnews.imbc.com/news/2026/econo/article/6837835_36932.html" },
-    { "name": "美 CPI", "value": "3.4%", "change": "-0.1%p(7월 실제치, 컨센서스 3.4% 부합, 근원 2.5%)", "source": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-august-12-dow-sp-500-nasdaq-cpi-report-091555133.html" },
+    { "name": "달러인덱스(DXY)", "value": "99.87", "change": "-0.14%(8/13)", "source": "https://tradingeconomics.com/united-states/currency" },
+    { "name": "원/달러", "value": "1,412.1", "change": "소폭 하락(1,410원대 안정권 지속)", "source": "https://www.mt.co.kr/economy/2026/08/12/2026081215350076547" },
+    { "name": "美 기준금리", "value": "3.50~3.75%", "change": "0(7/29 FOMC 동결, 워시 의장 체제), 9월(9/16~17) 인상 확률 40~45%선", "source": "https://www.cnbc.com/2026/08/07/odds-the-fed-hikes-in-september-tumble-following-big-july-jobs-miss.html" },
+    { "name": "한국 기준금리", "value": "2.75%", "change": "0(7/16 2.50%→2.75% 인상 이후 유지), 8/27 금통위서 추가 인상 여부 저울질", "source": "https://www.mt.co.kr/economy/2026/07/16/2026071610580182886" },
+    { "name": "美 CPI", "value": "3.4%", "change": "-0.1%p(7월 실제치, 컨센서스 3.4% 부합, 근원 2.5%)", "source": "https://www.cnbc.com/2026/08/12/cpi-inflation-report-july-2026.html" },
     { "name": "韓 CPI", "value": "2.8%", "change": "-0.4%p(7월, 전월 3.2%에서 둔화, 3개월 만에 2%대 복귀)", "source": "https://biz.heraldcorp.com/article/10830045" },
-    { "name": "금(Gold)", "value": "4,420", "change": "+0.7%(안전자산 수요 지속)", "source": "https://www.cnbc.com/select/the-price-of-gold-today-august-12-2026/" },
-    { "name": "WTI", "value": "83.9", "change": "5거래일 연속 상승(美-이란 호르무즈 협상 불확실성)", "source": "https://fortune.com/article/price-of-oil-08-12-2026/" }
+    { "name": "금(Gold)", "value": "4,385", "change": "보합권(안전자산 수요 지속)", "source": "https://www.jmbullion.com/charts/gold-price/" },
+    { "name": "WTI", "value": "82.9", "change": "소폭 조정(전일比)", "source": "https://www.forbes.com/advisor/investing/oil-prices-today/" }
   ]
 }
