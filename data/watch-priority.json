@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-08-13T20:32:44+09:00",
+ "updatedAt": "2026-08-15T08:03:36+09:00",
  "note": "대기 예측을 학습패턴(승세테마+구체촉발재)으로 점수화. 투자권유 아님.",
  "top": [
   {
@@ -340,6 +340,24 @@
    "why": "승세테마(로봇/휴머노이드) · 신호약함(테마첫거론류)"
   },
   {
+   "name": "LSK아이로봇(091970)",
+   "type": "leading",
+   "theme": "로봇/휴머노이드",
+   "flagDate": "2026-08-15",
+   "score": 3,
+   "concrete": false,
+   "why": "승세테마(로봇/휴머노이드) · 신호약함(테마첫거론류)"
+  },
+  {
+   "name": "알에스오토메이션(140670)",
+   "type": "leading",
+   "theme": "로봇/휴머노이드",
+   "flagDate": "2026-08-15",
+   "score": 3,
+   "concrete": false,
+   "why": "승세테마(로봇/휴머노이드) · 신호약함(테마첫거론류)"
+  },
+  {
    "name": "웨이버스",
    "type": "discovery",
    "theme": "기타",
@@ -365,24 +383,6 @@
    "score": 2,
    "concrete": true,
    "why": "중립테마(AI전력/데이터센터) · 구체촉발재: 신제품양산개시"
-  },
-  {
-   "name": "웰크론한텍(076080)",
-   "type": "leading",
-   "theme": "기타",
-   "flagDate": "2026-08-05",
-   "score": 2,
-   "concrete": true,
-   "why": "중립테마(기타) · 구체촉발재: 대형수주799억"
-  },
-  {
-   "name": "웰크론한텍(076080)",
-   "type": "discovery",
-   "theme": "기타",
-   "flagDate": "2026-08-05",
-   "score": 2,
-   "concrete": true,
-   "why": "중립테마(기타) · 구체촉발재: 대형수주799억"
   },
   {
    "name": "비츠로넥스텍(488900)",
@@ -457,28 +457,28 @@
    "why": "중립테마(우주/방산) · 신호약함(테마첫거론류)"
   },
   {
-   "name": "롯데하이마트(071840)",
-   "type": "leading",
-   "theme": "기타",
-   "flagDate": "2026-08-05",
-   "score": 0,
-   "concrete": false,
-   "why": "중립테마(기타) · 신호약함(테마첫거론류)"
-  },
-  {
-   "name": "파인엠텍(441270)",
-   "type": "discovery",
-   "theme": "기타",
-   "flagDate": "2026-08-05",
-   "score": 0,
-   "concrete": false,
-   "why": "중립테마(기타) · 신호약함(테마첫거론류)"
-  },
-  {
    "name": "지니언스(263860)",
    "type": "discovery",
    "theme": "기타",
    "flagDate": "2026-08-07",
+   "score": 0,
+   "concrete": false,
+   "why": "중립테마(기타) · 신호약함(테마첫거론류)"
+  },
+  {
+   "name": "정원엔시스(045510)",
+   "type": "leading",
+   "theme": "기타",
+   "flagDate": "2026-08-15",
+   "score": 0,
+   "concrete": false,
+   "why": "중립테마(기타) · 신호약함(테마첫거론류)"
+  },
+  {
+   "name": "씨피시스템(413630)",
+   "type": "leading",
+   "theme": "기타",
+   "flagDate": "2026-08-15",
    "score": 0,
    "concrete": false,
    "why": "중립테마(기타) · 신호약함(테마첫거론류)"
