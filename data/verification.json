@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-08-15T20:04:05+09:00",
+ "updatedAt": "2026-08-16T08:02:57+09:00",
  "cases": [
   {
    "name": "오이솔루션(138080)",
@@ -29925,6 +29925,153 @@
      "price": 22950
     }
    ]
+  },
+  {
+   "name": "아이씨에이치(368600)",
+   "type": "leading",
+   "market": "韓",
+   "flagDate": "2026-08-16",
+   "signals": [
+    "구체촉발재(PU폼양산공급확정)",
+    "승세테마",
+    "반복포착10회"
+   ],
+   "theme": "로봇/휴머노이드",
+   "status": "pending",
+   "checks": [],
+   "flagPrice": 832,
+   "priceLog": [
+    {
+     "date": "2026-08-14",
+     "price": 832
+    }
+   ],
+   "convScore": 7,
+   "convTier": "high",
+   "convSignals": [
+    "반복포착",
+    "승세테마",
+    "구체촉발재"
+   ],
+   "convStampedAt": "2026-08-16"
+  },
+  {
+   "name": "씨메스로보틱스(475400)",
+   "type": "leading",
+   "market": "韓",
+   "flagDate": "2026-08-16",
+   "signals": [
+    "구체촉발재(서흥향24.8억계약)",
+    "승세테마",
+    "반복포착8회"
+   ],
+   "theme": "로봇/휴머노이드",
+   "status": "pending",
+   "checks": [],
+   "flagPrice": 21550,
+   "priceLog": [
+    {
+     "date": "2026-08-14",
+     "price": 21550
+    }
+   ],
+   "convScore": 7,
+   "convTier": "high",
+   "convSignals": [
+    "반복포착",
+    "승세테마",
+    "구체촉발재"
+   ],
+   "convStampedAt": "2026-08-16"
+  },
+  {
+   "name": "해성에어로보틱스(059270)",
+   "type": "leading",
+   "market": "韓",
+   "flagDate": "2026-08-16",
+   "signals": [
+    "구체촉발재(감속기신규수주)",
+    "승세테마",
+    "신규포착"
+   ],
+   "theme": "로봇/휴머노이드",
+   "status": "pending",
+   "checks": [],
+   "flagPrice": 6330,
+   "priceLog": [
+    {
+     "date": "2026-08-14",
+     "price": 6330
+    }
+   ],
+   "convScore": 7,
+   "convTier": "high",
+   "convSignals": [
+    "반복포착",
+    "승세테마",
+    "구체촉발재"
+   ],
+   "convStampedAt": "2026-08-16"
+  },
+  {
+   "name": "디아이씨(092200)",
+   "type": "warning",
+   "market": "韓",
+   "flagDate": "2026-08-16",
+   "signals": [
+    "이미25%급등",
+    "현대차로봇공급망"
+   ],
+   "theme": "로봇/휴머노이드",
+   "status": "pending",
+   "checks": [],
+   "flagPrice": 6580,
+   "priceLog": [
+    {
+     "date": "2026-08-14",
+     "price": 6580
+    }
+   ]
+  },
+  {
+   "name": "우림피티에스(101170)",
+   "type": "warning",
+   "market": "韓",
+   "flagDate": "2026-08-16",
+   "signals": [
+    "이미14%급등",
+    "CES로봇아틀라스"
+   ],
+   "theme": "로봇/휴머노이드",
+   "status": "pending",
+   "checks": [],
+   "flagPrice": 8710,
+   "priceLog": [
+    {
+     "date": "2026-08-14",
+     "price": 8710
+    }
+   ]
+  },
+  {
+   "name": "유진로봇(056080)",
+   "type": "warning",
+   "market": "韓",
+   "flagDate": "2026-08-16",
+   "signals": [
+    "VI발동급등",
+    "테마동반상승"
+   ],
+   "theme": "로봇/휴머노이드",
+   "status": "pending",
+   "checks": [],
+   "flagPrice": 14000,
+   "priceLog": [
+    {
+     "date": "2026-08-14",
+     "price": 14000
+    }
+   ]
   }
  ],
  "stats": {
@@ -29934,8 +30081,8 @@
   "miss": 100,
   "hitRate": 25.9,
   "avgD3ChangePct": 1.01,
-  "pending": 45,
-  "total": 277,
+  "pending": 51,
+  "total": 283,
   "byType": {
    "leading": {
     "verified": 100,

@@ -727,6 +727,12 @@
   "삼성전자(005930)": {
    "articles": [
     {
+     "date": "2026-08-16",
+     "source": "뉴시스·경제",
+     "title": "삼성전자 소액주주 797만명…전체 인구 중 15%가 보유",
+     "link": "https://www.newsis.com/view/NISX20260815_0003750450"
+    },
+    {
      "date": "2026-08-15",
      "source": "연합인포맥스",
      "title": "삼성전자 상반기 '보수왕' 이원진 74.8억…노태문 74.5억",
@@ -1439,12 +1445,6 @@
      "source": "한국경제·경제",
      "title": "삼성전자·SK하닉도 '초긴장'…'몸값 120조' 中 괴물 온다",
      "link": "https://www.hankyung.com/article/202607169432g"
-    },
-    {
-     "date": "2026-07-16",
-     "source": "연합뉴스·경제",
-     "title": "노동부, 청년 일경험 민관협의회…삼성전자·SK하이닉스 등 참여",
-     "link": "https://www.yna.co.kr/view/AKR20260716064800530"
     }
    ]
   },
@@ -23643,6 +23643,12 @@
   "Anthropic": {
    "articles": [
     {
+     "date": "2026-08-16",
+     "source": "CNBC·Markets",
+     "title": "Anthropic revenue reportedly jumps to more than $11.5 billion in second quarter",
+     "link": "https://www.cnbc.com/2026/08/15/anthropic-revenue-jumps-to-over-11point5-billion-in-q2-report.html"
+    },
+    {
      "date": "2026-08-04",
      "source": "CNBC·Markets",
      "title": "Big Tech's Anthropic and OpenAI stakes are distorting the corporate earnings picture",
@@ -26617,7 +26623,23 @@
      "link": "https://www.yna.co.kr/view/AKR20260814074900008"
     }
    ]
+  },
+  "SK증권(001510)": {
+   "articles": [
+    {
+     "date": "2026-08-16",
+     "source": "한국경제·증권",
+     "title": "SK증권, 국내외 주식 '통합증거금 서비스' 출시",
+     "link": "https://www.hankyung.com/article/2026081419946"
+    },
+    {
+     "date": "2026-08-16",
+     "source": "연합뉴스·경제",
+     "title": "\"환전없이 국내외 주식 매매\"…SK증권, 통합증거금 서비스 출시",
+     "link": "https://www.yna.co.kr/view/AKR20260814113700008"
+    }
+   ]
   }
  },
- "updatedAt": "2026-08-15T19:31:19+09:00"
+ "updatedAt": "2026-08-16T07:27:53+09:00"
 }

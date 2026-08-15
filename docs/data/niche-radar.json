@@ -1,91 +1,63 @@
 {
- "updatedAt": "2026-08-15T19:33:50+09:00",
+ "updatedAt": "2026-08-16T07:31:25+09:00",
  "note": "원본 헤드라인의 반복 언급을 탐지한 조사 후보이며 투자권유가 아니다. 동일 기사 재실행은 한 번만 집계하고, 순수 악재 반복과 모호한 회사명은 제외한다.",
  "window": 30,
- "corpusToday": 650,
- "trackedCompanies": 610,
+ "corpusToday": 349,
+ "trackedCompanies": 612,
  "companies": [
   {
-   "code": "030210",
-   "name": "다올투자증권",
+   "code": "001510",
+   "name": "SK증권",
    "market": "KOSPI",
-   "cap": 2251,
-   "total": 11,
-   "recent": 8,
-   "activeDays": 5,
-   "firstSeen": "2026-08-08",
-   "lastSeen": "2026-08-15",
-   "score": 43.5,
-   "riskMentions": 0,
-   "catalystMentions": 8,
-   "samples": [
-    {
-     "date": "2026-08-15",
-     "title": "다올투자증권, 전 직원 AI 교육…\"업무 자동화 넘어 실무 혁신\""
-    },
-    {
-     "date": "2026-08-15",
-     "title": "다올투자증권, 상반기 순익 322억…6개 분기 연속 흑자"
-    },
-    {
-     "date": "2026-08-13",
-     "title": "다올투자증권, 전사 'AI 활용 역량 강화' 교육…\"AI 기반 업무 혁신\""
-    }
-   ]
-  },
-  {
-   "code": "000080",
-   "name": "하이트진로",
-   "market": "KOSPI",
-   "cap": 11200,
+   "cap": 5586,
    "total": 8,
    "recent": 5,
    "activeDays": 5,
-   "firstSeen": "2026-07-18",
-   "lastSeen": "2026-08-15",
+   "firstSeen": "2026-07-29",
+   "lastSeen": "2026-08-16",
    "score": 30.4,
    "riskMentions": 0,
-   "catalystMentions": 1,
+   "catalystMentions": 4,
    "samples": [
     {
+     "date": "2026-08-16",
+     "title": "SK증권, 국내외 주식 '통합증거금 서비스' 출시"
+    },
+    {
+     "date": "2026-08-16",
+     "title": "\"환전없이 국내외 주식 매매\"…SK증권, 통합증거금 서비스 출시"
+    },
+    {
      "date": "2026-08-15",
-     "title": "하이트진로, 2분기 영업익 649억…전년比 0.7%↑"
-    },
-    {
-     "date": "2026-08-13",
-     "title": "하이트진로, 2분기 영업익 649억원…예상치 상회"
-    },
-    {
-     "date": "2026-08-13",
-     "title": "하이트진로, 2분기 영업익 649억…전년比 0.7%↑"
+     "title": "SK증권, 국내외 주식 '통합증거금 서비스' 출시"
     }
    ]
   },
   {
-   "code": "419530",
-   "name": "SAMG엔터",
-   "market": "KOSDAQ",
-   "cap": 2884,
-   "total": 15,
-   "recent": 2,
-   "activeDays": 13,
-   "firstSeen": "2026-07-21",
-   "lastSeen": "2026-08-15",
-   "score": 28.4,
+   "code": "475560",
+   "name": "더본코리아",
+   "market": "KOSPI",
+   "cap": 2356,
+   "total": 6,
+   "recent": 5,
+   "activeDays": 3,
+   "firstSeen": "2026-08-13",
+   "lastSeen": "2026-08-16",
+   "score": 27.3,
    "riskMentions": 0,
    "catalystMentions": 1,
    "samples": [
     {
+     "date": "2026-08-16",
+     "title": "백종원 회사, 갑자기 무슨 일?…더본코리아, 주가 19% 뛰었다 [종목+]"
+    },
+    {
+     "date": "2026-08-16",
+     "title": "더본코리아, 2분기 영업손실 56억원…작년 동기 대비 75% 개선"
+    },
+    {
      "date": "2026-08-15",
-     "title": "SAMG엔터, 상반기 매출 751억 '사상 최대'…해외 매출 62% 급증"
-    },
-    {
-     "date": "2026-08-13",
-     "title": "SAMG엔터, 쇼뮤지컬 '프린세스 캐치! 티니핑' 서울·대구 앙코르 확정…전국 투어 확대"
-    },
-    {
-     "date": "2026-08-12",
-     "title": "SAMG엔터, 쇼뮤지컬 '프린세스 캐치! 티니핑' 서울·대구 앙코르 확정…전국 투어 확대"
+     "title": "백종원 회사, 갑자기 무슨 일?…더본코리아, 주가 19% 뛰었다 [종목+]"
     }
    ]
   },
@@ -93,7 +65,7 @@
    "code": "003470",
    "name": "유안타증권",
    "market": "KOSPI",
-   "cap": 8767,
+   "cap": 9162,
    "total": 10,
    "recent": 4,
    "activeDays": 5,
@@ -118,170 +90,58 @@
    ]
   },
   {
-   "code": "475560",
-   "name": "더본코리아",
+   "code": "016610",
+   "name": "DB증권",
    "market": "KOSPI",
-   "cap": 2055,
+   "cap": 4211,
    "total": 4,
    "recent": 4,
    "activeDays": 2,
-   "firstSeen": "2026-08-13",
-   "lastSeen": "2026-08-15",
+   "firstSeen": "2026-08-15",
+   "lastSeen": "2026-08-16",
    "score": 21.5,
-   "riskMentions": 0,
-   "catalystMentions": 1,
-   "samples": [
-    {
-     "date": "2026-08-15",
-     "title": "백종원 회사, 갑자기 무슨 일?…더본코리아, 주가 19% 뛰었다 [종목+]"
-    },
-    {
-     "date": "2026-08-15",
-     "title": "더본코리아, 美 소스 사업 확대 기대감에 20%대 강세 [특징주]"
-    },
-    {
-     "date": "2026-08-15",
-     "title": "더본코리아, 2분기 영업손실 56억원…작년 동기 대비 75% 개선"
-    }
-   ]
-  },
-  {
-   "code": "045510",
-   "name": "정원엔시스",
-   "market": "KOSDAQ",
-   "cap": 319,
-   "total": 10,
-   "recent": 2,
-   "activeDays": 8,
-   "firstSeen": "2026-07-24",
-   "lastSeen": "2026-08-13",
-   "score": 20.9,
    "riskMentions": 0,
    "catalystMentions": 0,
    "samples": [
     {
-     "date": "2026-08-13",
-     "title": "정원엔시스, 상반기 영업익 9배 '껑충'…AI 체질전환 통했다"
+     "date": "2026-08-16",
+     "title": "DB증권, 상반기 순이익 708억원…전년比 49.4%↑"
     },
     {
-     "date": "2026-08-13",
-     "title": "정원엔시스, 상반기 영업익 31억 전년比 9배 '껑충'…AI 하드웨어 매출 3배↑"
+     "date": "2026-08-15",
+     "title": "DB증권, 상반기 순익 708억…자기자본 1조원 시대 열었다"
     },
     {
-     "date": "2026-08-11",
-     "title": "정원엔시스, 회사·이사회 의장 43만주 '동반 매수'…주주가치 제고 속도"
+     "date": "2026-08-15",
+     "title": "DB증권, 상반기 순이익 708억원…전년比 49.4%↑"
     }
    ]
   },
   {
-   "code": "085910",
-   "name": "네오티스",
+   "code": "330730",
+   "name": "스톤브릿지벤처스",
    "market": "KOSDAQ",
-   "cap": 2418,
+   "cap": 924,
    "total": 5,
    "recent": 3,
    "activeDays": 4,
-   "firstSeen": "2026-07-31",
-   "lastSeen": "2026-08-15",
+   "firstSeen": "2026-08-03",
+   "lastSeen": "2026-08-16",
    "score": 20.1,
    "riskMentions": 0,
    "catalystMentions": 0,
    "samples": [
     {
-     "date": "2026-08-15",
-     "title": "네오티스, 2분기 영업익 45억 전년比 249.7%↑…AI發 쇼티지 수혜 본격화"
-    },
-    {
-     "date": "2026-08-13",
-     "title": "네오티스, 2분기 영업익 45억 전년比 249.7%↑…AI發 쇼티지 수혜 본격화"
-    },
-    {
-     "date": "2026-08-13",
-     "title": "[클릭 e종목]\"네오티스, AI 서버발 드릴비트 가격 협상력↑…SoCAMM2까지 겹호재\""
-    }
-   ]
-  },
-  {
-   "code": "001510",
-   "name": "SK증권",
-   "market": "KOSPI",
-   "cap": 5123,
-   "total": 6,
-   "recent": 3,
-   "activeDays": 4,
-   "firstSeen": "2026-07-29",
-   "lastSeen": "2026-08-15",
-   "score": 19.6,
-   "riskMentions": 0,
-   "catalystMentions": 2,
-   "samples": [
-    {
-     "date": "2026-08-15",
-     "title": "SK증권, 국내외 주식 '통합증거금 서비스' 출시"
+     "date": "2026-08-16",
+     "title": "스톤브릿지벤처스, 상반기 영업익 170억원…반기 기준 최대"
     },
     {
      "date": "2026-08-15",
-     "title": "\"환전없이 국내외 주식 매매\"…SK증권, 통합증거금 서비스 출시"
+     "title": "스톤브릿지벤처스, 상반기 영업익 170억원…반기 기준 최대"
     },
     {
      "date": "2026-08-15",
-     "title": "\"한국·미국 주식 환전없이 거래하세요\"...SK증권, '통합증거금' 선보여"
-    }
-   ]
-  },
-  {
-   "code": "367000",
-   "name": "플래티어",
-   "market": "KOSDAQ",
-   "cap": 263,
-   "total": 6,
-   "recent": 2,
-   "activeDays": 6,
-   "firstSeen": "2026-08-06",
-   "lastSeen": "2026-08-15",
-   "score": 18.8,
-   "riskMentions": 0,
-   "catalystMentions": 1,
-   "samples": [
-    {
-     "date": "2026-08-15",
-     "title": "플래티어, 올해 2분기 흑자 전환…AX 솔루션 매출 증가 영향"
-    },
-    {
-     "date": "2026-08-13",
-     "title": "플래티어, 슈마커플러스에 '젠서 디스커버리' 적용"
-    },
-    {
-     "date": "2026-08-12",
-     "title": "플래티어, 슈마커플러스에 '젠서 디스커버리' 적용"
-    }
-   ]
-  },
-  {
-   "code": "196450",
-   "name": "코아시아씨엠",
-   "market": "KOSDAQ",
-   "cap": 435,
-   "total": 6,
-   "recent": 2,
-   "activeDays": 6,
-   "firstSeen": "2026-08-07",
-   "lastSeen": "2026-08-15",
-   "score": 18.8,
-   "riskMentions": 0,
-   "catalystMentions": 2,
-   "samples": [
-    {
-     "date": "2026-08-15",
-     "title": "코아시아씨엠, 상반기 영업익 19억…\"수익성 중심 흑자기조 지속\""
-    },
-    {
-     "date": "2026-08-13",
-     "title": "코아시아씨엠, 상반기 영업익 19억…\"수익성 중심 흑자기조 지속\""
-    },
-    {
-     "date": "2026-08-10",
-     "title": "코아시아씨엠, 5대 1 주식병합 확정…AI 비전 사업 확대하며 기업가치 제고 나선다"
+     "title": "스톤브릿지벤처스, 상반기 영업익 170억원…\"반기 기준 최고 실적\""
     }
    ]
   },
@@ -314,142 +174,114 @@
    ]
   },
   {
-   "code": "045520",
-   "name": "크린앤사이언스",
-   "market": "KOSDAQ",
-   "cap": 191,
-   "total": 7,
-   "recent": 2,
-   "activeDays": 6,
-   "firstSeen": "2026-07-30",
-   "lastSeen": "2026-08-15",
-   "score": 18.3,
-   "riskMentions": 0,
-   "catalystMentions": 2,
-   "samples": [
-    {
-     "date": "2026-08-15",
-     "title": "스터닝밸류 \"크린앤사이언스, AI데이터센터 필터 특수...3년만의 연간 흑자 기대\""
-    },
-    {
-     "date": "2026-08-13",
-     "title": "크린앤사이언스 주요주주, 지분 11.77%로 확대…\"추가 매입도 예고'"
-    },
-    {
-     "date": "2026-08-12",
-     "title": "크린앤사이언스, 정유 필터 '국산화'…50년 여과기술 산업용으로 확장"
-    }
-   ]
-  },
-  {
-   "code": "181710",
-   "name": "NHN",
+   "code": "004540",
+   "name": "깨끗한나라",
    "market": "KOSPI",
-   "cap": 13691,
-   "total": 10,
-   "recent": 3,
-   "activeDays": 4,
-   "firstSeen": "2026-08-11",
-   "lastSeen": "2026-08-15",
-   "score": 17.7,
-   "riskMentions": 0,
-   "catalystMentions": 1,
-   "samples": [
-    {
-     "date": "2026-08-15",
-     "title": "국민연금이 콕 찍은 NHN, 이달 들어서만 주가 두 배로 뛴 사연"
-    },
-    {
-     "date": "2026-08-13",
-     "title": "NHN, AI 데이터센터 실적 기여…목표가 7만원으로↑-NH투자"
-    },
-    {
-     "date": "2026-08-13",
-     "title": "[클릭 e종목]\"NHN, 중소형주 최선호…수요 즉시대응 유일한 곳\""
-    }
-   ]
-  },
-  {
-   "code": "352940",
-   "name": "인바이오",
-   "market": "KOSDAQ",
-   "cap": 218,
+   "cap": 458,
    "total": 5,
    "recent": 2,
    "activeDays": 5,
-   "firstSeen": "2026-07-24",
-   "lastSeen": "2026-08-15",
+   "firstSeen": "2026-07-31",
+   "lastSeen": "2026-08-16",
    "score": 17.3,
    "riskMentions": 0,
    "catalystMentions": 2,
    "samples": [
     {
+     "date": "2026-08-16",
+     "title": "깨끗한나라, 2분기 흑자전환…美 생리대 시장서 '제2 도약'"
+    },
+    {
      "date": "2026-08-15",
-     "title": "인바이오, 상반기 매출·영업익 두 자릿수 성장"
+     "title": "깨끗한나라, 2분기 흑자전환…美 생리대 시장서 '제2 도약'"
     },
     {
-     "date": "2026-08-13",
-     "title": "인바이오, 상반기 매출·영업익 두 자릿수 성장"
-    },
-    {
-     "date": "2026-07-29",
-     "title": "인바이오, 농협 영업망 확대 효과…상반기 관련 매출 전년比 71%↑"
+     "date": "2026-08-05",
+     "title": "깨끗한나라, 올리브영서 '순수한면 쿨링브리즈' 팝업스토어 운영"
     }
    ]
   },
   {
-   "code": "066910",
-   "name": "손오공",
+   "code": "417500",
+   "name": "제이아이테크",
    "market": "KOSDAQ",
-   "cap": 271,
-   "total": 5,
-   "recent": 2,
-   "activeDays": 5,
-   "firstSeen": "2026-08-04",
-   "lastSeen": "2026-08-15",
-   "score": 17.3,
-   "riskMentions": 0,
-   "catalystMentions": 0,
-   "samples": [
-    {
-     "date": "2026-08-15",
-     "title": "손오공, 반기 매출 818억 '껑충'…장난감 회사서 모빌리티·AI 기업 변신"
-    },
-    {
-     "date": "2026-08-13",
-     "title": "손오공, 배우 오초희와 라이브커머스 협업…K-IP 유통 전략 강화"
-    },
-    {
-     "date": "2026-08-12",
-     "title": "손오공, 배우 오초희와 라이브커머스 협업…K-IP 유통 전략 강화"
-    }
-   ]
-  },
-  {
-   "code": "049630",
-   "name": "재영솔루텍",
-   "market": "KOSDAQ",
-   "cap": 1430,
+   "cap": 1279,
    "total": 3,
    "recent": 3,
    "activeDays": 2,
-   "firstSeen": "2026-08-13",
-   "lastSeen": "2026-08-15",
+   "firstSeen": "2026-08-15",
+   "lastSeen": "2026-08-16",
+   "score": 17.1,
+   "riskMentions": 0,
+   "catalystMentions": 2,
+   "samples": [
+    {
+     "date": "2026-08-16",
+     "title": "\"인도서 생산능력 50%↑\"…제이아이테크, 신공장서 '품귀' 중소수 양산"
+    },
+    {
+     "date": "2026-08-15",
+     "title": "제이아이테크, 42억6천100만원 제3자배정 유상증자"
+    },
+    {
+     "date": "2026-08-15",
+     "title": "\"인도서 생산능력 50%↑\"…제이아이테크, 신공장서 '품귀' 중소수 양산"
+    }
+   ]
+  },
+  {
+   "code": "104620",
+   "name": "노랑풍선",
+   "market": "KOSDAQ",
+   "cap": 527,
+   "total": 3,
+   "recent": 3,
+   "activeDays": 2,
+   "firstSeen": "2026-08-15",
+   "lastSeen": "2026-08-16",
    "score": 17.1,
    "riskMentions": 0,
    "catalystMentions": 3,
    "samples": [
     {
+     "date": "2026-08-16",
+     "title": "노랑풍선, 2분기 영업익 7억7000만원…전년비 흑자전환"
+    },
+    {
      "date": "2026-08-15",
-     "title": "재영솔루텍, 상반기 영업익 171억 전년 대비 59배 급증…\"5년 선제 투자 결실 본격화\""
+     "title": "노랑풍선, 2분기 영업익 7억7000만원…전년비 흑자전환"
     },
     {
-     "date": "2026-08-13",
-     "title": "재영솔루텍, 상반기 영업익 171억원 \"5년 선제투자 결실\""
+     "date": "2026-08-15",
+     "title": "노랑풍선, 2분기 영업이익 7.7억원…전년比 흑자전환"
+    }
+   ]
+  },
+  {
+   "code": "318020",
+   "name": "포인트모바일",
+   "market": "KOSDAQ",
+   "cap": 346,
+   "total": 3,
+   "recent": 3,
+   "activeDays": 2,
+   "firstSeen": "2026-08-15",
+   "lastSeen": "2026-08-16",
+   "score": 17.1,
+   "riskMentions": 0,
+   "catalystMentions": 3,
+   "samples": [
+    {
+     "date": "2026-08-16",
+     "title": "포인트모바일, 상반기 영업이익 46억원… 흑자 전환"
     },
     {
-     "date": "2026-08-13",
-     "title": "재영솔루텍, 상반기 영업익 171억 전년 대비 59배 급증…\"5년 선제 투자 결실 본격화\""
+     "date": "2026-08-15",
+     "title": "포인트모바일, 아마존 공급 증가로 '어닝 서프라이즈'"
+    },
+    {
+     "date": "2026-08-15",
+     "title": "포인트모바일, 상반기 영업이익 46억원… 흑자 전환"
     }
    ]
   },
@@ -457,7 +289,7 @@
    "code": "007310",
    "name": "오뚜기",
    "market": "KOSPI",
-   "cap": 13687,
+   "cap": 13506,
    "total": 6,
    "recent": 2,
    "activeDays": 5,
@@ -482,342 +314,182 @@
    ]
   },
   {
-   "code": "476080",
-   "name": "M83",
-   "market": "KOSDAQ",
-   "cap": 300,
-   "total": 4,
-   "recent": 2,
-   "activeDays": 4,
-   "firstSeen": "2026-07-28",
-   "lastSeen": "2026-08-15",
-   "score": 15.8,
-   "riskMentions": 0,
-   "catalystMentions": 2,
-   "samples": [
-    {
-     "date": "2026-08-15",
-     "title": "M83, 2분기 연결기준 영업익 흑자전환…\"AI 인프라 사업 성장\""
-    },
-    {
-     "date": "2026-08-13",
-     "title": "M83, 2분기 연결기준 영업익 흑자전환…\"AI 인프라 사업 성장\""
-    },
-    {
-     "date": "2026-07-29",
-     "title": "M83 \"'인프라 사업 자회사' 피앤티링크 상반기 매출 사상 최대 추정\""
-    }
-   ]
-  },
-  {
-   "code": "263860",
-   "name": "지니언스",
-   "market": "KOSDAQ",
-   "cap": 1353,
-   "total": 8,
-   "recent": 2,
-   "activeDays": 5,
-   "firstSeen": "2026-08-04",
-   "lastSeen": "2026-08-13",
-   "score": 15.8,
-   "riskMentions": 0,
-   "catalystMentions": 2,
-   "samples": [
-    {
-     "date": "2026-08-13",
-     "title": "지니언스, 한국거래소 '코스닥 라이징스타' 4년 연속 선정…기업가치 재평가 기대"
-    },
-    {
-     "date": "2026-08-13",
-     "title": "지니언스, '코스닥 라이징스타' 4년 연속 선정"
-    },
-    {
-     "date": "2026-08-10",
-     "title": "지니언스, 北 김수키 AI 공격 활동 분석…로컬 LLM까지 구축해 사이버 공격 고도화"
-    }
-   ]
-  },
-  {
-   "code": "419050",
-   "name": "삼기에너지솔루션즈",
-   "market": "KOSDAQ",
-   "cap": 881,
-   "total": 5,
-   "recent": 2,
-   "activeDays": 4,
-   "firstSeen": "2026-07-30",
-   "lastSeen": "2026-08-15",
-   "score": 15.3,
-   "riskMentions": 0,
-   "catalystMentions": 0,
-   "samples": [
-    {
-     "date": "2026-08-15",
-     "title": "삼기에너지솔루션즈, 상반기 역대 최대 매출…전년比 117%↑"
-    },
-    {
-     "date": "2026-08-13",
-     "title": "삼기에너지솔루션즈, 상반기 역대 최대 매출…전년比 117%↑"
-    },
-    {
-     "date": "2026-07-31",
-     "title": "삼기에너지솔루션즈, ESS용 핵심 커넥터 사업 확대"
-    }
-   ]
-  },
-  {
-   "code": "317240",
-   "name": "TS트릴리온",
-   "market": "KOSDAQ",
-   "cap": 336,
-   "total": 5,
-   "recent": 2,
-   "activeDays": 4,
-   "firstSeen": "2026-08-04",
-   "lastSeen": "2026-08-15",
-   "score": 15.3,
-   "riskMentions": 0,
-   "catalystMentions": 2,
-   "samples": [
-    {
-     "date": "2026-08-15",
-     "title": "TS트릴리온, 베트남 썬더사와 독점 총판 계약…'K뷰티' 앞세워 윈마트 공략"
-    },
-    {
-     "date": "2026-08-13",
-     "title": "TS트릴리온, 베트남 썬더사와 독점 총판 계약…'K뷰티' 앞세워 윈마트 공략"
-    },
-    {
-     "date": "2026-08-05",
-     "title": "TS트릴리온, 상반기 영업익 15배 급증…유통 체질 개선 효과 '톡톡'"
-    }
-   ]
-  },
-  {
-   "code": "078020",
-   "name": "LS증권",
-   "market": "KOSDAQ",
-   "cap": 3551,
-   "total": 10,
-   "recent": 2,
-   "activeDays": 5,
-   "firstSeen": "2026-07-20",
-   "lastSeen": "2026-08-13",
-   "score": 14.9,
-   "riskMentions": 0,
-   "catalystMentions": 0,
-   "samples": [
-    {
-     "date": "2026-08-13",
-     "title": "LS증권, 홍원식 대표 '청소년 불법도박 근절 캠페인' 동참"
-    },
-    {
-     "date": "2026-08-13",
-     "title": "LS증권 홍원식 대표, '청소년 불법도박 근절 캠페인' 참여…\"예방 활동 최선\""
-    },
-    {
-     "date": "2026-08-11",
-     "title": "LS증권, 개인 투자자 대상 오프라인 주식 세미나 개최"
-    }
-   ]
-  },
-  {
-   "code": "330730",
-   "name": "스톤브릿지벤처스",
-   "market": "KOSDAQ",
-   "cap": 889,
-   "total": 4,
-   "recent": 2,
-   "activeDays": 3,
-   "firstSeen": "2026-08-03",
-   "lastSeen": "2026-08-15",
-   "score": 13.8,
-   "riskMentions": 0,
-   "catalystMentions": 0,
-   "samples": [
-    {
-     "date": "2026-08-15",
-     "title": "스톤브릿지벤처스, 상반기 영업익 170억원…반기 기준 최대"
-    },
-    {
-     "date": "2026-08-15",
-     "title": "스톤브릿지벤처스, 상반기 영업익 170억원…\"반기 기준 최고 실적\""
-    },
-    {
-     "date": "2026-08-10",
-     "title": "스톤브릿지벤처스·IBK, '현대차 스핀오프' 솔라스틱에 30억원 투자"
-    }
-   ]
-  },
-  {
-   "code": "0219E0",
-   "name": "KODEX 200커버드콜액티브",
+   "code": "092200",
+   "name": "디아이씨",
    "market": "KOSPI",
-   "cap": 4410,
-   "total": 5,
+   "cap": 2559,
+   "total": 4,
    "recent": 2,
-   "activeDays": 3,
+   "activeDays": 4,
    "firstSeen": "2026-07-29",
-   "lastSeen": "2026-08-13",
-   "score": 13.3,
+   "lastSeen": "2026-08-16",
+   "score": 15.8,
    "riskMentions": 0,
-   "catalystMentions": 0,
+   "catalystMentions": 2,
    "samples": [
     {
-     "date": "2026-08-13",
-     "title": "KODEX 200커버드콜액티브, 한달만에 순자산 5000억 돌파"
+     "date": "2026-08-16",
+     "title": "현대차 '로봇 공급망' 협력사로 부각…디아이씨 25% 급등"
     },
     {
-     "date": "2026-08-13",
-     "title": "'KODEX 200커버드콜액티브', 상장 1개월 만에 순자산 5000억원"
+     "date": "2026-08-15",
+     "title": "현대차 '로봇 공급망' 협력사로 부각…디아이씨 25% 급등"
     },
     {
-     "date": "2026-07-30",
-     "title": "KODEX 200커버드콜액티브, 첫 월배당 지급 \"변동성 프리미엄으로 월 2% 분배\""
+     "date": "2026-08-03",
+     "title": "50주년 생일맞은 자동차 부품기업 '디아이씨'...\"다음 50년은 로봇 핵심기업으로 도약\""
     }
    ]
   },
   {
-   "code": "018290",
-   "name": "브이티",
+   "code": "187420",
+   "name": "HLB제넥스",
    "market": "KOSDAQ",
-   "cap": 4745,
-   "total": 2,
+   "cap": 653,
+   "total": 4,
    "recent": 2,
-   "activeDays": 2,
-   "firstSeen": "2026-08-13",
+   "activeDays": 4,
+   "firstSeen": "2026-08-11",
+   "lastSeen": "2026-08-16",
+   "score": 15.8,
+   "riskMentions": 0,
+   "catalystMentions": 0,
+   "samples": [
+    {
+     "date": "2026-08-16",
+     "title": "HLB제넥스, 200억원 규모 전환사채 선제 취득"
+    },
+    {
+     "date": "2026-08-15",
+     "title": "HLB제넥스, 200억원 규모 전환사채 선제 취득"
+    },
+    {
+     "date": "2026-08-12",
+     "title": "HLB제넥스, 반도체 공정수 재이용 확대 수혜…美 공급망 진입 '속도'"
+    }
+   ]
+  },
+  {
+   "code": "030210",
+   "name": "다올투자증권",
+   "market": "KOSPI",
+   "cap": 2388,
+   "total": 11,
+   "recent": 2,
+   "activeDays": 5,
+   "firstSeen": "2026-08-08",
    "lastSeen": "2026-08-15",
-   "score": 12.7,
+   "score": 14.4,
    "riskMentions": 0,
    "catalystMentions": 2,
    "samples": [
     {
      "date": "2026-08-15",
-     "title": "브이티, 2분기 매출 1317억원…유럽·중동 성장에 자사주 150억 매입도"
+     "title": "다올투자증권, 전 직원 AI 교육…\"업무 자동화 넘어 실무 혁신\""
     },
-    {
-     "date": "2026-08-13",
-     "title": "브이티, 2분기 매출 1317억원…유럽·중동 성장에 자사주 150억 매입도"
-    }
-   ]
-  },
-  {
-   "code": "413630",
-   "name": "씨피시스템",
-   "market": "KOSDAQ",
-   "cap": 1396,
-   "total": 2,
-   "recent": 2,
-   "activeDays": 2,
-   "firstSeen": "2026-08-13",
-   "lastSeen": "2026-08-15",
-   "score": 12.7,
-   "riskMentions": 0,
-   "catalystMentions": 2,
-   "samples": [
     {
      "date": "2026-08-15",
-     "title": "씨피시스템, 2분기 영업익 전년比 166%↑…\"중국 법인 성장·반도체 수혜\""
+     "title": "다올투자증권, 상반기 순익 322억…6개 분기 연속 흑자"
     },
     {
      "date": "2026-08-13",
-     "title": "씨피시스템, 2분기 영업익 전년比 166%↑…\"중국 법인 성장·반도체 수혜\""
+     "title": "다올투자증권, 전사 'AI 활용 역량 강화' 교육…\"AI 기반 업무 혁신\""
     }
    ]
   },
   {
-   "code": "163280",
-   "name": "에어레인",
-   "market": "KOSDAQ",
-   "cap": 439,
+   "code": "003000",
+   "name": "부광약품",
+   "market": "KOSPI",
+   "cap": 4356,
    "total": 2,
    "recent": 2,
    "activeDays": 2,
-   "firstSeen": "2026-08-13",
-   "lastSeen": "2026-08-15",
+   "firstSeen": "2026-08-15",
+   "lastSeen": "2026-08-16",
    "score": 12.7,
    "riskMentions": 0,
    "catalystMentions": 0,
    "samples": [
     {
-     "date": "2026-08-15",
-     "title": "에어레인, 올해 상반기 매출액 139억7000만원…하반기 회복 전망"
+     "date": "2026-08-16",
+     "title": "부광약품 \"자회사 한국유니온제약, 회생절차 종결 신청\""
     },
     {
-     "date": "2026-08-13",
-     "title": "에어레인, 올해 상반기 매출액 139억7000만원…하반기 회복 전망"
+     "date": "2026-08-15",
+     "title": "부광약품 \"자회사 한국유니온제약, 회생절차 종결 신청\""
     }
    ]
   },
   {
-   "code": "220260",
-   "name": "켐트로스",
+   "code": "080720",
+   "name": "한국유니온제약",
    "market": "KOSDAQ",
-   "cap": 1161,
+   "cap": 216,
    "total": 2,
    "recent": 2,
    "activeDays": 2,
-   "firstSeen": "2026-08-13",
-   "lastSeen": "2026-08-15",
+   "firstSeen": "2026-08-15",
+   "lastSeen": "2026-08-16",
    "score": 12.7,
    "riskMentions": 0,
    "catalystMentions": 0,
    "samples": [
     {
-     "date": "2026-08-15",
-     "title": "켐트로스, 올해 상반기 최대 실적…이익도 대폭 증가"
+     "date": "2026-08-16",
+     "title": "부광약품 \"자회사 한국유니온제약, 회생절차 종결 신청\""
     },
     {
-     "date": "2026-08-13",
-     "title": "켐트로스, 올해 상반기 최대 실적…이익도 대폭 증가"
+     "date": "2026-08-15",
+     "title": "부광약품 \"자회사 한국유니온제약, 회생절차 종결 신청\""
     }
    ]
   },
   {
-   "code": "417790",
-   "name": "트루엔",
-   "market": "KOSDAQ",
-   "cap": 617,
+   "code": "0036D0",
+   "name": "TIME 미국배당다우존스액티브",
+   "market": "KOSPI",
+   "cap": 652,
    "total": 2,
    "recent": 2,
    "activeDays": 2,
-   "firstSeen": "2026-08-13",
-   "lastSeen": "2026-08-15",
-   "score": 12.7,
-   "riskMentions": 0,
-   "catalystMentions": 2,
-   "samples": [
-    {
-     "date": "2026-08-15",
-     "title": "트루엔, 2분기 매출엑 전년比 14%↑ …\"하이엔드 판매·수출 확대\""
-    },
-    {
-     "date": "2026-08-13",
-     "title": "트루엔, 2분기 매출엑 전년比 14%↑ …\"하이엔드 판매·수출 확대\""
-    }
-   ]
-  },
-  {
-   "code": "032300",
-   "name": "한국파마",
-   "market": "KOSDAQ",
-   "cap": 845,
-   "total": 2,
-   "recent": 2,
-   "activeDays": 2,
-   "firstSeen": "2026-08-13",
-   "lastSeen": "2026-08-15",
+   "firstSeen": "2026-08-15",
+   "lastSeen": "2026-08-16",
    "score": 12.7,
    "riskMentions": 0,
    "catalystMentions": 0,
    "samples": [
     {
-     "date": "2026-08-15",
-     "title": "한국파마, 상반기 영업익 35억원…전년比 280%↑"
+     "date": "2026-08-16",
+     "title": "타임폴리오운용, 초과 수익에도 'TIME 미국배당다우존스액티브 ETF' 상관계수 미달로 상폐"
     },
     {
-     "date": "2026-08-13",
-     "title": "한국파마, 상반기 영업익 35억원…전년比 280%↑"
+     "date": "2026-08-15",
+     "title": "타임폴리오운용, 초과 수익에도 'TIME 미국배당다우존스액티브 ETF' 상관계수 미달로 상폐"
+    }
+   ]
+  },
+  {
+   "code": "417180",
+   "name": "핑거스토리",
+   "market": "KOSDAQ",
+   "cap": 171,
+   "total": 2,
+   "recent": 2,
+   "activeDays": 2,
+   "firstSeen": "2026-08-15",
+   "lastSeen": "2026-08-16",
+   "score": 12.7,
+   "riskMentions": 0,
+   "catalystMentions": 0,
+   "samples": [
+    {
+     "date": "2026-08-16",
+     "title": "핑거스토리, 50억원 제3자배정 유상증자"
+    },
+    {
+     "date": "2026-08-15",
+     "title": "핑거스토리, 50억원 제3자배정 유상증자"
     }
    ]
   }
