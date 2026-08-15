@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-08-15T08:03:36+09:00",
+ "updatedAt": "2026-08-15T20:04:05+09:00",
  "cases": [
   {
    "name": "오이솔루션(138080)",
@@ -29845,6 +29845,86 @@
      "price": 65500
     }
    ]
+  },
+  {
+   "name": "코아시아씨엠(196450)",
+   "type": "leading",
+   "market": "韓",
+   "flagDate": "2026-08-15",
+   "signals": [
+    "침묵후재출몰",
+    "구체실적흑자기조",
+    "주식병합",
+    "로봇AI비전인접"
+   ],
+   "theme": "로봇/AI비전",
+   "status": "pending",
+   "checks": [],
+   "flagPrice": 866,
+   "priceLog": [
+    {
+     "date": "2026-08-14",
+     "price": 866
+    }
+   ],
+   "convScore": 7,
+   "convTier": "high",
+   "convSignals": [
+    "반복포착",
+    "승세테마",
+    "틈새레이더"
+   ],
+   "convStampedAt": "2026-08-15"
+  },
+  {
+   "name": "크린앤사이언스(045520)",
+   "type": "leading",
+   "market": "韓",
+   "flagDate": "2026-08-15",
+   "signals": [
+    "내부자매수반복",
+    "AI데이터센터첫진입",
+    "3년만흑자기대"
+   ],
+   "theme": "AI전력/데이터센터",
+   "status": "pending",
+   "checks": [],
+   "flagPrice": 2675,
+   "priceLog": [
+    {
+     "date": "2026-08-14",
+     "price": 2675
+    }
+   ],
+   "convScore": 4,
+   "convTier": "mid",
+   "convSignals": [
+    "반복포착",
+    "구체촉발재",
+    "⚠️열세테마",
+    "틈새레이더"
+   ],
+   "convStampedAt": "2026-08-15"
+  },
+  {
+   "name": "자람테크놀로지(389020)",
+   "type": "warning",
+   "market": "韓",
+   "flagDate": "2026-08-15",
+   "signals": [
+    "교차검증최고수렴",
+    "누적30회반복노출"
+   ],
+   "theme": "AI반도체설계(팹리스/IP)",
+   "status": "pending",
+   "checks": [],
+   "flagPrice": 22950,
+   "priceLog": [
+    {
+     "date": "2026-08-14",
+     "price": 22950
+    }
+   ]
   }
  ],
  "stats": {
@@ -29854,8 +29934,8 @@
   "miss": 100,
   "hitRate": 25.9,
   "avgD3ChangePct": 1.01,
-  "pending": 42,
-  "total": 274,
+  "pending": 45,
+  "total": 277,
   "byType": {
    "leading": {
     "verified": 100,

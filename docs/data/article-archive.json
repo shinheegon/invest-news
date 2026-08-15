@@ -4,6 +4,12 @@
    "articles": [
     {
      "date": "2026-08-15",
+     "source": "한국경제·경제",
+     "title": "'최태원의 전략통'…SK하이닉스 AI 신사업 발굴 맡은 기타리스트 [강경주의 테크X]",
+     "link": "https://www.hankyung.com/article/2026081425646"
+    },
+    {
+     "date": "2026-08-15",
      "source": "파이낸셜뉴스",
      "title": "\"주가 겨우 살아났는데\"...SK하이닉스 '5단 중복상장' 논란, 개미들 '불안'",
      "link": "https://www.fnnews.com/news/202608141118010990"
@@ -13,6 +19,12 @@
      "source": "파이낸셜·증권",
      "title": "SK하이닉스 \"상반기 파생상품서 4조 손실…주식교환 영향\" [공시]",
      "link": "https://www.fnnews.com/news/202608141741444981"
+    },
+    {
+     "date": "2026-08-15",
+     "source": "파이낸셜·증권",
+     "title": "'국민주' 반열에 오른 SK하이닉스…소액주주 68만→346만 명 돌파",
+     "link": "https://www.fnnews.com/news/202608150818564539"
     },
     {
      "date": "2026-08-15",
@@ -709,18 +721,6 @@
      "source": "파이낸셜·증권",
      "title": "\"SK하이닉스 한달새 시총 반토막\" 韓·日 증시 패닉",
      "link": "https://www.fnnews.com/news/202607281338522448"
-    },
-    {
-     "date": "2026-07-28",
-     "source": "연합인포맥스",
-     "title": "계속되는 '달러 팔자'…20장 던지는 SK하이닉스에 달러-원 내리막",
-     "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4427293"
-    },
-    {
-     "date": "2026-07-28",
-     "source": "연합인포맥스",
-     "title": "[외환-마감] 'SK하이닉스·삼성전자發 달러 매도' 공세에 하락…6.00원↓",
-     "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4427322"
     }
    ]
   },
@@ -1465,8 +1465,20 @@
     {
      "date": "2026-08-15",
      "source": "한국경제·증권",
+     "title": "26일 '인베스터 데이' 여는 현대차…자사주 매입 발표 가능성은",
+     "link": "https://www.hankyung.com/article/202608142047i"
+    },
+    {
+     "date": "2026-08-15",
+     "source": "한국경제·증권",
      "title": "\"본업도 잘 나가네\"…지지부진하던 현대차·LG그룹 '동반 강세'",
      "link": "https://www.hankyung.com/article/202608142100i"
+    },
+    {
+     "date": "2026-08-15",
+     "source": "파이낸셜·증권",
+     "title": "현대차 투자공식 바뀌나…시총 13조 불린 '아틀라스'",
+     "link": "https://www.fnnews.com/news/202608151052082767"
     },
     {
      "date": "2026-08-15",
@@ -2302,6 +2314,12 @@
   },
   "애플(AAPL)": {
    "articles": [
+    {
+     "date": "2026-08-15",
+     "source": "연합인포맥스",
+     "title": "美 정부, 애플에 중국산 메모리 반도체 구매 자제 촉구",
+     "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4430336"
+    },
     {
      "date": "2026-08-13",
      "source": "뉴시스·경제",
@@ -7578,6 +7596,12 @@
   },
   "NHN(181710)": {
    "articles": [
+    {
+     "date": "2026-08-15",
+     "source": "한국경제·증권",
+     "title": "국민연금이 콕 찍은 NHN, 이달 들어서만 주가 두 배로 뛴 사연",
+     "link": "https://www.hankyung.com/article/202608141703i"
+    },
     {
      "date": "2026-08-12",
      "source": "파이낸셜·증권",
@@ -14898,6 +14922,12 @@
   },
   "샌디스크(SNDK)": {
    "articles": [
+    {
+     "date": "2026-08-15",
+     "source": "한국경제·증권",
+     "title": "소비둔화 우려에 주요지수 약세…샌디스크는 또 폭등 [뉴욕증시 브리핑]",
+     "link": "https://www.hankyung.com/article/2026081529647"
+    },
     {
      "date": "2026-08-15",
      "source": "한국경제·증권",
@@ -26561,7 +26591,33 @@
      "link": "https://view.asiae.co.kr/article/2026081315353939884"
     }
    ]
+  },
+  "더본코리아(475560)": {
+   "articles": [
+    {
+     "date": "2026-08-15",
+     "source": "한국경제·증권",
+     "title": "백종원 회사, 갑자기 무슨 일?…더본코리아, 주가 19% 뛰었다 [종목+]",
+     "link": "https://www.hankyung.com/article/2026081412356"
+    },
+    {
+     "date": "2026-08-15",
+     "source": "연합뉴스·경제",
+     "title": "더본코리아, 2분기 영업손실 56억원…작년 동기 대비 75% 개선",
+     "link": "https://www.yna.co.kr/view/AKR20260814162500030"
+    }
+   ]
+  },
+  "스톤브릿지벤처스(330730)": {
+   "articles": [
+    {
+     "date": "2026-08-15",
+     "source": "연합뉴스·경제",
+     "title": "스톤브릿지벤처스, 상반기 영업익 170억원…반기 기준 최대",
+     "link": "https://www.yna.co.kr/view/AKR20260814074900008"
+    }
+   ]
   }
  },
- "updatedAt": "2026-08-15T07:30:10+09:00"
+ "updatedAt": "2026-08-15T19:31:19+09:00"
 }
