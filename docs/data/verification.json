@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-08-16T08:02:57+09:00",
+ "updatedAt": "2026-08-16T20:09:00+09:00",
  "cases": [
   {
    "name": "오이솔루션(138080)",
@@ -30072,6 +30072,34 @@
      "price": 14000
     }
    ]
+  },
+  {
+   "name": "포인트모바일(318020)",
+   "type": "discovery",
+   "market": "韓",
+   "flagDate": "2026-08-16",
+   "signals": [
+    "실적서프라이즈",
+    "아마존공급확대",
+    "조기포착"
+   ],
+   "theme": "물류자동화",
+   "status": "pending",
+   "checks": [],
+   "flagPrice": 2815,
+   "priceLog": [
+    {
+     "date": "2026-08-14",
+     "price": 2815
+    }
+   ],
+   "convScore": 4,
+   "convTier": "mid",
+   "convSignals": [
+    "구체촉발재",
+    "틈새레이더"
+   ],
+   "convStampedAt": "2026-08-16"
   }
  ],
  "stats": {
@@ -30081,8 +30109,8 @@
   "miss": 100,
   "hitRate": 25.9,
   "avgD3ChangePct": 1.01,
-  "pending": 51,
-  "total": 283,
+  "pending": 52,
+  "total": 284,
   "byType": {
    "leading": {
     "verified": 100,
