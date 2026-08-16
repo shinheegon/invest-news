@@ -1451,6 +1451,12 @@
   "현대차(005380)": {
    "articles": [
     {
+     "date": "2026-08-17",
+     "source": "한국경제·증권",
+     "title": "'휴머노이드 1위' 유니트리 상장…현대차에 약 될까 독 될까 [노정동의 어쩌다 투자자]",
+     "link": "https://www.hankyung.com/article/2026081638176"
+    },
+    {
      "date": "2026-08-15",
      "source": "한국경제·증권",
      "title": "현대차 '로봇 공급망' 협력사로 부각…디아이씨 25% 급등",
@@ -13673,6 +13679,12 @@
   "에이피알(278470)": {
    "articles": [
     {
+     "date": "2026-08-17",
+     "source": "연합인포맥스",
+     "title": "에이피알, 영업익 화장품 빅2 제쳐…해외시장 '올인'",
+     "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4430353"
+    },
+    {
      "date": "2026-08-09",
      "source": "한국경제·증권",
      "title": "에이피알 '메디큐브' 검색량 역대 최고",
@@ -21859,6 +21871,12 @@
   "홈플러스": {
    "articles": [
     {
+     "date": "2026-08-17",
+     "source": "연합뉴스·경제",
+     "title": "카드업계 막았던 홈플러스 대금 지급 재개…일부는 가압류 묶여",
+     "link": "https://www.yna.co.kr/view/AKR20260815053000002"
+    },
+    {
      "date": "2026-08-15",
      "source": "연합뉴스·경제",
      "title": "정부, 홈플러스 근로자에 실업급여·융자 등 총 778억원 지원",
@@ -26877,7 +26895,273 @@
      "link": "https://view.asiae.co.kr/article/2026081315063750477"
     }
    ]
+  },
+  "구글(GOOGL)": {
+   "articles": [
+    {
+     "date": "2026-08-17",
+     "source": "한국경제·증권",
+     "title": "'buldak'에 꽂힌 외국인…구글 검색량 역대 최고",
+     "link": "https://www.hankyung.com/article/2026081641621"
+    },
+    {
+     "date": "2026-08-17",
+     "source": "아시아경제",
+     "title": "'AI 대전' 구글·아마존·MS…이제는 '비용 버티기' 승부[주末머니]",
+     "link": "https://view.asiae.co.kr/article/2026081315350228917"
+    }
+   ]
+  },
+  "무학(033920)": {
+   "articles": [
+    {
+     "date": "2026-08-17",
+     "source": "한국경제·증권",
+     "title": "\"ELS 좋은데이?\" 투자로 본업 10배 버는 소주회사 무학",
+     "link": "https://www.hankyung.com/article/202608163959i"
+    }
+   ]
+  },
+  "레노버(0992.HK)": {
+   "articles": [
+    {
+     "date": "2026-08-17",
+     "source": "한국경제·증권",
+     "title": "“메모리 가격 상승, 경쟁사 따돌릴 기회”…레노버 주가 46% 급등",
+     "link": "https://www.hankyung.com/article/202608141753i"
+    }
+   ]
+  },
+  "제이알글로벌리츠(348950)": {
+   "articles": [
+    {
+     "date": "2026-08-17",
+     "source": "아시아경제",
+     "title": "제이알글로벌리츠, ARS 협의기간 1개월 재연장",
+     "link": "https://view.asiae.co.kr/article/2026081420302601579"
+    }
+   ]
+  },
+  "예선테크(250930)": {
+   "articles": [
+    {
+     "date": "2026-08-17",
+     "source": "아시아경제",
+     "title": "예선테크, 올 상반기 매출 215억…전년 比 11% ↑",
+     "link": "https://view.asiae.co.kr/article/2026081416433083110"
+    }
+   ]
+  },
+  "엑시온그룹(220100)": {
+   "articles": [
+    {
+     "date": "2026-08-17",
+     "source": "아시아경제",
+     "title": "엑시온그룹, 상반기 영업흑자 전환…\"환기종목 탈출 청신호\"",
+     "link": "https://view.asiae.co.kr/article/2026081416084446838"
+    }
+   ]
+  },
+  "아틀라스링크(019660)": {
+   "articles": [
+    {
+     "date": "2026-08-17",
+     "source": "아시아경제",
+     "title": "아틀라스링크, 상반기 매출 341억·영업익 61억…사업 다각화로 외형 확대",
+     "link": "https://view.asiae.co.kr/article/2026081416003405618"
+    }
+   ]
+  },
+  "해성산업(034810)": {
+   "articles": [
+    {
+     "date": "2026-08-17",
+     "source": "아시아경제",
+     "title": "해성산업, 영업익 455억원…전년 동기比 286% 성장",
+     "link": "https://view.asiae.co.kr/article/2026081415325947692"
+    }
+   ]
+  },
+  "하이로닉(149980)": {
+   "articles": [
+    {
+     "date": "2026-08-17",
+     "source": "아시아경제",
+     "title": "하이로닉, 상반기 영업익 26억원…11년 만에 최대치",
+     "link": "https://view.asiae.co.kr/article/2026081415290313185"
+    }
+   ]
+  },
+  "아주IB투자(024810)": {
+   "articles": [
+    {
+     "date": "2026-08-17",
+     "source": "아시아경제",
+     "title": "아주IB투자, 역대 최대실적…성과보수 증가·스페이스X 투자 영향",
+     "link": "https://view.asiae.co.kr/article/2026081414480344993"
+    }
+   ]
+  },
+  "국일제지(078130)": {
+   "articles": [
+    {
+     "date": "2026-08-17",
+     "source": "아시아경제",
+     "title": "국일제지, 프리미엄 초배지 매출 '쑥'…반도체 캐리어지까지 고부가 특수지 승부수",
+     "link": "https://view.asiae.co.kr/article/2026081414432007035"
+    }
+   ]
+  },
+  "한창제지(009460)": {
+   "articles": [
+    {
+     "date": "2026-08-17",
+     "source": "아시아경제",
+     "title": "한창제지, 상반기 영업익 56억…전년比 135%↑수익성 '쑥'",
+     "link": "https://view.asiae.co.kr/article/2026081414310347257"
+    }
+   ]
+  },
+  "모나용평(007540)": {
+   "articles": [
+    {
+     "date": "2026-08-17",
+     "source": "아시아경제",
+     "title": "모나용평, 상반기 매출 817억…분양 공백에도 영업흑자 유지",
+     "link": "https://view.asiae.co.kr/article/2026081414201591290"
+    }
+   ]
+  },
+  "빙그레(005180)": {
+   "articles": [
+    {
+     "date": "2026-08-17",
+     "source": "아시아경제",
+     "title": "\"효율화로 수익성 개선\"…빙그레, 2Q 영업익 160% 증가",
+     "link": "https://view.asiae.co.kr/article/2026081410414870241"
+    }
+   ]
+  },
+  "SBI인베스트먼트(019550)": {
+   "articles": [
+    {
+     "date": "2026-08-17",
+     "source": "아시아경제",
+     "title": "SBI인베스트먼트, 올해 상반기 영업이익 전년比 277% 증가",
+     "link": "https://view.asiae.co.kr/article/2026081410212560182"
+    }
+   ]
+  },
+  "메타랩스(090370)": {
+   "articles": [
+    {
+     "date": "2026-08-17",
+     "source": "아시아경제",
+     "title": "메타랩스, 상반기 매출 580억 전년比 187%↑…영업익 흑자전환",
+     "link": "https://view.asiae.co.kr/article/2026081408522072187"
+    }
+   ]
+  },
+  "한컴라이프케어(376190)": {
+   "articles": [
+    {
+     "date": "2026-08-17",
+     "source": "아시아경제",
+     "title": "한컴라이프케어, 2분기 영업익 168% 급증…'방산·로봇' 투트랙 성장 본격화",
+     "link": "https://view.asiae.co.kr/article/2026081408493532531"
+    }
+   ]
+  },
+  "HLB제약(047920)": {
+   "articles": [
+    {
+     "date": "2026-08-17",
+     "source": "아시아경제",
+     "title": "HLB제약, 상반기 매출 1279억원…역대 최대 반기 실적",
+     "link": "https://view.asiae.co.kr/article/2026081408213037247"
+    }
+   ]
+  },
+  "제이씨케미칼(137950)": {
+   "articles": [
+    {
+     "date": "2026-08-17",
+     "source": "아시아경제",
+     "title": "[클릭 e종목]\"제이씨케미칼, 2분기 영업익 189% 급증…팜·바이오연료 동반 호황\"",
+     "link": "https://view.asiae.co.kr/article/2026081408074324383"
+    }
+   ]
+  },
+  "한창산업(079960)": {
+   "articles": [
+    {
+     "date": "2026-08-17",
+     "source": "아시아경제",
+     "title": "한창산업, 상반기 영업익 29억…\"하반기 수출 확대 기대\"",
+     "link": "https://view.asiae.co.kr/article/2026081315485043108"
+    }
+   ]
+  },
+  "뉴로메카(348340)": {
+   "articles": [
+    {
+     "date": "2026-08-17",
+     "source": "연합인포맥스",
+     "title": "뉴로메카 실권주 떠안은 한투·NH·삼성…주가 반등에 '평가손' 숨통",
+     "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4430343"
+    }
+   ]
+  },
+  "Cisco(CSCO)": {
+   "articles": [
+    {
+     "date": "2026-08-17",
+     "source": "CNBC·Markets",
+     "title": "Cisco's stock drops despite earnings, revenue beat",
+     "link": "https://www.cnbc.com/2026/08/12/ciscos-stock-drops-despite-earnings-revenue-beat.html"
+    }
+   ]
+  },
+  "Pony.ai(PONY)": {
+   "articles": [
+    {
+     "date": "2026-08-17",
+     "source": "CNBC·Finance",
+     "title": "Uber partners with China's Pony.ai for 2,000 robotaxis in Europe",
+     "link": "https://www.cnbc.com/2026/08/14/uber-partners-with-chinas-ponyai-for-2000-robotaxis-in-europe.html"
+    }
+   ]
+  },
+  "Uber(UBER)": {
+   "articles": [
+    {
+     "date": "2026-08-17",
+     "source": "CNBC·Finance",
+     "title": "Uber partners with China's Pony.ai for 2,000 robotaxis in Europe",
+     "link": "https://www.cnbc.com/2026/08/14/uber-partners-with-chinas-ponyai-for-2000-robotaxis-in-europe.html"
+    }
+   ]
+  },
+  "Kioxia(285A.T)": {
+   "articles": [
+    {
+     "date": "2026-08-17",
+     "source": "CNBC·Finance",
+     "title": "This Chinese firm has topped Micron and Kioxia in shipments of crucial NAND memory chips",
+     "link": "https://www.cnbc.com/2026/08/13/chinese-firm-tops-micron-kioxia-shipments-nand-memory-chips.html"
+    }
+   ]
+  },
+  "Micron(MU)": {
+   "articles": [
+    {
+     "date": "2026-08-17",
+     "source": "CNBC·Finance",
+     "title": "This Chinese firm has topped Micron and Kioxia in shipments of crucial NAND memory chips",
+     "link": "https://www.cnbc.com/2026/08/13/chinese-firm-tops-micron-kioxia-shipments-nand-memory-chips.html"
+    }
+   ]
   }
  },
- "updatedAt": "2026-08-16T19:31:40+09:00"
+ "updatedAt": "2026-08-17T07:28:01+09:00"
 }

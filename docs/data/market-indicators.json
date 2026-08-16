@@ -1,24 +1,24 @@
 {
-  "updatedAt": "2026-08-16T19:45:00+09:00", "session": "PM",
-  "note": "8/15(토)·8/16(일) 국내 증시 이틀 연속 휴장(다음 거래일 8/17 월). 코스피/코스닥은 직전 거래일(8/14 금) 마감치 유지. 美 증시도 주말이라 신규 세션 없음 — 8/14(금) 마감치 유지. WTI는 AM 세션 수치(72.5)가 오기로 확인돼 CNBC 원 기사 기준 82.40으로 정정. 최대 변수는 美-이란 호르무즈 정전이 8/17(한국장 재개장일)에 만료되는 것 — 8/16 기준도 연장 여부 '교착' 유지(이란측 '연장 논의 자체 없음' 재반박).",
+  "updatedAt": "2026-08-17T07:45:00+09:00", "session": "AM",
+  "note": "오늘(8/17 월)은 8/15~16 주말 이틀 연속 휴장 이후 첫 개장일. 코스피·코스닥·美 3대지수·금리·환율 모두 직전 거래일(8/14 금) 마감치가 최신값(주말엔 신규 세션 없음). 최대 변수는 美-이란 호르무즈 정전 만료 협상 — 8/16 기준 여전히 '교착'(이란 측은 美 봉쇄 해제·배상이 먼저라는 입장 고수). 오늘 한국장 개장은 지난주 4거래일 연속 상승(외국인 8.07조 순매수, 반도체 랠리) 모멘텀을 안고 시작.",
   "stock_fng": { "value": 65, "label": "Greed", "source": "https://www.cnn.com/markets/fear-and-greed" },
   "indices": [
-    { "name": "코스피", "value": "6,977.94", "change": "+2.42%(8/14 마감, 4거래일 연속 상승, 8/15~16 휴장)", "source": "https://view.asiae.co.kr/article/2026081415344059798" },
+    { "name": "코스피", "value": "6,977.94", "change": "+2.42%(8/14 마감, 4거래일 연속 상승·주간 5일 기준 +10.77%, 8/15~16 휴장)", "source": "https://view.asiae.co.kr/article/2026081415344059798" },
     { "name": "코스닥", "value": "864.65", "change": "+0.38%(8/14 마감)", "source": "https://view.asiae.co.kr/article/2026081415351470899" },
     { "name": "다우존스", "value": "53,732.41", "change": "-0.20%(8/14 마감, 8/13 사상최고 후 조정)", "source": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-aug-14-2026" },
-    { "name": "S&P 500", "value": "7,785.76", "change": "-0.17%(8/14 마감)", "source": "https://www.newstribune.com/news/2026/aug/14/sp-500-notches-record-high-close-as-rate-hike/" },
-    { "name": "나스닥", "value": "26,729.16", "change": "-0.28%(8/14 마감)", "source": "https://www.detroitnews.com/story/business/2026/08/14/wall-street-subdued-as-markets-pause-after-sp-record-high/91303379007/" },
+    { "name": "S&P 500", "value": "7,785.76", "change": "-0.17%(8/14 마감, 3주 연속 주간 상승)", "source": "https://finance.yahoo.com/markets/live/stock-market-today-friday-august-14-dow-sp-500-nasdaq-102635519.html" },
+    { "name": "나스닥", "value": "26,729.16", "change": "-0.28%(8/14 마감)", "source": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-aug-14-2026" },
     { "name": "VIX", "value": "14.25", "change": "저변동성 지속(2026년 최저권)", "source": "https://ts2.tech/en/vix-at-14-6-prices-sub-1-sp-500-moves-before-fridays-open/" },
-    { "name": "美 10년물", "value": "4.68%", "change": "보합", "source": "https://www.hankyung.com/article/2026081425291" },
+    { "name": "美 10년물", "value": "4.68%", "change": "보합(2007년 이후 高레벨권)", "source": "https://www.hankyung.com/article/2026081425291" },
     { "name": "美 30년물", "value": "5.22%", "change": "2001년 이후 최고 — 40조달러 국가부채 여파", "source": "https://www.hankyung.com/article/2026081425291" },
     { "name": "국고채 3년물", "value": "3.796%", "change": "혼조", "source": "https://www.yna.co.kr/view/AKR20260814141200008" },
-    { "name": "달러인덱스(DXY)", "value": "99.8", "change": "1주 최저(7월 소매판매 부진에 9월 인상기대 후퇴)", "source": "https://www.investing.com/indices/usdollar-historical-data" },
+    { "name": "달러인덱스(DXY)", "value": "99.8", "change": "1주 최저권(7월 소매판매 부진에 9월 인상기대 후퇴)", "source": "https://www.investing.com/indices/usdollar-historical-data" },
     { "name": "원/달러", "value": "1,418.30", "change": "보합(1,410원대 후반)", "source": "https://news.einfomax.co.kr/news/articleView.html?idxno=4430264" },
-    { "name": "美 기준금리", "value": "3.50~3.75%", "change": "0(7/29 FOMC 동결, 매파 3인 인상 소수의견)", "source": "https://www.cnbc.com/2026/05/13/kevin-warsh-wins-senate-confirmation-as-the-next-federal-reserve-chair.html" },
-    { "name": "한국 기준금리", "value": "2.75%", "change": "0(7/16 0.25%p 인상 후 유지, 다음 금통위 8/27)", "source": "https://www.tossbank.com/articles/baserate2601" },
+    { "name": "美 기준금리", "value": "3.50~3.75%", "change": "0(7/29 FOMC 동결, 매파 3인 인상 소수의견)", "source": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260729a.htm" },
+    { "name": "한국 기준금리", "value": "2.75%", "change": "0(7/16 0.25%p 인상 후 유지)", "source": "https://www.tossbank.com/articles/baserate2601" },
     { "name": "美 CPI", "value": "3.4%", "change": "-0.1%p(7월, 컨센서스 부합)", "source": "https://www.cnbc.com/2026/08/12/cpi-inflation-report-july-2026.html" },
-    { "name": "韓 CPI", "value": "2.8%", "change": "-0.4%p(7월)", "source": "https://www.newspim.com/news/view/20260804000037" },
-    { "name": "금(Gold)", "value": "4,389", "change": "+0.3%(호르무즈 리스크 프리미엄 지속, $4,400 저항)", "source": "https://www.forbes.com/sites/saradorn/2026/08/15/iran-tells-trump-accept-the-reality-he-cant-make-strait-of-hormuz-us-territory/" },
-    { "name": "WTI", "value": "82.40", "change": "+1.4%(8/14 마감, 주간 +5%↑, IEA '5년만의 최대 공급부족' 경고) — AM세션 오기(72.5) 정정", "source": "https://www.cnbc.com/2026/08/14/oil-prices-today-brent-wti-hormuz.html" }
+    { "name": "韓 CPI", "value": "2.8%", "change": "-0.4%p(7월, 3.2%→2.8%)", "source": "https://www.korea.kr/briefing/policyBriefingView.do?newsId=156773259" },
+    { "name": "금(Gold)", "value": "4,389", "change": "-1.3%(호르무즈 리스크 프리미엄 속 숨고르기, $4,400 저항)", "source": "https://www.forbes.com/sites/saradorn/2026/08/15/iran-tells-trump-accept-the-reality-he-cant-make-strait-of-hormuz-us-territory/" },
+    { "name": "WTI", "value": "82.40", "change": "+1.4%(8/14 마감, 주간 +5%↑, 호르무즈 봉쇄 장기화 우려)", "source": "https://www.cnbc.com/2026/08/14/oil-prices-today-brent-wti-hormuz.html" }
   ]
 }

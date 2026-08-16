@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-08-16T20:09:00+09:00",
+ "updatedAt": "2026-08-17T07:55:59+09:00",
  "cases": [
   {
    "name": "오이솔루션(138080)",
@@ -30100,6 +30100,34 @@
     "틈새레이더"
    ],
    "convStampedAt": "2026-08-16"
+  },
+  {
+   "name": "한컴라이프케어(376190)",
+   "type": "leading",
+   "market": "韓",
+   "flagDate": "2026-08-17",
+   "signals": [
+    "구체촉발재",
+    "승세테마근접",
+    "조기포착"
+   ],
+   "theme": "로봇/휴머노이드+방산",
+   "status": "pending",
+   "checks": [],
+   "flagPrice": 4165,
+   "priceLog": [
+    {
+     "date": "2025-02-19",
+     "price": 4165
+    }
+   ],
+   "convScore": 4,
+   "convTier": "mid",
+   "convSignals": [
+    "승세테마",
+    "틈새레이더"
+   ],
+   "convStampedAt": "2026-08-17"
   }
  ],
  "stats": {
@@ -30109,8 +30137,8 @@
   "miss": 100,
   "hitRate": 25.9,
   "avgD3ChangePct": 1.01,
-  "pending": 52,
-  "total": 284,
+  "pending": 53,
+  "total": 285,
   "byType": {
    "leading": {
     "verified": 100,
