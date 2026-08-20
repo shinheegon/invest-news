@@ -3,6 +3,24 @@
   "SK하이닉스(000660)": {
    "articles": [
     {
+     "date": "2026-08-21",
+     "source": "파이낸셜뉴스",
+     "title": "40조는 시작일 뿐…\"SK하이닉스, 180조 더 푼다 지금 사 모아라\" 전망 나와",
+     "link": "https://www.fnnews.com/news/202608201915054400"
+    },
+    {
+     "date": "2026-08-21",
+     "source": "파이낸셜·증권",
+     "title": "\"40조 환원보다 AI 투자가 변수\"… SK하이닉스 '재무체력' 주시 [fn마켓워치]",
+     "link": "https://www.fnnews.com/news/202608201829439158"
+    },
+    {
+     "date": "2026-08-21",
+     "source": "연합인포맥스",
+     "title": "SK하이닉스 ADR 이틀째 상승…적극적 주주환원 정책에 5%↑",
+     "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4431074"
+    },
+    {
      "date": "2026-08-20",
      "source": "한국경제·증권",
      "title": "SK하이닉스의 통큰 자사주 소각…증시엔 어떤 영향 미칠까",
@@ -703,24 +721,6 @@
      "source": "아시아경제",
      "title": "최태원, SK하이닉스 주식 48억 규모 장내매수",
      "link": "https://view.asiae.co.kr/article/2026073019450580983"
-    },
-    {
-     "date": "2026-07-31",
-     "source": "아시아경제",
-     "title": "[속보]SK하이닉스, 장중 상한가 기록…171만8000원",
-     "link": "https://view.asiae.co.kr/article/2026073114200759049"
-    },
-    {
-     "date": "2026-07-31",
-     "source": "아시아경제",
-     "title": "SK하이닉스 등 AI주식 변동에 헤지펀드·가상자산 파생상품 청산",
-     "link": "https://view.asiae.co.kr/article/2026073109213508002"
-    },
-    {
-     "date": "2026-07-31",
-     "source": "아시아경제",
-     "title": "SK하이닉스 1주에 800억원?…가상자산 강제 청산 사고",
-     "link": "https://view.asiae.co.kr/article/2026073014435134205"
     }
    ]
   },
@@ -3858,6 +3858,12 @@
   },
   "엔비디아(NVDA)": {
    "articles": [
+    {
+     "date": "2026-08-21",
+     "source": "파이낸셜·증권",
+     "title": "대신證 \"엔비디아가 인정한 LG 밸류체인…다음 타자는 엑사원\"",
+     "link": "https://www.fnnews.com/news/202608210710144016"
+    },
     {
      "date": "2026-08-19",
      "source": "뉴시스·경제",
@@ -19607,6 +19613,12 @@
   "대상(001680)": {
    "articles": [
     {
+     "date": "2026-08-21",
+     "source": "연합뉴스·경제",
+     "title": "서울미래인재재단, 이금희 초청 청년 대상 '스피치 특강'",
+     "link": "https://www.yna.co.kr/view/AKR20260820144800004"
+    },
+    {
      "date": "2026-08-20",
      "source": "한국경제·경제",
      "title": "신한銀, 중저신용자 대상…'슈퍼SOL중금리대출' 출시",
@@ -22570,6 +22582,12 @@
   },
   "남양유업(003920)": {
    "articles": [
+    {
+     "date": "2026-08-21",
+     "source": "한국경제·경제",
+     "title": "2년 연속 1위 굳혔다…단백질 시장 흔드는 남양유업",
+     "link": "https://www.hankyung.com/article/202608203164i"
+    },
     {
      "date": "2026-08-15",
      "source": "연합인포맥스",
@@ -27329,6 +27347,12 @@
   "LG(003550)": {
    "articles": [
     {
+     "date": "2026-08-21",
+     "source": "파이낸셜·증권",
+     "title": "대신證 \"엔비디아가 인정한 LG 밸류체인…다음 타자는 엑사원\"",
+     "link": "https://www.fnnews.com/news/202608210710144016"
+    },
+    {
      "date": "2026-08-19",
      "source": "한국경제·경제",
      "title": "\"원이 고향 거제 도와주세요\"…리센느도, 삼성·LG도 나섰다",
@@ -27579,6 +27603,12 @@
   "크라우드스트라이크(CRWD)": {
    "articles": [
     {
+     "date": "2026-08-21",
+     "source": "연합인포맥스",
+     "title": "크라우드스트라이크, 핵심 기술임원 퇴사에 5% 하락",
+     "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4431099"
+    },
+    {
      "date": "2026-08-11",
      "source": "연합인포맥스",
      "title": "AI 해커 경고…크라우드스트라이크·팔로알토, 블랙햇 콘퍼런스 후 신고가",
@@ -27698,6 +27728,12 @@
   },
   "니어스랩": {
    "articles": [
+    {
+     "date": "2026-08-21",
+     "source": "연합뉴스·경제",
+     "title": "유캐스트 등 3사 코스닥 상장예심 통과…니어스랩은 신규상장",
+     "link": "https://www.yna.co.kr/view/AKR20260820177500008"
+    },
     {
      "date": "2026-08-13",
      "source": "한국경제·경제",
@@ -28653,6 +28689,12 @@
   "월마트(WMT)": {
    "articles": [
     {
+     "date": "2026-08-21",
+     "source": "연합인포맥스",
+     "title": "월마트, 부진한 2분기 실적 발표에 주가 6% ↓",
+     "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4431071"
+    },
+    {
      "date": "2026-08-20",
      "source": "한국경제·증권",
      "title": "\"장사 잘되는데 주가는 뚝”…월마트의 이상한 여름",
@@ -28689,7 +28731,43 @@
      "link": "https://view.asiae.co.kr/article/2026081914565855834"
     }
    ]
+  },
+  "우리기술(032820)": {
+   "articles": [
+    {
+     "date": "2026-08-21",
+     "source": "한국경제·증권",
+     "title": "우리기술, 한수원과 85억 규모 고리 3·4호기 PMS DAS 공급계약",
+     "link": "https://www.hankyung.com/article/2026082015226"
+    },
+    {
+     "date": "2026-08-21",
+     "source": "아시아경제",
+     "title": "우리기술, 85억원 규모 원전 제어시스템 공급계약 체결",
+     "link": "https://view.asiae.co.kr/article/2026082010113859629"
+    }
+   ]
+  },
+  "카카오모빌리티": {
+   "articles": [
+    {
+     "date": "2026-08-21",
+     "source": "연합인포맥스",
+     "title": "카카오모빌리티, 美 ADR 상장 검토…TPG 지분 기초로 F-1 제출",
+     "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4431052"
+    }
+   ]
+  },
+  "CoreWeave(CRWV)": {
+   "articles": [
+    {
+     "date": "2026-08-21",
+     "source": "MarketWatch",
+     "title": "Neocloud stocks like CoreWeave are having a moment — and time’s running out to cash in",
+     "link": "https://www.marketwatch.com/story/neocloud-stocks-like-coreweave-are-having-a-moment-and-times-running-out-to-cash-in-8aca34c8?mod=mw_rss_topstories"
+    }
+   ]
   }
  },
- "updatedAt": "2026-08-20T19:39:03+09:00"
+ "updatedAt": "2026-08-21T07:34:11+09:00"
 }
