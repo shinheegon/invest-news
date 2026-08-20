@@ -1,22 +1,31 @@
 {
- "updatedAt": "2026-08-20T07:58:44+09:00",
+ "updatedAt": "2026-08-20T20:14:08+09:00",
  "note": "빗나감 자동 원인분류 + 자기발전 필터. 투자권유 아님.",
  "summary": {
-  "resolved": 175,
-  "miss": 87,
-  "missRate": 49.7,
-  "preventable": 43,
-  "preventableShare": 49.4
+  "resolved": 186,
+  "miss": 96,
+  "missRate": 51.6,
+  "preventable": 47,
+  "preventableShare": 49.0
  },
  "byCause": [
   {
    "cause": "weak_signal",
    "label": "신호 약함(구체 촉발재 없음)",
-   "n": 41,
-   "share": 47.1,
-   "avgExcess": -4.68,
+   "n": 45,
+   "share": 46.9,
+   "avgExcess": -5.8,
    "preventable": true,
    "examples": [
+    {
+     "name": "한컴라이프케어(372910)",
+     "flagDate": "2026-08-17",
+     "excessPct": -54.19,
+     "theme": "로봇/휴머노이드",
+     "tags": [
+      "weak_signal"
+     ]
+    },
     {
      "name": "케이엠제약(225430)",
      "flagDate": "2026-07-07",
@@ -36,25 +45,15 @@
       "weak_signal",
       "macro_riskoff"
      ]
-    },
-    {
-     "name": "삼화콘덴서(001820)",
-     "flagDate": "2026-06-21",
-     "excessPct": -12.14,
-     "theme": "기타",
-     "tags": [
-      "weak_signal",
-      "macro_riskoff"
-     ]
     }
    ]
   },
   {
    "cause": "idiosyncratic",
    "label": "개별 악재(불가피)",
-   "n": 29,
-   "share": 33.3,
-   "avgExcess": -5.18,
+   "n": 34,
+   "share": 35.4,
+   "avgExcess": -5.2,
    "preventable": false,
    "examples": [
     {
@@ -84,7 +83,7 @@
    "cause": "macro_riskoff",
    "label": "거시 위험회피(시장 동반 급락)",
    "n": 15,
-   "share": 17.2,
+   "share": 15.6,
    "avgExcess": -3.74,
    "preventable": false,
    "examples": [
@@ -121,7 +120,7 @@
    "cause": "theme_headwind",
    "label": "열세 테마(자금 이탈)",
    "n": 2,
-   "share": 2.3,
+   "share": 2.1,
    "avgExcess": -55.29,
    "preventable": true,
    "examples": [
@@ -148,19 +147,19 @@
  ],
  "learnedFilter": {
   "themeMissRate": {
-   "로봇/휴머노이드": 47.2,
-   "기타": 40.0,
+   "로봇/휴머노이드": 51.7,
+   "기타": 41.7,
    "바이오/의료": 100.0,
    "반도체소재/장비": 62.5,
    "신재생에너지": 80.0,
-   "AI전력/데이터센터": 53.3,
+   "AI전력/데이터센터": 56.2,
    "이차전지": 40.0,
    "우주/방산": 60.0,
    "AI반도체설계(팹리스/IP)": 47.8
   },
   "signalMissRate": {
-   "weak": 48.2,
-   "concrete": 51.1
+   "weak": 49.5,
+   "concrete": 53.7
   },
   "rules": [
    "'바이오/의료' 테마는 빗나감률 100.0% — 강한 회피(구체촉발재+승세 아니면 제외).",
@@ -170,12 +169,12 @@
   ]
  },
  "macro": {
-  "regime": "위험회피",
-  "kospi5d": -7.26,
-  "kosdaq5d": -4.65,
-  "fearGreed": 56.0,
-  "vix": 15.84,
-  "guidance": "소형주 언더퍼폼 국면 — 포착 수를 줄이고 승세테마×구체촉발재만 최고확신으로. 열세테마·약신호 전면 배제.",
+  "regime": "중립",
+  "kospi5d": -1.8,
+  "kosdaq5d": -2.75,
+  "fearGreed": 54.0,
+  "vix": 14.55,
+  "guidance": "선별 유지 — 승세테마+구체촉발재 우선, 약신호·열세테마 경계.",
   "asOf": "2026-08-20"
  },
  "history": [
@@ -588,15 +587,15 @@
   },
   {
    "date": "2026-08-20",
-   "resolved": 175,
-   "missRate": 49.7,
+   "resolved": 186,
+   "missRate": 51.6,
    "causeShares": {
-    "weak_signal": 47.1,
-    "idiosyncratic": 33.3,
-    "macro_riskoff": 17.2,
-    "theme_headwind": 2.3
+    "weak_signal": 46.9,
+    "idiosyncratic": 35.4,
+    "macro_riskoff": 15.6,
+    "theme_headwind": 2.1
    }
   }
  ],
- "develop": "직전(2026-08-19) 대비 빗나감률 49.7%→49.7% (+0.0p). 최다 원인=‘신호 약함(구체 촉발재 없음)’. 필터에 반영됨."
+ "develop": "직전(2026-08-19) 대비 빗나감률 49.7%→51.6% (+1.9p). 최다 원인=‘신호 약함(구체 촉발재 없음)’. 필터에 반영됨."
 }

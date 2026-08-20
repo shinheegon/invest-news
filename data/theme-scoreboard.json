@@ -1,13 +1,13 @@
 {
- "updatedAt": "2026-08-20T07:58:44+09:00",
+ "updatedAt": "2026-08-20T20:14:07+09:00",
  "themes": [
   {
    "theme": "로봇/휴머노이드",
-   "n": 73,
-   "hit": 22,
-   "miss": 32,
-   "hitRate": 30.1,
-   "avgD3": 4.7,
+   "n": 83,
+   "hit": 23,
+   "miss": 38,
+   "hitRate": 27.7,
+   "avgD3": 3.1,
    "momentum": "상승"
   },
   {
@@ -30,38 +30,29 @@
   },
   {
    "theme": "기타",
-   "n": 54,
+   "n": 58,
    "hit": 15,
-   "miss": 20,
-   "hitRate": 27.8,
+   "miss": 23,
+   "hitRate": 25.9,
    "avgD3": 0.8,
    "momentum": "중립"
   },
   {
-   "theme": "AI반도체설계(팹리스/IP)",
-   "n": 33,
-   "hit": 7,
-   "miss": 15,
-   "hitRate": 21.2,
-   "avgD3": -0.1,
-   "momentum": "중립"
-  },
-  {
    "theme": "반도체소재/장비",
-   "n": 21,
+   "n": 22,
    "hit": 3,
    "miss": 9,
-   "hitRate": 14.3,
-   "avgD3": -0.7,
+   "hitRate": 13.6,
+   "avgD3": -0.4,
    "momentum": "중립"
   },
   {
    "theme": "AI전력/데이터센터",
-   "n": 22,
+   "n": 23,
    "hit": 9,
-   "miss": 9,
-   "hitRate": 40.9,
-   "avgD3": -1.0,
+   "miss": 10,
+   "hitRate": 39.1,
+   "avgD3": -1.1,
    "momentum": "중립"
   },
   {
@@ -90,6 +81,15 @@
    "hitRate": 28.6,
    "avgD3": -13.8,
    "momentum": "하락"
+  },
+  {
+   "theme": "AI반도체설계(팹리스/IP)",
+   "n": 35,
+   "hit": 7,
+   "miss": 15,
+   "hitRate": 20.0,
+   "avgD3": -0.0,
+   "momentum": "중립"
   }
  ],
  "winning": [
