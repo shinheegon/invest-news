@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-08-21T20:12:33+09:00",
+ "updatedAt": "2026-08-22T08:02:53+09:00",
  "note": "AI에 구조적으로 필수인 부품·밸류체인 기업을 '장기 전망·비전' 기준으로 선별한 관찰 그룹. 단기 모멘텀(검증 D+3)과는 별개 — 각 종목에 현재 모멘텀도 함께 표기. 투자권유 아님, 정보·관찰용.",
  "macroOverview": "거시 큰 그림: AI 데이터센터 capex는 경기 사이클과 디커플링된 '구조적 투자'다 — 빅테크(MS·구글·메타·아마존)의 설비투자는 경기와 무관하게 매년 증액되고 있다. 금리 인하 사이클 진입은 성장주 밸류에이션에 우호적(할인율↓). 시장의 병목이 HBM → 전력 → 냉각 → 광통신 순으로 '로테이션'하는 게 핵심 흐름이라, 어느 한 계층이 조정받아도 다음 병목으로 자금이 옮겨간다. 단기적으로는 메모리 고점론·급락장(위험회피)으로 소부장·전력이 눌려 있으나, 이는 '구조적 성장 vs 단기 수급'의 괴리 구간. 우리 그룹은 이 괴리를 계층별로 보여줘 '비전은 필수인데 아직 자금이 안 붙은' 눌림 구간을 포착하는 게 목적이다.",
  "categories": [
@@ -78,7 +78,7 @@
    "tickerMismatch": false,
    "price": 1730000,
    "changeRate": "2.31",
-   "sinceAddedPct": -9.1,
+   "sinceAddedPct": -7.0,
    "priceLog": [
     {
      "date": "2026-07-13",
@@ -231,6 +231,10 @@
     {
      "date": "2026-08-21",
      "price": 1691000
+    },
+    {
+     "date": "2026-08-22",
+     "price": 1730000
     }
    ],
    "momentum": "중립",
@@ -249,7 +253,7 @@
    "tickerMismatch": false,
    "price": 281500,
    "changeRate": "3.87",
-   "sinceAddedPct": 5.7,
+   "sinceAddedPct": 9.7,
    "priceLog": [
     {
      "date": "2026-07-13",
@@ -402,6 +406,10 @@
     {
      "date": "2026-08-21",
      "price": 271000
+    },
+    {
+     "date": "2026-08-22",
+     "price": 281500
     }
    ],
    "momentum": "중립",
@@ -420,7 +428,7 @@
    "tickerMismatch": false,
    "price": 213500,
    "changeRate": "-5.32",
-   "sinceAddedPct": 9.5,
+   "sinceAddedPct": 3.6,
    "priceLog": [
     {
      "date": "2026-07-13",
@@ -573,6 +581,10 @@
     {
      "date": "2026-08-21",
      "price": 225500
+    },
+    {
+     "date": "2026-08-22",
+     "price": 213500
     }
    ],
    "momentum": "중립",
@@ -591,7 +603,7 @@
    "tickerMismatch": false,
    "price": 35000,
    "changeRate": "-5.15",
-   "sinceAddedPct": -4.8,
+   "sinceAddedPct": -9.7,
    "priceLog": [
     {
      "date": "2026-07-13",
@@ -744,6 +756,10 @@
     {
      "date": "2026-08-21",
      "price": 36900
+    },
+    {
+     "date": "2026-08-22",
+     "price": 35000
     }
    ],
    "momentum": "중립",
@@ -762,7 +778,7 @@
    "tickerMismatch": false,
    "price": 99700,
    "changeRate": "-13.23",
-   "sinceAddedPct": 5.7,
+   "sinceAddedPct": -8.3,
    "priceLog": [
     {
      "date": "2026-07-13",
@@ -915,6 +931,10 @@
     {
      "date": "2026-08-21",
      "price": 114900
+    },
+    {
+     "date": "2026-08-22",
+     "price": 99700
     }
    ],
    "momentum": "중립",
@@ -933,7 +953,7 @@
    "tickerMismatch": false,
    "price": 1316000,
    "changeRate": "-5.73",
-   "sinceAddedPct": 7.5,
+   "sinceAddedPct": 1.3,
    "priceLog": [
     {
      "date": "2026-07-13",
@@ -1086,6 +1106,10 @@
     {
      "date": "2026-08-21",
      "price": 1396000
+    },
+    {
+     "date": "2026-08-22",
+     "price": 1316000
     }
    ],
    "momentum": "중립",
@@ -1104,7 +1128,7 @@
    "tickerMismatch": false,
    "price": 83400,
    "changeRate": "-3.36",
-   "sinceAddedPct": -1.9,
+   "sinceAddedPct": -5.2,
    "priceLog": [
     {
      "date": "2026-07-13",
@@ -1257,6 +1281,10 @@
     {
      "date": "2026-08-21",
      "price": 86300
+    },
+    {
+     "date": "2026-08-22",
+     "price": 83400
     }
    ],
    "momentum": "중립",
@@ -1275,7 +1303,7 @@
    "tickerMismatch": false,
    "price": 26400,
    "changeRate": "-5.55",
-   "sinceAddedPct": -4.0,
+   "sinceAddedPct": -9.3,
    "priceLog": [
     {
      "date": "2026-07-13",
@@ -1428,6 +1456,10 @@
     {
      "date": "2026-08-21",
      "price": 27950
+    },
+    {
+     "date": "2026-08-22",
+     "price": 26400
     }
    ],
    "momentum": "중립",
@@ -1446,7 +1478,7 @@
    "tickerMismatch": false,
    "price": 20400,
    "changeRate": "-5.99",
-   "sinceAddedPct": 2.8,
+   "sinceAddedPct": -3.3,
    "priceLog": [
     {
      "date": "2026-07-13",
@@ -1599,6 +1631,10 @@
     {
      "date": "2026-08-21",
      "price": 21700
+    },
+    {
+     "date": "2026-08-22",
+     "price": 20400
     }
    ],
    "momentum": "중립",
@@ -1617,7 +1653,7 @@
    "tickerMismatch": false,
    "price": 45000,
    "changeRate": "-4.56",
-   "sinceAddedPct": -4.9,
+   "sinceAddedPct": -9.3,
    "priceLog": [
     {
      "date": "2026-07-13",
@@ -1770,6 +1806,10 @@
     {
      "date": "2026-08-21",
      "price": 47150
+    },
+    {
+     "date": "2026-08-22",
+     "price": 45000
     }
    ],
    "momentum": "중립",
@@ -1788,7 +1828,7 @@
    "tickerMismatch": false,
    "price": 8960,
    "changeRate": "-3.45",
-   "sinceAddedPct": -12.5,
+   "sinceAddedPct": -15.6,
    "priceLog": [
     {
      "date": "2026-07-13",
@@ -1941,6 +1981,10 @@
     {
      "date": "2026-08-21",
      "price": 9280
+    },
+    {
+     "date": "2026-08-22",
+     "price": 8960
     }
    ],
    "momentum": "중립",
@@ -1959,7 +2003,7 @@
    "tickerMismatch": false,
    "price": 718000,
    "changeRate": "-3.75",
-   "sinceAddedPct": -5.3,
+   "sinceAddedPct": -8.9,
    "priceLog": [
     {
      "date": "2026-07-13",
@@ -2112,6 +2156,10 @@
     {
      "date": "2026-08-21",
      "price": 746000
+    },
+    {
+     "date": "2026-08-22",
+     "price": 718000
     }
    ],
    "momentum": "중립",
@@ -2130,7 +2178,7 @@
    "tickerMismatch": false,
    "price": 187000,
    "changeRate": "-6.12",
-   "sinceAddedPct": 8.5,
+   "sinceAddedPct": 1.9,
    "priceLog": [
     {
      "date": "2026-07-13",
@@ -2283,6 +2331,10 @@
     {
      "date": "2026-08-21",
      "price": 199200
+    },
+    {
+     "date": "2026-08-22",
+     "price": 187000
     }
    ],
    "momentum": "중립",
@@ -2301,7 +2353,7 @@
    "tickerMismatch": false,
    "price": 2721000,
    "changeRate": "-4.76",
-   "sinceAddedPct": 6.7,
+   "sinceAddedPct": 1.6,
    "priceLog": [
     {
      "date": "2026-07-13",
@@ -2454,6 +2506,10 @@
     {
      "date": "2026-08-21",
      "price": 2857000
+    },
+    {
+     "date": "2026-08-22",
+     "price": 2721000
     }
    ],
    "momentum": "중립",
@@ -2472,7 +2528,7 @@
    "tickerMismatch": false,
    "price": 9010,
    "changeRate": "-6.63",
-   "sinceAddedPct": 11.6,
+   "sinceAddedPct": 4.2,
    "priceLog": [
     {
      "date": "2026-07-13",
@@ -2625,6 +2681,10 @@
     {
      "date": "2026-08-21",
      "price": 9650
+    },
+    {
+     "date": "2026-08-22",
+     "price": 9010
     }
    ],
    "momentum": "중립",
@@ -2643,7 +2703,7 @@
    "tickerMismatch": false,
    "price": 8680,
    "changeRate": "-5.24",
-   "sinceAddedPct": 8.8,
+   "sinceAddedPct": 3.1,
    "priceLog": [
     {
      "date": "2026-07-13",
@@ -2796,6 +2856,10 @@
     {
      "date": "2026-08-21",
      "price": 9160
+    },
+    {
+     "date": "2026-08-22",
+     "price": 8680
     }
    ],
    "momentum": "중립",
@@ -2814,7 +2878,7 @@
    "tickerMismatch": false,
    "price": 12120,
    "changeRate": "-4.19",
-   "sinceAddedPct": 14.3,
+   "sinceAddedPct": 9.5,
    "priceLog": [
     {
      "date": "2026-07-13",
@@ -2967,6 +3031,10 @@
     {
      "date": "2026-08-21",
      "price": 12650
+    },
+    {
+     "date": "2026-08-22",
+     "price": 12120
     }
    ],
    "momentum": "중립",
@@ -2985,7 +3053,7 @@
    "tickerMismatch": false,
    "price": 454000,
    "changeRate": "-3.71",
-   "sinceAddedPct": 12.8,
+   "sinceAddedPct": 8.6,
    "priceLog": [
     {
      "date": "2026-07-13",
@@ -3138,6 +3206,10 @@
     {
      "date": "2026-08-21",
      "price": 471500
+    },
+    {
+     "date": "2026-08-22",
+     "price": 454000
     }
    ],
    "momentum": "승세",
@@ -3156,7 +3228,7 @@
    "tickerMismatch": false,
    "price": 254000,
    "changeRate": "-3.24",
-   "sinceAddedPct": 26.5,
+   "sinceAddedPct": 22.4,
    "priceLog": [
     {
      "date": "2026-07-13",
@@ -3309,6 +3381,10 @@
     {
      "date": "2026-08-21",
      "price": 262500
+    },
+    {
+     "date": "2026-08-22",
+     "price": 254000
     }
    ],
    "momentum": "승세",
@@ -3327,7 +3403,7 @@
    "tickerMismatch": false,
    "price": 95500,
    "changeRate": "-7.64",
-   "sinceAddedPct": 48.6,
+   "sinceAddedPct": 37.2,
    "priceLog": [
     {
      "date": "2026-07-13",
@@ -3480,6 +3556,10 @@
     {
      "date": "2026-08-21",
      "price": 103400
+    },
+    {
+     "date": "2026-08-22",
+     "price": 95500
     }
    ],
    "momentum": "승세",

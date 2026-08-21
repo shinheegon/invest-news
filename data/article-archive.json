@@ -3,6 +3,12 @@
   "SK하이닉스(000660)": {
    "articles": [
     {
+     "date": "2026-08-22",
+     "source": "아시아경제",
+     "title": "한신평 \"SK하이닉스 대규모 주주환원, 신용도 영향 제한적\"",
+     "link": "https://view.asiae.co.kr/article/2026082114281993512"
+    },
+    {
      "date": "2026-08-21",
      "source": "한국경제·증권",
      "title": "삼성전자, 110조원 역대급 주주환원…SK하이닉스와 다른 점은?",
@@ -715,17 +721,17 @@
      "source": "파이낸셜·증권",
      "title": "SK하이닉스 상한가 가나…코스피 장중 17% 폭등, 사상 최대 상승률 눈앞 [fn오후시황]",
      "link": "https://www.fnnews.com/news/202607311327494248"
-    },
-    {
-     "date": "2026-07-31",
-     "source": "연합인포맥스",
-     "title": "코스피 급등 속 SK하이닉스 상한가와 빅테크 AI 투자 영향까지 이시각 주요뉴스",
-     "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4428070"
     }
    ]
   },
   "삼성전자(005930)": {
    "articles": [
+    {
+     "date": "2026-08-22",
+     "source": "한국경제·증권",
+     "title": "삼성전자, 110조+α 역대급 주주환원…성과급용 자사주 15조 매입",
+     "link": "https://www.hankyung.com/article/2026082156601"
+    },
     {
      "date": "2026-08-21",
      "source": "한국경제·증권",
@@ -1439,17 +1445,17 @@
      "source": "한국경제·증권",
      "title": "[포토] 코스피 6%대 급락, 삼성전자·하이닉스도 줄줄이 '휘청'",
      "link": "https://www.hankyung.com/article/202607293599i"
-    },
-    {
-     "date": "2026-07-29",
-     "source": "파이낸셜·증권",
-     "title": "\"SK하이닉스 과격한 조정이지만 목표가 420만→280만 하향\"…삼성전자, 급락에 커진 배당 매력 [株토피아]",
-     "link": "https://www.fnnews.com/news/202607290929317152"
     }
    ]
   },
   "현대차(005380)": {
    "articles": [
+    {
+     "date": "2026-08-22",
+     "source": "한국경제·증권",
+     "title": "GV90·신차에도 '복병'…\"90만→75만원\" 현대차 목표가 후진 [종목+]",
+     "link": "https://www.hankyung.com/article/2026082148166"
+    },
     {
      "date": "2026-08-21",
      "source": "연합인포맥스",
@@ -3877,6 +3883,12 @@
   "엔비디아(NVDA)": {
    "articles": [
     {
+     "date": "2026-08-22",
+     "source": "한국경제·경제",
+     "title": "엔비디아, 월가는 실적보다 '이것'에 더 관심[박신영의 개장전 요것만]",
+     "link": "https://www.hankyung.com/article/202608225783i"
+    },
+    {
      "date": "2026-08-21",
      "source": "한국경제·경제",
      "title": "美 국채금리·유가…그리고 엔비디아 [다음주 주요 변수 미리보기]",
@@ -4499,6 +4511,12 @@
   "인텔(INTC)": {
    "articles": [
     {
+     "date": "2026-08-22",
+     "source": "한국경제·경제",
+     "title": "국채 바이백의 이면은?…메모리 진출한다는 인텔[월가 백브리핑]",
+     "link": "https://www.hankyung.com/article/202608225801i"
+    },
+    {
      "date": "2026-08-11",
      "source": "한국경제·증권",
      "title": "늘어나는 AI 컴퓨팅 수요에…인텔, 150억달러 유증 '승부수'",
@@ -4622,6 +4640,12 @@
   },
   "카카오(035720)": {
    "articles": [
+    {
+     "date": "2026-08-22",
+     "source": "아시아경제",
+     "title": "카카오 \"지주사 전환 계획 없어…김범수 창업자 대주주 역할 그대로\"",
+     "link": "https://view.asiae.co.kr/article/2026082115252310127"
+    },
     {
      "date": "2026-08-21",
      "source": "한국경제·증권",
@@ -12023,6 +12047,12 @@
   "테슬라(TSLA)": {
    "articles": [
     {
+     "date": "2026-08-22",
+     "source": "아시아경제",
+     "title": "에이텀, 테슬라 사이버트럭 'ICCU 슬림화' 기술 고도화…LS오토모티브와 개발 추진",
+     "link": "https://view.asiae.co.kr/article/2026082113461660850"
+    },
+    {
      "date": "2026-08-19",
      "source": "아시아경제",
      "title": "테슬라·스페이스X에 밸류체인까지…미래에셋 '머스크 생태계 펀드' 은행서도 만난다",
@@ -14525,6 +14555,12 @@
   "고려아연(010130)": {
    "articles": [
     {
+     "date": "2026-08-22",
+     "source": "한국경제·경제",
+     "title": "MBK·영풍, 美서 '석포 시스템·인력 활용' 거론…고려아연 \"협의 없었다\"",
+     "link": "https://www.hankyung.com/article/202608214973g"
+    },
+    {
      "date": "2026-08-20",
      "source": "연합뉴스·경제",
      "title": "MBK \"고려아연 임시주총 자료에 허위사실\"…법적 대응 예고(종합2보)",
@@ -14704,6 +14740,12 @@
   },
   "SK(034730)": {
    "articles": [
+    {
+     "date": "2026-08-22",
+     "source": "뉴시스·경제",
+     "title": "\"비쌀 때 팔고 쌀 때 산다\"…SK 하이닉스 결단에 WSJ \"美기업과 달라\"",
+     "link": "https://www.newsis.com/view/NISX20260821_0003758225"
+    },
     {
      "date": "2026-08-21",
      "source": "한국경제·증권",
@@ -16215,6 +16257,12 @@
   "CJ제일제당(097950)": {
    "articles": [
     {
+     "date": "2026-08-22",
+     "source": "연합뉴스·경제",
+     "title": "[신상잇슈] CJ제일제당 '해찬들 옛장'·아워홈 '고기듬뿍 순대전골'",
+     "link": "https://www.yna.co.kr/view/AKR20260821129500030"
+    },
+    {
      "date": "2026-08-12",
      "source": "아시아경제",
      "title": "CJ제일제당, 바이오 깜짝 실적…목표가는 하향 [클릭e종목]",
@@ -17575,6 +17623,12 @@
   "한화(000880)": {
    "articles": [
     {
+     "date": "2026-08-22",
+     "source": "아시아경제",
+     "title": "한화운용, '한화 고배당주플러스랩' 변동장서 방어력 입증",
+     "link": "https://view.asiae.co.kr/article/2026082108475157211"
+    },
+    {
      "date": "2026-08-19",
      "source": "한국경제·경제",
      "title": "입증된 방산강국…한화 K9, 美육군 뚫었다",
@@ -18071,6 +18125,12 @@
   "NH투자증권(005940)": {
    "articles": [
     {
+     "date": "2026-08-22",
+     "source": "아시아경제",
+     "title": "NH투자증권 \"디폴트옵션 적극투자형 3년 수익률 90.15%\"",
+     "link": "https://view.asiae.co.kr/article/2026082110324619573"
+    },
+    {
      "date": "2026-08-20",
      "source": "파이낸셜·증권",
      "title": "무디스, NH투자증권 'A3' 유지…\"IMA 확대에도 유동성 취약\"",
@@ -18354,6 +18414,12 @@
   },
   "다날(064260)": {
    "articles": [
+    {
+     "date": "2026-08-22",
+     "source": "아시아경제",
+     "title": "다날, 국내 PG사 최초 '오픈 USD' 합류…글로벌 스테이블코인 결제시장 정조준",
+     "link": "https://view.asiae.co.kr/article/2026082109280666017"
+    },
     {
      "date": "2026-08-15",
      "source": "아시아경제",
@@ -21050,6 +21116,12 @@
   },
   "롯데웰푸드(280360)": {
    "articles": [
+    {
+     "date": "2026-08-22",
+     "source": "연합인포맥스",
+     "title": "'본업 탄탄대로' 롯데웰푸드, 벤처투자 성적표는 아쉽네",
+     "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4431306"
+    },
     {
      "date": "2026-08-21",
      "source": "한국경제·경제",
@@ -24477,6 +24549,12 @@
   "영풍(000670)": {
    "articles": [
     {
+     "date": "2026-08-22",
+     "source": "한국경제·경제",
+     "title": "MBK·영풍, 美서 '석포 시스템·인력 활용' 거론…고려아연 \"협의 없었다\"",
+     "link": "https://www.hankyung.com/article/202608214973g"
+    },
+    {
      "date": "2026-08-20",
      "source": "아시아경제",
      "title": "영풍·MBK \"서스틴베스트, 이사 선임 반대는 명백한 자기모순\"",
@@ -27737,6 +27815,12 @@
   "LG(003550)": {
    "articles": [
     {
+     "date": "2026-08-22",
+     "source": "한국경제·경제",
+     "title": "[단독] 챗GPT로 LG 에어컨·공기청정기 원격 제어",
+     "link": "https://www.hankyung.com/article/2026082154681"
+    },
+    {
      "date": "2026-08-21",
      "source": "파이낸셜·증권",
      "title": "대신證 \"엔비디아가 인정한 LG 밸류체인…다음 타자는 엑사원\"",
@@ -29249,7 +29333,83 @@
      "link": "https://www.newspim.com/news/view/20260813001142"
     }
    ]
+  },
+  "코미코(183300)": {
+   "articles": [
+    {
+     "date": "2026-08-22",
+     "source": "한국경제·증권",
+     "title": "액면분할하고 거래 재개된 코미코 20%대 '급등'",
+     "link": "https://www.hankyung.com/article/2026082140796"
+    }
+   ]
+  },
+  "KCC(002380)": {
+   "articles": [
+    {
+     "date": "2026-08-22",
+     "source": "한국경제·증권",
+     "title": "\"KCC, 삼성전자 특별배당 수혜주…올해 배당수익률 6.1% 달할 수도\"-하나",
+     "link": "https://www.hankyung.com/article/2026082136366"
+    },
+    {
+     "date": "2026-08-22",
+     "source": "파이낸셜·증권",
+     "title": "\"삼성물산 배당도 주주에게\" KCC 주주환원 더 세져…SK, 깜짝 실적에 내년 주주환원 확대 기대 [株토피아]",
+     "link": "https://www.fnnews.com/news/202608211052016861"
+    }
+   ]
+  },
+  "인지컨트롤스(023800)": {
+   "articles": [
+    {
+     "date": "2026-08-22",
+     "source": "연합뉴스·경제",
+     "title": "인지컨트롤스 \"슬로바키아 계열사에 275억원 출자\"",
+     "link": "https://www.yna.co.kr/view/AKR20260821128400008"
+    }
+   ]
+  },
+  "네오이뮨텍(코스닥)": {
+   "articles": [
+    {
+     "date": "2026-08-22",
+     "source": "연합뉴스·경제",
+     "title": "[특징주] 네오이뮨텍, '美기업 기술 수출'에 이틀 연속 상한가(종합)",
+     "link": "https://www.yna.co.kr/view/AKR20260821048051008"
+    }
+   ]
+  },
+  "세아홀딩스(058650)": {
+   "articles": [
+    {
+     "date": "2026-08-22",
+     "source": "파이낸셜·증권",
+     "title": "\"세아홀딩스, 실적개선+주주환원 동시 진행\"-신한證",
+     "link": "https://www.fnnews.com/news/202608210845323974"
+    }
+   ]
+  },
+  "효성(004800)": {
+   "articles": [
+    {
+     "date": "2026-08-22",
+     "source": "연합인포맥스",
+     "title": "조현준 효성 회장 &quot;동생과 각자 길 갔으면…소송에 참담한 심정&quot;",
+     "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4431263"
+    }
+   ]
+  },
+  "TJX(TJX)": {
+   "articles": [
+    {
+     "date": "2026-08-22",
+     "source": "CNBC·Markets",
+     "title": "Why we're giving off-price retailer TJX a pass for softness in its biggest division",
+     "link": "https://www.cnbc.com/2026/08/19/why-were-giving-off-price-retailer-tjx-a-pass-for-softness-in-its-biggest-division.html"
+    }
+   ]
   }
  },
- "updatedAt": "2026-08-21T19:38:29+09:00"
+ "updatedAt": "2026-08-22T07:31:12+09:00"
 }
