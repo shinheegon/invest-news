@@ -1,781 +1,3 @@
-{"date": "2026-07-24", "title": "\"300조 쏟아붓는다\"…알파벳 한마디에 삼성·SK 웃었다", "source": "파이낸셜뉴스"}
-{"date": "2026-07-24", "title": "\"8만전자 찍는데 우리는\" 개미 속 태우는 현대차…증권가 엇갈린 시선", "source": "머니투데이·증권"}
-{"date": "2026-07-24", "title": "\"AI 거품 꺼지면 실물 경기 폭망한다\"…美 경제 뒤흔드는 '75조 달러' 경고장", "source": "뉴시스·경제"}
-{"date": "2026-07-24", "title": "\"AI 인프라 잡아라\"… 알파벳 투자 증액 소식에 전력망 관련주 주목", "source": "이데일리·증권"}
-{"date": "2026-07-24", "title": "\"AI로 실탄 쌓은 한국 기업, 대미 직접투자 5년 만에 최고\"", "source": "뉴시스·경제"}
-{"date": "2026-07-24", "title": "\"KB금융, 올해 주주환원율 55%…ROE 전망치도 11% 넘어\"", "source": "한국경제·증권"}
-{"date": "2026-07-24", "title": "\"Open AI와 제휴로 카카오 레벨업 기대\"…장 초반 3%대 강세", "source": "머니투데이·증권"}
-{"date": "2026-07-24", "title": "\"SK 주식은 공동재산\"…최태원, 노소영에 '9440억 지급' 판결", "source": "한국경제·경제"}
-{"date": "2026-07-24", "title": "\"美 주식, 다음주엔 팔고 10월에 사라\"…계절적 약세 맞을까[오미주]", "source": "머니투데이·증권"}
-{"date": "2026-07-24", "title": "\"공사 늦춰놓고 2억 더 내라니\"…창릉 S4사전청약자들 집단 반발", "source": "뉴시스·경제"}
-{"date": "2026-07-24", "title": "\"국민노후자금으로 왕 노릇, 수사의뢰해야\"...시민단체, 국민연금 쇄신 촉구", "source": "이데일리·증권"}
-{"date": "2026-07-24", "title": "\"기름값 오를까 걱정\" 끝 모를 중동전쟁…정부, 유류세 인하 9월까지 연장", "source": "이데일리·경제"}
-{"date": "2026-07-24", "title": "\"농업법인, 생산 규모화보다 유통·가공 주력…역할 재검토해야\"", "source": "연합뉴스·경제"}
-{"date": "2026-07-24", "title": "\"대화하던 AI가 나 대신 소개팅을\"…'관계형 에이전트' 미러 출시", "source": "이데일리·경제"}
-{"date": "2026-07-24", "title": "\"돈 벌어도 현금이 마른다\"…AI 투자 청구서 받은 빅테크", "source": "한국경제·증권"}
-{"date": "2026-07-24", "title": "\"마통 1억 되죠?\" 회계사 합격증 내밀어도…2000만원도 못 받고 당혹", "source": "머니투데이·증권"}
-{"date": "2026-07-24", "title": "\"매교만 풀면 또 역차별\"…잔금대출 '총량 족쇄' 전반 손볼 듯", "source": "한국경제·경제"}
-{"date": "2026-07-24", "title": "\"무더위 날릴 시원한 커피 한 잔\"...부산상의, '상생 커피트럭' 운영", "source": "파이낸셜뉴스"}
-{"date": "2026-07-24", "title": "\"문 잠그고 복도 감시\"…부산 외국인 선원 추락사 관련 5명 입건(종합)", "source": "연합뉴스·경제"}
-{"date": "2026-07-24", "title": "\"반도체 세수, 잘 써야 한다\"…미래대응기금 띄운 김용범", "source": "한국경제·경제"}
-{"date": "2026-07-24", "title": "\"브레이크 없는 AI 안 돼\"…美, 오픈AI 해킹 사고 후 '킬 스위치법' 발의", "source": "뉴시스·경제"}
-{"date": "2026-07-24", "title": "\"삼성역 연결 언제?\"…국민연금, GTX-A 인프라투자 '발동동'", "source": "머니투데이·증권"}
-{"date": "2026-07-24", "title": "\"삼성전자 땡큐\"…머스크, 실적발표서 깜짝 발언, 무슨 일?", "source": "뉴시스·경제"}
-{"date": "2026-07-24", "title": "\"삼성전자, 자사주 사서 美 상장\"…개미들 내민 서한 '깜짝'", "source": "한국경제·경제"}
-{"date": "2026-07-24", "title": "\"삼전 나만 없어\" 포모에 울상이라면…\"덜 오른 이것 사라\" 전문가 조언", "source": "머니투데이·증권"}
-{"date": "2026-07-24", "title": "\"상장 한 달 만에 반토막 위기\"…머스크, 공매도에 경고", "source": "한국경제·증권"}
-{"date": "2026-07-24", "title": "\"스톤테리어 감성을 그대로\"..KCC글라스 홈씨씨 '숲 강마루 스톤'", "source": "머니투데이·증권"}
-{"date": "2026-07-24", "title": "\"씹고 뜯고 맛보고~ '이가탄' 상장\"...꽁꽁 언 IPO 시장 녹일까", "source": "머니투데이·증권"}
-{"date": "2026-07-24", "title": "\"아침밥·간식으로 초코파이\"…슈퍼마켓 먼지 닦으며 쌓은 정, 통했다[르포]", "source": "머니투데이·증권"}
-{"date": "2026-07-24", "title": "\"안 입는 옷 팔고, 여기서 새옷 사세요\"…백화점도 달라졌다", "source": "머니투데이·증권"}
-{"date": "2026-07-24", "title": "\"예금 묶어둔 사이 66% 대박\"…퇴직연금 수익률 격차 20배 벌어졌다", "source": "파이낸셜뉴스"}
-{"date": "2026-07-24", "title": "\"오늘도?\" 최고치 찍더니 '숨 고르기'…외인 '팔자'에 코스피 하락 마감", "source": "머니투데이·증권"}
-{"date": "2026-07-24", "title": "\"올 추석엔 제주 '탐나는전' 적립률 상향 어려워\"", "source": "연합뉴스·경제"}
-{"date": "2026-07-24", "title": "\"올해 주가 5배 뛴 삼성전기, 300만원까지 더 오를 것\"…\"LS일렉트릭, 역대 최대 실적\" [株토피아]", "source": "파이낸셜·증권"}
-{"date": "2026-07-24", "title": "\"우리 애가 좋아해\" 한국 과자 쇼핑…'K간식 열풍' 앓는 베트남", "source": "머니투데이·증권"}
-{"date": "2026-07-24", "title": "\"이번엔 진짜 간다\"더니…바이오주가 또 무너진 까닭", "source": "한국경제·증권"}
-{"date": "2026-07-24", "title": "\"이제 살 수 있는 가격대, 코스피 1만 간다\"…조정장 예측 적중했던 애널의 파격 전망", "source": "파이낸셜·증권"}
-{"date": "2026-07-24", "title": "\"입기만 해도 피로 회복\"…'리커버리 웨어' 선보여", "source": "한국경제·경제"}
-{"date": "2026-07-24", "title": "\"제조AX 양극화, 공공 인프라로 풀어야…AI정책, 현장확산 전환 필요\"", "source": "이데일리·경제"}
-{"date": "2026-07-24", "title": "\"중동 확전 땐 유가 140弗 넘어\"…석유 최고가격제 유지한다", "source": "한국경제·경제"}
-{"date": "2026-07-24", "title": "\"차라리 신용으로 본주 살걸\"…시간이 적이 된 레버리지 개미들 [증시는 왜]", "source": "파이낸셜·증권"}
-{"date": "2026-07-24", "title": "\"최태원, 노소영에 현금 9440억 줘라\"…SK하이닉스 주가 영향은", "source": "한국경제·경제"}
-{"date": "2026-07-24", "title": "\"커피로 더위 식히고 서로 격려해요\"…부산서 상생 커피트럭", "source": "연합뉴스·경제"}
-{"date": "2026-07-24", "title": "\"프로필만 주고 만남 횟수 차감\"…결혼중개사 소비자 피해 다발", "source": "연합뉴스·경제"}
-{"date": "2026-07-24", "title": "\"하이닉스 290만→190만원됐는데\"...하락장에서 주가 2배 뛴 SK이터닉스", "source": "파이낸셜·증권"}
-{"date": "2026-07-24", "title": "\"한국서 미중 정상 만난다\" 또 훈풍…미 증시 최고치 랠리[뉴욕마감]", "source": "머니투데이·증권"}
-{"date": "2026-07-24", "title": "\"한국판 세기의 이혼\"…최태원·노소영 판결에 외신도 관심", "source": "한국경제·경제"}
-{"date": "2026-07-24", "title": "\"현대차, CEO 인베스터 데이…신성장 계획 無, 관세 부담은 여전\"- 메리츠", "source": "머니투데이·증권"}
-{"date": "2026-07-24", "title": "\"호텔신라, DF1 영업 중단…면세 영업실적 개선 전망\"-교보", "source": "머니투데이·증권"}
-{"date": "2026-07-24", "title": "\"호텔신라, 인천공항 면세점 철수…영업익 개선될 것\"-대신증권", "source": "머니투데이·증권"}
-{"date": "2026-07-24", "title": "\"화재 골든타임 잡는다\"…고려아연 온산제련소, 전용 소방차 도입", "source": "이데일리·경제"}
-{"date": "2026-07-24", "title": "&quot;호르무즈 해협 통과한 유조선은 단 1척…2달 만에 최저치&quot;", "source": "연합인포맥스"}
-{"date": "2026-07-24", "title": "'100억달러 수주' 삼성重, 2Q 영업익 전년비 59% 급증…전망치는 하회(종합)", "source": "연합인포맥스"}
-{"date": "2026-07-24", "title": "'10주년' 트와이스, 日 돔 40만 관객 동원…'에너미' 앨범 골드 인증 겹경사", "source": "머니투데이·증권"}
-{"date": "2026-07-24", "title": "'2026년 첨단산업 표준화 경진대회'서 국민대 팀 대상", "source": "뉴시스·경제"}
-{"date": "2026-07-24", "title": "'26분기 연속 흑자' 낸 코스모신소재, 비결은?", "source": "한국경제·경제"}
-{"date": "2026-07-24", "title": "'ETF 열풍' 제대로 올라탔다…2분기 사상 최대 실적, 3분기까지 이어진다는 에프앤가이드[클릭e종목]", "source": "아시아경제"}
-{"date": "2026-07-24", "title": "'N% 성과급' 갈등 원흉, 노봉법 손질론 활활", "source": "이데일리·경제"}
-{"date": "2026-07-24", "title": "'SBI인베 투자사' 디티에스, 코스닥 상장예비심사 통과", "source": "아시아경제"}
-{"date": "2026-07-24", "title": "'TIGER 미국나스닥100타겟데일리커버드콜', 순자산 2조원 돌파", "source": "아시아경제"}
-{"date": "2026-07-24", "title": "'前충주맨' 김선태 \"집 팔고 '몰빵'…삼전 5만8000원에 1000주 넘게 있었다\"", "source": "아시아경제"}
-{"date": "2026-07-24", "title": "'거버넌스·회계·감사'로 주주 잡은 KT&G..사상 첫 6조클럽 눈앞", "source": "머니투데이·증권"}
-{"date": "2026-07-24", "title": "'고배당·저변동 전략 액티브' 등 신규 ETF 5종 28일 상장", "source": "연합뉴스·경제"}
-{"date": "2026-07-24", "title": "'광란의 세일' 3600억 터졌다…반지하 고등학생의 '인생역전'", "source": "한국경제·경제"}
-{"date": "2026-07-24", "title": "'급전직하' 코오롱티슈진, CB 조기상환 비상", "source": "한국경제·경제"}
-{"date": "2026-07-24", "title": "'깜짝 실적' 인텔 \"CPU 전례없는 수요 강세\"", "source": "한국경제·경제"}
-{"date": "2026-07-24", "title": "'대미투자 1호' 에너지 우선 논의…1500억 韓美조선협력센터 출범", "source": "파이낸셜뉴스"}
-{"date": "2026-07-24", "title": "'배터리업계 숙원' 직접환급도 빠졌다", "source": "한국경제·경제"}
-{"date": "2026-07-24", "title": "'브랜드 오타쿠' 조 대표는 'CDeO'", "source": "한국경제·경제"}
-{"date": "2026-07-24", "title": "'빅데이터 패션'의 힘…무신사 PB도 급성장", "source": "한국경제·경제"}
-{"date": "2026-07-24", "title": "'삼성도 성공 못한 꿈' 해냈다…中·日 홀린 한국 기업 정체", "source": "한국경제·경제"}
-{"date": "2026-07-24", "title": "'아기상어' 더핑크퐁컴퍼니, 자사주 매입·소각 소식에 강세", "source": "한국경제·증권"}
-{"date": "2026-07-24", "title": "'중복상장 예외 1호' 덕산넵코어스, 증권신고서 제출…향후 관전 포인트는", "source": "연합인포맥스"}
-{"date": "2026-07-24", "title": "'증시호황' 탄 5대 금융, 순이익 7조 육박", "source": "한국경제·경제"}
-{"date": "2026-07-24", "title": "'최대주주 지분율 낮아' 삼전·하닉 등 내년 주총 땐 이사선출 표대결 가능성도[상법개정 1년]③", "source": "아시아경제"}
-{"date": "2026-07-24", "title": "'흩어진 경력' 한곳에서…고용24 통합경력증명 서비스 개시", "source": "뉴시스·경제"}
-{"date": "2026-07-24", "title": "1.8초 만에 끝난 스테이블코인 결제…NHN KCP·아발란체 시연", "source": "이데일리·경제"}
-{"date": "2026-07-24", "title": "101억원 한일 펀드, 제주 스타트업 '새로핌'에 첫 투자", "source": "연합뉴스·경제"}
-{"date": "2026-07-24", "title": "110억원대 전세 사기 전 부산시 고위공직자 1심 징역 10년", "source": "연합뉴스·경제"}
-{"date": "2026-07-24", "title": "12.5% 발표에도 끝나지 않은 대미관세 협상…15% 사수할까", "source": "연합뉴스·경제"}
-{"date": "2026-07-24", "title": "13억 첼로·강남 아파트·미국 주식까지...장한나 사장, 78억 재산 내역 공개", "source": "파이낸셜뉴스"}
-{"date": "2026-07-24", "title": "15억 이하로 몰린 수요…중랑구 집값 상승률 역대 최고", "source": "뉴시스·경제"}
-{"date": "2026-07-24", "title": "1조원 달하는 세기의 재산분할 판결…\"SK 팔고 텔레콤 사라\"", "source": "한국경제·증권"}
-{"date": "2026-07-24", "title": "2분기 닭 사육 증가…소·돼지·오리는 감소", "source": "연합뉴스·경제"}
-{"date": "2026-07-24", "title": "2분기 성장률 예상 웃돌았지만…국고채 금리, 큰 변동 없이 마감", "source": "아시아경제"}
-{"date": "2026-07-24", "title": "2성급 호텔을 4성급으로…코람코 '머큐어 앰배서더 동대문' 개관", "source": "연합뉴스·경제"}
-{"date": "2026-07-24", "title": "30개 중견건설사 상생협약…하자소송 책임 분담·부당특약 개선", "source": "연합뉴스·경제"}
-{"date": "2026-07-24", "title": "31일부터 '현금 3천만원' 있어야 삼전닉스 레버리지ETF 거래", "source": "한국경제·증권"}
-{"date": "2026-07-24", "title": "3분기 공적채권 67조원 발행…\"채권 수요 다소 회복\"", "source": "연합뉴스·경제"}
-{"date": "2026-07-24", "title": "5.5조 순매수 후 장초반 '팔자'…외국인 돌아오면 코스피 날개 달까", "source": "아시아경제"}
-{"date": "2026-07-24", "title": "5대금융 상반기 순이익 13조 넘겨…'역대 최대' 실적 행렬", "source": "연합뉴스·경제"}
-{"date": "2026-07-24", "title": "7.4조로 불어난 재산...최태원, 재산 분할 소송 결말, 외신도 주목", "source": "파이낸셜뉴스"}
-{"date": "2026-07-24", "title": "7월 독일 종합 PMI 51.2·1.7P↑…\"4개월 만에 경기확대 회복\"", "source": "뉴시스·경제"}
-{"date": "2026-07-24", "title": "7월 인도 종합 PMI 54.3·2.8P↓…\"4년4개월 만에 최저\"", "source": "뉴시스·경제"}
-{"date": "2026-07-24", "title": "7천피 무너진 코스피…다음주(27~31일) 주목해야 할 증시 이벤트는?", "source": "한국경제·증권"}
-{"date": "2026-07-24", "title": "8차 석유 최고가격 동결…\"필요시 비축유 스와프 제도 재도입\"", "source": "한국경제·경제"}
-{"date": "2026-07-24", "title": "8차 석유 최고가격 동결…국제유가 급등에 출구전략 일단 정지", "source": "연합뉴스·경제"}
-{"date": "2026-07-24", "title": "[1보] 미 재무부, 韓 환율 관찰대상국 지위 유지", "source": "연합뉴스·경제"}
-{"date": "2026-07-24", "title": "[2보] 미 재무부, 한국 등 10개국 환율 관찰대상국 유지", "source": "연합뉴스·경제"}
-{"date": "2026-07-24", "title": "[亞증시-종합] 지정학 리스크·유가 상승에 줄줄이 하락", "source": "연합인포맥스"}
-{"date": "2026-07-24", "title": "[美특징주]록히드마틴, 10%대 급등…호실적에 연간 전망도 상향", "source": "이데일리·경제"}
-{"date": "2026-07-24", "title": "[강원 고성소식] 벼 병해충 공동방제 지원사업 추진", "source": "연합뉴스·경제"}
-{"date": "2026-07-24", "title": "[게시판] BC카드, '2026년 소셜아이어워드' 대상 수상", "source": "연합뉴스·경제"}
-{"date": "2026-07-24", "title": "[게시판] KB금융, 유튜브 콘텐츠 '별방' 첫 오프라인 콘서트", "source": "연합뉴스·경제"}
-{"date": "2026-07-24", "title": "[게시판] 방사청, 방위사업관계법 개선방안 토론회", "source": "연합뉴스·경제"}
-{"date": "2026-07-24", "title": "[게시판] 신한은행, 휴가철 맞아 SOL트래블·SOL트립 체크카드 이벤트", "source": "연합뉴스·경제"}
-{"date": "2026-07-24", "title": "[게시판] 유한킴벌리, '시니어 임팩트 펠로우십' 4기에 기업 2곳 선정", "source": "연합뉴스·경제"}
-{"date": "2026-07-24", "title": "[게시판] 지평주조·지평, ''K-막걸리 글로벌화' 협약", "source": "연합뉴스·경제"}
-{"date": "2026-07-24", "title": "[게시판] 현대건설, 건설 실무과정 교육생 모집…전기·안전 등 9개 과정", "source": "연합뉴스·경제"}
-{"date": "2026-07-24", "title": "[고래사냥] 'LG전자, PS일렉트로닉스, 코리아써키트, 휴네시온!' 오늘 장 궁금종목 분석", "source": "머니투데이·증권"}
-{"date": "2026-07-24", "title": "[고래사냥] '블루엠텍, 아이씨티케이, 주성엔지니어링, 한컴위드!' 오늘 장 궁금종목 분석", "source": "머니투데이·증권"}
-{"date": "2026-07-24", "title": "[곡성소식] 금실딸기 수출액 6억원 기록 '성장'", "source": "연합뉴스·경제"}
-{"date": "2026-07-24", "title": "[굿모닝 증시]미-이란 갈등 고조…코스피 하락 출발 전망", "source": "아시아경제"}
-{"date": "2026-07-24", "title": "[굿모닝 증시]코스피, 변동성 장세 전망…실적에 따른 업종 차별화 예상", "source": "아시아경제"}
-{"date": "2026-07-24", "title": "[급등수사본부] 10월 APEC 통한 한한령 해제 수혜 기대 vs 10월 황금연휴·中 국경절 등 여행수요 급증 전망", "source": "머니투데이·증권"}
-{"date": "2026-07-24", "title": "[기고] FIU, ‘벌금 액수’ 아닌 ‘위반 본질’ 물어야", "source": "이데일리·경제"}
-{"date": "2026-07-24", "title": "[김도형의 럭키7] 끝나지 않은 로봇주 '씨메스' 재공략 타이밍이 왔다, 목표가는?", "source": "머니투데이·증권"}
-{"date": "2026-07-24", "title": "[뉴욕증시] 유가 100달러·AI '돈 먹는 하마' 공포…나스닥 2.15% 급락", "source": "파이낸셜·증권"}
-{"date": "2026-07-24", "title": "[단독] \"中 BYD가 이렇게 많았나\"…한국 공습에 '초비상'", "source": "한국경제·경제"}
-{"date": "2026-07-24", "title": "[단독] \"먹잇감 전락할 판\"…中 전기차 판치는 이유 있었다", "source": "한국경제·경제"}
-{"date": "2026-07-24", "title": "[단독] '캐즘 직격탄' SK시그넷, 홍콩계 앵커PE에 팔린다", "source": "한국경제·경제"}
-{"date": "2026-07-24", "title": "[단독] 전기차 빠진 한국판 IRA…美·유럽 장벽 높일 때 韓은 지원책 실종", "source": "한국경제·경제"}
-{"date": "2026-07-24", "title": "[단독] 한국만 정부 지원 없이 경쟁한다…\"中 전기차 놀이터 될 판\"", "source": "한국경제·경제"}
-{"date": "2026-07-24", "title": "[단독]'은행 안되면 회사서 빌리면 되지' 사내대출 1년새 28% 늘었다", "source": "이데일리·경제"}
-{"date": "2026-07-24", "title": "[더벨]'해킹 보안 강화' 나선 폴라리스오피스 \"2차피해 차단\"", "source": "머니투데이·증권"}
-{"date": "2026-07-24", "title": "[더벨][이지트로닉스 줌인]2022년 상장 후 최대 손실 \"내년 BEP 목표\"", "source": "머니투데이·증권"}
-{"date": "2026-07-24", "title": "[더벨][이지트로닉스 줌인]SKT 해킹사태 여파, 통신 매출 '뚝'", "source": "머니투데이·증권"}
-{"date": "2026-07-24", "title": "[더벨][이지트로닉스 줌인]인도·중국 해외사업 성과 '관건'", "source": "머니투데이·증권"}
-{"date": "2026-07-24", "title": "[더벨]네온테크, 150억 BW 덕에 성장·안정 '두 마리 토끼'", "source": "머니투데이·증권"}
-{"date": "2026-07-24", "title": "[더벨]다이나믹디자인, 광주 마이스터고 학생에 격려금 전달", "source": "머니투데이·증권"}
-{"date": "2026-07-24", "title": "[더벨]원영식 희망기금, 수동휠체어 전달식", "source": "머니투데이·증권"}
-{"date": "2026-07-24", "title": "[더벨]큐브엔터 아이들 우기, 신곡 'M.O.' \"자신감·두려움 없는 본성 담아\"", "source": "머니투데이·증권"}
-{"date": "2026-07-24", "title": "[더벨]크레버스-퓨리오사AI, AI 기술 활용한 사업화 공동추진 MOU 체결", "source": "머니투데이·증권"}
-{"date": "2026-07-24", "title": "[도쿄증시-마감] 닛케이 2%대 하락…주요 반도체주 일제히 약세", "source": "연합인포맥스"}
-{"date": "2026-07-24", "title": "[도쿄환시] 달러-엔 보합…163엔대 후반서 개입 경계감↑", "source": "연합인포맥스"}
-{"date": "2026-07-24", "title": "[동정] 권오을 보훈장관, 공무원노조와 대전현충원 봉사활동", "source": "연합뉴스·경제"}
-{"date": "2026-07-24", "title": "[리뷰& 프리뷰] 지정학 충격·'AI 청구서' 소화한 증시…다음주 'FOMC·빅테크 실적' 분수령", "source": "한국경제·증권"}
-{"date": "2026-07-24", "title": "[마켓인]KCC, 회사채 수요예측에 1.4조 몰려…롯데케미칼도 목표액 확보", "source": "이데일리·경제"}
-{"date": "2026-07-24", "title": "[문제적 섹터] 정책주로 부상한 로봇주…본격 담을 때?", "source": "머니투데이·증권"}
-{"date": "2026-07-24", "title": "[미리보는 이데일리 신문] 보유세 강화…초고가·다주택자는 더 올린다", "source": "이데일리·경제"}
-{"date": "2026-07-24", "title": "[박소운의 종가 공략] 반도체부터 에너지까지 지금 당장 알아야 할 예쁜 종목 '미코'", "source": "머니투데이·증권"}
-{"date": "2026-07-24", "title": "[박진섭의 황금선] 농심에 비해 지주사 주가 저평가 '농심홀딩스'", "source": "머니투데이·증권"}
-{"date": "2026-07-24", "title": "[부고]전우진(하나증권 유성금융센터장)씨 장인상", "source": "머니투데이·증권"}
-{"date": "2026-07-24", "title": "[상법개정 1년]④김남근 의원 \"1순위는 의무공개매수제도…중복상장 금지도 법제화\"", "source": "아시아경제"}
-{"date": "2026-07-24", "title": "[서미숙의 집수다] 토지임대부 분양 사라지나…대통령이 직접 밝힌 어려움", "source": "연합뉴스·경제"}
-{"date": "2026-07-24", "title": "[세제 이건 바꿔야]'주가누르기' 막고 모험자본 키우고…자본시장 활성화", "source": "아시아경제"}
-{"date": "2026-07-24", "title": "[속보] \"최태원이 경영권 유지 위해 친인척 증여한 주식 재산분할서 배제\"", "source": "한국경제·경제"}
-{"date": "2026-07-24", "title": "[속보] 단일종목 레버리지 예탁금 상향, 이달 31일부터 조기 시행", "source": "파이낸셜·증권"}
-{"date": "2026-07-24", "title": "[속보] 법원 \"노소영 가사·양육·대외활동, SK 주식가치 증대 기여\"", "source": "한국경제·경제"}
-{"date": "2026-07-24", "title": "[속보] 법원 \"노태우 지원금 300억 있었더라도 재산분할비율 산정서 제외\"", "source": "한국경제·경제"}
-{"date": "2026-07-24", "title": "[속보] 법원 \"재산분할 비율 노소영 1/3, 최태원 2/3\"", "source": "한국경제·경제"}
-{"date": "2026-07-24", "title": "[속보] 법원 \"최태원 SK 주식, 분할대상 재산 포함\"", "source": "한국경제·경제"}
-{"date": "2026-07-24", "title": "[속보] 법원 \"최태원 보유 주식 가치 큰폭 상승한 점 재산분할에 참작\"", "source": "한국경제·경제"}
-{"date": "2026-07-24", "title": "[속보] 법원 \"최태원·노소영 재산분할은 현금으로\"", "source": "한국경제·경제"}
-{"date": "2026-07-24", "title": "[속보] 코스피 1.35% 하락 출발…다시 7000선 아래로", "source": "한국경제·증권"}
-{"date": "2026-07-24", "title": "[속보] 코스피 급락에 매도 사이드카 발동", "source": "한국경제·증권"}
-{"date": "2026-07-24", "title": "[속보] 코스피 이어 코스닥도 급락에 매도 사이드카", "source": "한국경제·증권"}
-{"date": "2026-07-24", "title": "[속보] 코스피, 5.73% 급락한 6690.02로 마감…코스닥도 5.32%↓", "source": "한국경제·증권"}
-{"date": "2026-07-24", "title": "[속보] 코스피, 전 거래일 대비 1.35% 내린 7000.78 출발", "source": "파이낸셜·증권"}
-{"date": "2026-07-24", "title": "[속보]8차 석유 최고가격 동결…휘발유 1784원·경유 1773원", "source": "뉴시스·경제"}
-{"date": "2026-07-24", "title": "[속보]코스닥 급등에 매수 사이드카 발동", "source": "아시아경제"}
-{"date": "2026-07-24", "title": "[속보]코스피 급락에 매도 사이드카 발동", "source": "아시아경제"}
-{"date": "2026-07-24", "title": "[속보]코스피, 급락에 매도 사이드카 발동...-4.49%", "source": "파이낸셜·증권"}
-{"date": "2026-07-24", "title": "[수익 내비게이터] 국책과제 정부출연금 증가 추세…AI 반도체 기술력 입증 '에이직랜드' VS 글로벌 시장 프리미엄 가전 브랜드로 경쟁력 강화 'LG전자'", "source": "머니투데이·증권"}
-{"date": "2026-07-24", "title": "[스팟]코스닥 0.97포인트(0.11%) 오른 858.08 출발", "source": "머니투데이·증권"}
-{"date": "2026-07-24", "title": "[스팟]코스닥 6.00포인트(0.70%) 오른 863.11 마감", "source": "머니투데이·증권"}
-{"date": "2026-07-24", "title": "[스팟]코스피 0.07포인트(0.00%) 내린 3461.23 출발", "source": "머니투데이·증권"}
-{"date": "2026-07-24", "title": "[스팟]코스피 16.06포인트(0.46%) 내린 3445.24 마감", "source": "머니투데이·증권"}
-{"date": "2026-07-24", "title": "[스페셜리스트] 금리인하 했지만 시장 여전히 불안, 주식+금 같이 들고 가자?", "source": "머니투데이·증권"}
-{"date": "2026-07-24", "title": "[여의도 클라쓰] '제이엔비, 칩스앤미디어, 농심홀딩스' 클라쓰 올릴 종목은?", "source": "머니투데이·증권"}
-{"date": "2026-07-24", "title": "[연합뉴스 이 시각 헤드라인] - 10:30", "source": "연합뉴스·경제"}
-{"date": "2026-07-24", "title": "[연합뉴스 이 시각 헤드라인] - 14:30", "source": "연합뉴스·경제"}
-{"date": "2026-07-24", "title": "[연합뉴스 이 시각 헤드라인] - 18:00", "source": "연합뉴스·경제"}
-{"date": "2026-07-24", "title": "[오늘의 주요일정]경제(7월24일금요일)", "source": "뉴시스·경제"}
-{"date": "2026-07-24", "title": "[오늘의 테마] '뉴로모픽 반도체' VS '로봇'", "source": "머니투데이·증권"}
-{"date": "2026-07-24", "title": "[올댓차이나] 中 최대 D램 CXMT 27일 커촹판 상장…12.5조원 조달", "source": "뉴시스·경제"}
-{"date": "2026-07-24", "title": "[올댓차이나] 대만 증시, 한일 증시 약세로 나흘 만에 대폭 반락…2.67%↓", "source": "뉴시스·경제"}
-{"date": "2026-07-24", "title": "[올댓차이나] 위안화 기준치 1달러=6.7939위안… 0.049% 절하", "source": "뉴시스·경제"}
-{"date": "2026-07-24", "title": "[올댓차이나] 중국 증시 하락 마감…상하이지수 1.61%↓", "source": "뉴시스·경제"}
-{"date": "2026-07-24", "title": "[올댓차이나] 중국 증시 하락 출발…상하이지수 0.6%↓", "source": "뉴시스·경제"}
-{"date": "2026-07-24", "title": "[올댓차이나] 홍콩 증시, 중동정세 긴박에 반락 개장…H주 1.25%↓", "source": "뉴시스·경제"}
-{"date": "2026-07-24", "title": "[올댓차이나] 홍콩 증시, 중동정세 긴박에 반락 마감…H주 0.98%↓", "source": "뉴시스·경제"}
-{"date": "2026-07-24", "title": "[외환-마감] 월말·주말 앞둔 '매도우(雨)'…1,460원대 초반서 하단 지지", "source": "연합인포맥스"}
-{"date": "2026-07-24", "title": "[외환] 원/달러 환율 0.2원 내린 1,466.6원(15:30 기준가)", "source": "연합뉴스·경제"}
-{"date": "2026-07-24", "title": "[월가 톡톡] 日 변기·섬유·조미료 기업이 AI 수혜주?", "source": "연합인포맥스"}
-{"date": "2026-07-24", "title": "[이달해 달달한10분] 정부가 칼빼든 해킹 사태! 케이사인, 보안주 탑픽?", "source": "머니투데이·증권"}
-{"date": "2026-07-24", "title": "[이재상의 하프타임 빅매치] 미투온 돌아온 상승 모멘텀! 美 따라가는 韓스테이블코인주", "source": "머니투데이·증권"}
-{"date": "2026-07-24", "title": "[이창대의 잠금해제] 피지컬 AI 주도하는 MLCC 삼성전기 신고가부터가 진짜 기회", "source": "머니투데이·증권"}
-{"date": "2026-07-24", "title": "[이항영의 월가이드] 뉴욕증시, 금리인하+기술주 투자에 사상최고치…시장 평가는?", "source": "머니투데이·증권"}
-{"date": "2026-07-24", "title": "[적중! 대박 예감] '농심, 티엑스알로보틱스, 다이버시파이드 에너지 컴퍼니' 예감 좋은 대박 종목은?", "source": "머니투데이·증권"}
-{"date": "2026-07-24", "title": "[전남광주소식] 광주은행, 서구장학재단에 장학금 2천만원 전달", "source": "연합뉴스·경제"}
-{"date": "2026-07-24", "title": "[전남광주소식] 기아 오토랜드광주, 취약계층에 냉방물품 후원", "source": "연합뉴스·경제"}
-{"date": "2026-07-24", "title": "[종목상담소 주식민원처리반 1부] '미투온 vs 아이시티케이' ... 다음주 승자는?", "source": "머니투데이·증권"}
-{"date": "2026-07-24", "title": "[주식민원처리반 2부] 스마트레이더시스템 vs 파크시스템스, 매매 포인트는?", "source": "머니투데이·증권"}
-{"date": "2026-07-24", "title": "[주식민원처리반 3부] '녹십자, 실리콘투' 월요일에 선택할 이 종목은?", "source": "머니투데이·증권"}
-{"date": "2026-07-24", "title": "[주식사관학교 시즌 2] 기술적 종목 선별법", "source": "머니투데이·증권"}
-{"date": "2026-07-24", "title": "[중국증시-마감] 중동 불확실성·대형 IPO 부담 속 하락", "source": "연합인포맥스"}
-{"date": "2026-07-24", "title": "[증시-마감] AI 비용·확전 우려에 코스피 5.7% 급락…6,690대 후퇴", "source": "연합인포맥스"}
-{"date": "2026-07-24", "title": "[집중분석] 하루 만에 바뀐 시장 분위기…9월 계절적 약세에도 강세장 지속?", "source": "머니투데이·증권"}
-{"date": "2026-07-24", "title": "[채권-마감] 4% 코앞에 둔 국고 3년…다음주 국제유가 주시", "source": "연합인포맥스"}
-{"date": "2026-07-24", "title": "[출근길 뉴스프레소] 위기의 인텔(22%↑), 엔비디아 동아줄까지 가세…피해vs수혜주/ '금리인하 땡큐' 러셀2000도 4년 만에 정상 / D-day 세 마녀의 날", "source": "머니투데이·증권"}
-{"date": "2026-07-24", "title": "[충주소식] 충주상공회의소·지역 기업인 초청 조찬간담회", "source": "연합뉴스·경제"}
-{"date": "2026-07-24", "title": "[클릭 e종목]\"디와이씨, LIG D&A가 첫 지분 투자한 방산 소부장 기업\"", "source": "아시아경제"}
-{"date": "2026-07-24", "title": "[클릭 e종목]\"킵스파마, 제약·바이오 중심 성장 본격화…신약 가치 확대 기대\"", "source": "아시아경제"}
-{"date": "2026-07-24", "title": "[투자 알고리즘]덜 오른 핵심 섹터 찾기! 화장품주 지금 사면 하반기 수익률 극대화?", "source": "머니투데이·증권"}
-{"date": "2026-07-24", "title": "[투자 핫플레이스] 비만·당뇨·MASH·ADC 파이프라인 보유 '동아에스티'", "source": "머니투데이·증권"}
-{"date": "2026-07-24", "title": "[투자원정대 동행] 로체시스템즈 vs 클래시스 vs 엠디바이스, 공략법은?", "source": "머니투데이·증권"}
-{"date": "2026-07-24", "title": "[특징주] 삼성E&A, 2분기 호실적에 하락장서도 2% 상승 마감(종합)", "source": "연합뉴스·경제"}
-{"date": "2026-07-24", "title": "[특징주] 삼성전자·SK하이닉스, 장 초반 4∼5% 하락", "source": "연합뉴스·경제"}
-{"date": "2026-07-24", "title": "[특징주] 상장날 급락장에 '날벼락'…에이치엘지노믹스 31%↓(종합)", "source": "연합뉴스·경제"}
-{"date": "2026-07-24", "title": "[포토]코스피 '7천피' 탈환", "source": "이데일리·경제"}
-{"date": "2026-07-24", "title": "[포토]코스피 상승-환율 하락", "source": "이데일리·경제"}
-{"date": "2026-07-24", "title": "[포토]코스피, '삼전닉스'와 동반 상승", "source": "이데일리·경제"}
-{"date": "2026-07-24", "title": "[포토]코스피, 7천피 탈환", "source": "이데일리·경제"}
-{"date": "2026-07-24", "title": "[필승매매 승부사] '삼현 '추천 한달만에 +111% 급등! 기세 이어갈 로봇주는? '에브리봇'", "source": "머니투데이·증권"}
-{"date": "2026-07-24", "title": "A panicking Fed is just what the bond market needs, says Bank of America’s chief strategist", "source": "MarketWatch"}
-{"date": "2026-07-24", "title": "A ‘generational buying opportunity’ guarantees inflation plus 3% a year, says this hedge-fund manager", "source": "MarketWatch"}
-{"date": "2026-07-24", "title": "AI 스스로 격리망 뚫고 침투…\"사람용 인증만으로는 못 막는다\"", "source": "아시아경제"}
-{"date": "2026-07-24", "title": "AI 클라우드 훈풍 타고 날아오른 전력주… \"빅테크 투자 랠리 수혜\"", "source": "이데일리·증권"}
-{"date": "2026-07-24", "title": "AI 투자 부담에 M7, 하루 1166조원 증발…메모리株만 웃었다", "source": "뉴시스·경제"}
-{"date": "2026-07-24", "title": "AI 투자에 '리스크 프리미엄' 붙는다…메타, 웃돈 내고 자금 조달", "source": "뉴시스·경제"}
-{"date": "2026-07-24", "title": "Albertsons stock plunges as it says weaker grocery spending will cut into sales and earnings", "source": "CNBC·Markets"}
-{"date": "2026-07-24", "title": "Alphabet and Tesla test Wall Street's patience as AI spending overshadows growth", "source": "CNBC·Markets"}
-{"date": "2026-07-24", "title": "AMD’s rivalry with Nvidia is increasingly moving into a new realm", "source": "MarketWatch"}
-{"date": "2026-07-24", "title": "American Airlines stock tumbles 8% as fuel spike further postpones turnaround", "source": "CNBC·Markets"}
-{"date": "2026-07-24", "title": "American Express rides a boom in Platinum cards to its strongest spending growth in years", "source": "MarketWatch"}
-{"date": "2026-07-24", "title": "As the U.S.-Iran war heats up again, these parts of the stock market and economy could be affected", "source": "CNBC·Finance"}
-{"date": "2026-07-24", "title": "aT, '소셜 아이어워드 2026' 블로그 부문 최우수상 수상", "source": "뉴시스·경제"}
-{"date": "2026-07-24", "title": "Bets against SpaceX grow to 32% of float as Elon Musk warns short sellers won't survive", "source": "CNBC·Finance"}
-{"date": "2026-07-24", "title": "Can AI replace your financial adviser? Why bots still can’t match human judgment.", "source": "MarketWatch"}
-{"date": "2026-07-24", "title": "Capital One bet big on Discover. Now it must prove the gamble was worth it", "source": "CNBC·Finance"}
-{"date": "2026-07-24", "title": "Capital One earnings were good enough but didn't answer the big question hanging over the stock", "source": "CNBC·Markets"}
-{"date": "2026-07-24", "title": "China is winning the war in the Middle East, and gold and the dollar will start to feel it, strategist says", "source": "MarketWatch"}
-{"date": "2026-07-24", "title": "Coinbase trading results may fall short of expectations, according to prediction markets", "source": "CNBC·Finance"}
-{"date": "2026-07-24", "title": "Comcast earnings highlight NBCUniversal strength ahead of planned split", "source": "CNBC·Markets"}
-{"date": "2026-07-24", "title": "CVC 우회투자·SPC 채무보증 차단...공정위, 규제 강화", "source": "이데일리·경제"}
-{"date": "2026-07-24", "title": "DGP, 유증·CB로 180억 조달…최대주주 변경·신사업 추진 '투트랙'", "source": "머니투데이·증권"}
-{"date": "2026-07-24", "title": "EU, 러시아산 LNG 대한국 수출 제재 면제…정부 \"한-EU 정상외교 성과\"", "source": "뉴시스·경제"}
-{"date": "2026-07-24", "title": "Farmers are already set for a $55 billion payday — why does Washington want to give them even more?", "source": "MarketWatch"}
-{"date": "2026-07-24", "title": "FSN 자회사 부스터즈 '기픈', 와디즈 오픈 첫날 전체 1위…얼리버드 패키지 완판", "source": "아시아경제"}
-{"date": "2026-07-24", "title": "FSN, 자회사 부스터즈 2분기 영업익 131억원…분기 최대 실적", "source": "아시아경제"}
-{"date": "2026-07-24", "title": "FX스와프, 풍부한 달러·부족한 원화에 상승", "source": "연합인포맥스"}
-{"date": "2026-07-24", "title": "GE Vernova sellers blinded by an earnings miss should focus on strong demand instead", "source": "CNBC·Markets"}
-{"date": "2026-07-24", "title": "GM beats on earnings, raises guidance amid 'resilient' consumer, pricing", "source": "CNBC·Markets"}
-{"date": "2026-07-24", "title": "Goldman Sachs creates private markets platform as rich investors seek the next SpaceX and Stripe", "source": "CNBC·Finance"}
-{"date": "2026-07-24", "title": "GS건설, 계약부터 입주까지 디지털화…전자계약 시스템 도입", "source": "뉴시스·경제"}
-{"date": "2026-07-24", "title": "GS건설, 분양부터 입주까지 전자계약…목동윤슬자이 첫 적용", "source": "연합뉴스·경제"}
-{"date": "2026-07-24", "title": "GS리테일, 3Q 소비쿠폰 수혜…성장세 돌아설 것-IBK", "source": "머니투데이·증권"}
-{"date": "2026-07-24", "title": "HD현대는 AI 조선소·한화는 군함…'마스가' 닻 올렸다", "source": "한국경제·경제"}
-{"date": "2026-07-24", "title": "Here’s how much revenue S&P 500 companies make from overseas", "source": "MarketWatch"}
-{"date": "2026-07-24", "title": "HLB, '리라푸그라티닙 FDA 후반부 심사 협의' 특별한 이슈 없어", "source": "아시아경제"}
-{"date": "2026-07-24", "title": "HLB이노베이션, 혈액암 CAR-T 임상 투여 용량 확대", "source": "아시아경제"}
-{"date": "2026-07-24", "title": "HSBC, 스페이스X 목표가 115달러 제시…현 주가보다 낮아", "source": "연합인포맥스"}
-{"date": "2026-07-24", "title": "I will definitely claim Social Security early. Why do so few people talk about the elephant in the room?", "source": "MarketWatch"}
-{"date": "2026-07-24", "title": "IBM lowers full-year forecast after earnings warning", "source": "CNBC·Markets"}
-{"date": "2026-07-24", "title": "Intel's stock jumps as chipmaker rides AI boom to fastest revenue growth in almost 15 years", "source": "CNBC·Markets"}
-{"date": "2026-07-24", "title": "Intel's turnaround under CEO Lip-Bu Tan gains steam with another strong quarter", "source": "CNBC·Markets"}
-{"date": "2026-07-24", "title": "IPARK현대산업개발, 2분기 영업이익 1227억원…전년 대비 53% 증가", "source": "아시아경제"}
-{"date": "2026-07-24", "title": "IRS 금리 상승…백투백 우려에 비드 우위", "source": "연합인포맥스"}
-{"date": "2026-07-24", "title": "Jamie Dimon says markets underestimate risks and he wouldn't buy stocks or Treasurys at current prices", "source": "CNBC·Finance"}
-{"date": "2026-07-24", "title": "John Paulson says we are in the early stages of a long-term bull market for gold", "source": "CNBC·Finance"}
-{"date": "2026-07-24", "title": "JPMorgan report finds dramatic jump in AI-themed ETFs — despite rough quarter", "source": "CNBC·Finance"}
-{"date": "2026-07-24", "title": "K-기업 총수들, 엔비디아 CEO와 미국서 회동… 반도체 피크아웃 우려 씻어낼까", "source": "이데일리·증권"}
-{"date": "2026-07-24", "title": "Kalshi launches election hub for prediction markets ahead of midterms", "source": "CNBC·Finance"}
-{"date": "2026-07-24", "title": "KB국민은행, 생활 밀착형 라이프케어 서비스 '골든라이프 Day'", "source": "연합뉴스·경제"}
-{"date": "2026-07-24", "title": "KB자산운용, 'RISE 청년 스타트' 자립역량 강화 특강", "source": "아시아경제"}
-{"date": "2026-07-24", "title": "KB증권 \"실전투자대회 투자마스터즈 2026 성황리 마감\"", "source": "아시아경제"}
-{"date": "2026-07-24", "title": "Kevin Warsh has homed in on three key phrases. How Fed watchers interpret them", "source": "CNBC·Economy"}
-{"date": "2026-07-24", "title": "KIAT, 美 ABS·텍사스A&M과 조선해양기술협력 추진", "source": "뉴시스·경제"}
-{"date": "2026-07-24", "title": "KOSPI 5%대 급락 속 '배당주 피신처' 부상…지금 저가매수할 5선은?", "source": "한국경제·증권"}
-{"date": "2026-07-24", "title": "KREI \"농업법인 역할 재정립 필요…규모화 효과 제한적\"", "source": "뉴시스·경제"}
-{"date": "2026-07-24", "title": "KT 소액결제 사태 확대에…보안주 '불기둥'", "source": "머니투데이·증권"}
-{"date": "2026-07-24", "title": "KT, 갤럭시 폴드8·플립8 체험공간 전국 운영", "source": "연합뉴스·경제"}
-{"date": "2026-07-24", "title": "K뷰티 해외진출 문턱 낮춘다…코스맥스, 수출입 지원 플랫폼 가동", "source": "이데일리·경제"}
-{"date": "2026-07-24", "title": "LG, 에티오피아 참전용사 위해…강뉴합창단 전용 연습실 조성", "source": "한국경제·경제"}
-{"date": "2026-07-24", "title": "LG디스플레이, 3분기 영업익 시장 기대치 넘어설듯-키움증권", "source": "머니투데이·증권"}
-{"date": "2026-07-24", "title": "LH, 올해 20조원 자금조달 추진…해외채권 등 조달원 다변화", "source": "뉴시스·경제"}
-{"date": "2026-07-24", "title": "LS證, 외국인 투자자에 70억 손배소…'이메일 주문' 법적 공방", "source": "이데일리·증권"}
-{"date": "2026-07-24", "title": "MBK, 롯데카드 '보안투자 소홀' 억울 \"71억→128억, 꾸준히 확대\"", "source": "머니투데이·증권"}
-{"date": "2026-07-24", "title": "My second husband and I have kids from previous relationships. Should my house go to him or my children if I die first?", "source": "MarketWatch"}
-{"date": "2026-07-24", "title": "NH證, 운용·자문사 CEO 초청 오찬...\"차별화된 WM 솔루션 강화\"", "source": "파이낸셜·증권"}
-{"date": "2026-07-24", "title": "NH농협금융, 2분기 순익 9천104억…반기 기준 역대 최대", "source": "연합인포맥스"}
-{"date": "2026-07-24", "title": "NH증권, 상반기 순이익 9652억원…\"역대 최대\"", "source": "아시아경제"}
-{"date": "2026-07-24", "title": "NH투자증권, 2분기 순익 4894억 '역대 최대'", "source": "한국경제·증권"}
-{"date": "2026-07-24", "title": "NH투자증권, 운용·자문사 CEO와 간담회…WM 협업 강화", "source": "이데일리·증권"}
-{"date": "2026-07-24", "title": "Odds of Federal Reserve rate hike surge as oil prices rip higher", "source": "CNBC·Finance"}
-{"date": "2026-07-24", "title": "Ryanair says 'no shortage' of travelers despite Iran war denting profit", "source": "CNBC·Markets"}
-{"date": "2026-07-24", "title": "S&P 500 flashes sell signals — options traders are bracing for wild swings in Apple, Meta and Microsoft", "source": "MarketWatch"}
-{"date": "2026-07-24", "title": "SAMG엔터 '캐치! 티니핑', '플레이투게더'서 프린세스 세계관 게임으로 확장", "source": "아시아경제"}
-{"date": "2026-07-24", "title": "ServiceNow’s stock falls as a new AI threat overshadows earnings beat", "source": "MarketWatch"}
-{"date": "2026-07-24", "title": "Shortsighted stock market can no longer brush off war: 'It's too hard to ignore $100 oil'", "source": "CNBC·Finance"}
-{"date": "2026-07-24", "title": "SK텔레콤, AI 데이터센터 사업 위해 'SK하이퍼' 설립…7500억 출자 계획", "source": "아시아경제"}
-{"date": "2026-07-24", "title": "SLL중앙, 추가청약으로 회사채 증액발행…최종 350억 모집", "source": "머니투데이·증권"}
-{"date": "2026-07-24", "title": "Southwest Airlines' third-quarter forecast falls short as fuel bill climbs", "source": "CNBC·Markets"}
-{"date": "2026-07-24", "title": "Super Micro surges 15% on new order and margin disclosure after SpaceX announcement", "source": "CNBC·Markets"}
-{"date": "2026-07-24", "title": "Tesla misses on earnings, as free cash flow turns negative and margins slide", "source": "CNBC·Markets"}
-{"date": "2026-07-24", "title": "Tesla sees a $214 billion wipeout as investors pan Elon Musk’s plan to spend ‘as fast as we can’", "source": "MarketWatch"}
-{"date": "2026-07-24", "title": "Trump plans generic drug tariffs from 2028 with two-year delay testing U.S. onshoring push", "source": "CNBC·Economy"}
-{"date": "2026-07-24", "title": "Trump rolls out a new wave of global tariffs. Here are the latest rates.", "source": "MarketWatch"}
-{"date": "2026-07-24", "title": "Trump's new global tariff draws rebukes from trade partners over forced labor justification", "source": "CNBC·Economy"}
-{"date": "2026-07-24", "title": "U.S., other nations back open-source AI with 'strong security' at China summit", "source": "CNBC·Finance"}
-{"date": "2026-07-24", "title": "Verizon’s stock rises as earnings show the company is no longer a ‘hunting ground’", "source": "MarketWatch"}
-{"date": "2026-07-24", "title": "Volkswagen CFO addresses plant closures, job losses as profits sink", "source": "CNBC·Markets"}
-{"date": "2026-07-24", "title": "We're raising our Honeywell Technologies price target, reflecting post-spinoff optimism", "source": "CNBC·Markets"}
-{"date": "2026-07-24", "title": "We're ready to move on from Dover after the industrial conglomerate's weak quarter", "source": "CNBC·Markets"}
-{"date": "2026-07-24", "title": "Why fixing the housing crisis for under-40s could trigger 10% Treasury yields", "source": "MarketWatch"}
-{"date": "2026-07-24", "title": "Why we're sticking with Alphabet despite an imperfect quarter and more AI spending", "source": "CNBC·Markets"}
-{"date": "2026-07-24", "title": "YG플러스, 베이비몬스터 첫 리얼리티 '베몬하우스' 연계 공식 MD 판매", "source": "머니투데이·증권"}
-{"date": "2026-07-24", "title": "‘It’s nothing personal’: Should I tell my 96-year-old stepmother that I don’t want her inheritance?", "source": "MarketWatch"}
-{"date": "2026-07-24", "title": "‘We are not romantically involved’: I’m marrying my platonic best friend of 20 years. Should I leave him my home?", "source": "MarketWatch"}
-{"date": "2026-07-24", "title": "“AI가 행사 기획부터 운영까지”…행사 기획 AX 현실로", "source": "이데일리·경제"}
-{"date": "2026-07-24", "title": "“하루 새 10곳이 목표가 올렸다”…삼성E&A에 무슨 일이", "source": "한국경제·증권"}
-{"date": "2026-07-24", "title": "弗 약해질수록, 뜨거워지는 金", "source": "머니투데이·증권"}
-{"date": "2026-07-24", "title": "日 7월 제조업 PMI 54.7·0.1P↓…생산·수주 확대 지속", "source": "뉴시스·경제"}
-{"date": "2026-07-24", "title": "日증시, 美기술주 급락·유가 상승에 하락…닛케이 2.73%↓", "source": "뉴시스·경제"}
-{"date": "2026-07-24", "title": "日증시, 美기술주 급락에 하락 출발…닛케이 1.26%↓", "source": "뉴시스·경제"}
-{"date": "2026-07-24", "title": "獨 7월 종합 PMI 예비치 51.2…4개월 내 최고치", "source": "연합인포맥스"}
-{"date": "2026-07-24", "title": "美 강제노동 관세 12.5%에…日정부 \"유감, 일본 무역은 국제 규칙 준수\"", "source": "뉴시스·경제"}
-{"date": "2026-07-24", "title": "美 의회 “클래리티법 내달 처리 어렵다”…비트코인 약세", "source": "이데일리·경제"}
-{"date": "2026-07-24", "title": "美 재무부, 한국 환율 관찰대상국 재지정…\"원화 절하 압력 지속\"", "source": "한국경제·경제"}
-{"date": "2026-07-24", "title": "美 전역서 데이터센터 반대↑…일부서 주택 보유세율 인하 효과도", "source": "연합인포맥스"}
-{"date": "2026-07-24", "title": "美, 10% 임시관세 강제노동 관세로 대체…\"韓 12.5%\"(종합)", "source": "뉴시스·경제"}
-{"date": "2026-07-24", "title": "美, 韓 4회 연속 환율 관찰대상국…정부 \"시장 안정 협력 지속\"(종합)", "source": "뉴시스·경제"}
-{"date": "2026-07-24", "title": "美, 韓 등 10개국 환율관찰대상 유지…'서학개미' 열풍 주목(종합2보)", "source": "연합뉴스·경제"}
-{"date": "2026-07-24", "title": "美, 韓에 12.5% 관세…산업부 \"301조 과잉생산 조사도 대응\"", "source": "뉴시스·경제"}
-{"date": "2026-07-24", "title": "美, 강제노동 301조 추가관세…\"韓, 기본세율 합해 12.5%\"", "source": "뉴시스·경제"}
-{"date": "2026-07-24", "title": "美, 한국 등에 '강제노동 관세' 부과 …\"즉각적 경제 충격 크지 않을 듯\"", "source": "뉴시스·경제"}
-{"date": "2026-07-24", "title": "美, 환율조작국 지정 안 해…한국 등 10개국 관찰대상 유지", "source": "아시아경제"}
-{"date": "2026-07-24", "title": "與 \"국민경청 부동산토론회, 실행으로 답할것\"…당내선 갑론을박", "source": "연합뉴스·경제"}
-{"date": "2026-07-24", "title": "與 \"국힘 부동산 토론회, 정상화 아닌 '투기조장'\"", "source": "뉴시스·경제"}
-{"date": "2026-07-24", "title": "與 '보완수사권 폐지' 형소법 개정안 당론 추인…&quot;중수청법 개정도 추진&quot;", "source": "연합인포맥스"}
-{"date": "2026-07-24", "title": "英 6월 소매판매 전년비 4.2%↑…예상치인 2.3% 상회(상보)", "source": "연합인포맥스"}
-{"date": "2026-07-24", "title": "韓총리 취임後 전북 첫방문…\"새만금에 무한한 가능성과 책임감\"", "source": "연합뉴스·경제"}
-{"date": "2026-07-24", "title": "가비아 공개매수 공방…맥쿼리 \"가격 적정\" VS 얼라인 \"절차가 핵심\"", "source": "아시아경제"}
-{"date": "2026-07-24", "title": "간밤 15% 급락한 테슬라…보유지분 많은 한국 상장사 따져보니", "source": "한국경제·증권"}
-{"date": "2026-07-24", "title": "강남구, 재건축 추진위 승인 처리 기간 30일→10일 단축", "source": "뉴시스·경제"}
-{"date": "2026-07-24", "title": "강달러도 누른 하이닉스 효과…환율 0.2원 내린 1,466.6원", "source": "연합뉴스·경제"}
-{"date": "2026-07-24", "title": "강원개발공사, 28일 정선 야생화마을 광차체험코스 주민설명회", "source": "연합뉴스·경제"}
-{"date": "2026-07-24", "title": "강원대·춘천시, '거점국립대 패키지 지원사업' 공동 추진 협약", "source": "연합뉴스·경제"}
-{"date": "2026-07-24", "title": "갤럭시 폴더블 신작 출시…게임업계 협업 경쟁 본격화", "source": "연합뉴스·경제"}
-{"date": "2026-07-24", "title": "갤럭시아머니트리, 400만 '머니트리'에 GXA 심는다…디지털자산 실사용 확대", "source": "파이낸셜·증권"}
-{"date": "2026-07-24", "title": "갤럭시아머니트리, 갤럭시아월렛·머니트리 서비스 연계", "source": "아시아경제"}
-{"date": "2026-07-24", "title": "갤럭시아머니트리, 서클 '커런트 서울' 참가", "source": "아시아경제"}
-{"date": "2026-07-24", "title": "거래소 \"나이스정보통신, 29일부터 주권매매거래정지\"", "source": "이데일리·증권"}
-{"date": "2026-07-24", "title": "거래소 \"덕신이피씨, 29일부터 주권매매거래정지\"", "source": "이데일리·증권"}
-{"date": "2026-07-24", "title": "거래소 \"라온피플, 29일부터 주권매매거래정지\"", "source": "이데일리·증권"}
-{"date": "2026-07-24", "title": "거래소 \"우리이앤엘하루틴, 29일부터 주권매매거래정지\"", "source": "이데일리·증권"}
-{"date": "2026-07-24", "title": "거래소 \"코미코, 29일부터 주권매매거래정지\"", "source": "이데일리·증권"}
-{"date": "2026-07-24", "title": "거래소 \"한울앤제주, 29일부터 주권매매거래정지\"", "source": "이데일리·증권"}
-{"date": "2026-07-24", "title": "거래소, 알엔투테크놀로지 불성실공시법인 지정 예고", "source": "이데일리·증권"}
-{"date": "2026-07-24", "title": "거래소, 이원컴포텍 불성실공시법인 지정 예고", "source": "이데일리·증권"}
-{"date": "2026-07-24", "title": "거래소, 인바이오 불성실공시법인 지정 예고", "source": "이데일리·증권"}
-{"date": "2026-07-24", "title": "거래소, 코스닥150 위클리옵션 상장…파생상품시장 개장 15분 앞당겨", "source": "머니투데이·증권"}
-{"date": "2026-07-24", "title": "거래소, 클래시스 불성실공시법인 지정 예고", "source": "이데일리·증권"}
-{"date": "2026-07-24", "title": "경남도, 영국 판버러 에어쇼서 3억600만달러 수출 상담 성과", "source": "연합뉴스·경제"}
-{"date": "2026-07-24", "title": "계룡장학재단, 유현준 교수와 건축 인재 키운다", "source": "뉴시스·경제"}
-{"date": "2026-07-24", "title": "고율 관세에도…中 BYD, 유럽서 테슬라 추월", "source": "한국경제·경제"}
-{"date": "2026-07-24", "title": "공적연금 개혁연대 &quot;기금운용본부 구조적 내부통제 실패…철저 의혹 규명&quot;", "source": "연합인포맥스"}
-{"date": "2026-07-24", "title": "공정위, 'HDC 부당 지원 의혹' 아이파크영창 현장 조사", "source": "연합뉴스·경제"}
-{"date": "2026-07-24", "title": "공정위, HDC 계열사 '아이파크영창' 현장조사…부당지원 의혹", "source": "뉴시스·경제"}
-{"date": "2026-07-24", "title": "공정위, 중견 건설사 30곳과 상생협약…불공정관행 근절", "source": "뉴시스·경제"}
-{"date": "2026-07-24", "title": "공정위, 중견 건설사 30곳과 상생협약…하자소송 책임분담 등 약속", "source": "이데일리·경제"}
-{"date": "2026-07-24", "title": "관리비부터 대표선거·층간소음까지…아파트 갈등 '폭발 직전'", "source": "연합뉴스·경제"}
-{"date": "2026-07-24", "title": "광장극동 재건축 '속도전'…조합 설립 동의서 확보 착수", "source": "뉴시스·경제"}
-{"date": "2026-07-24", "title": "교보생명, 소외계층 아동에 후원금", "source": "한국경제·경제"}
-{"date": "2026-07-24", "title": "교보증권 \"인공지능(AI) 전사 교육 실시\"", "source": "아시아경제"}
-{"date": "2026-07-24", "title": "교수노조 정치활동금지 위헌 결정…노동장관 \"법개정 조속 추진\"", "source": "연합뉴스·경제"}
-{"date": "2026-07-24", "title": "구윤철 \"연간 3% 성장·국민소득 4만달러 달성 가능성 매우 높아져\"", "source": "파이낸셜뉴스"}
-{"date": "2026-07-24", "title": "구윤철 \"올해 3% 성장·1인당 GNI 4만달러 가능성 매우 높아\"", "source": "뉴시스·경제"}
-{"date": "2026-07-24", "title": "구윤철 \"올해 3% 성장·1인당 GNI 4만달러 가능성 매우 높아져\"", "source": "연합뉴스·경제"}
-{"date": "2026-07-24", "title": "국고채 금리 일제히 상승…3년물 연 3.959%", "source": "연합뉴스·경제"}
-{"date": "2026-07-24", "title": "국고채 금리 일제히 상승…3년물 장중 연 3.963%", "source": "연합뉴스·경제"}
-{"date": "2026-07-24", "title": "국고채 금리, 100달러 넘은 유가에 일제히 연고점 경신(종합)", "source": "연합뉴스·경제"}
-{"date": "2026-07-24", "title": "국민대 캠퍼스타운, LuxInnovation·스카인큐와 '유럽 진출 네트워킹 데이' 성료", "source": "이데일리·경제"}
-{"date": "2026-07-24", "title": "국민성장펀드, LG디스플레이에 1조원대 저리대출 추진…OLED 경쟁력 지원", "source": "아시아경제"}
-{"date": "2026-07-24", "title": "국민카드, 상반기 순이익 20.7% 증가…수익성·외형 동반 성장", "source": "한국경제·경제"}
-{"date": "2026-07-24", "title": "국제유가 100달러 재돌파에도…시장 \"연말 80달러대로 내린다\"", "source": "뉴시스·경제"}
-{"date": "2026-07-24", "title": "국제유가 충격에 흔들린 나스닥…코스피는 더 세게 맞았다", "source": "한국경제·증권"}
-{"date": "2026-07-24", "title": "국토부 장관, 서울시장과 주택공급 방안 논의", "source": "연합인포맥스"}
-{"date": "2026-07-24", "title": "국힘, 與 보완수사권 폐지 당론에 &quot;피해자·유가족 호소 무시&quot;", "source": "연합인포맥스"}
-{"date": "2026-07-24", "title": "규합위, '대주주 적격성' 개선권고…두나무·네이버 '숨통'", "source": "연합뉴스·경제"}
-{"date": "2026-07-24", "title": "규합위, 가상자산 대주주 기준 완화 권고…네이버·두나무 딜 숨통", "source": "아시아경제"}
-{"date": "2026-07-24", "title": "규합위,'대주주 적격성' 개선권고…두나무·네이버 '숨통'", "source": "연합뉴스·경제"}
-{"date": "2026-07-24", "title": "그래피, 2분기 영업손실 30억…전년比 손실폭 확대", "source": "이데일리·증권"}
-{"date": "2026-07-24", "title": "금융·방산·원전·바이오가 반도체 대안?…\"전제가 틀렸다\"", "source": "한국경제·증권"}
-{"date": "2026-07-24", "title": "금융위 \"감사품질 높다면 중견회계법인도 대형상장사 감사 허용\"", "source": "아시아경제"}
-{"date": "2026-07-24", "title": "금융위 \"디지털자산 커스터디, 별도 영업 분리 검토\"", "source": "아시아경제"}
-{"date": "2026-07-24", "title": "금융위 STO 가이드라인 임박…오늘 RWA 혁신 세미나", "source": "이데일리·경제"}
-{"date": "2026-07-24", "title": "금융위 “스테이블코인법 속도”…정무위 방문 본격화", "source": "이데일리·경제"}
-{"date": "2026-07-24", "title": "금융위 간판 버린다…변호사들, 살 길 찾아 줄줄이 '친정行'", "source": "연합인포맥스"}
-{"date": "2026-07-24", "title": "금융위, 품질 우수 중견 회계법인도 대형 상장사 감사", "source": "파이낸셜·증권"}
-{"date": "2026-07-24", "title": "금천구 시흥3동 231세대 모아주택 가결…5개 사업구역 순차 진행", "source": "연합뉴스·경제"}
-{"date": "2026-07-24", "title": "급성장에 주가 급등한 네오클라우드, AI 버블의 핵일까", "source": "머니투데이·증권"}
-{"date": "2026-07-24", "title": "기가비스, 223억 규모 공급계약 체결", "source": "이데일리·증권"}
-{"date": "2026-07-24", "title": "기름값 100달러 돌파에…코스피 또 '매도 사이드카' 발동", "source": "한국경제·증권"}
-{"date": "2026-07-24", "title": "기아 &quot;유럽서 수익성 양보해 中 전기차 대응&quot;…주가 13%↓(종합)", "source": "연합인포맥스"}
-{"date": "2026-07-24", "title": "기아, 매출 33조…2분기 사상 최대", "source": "한국경제·경제"}
-{"date": "2026-07-24", "title": "기회 구간은 짧다…투자 여력 넓히는 ‘현실적 대안’ 찾는 투자자들", "source": "이데일리·증권"}
-{"date": "2026-07-24", "title": "기획처, 총사업비 제도 간담회…\"자율조정 확대\" 의견 수렴", "source": "연합뉴스·경제"}
-{"date": "2026-07-24", "title": "기후장관 \"원전 없이 재생E만으론 전력공급 쉽지 않아\"", "source": "뉴시스·경제"}
-{"date": "2026-07-24", "title": "기후장관, 사무관 사망에 \"비통함과 무거운 책임감 느껴\"", "source": "뉴시스·경제"}
-{"date": "2026-07-24", "title": "김용범 &quot;4700조 과장 아니다…이번 美 빅테크 계약 보면 알게 될 것&quot;", "source": "연합인포맥스"}
-{"date": "2026-07-24", "title": "김현정 의원, '주총 쏠림' 막는 자본시장법 개정안 발의", "source": "아시아경제"}
-{"date": "2026-07-24", "title": "나란히 성적표 낸 '은행주 투톱' KB·신한…하나만 투자한다면?", "source": "한국경제·증권"}
-{"date": "2026-07-24", "title": "나신평, SK이터닉스 전단채 'A3+' 평가…따라올 신평사 어디?", "source": "머니투데이·증권"}
-{"date": "2026-07-24", "title": "나이스신평 &quot;동아제약 합병…그룹 차원 투자 확대 가능성 커져&quot;", "source": "연합인포맥스"}
-{"date": "2026-07-24", "title": "낡아가는 정부청사…\"예방적 관리로 年 2071억원 절감 가능\"", "source": "뉴시스·경제"}
-{"date": "2026-07-24", "title": "남부발전, 기후·환경분야 대국민 아이디어 공모 실시", "source": "뉴시스·경제"}
-{"date": "2026-07-24", "title": "남부발전, 삼척서 'ECO 에너지 안전지원센터' 개소", "source": "뉴시스·경제"}
-{"date": "2026-07-24", "title": "네이버, 글로벌 AI 업체 공세에도 국내 성과 거둘것-NH투자증권", "source": "머니투데이·증권"}
-{"date": "2026-07-24", "title": "네이버-두나무 '빅딜' 청신호... 규합위, 특금법 개정안 개선 권고", "source": "한국경제·경제"}
-{"date": "2026-07-24", "title": "네이버-두나무 '빅딜' 청신호…규합위, 특금법 개정안 개선 권고", "source": "한국경제·경제"}
-{"date": "2026-07-24", "title": "네이버·두나무 합병 걸림돌 걷어냈다…특금법 시행령 '개선 권고'", "source": "연합인포맥스"}
-{"date": "2026-07-24", "title": "노머스, '40% 할증·리픽싱 X' 400억원 투자 유치", "source": "아시아경제"}
-{"date": "2026-07-24", "title": "노머스, 400억 CB 발행...'40% 할증·무이자·리픽싱 없음' [공시록]", "source": "파이낸셜·증권"}
-{"date": "2026-07-24", "title": "노머스, 400억 규모 CB 발행 통한 투자 유치 완료", "source": "이데일리·증권"}
-{"date": "2026-07-24", "title": "노머스, 400억 규모 전환사채권 발행 결정", "source": "이데일리·증권"}
-{"date": "2026-07-24", "title": "놀유니버스, 'NOL 라이브'서 뮤지컬·전시 특집 방송", "source": "연합뉴스·경제"}
-{"date": "2026-07-24", "title": "농심, 용기라면·스낵·음료 43개 브랜드 출고가 평균 5.8%↑", "source": "연합뉴스·경제"}
-{"date": "2026-07-24", "title": "농어촌공사, 과테말라 산림공무원 대상 연수 마무리", "source": "뉴시스·경제"}
-{"date": "2026-07-24", "title": "농진청, 데이터·AI 현장 활용 경진대회 개최…6점 시상", "source": "뉴시스·경제"}
-{"date": "2026-07-24", "title": "농협금융 상반기 순익 1조7천791억원, 9.2%↑…역대 최대", "source": "연합뉴스·경제"}
-{"date": "2026-07-24", "title": "농협은행, 연금실적 우대금리 제공 '올원더풀행복동행통장' 출시", "source": "연합뉴스·경제"}
-{"date": "2026-07-24", "title": "뉴발란스, '태극 오류' 티셔츠 논란 일자 판매 중단", "source": "연합뉴스·경제"}
-{"date": "2026-07-24", "title": "뉴온, 추석맞이 99특가 프로모션…인기 건강기능식품 4종 특별 혜택가", "source": "머니투데이·증권"}
-{"date": "2026-07-24", "title": "단일종목 레버리지 규제 앞당긴다...31일부터 예탁금 3000만원 상향", "source": "파이낸셜·증권"}
-{"date": "2026-07-24", "title": "단일종목 레버리지 예탁금 3000만원, 오는 31일부터 조기시행", "source": "아시아경제"}
-{"date": "2026-07-24", "title": "단일종목 레버리지 투자 끝물?…고수들 레버리지 팔고 갈아탄 '이곳'", "source": "한국경제·증권"}
-{"date": "2026-07-24", "title": "달러-원, 1,466.60원에 서울장 마감…5월 7일 이후 최저", "source": "연합인포맥스"}
-{"date": "2026-07-24", "title": "닭 늘었지만 한우·돼지 줄었다…가축 사육 감소세 지속", "source": "뉴시스·경제"}
-{"date": "2026-07-24", "title": "당근알바, 한국교통안전공단과 운수종사자 자격정보 연계", "source": "연합뉴스·경제"}
-{"date": "2026-07-24", "title": "대미 전략투자 1호 에너지 우선 논의…한미 조선협력센터 출범", "source": "파이낸셜뉴스"}
-{"date": "2026-07-24", "title": "대신證 \"현대차, 2분기 실적 바닥 확인…하반기 신차·관세 기저에 반등 기대\"", "source": "파이낸셜·증권"}
-{"date": "2026-07-24", "title": "대신파이낸셜그룹, 서울아산병원에 암 치료환경 개선 발전기금 전달", "source": "아시아경제"}
-{"date": "2026-07-24", "title": "대우건설, KINX와 협력…\"데이터센터 통합 디벨로퍼 도약\"", "source": "뉴시스·경제"}
-{"date": "2026-07-24", "title": "대우건설, 데이터센서 개발·시공·운영 '통합 디벨로퍼화' 추진", "source": "연합뉴스·경제"}
-{"date": "2026-07-24", "title": "대전시 '노스펙 방식' 5급 청년특보 공모에 47명 지원", "source": "연합뉴스·경제"}
-{"date": "2026-07-24", "title": "대표 나이 39세 이하인 신생기업 5년 생존율 7년 연속↑", "source": "뉴시스·경제"}
-{"date": "2026-07-24", "title": "대형 한방병원의 수백억 보험사기 의혹..왜 지급단계서 못걸렀나", "source": "이데일리·경제"}
-{"date": "2026-07-24", "title": "더핑크퐁컴퍼니, 50억원 규모 자사주 매입·소각 결정… \"주주가치 제고\"", "source": "파이낸셜·증권"}
-{"date": "2026-07-24", "title": "덕산넵코어스, 증권신고서 제출…코스닥 상장 본격 추진", "source": "이데일리·증권"}
-{"date": "2026-07-24", "title": "동국제강, 2분기 활짝 웃었다…영업익 52% 뛴 456억", "source": "연합인포맥스"}
-{"date": "2026-07-24", "title": "동아쏘시오홀딩스, 동아제약 흡수합병 추진…사업지주회사 체제 전환", "source": "아시아경제"}
-{"date": "2026-07-24", "title": "동양 \"우리금융지주 지분가치만 약 1000억원…주가 저평가\"", "source": "아시아경제"}
-{"date": "2026-07-24", "title": "동양생명 주총서 주식교환안 가결…우리금융 자회사 편입 속도", "source": "연합뉴스·경제"}
-{"date": "2026-07-24", "title": "두산밥캣, 2분기 영업익 43% 고성장…美 관세환급 효과 반영", "source": "이데일리·경제"}
-{"date": "2026-07-24", "title": "듀오백, 알고리고와 '에듀테크 시장' 진출", "source": "아시아경제"}
-{"date": "2026-07-24", "title": "듀켐바이오, 미 FDA에 원료의약품 등록 소식에 '上'", "source": "한국경제·증권"}
-{"date": "2026-07-24", "title": "디알젬, 터키 업체와 193억원 의료기기 공급계약", "source": "아시아경제"}
-{"date": "2026-07-24", "title": "디앤디파마텍, \"결과 속단 일러…하반기 비만치료제 기대감도\"-하나", "source": "머니투데이·증권"}
-{"date": "2026-07-24", "title": "딥노이드, '과거 영상까지 읽는 AI' 특허 확보…영상판독 고도화 잰걸음", "source": "파이낸셜·증권"}
-{"date": "2026-07-24", "title": "또 '검은 금요일'…코스피·코스닥 5% 넘게 급락", "source": "한국경제·증권"}
-{"date": "2026-07-24", "title": "또 '블랙데이'…유가급등에 코스피 5.7%·코스닥 5.3% 급락(종합)", "source": "연합뉴스·경제"}
-{"date": "2026-07-24", "title": "또 '블랙데이'…코스피 5.7%·코스닥 5.3% 급락 마감", "source": "연합뉴스·경제"}
-{"date": "2026-07-24", "title": "라면·콜라·도넛 줄인상…\"고유가에 포장지 값 올라\"", "source": "한국경제·경제"}
-{"date": "2026-07-24", "title": "람다256, 9개 카드사와 스테이블코인 결제 전 과정 검증", "source": "이데일리·경제"}
-{"date": "2026-07-24", "title": "러, 기준금리 14.0%로 인하…10차례 잇달아 내려", "source": "연합뉴스·경제"}
-{"date": "2026-07-24", "title": "레버리지, 필요 현금 3백만→3천만 '10배 상향'…효과 있을까", "source": "한국경제·증권"}
-{"date": "2026-07-24", "title": "로봇·AI 이어 수학까지…베이징대가 키운 '수학 굴기'", "source": "한국경제·경제"}
-{"date": "2026-07-24", "title": "로봇이 사람보다 낫다...퇴직연금 수익률 최대 44%", "source": "머니투데이·증권"}
-{"date": "2026-07-24", "title": "롤러코스터 증시 구할 카드는…하반기 정책 호재 뭐가 남았나", "source": "한국경제·증권"}
-{"date": "2026-07-24", "title": "롯데건설, 소셜아이어워드서 디자인 혁신 대상 등 2관왕", "source": "연합뉴스·경제"}
-{"date": "2026-07-24", "title": "롯데건설, 유튜브 채널 '오케롯캐' 소셜아이어워드 2관왕", "source": "뉴시스·경제"}
-{"date": "2026-07-24", "title": "롯데월드 역대 최대 투자작…'콩X고질라' 직접 타보니 [주말엔 여기]", "source": "이데일리·경제"}
-{"date": "2026-07-24", "title": "마스턴운용, 한국외대 금융연구회 초청 세미나 진행", "source": "아시아경제"}
-{"date": "2026-07-24", "title": "마스턴투자운용, 한국외대 금융연구회 초청 '재능기부 세미나' 진행", "source": "이데일리·증권"}
-{"date": "2026-07-24", "title": "마키나락스, 에너토크와 'AI 네이티브 팩토리' 구축 맞손", "source": "이데일리·증권"}
-{"date": "2026-07-24", "title": "매점매석 부당이득 2배 토해낸다…정부, 압수물 강제 매각 추진", "source": "이데일리·경제"}
-{"date": "2026-07-24", "title": "머니투데이 오프라인 헤드라인-19일", "source": "머니투데이·증권"}
-{"date": "2026-07-24", "title": "머스크 신화 흔들리나…테슬라·스페이스X 동반 급락", "source": "뉴시스·경제"}
-{"date": "2026-07-24", "title": "무안군, 군공항 이전 후보지 선정회의 또 불참…회의 연기(종합)", "source": "연합뉴스·경제"}
-{"date": "2026-07-24", "title": "무안군, 군공항 이전 후보지 선정회의 또 불참하기로", "source": "연합뉴스·경제"}
-{"date": "2026-07-24", "title": "미래에셋, TIGER ETF 순자산 80조원 돌파…개인투자자 선택 1위", "source": "머니투데이·증권"}
-{"date": "2026-07-24", "title": "미래에셋증권, 5024억 규모 자사주 소각 결정…\"창사 이래 최대 규모\"", "source": "아시아경제"}
-{"date": "2026-07-24", "title": "민관 농촌 돌봄 추진…해남 등 5곳 '농촌서비스협약' 체결", "source": "뉴시스·경제"}
-{"date": "2026-07-24", "title": "민주노총 \"'AI 대응' 새 사회적 대화 기구 구성 추진\"", "source": "뉴시스·경제"}
-{"date": "2026-07-24", "title": "바이낸스 이사 \"스테이블코인·RWA 업고 거래소 넘어 '슈퍼앱' 도약\"", "source": "이데일리·경제"}
-{"date": "2026-07-24", "title": "바이낸스, '스톱 더 트래피크'와 파트너십…인신매매 범죄 대응 강화", "source": "이데일리·경제"}
-{"date": "2026-07-24", "title": "바이낸스, 인신매매 예방 단체 '스톱 더 트래픽'과 파트너십", "source": "연합뉴스·경제"}
-{"date": "2026-07-24", "title": "바이오의약품 CDMO 수출 지원체계 마련…시설기준 구체화", "source": "연합뉴스·경제"}
-{"date": "2026-07-24", "title": "바이오인프라, 2분기 영업익 2.3억…전년비 흑전", "source": "이데일리·증권"}
-{"date": "2026-07-24", "title": "박현주 \"코빗, 디지털X로 새출발…미래에셋의 핵심될 것\"", "source": "아시아경제"}
-{"date": "2026-07-24", "title": "박현주 “코빗, ‘디지털X’로 사명 변경…미래에셋 3.0 구현”", "source": "이데일리·경제"}
-{"date": "2026-07-24", "title": "발행어음·IMA 인가나면 중소·벤처기업에 20조원 풀린다", "source": "머니투데이·증권"}
-{"date": "2026-07-24", "title": "법원 “VASP 없이 스테이블코인 환전 불가”…FIU 승소", "source": "이데일리·경제"}
-{"date": "2026-07-24", "title": "베트남에 녹아든 오리온..\"브랜드 자체로 아우라, 꾸준히 사랑받길\"", "source": "머니투데이·증권"}
-{"date": "2026-07-24", "title": "변동성 장세에 금융지주 ETF 강세…SOL 금융지주플러스고배당 '주목'", "source": "파이낸셜·증권"}
-{"date": "2026-07-24", "title": "변동성 장세에 피난 간 개인…예탁금 '소강'에 CMA '증가'", "source": "파이낸셜·증권"}
-{"date": "2026-07-24", "title": "보난자랩, 타이거리서치와 디지털자산 데이터·리서치 협력 MOU", "source": "연합뉴스·경제"}
-{"date": "2026-07-24", "title": "부영그룹 '놀이의 힘' 주제 어린이집 학부모 대상 온라인 교육", "source": "뉴시스·경제"}
-{"date": "2026-07-24", "title": "브룩필드 자본에 엔비디아 칩까지…네이버, AI 인프라株로 다시 뜬다", "source": "한국경제·증권"}
-{"date": "2026-07-24", "title": "블루산업개발, 40억 규모 제3자배정 유상증자", "source": "아시아경제"}
-{"date": "2026-07-24", "title": "블루산업개발, 40억원 유상증자…케이비비조합에 제3자배정", "source": "연합뉴스·경제"}
-{"date": "2026-07-24", "title": "빅4 회계기업 \"AI로 돈 번다\"", "source": "머니투데이·증권"}
-{"date": "2026-07-24", "title": "빅히트 뮤직, 온·오프라인 글로벌 오디션 개최", "source": "머니투데이·증권"}
-{"date": "2026-07-24", "title": "빗썸, 초고령층 대상 '영상통화 확인' 도입", "source": "아시아경제"}
-{"date": "2026-07-24", "title": "사계절 웰니스 프로그램 활발… 한여름의 겨울왕국 ‘모나용평’ [여행]", "source": "이데일리·경제"}
-{"date": "2026-07-24", "title": "산란계 가축사육제한 규제 완화한다...뉴질랜드·폴란드 계란 수입 추진", "source": "파이낸셜뉴스"}
-{"date": "2026-07-24", "title": "산업부, 8차 최고가격 '동결'…&quot;중동사태로 원유 수급 우려↑&quot;", "source": "연합인포맥스"}
-{"date": "2026-07-24", "title": "산업부, 복수국간 그린경제협정 가입 시동…공청회 개최", "source": "연합뉴스·경제"}
-{"date": "2026-07-24", "title": "산업부, 복수국간 그린경제협정 참여 관련 공청회 개최", "source": "뉴시스·경제"}
-{"date": "2026-07-24", "title": "삼성E&A, 2분기 영업이익 2천731억원…작년 대비 51% 증가(종합)", "source": "연합뉴스·경제"}
-{"date": "2026-07-24", "title": "삼성E&A, 2분기 영업이익 51% 증가…수주잔고 2.5년치 확보", "source": "한국경제·경제"}
-{"date": "2026-07-24", "title": "삼성·현대차 담은 '피지컬AI 액티브' 나온다…로봇 ETF 경쟁 격화", "source": "한국경제·증권"}
-{"date": "2026-07-24", "title": "삼성發 로봇 붐…ETF 시장도 들썩 [한경 프리미엄9 TODAY]", "source": "한국경제·증권"}
-{"date": "2026-07-24", "title": "삼성重, 2Q 영업익 전년비 59% 급증…전망치는 하회", "source": "연합인포맥스"}
-{"date": "2026-07-24", "title": "삼성바이오에피스, 2Q 영업익 866억원…&quot;하반기 제품수요 순차 반영&quot;(종합)", "source": "연합인포맥스"}
-{"date": "2026-07-24", "title": "삼성바이오에피스, 2분기 영업익 866억원·3.6%↓", "source": "연합인포맥스"}
-{"date": "2026-07-24", "title": "삼성바이오에피스, 2분기 영업익 866억원·3.6%↓(상보)", "source": "연합인포맥스"}
-{"date": "2026-07-24", "title": "삼성바이오에피스, 상반기 영업익 2306억원…전년比 6%↑", "source": "이데일리·증권"}
-{"date": "2026-07-24", "title": "삼성에피스홀딩스, 2분기 매출액 3천919억원·영업익 587억원", "source": "연합인포맥스"}
-{"date": "2026-07-24", "title": "삼성전자 환급 덕에 '1위' 등극…수요 폭발한 '뜻밖의 회사'", "source": "한국경제·경제"}
-{"date": "2026-07-24", "title": "삼성전자, 메모리 반도체 빅사이클 호재…목표가 31%↑-한화", "source": "머니투데이·증권"}
-{"date": "2026-07-24", "title": "삼성중공업, LNG·탱커선 수요 계속…&quot;매출 목표 12.8조 달성 무난&quot;", "source": "연합인포맥스"}
-{"date": "2026-07-24", "title": "삼성증권, '다올 멀티 엔진 컬렉션' 사모재간접 공모펀드 단독 판매", "source": "아시아경제"}
-{"date": "2026-07-24", "title": "삼전 우선주 팔고 보통주로…손바꿈 나선 상위 1% 초고수들", "source": "한국경제·증권"}
-{"date": "2026-07-24", "title": "삼전·닉스, 7∼8%대 급락…외국인·기관 모두 던졌다(종합)", "source": "연합뉴스·경제"}
-{"date": "2026-07-24", "title": "삼전·현대차 최대비중 '로봇 ETF' 출시", "source": "한국경제·증권"}
-{"date": "2026-07-24", "title": "삼천당제약, 경구 인슐린 임상 순항…S-PASS 첫 검증 '눈앞'", "source": "파이낸셜·증권"}
-{"date": "2026-07-24", "title": "삼천당제약, 전체 환자 3분의 1 경구용 인슐린 투약 완료", "source": "이데일리·증권"}
-{"date": "2026-07-24", "title": "삼천리 \"자회사 성경식품 주식 500억원에 추가취득\"", "source": "연합뉴스·경제"}
-{"date": "2026-07-24", "title": "삼표산업, 조강 콘크리트 '블루콘 스피드' 녹색기술 인증 획득", "source": "뉴시스·경제"}
-{"date": "2026-07-24", "title": "상장 3개월 만에 주가 2배↑·시총 1조↑…투자자 몰린 바이오주", "source": "머니투데이·증권"}
-{"date": "2026-07-24", "title": "상장 첫날부터 '따블'…KT·롯데카드 뚫리자 상한가 뚫는 보안주", "source": "머니투데이·증권"}
-{"date": "2026-07-24", "title": "새마을금고 건전성 특별관리 TF, 연말까지 연장 운영", "source": "연합뉴스·경제"}
-{"date": "2026-07-24", "title": "샤오미, 스마트밴드·워치·이어폰 신제품 5종 출시", "source": "연합뉴스·경제"}
-{"date": "2026-07-24", "title": "서울고법 &quot;최태원, 노소영에 9천440억원 현금 지급&quot;…경영권 우려 일단락(종합)", "source": "연합인포맥스"}
-{"date": "2026-07-24", "title": "서울서 투자자문위 연 경남도, 첨단산업 '메가투자' 실행 논의", "source": "연합뉴스·경제"}
-{"date": "2026-07-24", "title": "석유공사, 석유 수급위기 선제적 대응 점검회의 실시", "source": "뉴시스·경제"}
-{"date": "2026-07-24", "title": "석유관리원, 민·관·군 유류 품질관리 협력 강화방안 논의", "source": "뉴시스·경제"}
-{"date": "2026-07-24", "title": "성수동에 '층 없는 백화점' 세웠다", "source": "한국경제·경제"}
-{"date": "2026-07-24", "title": "셀트리온, 코센틱스 바이오시밀러 ‘CT-P55’ 유럽 품목허가 신청", "source": "이데일리·증권"}
-{"date": "2026-07-24", "title": "소상공인 78% \"고효율 가전 지원 대상 확대해야\"", "source": "한국경제·경제"}
-{"date": "2026-07-24", "title": "솔루스첨단소재, 2분기 영업적자…전쟁 여파로 원가부담↑", "source": "이데일리·경제"}
-{"date": "2026-07-24", "title": "스트라드비젼, 237억 규모 공급 계약 체결 소식에 강세", "source": "한국경제·증권"}
-{"date": "2026-07-24", "title": "스페이스X 급락 후폭풍…'고편입 ETF' 수익률 격차 커진다", "source": "한국경제·증권"}
-{"date": "2026-07-24", "title": "시니어 채용 나선 GS리테일...'더 라이프 스타일 박람회'서 채용 설명", "source": "머니투데이·증권"}
-{"date": "2026-07-24", "title": "식품가 도미노 인상…농심·비알코리아·CJ푸드빌 가세(종합2보)", "source": "연합뉴스·경제"}
-{"date": "2026-07-24", "title": "식품진흥원, 도내 교사들 대상 ESG·푸드테크 교육 운영", "source": "뉴시스·경제"}
-{"date": "2026-07-24", "title": "신라면세점 인천공항 '담배·주류 사업권' 반납..롯데 다시 입성할까?", "source": "머니투데이·증권"}
-{"date": "2026-07-24", "title": "신발에 미친 그들은 어떻게 6조 패션왕국 일궜나", "source": "한국경제·경제"}
-{"date": "2026-07-24", "title": "신테카바이오, AI로 블록버스터 항체 재설계…고용해 바이오베터 개발 가능성 입증", "source": "아시아경제"}
-{"date": "2026-07-24", "title": "신테카바이오, 김동건 이사장 사내이사 추천…AI 진단 플랫폼 사업 확대 추진", "source": "아시아경제"}
-{"date": "2026-07-24", "title": "신한운용, 'SOL 금융지주플러스고배당 ETF' 하락장서 안정적 성과", "source": "아시아경제"}
-{"date": "2026-07-24", "title": "신한지주, 주당 740원 분기 현금배당 결정", "source": "아시아경제"}
-{"date": "2026-07-24", "title": "신한투자증권, '쏠 링크 이벤트' 1호 당첨자에게 테슬라 모델Y 전달", "source": "파이낸셜·증권"}
-{"date": "2026-07-24", "title": "신현송 한은 총재 재산 82억원 신고…35.8억원 규모 부동산 보유", "source": "이데일리·경제"}
-{"date": "2026-07-24", "title": "쎄트렉아이, 한국과학기술원과 우주탐사사업 계약", "source": "이데일리·증권"}
-{"date": "2026-07-24", "title": "아이씨에이치, 삼성 신제품 '갤럭시 Z'에 노이즈 차단 소재 공급", "source": "아시아경제"}
-{"date": "2026-07-24", "title": "아이씨에이치, 테슬라 '옵티머스' 로봇용 소재 퀄 테스트 완료…양산 공급 확정", "source": "아시아경제"}
-{"date": "2026-07-24", "title": "아이크래프트, 323억 규모 공급계약 체결", "source": "이데일리·증권"}
-{"date": "2026-07-24", "title": "아인스스카이, 수주잔고 2700억 돌파…코스닥 상장 추진", "source": "이데일리·증권"}
-{"date": "2026-07-24", "title": "아직 갈 길 멀다…'코리아 프리미엄' 숙제 산적[상법개정 1년]④", "source": "아시아경제"}
-{"date": "2026-07-24", "title": "아직도 부족한 車운반선…\"현대글로비스 하반기 이익 반등 전망\"", "source": "아시아경제"}
-{"date": "2026-07-24", "title": "아티스트컴퍼니, '애드테크 플랫폼사업' 레인보우8에 양도", "source": "아시아경제"}
-{"date": "2026-07-24", "title": "알알이 비싼 달걀, 값뛰는 고등어… 정부, 뉴질랜드·칠레 등 수입 다변화 나선다", "source": "이데일리·경제"}
-{"date": "2026-07-24", "title": "알파벳이 쏘아올린 공…코스피 3%대 상승세", "source": "아시아경제"}
-{"date": "2026-07-24", "title": "압류 막는 '생계비계좌' 250만원 넘는 입금액은 자동 분리 송금", "source": "연합뉴스·경제"}
-{"date": "2026-07-24", "title": "양우석 \"반도체·콘텐츠만이 韓 경쟁력…RWA로 글로벌 투자 연결해야\"", "source": "이데일리·경제"}
-{"date": "2026-07-24", "title": "얼라인 “가비아 공개매수, 가격 아닌 절차 문제”…맥쿼리에 재반박", "source": "이데일리·증권"}
-{"date": "2026-07-24", "title": "에스투더블유, 상장 첫날 '따블' 성공", "source": "머니투데이·증권"}
-{"date": "2026-07-24", "title": "에이치엘지노믹스, 코스닥 상장 첫날 상승…공모가 웃돌아", "source": "한국경제·증권"}
-{"date": "2026-07-24", "title": "에이팩트, 17.5억 규모 전환청구권 행사", "source": "이데일리·증권"}
-{"date": "2026-07-24", "title": "엑스레이로 年 2400억 버는 '뷰웍스', 골프·병리로 사업 영역 확장", "source": "한국경제·경제"}
-{"date": "2026-07-24", "title": "엔비디아, 서울대·카이스트에 아시아 첫 'AI 연구거점' [퇴근길 30초 경제]", "source": "한국경제·경제"}
-{"date": "2026-07-24", "title": "엔젯, 16.3억 규모 공급계약 체결", "source": "이데일리·증권"}
-{"date": "2026-07-24", "title": "엔화, 중동 긴장 격화에 1달러=163엔대 후반 하락 출발", "source": "뉴시스·경제"}
-{"date": "2026-07-24", "title": "여주시, 신혼부부에 전세자금 대출이자 최대 200만원 지원", "source": "연합뉴스·경제"}
-{"date": "2026-07-24", "title": "연 5%대 최저금리까지! 신용미수대환도 OK! 업계1위 스탁론으로!", "source": "이데일리·증권"}
-{"date": "2026-07-24", "title": "연준의 극과 극 금리 전망에 혼란…그래도 비둘기파가 다수[오미주]", "source": "머니투데이·증권"}
-{"date": "2026-07-24", "title": "영등포 전통시장 1177세대 주상복합 변신…서남권 주택 공급", "source": "뉴시스·경제"}
-{"date": "2026-07-24", "title": "영등포 전통시장 부지에 49층 주상복합…서울역 앞에 20층 업무빌딩", "source": "연합뉴스·경제"}
-{"date": "2026-07-24", "title": "영등포구, 재개발·재건축 '속도전'…신속추진지원단 출범", "source": "연합뉴스·경제"}
-{"date": "2026-07-24", "title": "오라클, 美국방부와 최장 10년 SW 공급 계약…\"부처별 계약 단일화\"", "source": "뉴시스·경제"}
-{"date": "2026-07-24", "title": "오세훈 \"李대통령, 재개발·재건축 공급효과 부정…편견 드러내\"", "source": "연합뉴스·경제"}
-{"date": "2026-07-24", "title": "오세훈 시장, 김윤덕 국토부장관 만나 주택공급 방안 논의", "source": "연합뉴스·경제"}
-{"date": "2026-07-24", "title": "올해 상반기 펀드배당금 40조9억원…전년比 70.4%↑", "source": "아시아경제"}
-{"date": "2026-07-24", "title": "외국인 나흘간 5.6조원 매수…80%는 '이 두 종목'", "source": "한국경제·증권"}
-{"date": "2026-07-24", "title": "외국인, 국장에 진짜 돌아왔나…AI가 꼽은 최대 변수는 \"환율\"", "source": "한국경제·증권"}
-{"date": "2026-07-24", "title": "외국환시세(7월24일·15:30 기준가)", "source": "연합뉴스·경제"}
-{"date": "2026-07-24", "title": "요소수 매점매석 금지 1개월 연장…주사기 규제는 해제", "source": "이데일리·경제"}
-{"date": "2026-07-24", "title": "용인시-농협은행, '어르신 보이스피싱 피해액 70% 보상' 협약", "source": "연합뉴스·경제"}
-{"date": "2026-07-24", "title": "우리금융 &quot;우투증권 수익성 개선 총력 지원…중앙그룹 NPL 1천380억&quot;", "source": "연합인포맥스"}
-{"date": "2026-07-24", "title": "우리금융 2분기 순이익 1조46억원, 7.4%↑…역대 두 번째(종합)", "source": "연합뉴스·경제"}
-{"date": "2026-07-24", "title": "우리금융, 2분기 순익 1조46억…비은행 선방에 턴어라운드", "source": "연합인포맥스"}
-{"date": "2026-07-24", "title": "우리금융, 동양생명 완전자회사로 품는다…주식교환 이사회 승인(종합)", "source": "연합뉴스·경제"}
-{"date": "2026-07-24", "title": "우리투자, 2분기 영업익 7%↓…상반기 기준 작년 연간실적 초과", "source": "연합뉴스·경제"}
-{"date": "2026-07-24", "title": "우리투자증권, 상반기 순익 247억원…수익 기반 강화에 47.1%↑", "source": "연합인포맥스"}
-{"date": "2026-07-24", "title": "우미건설, '오산 세교 우미린 포레아시티' 주택홍보관 개관", "source": "뉴시스·경제"}
-{"date": "2026-07-24", "title": "우양에이치씨, 166억 규모 급수가열기 및 탈기기 공급계약", "source": "이데일리·증권"}
-{"date": "2026-07-24", "title": "우후죽순 '걷기여행길', 통합관리 체제 전환 추진", "source": "이데일리·경제"}
-{"date": "2026-07-24", "title": "원·달러 환율 0.2원 오른 1466.6원(오후 3시30분)", "source": "아시아경제"}
-{"date": "2026-07-24", "title": "원·달러 환율 13.3원 내린 1466.8원(오후 3시30분)", "source": "아시아경제"}
-{"date": "2026-07-24", "title": "원·엔 환율 800원대…원화 강세·엔화 약세에 1년 8개월 만 '최저'", "source": "이데일리·경제"}
-{"date": "2026-07-24", "title": "유가 100달러 쇼크…트럼프·연준 모두 부담 커졌다", "source": "뉴시스·경제"}
-{"date": "2026-07-24", "title": "유가 급등에 美관세·환율 압박까지…韓경제 하반기 복병", "source": "뉴시스·경제"}
-{"date": "2026-07-24", "title": "유가 급등에 코스피·코스닥 주르륵…잇달아 매도 사이드카(종합)", "source": "연합뉴스·경제"}
-{"date": "2026-07-24", "title": "유가 뛰자 7천피 하루 만에 붕괴", "source": "한국경제·증권"}
-{"date": "2026-07-24", "title": "유니슨, 육·해상풍력 사업 확대…2030년 매출 1조원 목표", "source": "아시아경제"}
-{"date": "2026-07-24", "title": "유니켐, 횡령·배임 혐의 발생", "source": "아시아경제"}
-{"date": "2026-07-24", "title": "유니테스트, SK하이닉스에 227억 규모 반도체 검사장비 공급계약", "source": "아시아경제"}
-{"date": "2026-07-24", "title": "유니테크노, ESS 제조 경쟁력 높이는 인서트 사출 특허 등록", "source": "아시아경제"}
-{"date": "2026-07-24", "title": "유로존 7월 서비스업 PMI 예비치 51.6…확장세로 전환", "source": "연합인포맥스"}
-{"date": "2026-07-24", "title": "유로존 7월 서비스업 PMI 예비치 51.6…확장세로 전환(상보)", "source": "연합인포맥스"}
-{"date": "2026-07-24", "title": "유류세 인하 2개월 연장…\"유가 변동성 대응 여력 필요\"", "source": "뉴시스·경제"}
-{"date": "2026-07-24", "title": "유류세 인하 두 달 연장…휘발유 15%·경유·LPG 25% 유지", "source": "파이낸셜뉴스"}
-{"date": "2026-07-24", "title": "유천상수원보호구역 둘러싼 평택-안성 '47년 갈등' 재현 조짐", "source": "연합뉴스·경제"}
-{"date": "2026-07-24", "title": "유한양행, 4253억원 자사주 소각 결정에 강세", "source": "한국경제·증권"}
-{"date": "2026-07-24", "title": "육개장사발면·새우깡·카프리썬·던킨도넛 등 내달 가격 인상(종합)", "source": "연합뉴스·경제"}
-{"date": "2026-07-24", "title": "은평구 '갈현1구역' 정비계획변경 고시…4천467세대 대단지로", "source": "연합뉴스·경제"}
-{"date": "2026-07-24", "title": "의료용 주사기 판매량 제한 해제…요소수·요소 매점매석 금지 1개월 연장", "source": "파이낸셜뉴스"}
-{"date": "2026-07-24", "title": "이달 들어 유가 30%대 급등…'AI 투자 확대'에도 증시 부담 가중", "source": "파이낸셜·증권"}
-{"date": "2026-07-24", "title": "이사회·감사위원회 전문성 높이려면…한국딜로이트, 강화 프로그램 개최", "source": "아시아경제"}
-{"date": "2026-07-24", "title": "이상욱 남부발전 상임감사위원, 청렴·소통 경영에 박차", "source": "뉴시스·경제"}
-{"date": "2026-07-24", "title": "이엠앤아이 \"주식양수도·증자·CB 발행 검토 중…확정 사항 없어\"", "source": "이데일리·증권"}
-{"date": "2026-07-24", "title": "이엠앤아이, '경기도 제조로봇 이니셔티브' 도입실증 과제 주관기관 선정", "source": "머니투데이·증권"}
-{"date": "2026-07-24", "title": "이지스운용 '언폴드', 블로그 넘어 대체투자 전문 플랫폼으로 \"소셜아이어워드 최고대상\"", "source": "파이낸셜·증권"}
-{"date": "2026-07-24", "title": "이지스자산운용 '언폴드' 소셜아이어워드 2026 블로그 부문 최고대상 수상", "source": "이데일리·증권"}
-{"date": "2026-07-24", "title": "이천 '임금님표 쌀' 일본 시장 첫 진출…900㎏ 수출", "source": "연합뉴스·경제"}
-{"date": "2026-07-24", "title": "인도네시아 첫 K-푸드 팝업 흥행…245만弗 수출 MOU 체결", "source": "뉴시스·경제"}
-{"date": "2026-07-24", "title": "인텔, 15년 만 최대 매출 증가세…시간 외 거래서 한때 11% 급등", "source": "뉴시스·경제"}
-{"date": "2026-07-24", "title": "인티큐브, '착한 AI 플랫폼' 비전 제시…창작자와 함께 성장하는 AI 생태계 구축", "source": "아시아경제"}
-{"date": "2026-07-24", "title": "일본 6월 소비자물가 1.7%↑…\"의료비 상승으로 6개월 만에 최고\"", "source": "뉴시스·경제"}
-{"date": "2026-07-24", "title": "잔금대출 막힌 입주자 호소에…'가계대출 총량규제'서 제외 검토", "source": "한국경제·경제"}
-{"date": "2026-07-24", "title": "잘 나가다 -31% '날벼락'…'검은 금요일'에 새내기주 마저 울었다", "source": "이데일리·증권"}
-{"date": "2026-07-24", "title": "재경부 \"'원화의 과도한 약세는 부적절' 美 인식 재확인\"", "source": "이데일리·경제"}
-{"date": "2026-07-24", "title": "재경부 \"원화 약세 韓경제 펀더멘털에 부합 안해...美 인식 재확인\"", "source": "파이낸셜뉴스"}
-{"date": "2026-07-24", "title": "재경부, 3분기 주요 공적채권 67조 규모로 정상 발행", "source": "뉴시스·경제"}
-{"date": "2026-07-24", "title": "재산분할금 필요한 최태원…\"SKT 배당확대 유력\"", "source": "한국경제·증권"}
-{"date": "2026-07-24", "title": "전기차 판매 60% 뛴 기아, 글로벌 매출·판매량·시장점유율 '역대 최대' [종합]", "source": "한국경제·경제"}
-{"date": "2026-07-24", "title": "전력거래소, 정보 취약계층 위한 '접근성 간행물' 3종 제작", "source": "뉴시스·경제"}
-{"date": "2026-07-24", "title": "정부 \"미측, 한국 관세 15% 상한선 준수 입장 재확인\"", "source": "연합뉴스·경제"}
-{"date": "2026-07-24", "title": "정부 \"미측, 한국 관세 15% 상한선 준수 입장 재확인\"(종합)", "source": "연합뉴스·경제"}
-{"date": "2026-07-24", "title": "정부, 3분기 공적채권 발행 4조 늘린다…'발행 정상화 이어가'", "source": "연합인포맥스"}
-{"date": "2026-07-24", "title": "정부, 8차 석유 최고가격 동결…\"서민경제 부담 고려\"(종합)", "source": "뉴시스·경제"}
-{"date": "2026-07-24", "title": "정부, 美에 '301조 관세 합산 15% 상한' 재확인…후속 협의 지속", "source": "파이낸셜뉴스"}
-{"date": "2026-07-24", "title": "정부, 공공 건설사업 총사업비 자율조정항목 확대 검토", "source": "뉴시스·경제"}
-{"date": "2026-07-24", "title": "정부, 석유 최고가격 동결…휘발유 1784원·경유 1773원", "source": "뉴시스·경제"}
-{"date": "2026-07-24", "title": "정부, 석유 최고가격 또 동결…\"서민경제 부담 고려\"", "source": "파이낸셜뉴스"}
-{"date": "2026-07-24", "title": "정부, 압수물품 선제 매각 허용…물가안정법 개정 추진", "source": "뉴시스·경제"}
-{"date": "2026-07-24", "title": "정부, 주사기 매점매석 규제 완화…요소수는 한 달 연장", "source": "뉴시스·경제"}
-{"date": "2026-07-24", "title": "정부, 홈플러스 피해지원 점검…근로자 상담 1천935건 접수", "source": "연합인포맥스"}
-{"date": "2026-07-24", "title": "정원엔시스, 자기주식 장내 매수·자사주 소각 결정 \"저평가 해소 총력\"", "source": "파이낸셜·증권"}
-{"date": "2026-07-24", "title": "정유사 손실 보전 위해 최고액 정산위원회 가동한다", "source": "파이낸셜뉴스"}
-{"date": "2026-07-24", "title": "제논, 코스닥 상장 예비심사청구서 제출", "source": "아시아경제"}
-{"date": "2026-07-24", "title": "제주 일부 해수욕장 평상 대여료 슬그머니 올렸다가 원래대로", "source": "연합뉴스·경제"}
-{"date": "2026-07-24", "title": "제주, 29일 관광산업 일자리 매칭데이…10개 기업 30명 채용", "source": "연합뉴스·경제"}
-{"date": "2026-07-24", "title": "제주항공·에어프레미아 인터라인 협력…미주·아시아 연결성 강화", "source": "한국경제·경제"}
-{"date": "2026-07-24", "title": "주 4.5일제 시동 걸자 \"불기둥\"…로봇주 들썩이자 나온 '경고'", "source": "머니투데이·증권"}
-{"date": "2026-07-24", "title": "중국 AI의 미래가 여기에?…연초 대비 58% 뛴 14억명의 플랫폼", "source": "머니투데이·증권"}
-{"date": "2026-07-24", "title": "중기부, 미국서 'K파운더스 커넥트' 개최…\"창업 도전 뒷받침\"", "source": "연합뉴스·경제"}
-{"date": "2026-07-24", "title": "중동 리스크에도 석유 최고가격 동결…“휘발유 1800원대 유지”", "source": "이데일리·증권"}
-{"date": "2026-07-24", "title": "중동발 유가 급등에 급락…코스피·코스닥 '매도 사이드카' [종합]", "source": "한국경제·증권"}
-{"date": "2026-07-24", "title": "중동전쟁 장기화에 中企피해 1천19건…\"물류비 상승·수익 악화\"", "source": "연합뉴스·경제"}
-{"date": "2026-07-24", "title": "중복상장 규제 등 IPO 시장 '한파'…\"위기이자 기회\"", "source": "아시아경제"}
-{"date": "2026-07-24", "title": "중부는 폭우·남부는 가뭄…정부, 농업용수 확보 선제 대응", "source": "뉴시스·경제"}
-{"date": "2026-07-24", "title": "중흥그룹, '여수세계섬박람회' 1억원 상당 입장권 구매 약정", "source": "뉴시스·경제"}
-{"date": "2026-07-24", "title": "증권가, LS일렉트릭 목표가 줄상향...\"AI 투자 둔화 우려 해소\"", "source": "한국경제·증권"}
-{"date": "2026-07-24", "title": "증시 활황에…KB증권 상반기 영업익 '역대최대'", "source": "아시아경제"}
-{"date": "2026-07-24", "title": "지슨, 2분기 영업이익 흑자 전환…상반기 매출 전년比 51%↑", "source": "아시아경제"}
-{"date": "2026-07-24", "title": "지식재산 행정, 인공지능으로 대전환한다", "source": "이데일리·경제"}
-{"date": "2026-07-24", "title": "지역 최고가 아파트 45%, 정비사업 수주 '빅5' 시공", "source": "뉴시스·경제"}
-{"date": "2026-07-24", "title": "진양호 품은 '진주 판문지구 레이크써밋 웰가' 8월 분양", "source": "뉴시스·경제"}
-{"date": "2026-07-24", "title": "창립 55주년 한샘 '쌤페스타'..\"전국 매장서 최대 85% 할인\"", "source": "머니투데이·증권"}
-{"date": "2026-07-24", "title": "창신메모리 상장 임박…中증시, 단기 유동성 부담 커지나", "source": "연합인포맥스"}
-{"date": "2026-07-24", "title": "창원 재건축 조합장 '20억 성과금' 추진 논란…\"과도\" vs \"적정\"", "source": "연합뉴스·경제"}
-{"date": "2026-07-24", "title": "첨단전략산업 육성에 15조 채권 발행…기업 대출금리 영향은?", "source": "머니투데이·증권"}
-{"date": "2026-07-24", "title": "최태원 9440억 지급 판결과 증시 사이드카 연속 발동 이시각 주요뉴스", "source": "연합인포맥스"}
-{"date": "2026-07-24", "title": "최태원, 노소영에 9440억원 재산분할 어떻게 마련할까", "source": "한국경제·경제"}
-{"date": "2026-07-24", "title": "최태원·노소영 '세기의 재산분할' 9440억…SK 지배구조·리밸런싱 '새 변수'", "source": "이데일리·경제"}
-{"date": "2026-07-24", "title": "최태원·젠슨 황, 美서 만찬 회동…AI·메모리 협력 재확인", "source": "연합인포맥스"}
-{"date": "2026-07-24", "title": "축평원, 농협사료 실무자 대상으로 한우 경매·유통 교육", "source": "뉴시스·경제"}
-{"date": "2026-07-24", "title": "충남도, '202조 첨단산업 투자 지원' 전담조직 가동", "source": "연합뉴스·경제"}
-{"date": "2026-07-24", "title": "취준생 자격증·학력 등 한곳서 발급…고용24 통합경력증명 오픈", "source": "연합뉴스·경제"}
-{"date": "2026-07-24", "title": "카카오페이증권 \"내년 신생아 10만원 주식 선물\"…3대 전략 발표", "source": "아시아경제"}
-{"date": "2026-07-24", "title": "커지는 기준금리 연속인상 경계감…\"근원물가에 달렸다\"", "source": "연합뉴스·경제"}
-{"date": "2026-07-24", "title": "케이쓰리아이, 세계 1위 유니티 생태계 겨냥 차세대 3D 생성형 AI 플러그인 출시", "source": "아시아경제"}
-{"date": "2026-07-24", "title": "코람코, 2성급 호텔 매입해 4성급 '머큐어 앰배서더 동대문' 탈바꿈", "source": "뉴시스·경제"}
-{"date": "2026-07-24", "title": "코람코, 2성급→4성급 호텔 '환골탈태' 시켰다…밸류애드 결실", "source": "아시아경제"}
-{"date": "2026-07-24", "title": "코람코, 호텔 밸류애드 결실…'머큐어 앰배서더 동대문' 28일 개관", "source": "이데일리·증권"}
-{"date": "2026-07-24", "title": "코렌텍, 2분기 영업이익 14.6억…전년比6.3%↑", "source": "이데일리·증권"}
-{"date": "2026-07-24", "title": "코빗, 챗GPT·클로드 연동 'AI 에이전트 트레이딩' 지원", "source": "아시아경제"}
-{"date": "2026-07-24", "title": "코스닥 '빚투' 7조원선마저 붕괴…돈 빠진 증시, 변동성만 남았다", "source": "파이낸셜·증권"}
-{"date": "2026-07-24", "title": "코스닥 12.78P 내린 777.5 출발(1.62%↓)", "source": "아시아경제"}
-{"date": "2026-07-24", "title": "코스닥 42.06P 내린 748.22 마감(5.32%↓)", "source": "아시아경제"}
-{"date": "2026-07-24", "title": "코스닥, 12.42P 오른 763.51 출발(1.65%↑)", "source": "아시아경제"}
-{"date": "2026-07-24", "title": "코스닥, 39.19P 오른 790.28 마감(5.22%↑)", "source": "아시아경제"}
-{"date": "2026-07-24", "title": "코스맥스, 고객사 수출입 지원 플랫폼 가동…관세 환급 등 지원", "source": "연합뉴스·경제"}
-{"date": "2026-07-24", "title": "코스피 4% 넘게 뛰어 7000선…코스닥은 5% 넘게 상승", "source": "아시아경제"}
-{"date": "2026-07-24", "title": "코스피 406.27P 내린 6690.62 마감(5.72%↓)", "source": "아시아경제"}
-{"date": "2026-07-24", "title": "코스피 5% 넘게 빠지는데…'이 종목'만은 나홀로 급등", "source": "한국경제·증권"}
-{"date": "2026-07-24", "title": "코스피 5% 하락하는데 나홀로 9% 급등... '삼성바이오' 함박웃음", "source": "한국경제·증권"}
-{"date": "2026-07-24", "title": "코스피 5%대 급락에도 방산주 '들썩'... 글로벌 미사일 공급난 '호재'", "source": "한국경제·증권"}
-{"date": "2026-07-24", "title": "코스피 96.11P 내린 7000.78 출발(1.35%↓)", "source": "아시아경제"}
-{"date": "2026-07-24", "title": "코스피 장중 최고치 경신하고 숨고르기…외국인·기관 매도", "source": "머니투데이·증권"}
-{"date": "2026-07-24", "title": "코스피 폭락에도 삼성바이오 10% 급등…증권가가 주목한 이유는", "source": "한국경제·증권"}
-{"date": "2026-07-24", "title": "코스피, 'AI 투자비용 부담·중동 긴장'에 5%대 급락...6600선[fn마감시황]", "source": "파이낸셜·증권"}
-{"date": "2026-07-24", "title": "코스피, '중동 리스크'에 급락...외인 3조7000억 매도[fn오후시황]", "source": "파이낸셜·증권"}
-{"date": "2026-07-24", "title": "코스피, 165.65P 오른 6963.35 출발(2.44%↑)", "source": "아시아경제"}
-{"date": "2026-07-24", "title": "코스피, 299.19P 오른 7096.89 마감(4.40%↑)", "source": "아시아경제"}
-{"date": "2026-07-24", "title": "코스피, 4%대로 낙폭 확대…매도 사이드카 발동", "source": "연합뉴스·경제"}
-{"date": "2026-07-24", "title": "코스피, 기관·외국인 거센 순매도에 하락…7000선 아래로", "source": "아시아경제"}
-{"date": "2026-07-24", "title": "코스피, 기관·외국인 순매도에 장중 7000선 아래로", "source": "아시아경제"}
-{"date": "2026-07-24", "title": "코스피, 외인-기관 쌍끌이 매도에 급락...6780선 [fn오전시황]", "source": "파이낸셜·증권"}
-{"date": "2026-07-24", "title": "코스피, 장 초반 3% 상승해 7000선…코스닥도 2%가까이 상승", "source": "아시아경제"}
-{"date": "2026-07-24", "title": "코스피, 중동 정세 악화에 2%대 급락…6900선으로 밀려", "source": "한국경제·증권"}
-{"date": "2026-07-24", "title": "코스피, 중동정세 격화·유가상승에 다시 털썩…이번주 내내 사이드카(종합)", "source": "연합뉴스·경제"}
-{"date": "2026-07-24", "title": "코인원, FIU 대주주 변경신고 수리 완료…한투·OKX 체제 본격화", "source": "이데일리·경제"}
-{"date": "2026-07-24", "title": "큐브엔터 아이들, 월드투어 마카오 추가 회차 공연 매진", "source": "이데일리·증권"}
-{"date": "2026-07-24", "title": "크레버스, 퓨리오사AI와 교육AI 인프라 통합 업무협약 체결", "source": "머니투데이·증권"}
-{"date": "2026-07-24", "title": "키움증권, '키움 콥데이' 행사 성료…국내 주요 기관투자자 초청", "source": "머니투데이·증권"}
-{"date": "2026-07-24", "title": "태광 일주재단, 대학생 장학금 지원", "source": "한국경제·경제"}
-{"date": "2026-07-24", "title": "토스증권, '첫 절세상품' 연금저축계좌 출시", "source": "연합뉴스·경제"}
-{"date": "2026-07-24", "title": "토스증권, 연금저축계좌 출시…'예상 절세액'도 확인", "source": "아시아경제"}
-{"date": "2026-07-24", "title": "토스증권, 첫 절세상품 '연금저축계좌' 출시...연금시장 본격 공략", "source": "파이낸셜·증권"}
-{"date": "2026-07-24", "title": "통신 3사 'AI 데이터센터' 메가프로젝트 본격화…증시 달굴 수혜주는?", "source": "한국경제·증권"}
-{"date": "2026-07-24", "title": "투자금 90억이 개인 빚 120억으로…'이해관계인' 조항에 발목 잡힌 벤처 창업자", "source": "뉴시스·경제"}
-{"date": "2026-07-24", "title": "트럼프 “대규모 공격 임박”…비트코인 하락[코인 모닝콜]", "source": "이데일리·경제"}
-{"date": "2026-07-24", "title": "트럼프, 301조로 무역전략 유지…과잉생산 등 추가 관세 가능성", "source": "뉴시스·경제"}
-{"date": "2026-07-24", "title": "트럼프의 분노…록히드마틴 주가 뛰자 100만원 돌파한 'K종목' [종목+]", "source": "한국경제·증권"}
-{"date": "2026-07-24", "title": "특금법 대주주 규제, 원안대로 규제 심사대…네이버·두나무 '빅딜' 영향은", "source": "이데일리·경제"}
-{"date": "2026-07-24", "title": "특징주 기사로 선행매매…회계사·현직 기자 구속기소", "source": "아시아경제"}
-{"date": "2026-07-24", "title": "파인텍, 195억 규모 OLED 제조장비 공급 계약 체결", "source": "이데일리·증권"}
-{"date": "2026-07-24", "title": "파인텍, 195억원 규모 OLED 제조장비 공급", "source": "아시아경제"}
-{"date": "2026-07-24", "title": "펩트론, 오송2공장 건축 변경허가 신청…연면적 2.5배 확대", "source": "이데일리·경제"}
-{"date": "2026-07-24", "title": "폴리텍대학, 사할린 재외동포 직업교육·국내정착 지원", "source": "파이낸셜뉴스"}
-{"date": "2026-07-24", "title": "프랭클린템플턴 \"연준 고용시장 둔화 우려…향후 경제지표 따라 대응할 듯\"", "source": "머니투데이·증권"}
-{"date": "2026-07-24", "title": "하나證 \"디아이, HBM 넘어 범용 D램·낸드까지…내년 신규팹 사이클도 본격화\"", "source": "파이낸셜·증권"}
-{"date": "2026-07-24", "title": "하나금융 &quot;올해 주주환원율 50% 달성할 것…현금배당 매년 10% 확대&quot;", "source": "연합인포맥스"}
-{"date": "2026-07-24", "title": "하나금융, 금융감독원과 함께 청년 금융인재 54명 양성했다", "source": "이데일리·경제"}
-{"date": "2026-07-24", "title": "하나금융, 청년 금융인재 배출", "source": "한국경제·경제"}
-{"date": "2026-07-24", "title": "하나금융지주 \"자회사 하나손해보험 주식 2천억원에 추가취득\"", "source": "연합뉴스·경제"}
-{"date": "2026-07-24", "title": "하나금융지주, 하나손해보험 주주배정 유상증자에 2000억 참여", "source": "아시아경제"}
-{"date": "2026-07-24", "title": "하나증권, 개인형 IRP 수익률 증권사 1위", "source": "아시아경제"}
-{"date": "2026-07-24", "title": "하나증권, 상반기 순이익 2731억원…전년比 155.7%↑", "source": "이데일리·증권"}
-{"date": "2026-07-24", "title": "한 달 만에 10만원→1.4만원…코오롱티슈진 쓰디쓴 임상 실패", "source": "한국경제·증권"}
-{"date": "2026-07-24", "title": "한국 배터리주는 아직인데…최고가 새로 쓴 CATL의 이유[차이나는 중국]", "source": "머니투데이·증권"}
-{"date": "2026-07-24", "title": "한국IR협의회 \"킵스파마, 신약 파이프라인·제약 매출 쌍끌이…기업가치 재평가↑ \"", "source": "파이낸셜·증권"}
-{"date": "2026-07-24", "title": "한국도 결국 12.5% 관세...트럼프, 한미 합의 다시 흔드나", "source": "파이낸셜뉴스"}
-{"date": "2026-07-24", "title": "한국예탁결제원 '2025년 실기주과실 찾아주기 캠페인' 개최", "source": "머니투데이·증권"}
-{"date": "2026-07-24", "title": "한국은행, 8월 최대 6.8조원 규모 통화안정증권 발행", "source": "이데일리·경제"}
-{"date": "2026-07-24", "title": "한국토지신탁, 수원 우만2구역 예비신탁사로 선정", "source": "뉴시스·경제"}
-{"date": "2026-07-24", "title": "한국투자증권, 네이버페이 연계 '연금 상담 서비스' 오픈", "source": "아시아경제"}
-{"date": "2026-07-24", "title": "한국투자증권, 인베스팅닷컴 계좌 개설 연동 서비스 출시", "source": "한국경제·증권"}
-{"date": "2026-07-24", "title": "한국투자증권, 인베스팅닷컴 계좌개설 연동 서비스 오픈", "source": "이데일리·증권"}
-{"date": "2026-07-24", "title": "한국투자증권, 현대커머셜 위안화 김치본드 인수 참여", "source": "한국경제·증권"}
-{"date": "2026-07-24", "title": "한국폴리텍대, 적십자사와 사할린 동포 국내 정착 지원 업무협약", "source": "연합뉴스·경제"}
-{"date": "2026-07-24", "title": "한솔홈데코, '톤맞춤 인테리어'로 집안 전체를 하나로 통일", "source": "머니투데이·증권"}
-{"date": "2026-07-24", "title": "한수원, 해외사업 구조개선 위한 종합관리대책 가동", "source": "뉴시스·경제"}
-{"date": "2026-07-24", "title": "한신평 \"롯데카드, 개인정보유출로 중장기 신용도 타격\"", "source": "머니투데이·증권"}
-{"date": "2026-07-24", "title": "한울반도체, \"MLCC 분당 1만3000개 검사\"…AI 전수검사로 글로벌 증설시장 공략", "source": "아시아경제"}
-{"date": "2026-07-24", "title": "한울앤제주, 10억 규모 BW 신주인수권 행사", "source": "이데일리·증권"}
-{"date": "2026-07-24", "title": "한울앤제주, 10억원 규모 전환청구권 행사", "source": "이데일리·증권"}
-{"date": "2026-07-24", "title": "한전, '2035 온실가스 감축계획안' 등 ESG 위원회 심의", "source": "뉴시스·경제"}
-{"date": "2026-07-24", "title": "한전, '청청 Auditor' 발대식…청년 시각으로 청렴 강화", "source": "뉴시스·경제"}
-{"date": "2026-07-24", "title": "한전KPS, 목포대와 AI·디지털 분야 전문인재 양성 추진", "source": "뉴시스·경제"}
-{"date": "2026-07-24", "title": "한전원자력연료, '노사관계 우수기업' 2년 연속 인증", "source": "뉴시스·경제"}
-{"date": "2026-07-24", "title": "한텍, 180.7억 규모 공급계약 체결", "source": "이데일리·증권"}
-{"date": "2026-07-24", "title": "한투운용, 'ACE ETF' 대학생 서포터즈 2기 발대식 진행", "source": "아시아경제"}
-{"date": "2026-07-24", "title": "한투증권, FC서울 '스페셜데이'…아동복지시설 어린이 초청", "source": "아시아경제"}
-{"date": "2026-07-24", "title": "한투증권, 글로벌 금융플랫폼 인베스팅닷컴 내 계좌개설 서비스", "source": "연합뉴스·경제"}
-{"date": "2026-07-24", "title": "한투증권, 인베스팅닷컴 계좌개설 연동…AI 투자정보 연계", "source": "파이낸셜·증권"}
-{"date": "2026-07-24", "title": "한투증권, 현대커머셜 발행 '위안화 김치본드' 인수 참여", "source": "연합뉴스·경제"}
-{"date": "2026-07-24", "title": "한투증권, 현대커머셜 위안화 김치본드 인수 참여", "source": "파이낸셜·증권"}
-{"date": "2026-07-24", "title": "항공주 다시 날 수 있을까…델타항공, 이란 전쟁 악재에도 성장세", "source": "한국경제·증권"}
-{"date": "2026-07-24", "title": "현대건설, 9개 과정 기술교육생 모집…AI 교육도 도입", "source": "뉴시스·경제"}
-{"date": "2026-07-24", "title": "현대엔지니어링, 원자력·SMR 전문가 초청 세미나 개최", "source": "뉴시스·경제"}
-{"date": "2026-07-24", "title": "현대오토에버, 현대차·기아에 3044억원 규모 GPU 서버 공급", "source": "아시아경제"}
-{"date": "2026-07-24", "title": "현대위아, 2분기 영업익 504억원…미 관세·투자 여파에 전망치 하회", "source": "연합인포맥스"}
-{"date": "2026-07-24", "title": "현대차·기아, 매출 신기록에도 왜 기대치 미달했나", "source": "연합인포맥스"}
-{"date": "2026-07-24", "title": "호르무즈·홍해 '이중병목'…100달러 넘은 국제유가, 다시 120~130달러 갈 수도", "source": "뉴시스·경제"}
-{"date": "2026-07-24", "title": "호텔신라, 인천공항 면세점 철수에…면세주 강세", "source": "머니투데이·증권"}
-{"date": "2026-07-24", "title": "홈플러스 협력사 대출 5.2조 만기연장…근로자 상담 1935건", "source": "뉴시스·경제"}
-{"date": "2026-07-24", "title": "홈플러스 회생 폐지 이후 23일까지 1천935건 노동상담 접수", "source": "연합뉴스·경제"}
-{"date": "2026-07-24", "title": "홈플러스 회생절차 폐지 후 ‘상담 1935건’ 폭주…정부, 410억 생계비 융자", "source": "이데일리·경제"}
-{"date": "2026-07-24", "title": "화학물질 관리체계, 위험성 중심 개편 논의…노동부 세미나 개최", "source": "연합뉴스·경제"}
-{"date": "2026-07-24", "title": "회복 시도하던 코스피, 중동정세 격화·유가상승에 다시 털썩", "source": "연합뉴스·경제"}
-{"date": "2026-07-24", "title": "휴림에이텍, AI 방산로봇 기업 아이디오스 인수 속도…무인 국방·치안 로봇 시장 진출", "source": "아시아경제"}
 {"date": "2026-07-26", "title": "\" 내수 침체 더이상 못버텨\"…라면 빅3 '글로벌 영토전쟁' [권용훈의 트렌드워치]", "source": "한국경제·경제"}
 {"date": "2026-07-26", "title": "\"-60%에도 물탔는데\"…12조 몰린 '삼전닉스 레버리지'서 처음 돈 빠졌다", "source": "파이낸셜·증권"}
 {"date": "2026-07-26", "title": "\"3배 식초 사려면 통장잔고 3000만원 있어야 하나\"… 개미들의 웃픈 자조 [개미의 세계]", "source": "파이낸셜·증권"}
@@ -23428,3 +22650,535 @@
 {"date": "2026-08-22", "title": "호르무즈 봉쇄에 상반기 중동산 원유수입 16.5%↓…도입선 다변화", "source": "뉴시스·경제"}
 {"date": "2026-08-22", "title": "휘발유 1784원·경유 1773원…석유 최고가격제 동결", "source": "한국경제·경제"}
 {"date": "2026-08-22", "title": "휴젤, 임시주총서 자사주 활용계획 승인…\"개정 상법 반영\"", "source": "연합뉴스·경제"}
+{"date": "2026-08-23", "title": "\"8만전자 찍는데 우리는\" 개미 속 태우는 현대차…증권가 엇갈린 시선", "source": "머니투데이·증권"}
+{"date": "2026-08-23", "title": "\"Open AI와 제휴로 카카오 레벨업 기대\"…장 초반 3%대 강세", "source": "머니투데이·증권"}
+{"date": "2026-08-23", "title": "\"PBR 개선\" 기업가치 제고 계획 공시↑…주요 내용 살펴보니", "source": "연합뉴스·경제"}
+{"date": "2026-08-23", "title": "\"SK하닉 지금이라도 더 사라\" JP모건이 강조하며 분석한 추가 주주환원 규모", "source": "아시아경제"}
+{"date": "2026-08-23", "title": "\"美 주식, 다음주엔 팔고 10월에 사라\"…계절적 약세 맞을까[오미주]", "source": "머니투데이·증권"}
+{"date": "2026-08-23", "title": "\"美日외환개입에 엔캐리 청산 우려…모니터링 필요\"", "source": "연합뉴스·경제"}
+{"date": "2026-08-23", "title": "\"공공기관 이전, 지역경제 영향 미미…지방세수엔 긍정적\"", "source": "연합뉴스·경제"}
+{"date": "2026-08-23", "title": "\"금 대신 샀더니\"…한 달 만에 30% 넘게 오르자 개미들 '들썩' [이수의 ETF줌인]", "source": "한국경제·증권"}
+{"date": "2026-08-23", "title": "\"김수현은 되고 유아인은 안 된다\"…'극과 극' 반응 이유 [김소연의 얼굴전략]", "source": "한국경제·경제"}
+{"date": "2026-08-23", "title": "\"남들 놀 때 일 할래요\"…직장인들 여름휴가 확 달라진 까닭 [류은혁의 유통기한]", "source": "한국경제·경제"}
+{"date": "2026-08-23", "title": "\"담보 설명 없이 중개\"… 경기도, 불법 중개 69건 적발", "source": "연합뉴스·경제"}
+{"date": "2026-08-23", "title": "\"두 달 전엔 삼전·하닉 몰빵했는데\"…'다음 타자' 찾는 개미들, 한전·두빌에 '정찰주' [개미의 세계]", "source": "파이낸셜·증권"}
+{"date": "2026-08-23", "title": "\"두 배 벌려다 손해만\"…한국서도 미국서도 인기 식어가는 '레버리지'", "source": "한국경제·증권"}
+{"date": "2026-08-23", "title": "\"떨어질 줄 알았는데 올라가네\"…금리 상승에도 꺾이지 않는 금값의 비밀[주末머니]", "source": "아시아경제"}
+{"date": "2026-08-23", "title": "\"마통 1억 되죠?\" 회계사 합격증 내밀어도…2000만원도 못 받고 당혹", "source": "머니투데이·증권"}
+{"date": "2026-08-23", "title": "\"번 돈 국민과 나누겠다\"던 삼성전자…'110조 잭팟' 터뜨린다", "source": "한국경제·경제"}
+{"date": "2026-08-23", "title": "\"비만 오면 방 3곳 벽이 축축\"…3년째 '빗물'과 싸우는 부부", "source": "연합뉴스·경제"}
+{"date": "2026-08-23", "title": "\"삼성역 연결 언제?\"…국민연금, GTX-A 인프라투자 '발동동'", "source": "머니투데이·증권"}
+{"date": "2026-08-23", "title": "\"삼전 나만 없어\" 포모에 울상이라면…\"덜 오른 이것 사라\" 전문가 조언", "source": "머니투데이·증권"}
+{"date": "2026-08-23", "title": "\"삼전닉스 주주환원이 살렸다\"…역대급 호재에 '반등'", "source": "한국경제·증권"}
+{"date": "2026-08-23", "title": "\"샤넬보다 낫다\" 타임스스퀘어에 50m 줄…미국서도 통했다", "source": "한국경제·경제"}
+{"date": "2026-08-23", "title": "\"설 자리 잃었다\" 굴욕에도…'불닭' 뜻밖의 전망 나왔다", "source": "한국경제·경제"}
+{"date": "2026-08-23", "title": "\"스톤테리어 감성을 그대로\"..KCC글라스 홈씨씨 '숲 강마루 스톤'", "source": "머니투데이·증권"}
+{"date": "2026-08-23", "title": "\"시장은 죄가 없다\"…고수가 꼽은 코스피 반등 조건", "source": "한국경제·증권"}
+{"date": "2026-08-23", "title": "\"씹고 뜯고 맛보고~ '이가탄' 상장\"...꽁꽁 언 IPO 시장 녹일까", "source": "머니투데이·증권"}
+{"date": "2026-08-23", "title": "\"아침밥·간식으로 초코파이\"…슈퍼마켓 먼지 닦으며 쌓은 정, 통했다[르포]", "source": "머니투데이·증권"}
+{"date": "2026-08-23", "title": "\"오늘도?\" 최고치 찍더니 '숨 고르기'…외인 '팔자'에 코스피 하락 마감", "source": "머니투데이·증권"}
+{"date": "2026-08-23", "title": "\"용도전환 막혀 공급못해\"…주택공급 설명회서 업계건의 쏟아져", "source": "연합뉴스·경제"}
+{"date": "2026-08-23", "title": "\"우리 애가 좋아해\" 한국 과자 쇼핑…'K간식 열풍' 앓는 베트남", "source": "머니투데이·증권"}
+{"date": "2026-08-23", "title": "\"유모차 하나 끌기도 힘든 동네\"…염창동 민심 들끓는 이유[주택공급 시험대③]", "source": "뉴시스·경제"}
+{"date": "2026-08-23", "title": "\"주가 누르기 막는다\"…합병가액, 시가 아닌 공정가액으로 산정", "source": "아시아경제"}
+{"date": "2026-08-23", "title": "\"주주환원의 힘\"…美찬바람에도 삼전닉스 강세에 코스피 상승(종합)", "source": "연합뉴스·경제"}
+{"date": "2026-08-23", "title": "\"주주환원의 힘\"…美찬바람에도 삼전닉스 강세에 코스피 상승탄력", "source": "연합뉴스·경제"}
+{"date": "2026-08-23", "title": "\"쪼개기 그만\"…인적분할에도 주가 내렸다 [노정동의 어쩌다 투자자]", "source": "한국경제·증권"}
+{"date": "2026-08-23", "title": "\"처음부터 삼성 노렸다\"…드러난 '中 괴물' 실체에 발칵 [홍민성의 테토남]", "source": "한국경제·경제"}
+{"date": "2026-08-23", "title": "\"코스피, 쏠려도 너무 쏠렸다?\"…'삼전닉스' 쏠림에 변동성 경고", "source": "파이낸셜·증권"}
+{"date": "2026-08-23", "title": "\"코인 불공정거래 꼼짝마\"…금감원, AI로 실시간 감시", "source": "아시아경제"}
+{"date": "2026-08-23", "title": "\"키체인, 메인넷 출시 후 파트너십 확대\"", "source": "한국경제·증권"}
+{"date": "2026-08-23", "title": "\"학원만 해선 돈 못 벌어요\"…'투잡' 뛰는 원장님들 곡소리 [벼랑 끝 사장님]", "source": "한국경제·경제"}
+{"date": "2026-08-23", "title": "\"한국서 미중 정상 만난다\" 또 훈풍…미 증시 최고치 랠리[뉴욕마감]", "source": "머니투데이·증권"}
+{"date": "2026-08-23", "title": "\"할인 끝나갑니다\"…삼성 100兆 '역대급 환원'에 자금 몰린 곳이", "source": "한국경제·증권"}
+{"date": "2026-08-23", "title": "\"현대차, CEO 인베스터 데이…신성장 계획 無, 관세 부담은 여전\"- 메리츠", "source": "머니투데이·증권"}
+{"date": "2026-08-23", "title": "\"호텔신라, DF1 영업 중단…면세 영업실적 개선 전망\"-교보", "source": "머니투데이·증권"}
+{"date": "2026-08-23", "title": "\"호텔신라, 인천공항 면세점 철수…영업익 개선될 것\"-대신증권", "source": "머니투데이·증권"}
+{"date": "2026-08-23", "title": "\"환율 더 떨어진다\" 한투, 하반기 달러·원 전망 1470→1420원", "source": "아시아경제"}
+{"date": "2026-08-23", "title": "&quot;8·13 부동산 정책으로 초우량채 발행 늘어날 것&quot;", "source": "연합인포맥스"}
+{"date": "2026-08-23", "title": "&quot;8월 금리인상 전망…점도표 중간값 3.25%·3.5% 팽팽&quot;", "source": "연합인포맥스"}
+{"date": "2026-08-23", "title": "&quot;美헤지펀드 시타델, 시추에이셔널서 매입한 주식 80% 이상 처분&quot;", "source": "연합인포맥스"}
+{"date": "2026-08-23", "title": "&quot;트럼프 정책 기대에 비트코인·이더리움 동반 강세&quot;", "source": "연합인포맥스"}
+{"date": "2026-08-23", "title": "'100조 주주환원 임박' 삼성전자, 장 초반 약보합…우선주는 강세", "source": "한국경제·증권"}
+{"date": "2026-08-23", "title": "'10주년' 트와이스, 日 돔 40만 관객 동원…'에너미' 앨범 골드 인증 겹경사", "source": "머니투데이·증권"}
+{"date": "2026-08-23", "title": "'170만원 하이닉스 주식' 비싸서 못 샀는데…개미들 설렌다 [투자톡]", "source": "한국경제·증권"}
+{"date": "2026-08-23", "title": "'20년만의 최저' 향하는 원·엔환율…현 시점 대응 전략은", "source": "한국경제·증권"}
+{"date": "2026-08-23", "title": "'2조달러' 앤트로픽 IPO 추진…스페이스X 넘는 자금 블랙홀 될까", "source": "한국경제·증권"}
+{"date": "2026-08-23", "title": "'55살 새우깡·43살 빼빼로' 아재들의 반란…매대 싹쓸이 [권용훈의 트렌드워치]", "source": "한국경제·경제"}
+{"date": "2026-08-23", "title": "'5억 낮춰 내놓을게요'…보유세 강화에 강남의 선택은", "source": "연합인포맥스"}
+{"date": "2026-08-23", "title": "'AI 반도체 슈퍼위크'…코스피 '주주환원 약발' 계속되나", "source": "연합뉴스·경제"}
+{"date": "2026-08-23", "title": "'AI 지각생' 카카오 인적분할 승부수 던졌지만…11% 넘게 하락 중", "source": "한국경제·증권"}
+{"date": "2026-08-23", "title": "'HANARO 글로벌금채굴기업', 금 관련 ETF 중 한달 수익률 1위", "source": "아시아경제"}
+{"date": "2026-08-23", "title": "'K-콘텐츠 미래 그린다'…전북 콘텐츠 포럼, 11월까지 개최", "source": "연합뉴스·경제"}
+{"date": "2026-08-23", "title": "'N% 성과급' 후폭풍…車·조선·철강, 모두 파업 깃발", "source": "한국경제·경제"}
+{"date": "2026-08-23", "title": "'TIGER 배당커버드콜액티브' ETF, 연초이후 수익률 커버드콜 中 1위", "source": "아시아경제"}
+{"date": "2026-08-23", "title": "'거버넌스·회계·감사'로 주주 잡은 KT&G..사상 첫 6조클럽 눈앞", "source": "머니투데이·증권"}
+{"date": "2026-08-23", "title": "'교육'은 경제 발전 주역…반도체 인재도 초중등 기반[교부금 대수술③]", "source": "뉴시스·경제"}
+{"date": "2026-08-23", "title": "'김어준 콘서트'로 떴다더니…정치인 몰리는 뜻밖의 명소 [트렌드+]", "source": "한국경제·경제"}
+{"date": "2026-08-23", "title": "'닥치고 속도전'인데…4년만에 꺼낸 비주택 리모델링 '0'", "source": "연합뉴스·경제"}
+{"date": "2026-08-23", "title": "'디에이치 방배' 잔금대출 한도·금리 경쟁 과열 조짐", "source": "연합뉴스·경제"}
+{"date": "2026-08-23", "title": "'디에이치 방배' 잔금대출 한도·금리 경쟁 과열 조짐(종합)", "source": "연합뉴스·경제"}
+{"date": "2026-08-23", "title": "'반도체 제조업' 해치텍, 25일 코스닥 상장", "source": "연합뉴스·경제"}
+{"date": "2026-08-23", "title": "'반포 아리팍' 9억 뚝…·稅 부담에 초고가 집값 조정 본격화", "source": "뉴시스·경제"}
+{"date": "2026-08-23", "title": "'본업 탄탄대로' 롯데웰푸드, 벤처투자 성적표는 아쉽네", "source": "연합인포맥스"}
+{"date": "2026-08-23", "title": "'삼전닉스 오디세이'에 표류하는 김대리, 구조될 방법은?[인치범의 주식투자 부트캠프]", "source": "파이낸셜·증권"}
+{"date": "2026-08-23", "title": "'삼전닉스·미국채 투자' 등 ETF 3종, 25일 신규 상장", "source": "연합뉴스·경제"}
+{"date": "2026-08-23", "title": "'세수 변동 완화' 10년 추세 도입했지만…1년 새 22% 뛰고 15% 급락하기도", "source": "뉴시스·경제"}
+{"date": "2026-08-23", "title": "'숏 치다간 다친다'…美 으름장에도 금리는 더 뛰었다 [빈난새의 빈틈없이마켓]", "source": "한국경제·증권"}
+{"date": "2026-08-23", "title": "'애국소비'로 뜬 동전주, 한달 만에 상승분 반납", "source": "한국경제·경제"}
+{"date": "2026-08-23", "title": "'조망권 침해' 논란 부산 북항환승센터 공사 중지 명령(종합)", "source": "연합뉴스·경제"}
+{"date": "2026-08-23", "title": "'최대 300조' 삼전닉스 주주환원 노린 ETF 떴다", "source": "아시아경제"}
+{"date": "2026-08-23", "title": "'코스닥 시총 1위' 알테오젠, 2천530억 들여 대전에 제조시설", "source": "연합뉴스·경제"}
+{"date": "2026-08-23", "title": "100조 넘보는 '미래기금' 신설…교육교부금 연동 55년만에 폐지(종합)", "source": "연합뉴스·경제"}
+{"date": "2026-08-23", "title": "100조 넘보는 '미래기금' 신설…교육교부금 연동 55년만에 폐지(종합2보)", "source": "연합뉴스·경제"}
+{"date": "2026-08-23", "title": "11개월 만에 1300원대 진입한 환율…안착 가능성은", "source": "아시아경제"}
+{"date": "2026-08-23", "title": "163억 맡겼는데 이자 0원…일부러 무이자 관리했다는데 '주의'로 끝", "source": "연합뉴스·경제"}
+{"date": "2026-08-23", "title": "1714가구 규모 '천안 아이파크 시티' 3·4단지 내달 분양", "source": "뉴시스·경제"}
+{"date": "2026-08-23", "title": "1등 신붓감의 추락…'신의 직장' 2030 직원들 술렁 [김익환의 부처 핸즈업]", "source": "한국경제·증권"}
+{"date": "2026-08-23", "title": "200조 미래대응기금, 3대메가프로젝트·AI에 쏟는다", "source": "한국경제·증권"}
+{"date": "2026-08-23", "title": "200조원 미래기금 출범", "source": "한국경제·경제"}
+{"date": "2026-08-23", "title": "30대 직장인 \"2050년까지 늘린 ISA 만기...새 세제개편안 적용되나요?\" [세무 재테크 Q&A]", "source": "파이낸셜·증권"}
+{"date": "2026-08-23", "title": "4대 금융, 경남 수해 복구에 20억…대출·물품 지원도(종합)", "source": "연합뉴스·경제"}
+{"date": "2026-08-23", "title": "4대 금융지주, 경남 호우 피해 복구 '총력'", "source": "한국경제·경제"}
+{"date": "2026-08-23", "title": "4억 뇌물에 1.7조억 수주 '유리한 평가' 악재…LIG D&A, 급락", "source": "한국경제·증권"}
+{"date": "2026-08-23", "title": "8월 첫주가 전력피크…당초 전망보다 2주 빨라진 이유는[세쓸통]", "source": "뉴시스·경제"}
+{"date": "2026-08-23", "title": "[IPO챗] 공모가 희비 갈린 니어스랩·해치텍, 코스닥 입성", "source": "연합뉴스·경제"}
+{"date": "2026-08-23", "title": "[IPO챗] 스카이랩스 \"의료기기 넘어 AI 의료데이터 플랫폼으로 성장할것\"", "source": "연합뉴스·경제"}
+{"date": "2026-08-23", "title": "[Q&A] 추가세수, 빚 상환 대신 미래 투자…\"국채 이자율 이상 운용\"(종합)", "source": "연합뉴스·경제"}
+{"date": "2026-08-23", "title": "[게시판] iM뱅크장학문화재단, DIGIST에 인재육성 장학금 전달", "source": "연합뉴스·경제"}
+{"date": "2026-08-23", "title": "[게시판] KB금융, 글로벌 ESG 평가지수 16년 연속 편입", "source": "연합뉴스·경제"}
+{"date": "2026-08-23", "title": "[게시판] Sh수협은행, 해양진흥공사와 신용전략포럼", "source": "연합뉴스·경제"}
+{"date": "2026-08-23", "title": "[게시판] 우리금융, 스포츠 유망주에 국가대표 멘토링", "source": "연합뉴스·경제"}
+{"date": "2026-08-23", "title": "[게시판] 우리은행, 을지연습서 비상상황 금융서비스 점검", "source": "연합뉴스·경제"}
+{"date": "2026-08-23", "title": "[게시판] 하나금융, KLPGA 정규투어 챔피언십 갤러리 티켓 사전판매", "source": "연합뉴스·경제"}
+{"date": "2026-08-23", "title": "[게시판] 하나은행, 대구에서 '2026 하나더넥스트 페스타'", "source": "연합뉴스·경제"}
+{"date": "2026-08-23", "title": "[고래사냥] 'LG전자, PS일렉트로닉스, 코리아써키트, 휴네시온!' 오늘 장 궁금종목 분석", "source": "머니투데이·증권"}
+{"date": "2026-08-23", "title": "[고래사냥] '블루엠텍, 아이씨티케이, 주성엔지니어링, 한컴위드!' 오늘 장 궁금종목 분석", "source": "머니투데이·증권"}
+{"date": "2026-08-23", "title": "[굿모닝증시]美, 반도체 변동성에도 바이오로 반등…韓도 상승 전망", "source": "아시아경제"}
+{"date": "2026-08-23", "title": "[급등수사본부] 10월 APEC 통한 한한령 해제 수혜 기대 vs 10월 황금연휴·中 국경절 등 여행수요 급증 전망", "source": "머니투데이·증권"}
+{"date": "2026-08-23", "title": "[김도형의 럭키7] 끝나지 않은 로봇주 '씨메스' 재공략 타이밍이 왔다, 목표가는?", "source": "머니투데이·증권"}
+{"date": "2026-08-23", "title": "[뉴욕 금가격] 파죽지세로 4,600달러마저 뚫었다…2.40%↑", "source": "연합인포맥스"}
+{"date": "2026-08-23", "title": "[뉴욕마켓워치] 베선트가 촉발한 비트코인·금 랠리…주식↑채권·달러↓", "source": "연합인포맥스"}
+{"date": "2026-08-23", "title": "[뉴욕유가] &quot;전쟁 끝내자&quot; 이란 대통령 호소에도 상승…WTI 0.26%↑", "source": "연합인포맥스"}
+{"date": "2026-08-23", "title": "[뉴욕증시-1보] 국채 바이백 후폭풍 속 저가 매수…상승 마감", "source": "연합인포맥스"}
+{"date": "2026-08-23", "title": "[뉴욕증시-주간전망] '베선트 풋'에 곤란해진 워시…엔비디아 실적·PCE 지표도", "source": "연합인포맥스"}
+{"date": "2026-08-23", "title": "[뉴욕증시] 국채 바이백 후폭풍 속 저가 매수…상승 마감", "source": "연합인포맥스"}
+{"date": "2026-08-23", "title": "[뉴욕채권] 국채가 이틀째↓…바이백 후폭풍 속 약달러發 기대 인플레↑", "source": "연합인포맥스"}
+{"date": "2026-08-23", "title": "[뉴욕환시] 달러, 국채금리·유가 상승에도 약보합…바이백 여파 지속", "source": "연합인포맥스"}
+{"date": "2026-08-23", "title": "[다음주 경제] 기준금리 동결이냐 인상이냐…작년 출생통계도 발표", "source": "연합뉴스·경제"}
+{"date": "2026-08-23", "title": "[다음주 재정경제부 등 경제부처 일정]", "source": "연합인포맥스"}
+{"date": "2026-08-23", "title": "[다음주 한국은행 및 금융위·금감원 일정]", "source": "연합인포맥스"}
+{"date": "2026-08-23", "title": "[단독] 기계 고장 전 이상음 잡는 디플리…이젠 로봇 불량까지 잡는다", "source": "한국경제·경제"}
+{"date": "2026-08-23", "title": "[단독] 챗GPT로 LG 에어컨·공기청정기 원격 제어", "source": "한국경제·경제"}
+{"date": "2026-08-23", "title": "[대형VC 대해부]③해외VC 불모지 18년도 버텼다…한투파의 글로벌 뚝심", "source": "아시아경제"}
+{"date": "2026-08-23", "title": "[더벨]'해킹 보안 강화' 나선 폴라리스오피스 \"2차피해 차단\"", "source": "머니투데이·증권"}
+{"date": "2026-08-23", "title": "[더벨][이지트로닉스 줌인]2022년 상장 후 최대 손실 \"내년 BEP 목표\"", "source": "머니투데이·증권"}
+{"date": "2026-08-23", "title": "[더벨][이지트로닉스 줌인]SKT 해킹사태 여파, 통신 매출 '뚝'", "source": "머니투데이·증권"}
+{"date": "2026-08-23", "title": "[더벨][이지트로닉스 줌인]인도·중국 해외사업 성과 '관건'", "source": "머니투데이·증권"}
+{"date": "2026-08-23", "title": "[더벨]네온테크, 150억 BW 덕에 성장·안정 '두 마리 토끼'", "source": "머니투데이·증권"}
+{"date": "2026-08-23", "title": "[더벨]다이나믹디자인, 광주 마이스터고 학생에 격려금 전달", "source": "머니투데이·증권"}
+{"date": "2026-08-23", "title": "[더벨]원영식 희망기금, 수동휠체어 전달식", "source": "머니투데이·증권"}
+{"date": "2026-08-23", "title": "[더벨]큐브엔터 아이들 우기, 신곡 'M.O.' \"자신감·두려움 없는 본성 담아\"", "source": "머니투데이·증권"}
+{"date": "2026-08-23", "title": "[더벨]크레버스-퓨리오사AI, AI 기술 활용한 사업화 공동추진 MOU 체결", "source": "머니투데이·증권"}
+{"date": "2026-08-23", "title": "[문제적 섹터] 정책주로 부상한 로봇주…본격 담을 때?", "source": "머니투데이·증권"}
+{"date": "2026-08-23", "title": "[박소운의 종가 공략] 반도체부터 에너지까지 지금 당장 알아야 할 예쁜 종목 '미코'", "source": "머니투데이·증권"}
+{"date": "2026-08-23", "title": "[박진섭의 황금선] 농심에 비해 지주사 주가 저평가 '농심홀딩스'", "source": "머니투데이·증권"}
+{"date": "2026-08-23", "title": "[베세노믹스의 역설] 美 증시, 지금 들어가도 될까", "source": "연합인포맥스"}
+{"date": "2026-08-23", "title": "[베세노믹스의 역설] 문제는 금리…과거와 뭐가 다른가", "source": "연합인포맥스"}
+{"date": "2026-08-23", "title": "[부고]전우진(하나증권 유성금융센터장)씨 장인상", "source": "머니투데이·증권"}
+{"date": "2026-08-23", "title": "[부동산캘린더] 내주 상동역 롯데캐슬시그니처 등 5천430가구 분양", "source": "연합뉴스·경제"}
+{"date": "2026-08-23", "title": "[북극항로 시대] ① 기후변화로 열린 기회…부산-유럽 뱃길 35% 단축", "source": "연합뉴스·경제"}
+{"date": "2026-08-23", "title": "[북극항로 시대] ② 길목에 선 물류거점 부산…새 성장엔진 '해양수도권'", "source": "연합뉴스·경제"}
+{"date": "2026-08-23", "title": "[속보] 뉴욕증시, 일제히 상승 마감…나스닥 0.44%↑", "source": "뉴시스·경제"}
+{"date": "2026-08-23", "title": "[속보] 삼성전자 \"임직원 보상용 자사주 15조원 매입\"", "source": "한국경제·경제"}
+{"date": "2026-08-23", "title": "[속보] 카카오, 카카오 AI·카카오X로 인적분할 결의", "source": "한국경제·증권"}
+{"date": "2026-08-23", "title": "[속보] 코스닥 4%대 급락…매도 사이드카 발동", "source": "한국경제·증권"}
+{"date": "2026-08-23", "title": "[속보]코스닥 매도 사이드카 발동", "source": "아시아경제"}
+{"date": "2026-08-23", "title": "[속보]코스피, 매수 사이드카 발동…5% 급등", "source": "아시아경제"}
+{"date": "2026-08-23", "title": "[수익 내비게이터] 국책과제 정부출연금 증가 추세…AI 반도체 기술력 입증 '에이직랜드' VS 글로벌 시장 프리미엄 가전 브랜드로 경쟁력 강화 'LG전자'", "source": "머니투데이·증권"}
+{"date": "2026-08-23", "title": "[스팟]코스닥 0.97포인트(0.11%) 오른 858.08 출발", "source": "머니투데이·증권"}
+{"date": "2026-08-23", "title": "[스팟]코스닥 6.00포인트(0.70%) 오른 863.11 마감", "source": "머니투데이·증권"}
+{"date": "2026-08-23", "title": "[스팟]코스피 0.07포인트(0.00%) 내린 3461.23 출발", "source": "머니투데이·증권"}
+{"date": "2026-08-23", "title": "[스팟]코스피 16.06포인트(0.46%) 내린 3445.24 마감", "source": "머니투데이·증권"}
+{"date": "2026-08-23", "title": "[스페셜리스트] 금리인하 했지만 시장 여전히 불안, 주식+금 같이 들고 가자?", "source": "머니투데이·증권"}
+{"date": "2026-08-23", "title": "[신상잇슈] CJ제일제당 '해찬들 옛장'·아워홈 '고기듬뿍 순대전골'", "source": "연합뉴스·경제"}
+{"date": "2026-08-23", "title": "[여의도 클라쓰] '제이엔비, 칩스앤미디어, 농심홀딩스' 클라쓰 올릴 종목은?", "source": "머니투데이·증권"}
+{"date": "2026-08-23", "title": "[연합뉴스 이 시각 헤드라인] - 10:30", "source": "연합뉴스·경제"}
+{"date": "2026-08-23", "title": "[연합뉴스 이 시각 헤드라인] - 14:30", "source": "연합뉴스·경제"}
+{"date": "2026-08-23", "title": "[연합뉴스 이 시각 헤드라인] - 18:00", "source": "연합뉴스·경제"}
+{"date": "2026-08-23", "title": "[오늘의 테마] '뉴로모픽 반도체' VS '로봇'", "source": "머니투데이·증권"}
+{"date": "2026-08-23", "title": "[외환] 달러 매도 우위 이어지며 1,386.20원에 이번주 마감", "source": "연합인포맥스"}
+{"date": "2026-08-23", "title": "[외환] 원/달러 환율 6.1원 내린 1,386.5원(15:30 기준가)", "source": "연합뉴스·경제"}
+{"date": "2026-08-23", "title": "[이달해 달달한10분] 정부가 칼빼든 해킹 사태! 케이사인, 보안주 탑픽?", "source": "머니투데이·증권"}
+{"date": "2026-08-23", "title": "[이재상의 하프타임 빅매치] 미투온 돌아온 상승 모멘텀! 美 따라가는 韓스테이블코인주", "source": "머니투데이·증권"}
+{"date": "2026-08-23", "title": "[이창대의 잠금해제] 피지컬 AI 주도하는 MLCC 삼성전기 신고가부터가 진짜 기회", "source": "머니투데이·증권"}
+{"date": "2026-08-23", "title": "[이항영의 월가이드] 뉴욕증시, 금리인하+기술주 투자에 사상최고치…시장 평가는?", "source": "머니투데이·증권"}
+{"date": "2026-08-23", "title": "[인터뷰] 공장은 초일류·조직은 구시대…스텔라김 &quot;韓, 이러면 미국서 뒤처져&quot;", "source": "연합인포맥스"}
+{"date": "2026-08-23", "title": "[적중! 대박 예감] '농심, 티엑스알로보틱스, 다이버시파이드 에너지 컴퍼니' 예감 좋은 대박 종목은?", "source": "머니투데이·증권"}
+{"date": "2026-08-23", "title": "[종목상담소 주식민원처리반 1부] '미투온 vs 아이시티케이' ... 다음주 승자는?", "source": "머니투데이·증권"}
+{"date": "2026-08-23", "title": "[주末머니]\"AI 투자금, 은행도 빌려준다\" 美 '자본규제 완화' 수혜주는?", "source": "아시아경제"}
+{"date": "2026-08-23", "title": "[주末머니]\"다음주 투자전략 보니…엔비디아 실적 관건\"", "source": "아시아경제"}
+{"date": "2026-08-23", "title": "[주末머니]'노후보장' TDF 선택할 때 반드시 고려해야 할 점은", "source": "아시아경제"}
+{"date": "2026-08-23", "title": "[주末머니]오픈AI vs 앤트로픽 '쩐의 전쟁'…수혜주는 바로 이 기업", "source": "아시아경제"}
+{"date": "2026-08-23", "title": "[주식민원처리반 2부] 스마트레이더시스템 vs 파크시스템스, 매매 포인트는?", "source": "머니투데이·증권"}
+{"date": "2026-08-23", "title": "[주식민원처리반 3부] '녹십자, 실리콘투' 월요일에 선택할 이 종목은?", "source": "머니투데이·증권"}
+{"date": "2026-08-23", "title": "[집중분석] 하루 만에 바뀐 시장 분위기…9월 계절적 약세에도 강세장 지속?", "source": "머니투데이·증권"}
+{"date": "2026-08-23", "title": "[클릭 e종목]\"비에이치아이, 성장·수익성 동시에…목표가↑\"", "source": "아시아경제"}
+{"date": "2026-08-23", "title": "[투자 알고리즘]덜 오른 핵심 섹터 찾기! 화장품주 지금 사면 하반기 수익률 극대화?", "source": "머니투데이·증권"}
+{"date": "2026-08-23", "title": "[투자 핫플레이스] 비만·당뇨·MASH·ADC 파이프라인 보유 '동아에스티'", "source": "머니투데이·증권"}
+{"date": "2026-08-23", "title": "[투자원정대 동행] 로체시스템즈 vs 클래시스 vs 엠디바이스, 공략법은?", "source": "머니투데이·증권"}
+{"date": "2026-08-23", "title": "[특징주] SK증권, '하닉 자사주 매입' 수혜기대에 이틀 연속 급등(종합)", "source": "연합뉴스·경제"}
+{"date": "2026-08-23", "title": "[특징주] 가상자산 관련주, 비트코인 7만달러선 돌파에 급등(종합)", "source": "연합뉴스·경제"}
+{"date": "2026-08-23", "title": "[특징주] 네오이뮨텍, '美기업 기술 수출'에 이틀 연속 상한가(종합)", "source": "연합뉴스·경제"}
+{"date": "2026-08-23", "title": "[특징주] 인적분할 악재로 부각?…카카오, 7%대 급락(종합)", "source": "연합뉴스·경제"}
+{"date": "2026-08-23", "title": "[팩트체크] 임대주택 살면 내집장만 못한다?…서울 장기전세 입주민 8% 마련", "source": "연합뉴스·경제"}
+{"date": "2026-08-23", "title": "[필승매매 승부사] '삼현 '추천 한달만에 +111% 급등! 기세 이어갈 로봇주는? '에브리봇'", "source": "머니투데이·증권"}
+{"date": "2026-08-23", "title": "[현장in] \"내 집이 폭탄?\"…1년 반 만에 무너진 아파트 테라스", "source": "연합뉴스·경제"}
+{"date": "2026-08-23", "title": "AI 데이터센터도 '대기표' 받는다…빨라진 투자에 걸린 제동[주末머니]", "source": "아시아경제"}
+{"date": "2026-08-23", "title": "AI 인프라·미래 기술에 집중 투자…잠재성장률 끌어올린다", "source": "한국경제·경제"}
+{"date": "2026-08-23", "title": "AI와 대화하며 감상하는 뉴미디어 아트…호텔 안테룸, 'NNN' 전시 개최", "source": "한국경제·경제"}
+{"date": "2026-08-23", "title": "Alibaba shares fall 5% as AI spending drives 75% drop in net income", "source": "CNBC·Markets"}
+{"date": "2026-08-23", "title": "Bessent says there's a 'very good chance' U.S. budget deficit under Trump has peaked", "source": "CNBC·Economy"}
+{"date": "2026-08-23", "title": "Bessent says Treasury buyback operation could be more than $4 billion", "source": "CNBC·Economy"}
+{"date": "2026-08-23", "title": "Bessent's bond gambit aimed at calming markets is instead stirring inflation worries", "source": "CNBC·Economy"}
+{"date": "2026-08-23", "title": "Bessent's efforts in the Treasury market so far haven't worked. Here's what else he can try", "source": "CNBC·Economy"}
+{"date": "2026-08-23", "title": "Canada announces retaliatory tariffs on U.S. goods after trade talks break down", "source": "MarketWatch"}
+{"date": "2026-08-23", "title": "Carvana shares are under pressure this week as Mark Walter probe fuels investor jitters", "source": "CNBC·Finance"}
+{"date": "2026-08-23", "title": "China is defying the global bond yield surge, boosting its diversification appeal", "source": "CNBC·Finance"}
+{"date": "2026-08-23", "title": "Chinese humanoid robots' biggest obstacle: Humans are still (mostly) better", "source": "CNBC·Finance"}
+{"date": "2026-08-23", "title": "DGP, 유증·CB로 180억 조달…최대주주 변경·신사업 추진 '투트랙'", "source": "머니투데이·증권"}
+{"date": "2026-08-23", "title": "Fed officials saw need for rate hike if inflation doesn't cool, minutes show", "source": "CNBC·Finance"}
+{"date": "2026-08-23", "title": "Goldman studied where AI is squeezing labor markets. Here's what it found", "source": "CNBC·Finance"}
+{"date": "2026-08-23", "title": "GS리테일, 3Q 소비쿠폰 수혜…성장세 돌아설 것-IBK", "source": "머니투데이·증권"}
+{"date": "2026-08-23", "title": "GV90 신차 출시에도 악재 터졌다…현대차 개미들 분통 [종목+]", "source": "한국경제·증권"}
+{"date": "2026-08-23", "title": "HD한국조선해양 \"인도 코친조선소와 합작법인 설립 검토 중단\"", "source": "연합뉴스·경제"}
+{"date": "2026-08-23", "title": "Here are three key takeaways from the disappointing July jobs report", "source": "CNBC·Economy"}
+{"date": "2026-08-23", "title": "HLB펩, 진양곤 의장 2만2000주 장내 매수", "source": "아시아경제"}
+{"date": "2026-08-23", "title": "HL만도 '근로자 끼임사' 한 달 추모제…\"위험의 외주화 멈춰라\"", "source": "연합뉴스·경제"}
+{"date": "2026-08-23", "title": "I hold my mother-in-law’s power of attorney. I’m also her executor and trustee. Do I have too much power over her affairs?", "source": "MarketWatch"}
+{"date": "2026-08-23", "title": "IBK증권, 국내 스팩 분산투자 'IBKS 블랙넘버스(SPAC) 랩' 출시", "source": "한국경제·증권"}
+{"date": "2026-08-23", "title": "IBK투자, 국내 스팩 분산투자 'IBKS 블랙넘버스 랩' 출시", "source": "아시아경제"}
+{"date": "2026-08-23", "title": "iM뱅크, 경남 집중호우 피해 고객에 3천억원 금융지원", "source": "연합뉴스·경제"}
+{"date": "2026-08-23", "title": "JTC, 100억원 규모 자기주식 전량 소각…\"주주환원 강화\"", "source": "아시아경제"}
+{"date": "2026-08-23", "title": "K-배터리 3사 글로벌 등록 특허 10만건 눈앞…3년새 약 2배로↑", "source": "연합뉴스·경제"}
+{"date": "2026-08-23", "title": "Kalshi traders think the bitcoin rally could end the year near current levels", "source": "CNBC·Finance"}
+{"date": "2026-08-23", "title": "KB금융, 신종자본증권 수요예측서 5천200억원 수요 확보", "source": "연합뉴스·경제"}
+{"date": "2026-08-23", "title": "KB자산운용, 'RISE TDF ETF' 3종 순자산 4천억 돌파", "source": "아시아경제"}
+{"date": "2026-08-23", "title": "KB증권, 취약계층 대상 '체납 건강보험료 지원사업' 실시", "source": "아시아경제"}
+{"date": "2026-08-23", "title": "KF-21 전투기에 가려진 말하지 못한 비밀", "source": "연합인포맥스"}
+{"date": "2026-08-23", "title": "KT 소액결제 사태 확대에…보안주 '불기둥'", "source": "머니투데이·증권"}
+{"date": "2026-08-23", "title": "Labubu maker Pop Mart shares fall as key ex-China sales data drop, Citi cuts price target", "source": "CNBC·Markets"}
+{"date": "2026-08-23", "title": "LG디스플레이, 3분기 영업익 시장 기대치 넘어설듯-키움증권", "source": "머니투데이·증권"}
+{"date": "2026-08-23", "title": "Lowe's gives muted outlook as it sees 'pressure' in home improvement spending", "source": "CNBC·Markets"}
+{"date": "2026-08-23", "title": "MBK \"고려아연 주총자료 허위 기재\"…형사고발 예고", "source": "아시아경제"}
+{"date": "2026-08-23", "title": "MBK, 롯데카드 '보안투자 소홀' 억울 \"71억→128억, 꾸준히 확대\"", "source": "머니투데이·증권"}
+{"date": "2026-08-23", "title": "MBK·영풍, 美서 '석포 시스템·인력 활용' 거론…고려아연 \"협의 없었다\"", "source": "한국경제·경제"}
+{"date": "2026-08-23", "title": "Move over, credit cards: Social-media stars are tapping magic wands to buy things", "source": "MarketWatch"}
+{"date": "2026-08-23", "title": "NDF, 1,385.60/ 1,386.00원…0.55원↓", "source": "연합인포맥스"}
+{"date": "2026-08-23", "title": "NH증권 \"사모펀드 분산투자, 현대인베스트먼트 펀드 판매\"", "source": "아시아경제"}
+{"date": "2026-08-23", "title": "NH투자증권 \"디폴트옵션 적극투자형 3년 수익률 90.15%\"", "source": "아시아경제"}
+{"date": "2026-08-23", "title": "Our 4-year-old son has $100,000 in his 529 account. Is a bull market a bad time to buy him stocks instead?", "source": "MarketWatch"}
+{"date": "2026-08-23", "title": "PC왕 레노버의 변신…AI 서버 타고 주가 200% 질주", "source": "한국경제·경제"}
+{"date": "2026-08-23", "title": "Retail investors aren't entirely giving up on AI trade, but they appear more cautious", "source": "CNBC·Finance"}
+{"date": "2026-08-23", "title": "Rising yields rattled the market, but we’re sticking with our favorite AI and retail stocks", "source": "CNBC·Markets"}
+{"date": "2026-08-23", "title": "Samsung plans up to $80 billion in shareholder returns after SK Hynix buyback", "source": "CNBC·Finance"}
+{"date": "2026-08-23", "title": "SBI인베, 보유 자사주 47만주 전량 소각…기업가치 제고", "source": "아시아경제"}
+{"date": "2026-08-23", "title": "SK증권, 하이닉스 '40조 자사주 매입' 중개에 이틀 연속 급등", "source": "한국경제·증권"}
+{"date": "2026-08-23", "title": "SK하이닉스 40조 주주환원…코스피 5% 급등 '환호'", "source": "아시아경제"}
+{"date": "2026-08-23", "title": "SK하이닉스, 日에 반도체 공장 건설 검토", "source": "한국경제·경제"}
+{"date": "2026-08-23", "title": "SLL중앙, 추가청약으로 회사채 증액발행…최종 350억 모집", "source": "머니투데이·증권"}
+{"date": "2026-08-23", "title": "SNT걸프, 사우디 기업과 320억 규모 에어쿨드콘덴서 공급계약", "source": "연합뉴스·경제"}
+{"date": "2026-08-23", "title": "Target says its turnaround is picking up steam, with help from a big tariff refund", "source": "CNBC·Markets"}
+{"date": "2026-08-23", "title": "TBH글로벌, 신규 브랜드 '타임아웃' 1차 라인업 확정", "source": "아시아경제"}
+{"date": "2026-08-23", "title": "Trump admin taps former JPMorgan Chase exec Matt Zames to advise Social Security agency", "source": "CNBC·Finance"}
+{"date": "2026-08-23", "title": "Trump bemoans Fed interest rate policy, says U.S. should be paying much less", "source": "CNBC·Economy"}
+{"date": "2026-08-23", "title": "U.S. government debt passes $40 trillion, more than doubling in a decade", "source": "CNBC·Economy"}
+{"date": "2026-08-23", "title": "Walmart stock tumbles 9% after outlook disappoints Wall Street", "source": "CNBC·Markets"}
+{"date": "2026-08-23", "title": "What Chinese liquor maker Moutai's slump says about the country's economy", "source": "CNBC·Finance"}
+{"date": "2026-08-23", "title": "Why an announcement from the Treasury sparked a rally in gold and bitcoin this week", "source": "MarketWatch"}
+{"date": "2026-08-23", "title": "Why our cyber stocks are dropping and our favorite memory play is rallying", "source": "CNBC·Markets"}
+{"date": "2026-08-23", "title": "Why we're giving off-price retailer TJX a pass for softness in its biggest division", "source": "CNBC·Markets"}
+{"date": "2026-08-23", "title": "‘I’m running out of time’: I sold my $300,000 rental property at a $75,000 loss. Should I buy another one to avoid taxes?", "source": "MarketWatch"}
+{"date": "2026-08-23", "title": "‘She looked into COBRA’: My friend was laid off and lost her health insurance. How can she find affordable coverage?", "source": "MarketWatch"}
+{"date": "2026-08-23", "title": "‘The estrangement isn’t about politics’: My daughter hasn’t spoken to me for 4 years. Do I leave her a monthly annuity?", "source": "MarketWatch"}
+{"date": "2026-08-23", "title": "‘There is considerable tension’: My grandmother, 99, wants to cut my mother out of her will. Should I intervene?", "source": "MarketWatch"}
+{"date": "2026-08-23", "title": "‘We are committed Christians’: Our son and daughter-in-law cut us off over politics. Should we change our $3 million will?", "source": "MarketWatch"}
+{"date": "2026-08-23", "title": "中 메모리 CXMT 이어 낸드 회사 YMTC도 IPO '속도'", "source": "연합인포맥스"}
+{"date": "2026-08-23", "title": "中 휴머노이드, 100m 9.32초…'육상 황제' 볼트보다 빨랐다", "source": "뉴시스·경제"}
+{"date": "2026-08-23", "title": "弗 약해질수록, 뜨거워지는 金", "source": "머니투데이·증권"}
+{"date": "2026-08-23", "title": "美 8월 S&amp;P PMI, 서비스업 개선·제조업 둔화 추세 지속(상보)", "source": "연합인포맥스"}
+{"date": "2026-08-23", "title": "美 국채가, 보합권 등락…'베선트 풋' 이후 숨 고르기", "source": "연합인포맥스"}
+{"date": "2026-08-23", "title": "美 국채금리 또 올랐지만…3대 지수 하루 만에 반등 [뉴욕증시 브리핑]", "source": "한국경제·증권"}
+{"date": "2026-08-23", "title": "美 국채금리·유가…그리고 엔비디아 [다음주 주요 변수 미리보기]", "source": "한국경제·경제"}
+{"date": "2026-08-23", "title": "美 금리·유가 재상승…국내 증시 하락 출발 전망[굿모닝증시]", "source": "아시아경제"}
+{"date": "2026-08-23", "title": "美 누적 판매 '45만대'…제네시스, SUV 앞세워 영향력 키운다", "source": "연합인포맥스"}
+{"date": "2026-08-23", "title": "美, 캐나다산 제품에 50% 관세 부과…캐나다 보복 예고", "source": "연합인포맥스"}
+{"date": "2026-08-23", "title": "美·中 장기채 금리 디커플링… \"AI 소모전 승패 가를 것\"", "source": "한국경제·경제"}
+{"date": "2026-08-23", "title": "美·캐나다 '무역전쟁' 터졌다…50% 관세 폭탄에 맞대응 예고", "source": "한국경제·경제"}
+{"date": "2026-08-23", "title": "美무역대표, 캐나다와 무역합의 결렬 후 &quot;새로운 협상 예정돼 있지 않아&quot;", "source": "연합인포맥스"}
+{"date": "2026-08-23", "title": "美증시 약세에 코스피·코스닥 동반 약세…삼전닉스는 보합권", "source": "한국경제·증권"}
+{"date": "2026-08-23", "title": "美증시·금값·유가 동반 상승…비트코인도 7만7000달러↑", "source": "뉴시스·경제"}
+{"date": "2026-08-23", "title": "與김영배, 吳와 회동…\"吳 '용산공원 1cm도 안된다'며 자기정치\"", "source": "연합뉴스·경제"}
+{"date": "2026-08-23", "title": "與김영배, 오세훈과 오찬회동…용산공원 주택공급 두고 평행선(종합)", "source": "연합뉴스·경제"}
+{"date": "2026-08-23", "title": "가상화폐株, 비트코인 7만달러 돌파 소식에 급등", "source": "한국경제·증권"}
+{"date": "2026-08-23", "title": "간판만 바꿨을 뿐인데 '이럴 줄은'…\"또 갈래요\" 대박 난 식당 [권용훈의 트렌드워치]", "source": "한국경제·경제"}
+{"date": "2026-08-23", "title": "같은 84㎡인데 16평 더 쓴다…'숨은 평수' 서비스 면적 경쟁", "source": "뉴시스·경제"}
+{"date": "2026-08-23", "title": "거래소, 발달장애인 금융교육 후원금 5000만원 전달", "source": "아시아경제"}
+{"date": "2026-08-23", "title": "거래소, 코스닥150 위클리옵션 상장…파생상품시장 개장 15분 앞당겨", "source": "머니투데이·증권"}
+{"date": "2026-08-23", "title": "건설투자 늘어나는데…수혜 예상되는 업종은 [주末머니]", "source": "아시아경제"}
+{"date": "2026-08-23", "title": "검진 이상소견시 즉시 진료연계…울산대병원·건강관리협회 협약", "source": "연합뉴스·경제"}
+{"date": "2026-08-23", "title": "경기 둔화에도…피부관리실·반찬가게 잘나간다", "source": "한국경제·경제"}
+{"date": "2026-08-23", "title": "경기도, 전세사기 피해주택 수리비 최대 2천만원까지 지원", "source": "연합뉴스·경제"}
+{"date": "2026-08-23", "title": "경남도, 석탄화력 폐지 지원 특별법 국회 통과 \"환영\"", "source": "연합뉴스·경제"}
+{"date": "2026-08-23", "title": "공사비 상승에 커지는 분양 부담…신규 분양단지 눈길", "source": "뉴시스·경제"}
+{"date": "2026-08-23", "title": "괴산고추축제장서 세척 건고추 600ｇ당 1만6천원에 판매", "source": "연합뉴스·경제"}
+{"date": "2026-08-23", "title": "교육교부금 내국세 연동제 폐지…내년 교부금 20조 감축할 듯", "source": "한국경제·증권"}
+{"date": "2026-08-23", "title": "국고채 금리 일제히 상승…3년물 연 3.854%", "source": "연합뉴스·경제"}
+{"date": "2026-08-23", "title": "국고채 금리 일제히 상승…3년물 장중 연 3.844%", "source": "연합뉴스·경제"}
+{"date": "2026-08-23", "title": "국고채 금리 일제히 상승…다음주 금통위 경계감(종합)", "source": "연합뉴스·경제"}
+{"date": "2026-08-23", "title": "국세청, 무신사 특별세무조사", "source": "한국경제·경제"}
+{"date": "2026-08-23", "title": "국제유가 변동없이 마감…이번주 5% 상승", "source": "뉴시스·경제"}
+{"date": "2026-08-23", "title": "국제유가 오르는데 기름값 상한은 그대로…손실보전 규모는?", "source": "뉴시스·경제"}
+{"date": "2026-08-23", "title": "국제유가, 중동 불안 지속에 6일 연속 상승…브렌트유 94달러대", "source": "연합뉴스·경제"}
+{"date": "2026-08-23", "title": "국채 바이백의 이면은?…메모리 진출한다는 인텔 [월가 백브리핑]", "source": "한국경제·경제"}
+{"date": "2026-08-23", "title": "국채선물, 美 국채 약세 속 혼조…10년물 21틱↑", "source": "연합인포맥스"}
+{"date": "2026-08-23", "title": "글로벌 물류지도 싹 바뀐다…국내 첫 컨테이너선 북극항로 출항", "source": "한국경제·경제"}
+{"date": "2026-08-23", "title": "금융위 등 이전 내주 국무회의 심의 가능성…공공기관 반발 고조", "source": "연합뉴스·경제"}
+{"date": "2026-08-23", "title": "금호건설, 삼성전자 플랙트 한국공장 수주에 11%대 강세", "source": "한국경제·증권"}
+{"date": "2026-08-23", "title": "급성장에 주가 급등한 네오클라우드, AI 버블의 핵일까", "source": "머니투데이·증권"}
+{"date": "2026-08-23", "title": "기도산업, 코스닥 상장 첫날 장 초반 10% 급락", "source": "한국경제·증권"}
+{"date": "2026-08-23", "title": "기준금리 전망 '혼조'…\"7·8월 연속 인상\" vs \"숨 고르기\"", "source": "연합뉴스·경제"}
+{"date": "2026-08-23", "title": "김영배-오세훈 회동…용산·그린벨트 놓고 입장차 [뉴시스Pic]", "source": "뉴시스·경제"}
+{"date": "2026-08-23", "title": "김윤덕·오세훈 이번주 다시 회동…'용산공원 공급' 접점 찾나", "source": "연합뉴스·경제"}
+{"date": "2026-08-23", "title": "나신평, SK이터닉스 전단채 'A3+' 평가…따라올 신평사 어디?", "source": "머니투데이·증권"}
+{"date": "2026-08-23", "title": "내 연금·유족연금이 동시에 나오면? 90%는 '이 것' 선택", "source": "파이낸셜뉴스"}
+{"date": "2026-08-23", "title": "내년 예산 820조 안팎 전망…18년 만에 최대폭 증가하나", "source": "뉴시스·경제"}
+{"date": "2026-08-23", "title": "네이버, 글로벌 AI 업체 공세에도 국내 성과 거둘것-NH투자증권", "source": "머니투데이·증권"}
+{"date": "2026-08-23", "title": "뉴발란스 1조로 키운 이랜드…호카도 성공할까", "source": "연합인포맥스"}
+{"date": "2026-08-23", "title": "뉴온, 추석맞이 99특가 프로모션…인기 건강기능식품 4종 특별 혜택가", "source": "머니투데이·증권"}
+{"date": "2026-08-23", "title": "뉴욕증시, 저가 매수에 상승 출발", "source": "연합인포맥스"}
+{"date": "2026-08-23", "title": "뉴패러다임인베, 포트폴리오 5개사 '딥테크 팁스' 선정", "source": "아시아경제"}
+{"date": "2026-08-23", "title": "다날, 국내 PG사 최초 '오픈 USD' 합류…글로벌 스테이블코인 결제시장 정조준", "source": "아시아경제"}
+{"date": "2026-08-23", "title": "달러-원, 뉴욕장서 1,380원 중반대 거래", "source": "연합인포맥스"}
+{"date": "2026-08-23", "title": "달리오 &quot;美, '3±2'년내 부채위기…채권 줄이고 금·비트코인 늘려라&quot;", "source": "연합인포맥스"}
+{"date": "2026-08-23", "title": "더벤처스, 여성 선수 영양제 '리브라헬스' 시드투자", "source": "아시아경제"}
+{"date": "2026-08-23", "title": "동포 청년, 정착 넘어 미래로…\"'글로벌 K' 인재로 키워야\"", "source": "연합뉴스·경제"}
+{"date": "2026-08-23", "title": "두 달 만에 5개 상폐…액티브 ETF '상관계수 규제' 도마 위로", "source": "한국경제·증권"}
+{"date": "2026-08-23", "title": "두 회사로 쪼개지는 카카오…주가 어떻게 될까", "source": "한국경제·증권"}
+{"date": "2026-08-23", "title": "두산에너빌, 오만 가스복합발전 수주", "source": "한국경제·경제"}
+{"date": "2026-08-23", "title": "디알젬, '인디아 헬스 2026' 참가…이동형 DR 시스템 공개", "source": "아시아경제"}
+{"date": "2026-08-23", "title": "디앤디파마텍, \"결과 속단 일러…하반기 비만치료제 기대감도\"-하나", "source": "머니투데이·증권"}
+{"date": "2026-08-23", "title": "땅은 있어도 전기·물이 없다 호남 반도체 '2030년'의 딜레마", "source": "연합인포맥스"}
+{"date": "2026-08-23", "title": "레인보우-빅웨이브, 두 로보틱스社 북미 시장 진출 협력 MOU", "source": "아시아경제"}
+{"date": "2026-08-23", "title": "로봇이 사람보다 낫다...퇴직연금 수익률 최대 44%", "source": "머니투데이·증권"}
+{"date": "2026-08-23", "title": "링크알파 \"금융 특화 'AI랩' 출범…LLM 투자 판단 검증\"", "source": "아시아경제"}
+{"date": "2026-08-23", "title": "머니투데이 오프라인 헤드라인-19일", "source": "머니투데이·증권"}
+{"date": "2026-08-23", "title": "모더나 급등에 K바이오도 들썩…증권가가 본 '모더나 현상'", "source": "연합인포맥스"}
+{"date": "2026-08-23", "title": "모더나가 연 mRNA 암백신 시대…국내 수혜주는 여기[주末머니]", "source": "아시아경제"}
+{"date": "2026-08-23", "title": "모아데이타, 태국 BDMS서 검증한 'AI 헬스케어' 앞세워 CIS 공략", "source": "아시아경제"}
+{"date": "2026-08-23", "title": "무뇨스 \"GV90 한국적 가치 담아\"", "source": "한국경제·경제"}
+{"date": "2026-08-23", "title": "무조건 절세되는 줄 알았더니 세금 더 낸다?…잘못 담으면 손해 보는 'ETF' [재테크 풍향계]", "source": "아시아경제"}
+{"date": "2026-08-23", "title": "미 달러화 약세…유럽 PMI 호조 속 국제유가 하락", "source": "연합인포맥스"}
+{"date": "2026-08-23", "title": "미국발 매크로 악재 vs 삼전닉스 주주환원 호재…증시 어디로 갈까?", "source": "한국경제·증권"}
+{"date": "2026-08-23", "title": "미군 &quot;5월 이후 호르무즈 통과 지원한 석유 6억6천만 배럴&quot;", "source": "연합인포맥스"}
+{"date": "2026-08-23", "title": "미래대응기금 추진에 지방교부세도 조정…지자체 몫 줄어드나", "source": "연합뉴스·경제"}
+{"date": "2026-08-23", "title": "미래대응기금, 국회 문턱 넘어설까…'채무 상환·정부 쌈짓돈' 공방", "source": "뉴시스·경제"}
+{"date": "2026-08-23", "title": "미래에셋증권 \"미래에셋 IMA 4호, 선착순 모집\"", "source": "아시아경제"}
+{"date": "2026-08-23", "title": "민병덕 \"디지털자산기본법 하반기 반드시 통과\"…국회서 간담회", "source": "연합뉴스·경제"}
+{"date": "2026-08-23", "title": "바이백 통한 유동성 착시 진짜 문제는 해결되지 않았다", "source": "연합인포맥스"}
+{"date": "2026-08-23", "title": "반도체 쏠림에 잊혀졌던 조선주…실적·수주 돛 달고 다시 뜬다", "source": "한국경제·증권"}
+{"date": "2026-08-23", "title": "반도체에 밀린 'K라면'…하반기 불타 오르나", "source": "아시아경제"}
+{"date": "2026-08-23", "title": "법무부, 외국인 계절근로자 인권침해 위반사항 663건 적발", "source": "연합뉴스·경제"}
+{"date": "2026-08-23", "title": "베트남에 녹아든 오리온..\"브랜드 자체로 아우라, 꾸준히 사랑받길\"", "source": "머니투데이·증권"}
+{"date": "2026-08-23", "title": "부산 동구, 북항환승센터 사업자에 공사 중지 통보", "source": "연합뉴스·경제"}
+{"date": "2026-08-23", "title": "부산시, 가덕도신공항 공사비 상승분 반영 대책 등 현안 논의", "source": "연합뉴스·경제"}
+{"date": "2026-08-23", "title": "불확실성에도 성장하는 사모신용…블루아울, 하반기 전망 '맑음'", "source": "아시아경제"}
+{"date": "2026-08-23", "title": "블루포인트·LG전자, 주방자동화 '프리키친랩' 시드투자", "source": "아시아경제"}
+{"date": "2026-08-23", "title": "비우량 채권시장 급격히 냉각…올해 BBB급 공모채 발행사 10곳뿐", "source": "연합뉴스·경제"}
+{"date": "2026-08-23", "title": "비트코인 불 뿜었다…두달 만에 1억원 돌파", "source": "한국경제·경제"}
+{"date": "2026-08-23", "title": "빅4 회계기업 \"AI로 돈 번다\"", "source": "머니투데이·증권"}
+{"date": "2026-08-23", "title": "빅히트 뮤직, 온·오프라인 글로벌 오디션 개최", "source": "머니투데이·증권"}
+{"date": "2026-08-23", "title": "빗썸, 앱 없이 가능한 KB국민은행 계설 서비스 도입", "source": "아시아경제"}
+{"date": "2026-08-23", "title": "사람 떠나자 버스 끊겼다…전국 법정리(里) 45%가 '소멸 위기'", "source": "뉴시스·경제"}
+{"date": "2026-08-23", "title": "사상 최고치 찍었는데 전문가들 \"더 오른다\"…AI 시대 주목받는 원자재는", "source": "아시아경제"}
+{"date": "2026-08-23", "title": "사업비 20%, 국회 승인 없이 운용…정부 쌈짓돈 우려", "source": "한국경제·경제"}
+{"date": "2026-08-23", "title": "삼성 110조·하이닉스 40조+α…'금액보다 환원율' 따져보니", "source": "연합인포맥스"}
+{"date": "2026-08-23", "title": "삼성SDI, 4.5조 확보…디스플레이 지분 매각", "source": "한국경제·경제"}
+{"date": "2026-08-23", "title": "삼성전자 DX노조, 서초사옥서 집회", "source": "한국경제·경제"}
+{"date": "2026-08-23", "title": "삼성전자 최대 110조 주주환원 발표…우선주만 8% 급등 왜? [종목+]", "source": "한국경제·증권"}
+{"date": "2026-08-23", "title": "삼성전자, 110조+α 역대급 주주환원…성과급용 자사주 15조 매입", "source": "한국경제·증권"}
+{"date": "2026-08-23", "title": "삼성전자, 110조원 역대급 주주환원…SK하이닉스와 다른 점은?", "source": "한국경제·증권"}
+{"date": "2026-08-23", "title": "삼성전자, 3분기 30조원 현금배당", "source": "한국경제·경제"}
+{"date": "2026-08-23", "title": "삼성전자, 메모리 반도체 빅사이클 호재…목표가 31%↑-한화", "source": "머니투데이·증권"}
+{"date": "2026-08-23", "title": "삼성전자, 초미세공정서 '배선 저항' 45% 낮춘 기술 세계 최초 구현", "source": "한국경제·경제"}
+{"date": "2026-08-23", "title": "삼성전자, 최대 '110조 주주환원'…3분기 30조 현금배당", "source": "한국경제·증권"}
+{"date": "2026-08-23", "title": "삼전, 주주환원 기대에 3.9% 급등 마감…하닉도 2.3%↑", "source": "연합뉴스·경제"}
+{"date": "2026-08-23", "title": "삼전·하이닉스의 '역대급 주주환원'…'이것'까지 흔들린다는데[주末머니]", "source": "아시아경제"}
+{"date": "2026-08-23", "title": "삼전닉스 반등에도 투심은 '냉랭'…코스피 회전율 연중 최저", "source": "연합뉴스·경제"}
+{"date": "2026-08-23", "title": "삼전닉스 턱밑까지 쫓아온 中 YMTC…6.8조 실탄 마련 나선다", "source": "한국경제·경제"}
+{"date": "2026-08-23", "title": "삼정KPMG \"국내 PE 투자는 위축, 글로벌 PE는 활발\"", "source": "아시아경제"}
+{"date": "2026-08-23", "title": "상위 1%는 하이닉스 팔았다...삼성전자엔 베팅 “파운드리 흑자전환 기대”", "source": "한국경제·증권"}
+{"date": "2026-08-23", "title": "상위 대기업 세제혜택 82%↑…기업 총감면 증가분의 71%", "source": "연합뉴스·경제"}
+{"date": "2026-08-23", "title": "상장 3개월 만에 주가 2배↑·시총 1조↑…투자자 몰린 바이오주", "source": "머니투데이·증권"}
+{"date": "2026-08-23", "title": "상장 첫날부터 '따블'…KT·롯데카드 뚫리자 상한가 뚫는 보안주", "source": "머니투데이·증권"}
+{"date": "2026-08-23", "title": "상조회사에 고객이 맡긴 돈, 대주주 쌈짓돈처럼 못 쓴다", "source": "한국경제·경제"}
+{"date": "2026-08-23", "title": "서학개미, '삼전닉스' 라운드힐 ETF 한주간 1천억 샀다", "source": "연합뉴스·경제"}
+{"date": "2026-08-23", "title": "서해 꽃게 자원 양호한데 어획량은 감소 전망…어장 분산 영향", "source": "연합뉴스·경제"}
+{"date": "2026-08-23", "title": "석유 최고가격제 다시 동결…휘발유 1천784원·경유 1천773원", "source": "연합뉴스·경제"}
+{"date": "2026-08-23", "title": "성장률·학령인구 반영해 교육교부금 편성", "source": "한국경제·경제"}
+{"date": "2026-08-23", "title": "속도전 앞세운 '재정저수지' 미래기금…'국회 밖 곳간' 우려도(종합)", "source": "연합뉴스·경제"}
+{"date": "2026-08-23", "title": "수주 한 건도 없는데 \"1조 매출 내겠습니다\"…주주에 103억 손 벌린 '이 회사' [기로의상장사]아이에이①", "source": "아시아경제"}
+{"date": "2026-08-23", "title": "시니어 채용 나선 GS리테일...'더 라이프 스타일 박람회'서 채용 설명", "source": "머니투데이·증권"}
+{"date": "2026-08-23", "title": "시장은 당신의 매수가격을 기억하지 않습니다", "source": "연합인포맥스"}
+{"date": "2026-08-23", "title": "시타델, 'AI 예언자 펀드' 인수 후 80% 처분…\"블록딜 100건\"", "source": "뉴시스·경제"}
+{"date": "2026-08-23", "title": "시타델이 살렸다…금리 또 올랐지만 주가, 금, 코인 상승 [김현석의 월스트리트나우]", "source": "한국경제·증권"}
+{"date": "2026-08-23", "title": "신라면세점 인천공항 '담배·주류 사업권' 반납..롯데 다시 입성할까?", "source": "머니투데이·증권"}
+{"date": "2026-08-23", "title": "신용등급 상향 트리거 넘보는 롯데건설…투자자 경계 심리 '여전'", "source": "연합인포맥스"}
+{"date": "2026-08-23", "title": "신한운용, 원화 표시 '디지털 금융상품' 시대 연다…4자간 업무협약 체결", "source": "아시아경제"}
+{"date": "2026-08-23", "title": "씨엔티테크, AI 평가·솔루션 개발사 '인트'에 투자", "source": "아시아경제"}
+{"date": "2026-08-23", "title": "씨이랩, 신규 GPU 운용 진단 솔루션 'AstraMon' 공개", "source": "아시아경제"}
+{"date": "2026-08-23", "title": "아크릴, 의료 AI 풀스택 공개…\"병원 데이터부터 AI 에이전트까지 한 번에\"", "source": "아시아경제"}
+{"date": "2026-08-23", "title": "액면분할하고 거래 재개된 코미코 20%대 '급등'", "source": "한국경제·증권"}
+{"date": "2026-08-23", "title": "앤트로픽, 역대 최대 기업가치 '2조 달러' IPO 추진", "source": "연합인포맥스"}
+{"date": "2026-08-23", "title": "앱솔릭스, 4천11억원 유상증자…\"글라스기판 상업화 자금확보\"", "source": "연합뉴스·경제"}
+{"date": "2026-08-23", "title": "양육비 선지급제 첫 해, 예산 절반도 못 썼다…집행률 48%", "source": "뉴시스·경제"}
+{"date": "2026-08-23", "title": "에스투더블유, 상장 첫날 '따블' 성공", "source": "머니투데이·증권"}
+{"date": "2026-08-23", "title": "에이텀, 테슬라 사이버트럭 'ICCU 슬림화' 기술 고도화…LS오토모티브와 개발 추진", "source": "아시아경제"}
+{"date": "2026-08-23", "title": "엑시온그룹, '조선·플랜트 전문가' 최수현 대표 선임…매출 도약 승부수", "source": "아시아경제"}
+{"date": "2026-08-23", "title": "엔비디아 또 '사상 최대' 실적 예상…'수혜주'는 따로 있다는데[주末머니]", "source": "아시아경제"}
+{"date": "2026-08-23", "title": "엔비디아, 월가는 실적보다 '이것'에 더 관심 [박신영의 개장전 요것만]", "source": "한국경제·경제"}
+{"date": "2026-08-23", "title": "엔저 얼마나 심각하길래 '고물가'에 일본 현지 반응은", "source": "연합인포맥스"}
+{"date": "2026-08-23", "title": "엘앤케이바이오, 경추 케이지 'BluEX-C' FDA 추가 승인…\"글로벌 경쟁력 강화\"", "source": "아시아경제"}
+{"date": "2026-08-23", "title": "역대급 하락장을 버텨냈다면 반등장을 기대해보자", "source": "한국경제·증권"}
+{"date": "2026-08-23", "title": "연준의 극과 극 금리 전망에 혼란…그래도 비둘기파가 다수[오미주]", "source": "머니투데이·증권"}
+{"date": "2026-08-23", "title": "영풍·MBK \"서스틴베스트, 이사 선임 반대는 명백한 자기모순\"", "source": "아시아경제"}
+{"date": "2026-08-23", "title": "예금·달러·금 쌓고 주식투자는 '신중'…달라진 은행 자금 흐름", "source": "연합뉴스·경제"}
+{"date": "2026-08-23", "title": "예금부터 TDF, 자산배분펀드까지…퇴직연금 상품의 모든 것", "source": "한국경제·증권"}
+{"date": "2026-08-23", "title": "예탁원, 'KSD 원스톱 파이낸싱 서비스' 최초 계약 체결", "source": "아시아경제"}
+{"date": "2026-08-23", "title": "오세훈 \"용산공원에 임대주택? '훼손된 곳' 아니라 공원 예정지\"", "source": "연합뉴스·경제"}
+{"date": "2026-08-23", "title": "외국인, 국내주식 7개월 연속 '팔자'…7월 32조 순매도", "source": "아시아경제"}
+{"date": "2026-08-23", "title": "외국환시세(8월21일·15:30 기준가)", "source": "연합뉴스·경제"}
+{"date": "2026-08-23", "title": "우리기술, 85억원 규모 원전 제어시스템 공급계약 체결", "source": "아시아경제"}
+{"date": "2026-08-23", "title": "원/달러 환율 사흘째 1,300원대…원/엔 2년 2개월 만에 최저", "source": "연합뉴스·경제"}
+{"date": "2026-08-23", "title": "원·달러 환율, 6.1원 내린 1386.5원 (오후 3시30분)", "source": "아시아경제"}
+{"date": "2026-08-23", "title": "원·달러 환율, 이틀 연속 1300원대…수출업체 달러 매도·弱달러 지속", "source": "아시아경제"}
+{"date": "2026-08-23", "title": "원주의료기기산업진흥원, 몽골 시장 공략…원주기업 6곳 지원", "source": "연합뉴스·경제"}
+{"date": "2026-08-23", "title": "원화 거래소 외국인 회원 56만명…현금 25억·코인 303억 보유", "source": "연합뉴스·경제"}
+{"date": "2026-08-23", "title": "월덱스, DGIST와 'AI·반도체 동맹'…상반기 영업익 308억에 기술 고도화까지", "source": "아시아경제"}
+{"date": "2026-08-23", "title": "유가 90달러 돌파에도…정부, 석유 최고가격 4주 더 묶는다", "source": "한국경제·경제"}
+{"date": "2026-08-23", "title": "유언 vs 유언대용신탁 무엇이 나은가요", "source": "한국경제·경제"}
+{"date": "2026-08-23", "title": "이란 대통령 &quot;전세계 우리의 승리 인정…지금 전쟁을 끝내는 게 나아&quot;(종합)", "source": "연합인포맥스"}
+{"date": "2026-08-23", "title": "이란, 美 '역사상 최대 규모 경제 고립' 예고에 \"불법 경제전쟁\" 반발", "source": "뉴시스·경제"}
+{"date": "2026-08-23", "title": "이스라엘 공격받은 이란 사우스파르스 가스전…70% 복구", "source": "뉴시스·경제"}
+{"date": "2026-08-23", "title": "이엠앤아이, '경기도 제조로봇 이니셔티브' 도입실증 과제 주관기관 선정", "source": "머니투데이·증권"}
+{"date": "2026-08-23", "title": "인적분할하는 카카오, 카카오AI와 카카오X 중 어디를 사야할까?", "source": "한국경제·증권"}
+{"date": "2026-08-23", "title": "인지디스플레 \"NEXVINA에 168억원 출자\"", "source": "연합뉴스·경제"}
+{"date": "2026-08-23", "title": "인지컨트롤스 \"슬로바키아 계열사에 275억원 출자\"", "source": "연합뉴스·경제"}
+{"date": "2026-08-23", "title": "인천 7월 수출, 금 456% 늘고 석유제품 99% 줄어", "source": "연합뉴스·경제"}
+{"date": "2026-08-23", "title": "인천 재외동포타운 사업 '잡음'에 영종국제학교 '안갯속'", "source": "연합뉴스·경제"}
+{"date": "2026-08-23", "title": "인포시즈, 'AI 서밋 서울 앤 엑스포 2026' 참가", "source": "아시아경제"}
+{"date": "2026-08-23", "title": "일본업체보다 매력도 높은 '이 음식' 관련 주식[주末머니]", "source": "아시아경제"}
+{"date": "2026-08-23", "title": "일본처럼 될 줄 알았는데…'20년 만의 호황'에도 주가 '뚝' 백화점株 줍줍기회?[주末머니]", "source": "아시아경제"}
+{"date": "2026-08-23", "title": "임단협·원하청갈등 겹친 하투…차·철강·조선 파업 확산", "source": "연합뉴스·경제"}
+{"date": "2026-08-23", "title": "임실의 매운맛 제대로 보여줄게…매주 2t가량 일본 수출", "source": "연합뉴스·경제"}
+{"date": "2026-08-23", "title": "장애인고용공단·현대제철, '장애인 고용 통한 ESG 경영' MOU", "source": "연합뉴스·경제"}
+{"date": "2026-08-23", "title": "전세사기 막는 '안심신탁' 내달 시행…\"유인책 역부족\" 의견 우세", "source": "뉴시스·경제"}
+{"date": "2026-08-23", "title": "전원주, 2만원대에 산 SK하닉 1주도 안 팔았다…수익률 '9000%'", "source": "한국경제·경제"}
+{"date": "2026-08-23", "title": "전쟁 6개월·경제난 심화에…이란 지도부 \"전쟁 끝내야\"", "source": "뉴시스·경제"}
+{"date": "2026-08-23", "title": "절세기법 진화? 작년 가업상속공제 5천억 돌파…10년 새 16배로", "source": "연합뉴스·경제"}
+{"date": "2026-08-23", "title": "정신아 \"카카오AI 온디바이스로 승부…고용 100% 승계\"", "source": "연합뉴스·경제"}
+{"date": "2026-08-23", "title": "정점식, 암참회장에 \"한미 통상관계 다루는 정부 방식 아쉽다\"", "source": "연합뉴스·경제"}
+{"date": "2026-08-23", "title": "제주 음식점·숙박업도 청년 채용하면 인건비 지원", "source": "연합뉴스·경제"}
+{"date": "2026-08-23", "title": "주 4.5일제 시동 걸자 \"불기둥\"…로봇주 들썩이자 나온 '경고'", "source": "머니투데이·증권"}
+{"date": "2026-08-23", "title": "주유소 기름값 14주째 내려…휘발유·경유 1천800원 중반대", "source": "연합뉴스·경제"}
+{"date": "2026-08-23", "title": "주주환원 효과 빛났다…코스피, 삼전닉스 강세에 6900선 회복", "source": "한국경제·증권"}
+{"date": "2026-08-23", "title": "주택공급 화약고 태릉CC…이번엔 본궤도 오를까[주택공급 시험대②]", "source": "뉴시스·경제"}
+{"date": "2026-08-23", "title": "중견기업 투자 역량 강화…삼일PwC, 리더스 포럼 개강", "source": "아시아경제"}
+{"date": "2026-08-23", "title": "중국 AI의 미래가 여기에?…연초 대비 58% 뛴 14억명의 플랫폼", "source": "머니투데이·증권"}
+{"date": "2026-08-23", "title": "중국가전 드리미 \"정보보호·AS 강화해 한국소비자에 다가갈 것\"", "source": "연합뉴스·경제"}
+{"date": "2026-08-23", "title": "중금리대출, 2금융권 총량 100% 제외…중저신용자 지원 인센티브", "source": "연합뉴스·경제"}
+{"date": "2026-08-23", "title": "지방이전 기로 금감원 매년 100명 넘게 퇴직…20∼40대 이탈 40%", "source": "연합뉴스·경제"}
+{"date": "2026-08-23", "title": "지출구조조정 50조+α로 커진다…교부금 감축 교육부엔 인센티브", "source": "연합뉴스·경제"}
+{"date": "2026-08-23", "title": "진에어·에어부산·에어서울, 내년 3월 '통합 진에어'로 출범", "source": "한국경제·경제"}
+{"date": "2026-08-23", "title": "집 지을 것인가, 공원 지킬 것인가…용산공원 '뜨거운 감자'[주택공급 시험대①]", "source": "뉴시스·경제"}
+{"date": "2026-08-23", "title": "집단대출 풀고 주담대는 조이고…가계대출 관리 '새 문법'", "source": "연합뉴스·경제"}
+{"date": "2026-08-23", "title": "쪼그라드는 곳간…특수교육·노후학교 개선 차질 우려[교부금 대수술②]", "source": "뉴시스·경제"}
+{"date": "2026-08-23", "title": "창립 55주년 한샘 '쌤페스타'..\"전국 매장서 최대 85% 할인\"", "source": "머니투데이·증권"}
+{"date": "2026-08-23", "title": "창원상의, 병무청에 비수도권 산업기능·전문연구요원 확대 건의", "source": "연합뉴스·경제"}
+{"date": "2026-08-23", "title": "첨단전략산업 육성에 15조 채권 발행…기업 대출금리 영향은?", "source": "머니투데이·증권"}
+{"date": "2026-08-23", "title": "청년은 하루를 어떻게 보내는가?…취업 상태별 현격 차이", "source": "연합뉴스·경제"}
+{"date": "2026-08-23", "title": "청약 경쟁률 36개월만에 최저…서울로 몰리고 지방은 '미달'", "source": "뉴시스·경제"}
+{"date": "2026-08-23", "title": "체납 번호판 영치 막은 본드 꼼수…도봉구 '바퀴 자물쇠'로 대응", "source": "연합뉴스·경제"}
+{"date": "2026-08-23", "title": "최상위 근로소득자 실효세율 38%…양도세보다 12%p 높아", "source": "연합뉴스·경제"}
+{"date": "2026-08-23", "title": "칠천피 문턱 코스피…안착은 여기에 달렸다는데", "source": "아시아경제"}
+{"date": "2026-08-23", "title": "카카오 \"지주사 전환 계획 없어…김범수 창업자 대주주 역할 그대로\"", "source": "아시아경제"}
+{"date": "2026-08-23", "title": "카카오 \"카카오X 지주사 전환 계획 없다\"…인적분할 후 독립경영", "source": "연합뉴스·경제"}
+{"date": "2026-08-23", "title": "카카오 \"카카오X 지주사 전환 없다\"…AI·투자 독립경영(종합)", "source": "연합뉴스·경제"}
+{"date": "2026-08-23", "title": "카카오 창사 이래 최대 재편…'카카오 디스카운트' 깬다(종합)", "source": "연합뉴스·경제"}
+{"date": "2026-08-23", "title": "카카오 창사 이래 최대 재편…AI 집중하고 '저평가' 깬다", "source": "연합뉴스·경제"}
+{"date": "2026-08-23", "title": "카카오, 왜 물적 아닌 인적분할 택했나…핵심은 '주주가치'", "source": "연합뉴스·경제"}
+{"date": "2026-08-23", "title": "캐나다 총리 &quot;9월 8일부터 美에 보복 관세…철강·가전·유제품 집중&quot;", "source": "연합인포맥스"}
+{"date": "2026-08-23", "title": "케이크 자르는 순간 드러나는 '반전'…SNS가 바꾼 디저트", "source": "한국경제·경제"}
+{"date": "2026-08-23", "title": "코스닥 800선 붕괴...코스피는 반도체 상승에 힘입어 6800선 회복", "source": "한국경제·증권"}
+{"date": "2026-08-23", "title": "코스닥 급락에 매도 사이드카 발동", "source": "아시아경제"}
+{"date": "2026-08-23", "title": "코스닥, 16.43P 오른 840.89 마감(1.99%↑)", "source": "아시아경제"}
+{"date": "2026-08-23", "title": "코스닥, 16.84P 내린 824.05 출발(2.00%↓)", "source": "아시아경제"}
+{"date": "2026-08-23", "title": "코스닥, 19.53P 오른 843.99 출발(2.37%↑)", "source": "아시아경제"}
+{"date": "2026-08-23", "title": "코스닥, 38.95P 내린 801.94 마감(4.63%↓)", "source": "아시아경제"}
+{"date": "2026-08-23", "title": "코스피 1.35% 내린 6759.95 출발…코스닥은 824.05", "source": "한국경제·증권"}
+{"date": "2026-08-23", "title": "코스피 6% 뛰자 인버스 쓸어담은 초고수...순매수 1위 종목은 '이것'", "source": "한국경제·증권"}
+{"date": "2026-08-23", "title": "코스피 급등에 매수 사이드카…SK하이닉스 10%대 ↑", "source": "아시아경제"}
+{"date": "2026-08-23", "title": "코스피 장중 최고치 경신하고 숨고르기…외국인·기관 매도", "source": "머니투데이·증권"}
+{"date": "2026-08-23", "title": "코스피, 0.88% 오른 6912.95…코스닥, 4%대 하락 마감", "source": "한국경제·증권"}
+{"date": "2026-08-23", "title": "코스피, 1%대 하락…코스닥도 약세", "source": "아시아경제"}
+{"date": "2026-08-23", "title": "코스피, 209.17P 오른 6680.34 출발(3.23%↑)", "source": "아시아경제"}
+{"date": "2026-08-23", "title": "코스피, 381.41P 오른 6852.58 마감(5.89%↑)", "source": "아시아경제"}
+{"date": "2026-08-23", "title": "코스피, 6%대 급등…하이닉스 13%·삼성전자 8%↑", "source": "아시아경제"}
+{"date": "2026-08-23", "title": "코스피, 60.37P 오른 6912.95 마감(0.88%↑)", "source": "아시아경제"}
+{"date": "2026-08-23", "title": "코스피, 6900선 회복…코스닥은 4.6% 급락", "source": "아시아경제"}
+{"date": "2026-08-23", "title": "코스피, 92.63P 내린 6759.95 출발(1.35%↓)", "source": "아시아경제"}
+{"date": "2026-08-23", "title": "코스피, 삼전닉스 급등하며 5%대 상승 마감", "source": "아시아경제"}
+{"date": "2026-08-23", "title": "코스피, 삼전닉스 업고 장 초반 3% 급등…코스닥도 강세", "source": "아시아경제"}
+{"date": "2026-08-23", "title": "크레버스, 퓨리오사AI와 교육AI 인프라 통합 업무협약 체결", "source": "머니투데이·증권"}
+{"date": "2026-08-23", "title": "크레오에스지, 모더나 암백신 3상 '잭팟'에 주목…'백신→항암' 플랫폼 부각", "source": "아시아경제"}
+{"date": "2026-08-23", "title": "키움증권, '키움 모험자본창업투자 ETN' 신규 상장", "source": "아시아경제"}
+{"date": "2026-08-23", "title": "키움증권, '키움 콥데이' 행사 성료…국내 주요 기관투자자 초청", "source": "머니투데이·증권"}
+{"date": "2026-08-23", "title": "키움증권, 22일 고척돔서 '파트너데이'…'실착 유니폼' 추첨도", "source": "아시아경제"}
+{"date": "2026-08-23", "title": "태성, 올해 누적 수주액 1800억원…\"고사양 기판 성장\"", "source": "아시아경제"}
+{"date": "2026-08-23", "title": "텍사스가 새 금융거점?…\"월가, 맘다니 피해 '욜스트리트'로\"", "source": "연합뉴스·경제"}
+{"date": "2026-08-23", "title": "통화옵션시장에서도 짙어지는 달러-원 하락 베팅", "source": "연합인포맥스"}
+{"date": "2026-08-23", "title": "투기세력 '엔화 쇼트' 다시 늘었다…3주 만에 감소세 중단", "source": "연합인포맥스"}
+{"date": "2026-08-23", "title": "트럼프 &quot;이란 합의할 준비 안 돼…'40조弗' 국가부채 성장이 쉽게 해결&quot;", "source": "연합인포맥스"}
+{"date": "2026-08-23", "title": "트럼프 &quot;호르무즈 해협, 현재 미국 영토&quot;", "source": "연합인포맥스"}
+{"date": "2026-08-23", "title": "파라타항공, 장거리 노선 취항 앞두고 '기내 초고속 와이파이' 도입", "source": "한국경제·경제"}
+{"date": "2026-08-23", "title": "폴라리스AI, 키플링 '확 바꾼다'…키링·에코백 앞세워 MZ세대 공략", "source": "아시아경제"}
+{"date": "2026-08-23", "title": "프랭클린템플턴 \"연준 고용시장 둔화 우려…향후 경제지표 따라 대응할 듯\"", "source": "머니투데이·증권"}
+{"date": "2026-08-23", "title": "하나은행, 국내은행 최초 RFI와 원화스와프 체결", "source": "연합뉴스·경제"}
+{"date": "2026-08-23", "title": "하루 2000석 줄어든 제주 국내선…제주도, 관광 위축에 공급 안정화 총력", "source": "한국경제·경제"}
+{"date": "2026-08-23", "title": "하이닉스 40조 자사주 중개 소식에…SK증권 연이틀 '급등'", "source": "한국경제·증권"}
+{"date": "2026-08-23", "title": "하이닉스의 특별배당 발표일 추측 '이때'를 기억하세요", "source": "연합인포맥스"}
+{"date": "2026-08-23", "title": "하이라이트브랜즈, 코닥어패럴 북촌 플래그십 오픈", "source": "아시아경제"}
+{"date": "2026-08-23", "title": "하이로닉, 시너젯 프로 주요 병·의원 공급 시작", "source": "아시아경제"}
+{"date": "2026-08-23", "title": "한국 7월 EU 철강 수출 41%↓…신철강조치 영향 일부 반영", "source": "연합뉴스·경제"}
+{"date": "2026-08-23", "title": "한국 배터리주는 아직인데…최고가 새로 쓴 CATL의 이유[차이나는 중국]", "source": "머니투데이·증권"}
+{"date": "2026-08-23", "title": "한국 이어 日·브라질도 3배…美서 '국가 레버리지' 확산 [한경 프리미엄9 TODAY]", "source": "한국경제·증권"}
+{"date": "2026-08-23", "title": "한국 이어 일본·대만·브라질도 3배…美서 '국가 레버리지' 확산", "source": "한국경제·증권"}
+{"date": "2026-08-23", "title": "한국거래소 \"카카오, 분할 재상장 예비심사 신청\"", "source": "연합뉴스·경제"}
+{"date": "2026-08-23", "title": "한국거래소, 하이닉스에 '日 반도체 공장' 보도 조회공시 요구", "source": "한국경제·증권"}
+{"date": "2026-08-23", "title": "한국예탁결제원 '2025년 실기주과실 찾아주기 캠페인' 개최", "source": "머니투데이·증권"}
+{"date": "2026-08-23", "title": "한국이 낳았지만 독일이 키웠다…인기 폭발한 'K화장품' 뭐길래", "source": "한국경제·경제"}
+{"date": "2026-08-23", "title": "한국첨단소재, IBM 이어 아이온큐까지…'코리아퀀텀' 양자컴퓨터 교차검증", "source": "아시아경제"}
+{"date": "2026-08-23", "title": "한솔홈데코, '톤맞춤 인테리어'로 집안 전체를 하나로 통일", "source": "머니투데이·증권"}
+{"date": "2026-08-23", "title": "한신평 \"SK하이닉스 대규모 주주환원, 신용도 영향 제한적\"", "source": "아시아경제"}
+{"date": "2026-08-23", "title": "한신평 \"롯데카드, 개인정보유출로 중장기 신용도 타격\"", "source": "머니투데이·증권"}
+{"date": "2026-08-23", "title": "한은, 올해 성장률 전망치 3%대 초중반으로 높일 듯", "source": "연합뉴스·경제"}
+{"date": "2026-08-23", "title": "한일 재무차관회의…세계 경제·금융시장 정책 대응 현황 공유", "source": "연합뉴스·경제"}
+{"date": "2026-08-23", "title": "한투운용, ACE 고배당주Plus커버드콜액티브 개인순매수 1000억 돌파", "source": "아시아경제"}
+{"date": "2026-08-23", "title": "한화운용, '한화 고배당주플러스랩' 변동장서 방어력 입증", "source": "아시아경제"}
+{"date": "2026-08-23", "title": "행정공제회, 'POBA 김창옥 토크쇼' 개최…이사장 취임 후 첫 회원복지 행사", "source": "아시아경제"}
+{"date": "2026-08-23", "title": "현대證, 최고 연 20% ELS 및 DLS 4종 공모", "source": "아시아경제"}
+{"date": "2026-08-23", "title": "호텔신라, 인천공항 면세점 철수에…면세주 강세", "source": "머니투데이·증권"}
+{"date": "2026-08-23", "title": "홈플러스 전단채 피해자 '선 배상' 무게…\"제재심도 신속 부의\"", "source": "연합뉴스·경제"}
+{"date": "2026-08-23", "title": "홍은·부천 등 분양…하월곡·성남 등 견본주택[분양캘린더]", "source": "뉴시스·경제"}
+{"date": "2026-08-23", "title": "환율안정 배경에 수출기업 '뭉칫돈'…달러 순매도 1년새 4배로↑", "source": "연합뉴스·경제"}
+{"date": "2026-08-23", "title": "휘발유 1784원·경유 1773원…석유 최고가격제 동결", "source": "한국경제·경제"}

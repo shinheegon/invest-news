@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-08-22T08:02:33+09:00",
+ "updatedAt": "2026-08-23T07:59:25+09:00",
  "cases": [
   {
    "name": "원익홀딩스(030530)",
@@ -34995,6 +34995,223 @@
     "⚠️열세테마"
    ],
    "convStampedAt": "2026-08-20"
+  },
+  {
+   "name": "이엠앤아이(083470)",
+   "type": "leading",
+   "market": "韓",
+   "flagDate": "2026-08-23",
+   "signals": [
+    "국책과제선정재확인",
+    "반복포착8일째",
+    "급락일매몰"
+   ],
+   "theme": "로봇/휴머노이드",
+   "status": "pending",
+   "checks": [],
+   "flagPrice": 986,
+   "priceLog": [
+    {
+     "date": "2026-08-21",
+     "price": 986
+    }
+   ],
+   "convScore": 7,
+   "convTier": "high",
+   "convSignals": [
+    "반복포착",
+    "승세테마",
+    "구체촉발재"
+   ],
+   "convStampedAt": "2026-08-23"
+  },
+  {
+   "name": "에이텀(355690)",
+   "type": "leading",
+   "market": "韓",
+   "flagDate": "2026-08-23",
+   "signals": [
+    "테슬라사이버트럭ICCU공동개발",
+    "구체촉발재"
+   ],
+   "theme": "AI전력변환",
+   "status": "pending",
+   "checks": [],
+   "flagPrice": 4805,
+   "priceLog": [
+    {
+     "date": "2026-08-21",
+     "price": 4805
+    }
+   ],
+   "convScore": 0,
+   "convTier": "low",
+   "convSignals": [
+    "반복포착",
+    "⚠️열세테마"
+   ],
+   "convStampedAt": "2026-08-23"
+  },
+  {
+   "name": "알에스오토메이션(140670)",
+   "type": "leading",
+   "market": "韓",
+   "flagDate": "2026-08-23",
+   "signals": [
+    "매출78%증가확인",
+    "조기포착"
+   ],
+   "theme": "로봇/휴머노이드",
+   "status": "pending",
+   "checks": [],
+   "flagPrice": 9680,
+   "priceLog": [
+    {
+     "date": "2026-08-21",
+     "price": 9680
+    }
+   ],
+   "convScore": 5,
+   "convTier": "high",
+   "convSignals": [
+    "반복포착",
+    "승세테마"
+   ],
+   "convStampedAt": "2026-08-23"
+  },
+  {
+   "name": "재영솔루텍(049630)",
+   "type": "discovery",
+   "market": "韓",
+   "flagDate": "2026-08-23",
+   "signals": [
+    "로봇액추에이터확장",
+    "조기출몰"
+   ],
+   "theme": "로봇/모빌리티",
+   "status": "pending",
+   "checks": [],
+   "flagPrice": 7360,
+   "priceLog": [
+    {
+     "date": "2026-08-21",
+     "price": 7360
+    }
+   ],
+   "convScore": 5,
+   "convTier": "high",
+   "convSignals": [
+    "반복포착",
+    "승세테마"
+   ],
+   "convStampedAt": "2026-08-23"
+  },
+  {
+   "name": "정원엔시스(045510)",
+   "type": "discovery",
+   "market": "韓",
+   "flagDate": "2026-08-23",
+   "signals": [
+    "AI인프라매출급증",
+    "조기출몰"
+   ],
+   "theme": "AI데이터센터/GPU인프라",
+   "status": "pending",
+   "checks": [],
+   "flagPrice": 1078,
+   "priceLog": [
+    {
+     "date": "2026-08-21",
+     "price": 1078
+    }
+   ],
+   "convScore": 0,
+   "convTier": "low",
+   "convSignals": [
+    "반복포착",
+    "⚠️열세테마"
+   ],
+   "convStampedAt": "2026-08-23"
+  },
+  {
+   "name": "삼성전자(005930)",
+   "type": "warning",
+   "market": "韓",
+   "flagDate": "2026-08-23",
+   "signals": [
+    "110조주주환원발표후급등",
+    "sell-on-news"
+   ],
+   "theme": "반도체",
+   "status": "pending",
+   "checks": [],
+   "flagPrice": 281500,
+   "priceLog": [
+    {
+     "date": "2026-08-21",
+     "price": 281500
+    }
+   ]
+  },
+  {
+   "name": "SK하이닉스(000660)",
+   "type": "warning",
+   "market": "韓",
+   "flagDate": "2026-08-23",
+   "signals": [
+    "40조자사주매입발표후급등",
+    "sell-on-news"
+   ],
+   "theme": "반도체",
+   "status": "pending",
+   "checks": [],
+   "flagPrice": 1730000,
+   "priceLog": [
+    {
+     "date": "2026-08-21",
+     "price": 1730000
+    }
+   ]
+  },
+  {
+   "name": "진에어(272450)",
+   "type": "warning",
+   "market": "韓",
+   "flagDate": "2026-08-23",
+   "signals": [
+    "LCC3사통합3일연속보도",
+    "이미반영"
+   ],
+   "theme": "항공",
+   "status": "pending",
+   "checks": [],
+   "flagPrice": 5170,
+   "priceLog": [
+    {
+     "date": "2026-08-21",
+     "price": 5170
+    }
+   ]
+  },
+  {
+   "name": "금호건설(002990)",
+   "type": "warning",
+   "market": "韓",
+   "flagDate": "2026-08-23",
+   "signals": [
+    "삼성전자플랙트수주후11%급등",
+    "이미반영"
+   ],
+   "theme": "건설",
+   "status": "pending",
+   "checks": [],
+   "flagPrice": 14750,
+   "priceLog": [
+    {
+     "date": "2026-08-21",
+     "price": 14750
+    }
+   ]
   }
  ],
  "stats": {
@@ -35004,8 +35221,8 @@
   "miss": 114,
   "hitRate": 25.0,
   "avgD3ChangePct": 0.58,
-  "pending": 33,
-  "total": 293,
+  "pending": 42,
+  "total": 302,
   "byType": {
    "leading": {
     "verified": 115,
