@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-08-23T20:04:13+09:00",
+ "updatedAt": "2026-08-24T08:00:35+09:00",
  "cases": [
   {
    "name": "원익홀딩스(030530)",
@@ -35212,6 +35212,179 @@
      "price": 14750
     }
    ]
+  },
+  {
+   "name": "이엠앤아이(481070)",
+   "type": "leading",
+   "market": "韓",
+   "flagDate": "2026-08-24",
+   "signals": [
+    "과제주관기관선정",
+    "정부실증선정",
+    "경기도제조로봇이니셔티브재선정",
+    "반복포착2개월간격"
+   ],
+   "theme": "로봇/휴머노이드",
+   "status": "pending",
+   "checks": [],
+   "flagPrice": 16790,
+   "priceLog": [
+    {
+     "date": "2026-08-21",
+     "price": 16790
+    }
+   ],
+   "convScore": 7,
+   "convTier": "high",
+   "convSignals": [
+    "반복포착",
+    "승세테마",
+    "구체촉발재"
+   ],
+   "convStampedAt": "2026-08-24"
+  },
+  {
+   "name": "HL홀딩스(060980)",
+   "type": "leading",
+   "market": "韓",
+   "flagDate": "2026-08-24",
+   "signals": [
+    "실증완료",
+    "정책수혜",
+    "상용화예정",
+    "수주확대",
+    "자사주소각"
+   ],
+   "theme": "로봇/휴머노이드",
+   "status": "pending",
+   "checks": [],
+   "flagPrice": 38650,
+   "priceLog": [
+    {
+     "date": "2026-08-21",
+     "price": 38650
+    }
+   ],
+   "convScore": 7,
+   "convTier": "high",
+   "convSignals": [
+    "반복포착",
+    "승세테마",
+    "구체촉발재"
+   ],
+   "convStampedAt": "2026-08-24"
+  },
+  {
+   "name": "케이쓰리아이(431190)",
+   "type": "leading",
+   "market": "韓",
+   "flagDate": "2026-08-24",
+   "signals": [
+    "구체촉발재(엔비디아옴니버스연동)",
+    "테마첫거론",
+    "선행점수Top3"
+   ],
+   "theme": "피지컬AI/AI미들웨어",
+   "status": "pending",
+   "checks": [],
+   "flagPrice": 2780,
+   "priceLog": [
+    {
+     "date": "2026-08-21",
+     "price": 2780
+    }
+   ],
+   "convScore": 1,
+   "convTier": "low",
+   "convSignals": [
+    "반복포착",
+    "⚠️약신호"
+   ],
+   "convStampedAt": "2026-08-24"
+  },
+  {
+   "name": "다이나믹솔루션(070120)",
+   "type": "discovery",
+   "market": "韓",
+   "flagDate": "2026-08-24",
+   "signals": [
+    "반복포착",
+    "승세테마",
+    "조기출몰"
+   ],
+   "theme": "휴머노이드(로봇손)",
+   "status": "pending",
+   "checks": [],
+   "convScore": 5,
+   "convTier": "high",
+   "convSignals": [
+    "반복포착",
+    "승세테마"
+   ],
+   "convStampedAt": "2026-08-24"
+  },
+  {
+   "name": "씨메스로보틱스(475400)",
+   "type": "warning",
+   "market": "韓",
+   "flagDate": "2026-08-24",
+   "signals": [
+    "누적27회",
+    "매체재조명",
+    "이미반영우려"
+   ],
+   "theme": "로봇/휴머노이드",
+   "status": "pending",
+   "checks": [],
+   "flagPrice": 18340,
+   "priceLog": [
+    {
+     "date": "2026-08-21",
+     "price": 18340
+    }
+   ]
+  },
+  {
+   "name": "대동기어(008830)",
+   "type": "warning",
+   "market": "韓",
+   "flagDate": "2026-08-24",
+   "signals": [
+    "누적26회",
+    "6주반복노출",
+    "진입늦음우려"
+   ],
+   "theme": "로봇/휴머노이드",
+   "status": "pending",
+   "checks": [],
+   "flagPrice": 5730,
+   "priceLog": [
+    {
+     "date": "2026-08-21",
+     "price": 5730
+    }
+   ]
+  },
+  {
+   "name": "아이엘(307180)",
+   "type": "warning",
+   "market": "韓",
+   "flagDate": "2026-08-24",
+   "signals": [
+    "cross-signal score7",
+    "누적16회",
+    "이미부상단계"
+   ],
+   "theme": "로봇/휴머노이드",
+   "status": "pending",
+   "checks": [],
+   "flagPrice": 6000,
+   "priceLog": [
+    {
+     "date": "2026-08-21",
+     "price": 6000
+    }
+   ]
   }
  ],
  "stats": {
@@ -35221,8 +35394,8 @@
   "miss": 114,
   "hitRate": 25.0,
   "avgD3ChangePct": 0.58,
-  "pending": 42,
-  "total": 302,
+  "pending": 49,
+  "total": 309,
   "byType": {
    "leading": {
     "verified": 115,
