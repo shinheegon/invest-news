@@ -1,23 +1,23 @@
 {
-  "updatedAt": "2026-08-23T07:35:00+09:00", "session": "AM",
-  "note": "오늘(8/23)은 일요일 — 한국·미국 증시 모두 휴장(주말 이틀째). 지표는 직전 거래일(美 8/21 금·韓 8/21 금) 마감치가 그대로 유지된다. 美 증시는 8/20(목) 월마트 실적쇼크發 급락(다우 -703p)을 8/21(금) 저가매수로 대부분 만회(다우 +0.98%, S&P·나스닥 +0.43%)했고, 테슬라는 네바다주 로보택시 5,000대 운행 승인에 +5%대 급등. 국내는 삼성전자 110조+α 사상 최대 주주환원(3분기 30조 현금배당+15조 자사주매입) + SK하이닉스 40조 자사주 매입에 코스피가 +0.88%(6,912.95) 마감했으나 코스닥은 -4.63%(801.94) 급락하며 매도 사이드카가 발동돼 디커플링이 이어졌다. 금값은 온스당 4,600달러에 근접하며 사상 최고권. 다음 거래일은 8/24(월).",
-  "stock_fng": { "value": 52, "label": "Neutral", "source": "https://www.cnn.com/markets/fear-and-greed" },
+  "updatedAt": "2026-08-23T19:40:00+09:00", "session": "PM",
+  "note": "오늘(8/23)은 일요일 — 한국·미국 증시 모두 휴장(주말 이틀째, 다음 거래일 8/24 월). 지표는 직전 거래일(美·韓 8/21 금) 마감치가 유지된다. 주말 사이 새 재료: ①美·캐나다 무역협상 결렬 — 캐나다가 9/8부터 철강·가전·유제품에 보복관세 예고, 트럼프는 \"관세전쟁, 양측 모두 치명타\" 인정. ②엔비디아, 애플·퀄컴에 이어 AI칩 가격 15% 인상 예고 — '칩플레이션' 심화가 삼성전자·SK하이닉스 협상력 강화로 해석. ③이란, 트럼프의 '역사상 최대 경제고립' 예고에 \"불법 경제전쟁\"이라며 반발, 호르무즈 갈등 6개월째 장기화. ④이번주(8/25~29) 잭슨홀 심포지엄서 케빈 워시 신임 연준의장 첫 기조연설(8/28, 韓 8/29 새벽)·엔비디아 실적(8/26 美장마감후, 韓 8/27 오전)·한은 금통위(8/27, 25bp 인상 컨센서스)가 연쇄 대기 중.",
+  "stock_fng": { "value": 55, "label": "Greed", "source": "https://finance.yahoo.com/markets/stocks/articles/fear-greed-index-flipped-greed-191530552.html" },
   "indices": [
     { "name": "코스피", "value": "6,912.95", "change": "+0.88%(+60.37p, 8/21 마감·삼전닉스 강세, 다음 거래일 8/24 월)", "source": "https://www.hankyung.com/article/2026082150696" },
     { "name": "코스닥", "value": "801.94", "change": "-4.63%(-38.95p, 8/21 마감·매도 사이드카)", "source": "https://www.hankyung.com/article/2026082141836" },
     { "name": "다우존스", "value": "53,277.01", "change": "+0.98%(8/21 마감·저가매수 반등)", "source": "https://www.fool.com/coverage/stock-market-today/2026/08/21/stock-market-today-aug-21-tesla-gains-on-nevada-robotaxi-permit-approval/" },
     { "name": "S&P 500", "value": "7,674.37", "change": "+0.43%(8/21 마감)", "source": "https://finance.yahoo.com/markets/live/stock-market-today-friday-august-21-dow-sp-500-nasdaq-bitcoin-080533702.html" },
     { "name": "나스닥", "value": "26,180.45", "change": "+0.43%(8/21 마감)", "source": "https://finance.yahoo.com/markets/live/stock-market-today-friday-august-21-dow-sp-500-nasdaq-bitcoin-080533702.html" },
-    { "name": "VIX", "value": "16.01", "change": "8/20 종가 기준, 8/21 반등장서 진정 추세", "source": "https://www.cnbc.com/quotes/.VIX" },
-    { "name": "美 10년물", "value": "4.70%", "change": "이번주 4.75%터치(20개월래 최고)·국채 바이백 논란 지속", "source": "https://www.bloomberg.com/news/articles/2026-08-19/us-10-year-treasury-yield-will-top-5%25-this-year-markets-pulse" },
+    { "name": "VIX", "value": "16.01", "change": "8/21 종가권, 저가매수 반등 후 진정", "source": "https://www.cnbc.com/quotes/.VIX" },
+    { "name": "美 10년물", "value": "4.70%", "change": "이번주 4.75%터치(20개월래 최고)·국채 40조달러 돌파·재무부 바이백 확대(회당 20억→40억달러)에도 상승세 지속", "source": "https://www.cnbc.com/2026/08/19/us-government-debt-passes-40-trillion-mark-for-the-first-time.html" },
     { "name": "국고채 3년물", "value": "3.854%", "change": "+상승(금통위 경계감)", "source": "https://v.daum.net/v/20260821163005296" },
     { "name": "달러인덱스(DXY)", "value": "99.80", "change": "횡보", "source": "https://kr.investing.com/indices/usdollar" },
-    { "name": "원/달러", "value": "1,386.50", "change": "-6.1원(8/21 15:30 기준, 11개월래 최저권·원화강세)", "source": "https://www.yna.co.kr" },
+    { "name": "원/달러", "value": "1,386.50", "change": "-6.1원(8/21 15:30 기준, 11개월래 최저권·원화강세, 3거래일 연속 1,300원대)", "source": "https://www.hankyung.com/article/2026082371541" },
     { "name": "美 기준금리", "value": "3.50~3.75%", "change": "0(7월 FOMC 9-3 동결, 3인 인상 소수의견)", "source": "https://www.forbes.com/sites/tylerroush/2026/08/19/fed-minutes-signal-interest-rate-hikes-unless-inflation-improves/" },
-    { "name": "한국 기준금리", "value": "2.75%", "change": "0(8월 동결 후, 8/27 금통위서 25bp 인상 전망 유력)", "source": "https://www.fnnews.com/news/202607270700403375" },
+    { "name": "한국 기준금리", "value": "2.75%", "change": "0(8/27 금통위서 25bp 인상 유력 — 경제전문가 63% 인상 전망, 한투證 '만장일치 인상 후 4분기 동결' 전망)", "source": "https://www.hankyung.com/article/2026082371081" },
     { "name": "美 CPI", "value": "3.4%", "change": "0(7월, 예상부합, 코어 2.5%로 둔화)", "source": "https://www.cnbc.com/2026/08/12/cpi-inflation-report-july-2026.html" },
     { "name": "韓 CPI", "value": "2.8%", "change": "0", "source": "https://kbthink.com/investment/fx/monthly/260820.html" },
-    { "name": "금(Gold)", "value": "4,590", "change": "+1.6%(사상 최고권 근접, 4,600달러대 터치)", "source": "https://www.cnbc.com/select/the-price-of-gold-today-august-21-2026/" },
-    { "name": "WTI", "value": "82.40", "change": "이란 제재 여파 강세 지속", "source": "https://www.babypips.com/analysis/premium-strategy-wti-crude-oil-us-oil-2026-08-21" }
+    { "name": "금(Gold)", "value": "4,590", "change": "+4.6%(중국 등 중앙은행 매입 확대 속 사상 최고권 근접, 6/5 이후 최고 수준 재차 경신)", "source": "https://www.cnbc.com/select/the-price-of-gold-today-august-21-2026/" },
+    { "name": "WTI", "value": "82.40", "change": "이란 호르무즈 갈등 6개월째 장기화 여파 강세 지속", "source": "https://www.babypips.com/analysis/premium-strategy-wti-crude-oil-us-oil-2026-08-21" }
   ]
 }

@@ -1,15 +1,15 @@
 {
- "updatedAt": "2026-08-23T07:29:00+09:00",
+ "updatedAt": "2026-08-23T19:33:52+09:00",
  "note": "원본 헤드라인의 반복 언급을 탐지한 조사 후보이며 투자권유가 아니다. 동일 기사 재실행은 한 번만 집계하고, 순수 악재 반복과 모호한 회사명은 제외한다.",
  "window": 30,
- "corpusToday": 532,
- "trackedCompanies": 638,
+ "corpusToday": 734,
+ "trackedCompanies": 640,
  "companies": [
   {
    "code": "272450",
    "name": "진에어",
    "market": "KOSPI",
-   "cap": 2777,
+   "cap": 2699,
    "total": 16,
    "recent": 9,
    "activeDays": 7,
@@ -37,7 +37,7 @@
    "code": "298690",
    "name": "에어부산",
    "market": "KOSPI",
-   "cap": 2423,
+   "cap": 2393,
    "total": 9,
    "recent": 7,
    "activeDays": 5,
@@ -65,7 +65,7 @@
    "code": "149980",
    "name": "하이로닉",
    "market": "KOSDAQ",
-   "cap": 946,
+   "cap": 855,
    "total": 15,
    "recent": 5,
    "activeDays": 11,
@@ -93,7 +93,7 @@
    "code": "280360",
    "name": "롯데웰푸드",
    "market": "KOSPI",
-   "cap": 11902,
+   "cap": 11809,
    "total": 18,
    "recent": 4,
    "activeDays": 13,
@@ -121,7 +121,7 @@
    "code": "002990",
    "name": "금호건설",
    "market": "KOSPI",
-   "cap": 4993,
+   "cap": 5496,
    "total": 10,
    "recent": 5,
    "activeDays": 8,
@@ -149,7 +149,7 @@
    "code": "322510",
    "name": "제이엘케이",
    "market": "KOSDAQ",
-   "cap": 1338,
+   "cap": 1205,
    "total": 15,
    "recent": 3,
    "activeDays": 14,
@@ -177,7 +177,7 @@
    "code": "456010",
    "name": "아이씨티케이",
    "market": "KOSDAQ",
-   "cap": 2731,
+   "cap": 2374,
    "total": 18,
    "recent": 2,
    "activeDays": 17,
@@ -205,7 +205,7 @@
    "code": "170900",
    "name": "동아에스티",
    "market": "KOSPI",
-   "cap": 3745,
+   "cap": 3604,
    "total": 18,
    "recent": 2,
    "activeDays": 17,
@@ -233,7 +233,7 @@
    "code": "344820",
    "name": "KCC글라스",
    "market": "KOSPI",
-   "cap": 4033,
+   "cap": 3881,
    "total": 16,
    "recent": 2,
    "activeDays": 16,
@@ -258,10 +258,10 @@
    ]
   },
   {
-   "code": "290270",
-   "name": "휴네시온",
-   "market": "KOSDAQ",
-   "cap": 265,
+   "code": "007810",
+   "name": "코리아써키트",
+   "market": "KOSPI",
+   "cap": 13095,
    "total": 16,
    "recent": 2,
    "activeDays": 16,
@@ -289,7 +289,35 @@
    "code": "332570",
    "name": "PS일렉트로닉스",
    "market": "KOSDAQ",
-   "cap": 4923,
+   "cap": 4190,
+   "total": 16,
+   "recent": 2,
+   "activeDays": 16,
+   "firstSeen": "2026-07-26",
+   "lastSeen": "2026-08-23",
+   "score": 33.9,
+   "riskMentions": 0,
+   "catalystMentions": 0,
+   "samples": [
+    {
+     "date": "2026-08-23",
+     "title": "[고래사냥] 'LG전자, PS일렉트로닉스, 코리아써키트, 휴네시온!' 오늘 장 궁금종목 분석"
+    },
+    {
+     "date": "2026-08-21",
+     "title": "[고래사냥] 'LG전자, PS일렉트로닉스, 코리아써키트, 휴네시온!' 오늘 장 궁금종목 분석"
+    },
+    {
+     "date": "2026-08-20",
+     "title": "[고래사냥] 'LG전자, PS일렉트로닉스, 코리아써키트, 휴네시온!' 오늘 장 궁금종목 분석"
+    }
+   ]
+  },
+  {
+   "code": "290270",
+   "name": "휴네시온",
+   "market": "KOSDAQ",
+   "cap": 267,
    "total": 16,
    "recent": 2,
    "activeDays": 16,
@@ -317,7 +345,7 @@
    "code": "439580",
    "name": "블루엠텍",
    "market": "KOSDAQ",
-   "cap": 586,
+   "cap": 584,
    "total": 16,
    "recent": 2,
    "activeDays": 16,
@@ -345,7 +373,7 @@
    "code": "054920",
    "name": "한컴위드",
    "market": "KOSDAQ",
-   "cap": 1092,
+   "cap": 996,
    "total": 16,
    "recent": 2,
    "activeDays": 16,
@@ -401,7 +429,7 @@
    "code": "182360",
    "name": "큐브엔터",
    "market": "KOSDAQ",
-   "cap": 908,
+   "cap": 852,
    "total": 16,
    "recent": 2,
    "activeDays": 16,
@@ -429,7 +457,7 @@
    "code": "445090",
    "name": "에이직랜드",
    "market": "KOSDAQ",
-   "cap": 2573,
+   "cap": 2229,
    "total": 16,
    "recent": 2,
    "activeDays": 16,
@@ -450,34 +478,6 @@
     {
      "date": "2026-08-20",
      "title": "[수익 내비게이터] 국책과제 정부출연금 증가 추세…AI 반도체 기술력 입증 '에이직랜드' VS 글로벌 시장 프리미엄 가전 브랜드로 경쟁력 강화 'LG전자'"
-    }
-   ]
-  },
-  {
-   "code": "452160",
-   "name": "제이엔비",
-   "market": "KOSDAQ",
-   "cap": 329,
-   "total": 16,
-   "recent": 2,
-   "activeDays": 16,
-   "firstSeen": "2026-07-26",
-   "lastSeen": "2026-08-23",
-   "score": 33.9,
-   "riskMentions": 0,
-   "catalystMentions": 0,
-   "samples": [
-    {
-     "date": "2026-08-23",
-     "title": "[여의도 클라쓰] '제이엔비, 칩스앤미디어, 농심홀딩스' 클라쓰 올릴 종목은?"
-    },
-    {
-     "date": "2026-08-21",
-     "title": "[여의도 클라쓰] '제이엔비, 칩스앤미디어, 농심홀딩스' 클라쓰 올릴 종목은?"
-    },
-    {
-     "date": "2026-08-20",
-     "title": "[여의도 클라쓰] '제이엔비, 칩스앤미디어, 농심홀딩스' 클라쓰 올릴 종목은?"
     }
    ]
   },
@@ -485,7 +485,35 @@
    "code": "094360",
    "name": "칩스앤미디어",
    "market": "KOSDAQ",
-   "cap": 2402,
+   "cap": 2178,
+   "total": 16,
+   "recent": 2,
+   "activeDays": 16,
+   "firstSeen": "2026-07-26",
+   "lastSeen": "2026-08-23",
+   "score": 33.9,
+   "riskMentions": 0,
+   "catalystMentions": 0,
+   "samples": [
+    {
+     "date": "2026-08-23",
+     "title": "[여의도 클라쓰] '제이엔비, 칩스앤미디어, 농심홀딩스' 클라쓰 올릴 종목은?"
+    },
+    {
+     "date": "2026-08-21",
+     "title": "[여의도 클라쓰] '제이엔비, 칩스앤미디어, 농심홀딩스' 클라쓰 올릴 종목은?"
+    },
+    {
+     "date": "2026-08-20",
+     "title": "[여의도 클라쓰] '제이엔비, 칩스앤미디어, 농심홀딩스' 클라쓰 올릴 종목은?"
+    }
+   ]
+  },
+  {
+   "code": "452160",
+   "name": "제이엔비",
+   "market": "KOSDAQ",
+   "cap": 298,
    "total": 16,
    "recent": 2,
    "activeDays": 16,
@@ -513,7 +541,7 @@
    "code": "192250",
    "name": "케이사인",
    "market": "KOSDAQ",
-   "cap": 565,
+   "cap": 519,
    "total": 16,
    "recent": 2,
    "activeDays": 16,
@@ -541,7 +569,7 @@
    "code": "484810",
    "name": "티엑스알로보틱스",
    "market": "KOSDAQ",
-   "cap": 2702,
+   "cap": 2165,
    "total": 16,
    "recent": 2,
    "activeDays": 16,
@@ -569,7 +597,7 @@
    "code": "424960",
    "name": "스마트레이더시스템",
    "market": "KOSDAQ",
-   "cap": 686,
+   "cap": 618,
    "total": 16,
    "recent": 2,
    "activeDays": 16,
@@ -594,10 +622,10 @@
    ]
   },
   {
-   "code": "071280",
-   "name": "로체시스템즈",
+   "code": "226590",
+   "name": "엠디바이스",
    "market": "KOSDAQ",
-   "cap": 1078,
+   "cap": 1253,
    "total": 16,
    "recent": 2,
    "activeDays": 16,
@@ -622,10 +650,10 @@
    ]
   },
   {
-   "code": "226590",
-   "name": "엠디바이스",
+   "code": "071280",
+   "name": "로체시스템즈",
    "market": "KOSDAQ",
-   "cap": 1358,
+   "cap": 1008,
    "total": 16,
    "recent": 2,
    "activeDays": 16,
@@ -653,7 +681,7 @@
    "code": "270660",
    "name": "에브리봇",
    "market": "KOSDAQ",
-   "cap": 1919,
+   "cap": 1695,
    "total": 16,
    "recent": 2,
    "activeDays": 16,
@@ -681,7 +709,7 @@
    "code": "488280",
    "name": "에스투더블유",
    "market": "KOSDAQ",
-   "cap": 1249,
+   "cap": 1072,
    "total": 16,
    "recent": 2,
    "activeDays": 16,
@@ -709,7 +737,7 @@
    "code": "025750",
    "name": "한솔홈데코",
    "market": "KOSPI",
-   "cap": 308,
+   "cap": 296,
    "total": 16,
    "recent": 2,
    "activeDays": 16,
@@ -737,7 +765,7 @@
    "code": "189330",
    "name": "씨이랩",
    "market": "KOSDAQ",
-   "cap": 1667,
+   "cap": 1557,
    "total": 13,
    "recent": 3,
    "activeDays": 12,
@@ -765,7 +793,7 @@
    "code": "069920",
    "name": "엑시온그룹",
    "market": "KOSDAQ",
-   "cap": 116,
+   "cap": 128,
    "total": 10,
    "recent": 4,
    "activeDays": 8,
@@ -793,7 +821,7 @@
    "code": "040350",
    "name": "크레오에스지",
    "market": "KOSDAQ",
-   "cap": 1459,
+   "cap": 1388,
    "total": 10,
    "recent": 3,
    "activeDays": 10,
@@ -814,34 +842,6 @@
     {
      "date": "2026-08-21",
      "title": "크레오에스지, 모더나 암백신 3상 '잭팟'에 주목…'백신→항암' 플랫폼 부각"
-    }
-   ]
-  },
-  {
-   "code": "039980",
-   "name": "폴라리스AI",
-   "market": "KOSDAQ",
-   "cap": 853,
-   "total": 8,
-   "recent": 4,
-   "activeDays": 6,
-   "firstSeen": "2026-07-31",
-   "lastSeen": "2026-08-23",
-   "score": 27.5,
-   "riskMentions": 0,
-   "catalystMentions": 0,
-   "samples": [
-    {
-     "date": "2026-08-23",
-     "title": "폴라리스AI, 키플링 '확 바꾼다'…키링·에코백 앞세워 MZ세대 공략"
-    },
-    {
-     "date": "2026-08-22",
-     "title": "폴라리스AI, 키플링 '확 바꾼다'…키링·에코백 앞세워 MZ세대 공략"
-    },
-    {
-     "date": "2026-08-21",
-     "title": "폴라리스AI, 키플링 브랜드 리포지셔닝 속도...CJ온스타일서 FW26 공개"
     }
    ]
   }
