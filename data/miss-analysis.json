@@ -1,20 +1,20 @@
 {
- "updatedAt": "2026-08-24T08:00:35+09:00",
+ "updatedAt": "2026-08-24T20:13:50+09:00",
  "note": "빗나감 자동 원인분류 + 자기발전 필터. 투자권유 아님.",
  "summary": {
-  "resolved": 187,
-  "miss": 96,
-  "missRate": 51.3,
-  "preventable": 47,
+  "resolved": 189,
+  "miss": 98,
+  "missRate": 51.9,
+  "preventable": 48,
   "preventableShare": 49.0
  },
  "byCause": [
   {
    "cause": "weak_signal",
    "label": "신호 약함(구체 촉발재 없음)",
-   "n": 45,
+   "n": 46,
    "share": 46.9,
-   "avgExcess": -5.8,
+   "avgExcess": -5.83,
    "preventable": true,
    "examples": [
     {
@@ -51,9 +51,9 @@
   {
    "cause": "idiosyncratic",
    "label": "개별 악재(불가피)",
-   "n": 34,
-   "share": 35.4,
-   "avgExcess": -5.2,
+   "n": 35,
+   "share": 35.7,
+   "avgExcess": -5.39,
    "preventable": false,
    "examples": [
     {
@@ -71,10 +71,10 @@
      "tags": []
     },
     {
-     "name": "웨이버스(336060)",
-     "flagDate": "2026-07-29",
-     "excessPct": -11.27,
-     "theme": "기타",
+     "name": "재영솔루텍(049630)",
+     "flagDate": "2026-08-19",
+     "excessPct": -11.95,
+     "theme": "로봇/휴머노이드",
      "tags": []
     }
    ]
@@ -83,7 +83,7 @@
    "cause": "macro_riskoff",
    "label": "거시 위험회피(시장 동반 급락)",
    "n": 15,
-   "share": 15.6,
+   "share": 15.3,
    "avgExcess": -3.74,
    "preventable": false,
    "examples": [
@@ -120,7 +120,7 @@
    "cause": "theme_headwind",
    "label": "열세 테마(자금 이탈)",
    "n": 2,
-   "share": 2.1,
+   "share": 2.0,
    "avgExcess": -55.29,
    "preventable": true,
    "examples": [
@@ -147,31 +147,31 @@
  ],
  "learnedFilter": {
   "themeMissRate": {
-   "로봇/휴머노이드": 51.7,
+   "로봇/휴머노이드": 52.5,
    "기타": 41.7,
    "바이오/의료": 75.0,
    "반도체소재/장비": 62.5,
    "신재생에너지": 80.0,
    "AI전력/데이터센터": 56.2,
    "이차전지": 40.0,
-   "우주/방산": 60.0,
+   "우주/방산": 63.6,
    "AI반도체설계(팹리스/IP)": 47.8
   },
   "signalMissRate": {
-   "weak": 48.9,
-   "concrete": 53.7
+   "weak": 49.5,
+   "concrete": 54.2
   },
   "rules": [
    "'신재생에너지' 테마는 빗나감률 80.0% — 강한 회피(구체촉발재+승세 아니면 제외).",
    "'바이오/의료' 테마는 빗나감률 75.0% — 강한 회피(구체촉발재+승세 아니면 제외).",
-   "'반도체소재/장비' 테마는 빗나감률 62.5% — 강한 회피(구체촉발재+승세 아니면 제외).",
-   "'우주/방산' 테마는 빗나감률 60.0% — 강한 회피(구체촉발재+승세 아니면 제외)."
+   "'우주/방산' 테마는 빗나감률 63.6% — 강한 회피(구체촉발재+승세 아니면 제외).",
+   "'반도체소재/장비' 테마는 빗나감률 62.5% — 강한 회피(구체촉발재+승세 아니면 제외)."
   ]
  },
  "macro": {
   "regime": "위험선호",
-  "kospi5d": 6.83,
-  "kosdaq5d": -2.73,
+  "kospi5d": 3.49,
+  "kosdaq5d": -1.35,
   "fearGreed": 55.0,
   "vix": 15.13,
   "guidance": "순환매 유리 — 승세테마 우선하되 신선한 조기 종목까지 폭 확대 가능.",
@@ -631,15 +631,15 @@
   },
   {
    "date": "2026-08-24",
-   "resolved": 187,
-   "missRate": 51.3,
+   "resolved": 189,
+   "missRate": 51.9,
    "causeShares": {
     "weak_signal": 46.9,
-    "idiosyncratic": 35.4,
-    "macro_riskoff": 15.6,
-    "theme_headwind": 2.1
+    "idiosyncratic": 35.7,
+    "macro_riskoff": 15.3,
+    "theme_headwind": 2.0
    }
   }
  ],
- "develop": "직전(2026-08-23) 대비 빗나감률 51.3%→51.3% (+0.0p). 최다 원인=‘신호 약함(구체 촉발재 없음)’. 필터에 반영됨."
+ "develop": "직전(2026-08-23) 대비 빗나감률 51.3%→51.9% (+0.6p). 최다 원인=‘신호 약함(구체 촉발재 없음)’. 필터에 반영됨."
 }

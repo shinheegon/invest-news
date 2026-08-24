@@ -1,22 +1,13 @@
 {
- "updatedAt": "2026-08-24T08:00:35+09:00",
+ "updatedAt": "2026-08-24T20:13:50+09:00",
  "themes": [
   {
    "theme": "로봇/휴머노이드",
-   "n": 83,
+   "n": 84,
    "hit": 23,
-   "miss": 38,
-   "hitRate": 27.7,
-   "avgD3": 3.1,
-   "momentum": "상승"
-  },
-  {
-   "theme": "우주/방산",
-   "n": 11,
-   "hit": 2,
-   "miss": 5,
-   "hitRate": 18.2,
-   "avgD3": 1.0,
+   "miss": 39,
+   "hitRate": 27.4,
+   "avgD3": 2.9,
    "momentum": "중립"
   },
   {
@@ -35,6 +26,15 @@
    "miss": 23,
    "hitRate": 25.9,
    "avgD3": 0.8,
+   "momentum": "중립"
+  },
+  {
+   "theme": "우주/방산",
+   "n": 12,
+   "hit": 2,
+   "miss": 6,
+   "hitRate": 16.7,
+   "avgD3": 0.4,
    "momentum": "중립"
   },
   {
@@ -92,9 +92,7 @@
    "momentum": "중립"
   }
  ],
- "winning": [
-  "로봇/휴머노이드"
- ],
+ "winning": [],
  "losing": [
   "바이오/의료",
   "이차전지"
