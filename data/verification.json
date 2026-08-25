@@ -1,6 +1,35 @@
 {
- "updatedAt": "2026-08-25T08:11:46+09:00",
+ "updatedAt": "2026-08-25T20:15:28+09:00",
  "cases": [
+  {
+   "name": "PS일렉트로닉스(332570)",
+   "type": "leading",
+   "market": "韓",
+   "flagDate": "2026-08-25",
+   "signals": [
+    "구체촉발재(308.8억 AI서버 공급계약)",
+    "틈새레이더 반복"
+   ],
+   "theme": "AI전력/데이터센터",
+   "status": "pending",
+   "checks": [],
+   "flagPrice": 8640,
+   "priceLog": [
+    {
+     "date": "2026-08-25",
+     "price": 8640
+    }
+   ],
+   "convScore": 4,
+   "convTier": "mid",
+   "convSignals": [
+    "반복포착",
+    "구체촉발재",
+    "⚠️열세테마",
+    "틈새레이더"
+   ],
+   "convStampedAt": "2026-08-25"
+  },
   {
    "name": "원익홀딩스(030530)",
    "type": "leading",
@@ -35619,7 +35648,7 @@
     "로봇승세테마결합"
    ],
    "theme": "로봇/휴머노이드",
-   "status": "pending",
+   "status": "verified",
    "checks": [
     {
      "horizon": "D+3",
@@ -35630,6 +35659,16 @@
      "excessPct": 3.88,
      "index": "KOSPI",
      "verdict": "중립"
+    },
+    {
+     "horizon": "D+7",
+     "date": "2026-08-25",
+     "price": 4835,
+     "changePct": -8.08,
+     "indexPct": -1.04,
+     "excessPct": -7.04,
+     "index": "KOSPI",
+     "verdict": "빗나감"
     }
    ],
    "flagPrice": 5260,
@@ -35687,7 +35726,7 @@
     "인니독점공급계약"
    ],
    "theme": "AI전력/데이터센터",
-   "status": "pending",
+   "status": "verified",
    "checks": [
     {
      "horizon": "D+3",
@@ -35696,6 +35735,16 @@
      "changePct": 9.88,
      "indexPct": -4.29,
      "excessPct": 14.16,
+     "index": "KOSDAQ",
+     "verdict": "적중"
+    },
+    {
+     "horizon": "D+7",
+     "date": "2026-08-25",
+     "price": 1585,
+     "changePct": 1.67,
+     "indexPct": -3.97,
+     "excessPct": 5.64,
      "index": "KOSDAQ",
      "verdict": "적중"
     }
@@ -35755,7 +35804,7 @@
     "재료완전반영"
    ],
    "theme": "바이오/의료",
-   "status": "pending",
+   "status": "verified",
    "checks": [
     {
      "horizon": "D+3",
@@ -35764,6 +35813,16 @@
      "changePct": -11.67,
      "indexPct": -5.02,
      "excessPct": -6.64,
+     "index": "KOSPI",
+     "verdict": "적중"
+    },
+    {
+     "horizon": "D+7",
+     "date": "2026-08-25",
+     "price": 27200,
+     "changePct": -9.33,
+     "indexPct": -1.04,
+     "excessPct": -8.3,
      "index": "KOSPI",
      "verdict": "적중"
     }
@@ -37092,7 +37151,18 @@
    ],
    "theme": "바이오/의료",
    "status": "pending",
-   "checks": [],
+   "checks": [
+    {
+     "horizon": "D+3",
+     "date": "2026-08-25",
+     "price": 19130,
+     "changePct": -13.63,
+     "indexPct": -1.63,
+     "excessPct": -12.0,
+     "index": "KOSDAQ",
+     "verdict": "적중"
+    }
+   ],
    "flagPrice": 22150,
    "priceLog": [
     {
@@ -37111,7 +37181,8 @@
      "date": "2026-08-25",
      "price": 19200
     }
-   ]
+   ],
+   "finalVerdict": "적중"
   },
   {
    "name": "우리기술(032820)",
@@ -37124,7 +37195,18 @@
    ],
    "theme": "원전/전력인프라",
    "status": "pending",
-   "checks": [],
+   "checks": [
+    {
+     "horizon": "D+3",
+     "date": "2026-08-25",
+     "price": 12300,
+     "changePct": 0.9,
+     "indexPct": -1.63,
+     "excessPct": 2.54,
+     "index": "KOSDAQ",
+     "verdict": "중립"
+    }
+   ],
    "flagPrice": 12190,
    "priceLog": [
     {
@@ -37150,7 +37232,8 @@
     "구체촉발재",
     "⚠️열세테마"
    ],
-   "convStampedAt": "2026-08-20"
+   "convStampedAt": "2026-08-20",
+   "finalVerdict": "중립"
   },
   {
    "name": "가온전선(000500)",
@@ -37163,7 +37246,18 @@
    ],
    "theme": "AI데이터센터/전력인프라",
    "status": "pending",
-   "checks": [],
+   "checks": [
+    {
+     "horizon": "D+3",
+     "date": "2026-08-25",
+     "price": 161500,
+     "changePct": -2.06,
+     "indexPct": -1.6,
+     "excessPct": -0.46,
+     "index": "KOSPI",
+     "verdict": "빗나감"
+    }
+   ],
    "flagPrice": 164900,
    "priceLog": [
     {
@@ -37190,7 +37284,8 @@
     "구체촉발재",
     "⚠️열세테마"
    ],
-   "convStampedAt": "2026-08-20"
+   "convStampedAt": "2026-08-20",
+   "finalVerdict": "빗나감"
   },
   {
    "name": "이엠앤아이(083470)",
@@ -37729,14 +37824,14 @@
   }
  ],
  "stats": {
-  "verified": 262,
-  "hit": 65,
-  "neutral": 81,
-  "miss": 116,
-  "hitRate": 24.8,
-  "avgD3ChangePct": 0.5,
-  "pending": 48,
-  "total": 310,
+  "verified": 265,
+  "hit": 66,
+  "neutral": 82,
+  "miss": 117,
+  "hitRate": 24.9,
+  "avgD3ChangePct": 0.46,
+  "pending": 46,
+  "total": 311,
   "byType": {
    "leading": {
     "verified": 116,
@@ -37747,12 +37842,12 @@
     "avgD3ChangePct": -0.46
    },
    "discovery": {
-    "verified": 73,
+    "verified": 75,
     "hit": 16,
-    "neutral": 23,
-    "miss": 34,
-    "hitRate": 21.9,
-    "avgD3ChangePct": 1.96
+    "neutral": 24,
+    "miss": 35,
+    "hitRate": 21.3,
+    "avgD3ChangePct": 1.94
    }
   }
  }
