@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-08-26T08:08:15+09:00",
+ "updatedAt": "2026-08-26T20:05:47+09:00",
  "note": "대기 예측을 학습패턴(승세테마+구체촉발재)으로 점수화. 투자권유 아님.",
  "top": [],
  "avoid": [
@@ -78,15 +78,6 @@
    "why": "중립테마(AI전력/데이터센터) · 구체촉발재: 신제품양산개시"
   },
   {
-   "name": "해성에어로보틱스(059270)",
-   "type": "leading",
-   "theme": "로봇/휴머노이드",
-   "flagDate": "2026-08-16",
-   "score": 2,
-   "concrete": true,
-   "why": "중립테마(로봇/휴머노이드) · 구체촉발재: 구체촉발재(감속기신규수주)"
-  },
-  {
    "name": "우리기술(032820)",
    "type": "discovery",
    "theme": "AI전력/데이터센터",
@@ -139,6 +130,15 @@
    "score": 2,
    "concrete": true,
    "why": "중립테마(AI전력/데이터센터) · 구체촉발재: 구체촉발재(308.8억 AI서버 공급계약)"
+  },
+  {
+   "name": "알파칩스",
+   "type": "leading",
+   "theme": "AI반도체설계(팹리스/IP)",
+   "flagDate": "2026-08-26",
+   "score": 2,
+   "concrete": true,
+   "why": "중립테마(AI반도체설계(팹리스/IP)) · 구체촉발재: 해외수주기반"
   },
   {
    "name": "이엠앤아이(481070)",
@@ -285,96 +285,6 @@
    "why": "중립테마(로봇/휴머노이드) · 신호약함(테마첫거론류)"
   },
   {
-   "name": "LSK아이로봇(091970)",
-   "type": "leading",
-   "theme": "로봇/휴머노이드",
-   "flagDate": "2026-08-15",
-   "score": 0,
-   "concrete": false,
-   "why": "중립테마(로봇/휴머노이드) · 신호약함(테마첫거론류)"
-  },
-  {
-   "name": "알에스오토메이션(140670)",
-   "type": "leading",
-   "theme": "로봇/휴머노이드",
-   "flagDate": "2026-08-15",
-   "score": 0,
-   "concrete": false,
-   "why": "중립테마(로봇/휴머노이드) · 신호약함(테마첫거론류)"
-  },
-  {
-   "name": "정원엔시스(045510)",
-   "type": "leading",
-   "theme": "기타",
-   "flagDate": "2026-08-15",
-   "score": 0,
-   "concrete": false,
-   "why": "중립테마(기타) · 신호약함(테마첫거론류)"
-  },
-  {
-   "name": "씨피시스템(413630)",
-   "type": "leading",
-   "theme": "기타",
-   "flagDate": "2026-08-15",
-   "score": 0,
-   "concrete": false,
-   "why": "중립테마(기타) · 신호약함(테마첫거론류)"
-  },
-  {
-   "name": "코아시아씨엠(196450)",
-   "type": "leading",
-   "theme": "로봇/휴머노이드",
-   "flagDate": "2026-08-15",
-   "score": 0,
-   "concrete": false,
-   "why": "중립테마(로봇/휴머노이드) · 신호약함(테마첫거론류)"
-  },
-  {
-   "name": "크린앤사이언스(045520)",
-   "type": "leading",
-   "theme": "AI전력/데이터센터",
-   "flagDate": "2026-08-15",
-   "score": 0,
-   "concrete": false,
-   "why": "중립테마(AI전력/데이터센터) · 신호약함(테마첫거론류)"
-  },
-  {
-   "name": "아이씨에이치(368600)",
-   "type": "leading",
-   "theme": "로봇/휴머노이드",
-   "flagDate": "2026-08-16",
-   "score": 0,
-   "concrete": false,
-   "why": "중립테마(로봇/휴머노이드) · 신호약함(테마첫거론류)"
-  },
-  {
-   "name": "씨메스로보틱스(475400)",
-   "type": "leading",
-   "theme": "로봇/휴머노이드",
-   "flagDate": "2026-08-16",
-   "score": 0,
-   "concrete": false,
-   "why": "중립테마(로봇/휴머노이드) · 신호약함(테마첫거론류)"
-  },
-  {
-   "name": "포인트모바일(318020)",
-   "type": "discovery",
-   "theme": "기타",
-   "flagDate": "2026-08-16",
-   "score": 0,
-   "concrete": false,
-   "why": "중립테마(기타) · 신호약함(테마첫거론류)"
-  },
-  {
-   "name": "한컴라이프케어(372910)",
-   "type": "leading",
-   "theme": "로봇/휴머노이드",
-   "flagDate": "2026-08-17",
-   "score": 0,
-   "concrete": false,
-   "why": "중립테마(로봇/휴머노이드) · 신호약함(테마첫거론류)"
-  },
-  {
    "name": "재영솔루텍(049630)",
    "type": "leading",
    "theme": "로봇/휴머노이드",
@@ -463,6 +373,33 @@
    "score": 0,
    "concrete": false,
    "why": "중립테마(로봇/휴머노이드) · 신호약함(테마첫거론류)"
+  },
+  {
+   "name": "에스비비테크(389500)",
+   "type": "leading",
+   "theme": "로봇/휴머노이드",
+   "flagDate": "2026-08-26",
+   "score": 0,
+   "concrete": false,
+   "why": "중립테마(로봇/휴머노이드) · 신호약함(테마첫거론류)"
+  },
+  {
+   "name": "아이엘(307180)",
+   "type": "leading",
+   "theme": "로봇/휴머노이드",
+   "flagDate": "2026-08-26",
+   "score": 0,
+   "concrete": false,
+   "why": "중립테마(로봇/휴머노이드) · 신호약함(테마첫거론류)"
+  },
+  {
+   "name": "세미파이브(373170)",
+   "type": "discovery",
+   "theme": "AI반도체설계(팹리스/IP)",
+   "flagDate": "2026-08-26",
+   "score": 0,
+   "concrete": false,
+   "why": "중립테마(AI반도체설계(팹리스/IP)) · 신호약함(테마첫거론류)"
   },
   {
    "name": "에스비비테크(389500)",

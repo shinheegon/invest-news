@@ -1,10 +1,38 @@
 {
- "updatedAt": "2026-08-26T07:34:20+09:00",
+ "updatedAt": "2026-08-26T19:45:19+09:00",
  "note": "원본 헤드라인의 반복 언급을 탐지한 조사 후보이며 투자권유가 아니다. 동일 기사 재실행은 한 번만 집계하고, 순수 악재 반복과 모호한 회사명은 제외한다.",
  "window": 30,
- "corpusToday": 653,
- "trackedCompanies": 642,
+ "corpusToday": 1117,
+ "trackedCompanies": 658,
  "companies": [
+  {
+   "code": "456070",
+   "name": "이엔셀",
+   "market": "KOSDAQ",
+   "cap": 629,
+   "total": 13,
+   "recent": 7,
+   "activeDays": 9,
+   "firstSeen": "2026-07-31",
+   "lastSeen": "2026-08-26",
+   "score": 45.7,
+   "riskMentions": 0,
+   "catalystMentions": 2,
+   "samples": [
+    {
+     "date": "2026-08-26",
+     "title": "이엔셀, CAR-T 수율 높인 공정 특허 출원 소식에 강세"
+    },
+    {
+     "date": "2026-08-26",
+     "title": "이엔셀, 'CAR-T 생산 병목' 뚫었다…세포 수율 4배 높인 공정기술 확보"
+    },
+    {
+     "date": "2026-08-26",
+     "title": "이엔셀 최대주주, 삼성생명공익재단·원앤파트너스와 의결권 공동행사 1년 연장"
+    }
+   ]
+  },
   {
    "code": "001500",
    "name": "현대차증권",
@@ -62,34 +90,6 @@
    ]
   },
   {
-   "code": "456070",
-   "name": "이엔셀",
-   "market": "KOSDAQ",
-   "cap": 629,
-   "total": 11,
-   "recent": 5,
-   "activeDays": 9,
-   "firstSeen": "2026-07-31",
-   "lastSeen": "2026-08-26",
-   "score": 36.9,
-   "riskMentions": 0,
-   "catalystMentions": 0,
-   "samples": [
-    {
-     "date": "2026-08-26",
-     "title": "이엔셀 최대주주, 삼성생명공익재단·원앤파트너스와 의결권 공동행사 1년 연장"
-    },
-    {
-     "date": "2026-08-25",
-     "title": "이엔셀, 삼성생명공익재단과 '동행' 1년 더…5% 의결권 결속"
-    },
-    {
-     "date": "2026-08-25",
-     "title": "이엔셀 최대주주, 삼성생명공익재단·원앤파트너스와 의결권 공동행사 1년 연장"
-    }
-   ]
-  },
-  {
    "code": "344820",
    "name": "KCC글라스",
    "market": "KOSPI",
@@ -118,10 +118,10 @@
    ]
   },
   {
-   "code": "332570",
-   "name": "PS일렉트로닉스",
+   "code": "290270",
+   "name": "휴네시온",
    "market": "KOSDAQ",
-   "cap": 4190,
+   "cap": 267,
    "total": 17,
    "recent": 2,
    "activeDays": 17,
@@ -174,10 +174,10 @@
    ]
   },
   {
-   "code": "290270",
-   "name": "휴네시온",
+   "code": "332570",
+   "name": "PS일렉트로닉스",
    "market": "KOSDAQ",
-   "cap": 267,
+   "cap": 4190,
    "total": 17,
    "recent": 2,
    "activeDays": 17,

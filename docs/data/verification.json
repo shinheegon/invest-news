@@ -1,6 +1,108 @@
 {
- "updatedAt": "2026-08-26T08:08:14+09:00",
+ "updatedAt": "2026-08-26T20:05:47+09:00",
  "cases": [
+  {
+   "name": "에스비비테크(389500)",
+   "type": "leading",
+   "market": "韓",
+   "flagDate": "2026-08-26",
+   "signals": [
+    "테마첫거론",
+    "소수공급사병목"
+   ],
+   "theme": "로봇/휴머노이드",
+   "status": "pending",
+   "checks": [],
+   "flagPrice": 37150,
+   "priceLog": [
+    {
+     "date": "2026-08-26",
+     "price": 37150
+    }
+   ],
+   "convScore": 7,
+   "convTier": "high",
+   "convSignals": [
+    "반복포착",
+    "승세테마",
+    "구체촉발재"
+   ],
+   "convStampedAt": "2026-08-26"
+  },
+  {
+   "name": "알파칩스",
+   "type": "leading",
+   "market": "韓",
+   "flagDate": "2026-08-26",
+   "signals": [
+    "테마첫거론",
+    "해외수주기반"
+   ],
+   "theme": "AI반도체설계(팹리스/IP)",
+   "status": "pending",
+   "checks": [],
+   "convScore": 4,
+   "convTier": "mid",
+   "convSignals": [
+    "승세테마",
+    "구체촉발재"
+   ],
+   "convStampedAt": "2026-08-26"
+  },
+  {
+   "name": "아이엘(307180)",
+   "type": "leading",
+   "market": "韓",
+   "flagDate": "2026-08-26",
+   "signals": [
+    "반복포착",
+    "승세테마",
+    "구체촉발재"
+   ],
+   "theme": "로봇/휴머노이드",
+   "status": "pending",
+   "checks": [],
+   "flagPrice": 6080,
+   "priceLog": [
+    {
+     "date": "2026-08-26",
+     "price": 6080
+    }
+   ],
+   "convScore": 5,
+   "convTier": "high",
+   "convSignals": [
+    "반복포착",
+    "승세테마"
+   ],
+   "convStampedAt": "2026-08-26"
+  },
+  {
+   "name": "세미파이브(373170)",
+   "type": "discovery",
+   "market": "韓",
+   "flagDate": "2026-08-26",
+   "signals": [
+    "승세테마",
+    "구체촉발재"
+   ],
+   "theme": "AI반도체설계(팹리스/IP)",
+   "status": "pending",
+   "checks": [],
+   "flagPrice": 1716,
+   "priceLog": [
+    {
+     "date": "2026-08-26",
+     "price": 1716
+    }
+   ],
+   "convScore": 2,
+   "convTier": "low",
+   "convSignals": [
+    "승세테마"
+   ],
+   "convStampedAt": "2026-08-26"
+  },
   {
    "name": "PS일렉트로닉스(332570)",
    "type": "leading",
@@ -18,6 +120,10 @@
     {
      "date": "2026-08-25",
      "price": 8640
+    },
+    {
+     "date": "2026-08-26",
+     "price": 7640
     }
    ],
    "convScore": 4,
@@ -41,7 +147,18 @@
    ],
    "theme": "로봇/휴머노이드",
    "status": "pending",
-   "checks": [],
+   "checks": [
+    {
+     "horizon": "D+3",
+     "date": "2026-08-26",
+     "price": 19240,
+     "changePct": -4.28,
+     "indexPct": 3.11,
+     "excessPct": -7.39,
+     "index": "KOSDAQ",
+     "verdict": "빗나감"
+    }
+   ],
    "flagPrice": 20100,
    "priceLog": [
     {
@@ -70,7 +187,8 @@
    "convSignals": [
     "승세테마"
    ],
-   "convStampedAt": "2026-08-21"
+   "convStampedAt": "2026-08-21",
+   "finalVerdict": "빗나감"
   },
   {
    "name": "HL홀딩스(060980)",
@@ -84,7 +202,18 @@
    ],
    "theme": "로봇/휴머노이드",
    "status": "pending",
-   "checks": [],
+   "checks": [
+    {
+     "horizon": "D+3",
+     "date": "2026-08-26",
+     "price": 39500,
+     "changePct": -1.13,
+     "indexPct": -1.52,
+     "excessPct": 0.39,
+     "index": "KOSPI",
+     "verdict": "중립"
+    }
+   ],
    "flagPrice": 39950,
    "priceLog": [
     {
@@ -113,7 +242,8 @@
    "convSignals": [
     "승세테마"
    ],
-   "convStampedAt": "2026-08-21"
+   "convStampedAt": "2026-08-21",
+   "finalVerdict": "중립"
   },
   {
    "name": "오이솔루션(138080)",
@@ -200,6 +330,10 @@
     },
     {
      "date": "2026-08-25",
+     "price": 23600
+    },
+    {
+     "date": "2026-08-26",
      "price": 23600
     }
    ],
@@ -613,6 +747,10 @@
     {
      "date": "2026-08-25",
      "price": 165500
+    },
+    {
+     "date": "2026-08-26",
+     "price": 171400
     }
    ],
    "convScore": 4,
@@ -813,6 +951,10 @@
     {
      "date": "2026-08-25",
      "price": 2560
+    },
+    {
+     "date": "2026-08-26",
+     "price": 2610
     }
    ],
    "finalVerdict": "빗나감"
@@ -1518,6 +1660,10 @@
     {
      "date": "2026-08-25",
      "price": 47700
+    },
+    {
+     "date": "2026-08-26",
+     "price": 49900
     }
    ],
    "finalVerdict": "중립"
@@ -36818,7 +36964,7 @@
     "로봇승세테마"
    ],
    "theme": "로봇/휴머노이드",
-   "status": "pending",
+   "status": "verified",
    "checks": [
     {
      "horizon": "D+3",
@@ -36827,6 +36973,16 @@
      "changePct": -1.1,
      "indexPct": -2.75,
      "excessPct": 1.65,
+     "index": "KOSDAQ",
+     "verdict": "중립"
+    },
+    {
+     "horizon": "D+7",
+     "date": "2026-08-26",
+     "price": 3950,
+     "changePct": -3.54,
+     "indexPct": -4.37,
+     "excessPct": 0.83,
      "index": "KOSDAQ",
      "verdict": "중립"
     }
@@ -36884,7 +37040,7 @@
     "로봇승세테마"
    ],
    "theme": "로봇/휴머노이드",
-   "status": "pending",
+   "status": "verified",
    "checks": [
     {
      "horizon": "D+3",
@@ -36893,6 +37049,16 @@
      "changePct": -6.64,
      "indexPct": -2.75,
      "excessPct": -3.89,
+     "index": "KOSDAQ",
+     "verdict": "빗나감"
+    },
+    {
+     "horizon": "D+7",
+     "date": "2026-08-26",
+     "price": 10120,
+     "changePct": -6.64,
+     "indexPct": -4.37,
+     "excessPct": -2.27,
      "index": "KOSDAQ",
      "verdict": "빗나감"
     }
@@ -36950,7 +37116,7 @@
     "AI전략조직신설"
    ],
    "theme": "AI인프라",
-   "status": "pending",
+   "status": "verified",
    "checks": [
     {
      "horizon": "D+3",
@@ -36961,6 +37127,16 @@
      "excessPct": -3.49,
      "index": "KOSDAQ",
      "verdict": "빗나감"
+    },
+    {
+     "horizon": "D+7",
+     "date": "2026-08-26",
+     "price": 1121,
+     "changePct": -4.27,
+     "indexPct": -4.37,
+     "excessPct": 0.1,
+     "index": "KOSDAQ",
+     "verdict": "중립"
     }
    ],
    "flagPrice": 1171,
@@ -37018,7 +37194,7 @@
     "반도체공급망수혜"
    ],
    "theme": "반도체 자동화 밸류체인",
-   "status": "pending",
+   "status": "verified",
    "checks": [
     {
      "horizon": "D+3",
@@ -37029,6 +37205,16 @@
      "excessPct": -5.08,
      "index": "KOSDAQ",
      "verdict": "빗나감"
+    },
+    {
+     "horizon": "D+7",
+     "date": "2026-08-26",
+     "price": 3980,
+     "changePct": 5.57,
+     "indexPct": -4.37,
+     "excessPct": 9.94,
+     "index": "KOSDAQ",
+     "verdict": "적중"
     }
    ],
    "flagPrice": 3770,
@@ -37085,7 +37271,7 @@
     "재료이미반영"
    ],
    "theme": "소비재(해외소스사업)",
-   "status": "pending",
+   "status": "verified",
    "checks": [
     {
      "horizon": "D+3",
@@ -37094,6 +37280,16 @@
      "changePct": 10.13,
      "indexPct": -1.8,
      "excessPct": 11.93,
+     "index": "KOSPI",
+     "verdict": "빗나감"
+    },
+    {
+     "horizon": "D+7",
+     "date": "2026-08-26",
+     "price": 17210,
+     "changePct": 8.31,
+     "indexPct": -2.43,
+     "excessPct": 10.74,
      "index": "KOSPI",
      "verdict": "빗나감"
     }
@@ -37146,7 +37342,7 @@
     "재료다수반영"
    ],
    "theme": "반도체/HBM",
-   "status": "pending",
+   "status": "verified",
    "checks": [
     {
      "horizon": "D+3",
@@ -37157,6 +37353,16 @@
      "excessPct": 4.59,
      "index": "KOSPI",
      "verdict": "중립"
+    },
+    {
+     "horizon": "D+7",
+     "date": "2026-08-26",
+     "price": 1688000,
+     "changePct": 2.61,
+     "indexPct": -2.43,
+     "excessPct": 5.05,
+     "index": "KOSPI",
+     "verdict": "빗나감"
     }
    ],
    "flagPrice": 1645000,
@@ -37206,7 +37412,7 @@
     "누적31회반복노출"
    ],
    "theme": "AI반도체설계(팹리스/IP)",
-   "status": "pending",
+   "status": "verified",
    "checks": [
     {
      "horizon": "D+3",
@@ -37215,6 +37421,16 @@
      "changePct": 0.61,
      "indexPct": -2.75,
      "excessPct": 3.36,
+     "index": "KOSDAQ",
+     "verdict": "중립"
+    },
+    {
+     "horizon": "D+7",
+     "date": "2026-08-26",
+     "price": 62600,
+     "changePct": -4.43,
+     "indexPct": -4.37,
+     "excessPct": -0.06,
      "index": "KOSDAQ",
      "verdict": "중립"
     }
@@ -37268,7 +37484,7 @@
     "로봇AI비전인접"
    ],
    "theme": "로봇/AI비전",
-   "status": "pending",
+   "status": "verified",
    "checks": [
     {
      "horizon": "D+3",
@@ -37277,6 +37493,16 @@
      "changePct": -8.78,
      "indexPct": -2.75,
      "excessPct": -6.03,
+     "index": "KOSDAQ",
+     "verdict": "빗나감"
+    },
+    {
+     "horizon": "D+7",
+     "date": "2026-08-26",
+     "price": 790,
+     "changePct": -8.78,
+     "indexPct": -4.37,
+     "excessPct": -4.41,
      "index": "KOSDAQ",
      "verdict": "빗나감"
     }
@@ -37337,7 +37563,7 @@
     "3년만흑자기대"
    ],
    "theme": "AI전력/데이터센터",
-   "status": "pending",
+   "status": "verified",
    "checks": [
     {
      "horizon": "D+3",
@@ -37346,6 +37572,16 @@
      "changePct": -6.17,
      "indexPct": -2.75,
      "excessPct": -3.42,
+     "index": "KOSDAQ",
+     "verdict": "빗나감"
+    },
+    {
+     "horizon": "D+7",
+     "date": "2026-08-26",
+     "price": 2370,
+     "changePct": -11.4,
+     "indexPct": -4.37,
+     "excessPct": -7.03,
      "index": "KOSDAQ",
      "verdict": "빗나감"
     }
@@ -37406,7 +37642,7 @@
     "누적30회반복노출"
    ],
    "theme": "AI반도체설계(팹리스/IP)",
-   "status": "pending",
+   "status": "verified",
    "checks": [
     {
      "horizon": "D+3",
@@ -37415,6 +37651,16 @@
      "changePct": -5.01,
      "indexPct": -2.75,
      "excessPct": -2.26,
+     "index": "KOSDAQ",
+     "verdict": "중립"
+    },
+    {
+     "horizon": "D+7",
+     "date": "2026-08-26",
+     "price": 21450,
+     "changePct": -6.54,
+     "indexPct": -4.37,
+     "excessPct": -2.17,
      "index": "KOSDAQ",
      "verdict": "중립"
     }
@@ -37467,7 +37713,7 @@
     "반복포착10회"
    ],
    "theme": "로봇/휴머노이드",
-   "status": "pending",
+   "status": "verified",
    "checks": [
     {
      "horizon": "D+3",
@@ -37478,6 +37724,16 @@
      "excessPct": -10.23,
      "index": "KOSDAQ",
      "verdict": "빗나감"
+    },
+    {
+     "horizon": "D+7",
+     "date": "2026-08-26",
+     "price": 960,
+     "changePct": 15.38,
+     "indexPct": -4.37,
+     "excessPct": 19.75,
+     "index": "KOSDAQ",
+     "verdict": "적중"
     }
    ],
    "flagPrice": 832,
@@ -37536,7 +37792,7 @@
     "반복포착8회"
    ],
    "theme": "로봇/휴머노이드",
-   "status": "pending",
+   "status": "verified",
    "checks": [
     {
      "horizon": "D+3",
@@ -37545,6 +37801,16 @@
      "changePct": -8.21,
      "indexPct": -2.75,
      "excessPct": -5.47,
+     "index": "KOSDAQ",
+     "verdict": "빗나감"
+    },
+    {
+     "horizon": "D+7",
+     "date": "2026-08-26",
+     "price": 18490,
+     "changePct": -14.2,
+     "indexPct": -4.37,
+     "excessPct": -9.83,
      "index": "KOSDAQ",
      "verdict": "빗나감"
     }
@@ -37605,7 +37871,7 @@
     "신규포착"
    ],
    "theme": "로봇/휴머노이드",
-   "status": "pending",
+   "status": "verified",
    "checks": [
     {
      "horizon": "D+3",
@@ -37614,6 +37880,16 @@
      "changePct": -6.64,
      "indexPct": -2.75,
      "excessPct": -3.89,
+     "index": "KOSDAQ",
+     "verdict": "빗나감"
+    },
+    {
+     "horizon": "D+7",
+     "date": "2026-08-26",
+     "price": 5680,
+     "changePct": -10.27,
+     "indexPct": -4.37,
+     "excessPct": -5.9,
      "index": "KOSDAQ",
      "verdict": "빗나감"
     }
@@ -37673,7 +37949,7 @@
     "현대차로봇공급망"
    ],
    "theme": "로봇/휴머노이드",
-   "status": "pending",
+   "status": "verified",
    "checks": [
     {
      "horizon": "D+3",
@@ -37682,6 +37958,16 @@
      "changePct": 2.43,
      "indexPct": -1.8,
      "excessPct": 4.23,
+     "index": "KOSPI",
+     "verdict": "중립"
+    },
+    {
+     "horizon": "D+7",
+     "date": "2026-08-26",
+     "price": 6100,
+     "changePct": -7.29,
+     "indexPct": -2.43,
+     "excessPct": -4.86,
      "index": "KOSPI",
      "verdict": "중립"
     }
@@ -37733,7 +38019,7 @@
     "CES로봇아틀라스"
    ],
    "theme": "로봇/휴머노이드",
-   "status": "pending",
+   "status": "verified",
    "checks": [
     {
      "horizon": "D+3",
@@ -37742,6 +38028,16 @@
      "changePct": -3.44,
      "indexPct": -2.75,
      "excessPct": -0.7,
+     "index": "KOSDAQ",
+     "verdict": "중립"
+    },
+    {
+     "horizon": "D+7",
+     "date": "2026-08-26",
+     "price": 8590,
+     "changePct": -1.38,
+     "indexPct": -4.37,
+     "excessPct": 2.99,
      "index": "KOSDAQ",
      "verdict": "중립"
     }
@@ -37793,7 +38089,7 @@
     "테마동반상승"
    ],
    "theme": "로봇/휴머노이드",
-   "status": "pending",
+   "status": "verified",
    "checks": [
     {
      "horizon": "D+3",
@@ -37802,6 +38098,16 @@
      "changePct": -9.0,
      "indexPct": -2.75,
      "excessPct": -6.25,
+     "index": "KOSDAQ",
+     "verdict": "적중"
+    },
+    {
+     "horizon": "D+7",
+     "date": "2026-08-26",
+     "price": 11940,
+     "changePct": -14.71,
+     "indexPct": -4.37,
+     "excessPct": -10.34,
      "index": "KOSDAQ",
      "verdict": "적중"
     }
@@ -37854,7 +38160,7 @@
     "조기포착"
    ],
    "theme": "물류자동화",
-   "status": "pending",
+   "status": "verified",
    "checks": [
     {
      "horizon": "D+3",
@@ -37863,6 +38169,16 @@
      "changePct": -0.18,
      "indexPct": -2.75,
      "excessPct": 2.57,
+     "index": "KOSDAQ",
+     "verdict": "중립"
+    },
+    {
+     "horizon": "D+7",
+     "date": "2026-08-26",
+     "price": 2805,
+     "changePct": -0.36,
+     "indexPct": -4.37,
+     "excessPct": 4.01,
      "index": "KOSDAQ",
      "verdict": "중립"
     }
@@ -37922,7 +38238,7 @@
     "조기포착"
    ],
    "theme": "로봇/휴머노이드+방산",
-   "status": "pending",
+   "status": "verified",
    "checks": [
     {
      "horizon": "D+3",
@@ -37931,6 +38247,16 @@
      "changePct": -55.99,
      "indexPct": -1.8,
      "excessPct": -54.19,
+     "index": "KOSPI",
+     "verdict": "빗나감"
+    },
+    {
+     "horizon": "D+7",
+     "date": "2026-08-26",
+     "price": 1832,
+     "changePct": -56.01,
+     "indexPct": -2.43,
+     "excessPct": -53.58,
      "index": "KOSPI",
      "verdict": "빗나감"
     }
@@ -38339,7 +38665,18 @@
    ],
    "theme": "로봇/휴머노이드",
    "status": "pending",
-   "checks": [],
+   "checks": [
+    {
+     "horizon": "D+3",
+     "date": "2026-08-26",
+     "price": 933,
+     "changePct": -5.38,
+     "indexPct": 3.11,
+     "excessPct": -8.48,
+     "index": "KOSDAQ",
+     "verdict": "빗나감"
+    }
+   ],
    "flagPrice": 986,
    "priceLog": [
     {
@@ -38366,7 +38703,8 @@
     "승세테마",
     "구체촉발재"
    ],
-   "convStampedAt": "2026-08-23"
+   "convStampedAt": "2026-08-23",
+   "finalVerdict": "빗나감"
   },
   {
    "name": "에이텀(355690)",
@@ -38379,7 +38717,18 @@
    ],
    "theme": "AI전력변환",
    "status": "pending",
-   "checks": [],
+   "checks": [
+    {
+     "horizon": "D+3",
+     "date": "2026-08-26",
+     "price": 4400,
+     "changePct": -8.43,
+     "indexPct": 3.11,
+     "excessPct": -11.54,
+     "index": "KOSDAQ",
+     "verdict": "빗나감"
+    }
+   ],
    "flagPrice": 4805,
    "priceLog": [
     {
@@ -38405,7 +38754,8 @@
     "반복포착",
     "⚠️열세테마"
    ],
-   "convStampedAt": "2026-08-23"
+   "convStampedAt": "2026-08-23",
+   "finalVerdict": "빗나감"
   },
   {
    "name": "알에스오토메이션(140670)",
@@ -38418,7 +38768,18 @@
    ],
    "theme": "로봇/휴머노이드",
    "status": "pending",
-   "checks": [],
+   "checks": [
+    {
+     "horizon": "D+3",
+     "date": "2026-08-26",
+     "price": 10120,
+     "changePct": 4.55,
+     "indexPct": 3.11,
+     "excessPct": 1.44,
+     "index": "KOSDAQ",
+     "verdict": "중립"
+    }
+   ],
    "flagPrice": 9680,
    "priceLog": [
     {
@@ -38444,7 +38805,8 @@
     "반복포착",
     "승세테마"
    ],
-   "convStampedAt": "2026-08-23"
+   "convStampedAt": "2026-08-23",
+   "finalVerdict": "중립"
   },
   {
    "name": "재영솔루텍(049630)",
@@ -38457,7 +38819,18 @@
    ],
    "theme": "로봇/모빌리티",
    "status": "pending",
-   "checks": [],
+   "checks": [
+    {
+     "horizon": "D+3",
+     "date": "2026-08-26",
+     "price": 7240,
+     "changePct": -1.63,
+     "indexPct": 3.11,
+     "excessPct": -4.74,
+     "index": "KOSDAQ",
+     "verdict": "빗나감"
+    }
+   ],
    "flagPrice": 7360,
    "priceLog": [
     {
@@ -38483,7 +38856,8 @@
     "반복포착",
     "승세테마"
    ],
-   "convStampedAt": "2026-08-23"
+   "convStampedAt": "2026-08-23",
+   "finalVerdict": "빗나감"
   },
   {
    "name": "정원엔시스(045510)",
@@ -38496,7 +38870,18 @@
    ],
    "theme": "AI데이터센터/GPU인프라",
    "status": "pending",
-   "checks": [],
+   "checks": [
+    {
+     "horizon": "D+3",
+     "date": "2026-08-26",
+     "price": 1121,
+     "changePct": 3.99,
+     "indexPct": 3.11,
+     "excessPct": 0.88,
+     "index": "KOSDAQ",
+     "verdict": "중립"
+    }
+   ],
    "flagPrice": 1078,
    "priceLog": [
     {
@@ -38522,7 +38907,8 @@
     "반복포착",
     "⚠️열세테마"
    ],
-   "convStampedAt": "2026-08-23"
+   "convStampedAt": "2026-08-23",
+   "finalVerdict": "중립"
   },
   {
    "name": "삼성전자(005930)",
@@ -38535,7 +38921,18 @@
    ],
    "theme": "반도체",
    "status": "pending",
-   "checks": [],
+   "checks": [
+    {
+     "horizon": "D+3",
+     "date": "2026-08-26",
+     "price": 261500,
+     "changePct": -7.1,
+     "indexPct": -1.52,
+     "excessPct": -5.59,
+     "index": "KOSPI",
+     "verdict": "적중"
+    }
+   ],
    "flagPrice": 281500,
    "priceLog": [
     {
@@ -38554,7 +38951,8 @@
      "date": "2026-08-26",
      "price": 257000
     }
-   ]
+   ],
+   "finalVerdict": "적중"
   },
   {
    "name": "SK하이닉스(000660)",
@@ -38567,7 +38965,18 @@
    ],
    "theme": "반도체",
    "status": "pending",
-   "checks": [],
+   "checks": [
+    {
+     "horizon": "D+3",
+     "date": "2026-08-26",
+     "price": 1688000,
+     "changePct": -2.43,
+     "indexPct": -1.52,
+     "excessPct": -0.91,
+     "index": "KOSPI",
+     "verdict": "중립"
+    }
+   ],
    "flagPrice": 1730000,
    "priceLog": [
     {
@@ -38586,7 +38995,8 @@
      "date": "2026-08-26",
      "price": 1678000
     }
-   ]
+   ],
+   "finalVerdict": "중립"
   },
   {
    "name": "진에어(272450)",
@@ -38599,7 +39009,18 @@
    ],
    "theme": "항공",
    "status": "pending",
-   "checks": [],
+   "checks": [
+    {
+     "horizon": "D+3",
+     "date": "2026-08-26",
+     "price": 5890,
+     "changePct": 13.93,
+     "indexPct": -1.52,
+     "excessPct": 15.44,
+     "index": "KOSPI",
+     "verdict": "빗나감"
+    }
+   ],
    "flagPrice": 5170,
    "priceLog": [
     {
@@ -38618,7 +39039,8 @@
      "date": "2026-08-26",
      "price": 5690
     }
-   ]
+   ],
+   "finalVerdict": "빗나감"
   },
   {
    "name": "금호건설(002990)",
@@ -38631,7 +39053,18 @@
    ],
    "theme": "건설",
    "status": "pending",
-   "checks": [],
+   "checks": [
+    {
+     "horizon": "D+3",
+     "date": "2026-08-26",
+     "price": 15690,
+     "changePct": 6.37,
+     "indexPct": -1.52,
+     "excessPct": 7.89,
+     "index": "KOSPI",
+     "verdict": "빗나감"
+    }
+   ],
    "flagPrice": 14750,
    "priceLog": [
     {
@@ -38650,7 +39083,8 @@
      "date": "2026-08-26",
      "price": 15380
     }
-   ]
+   ],
+   "finalVerdict": "빗나감"
   },
   {
    "name": "이엠앤아이(481070)",
@@ -39095,30 +39529,30 @@
   }
  ],
  "stats": {
-  "verified": 265,
-  "hit": 66,
-  "neutral": 82,
-  "miss": 117,
-  "hitRate": 24.9,
-  "avgD3ChangePct": 0.46,
-  "pending": 53,
-  "total": 318,
+  "verified": 276,
+  "hit": 67,
+  "neutral": 86,
+  "miss": 123,
+  "hitRate": 24.3,
+  "avgD3ChangePct": 0.39,
+  "pending": 46,
+  "total": 322,
   "byType": {
    "leading": {
-    "verified": 116,
+    "verified": 121,
     "hit": 24,
-    "neutral": 28,
-    "miss": 64,
-    "hitRate": 20.7,
-    "avgD3ChangePct": -0.46
+    "neutral": 30,
+    "miss": 67,
+    "hitRate": 19.8,
+    "avgD3ChangePct": -0.65
    },
    "discovery": {
-    "verified": 75,
+    "verified": 77,
     "hit": 16,
-    "neutral": 24,
-    "miss": 35,
-    "hitRate": 21.3,
-    "avgD3ChangePct": 1.94
+    "neutral": 25,
+    "miss": 36,
+    "hitRate": 20.8,
+    "avgD3ChangePct": 1.84
    }
   }
  }
