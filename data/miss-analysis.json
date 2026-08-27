@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-08-27T12:37:54+09:00",
+ "updatedAt": "2026-08-28T05:46:25+09:00",
  "note": "빗나감 자동 원인분류 + 자기발전 필터. 투자권유 아님.",
  "summary": {
   "resolved": 201,
@@ -170,12 +170,12 @@
  },
  "macro": {
   "regime": "중립",
-  "kospi5d": -1.52,
-  "kosdaq5d": 3.11,
-  "fearGreed": 55.0,
+  "kospi5d": -0.01,
+  "kosdaq5d": 4.45,
+  "fearGreed": 59.0,
   "vix": 15.73,
   "guidance": "선별 유지 — 승세테마+구체촉발재 우선, 약신호·열세테마 경계.",
-  "asOf": "2026-08-27"
+  "asOf": "2026-08-28"
  },
  "history": [
   {
@@ -672,7 +672,18 @@
     "macro_riskoff": 14.3,
     "theme_headwind": 1.9
    }
+  },
+  {
+   "date": "2026-08-28",
+   "resolved": 201,
+   "missRate": 52.2,
+   "causeShares": {
+    "weak_signal": 47.6,
+    "idiosyncratic": 36.2,
+    "macro_riskoff": 14.3,
+    "theme_headwind": 1.9
+   }
   }
  ],
- "develop": "직전(2026-08-26) 대비 빗나감률 52.0%→52.2% (+0.2p). 최다 원인=‘신호 약함(구체 촉발재 없음)’. 필터에 반영됨."
+ "develop": "직전(2026-08-27) 대비 빗나감률 52.2%→52.2% (+0.0p). 최다 원인=‘신호 약함(구체 촉발재 없음)’. 필터에 반영됨."
 }

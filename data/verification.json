@@ -1,6 +1,104 @@
 {
- "updatedAt": "2026-08-27T12:37:54+09:00",
+ "updatedAt": "2026-08-28T05:46:25+09:00",
  "cases": [
+  {
+   "name": "아이씨에이치(368600)",
+   "type": "leading",
+   "market": "韓",
+   "flagDate": "2026-08-28",
+   "signals": [
+    "구체촉발재(휴머노이드 로봇용 소재 공급)",
+    "3일연속반복",
+    "틈새레이더"
+   ],
+   "theme": "로봇/휴머노이드",
+   "status": "pending",
+   "checks": [],
+   "flagPrice": 1050,
+   "priceLog": [
+    {
+     "date": "2026-08-27",
+     "price": 1050
+    }
+   ],
+   "convScore": 9,
+   "convTier": "high",
+   "convSignals": [
+    "반복포착",
+    "승세테마",
+    "구체촉발재",
+    "틈새레이더"
+   ],
+   "convStampedAt": "2026-08-28"
+  },
+  {
+   "name": "에이텀(355690)",
+   "type": "discovery",
+   "market": "韓",
+   "flagDate": "2026-08-28",
+   "signals": [
+    "구체촉발재(한화솔루션 공급 추진)",
+    "AI전력 테마"
+   ],
+   "theme": "AI전력/데이터센터",
+   "status": "pending",
+   "checks": [],
+   "flagPrice": 4510,
+   "priceLog": [
+    {
+     "date": "2026-08-27",
+     "price": 4510
+    }
+   ],
+   "convScore": 4,
+   "convTier": "mid",
+   "convSignals": [
+    "반복포착",
+    "구체촉발재",
+    "⚠️열세테마",
+    "틈새레이더"
+   ],
+   "convStampedAt": "2026-08-28"
+  },
+  {
+   "name": "컴투스(078340)",
+   "type": "warning",
+   "market": "韓",
+   "flagDate": "2026-08-28",
+   "signals": [
+    "이미급등(17%대)",
+    "뉴스노출급증"
+   ],
+   "theme": "게임/엔터",
+   "status": "pending",
+   "checks": [],
+   "flagPrice": 35100,
+   "priceLog": [
+    {
+     "date": "2026-08-27",
+     "price": 35100
+    }
+   ]
+  },
+  {
+   "name": "네오티스(085910)",
+   "type": "warning",
+   "market": "韓",
+   "flagDate": "2026-08-28",
+   "signals": [
+    "실적서프라이즈이미반복보도"
+   ],
+   "theme": "반도체소재/장비",
+   "status": "pending",
+   "checks": [],
+   "flagPrice": 17400,
+   "priceLog": [
+    {
+     "date": "2026-08-27",
+     "price": 17400
+    }
+   ]
+  },
   {
    "name": "전진건설로봇(079900)",
    "type": "discovery",
@@ -40818,8 +40916,8 @@
   "miss": 126,
   "hitRate": 24.0,
   "avgD3ChangePct": 0.38,
-  "pending": 40,
-  "total": 323,
+  "pending": 44,
+  "total": 327,
   "byType": {
    "leading": {
     "verified": 124,
