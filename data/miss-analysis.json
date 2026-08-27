@@ -1,20 +1,20 @@
 {
- "updatedAt": "2026-08-26T20:05:47+09:00",
+ "updatedAt": "2026-08-27T12:37:54+09:00",
  "note": "빗나감 자동 원인분류 + 자기발전 필터. 투자권유 아님.",
  "summary": {
-  "resolved": 198,
-  "miss": 103,
-  "missRate": 52.0,
-  "preventable": 51,
+  "resolved": 201,
+  "miss": 105,
+  "missRate": 52.2,
+  "preventable": 52,
   "preventableShare": 49.5
  },
  "byCause": [
   {
    "cause": "weak_signal",
    "label": "신호 약함(구체 촉발재 없음)",
-   "n": 49,
+   "n": 50,
    "share": 47.6,
-   "avgExcess": -5.95,
+   "avgExcess": -5.91,
    "preventable": true,
    "examples": [
     {
@@ -51,9 +51,9 @@
   {
    "cause": "idiosyncratic",
    "label": "개별 악재(불가피)",
-   "n": 37,
-   "share": 35.9,
-   "avgExcess": -5.34,
+   "n": 38,
+   "share": 36.2,
+   "avgExcess": -5.25,
    "preventable": false,
    "examples": [
     {
@@ -83,7 +83,7 @@
    "cause": "macro_riskoff",
    "label": "거시 위험회피(시장 동반 급락)",
    "n": 15,
-   "share": 14.6,
+   "share": 14.3,
    "avgExcess": -3.74,
    "preventable": false,
    "examples": [
@@ -147,8 +147,8 @@
  ],
  "learnedFilter": {
   "themeMissRate": {
-   "로봇/휴머노이드": 53.0,
-   "기타": 41.7,
+   "로봇/휴머노이드": 52.9,
+   "기타": 42.9,
    "바이오/의료": 75.0,
    "반도체소재/장비": 62.5,
    "신재생에너지": 80.0,
@@ -158,7 +158,7 @@
    "AI반도체설계(팹리스/IP)": 47.8
   },
   "signalMissRate": {
-   "weak": 49.5,
+   "weak": 50.0,
    "concrete": 54.5
   },
   "rules": [
@@ -175,7 +175,7 @@
   "fearGreed": 55.0,
   "vix": 15.73,
   "guidance": "선별 유지 — 승세테마+구체촉발재 우선, 약신호·열세테마 경계.",
-  "asOf": "2026-08-26"
+  "asOf": "2026-08-27"
  },
  "history": [
   {
@@ -661,7 +661,18 @@
     "macro_riskoff": 14.6,
     "theme_headwind": 1.9
    }
+  },
+  {
+   "date": "2026-08-27",
+   "resolved": 201,
+   "missRate": 52.2,
+   "causeShares": {
+    "weak_signal": 47.6,
+    "idiosyncratic": 36.2,
+    "macro_riskoff": 14.3,
+    "theme_headwind": 1.9
+   }
   }
  ],
- "develop": "직전(2026-08-25) 대비 빗나감률 51.8%→52.0% (+0.2p). 최다 원인=‘신호 약함(구체 촉발재 없음)’. 필터에 반영됨."
+ "develop": "직전(2026-08-26) 대비 빗나감률 52.0%→52.2% (+0.2p). 최다 원인=‘신호 약함(구체 촉발재 없음)’. 필터에 반영됨."
 }
