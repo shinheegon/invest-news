@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-08-28T15:36:39+09:00",
+ "updatedAt": "2026-08-29T06:40:55+09:00",
  "companies": {
   "아이씨에이치(368600)": {
    "market": "韓",
@@ -7159,6 +7159,32 @@
    "points": 1,
    "series": {
     "2026-08-28": 1980
+   }
+  },
+  "자이에스앤디(317400)": {
+   "market": "韓",
+   "type": "discovery",
+   "firstSeen": "2026-08-28",
+   "firstPrice": 11250,
+   "lastPrice": 11250,
+   "changePct": 0.0,
+   "points": 2,
+   "series": {
+    "2026-08-28": 11250,
+    "2026-08-29": 11250
+   }
+  },
+  "삼아알미늄(006110)": {
+   "market": "韓",
+   "type": "warning",
+   "firstSeen": "2026-08-28",
+   "firstPrice": 67000,
+   "lastPrice": 67000,
+   "changePct": 0.0,
+   "points": 2,
+   "series": {
+    "2026-08-28": 67000,
+    "2026-08-29": 67000
    }
   }
  }

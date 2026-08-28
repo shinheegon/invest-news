@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-08-28T15:36:39+09:00",
+ "updatedAt": "2026-08-29T06:40:55+09:00",
  "cases": [
   {
    "name": "아이씨에이치(368600)",
@@ -42164,6 +42164,54 @@
     "구체촉발재"
    ],
    "convStampedAt": "2026-08-28"
+  },
+  {
+   "name": "자이에스앤디(317400)",
+   "type": "discovery",
+   "market": "韓",
+   "flagDate": "2026-08-29",
+   "signals": [
+    "확정수주(2,817억원 남양주 진접4지구)",
+    "AI데이터센터 신사업(자이C&A)"
+   ],
+   "theme": "건설/AI데이터센터",
+   "status": "pending",
+   "checks": [],
+   "flagPrice": 11250,
+   "priceLog": [
+    {
+     "date": "2026-08-28",
+     "price": 11250
+    }
+   ],
+   "convScore": 1,
+   "convTier": "low",
+   "convSignals": [
+    "구체촉발재",
+    "⚠️열세테마",
+    "틈새레이더"
+   ],
+   "convStampedAt": "2026-08-29"
+  },
+  {
+   "name": "삼아알미늄(006110)",
+   "type": "warning",
+   "market": "韓",
+   "flagDate": "2026-08-29",
+   "signals": [
+    "8월 한달 +111% 급등",
+    "투자주의종목 지정(극단적 밸류에이션)"
+   ],
+   "theme": "이차전지(⚠️열세테마)",
+   "status": "pending",
+   "checks": [],
+   "flagPrice": 67000,
+   "priceLog": [
+    {
+     "date": "2026-08-28",
+     "price": 67000
+    }
+   ]
   }
  ],
  "stats": {
@@ -42173,8 +42221,8 @@
   "miss": 127,
   "hitRate": 23.9,
   "avgD3ChangePct": 0.32,
-  "pending": 45,
-  "total": 329,
+  "pending": 47,
+  "total": 331,
   "byType": {
    "leading": {
     "verified": 125,
