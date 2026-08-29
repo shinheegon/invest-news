@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-08-29T06:40:55+09:00",
+ "updatedAt": "2026-08-29T13:27:33+09:00",
  "cases": [
   {
    "name": "아이씨에이치(368600)",
@@ -42212,6 +42212,26 @@
      "price": 67000
     }
    ]
+  },
+  {
+   "name": "아이크래프트(052770)",
+   "type": "warning",
+   "market": "韓",
+   "flagDate": "2026-08-29",
+   "signals": [
+    "구체촉발재(323억원 AI데이터센터 네트워크장비 공급계약)",
+    "5일간 +21.55~35.88% 급등 반영 완료"
+   ],
+   "theme": "AI전력/데이터센터",
+   "status": "pending",
+   "checks": [],
+   "flagPrice": 312,
+   "priceLog": [
+    {
+     "date": "2026-08-28",
+     "price": 312
+    }
+   ]
   }
  ],
  "stats": {
@@ -42221,8 +42241,8 @@
   "miss": 127,
   "hitRate": 23.9,
   "avgD3ChangePct": 0.32,
-  "pending": 47,
-  "total": 331,
+  "pending": 48,
+  "total": 332,
   "byType": {
    "leading": {
     "verified": 125,
