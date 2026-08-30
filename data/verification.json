@@ -1,6 +1,33 @@
 {
- "updatedAt": "2026-08-30T00:29:50+09:00",
+ "updatedAt": "2026-08-30T09:47:03+09:00",
  "cases": [
+  {
+   "name": "씨메스로보틱스(475400)",
+   "type": "leading",
+   "market": "韓",
+   "flagDate": "2026-08-30",
+   "signals": [
+    "구체촉발재(로보티즈와 듀얼암 휴머노이드 공동개발 MOU, 8/28)",
+    "하드웨어대형파트너"
+   ],
+   "theme": "로봇/휴머노이드",
+   "status": "pending",
+   "checks": [],
+   "flagPrice": 18310,
+   "priceLog": [
+    {
+     "date": "2026-08-28",
+     "price": 18310
+    }
+   ],
+   "convScore": 5,
+   "convTier": "high",
+   "convSignals": [
+    "반복포착",
+    "승세테마"
+   ],
+   "convStampedAt": "2026-08-30"
+  },
   {
    "name": "아이씨에이치(368600)",
    "type": "leading",
@@ -42241,8 +42268,8 @@
   "miss": 127,
   "hitRate": 23.9,
   "avgD3ChangePct": 0.32,
-  "pending": 48,
-  "total": 332,
+  "pending": 49,
+  "total": 333,
   "byType": {
    "leading": {
     "verified": 125,

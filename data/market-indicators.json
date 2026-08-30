@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-08-29T20:30:00+09:00",
-  "session": "PM",
-  "note": "오늘(8/29, 토)은 한국·미국 모두 휴장 — 지표는 직전 거래일(8/28 금) 마감 기준을 유지한다. 케빈 워시 신임 연준의장이 8/28(현지시간) 잭슨홀 첫 기조연설에서 매파적 톤(\"근원 인플레 추세가 개선됐다고 보지 않는다\")을 보이며 9월 추가 인상 가능성이 시장에 재반영(약 55~57%)됐다. 2년물 국채금리 급등, 달러인덱스 99.5권, 금은 안전자산 매력 약화로 4,530달러대까지 밀림. 국내는 8/28 코스피가 삼성바이오 유상증자 충격을 딛고 +1.53%(6,912.37) 마감. 다음 관전포인트는 9/1(월, 美 노동절 휴장·韓 정상거래) 개장 반응과 9/5(금) 美 8월 비농업고용지표.",
+  "updatedAt": "2026-08-30T09:30:00+09:00",
+  "session": "AM",
+  "note": "오늘(8/30, 일)도 한국·미국 모두 휴장 — 지표는 직전 거래일(8/28 금) 마감 기준을 유지한다. 케빈 워시 신임 연준의장이 8/28(현지시간) 잭슨홀 첫 기조연설에서 매파적 톤(\"근원 인플레 추세가 개선됐다고 보지 않는다\")을 보이며 9월 추가 인상 가능성이 시장에 재반영(약 55~60%)됐다. 2년물 국채금리 급등, 달러인덱스 99.6권, 금은 안전자산 매력 약화로 4,530달러대까지 밀림. 국내는 8/28 코스피가 삼성바이오 유상증자 충격을 딛고 +1.53%(6,912.37) 마감. 다음 거래일은 8/31(월) 한·미 동시 정상개장이며(美 노동절은 9/7 월요일로 별도), 다음 관전포인트는 8/31 개장 반응과 9/4(금) 美 8월 비농업고용지표(NFP) — 이전 회차 자료의 '9/1(월) 노동절·9/5 NFP' 표기는 요일 계산 오류로 이번 회차에서 정정함.",
   "stock_fng": { "value": 58, "label": "Greed", "source": "https://www.cnn.com/markets/fear-and-greed" },
   "indices": [
     { "name": "코스피", "value": "6,912.37", "change": "+1.53%(8/28 종가, 휴장으로 유지)", "source": "https://view.asiae.co.kr/article/2026082715324649482" },
@@ -12,9 +12,9 @@
     { "name": "VIX", "value": "14.46", "change": "-0.34%(연중 최저권)", "source": "https://www.cnbc.com/2026/08/28/stock-traders-warm-up-to-warsh-as-volatility-index-touches-year-to-date-low.html" },
     { "name": "美 10년물", "value": "4.73%", "change": "+5.9bp(워시 매파 발언)", "source": "https://www.cnbc.com/2026/08/28/treasury-yields-jackson-hole.html" },
     { "name": "국고채 3년물", "value": "3.755%", "change": "8/27 금통위 후 되레 하락", "source": "https://www.yna.co.kr/view/AKR20260827161251008" },
-    { "name": "달러인덱스(DXY)", "value": "99.47", "change": "+0.31%(주간 +1%대, 워시 매파 여파)", "source": "https://tradingeconomics.com/united-states/currency" },
-    { "name": "원/달러", "value": "1,380.9", "change": "-3.9원(8/28 기준)", "source": "https://www.yna.co.kr/view/AKR20260827042851002" },
-    { "name": "美 기준금리", "value": "3.50~3.75%", "change": "동결 유지(9월 인상 가능성 시장가 55~57%로 급등)", "source": "https://www.cnbc.com/2026/08/28/kevin-warsh-jackson-hole-federal-reserve-inflation.html" },
+    { "name": "달러인덱스(DXY)", "value": "99.65", "change": "+0.5%(워시 매파 여파)", "source": "https://investrade.com/market-review-august-28-2026/" },
+    { "name": "원/달러", "value": "1,372.5", "change": "-8.4원(8/28 15:30 기준, 13개월래 최저)", "source": "https://www.yna.co.kr/view/AKR20260828121600002" },
+    { "name": "美 기준금리", "value": "3.50~3.75%", "change": "동결 유지(9월 인상 가능성 시장가 55~60%로 급등)", "source": "https://www.cnbc.com/2026/08/28/kevin-warsh-jackson-hole-federal-reserve-inflation.html" },
     { "name": "한국 기준금리", "value": "3.00%", "change": "+0.25%p(2연속 인상, 8/27)", "source": "https://www.hankyung.com/article/2026082776961" },
     { "name": "美 CPI", "value": "3.3~3.4%", "change": "근원PCE(7월,YoY) 3.3% / CPI 3.4%로 소폭 둔화", "source": "https://www.cnbc.com/2026/08/26/feds-preferred-inflation-gauge-shows-core-prices-rose-3point3percent-annually-in-july.html" },
     { "name": "韓 CPI", "value": "2.8%", "change": "-0.4%p, 한은 연내 2.7%·내년 2.3% 전망", "source": "https://news.einfomax.co.kr/news/articleView.html?idxno=4432103" },
