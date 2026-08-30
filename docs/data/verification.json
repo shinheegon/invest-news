@@ -1,6 +1,126 @@
 {
- "updatedAt": "2026-08-30T09:47:03+09:00",
+ "updatedAt": "2026-08-31T00:21:10+09:00",
  "cases": [
+  {
+   "name": "우진(105840)",
+   "type": "warning",
+   "market": "韓",
+   "flagDate": "2026-08-30",
+   "signals": [
+    "원전ETF순환매",
+    "이미주간+18.9%급등"
+   ],
+   "theme": "원전/전력",
+   "status": "pending",
+   "checks": [],
+   "flagPrice": 14060,
+   "priceLog": [
+    {
+     "date": "2026-08-28",
+     "price": 14060
+    }
+   ]
+  },
+  {
+   "name": "오르비텍(046120)",
+   "type": "warning",
+   "market": "韓",
+   "flagDate": "2026-08-30",
+   "signals": [
+    "원전ETF순환매",
+    "이미주간+14.9%급등"
+   ],
+   "theme": "방산/원전",
+   "status": "pending",
+   "checks": [],
+   "flagPrice": 4875,
+   "priceLog": [
+    {
+     "date": "2026-08-28",
+     "price": 4875
+    }
+   ]
+  },
+  {
+   "name": "현대건설(000720)",
+   "type": "warning",
+   "market": "韓",
+   "flagDate": "2026-08-30",
+   "signals": [
+    "건설주순환매",
+    "이미두달+58.3%급등"
+   ],
+   "theme": "건설/원전",
+   "status": "pending",
+   "checks": [],
+   "flagPrice": 128900,
+   "priceLog": [
+    {
+     "date": "2026-08-28",
+     "price": 128900
+    }
+   ]
+  },
+  {
+   "name": "GS건설(006360)",
+   "type": "warning",
+   "market": "韓",
+   "flagDate": "2026-08-30",
+   "signals": [
+    "건설주순환매",
+    "이미8월+27.8%급등"
+   ],
+   "theme": "건설/AI데이터센터",
+   "status": "pending",
+   "checks": [],
+   "flagPrice": 37150,
+   "priceLog": [
+    {
+     "date": "2026-08-28",
+     "price": 37150
+    }
+   ]
+  },
+  {
+   "name": "두산에너빌리티(034020)",
+   "type": "warning",
+   "market": "韓",
+   "flagDate": "2026-08-30",
+   "signals": [
+    "원전ETF순환매",
+    "이미주간+22.2%급등"
+   ],
+   "theme": "원전",
+   "status": "pending",
+   "checks": [],
+   "flagPrice": 88200,
+   "priceLog": [
+    {
+     "date": "2026-08-28",
+     "price": 88200
+    }
+   ]
+  },
+  {
+   "name": "한전기술(052690)",
+   "type": "warning",
+   "market": "韓",
+   "flagDate": "2026-08-30",
+   "signals": [
+    "원전ETF순환매",
+    "이미주간+9.4%급등"
+   ],
+   "theme": "원전",
+   "status": "pending",
+   "checks": [],
+   "flagPrice": 122400,
+   "priceLog": [
+    {
+     "date": "2026-08-28",
+     "price": 122400
+    }
+   ]
+  },
   {
    "name": "씨메스로보틱스(475400)",
    "type": "leading",
@@ -42268,8 +42388,8 @@
   "miss": 127,
   "hitRate": 23.9,
   "avgD3ChangePct": 0.32,
-  "pending": 49,
-  "total": 333,
+  "pending": 55,
+  "total": 339,
   "byType": {
    "leading": {
     "verified": 125,
