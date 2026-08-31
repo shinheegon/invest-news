@@ -1,49 +1,21 @@
 {
- "updatedAt": "2026-08-30T23:49:47+09:00",
+ "updatedAt": "2026-08-31T09:22:28+09:00",
  "note": "원본 헤드라인의 반복 언급을 탐지한 조사 후보이며 투자권유가 아니다. 동일 기사 재실행은 한 번만 집계하고, 순수 악재 반복과 모호한 회사명은 제외한다.",
  "window": 30,
- "corpusToday": 899,
+ "corpusToday": 502,
  "trackedCompanies": 634,
  "companies": [
-  {
-   "code": "317400",
-   "name": "자이에스앤디",
-   "market": "KOSPI",
-   "cap": 4363,
-   "total": 9,
-   "recent": 8,
-   "activeDays": 4,
-   "firstSeen": "2026-08-27",
-   "lastSeen": "2026-08-30",
-   "score": 42.4,
-   "riskMentions": 0,
-   "catalystMentions": 6,
-   "samples": [
-    {
-     "date": "2026-08-30",
-     "title": "자이에스앤디, 남양주 진접4지구 수주…1230세대 규모"
-    },
-    {
-     "date": "2026-08-30",
-     "title": "자이에스앤디, 2817억 규모 남양주 공동주택 공사수주"
-    },
-    {
-     "date": "2026-08-29",
-     "title": "자이에스앤디, 남양주 진접4지구 수주…1230세대 규모"
-    }
-   ]
-  },
   {
    "code": "344820",
    "name": "KCC글라스",
    "market": "KOSPI",
    "cap": 4041,
    "total": 18,
-   "recent": 3,
+   "recent": 2,
    "activeDays": 18,
    "firstSeen": "2026-08-03",
    "lastSeen": "2026-08-30",
-   "score": 41.8,
+   "score": 37.0,
    "riskMentions": 0,
    "catalystMentions": 0,
    "samples": [
@@ -58,34 +30,6 @@
     {
      "date": "2026-08-28",
      "title": "\"스톤테리어 감성을 그대로\"..KCC글라스 홈씨씨 '숲 강마루 스톤'"
-    }
-   ]
-  },
-  {
-   "code": "332570",
-   "name": "PS일렉트로닉스",
-   "market": "KOSDAQ",
-   "cap": 3373,
-   "total": 18,
-   "recent": 3,
-   "activeDays": 18,
-   "firstSeen": "2026-08-03",
-   "lastSeen": "2026-08-30",
-   "score": 41.8,
-   "riskMentions": 0,
-   "catalystMentions": 0,
-   "samples": [
-    {
-     "date": "2026-08-30",
-     "title": "[고래사냥] 'LG전자, PS일렉트로닉스, 코리아써키트, 휴네시온!' 오늘 장 궁금종목 분석"
-    },
-    {
-     "date": "2026-08-29",
-     "title": "[고래사냥] 'LG전자, PS일렉트로닉스, 코리아써키트, 휴네시온!' 오늘 장 궁금종목 분석"
-    },
-    {
-     "date": "2026-08-28",
-     "title": "[고래사냥] 'LG전자, PS일렉트로닉스, 코리아써키트, 휴네시온!' 오늘 장 궁금종목 분석"
     }
    ]
   },
@@ -95,11 +39,11 @@
    "market": "KOSPI",
    "cap": 14414,
    "total": 18,
-   "recent": 3,
+   "recent": 2,
    "activeDays": 18,
    "firstSeen": "2026-08-03",
    "lastSeen": "2026-08-30",
-   "score": 41.8,
+   "score": 37.0,
    "riskMentions": 0,
    "catalystMentions": 0,
    "samples": [
@@ -123,11 +67,39 @@
    "market": "KOSDAQ",
    "cap": 277,
    "total": 18,
-   "recent": 3,
+   "recent": 2,
    "activeDays": 18,
    "firstSeen": "2026-08-03",
    "lastSeen": "2026-08-30",
-   "score": 41.8,
+   "score": 37.0,
+   "riskMentions": 0,
+   "catalystMentions": 0,
+   "samples": [
+    {
+     "date": "2026-08-30",
+     "title": "[고래사냥] 'LG전자, PS일렉트로닉스, 코리아써키트, 휴네시온!' 오늘 장 궁금종목 분석"
+    },
+    {
+     "date": "2026-08-29",
+     "title": "[고래사냥] 'LG전자, PS일렉트로닉스, 코리아써키트, 휴네시온!' 오늘 장 궁금종목 분석"
+    },
+    {
+     "date": "2026-08-28",
+     "title": "[고래사냥] 'LG전자, PS일렉트로닉스, 코리아써키트, 휴네시온!' 오늘 장 궁금종목 분석"
+    }
+   ]
+  },
+  {
+   "code": "332570",
+   "name": "PS일렉트로닉스",
+   "market": "KOSDAQ",
+   "cap": 3373,
+   "total": 18,
+   "recent": 2,
+   "activeDays": 18,
+   "firstSeen": "2026-08-03",
+   "lastSeen": "2026-08-30",
+   "score": 37.0,
    "riskMentions": 0,
    "catalystMentions": 0,
    "samples": [
@@ -151,11 +123,11 @@
    "market": "KOSDAQ",
    "cap": 669,
    "total": 18,
-   "recent": 3,
+   "recent": 2,
    "activeDays": 18,
    "firstSeen": "2026-08-03",
    "lastSeen": "2026-08-30",
-   "score": 41.8,
+   "score": 37.0,
    "riskMentions": 0,
    "catalystMentions": 0,
    "samples": [
@@ -179,11 +151,11 @@
    "market": "KOSDAQ",
    "cap": 1116,
    "total": 18,
-   "recent": 3,
+   "recent": 2,
    "activeDays": 18,
    "firstSeen": "2026-08-03",
    "lastSeen": "2026-08-30",
-   "score": 41.8,
+   "score": 37.0,
    "riskMentions": 0,
    "catalystMentions": 0,
    "samples": [
@@ -207,11 +179,11 @@
    "market": "KOSPI",
    "cap": 95,
    "total": 18,
-   "recent": 3,
+   "recent": 2,
    "activeDays": 18,
    "firstSeen": "2026-08-03",
    "lastSeen": "2026-08-30",
-   "score": 41.8,
+   "score": 37.0,
    "riskMentions": 0,
    "catalystMentions": 0,
    "samples": [
@@ -235,11 +207,11 @@
    "market": "KOSDAQ",
    "cap": 886,
    "total": 18,
-   "recent": 3,
+   "recent": 2,
    "activeDays": 18,
    "firstSeen": "2026-08-03",
    "lastSeen": "2026-08-30",
-   "score": 41.8,
+   "score": 37.0,
    "riskMentions": 0,
    "catalystMentions": 0,
    "samples": [
@@ -263,11 +235,11 @@
    "market": "KOSDAQ",
    "cap": 2294,
    "total": 18,
-   "recent": 3,
+   "recent": 2,
    "activeDays": 18,
    "firstSeen": "2026-08-03",
    "lastSeen": "2026-08-30",
-   "score": 41.8,
+   "score": 37.0,
    "riskMentions": 0,
    "catalystMentions": 0,
    "samples": [
@@ -282,34 +254,6 @@
     {
      "date": "2026-08-28",
      "title": "[수익 내비게이터] 국책과제 정부출연금 증가 추세…AI 반도체 기술력 입증 '에이직랜드' VS 글로벌 시장 프리미엄 가전 브랜드로 경쟁력 강화 'LG전자'"
-    }
-   ]
-  },
-  {
-   "code": "094360",
-   "name": "칩스앤미디어",
-   "market": "KOSDAQ",
-   "cap": 2272,
-   "total": 18,
-   "recent": 3,
-   "activeDays": 18,
-   "firstSeen": "2026-08-03",
-   "lastSeen": "2026-08-30",
-   "score": 41.8,
-   "riskMentions": 0,
-   "catalystMentions": 0,
-   "samples": [
-    {
-     "date": "2026-08-30",
-     "title": "[여의도 클라쓰] '제이엔비, 칩스앤미디어, 농심홀딩스' 클라쓰 올릴 종목은?"
-    },
-    {
-     "date": "2026-08-29",
-     "title": "[여의도 클라쓰] '제이엔비, 칩스앤미디어, 농심홀딩스' 클라쓰 올릴 종목은?"
-    },
-    {
-     "date": "2026-08-28",
-     "title": "[여의도 클라쓰] '제이엔비, 칩스앤미디어, 농심홀딩스' 클라쓰 올릴 종목은?"
     }
    ]
   },
@@ -319,11 +263,39 @@
    "market": "KOSDAQ",
    "cap": 309,
    "total": 18,
-   "recent": 3,
+   "recent": 2,
    "activeDays": 18,
    "firstSeen": "2026-08-03",
    "lastSeen": "2026-08-30",
-   "score": 41.8,
+   "score": 37.0,
+   "riskMentions": 0,
+   "catalystMentions": 0,
+   "samples": [
+    {
+     "date": "2026-08-30",
+     "title": "[여의도 클라쓰] '제이엔비, 칩스앤미디어, 농심홀딩스' 클라쓰 올릴 종목은?"
+    },
+    {
+     "date": "2026-08-29",
+     "title": "[여의도 클라쓰] '제이엔비, 칩스앤미디어, 농심홀딩스' 클라쓰 올릴 종목은?"
+    },
+    {
+     "date": "2026-08-28",
+     "title": "[여의도 클라쓰] '제이엔비, 칩스앤미디어, 농심홀딩스' 클라쓰 올릴 종목은?"
+    }
+   ]
+  },
+  {
+   "code": "094360",
+   "name": "칩스앤미디어",
+   "market": "KOSDAQ",
+   "cap": 2272,
+   "total": 18,
+   "recent": 2,
+   "activeDays": 18,
+   "firstSeen": "2026-08-03",
+   "lastSeen": "2026-08-30",
+   "score": 37.0,
    "riskMentions": 0,
    "catalystMentions": 0,
    "samples": [
@@ -347,11 +319,11 @@
    "market": "KOSDAQ",
    "cap": 543,
    "total": 18,
-   "recent": 3,
+   "recent": 2,
    "activeDays": 18,
    "firstSeen": "2026-08-03",
    "lastSeen": "2026-08-30",
-   "score": 41.8,
+   "score": 37.0,
    "riskMentions": 0,
    "catalystMentions": 0,
    "samples": [
@@ -375,11 +347,11 @@
    "market": "KOSDAQ",
    "cap": 2097,
    "total": 18,
-   "recent": 3,
+   "recent": 2,
    "activeDays": 18,
    "firstSeen": "2026-08-03",
    "lastSeen": "2026-08-30",
-   "score": 41.8,
+   "score": 37.0,
    "riskMentions": 0,
    "catalystMentions": 0,
    "samples": [
@@ -403,11 +375,11 @@
    "market": "KOSDAQ",
    "cap": 642,
    "total": 18,
-   "recent": 3,
+   "recent": 2,
    "activeDays": 18,
    "firstSeen": "2026-08-03",
    "lastSeen": "2026-08-30",
-   "score": 41.8,
+   "score": 37.0,
    "riskMentions": 0,
    "catalystMentions": 0,
    "samples": [
@@ -431,13 +403,13 @@
    "market": "KOSPI",
    "cap": 3721,
    "total": 18,
-   "recent": 3,
+   "recent": 2,
    "activeDays": 18,
    "firstSeen": "2026-08-03",
    "lastSeen": "2026-08-30",
-   "score": 41.8,
+   "score": 37.0,
    "riskMentions": 0,
-   "catalystMentions": 3,
+   "catalystMentions": 2,
    "samples": [
     {
      "date": "2026-08-30",
@@ -450,34 +422,6 @@
     {
      "date": "2026-08-28",
      "title": "[투자 핫플레이스] 비만·당뇨·MASH·ADC 파이프라인 보유 '동아에스티'"
-    }
-   ]
-  },
-  {
-   "code": "071280",
-   "name": "로체시스템즈",
-   "market": "KOSDAQ",
-   "cap": 1020,
-   "total": 18,
-   "recent": 3,
-   "activeDays": 18,
-   "firstSeen": "2026-08-03",
-   "lastSeen": "2026-08-30",
-   "score": 41.8,
-   "riskMentions": 0,
-   "catalystMentions": 3,
-   "samples": [
-    {
-     "date": "2026-08-30",
-     "title": "[투자원정대 동행] 로체시스템즈 vs 클래시스 vs 엠디바이스, 공략법은?"
-    },
-    {
-     "date": "2026-08-29",
-     "title": "[투자원정대 동행] 로체시스템즈 vs 클래시스 vs 엠디바이스, 공략법은?"
-    },
-    {
-     "date": "2026-08-28",
-     "title": "[투자원정대 동행] 로체시스템즈 vs 클래시스 vs 엠디바이스, 공략법은?"
     }
    ]
   },
@@ -487,13 +431,41 @@
    "market": "KOSDAQ",
    "cap": 1379,
    "total": 18,
-   "recent": 3,
+   "recent": 2,
    "activeDays": 18,
    "firstSeen": "2026-08-03",
    "lastSeen": "2026-08-30",
-   "score": 41.8,
+   "score": 37.0,
    "riskMentions": 0,
-   "catalystMentions": 3,
+   "catalystMentions": 2,
+   "samples": [
+    {
+     "date": "2026-08-30",
+     "title": "[투자원정대 동행] 로체시스템즈 vs 클래시스 vs 엠디바이스, 공략법은?"
+    },
+    {
+     "date": "2026-08-29",
+     "title": "[투자원정대 동행] 로체시스템즈 vs 클래시스 vs 엠디바이스, 공략법은?"
+    },
+    {
+     "date": "2026-08-28",
+     "title": "[투자원정대 동행] 로체시스템즈 vs 클래시스 vs 엠디바이스, 공략법은?"
+    }
+   ]
+  },
+  {
+   "code": "071280",
+   "name": "로체시스템즈",
+   "market": "KOSDAQ",
+   "cap": 1020,
+   "total": 18,
+   "recent": 2,
+   "activeDays": 18,
+   "firstSeen": "2026-08-03",
+   "lastSeen": "2026-08-30",
+   "score": 37.0,
+   "riskMentions": 0,
+   "catalystMentions": 2,
    "samples": [
     {
      "date": "2026-08-30",
@@ -515,11 +487,11 @@
    "market": "KOSDAQ",
    "cap": 1827,
    "total": 18,
-   "recent": 3,
+   "recent": 2,
    "activeDays": 18,
    "firstSeen": "2026-08-03",
    "lastSeen": "2026-08-30",
-   "score": 41.8,
+   "score": 37.0,
    "riskMentions": 0,
    "catalystMentions": 0,
    "samples": [
@@ -543,11 +515,11 @@
    "market": "KOSDAQ",
    "cap": 1130,
    "total": 18,
-   "recent": 3,
+   "recent": 2,
    "activeDays": 18,
    "firstSeen": "2026-08-03",
    "lastSeen": "2026-08-30",
-   "score": 41.8,
+   "score": 37.0,
    "riskMentions": 0,
    "catalystMentions": 0,
    "samples": [
@@ -571,11 +543,11 @@
    "market": "KOSPI",
    "cap": 306,
    "total": 18,
-   "recent": 3,
+   "recent": 2,
    "activeDays": 18,
    "firstSeen": "2026-08-03",
    "lastSeen": "2026-08-30",
-   "score": 41.8,
+   "score": 37.0,
    "riskMentions": 0,
    "catalystMentions": 0,
    "samples": [
@@ -594,18 +566,102 @@
    ]
   },
   {
+   "code": "189330",
+   "name": "씨이랩",
+   "market": "KOSDAQ",
+   "cap": 1194,
+   "total": 14,
+   "recent": 3,
+   "activeDays": 14,
+   "firstSeen": "2026-08-05",
+   "lastSeen": "2026-08-31",
+   "score": 35.8,
+   "riskMentions": 0,
+   "catalystMentions": 0,
+   "samples": [
+    {
+     "date": "2026-08-31",
+     "title": "씨이랩, 올해 하반기 AI 데이터센터·피지컬 AI 사업 전략 발표"
+    },
+    {
+     "date": "2026-08-30",
+     "title": "씨이랩, 올해 하반기 AI 데이터센터·피지컬 AI 사업 전략 발표"
+    },
+    {
+     "date": "2026-08-29",
+     "title": "씨이랩, 올해 하반기 AI 데이터센터·피지컬 AI 사업 전략 발표"
+    }
+   ]
+  },
+  {
+   "code": "317400",
+   "name": "자이에스앤디",
+   "market": "KOSPI",
+   "cap": 4363,
+   "total": 10,
+   "recent": 6,
+   "activeDays": 5,
+   "firstSeen": "2026-08-27",
+   "lastSeen": "2026-08-31",
+   "score": 34.3,
+   "riskMentions": 0,
+   "catalystMentions": 5,
+   "samples": [
+    {
+     "date": "2026-08-31",
+     "title": "자이에스앤디, 2817억 규모 남양주 공동주택 공사수주"
+    },
+    {
+     "date": "2026-08-30",
+     "title": "자이에스앤디, 남양주 진접4지구 수주…1230세대 규모"
+    },
+    {
+     "date": "2026-08-30",
+     "title": "자이에스앤디, 2817억 규모 남양주 공동주택 공사수주"
+    }
+   ]
+  },
+  {
+   "code": "030610",
+   "name": "교보증권",
+   "market": "KOSPI",
+   "cap": 11658,
+   "total": 12,
+   "recent": 4,
+   "activeDays": 9,
+   "firstSeen": "2026-08-03",
+   "lastSeen": "2026-08-31",
+   "score": 31.6,
+   "riskMentions": 0,
+   "catalystMentions": 0,
+   "samples": [
+    {
+     "date": "2026-08-31",
+     "title": "교보증권, 자립준비청년 '드림업 5기' 금융교육·멘토링 실시"
+    },
+    {
+     "date": "2026-08-30",
+     "title": "교보증권, 자립준비청년 '드림업 5기' 금융교육·멘토링 실시"
+    },
+    {
+     "date": "2026-08-29",
+     "title": "교보증권, 자립준비청년 금융교육·멘토링…'드림업 5기' 지원"
+    }
+   ]
+  },
+  {
    "code": "419530",
    "name": "SAMG엔터",
    "market": "KOSDAQ",
    "cap": 2039,
    "total": 13,
-   "recent": 3,
+   "recent": 2,
    "activeDays": 13,
    "firstSeen": "2026-08-02",
    "lastSeen": "2026-08-30",
-   "score": 34.2,
+   "score": 29.4,
    "riskMentions": 0,
-   "catalystMentions": 3,
+   "catalystMentions": 2,
    "samples": [
     {
      "date": "2026-08-30",
@@ -627,13 +683,13 @@
    "market": "KOSDAQ",
    "cap": 1053,
    "total": 13,
-   "recent": 3,
+   "recent": 2,
    "activeDays": 13,
    "firstSeen": "2026-08-03",
    "lastSeen": "2026-08-30",
-   "score": 34.2,
+   "score": 29.4,
    "riskMentions": 0,
-   "catalystMentions": 3,
+   "catalystMentions": 2,
    "samples": [
     {
      "date": "2026-08-30",
@@ -646,118 +702,6 @@
     {
      "date": "2026-08-28",
      "title": "[클릭 e종목]\"라온시큐어, PQC·AI 보안 사업 확대…하반기 실적 및 주가 모멘텀\""
-    }
-   ]
-  },
-  {
-   "code": "189330",
-   "name": "씨이랩",
-   "market": "KOSDAQ",
-   "cap": 1194,
-   "total": 13,
-   "recent": 3,
-   "activeDays": 13,
-   "firstSeen": "2026-08-05",
-   "lastSeen": "2026-08-30",
-   "score": 34.2,
-   "riskMentions": 0,
-   "catalystMentions": 0,
-   "samples": [
-    {
-     "date": "2026-08-30",
-     "title": "씨이랩, 올해 하반기 AI 데이터센터·피지컬 AI 사업 전략 발표"
-    },
-    {
-     "date": "2026-08-29",
-     "title": "씨이랩, 올해 하반기 AI 데이터센터·피지컬 AI 사업 전략 발표"
-    },
-    {
-     "date": "2026-08-28",
-     "title": "씨이랩, 올해 하반기 AI 데이터센터·피지컬 AI 사업 전략 발표"
-    }
-   ]
-  },
-  {
-   "code": "030610",
-   "name": "교보증권",
-   "market": "KOSPI",
-   "cap": 11658,
-   "total": 12,
-   "recent": 4,
-   "activeDays": 9,
-   "firstSeen": "2026-08-01",
-   "lastSeen": "2026-08-30",
-   "score": 31.6,
-   "riskMentions": 0,
-   "catalystMentions": 0,
-   "samples": [
-    {
-     "date": "2026-08-30",
-     "title": "교보증권, 자립준비청년 '드림업 5기' 금융교육·멘토링 실시"
-    },
-    {
-     "date": "2026-08-29",
-     "title": "교보증권, 자립준비청년 금융교육·멘토링…'드림업 5기' 지원"
-    },
-    {
-     "date": "2026-08-29",
-     "title": "교보증권, 자립준비청년 '드림업 5기' 금융교육·멘토링 실시"
-    }
-   ]
-  },
-  {
-   "code": "0228G0",
-   "name": "ACE 반도체Plus전략산업",
-   "market": "KOSPI",
-   "cap": 3317,
-   "total": 12,
-   "recent": 5,
-   "activeDays": 6,
-   "firstSeen": "2026-08-11",
-   "lastSeen": "2026-08-30",
-   "score": 30.4,
-   "riskMentions": 0,
-   "catalystMentions": 0,
-   "samples": [
-    {
-     "date": "2026-08-30",
-     "title": "한투운용, ACE 반도체Plus전략산업 ETF 순자산 3000억 돌파"
-    },
-    {
-     "date": "2026-08-29",
-     "title": "한투운용, ACE 반도체Plus전략산업 ETF 순자산 3000억 돌파"
-    },
-    {
-     "date": "2026-08-28",
-     "title": "한투운용, ACE 반도체Plus전략산업 ETF 순자산 3000억 돌파"
-    }
-   ]
-  },
-  {
-   "code": "429760",
-   "name": "PLUS 미국S&P500",
-   "market": "KOSPI",
-   "cap": 450,
-   "total": 5,
-   "recent": 5,
-   "activeDays": 3,
-   "firstSeen": "2026-08-28",
-   "lastSeen": "2026-08-30",
-   "score": 27.8,
-   "riskMentions": 0,
-   "catalystMentions": 0,
-   "samples": [
-    {
-     "date": "2026-08-30",
-     "title": "한화운용, 'PLUS 미국S&P500' 2종 총보수 0.0062%로 인하"
-    },
-    {
-     "date": "2026-08-29",
-     "title": "한화운용, 'PLUS 미국S&P500' 2종 총보수 0.0062%로 인하"
-    },
-    {
-     "date": "2026-08-29",
-     "title": "한화운용 'PLUS 미국S&P500' 2종 총보수 인하…연 0.0062%"
     }
    ]
   },
@@ -766,25 +710,25 @@
    "name": "LSK아이로봇",
    "market": "KOSDAQ",
    "cap": 302,
-   "total": 8,
+   "total": 9,
    "recent": 3,
-   "activeDays": 8,
+   "activeDays": 9,
    "firstSeen": "2026-08-05",
-   "lastSeen": "2026-08-30",
-   "score": 26.7,
+   "lastSeen": "2026-08-31",
+   "score": 28.2,
    "riskMentions": 0,
    "catalystMentions": 0,
    "samples": [
+    {
+     "date": "2026-08-31",
+     "title": "LSK아이로봇, AI 버추얼 IP 사업화 시동…\"트렌드 조사 응답 81%가 산업 혁신 기대\""
+    },
     {
      "date": "2026-08-30",
      "title": "LSK아이로봇, AI 버추얼 IP 사업화 시동…\"트렌드 조사 응답 81%가 산업 혁신 기대\""
     },
     {
      "date": "2026-08-29",
-     "title": "LSK아이로봇, AI 버추얼 IP 사업화 시동…\"트렌드 조사 응답 81%가 산업 혁신 기대\""
-    },
-    {
-     "date": "2026-08-28",
      "title": "LSK아이로봇, AI 버추얼 IP 사업화 시동…\"트렌드 조사 응답 81%가 산업 혁신 기대\""
     }
    ]
@@ -794,54 +738,110 @@
    "name": "비비안",
    "market": "KOSPI",
    "cap": 233,
-   "total": 8,
+   "total": 9,
    "recent": 3,
-   "activeDays": 8,
+   "activeDays": 9,
    "firstSeen": "2026-08-19",
-   "lastSeen": "2026-08-30",
-   "score": 26.7,
+   "lastSeen": "2026-08-31",
+   "score": 28.2,
    "riskMentions": 0,
    "catalystMentions": 3,
    "samples": [
+    {
+     "date": "2026-08-31",
+     "title": "비비안, 삼정KPMG 매각주관사 선정…용산 사옥·부산 자산 유동화 착수"
+    },
     {
      "date": "2026-08-30",
      "title": "비비안, 삼정KPMG 매각주관사 선정…용산 사옥·부산 자산 유동화 착수"
     },
     {
      "date": "2026-08-29",
-     "title": "비비안, 삼정KPMG 매각주관사 선정…용산 사옥·부산 자산 유동화 착수"
-    },
-    {
-     "date": "2026-08-28",
      "title": "비비안, 삼정KPMG 매각주관사 선정…용산 사옥·부산 자산 유동화 착수"
     }
    ]
   },
   {
-   "code": "220180",
-   "name": "폴라리스AI핸디",
+   "code": "179530",
+   "name": "애드바이오텍",
    "market": "KOSDAQ",
-   "cap": 340,
-   "total": 7,
-   "recent": 4,
-   "activeDays": 5,
-   "firstSeen": "2026-08-03",
-   "lastSeen": "2026-08-30",
-   "score": 26.0,
+   "cap": 670,
+   "total": 11,
+   "recent": 3,
+   "activeDays": 9,
+   "firstSeen": "2026-08-11",
+   "lastSeen": "2026-08-31",
+   "score": 27.2,
    "riskMentions": 0,
    "catalystMentions": 0,
    "samples": [
     {
+     "date": "2026-08-31",
+     "title": "애드바이오텍, 엠투웬티와 헬스케어 제품 공동개발…반려동물·시니어 시장 공략"
+    },
+    {
      "date": "2026-08-30",
-     "title": "폴라리스AI핸디, 사명 변경 후 첫 사내 해커톤 성료…\"AI 전환, 내부에서부터\""
+     "title": "애드바이오텍, 엠투웬티와 헬스케어 제품 공동개발…반려동물·시니어 시장 공략"
     },
     {
      "date": "2026-08-29",
-     "title": "폴라리스AI핸디, 사명 변경 후 첫 사내 해커톤 성료…\"AI 전환, 내부에서부터\""
+     "title": "애드바이오텍, 엠투웬티와 헬스케어 제품 공동개발…반려동물·시니어 시장 공략"
+    }
+   ]
+  },
+  {
+   "code": "009450",
+   "name": "경동나비엔",
+   "market": "KOSPI",
+   "cap": 9222,
+   "total": 7,
+   "recent": 5,
+   "activeDays": 3,
+   "firstSeen": "2026-08-13",
+   "lastSeen": "2026-08-31",
+   "score": 26.9,
+   "riskMentions": 0,
+   "catalystMentions": 3,
+   "samples": [
+    {
+     "date": "2026-08-31",
+     "title": "중소기업 기술자료 무단 사용 '갑질' 경동나비엔…과징금 5억원"
     },
     {
-     "date": "2026-08-28",
-     "title": "폴라리스AI핸디, 사명 변경 후 첫 사내 해커톤…AX 전환 본격화"
+     "date": "2026-08-31",
+     "title": "경동나비엔, 협력사 도면 무단 활용…과징금 5억 부과"
+    },
+    {
+     "date": "2026-08-30",
+     "title": "협력업체 도면 베낀 경동나비엔…공정위 과징금 5억"
+    }
+   ]
+  },
+  {
+   "code": "429760",
+   "name": "PLUS 미국S&P500",
+   "market": "KOSPI",
+   "cap": 450,
+   "total": 6,
+   "recent": 4,
+   "activeDays": 4,
+   "firstSeen": "2026-08-28",
+   "lastSeen": "2026-08-31",
+   "score": 24.5,
+   "riskMentions": 0,
+   "catalystMentions": 0,
+   "samples": [
+    {
+     "date": "2026-08-31",
+     "title": "한화운용, 'PLUS 미국S&P500' 2종 총보수 0.0062%로 인하"
+    },
+    {
+     "date": "2026-08-30",
+     "title": "한화운용, 'PLUS 미국S&P500' 2종 총보수 0.0062%로 인하"
+    },
+    {
+     "date": "2026-08-29",
+     "title": "한화운용, 'PLUS 미국S&P500' 2종 총보수 0.0062%로 인하"
     }
    ]
   }

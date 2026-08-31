@@ -3,6 +3,18 @@
   "SK하이닉스(000660)": {
    "articles": [
     {
+     "date": "2026-08-31",
+     "source": "한국경제·증권",
+     "title": "\"SK하이닉스, 목표가 330→240만원…삼성 HBM4 경쟁 심화\"-LS",
+     "link": "https://www.hankyung.com/article/2026083125126"
+    },
+    {
+     "date": "2026-08-31",
+     "source": "파이낸셜·증권",
+     "title": "\"HBM 공급자 프리미엄 축소\" SK하이닉스 목표가↓-LS證",
+     "link": "https://www.fnnews.com/news/202608310835273854"
+    },
+    {
      "date": "2026-08-28",
      "source": "한국경제·경제",
      "title": "SK하이닉스, 美 인디애나 팹 착공…AI 메모리 패키징 거점 구축",
@@ -709,23 +721,29 @@
      "source": "파이낸셜·증권",
      "title": "한화운용, SK하이닉스·샌디스크 담은 채권혼합 ETF 상장",
      "link": "https://www.fnnews.com/news/202608040927463128"
-    },
-    {
-     "date": "2026-08-03",
-     "source": "한국경제·증권",
-     "title": "\"4일 밤부터 가능\"…SK하이닉스 개미들 기대하는 이유 [종목+]",
-     "link": "https://www.hankyung.com/article/2026080322636"
-    },
-    {
-     "date": "2026-08-03",
-     "source": "파이낸셜·증권",
-     "title": "폭등 뒤 숨고르기...삼성전자·SK하이닉스, 5~6%대 하락 [특징주]",
-     "link": "https://www.fnnews.com/news/202608030957295046"
     }
    ]
   },
   "삼성전자(005930)": {
    "articles": [
+    {
+     "date": "2026-08-31",
+     "source": "한국경제·증권",
+     "title": "\"삼성전자, HBM 경쟁력 회복…목표가 45만원으로 상향\"-LS",
+     "link": "https://www.hankyung.com/article/2026083125036"
+    },
+    {
+     "date": "2026-08-31",
+     "source": "연합인포맥스",
+     "title": "LS증권 &quot;삼성전자, HBM4 수율·양산성 우려 완화&quot;…목표가 45만원 상향",
+     "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4432571"
+    },
+    {
+     "date": "2026-08-31",
+     "source": "한국경제",
+     "title": "- 삼성전자(005930): 8/31 LS증권 \"HBM 경쟁력 회복\" 평가로 목표가 45만원 상향.",
+     "link": "https://www.hankyung.com/article/202608312720i"
+    },
     {
      "date": "2026-08-30",
      "source": "한국경제·경제",
@@ -1427,29 +1445,29 @@
      "source": "한국경제·경제",
      "title": "삼성전자, 美 국립연구소와 '차세대 난방 기술' 협력",
      "link": "https://www.hankyung.com/article/2026080927961"
-    },
-    {
-     "date": "2026-08-09",
-     "source": "연합인포맥스",
-     "title": "삼성전자, 미국 에너지부 국립연구소와 차세대 난방 기술 개발",
-     "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4429276"
-    },
-    {
-     "date": "2026-08-09",
-     "source": "연합뉴스·경제",
-     "title": "삼성전자, 미국 에너지부 국립연구소와 차세대 난방기술 개발협력",
-     "link": "https://www.yna.co.kr/view/AKR20260809013000003"
-    },
-    {
-     "date": "2026-08-07",
-     "source": "연합뉴스·경제",
-     "title": "삼성전자, 넷리스트와 특허분쟁 종료…5년간 전략적 제휴",
-     "link": "https://www.yna.co.kr/view/AKR20260806077800003"
     }
    ]
   },
   "현대차(005380)": {
    "articles": [
+    {
+     "date": "2026-08-31",
+     "source": "연합인포맥스",
+     "title": "현대캐피탈, 인도에 단독법인 출범…현대차 판매 지원",
+     "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4432565"
+    },
+    {
+     "date": "2026-08-31",
+     "source": "연합인포맥스",
+     "title": "[K자율주행 어디에②] 현대차는 왜 테슬라에 뒤처졌나",
+     "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4432581"
+    },
+    {
+     "date": "2026-08-31",
+     "source": "연합뉴스·경제",
+     "title": "현대차 노조, 임금협상 잠정합의안 찬반투표 돌입",
+     "link": "https://www.yna.co.kr/view/AKR20260830061800057"
+    },
     {
      "date": "2026-08-30",
      "source": "한국경제·경제",
@@ -2151,24 +2169,6 @@
      "source": "연합뉴스·경제",
      "title": "李대통령 '영남권 국민보고회' 참석…한화·현대차 등 투자 발표",
      "link": "https://www.yna.co.kr/view/AKR20260703052700001"
-    },
-    {
-     "date": "2026-07-03",
-     "source": "연합뉴스·경제",
-     "title": "노동장관, 현대차·아워홈 등 제조업체에 산재 반복 근절 당부",
-     "link": "https://www.yna.co.kr/view/AKR20260703028400530"
-    },
-    {
-     "date": "2026-07-02",
-     "source": "한국경제·경제",
-     "title": "현대차·기아, 상반기 美 최다 판매…'톱3 브랜드' 눈앞",
-     "link": "https://www.hankyung.com/article/2026070226831"
-    },
-    {
-     "date": "2026-07-01",
-     "source": "한국경제·증권",
-     "title": "개미들 3조 넘게 매수했는데…현대차 한 달만에 30% 하락, 왜?",
-     "link": "https://www.hankyung.com/article/202606307334i"
     }
    ]
   },
@@ -2232,6 +2232,12 @@
   },
   "아마존(AMZN)": {
    "articles": [
+    {
+     "date": "2026-08-31",
+     "source": "연합인포맥스",
+     "title": "에버코어 ISI, &quot;에이전트 AI, 아마존 쇼핑 가속화&quot;",
+     "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4432545"
+    },
     {
      "date": "2026-08-28",
      "source": "한국경제·경제",
@@ -3331,6 +3337,12 @@
   "기아(000270)": {
    "articles": [
     {
+     "date": "2026-08-31",
+     "source": "연합뉴스·경제",
+     "title": "기아, 대형 전동화 PBV '더 기아 PV7' 티저 공개",
+     "link": "https://www.yna.co.kr/view/AKR20260831030100003"
+    },
+    {
      "date": "2026-08-29",
      "source": "한국경제·경제",
      "title": "기아 노조, '6년 연속 무분규' 임단협 잠정합의안 가결",
@@ -3692,6 +3704,12 @@
   },
   "삼성전기(009150)": {
    "articles": [
+    {
+     "date": "2026-08-31",
+     "source": "연합인포맥스",
+     "title": "&quot;삼성전기, 4분기 MLCC 직납가 인상 땐 내년 내후년 실적 청신호&quot;",
+     "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4432558"
+    },
     {
      "date": "2026-08-29",
      "source": "연합인포맥스",
@@ -5214,6 +5232,12 @@
   },
   "네이버(035420)": {
    "articles": [
+    {
+     "date": "2026-08-31",
+     "source": "연합인포맥스",
+     "title": "네이버 컬리N마트, 1년 만에 거래액 10배로 성장",
+     "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4432573"
+    },
     {
      "date": "2026-08-28",
      "source": "한국경제·경제",
@@ -7336,6 +7360,12 @@
   },
   "산일전기(062040)": {
    "articles": [
+    {
+     "date": "2026-08-31",
+     "source": "한국경제·증권",
+     "title": "\"산일전기, 온사이트 발전 확대 따른 성장 초입…목표가 30만원\"-KB",
+     "link": "https://www.hankyung.com/article/2026083126006"
+    },
     {
      "date": "2026-08-10",
      "source": "한국경제·증권",
@@ -10047,6 +10077,18 @@
   "LG전자(066570)": {
    "articles": [
     {
+     "date": "2026-08-31",
+     "source": "한국경제·경제",
+     "title": "LG전자 CEO까지 '총출동'…인재 모시러 美 날아갔다",
+     "link": "https://www.hankyung.com/article/202608312619g"
+    },
+    {
+     "date": "2026-08-31",
+     "source": "연합인포맥스",
+     "title": "LG전자, 미국서 R&amp;D 인재 모집…류재철 CEO &quot;기술 전문가가 리더&quot;",
+     "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4432566"
+    },
+    {
      "date": "2026-08-26",
      "source": "연합뉴스·경제",
      "title": "LG전자, 하반기 신입 채용…로봇·스마트팩토리 등 12개 직군",
@@ -11325,6 +11367,12 @@
   "한국전력(015760)": {
    "articles": [
     {
+     "date": "2026-08-31",
+     "source": "아시아경제",
+     "title": "인포시즈, 한국전력과 국가 전력망 AI 고도화 사업 수행",
+     "link": "https://view.asiae.co.kr/article/2026083108265444846"
+    },
+    {
      "date": "2026-08-26",
      "source": "파이낸셜·증권",
      "title": "한국전력 8%대 급등…'웨스팅하우스 지분 투자' 기대감 [특징주]",
@@ -11422,6 +11470,18 @@
   },
   "LS(006260)": {
    "articles": [
+    {
+     "date": "2026-08-31",
+     "source": "한국경제·증권",
+     "title": "\"삼성전자, HBM 경쟁력 회복…목표가 45만원으로 상향\"-LS",
+     "link": "https://www.hankyung.com/article/2026083125036"
+    },
+    {
+     "date": "2026-08-31",
+     "source": "한국경제·증권",
+     "title": "\"SK하이닉스, 목표가 330→240만원…삼성 HBM4 경쟁 심화\"-LS",
+     "link": "https://www.hankyung.com/article/2026083125126"
+    },
     {
      "date": "2026-08-25",
      "source": "연합뉴스·경제",
@@ -12886,6 +12946,24 @@
   },
   "테슬라(TSLA)": {
    "articles": [
+    {
+     "date": "2026-08-31",
+     "source": "연합인포맥스",
+     "title": "[K자율주행 어디에③] 테슬라 FSD 확대 도입 '언감생심'…&quot;레벨2도 시급&quot;",
+     "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4432580"
+    },
+    {
+     "date": "2026-08-31",
+     "source": "연합인포맥스",
+     "title": "[K자율주행 어디에②] 현대차는 왜 테슬라에 뒤처졌나",
+     "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4432581"
+    },
+    {
+     "date": "2026-08-31",
+     "source": "연합인포맥스",
+     "title": "[K자율주행 어디에①] 모습 감춘 라이다…'선두' 테슬라 쫓는 중국",
+     "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4432579"
+    },
     {
      "date": "2026-08-27",
      "source": "연합인포맥스",
@@ -15241,6 +15319,18 @@
   "삼성바이오로직스(207940)": {
    "articles": [
     {
+     "date": "2026-08-31",
+     "source": "한국경제·증권",
+     "title": "\"삼성바이오로직스, 자금 조달로 글로벌 생산 확대 기대\"-하나",
+     "link": "https://www.hankyung.com/article/2026083124876"
+    },
+    {
+     "date": "2026-08-31",
+     "source": "파이낸셜·증권",
+     "title": "삼성바이오로직스 3조 유증...증권가 \"현금 부족 아냐\"",
+     "link": "https://www.fnnews.com/news/202608310800528284"
+    },
+    {
      "date": "2026-08-29",
      "source": "한국경제·증권",
      "title": "삼성바이오로직스, 3조원 유상증자에 주가 7% 하락",
@@ -15874,6 +15964,12 @@
   },
   "SK(034730)": {
    "articles": [
+    {
+     "date": "2026-08-31",
+     "source": "파이낸셜뉴스",
+     "title": "\"임원 달면 10억은 기본?\"...삼성·SK 주식부자 400명 육박",
+     "link": "https://www.fnnews.com/news/202608310800182224"
+    },
     {
      "date": "2026-08-27",
      "source": "한국경제·증권",
@@ -16538,6 +16634,12 @@
   },
   "미래산업(025560)": {
    "articles": [
+    {
+     "date": "2026-08-31",
+     "source": "연합뉴스·경제",
+     "title": "한일상의 회장단 \"강점 살린 지역교류로 미래산업 함께 키워야\"",
+     "link": "https://www.yna.co.kr/view/AKR20260830043000003"
+    },
     {
      "date": "2026-08-28",
      "source": "연합뉴스·경제",
@@ -17442,6 +17544,12 @@
   },
   "대한전선(001440)": {
    "articles": [
+    {
+     "date": "2026-08-31",
+     "source": "연합뉴스·경제",
+     "title": "KB증권 \"대한전선, 북미 수주 가속화 기대…목표가↑\"",
+     "link": "https://www.yna.co.kr/view/AKR20260831023400008"
+    },
     {
      "date": "2026-07-16",
      "source": "아시아경제",
@@ -18705,6 +18813,12 @@
   "키움증권(039490)": {
    "articles": [
     {
+     "date": "2026-08-31",
+     "source": "아시아경제",
+     "title": "키움증권, '키움포인트' 가입자 100만명 돌파",
+     "link": "https://view.asiae.co.kr/article/2026083109165590189"
+    },
+    {
      "date": "2026-08-28",
      "source": "한국경제·증권",
      "title": "키움증권, 서울대기술지주와 유망기업 발굴 '맞손'",
@@ -19110,6 +19224,18 @@
   },
   "한화(000880)": {
    "articles": [
+    {
+     "date": "2026-08-31",
+     "source": "한국경제·증권",
+     "title": "\"삼성SDS, AI 데이터센터 수요 이미 확보…목표가↑\"-한화",
+     "link": "https://www.hankyung.com/article/2026083125876"
+    },
+    {
+     "date": "2026-08-31",
+     "source": "연합인포맥스",
+     "title": "한화, ARA운용에 코트야드 메리어트 수원 매각한다…몸값 1천억대 초반",
+     "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4432546"
+    },
     {
      "date": "2026-08-29",
      "source": "아시아경제",
@@ -19900,6 +20026,12 @@
   },
   "플래티어(367000)": {
    "articles": [
+    {
+     "date": "2026-08-31",
+     "source": "아시아경제",
+     "title": "플래티어, 국내 최초 '깃랩 전문 서비스 파트너' 획득",
+     "link": "https://view.asiae.co.kr/article/2026083108070461132"
+    },
     {
      "date": "2026-08-24",
      "source": "아시아경제",
@@ -21259,6 +21391,12 @@
   "브로드컴(AVGO)": {
    "articles": [
     {
+     "date": "2026-08-31",
+     "source": "아시아경제",
+     "title": "[굿모닝 증시]이번주 '칠천피' 가나…美고용·韓수출·브로드컴 실적 주목",
+     "link": "https://view.asiae.co.kr/article/2026083108141943003"
+    },
+    {
      "date": "2026-08-30",
      "source": "한국경제·증권",
      "title": "뉴욕·상하이 증시, 美 8월 고용지표·브로드컴 실적 주목",
@@ -21374,6 +21512,12 @@
   },
   "대우건설(047040)": {
    "articles": [
+    {
+     "date": "2026-08-31",
+     "source": "연합뉴스·경제",
+     "title": "대우건설, 푸르지오 커뮤니티에 AI·오감마케팅 서비스",
+     "link": "https://www.yna.co.kr/view/AKR20260831035200003"
+    },
     {
      "date": "2026-08-28",
      "source": "뉴시스·경제",
@@ -21796,6 +21940,12 @@
   },
   "대상(001680)": {
    "articles": [
+    {
+     "date": "2026-08-31",
+     "source": "아시아경제",
+     "title": "피노, 코스모신소재 대상 150억원 규모 유상증자 결정",
+     "link": "https://view.asiae.co.kr/article/2026083108112803239"
+    },
     {
      "date": "2026-08-29",
      "source": "연합뉴스·경제",
@@ -22509,12 +22659,6 @@
      "source": "연합뉴스·경제",
      "title": "\"호남 반도체 교섭의제로\" 삼전노조 주장에 노동부 \"대상 아냐\"",
      "link": "https://www.yna.co.kr/view/AKR20260713165800530"
-    },
-    {
-     "date": "2026-07-14",
-     "source": "연합뉴스·경제",
-     "title": "\"해외직접투자 1달러도 신고…대차·부동산·예금거래도 대상\"",
-     "link": "https://www.yna.co.kr/view/AKR20260714074000002"
     }
    ]
   },
@@ -23106,6 +23250,18 @@
   },
   "삼성SDS(018260)": {
    "articles": [
+    {
+     "date": "2026-08-31",
+     "source": "한국경제·증권",
+     "title": "\"삼성SDS, AI 데이터센터 수요 이미 확보…목표가↑\"-한화",
+     "link": "https://www.hankyung.com/article/2026083125876"
+    },
+    {
+     "date": "2026-08-31",
+     "source": "연합뉴스·경제",
+     "title": "한화증권 \"삼성SDS, 새 데이터센터로 성장확대 기대…목표가↑\"",
+     "link": "https://www.yna.co.kr/view/AKR20260831024000008"
+    },
     {
      "date": "2026-08-19",
      "source": "아시아경제",
@@ -24474,6 +24630,12 @@
   },
   "코오롱글로벌(003070)": {
    "articles": [
+    {
+     "date": "2026-08-31",
+     "source": "파이낸셜·증권",
+     "title": "[공시] 코오롱글로벌 청주 현장서 근로자 추락 사망",
+     "link": "https://www.fnnews.com/news/202608310833058088"
+    },
     {
      "date": "2026-08-12",
      "source": "연합뉴스·경제",
@@ -26469,6 +26631,12 @@
   "씨메스로보틱스(475400)": {
    "articles": [
     {
+     "date": "2026-08-31",
+     "source": "아시아경제",
+     "title": "- 🌱 조기 출몰(선점 후보 — 최우선): 씨메스로보틱스(475400)·소 [신규 첫포착] — 로보티즈·레인보우로보틱스 동시 파트너십, cross-signal 최",
+     "link": "https://view.asiae.co.kr/article/2026081816592050410"
+    },
+    {
      "date": "2026-07-14",
      "source": "cbci.co.kr",
      "title": "- 🟢 선행 포착(오르기 전 기회): 씨메스로보틱스(475400) — 오늘 공시된 대형고객 공급계약(매출비중 19%), 아직 확산 전.",
@@ -28365,6 +28533,12 @@
   "코스모신소재(005070)": {
    "articles": [
     {
+     "date": "2026-08-31",
+     "source": "아시아경제",
+     "title": "피노, 코스모신소재 대상 150억원 규모 유상증자 결정",
+     "link": "https://view.asiae.co.kr/article/2026083108112803239"
+    },
+    {
      "date": "2026-07-24",
      "source": "한국경제·경제",
      "title": "'26분기 연속 흑자' 낸 코스모신소재, 비결은?",
@@ -29408,6 +29582,12 @@
   },
   "현대차증권(001500)": {
    "articles": [
+    {
+     "date": "2026-08-31",
+     "source": "연합인포맥스",
+     "title": "현대차증권, 기업금융본부 신설…'여전채 최강자' 이이남 사단 통으로 영입",
+     "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4432550"
+    },
     {
      "date": "2026-08-25",
      "source": "한국경제·증권",
@@ -30957,6 +31137,12 @@
   "바이오비쥬(489460)": {
    "articles": [
     {
+     "date": "2026-08-31",
+     "source": "아시아경제",
+     "title": "[클릭 e종목]\"바이오비쥬, 美 매출 급증에 ECM 신사업까지…글로벌 에스테틱 도약\"",
+     "link": "https://view.asiae.co.kr/article/2026083108282788087"
+    },
+    {
      "date": "2026-08-25",
      "source": "아시아경제",
      "title": "바이오비쥬, ECM '셀리비온' 주문 확대…9월 그랜드 론칭으로 하반기 매출 성장 정조준",
@@ -32451,6 +32637,12 @@
   "하나증권": {
    "articles": [
     {
+     "date": "2026-08-31",
+     "source": "연합뉴스·경제",
+     "title": "하나증권 \"금리모멘텀 받는 은행주, 9월엔 조정양상 벗어날 듯\"",
+     "link": "https://www.yna.co.kr/view/AKR20260831021800008"
+    },
+    {
      "date": "2026-08-28",
      "source": "연합뉴스·경제",
      "title": "하나증권, 강원창조경제혁신센터와 혁신기업 육성 업무협약",
@@ -33127,6 +33319,12 @@
   "블루산업개발(006740)": {
    "articles": [
     {
+     "date": "2026-08-31",
+     "source": "파이낸셜·증권",
+     "title": "블루산업개발, 골판지 넘어 기능성 포장재로…비오엑스 시너지 '시동'",
+     "link": "https://www.fnnews.com/news/202608301325475704"
+    },
+    {
      "date": "2026-08-29",
      "source": "파이낸셜·증권",
      "title": "\"폐지부터 기능성 포장까지..\" 블루산업개발, EU 규제 타고 '포장 밸류체인' 재편",
@@ -33143,7 +33341,27 @@
      "link": "https://view.asiae.co.kr/article/2026082709581617292"
     }
    ]
+  },
+  "DB손해보험(005830)": {
+   "articles": [
+    {
+     "date": "2026-08-31",
+     "source": "한국경제·증권",
+     "title": "\"DB손해보험, 높아진 배당 하방…목표가↑\"-신한",
+     "link": "https://www.hankyung.com/article/2026083124956"
+    }
+   ]
+  },
+  "인포시즈": {
+   "articles": [
+    {
+     "date": "2026-08-31",
+     "source": "아시아경제",
+     "title": "인포시즈, 한국전력과 국가 전력망 AI 고도화 사업 수행",
+     "link": "https://view.asiae.co.kr/article/2026083108265444846"
+    }
+   ]
   }
  },
- "updatedAt": "2026-08-30T23:47:15+09:00"
+ "updatedAt": "2026-08-31T09:20:49+09:00"
 }

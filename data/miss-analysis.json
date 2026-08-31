@@ -1,20 +1,20 @@
 {
- "updatedAt": "2026-08-31T00:21:10+09:00",
+ "updatedAt": "2026-08-31T09:49:23+09:00",
  "note": "빗나감 자동 원인분류 + 자기발전 필터. 투자권유 아님.",
  "summary": {
-  "resolved": 202,
-  "miss": 106,
-  "missRate": 52.5,
-  "preventable": 52,
-  "preventableShare": 49.1
+  "resolved": 208,
+  "miss": 109,
+  "missRate": 52.4,
+  "preventable": 54,
+  "preventableShare": 49.5
  },
  "byCause": [
   {
    "cause": "weak_signal",
    "label": "신호 약함(구체 촉발재 없음)",
-   "n": 50,
-   "share": 47.2,
-   "avgExcess": -5.91,
+   "n": 52,
+   "share": 47.7,
+   "avgExcess": -5.96,
    "preventable": true,
    "examples": [
     {
@@ -51,9 +51,9 @@
   {
    "cause": "idiosyncratic",
    "label": "개별 악재(불가피)",
-   "n": 39,
-   "share": 36.8,
-   "avgExcess": -5.56,
+   "n": 40,
+   "share": 36.7,
+   "avgExcess": -5.62,
    "preventable": false,
    "examples": [
     {
@@ -83,7 +83,7 @@
    "cause": "macro_riskoff",
    "label": "거시 위험회피(시장 동반 급락)",
    "n": 15,
-   "share": 14.2,
+   "share": 13.8,
    "avgExcess": -3.74,
    "preventable": false,
    "examples": [
@@ -120,7 +120,7 @@
    "cause": "theme_headwind",
    "label": "열세 테마(자금 이탈)",
    "n": 2,
-   "share": 1.9,
+   "share": 1.8,
    "avgExcess": -55.29,
    "preventable": true,
    "examples": [
@@ -147,19 +147,19 @@
  ],
  "learnedFilter": {
   "themeMissRate": {
+   "로봇/휴머노이드": 53.4,
+   "AI반도체설계(팹리스/IP)": 45.8,
    "AI전력/데이터센터": 57.1,
-   "로봇/휴머노이드": 52.9,
    "기타": 42.9,
    "바이오/의료": 75.0,
    "반도체소재/장비": 62.5,
    "신재생에너지": 80.0,
    "이차전지": 40.0,
-   "우주/방산": 63.6,
-   "AI반도체설계(팹리스/IP)": 47.8
+   "우주/방산": 63.6
   },
   "signalMissRate": {
-   "concrete": 54.9,
-   "weak": 50.0
+   "weak": 50.0,
+   "concrete": 54.8
   },
   "rules": [
    "'신재생에너지' 테마는 빗나감률 80.0% — 강한 회피(구체촉발재+승세 아니면 제외).",
@@ -169,12 +169,12 @@
   ]
  },
  "macro": {
-  "regime": "중립",
-  "kospi5d": 0.68,
-  "kosdaq5d": 1.36,
+  "regime": "위험회피",
+  "kospi5d": -2.86,
+  "kosdaq5d": -0.63,
   "fearGreed": 58.0,
   "vix": 14.46,
-  "guidance": "선별 유지 — 승세테마+구체촉발재 우선, 약신호·열세테마 경계.",
+  "guidance": "소형주 언더퍼폼 국면 — 포착 수를 줄이고 승세테마×구체촉발재만 최고확신으로. 열세테마·약신호 전면 배제.",
   "asOf": "2026-08-31"
  },
  "history": [
@@ -708,15 +708,15 @@
   },
   {
    "date": "2026-08-31",
-   "resolved": 202,
-   "missRate": 52.5,
+   "resolved": 208,
+   "missRate": 52.4,
    "causeShares": {
-    "weak_signal": 47.2,
-    "idiosyncratic": 36.8,
-    "macro_riskoff": 14.2,
-    "theme_headwind": 1.9
+    "weak_signal": 47.7,
+    "idiosyncratic": 36.7,
+    "macro_riskoff": 13.8,
+    "theme_headwind": 1.8
    }
   }
  ],
- "develop": "직전(2026-08-30) 대비 빗나감률 52.5%→52.5% (+0.0p). 최다 원인=‘신호 약함(구체 촉발재 없음)’. 필터에 반영됨."
+ "develop": "직전(2026-08-30) 대비 빗나감률 52.5%→52.4% (-0.1p). 최다 원인=‘신호 약함(구체 촉발재 없음)’. 필터에 반영됨."
 }
