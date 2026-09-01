@@ -1,6 +1,18 @@
 {
- "updatedAt": "2026-09-01T10:48:12+09:00",
+ "updatedAt": "2026-09-02T00:11:06+09:00",
  "companies": {
+  "RF머트리얼즈(327260)": {
+   "market": "韓",
+   "type": "discovery",
+   "firstSeen": "2026-09-01",
+   "firstPrice": 34950,
+   "lastPrice": 34950,
+   "changePct": 0.0,
+   "points": 1,
+   "series": {
+    "2026-09-01": 34950
+   }
+  },
   "우진(105840)": {
    "market": "韓",
    "type": "warning",

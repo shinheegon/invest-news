@@ -1,6 +1,35 @@
 {
- "updatedAt": "2026-09-01T10:48:12+09:00",
+ "updatedAt": "2026-09-02T00:11:06+09:00",
  "cases": [
+  {
+   "name": "RF머트리얼즈(327260)",
+   "type": "discovery",
+   "market": "韓",
+   "flagDate": "2026-09-01",
+   "signals": [
+    "루멘텀단독공급",
+    "발주2.5배확대",
+    "실적턴어라운드(영업이익+274.7%)"
+   ],
+   "theme": "AI데이터센터/광통신부품",
+   "status": "pending",
+   "checks": [],
+   "flagPrice": 34950,
+   "priceLog": [
+    {
+     "date": "2026-09-01",
+     "price": 34950
+    }
+   ],
+   "convScore": 1,
+   "convTier": "low",
+   "convSignals": [
+    "구체촉발재",
+    "⚠️열세테마",
+    "틈새레이더"
+   ],
+   "convStampedAt": "2026-09-02"
+  },
   {
    "name": "우진(105840)",
    "type": "warning",
@@ -45275,8 +45304,8 @@
   "miss": 131,
   "hitRate": 23.5,
   "avgD3ChangePct": 0.28,
-  "pending": 52,
-  "total": 346,
+  "pending": 53,
+  "total": 347,
   "byType": {
    "leading": {
     "verified": 129,
