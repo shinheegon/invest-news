@@ -1,31 +1,22 @@
 {
- "updatedAt": "2026-09-02T00:11:06+09:00",
+ "updatedAt": "2026-09-02T09:30:01+09:00",
  "themes": [
   {
    "theme": "로봇/휴머노이드",
-   "n": 102,
+   "n": 104,
    "hit": 25,
-   "miss": 48,
-   "hitRate": 24.5,
-   "avgD3": 2.1,
+   "miss": 50,
+   "hitRate": 24.0,
+   "avgD3": 2.0,
    "momentum": "중립"
   },
   {
    "theme": "기타",
-   "n": 62,
+   "n": 63,
    "hit": 16,
-   "miss": 25,
-   "hitRate": 25.8,
-   "avgD3": 1.0,
-   "momentum": "중립"
-  },
-  {
-   "theme": "우주/방산",
-   "n": 12,
-   "hit": 2,
-   "miss": 6,
-   "hitRate": 16.7,
-   "avgD3": 0.4,
+   "miss": 26,
+   "hitRate": 25.4,
+   "avgD3": 1.2,
    "momentum": "중립"
   },
   {
@@ -38,30 +29,30 @@
    "momentum": "중립"
   },
   {
-   "theme": "반도체소재/장비",
-   "n": 22,
+   "theme": "우주/방산",
+   "n": 13,
    "hit": 3,
-   "miss": 9,
-   "hitRate": 13.6,
-   "avgD3": -0.4,
+   "miss": 6,
+   "hitRate": 23.1,
+   "avgD3": -0.2,
    "momentum": "중립"
   },
   {
-   "theme": "신재생에너지",
-   "n": 5,
-   "hit": 0,
-   "miss": 4,
-   "hitRate": 0.0,
-   "avgD3": -1.6,
+   "theme": "반도체소재/장비",
+   "n": 23,
+   "hit": 4,
+   "miss": 9,
+   "hitRate": 17.4,
+   "avgD3": -0.9,
    "momentum": "중립"
   },
   {
    "theme": "AI전력/데이터센터",
-   "n": 29,
-   "hit": 9,
-   "miss": 13,
-   "hitRate": 31.0,
-   "avgD3": -1.7,
+   "n": 34,
+   "hit": 11,
+   "miss": 14,
+   "hitRate": 32.4,
+   "avgD3": -1.9,
    "momentum": "중립"
   },
   {
@@ -74,12 +65,21 @@
    "momentum": "하락"
   },
   {
+   "theme": "신재생에너지",
+   "n": 9,
+   "hit": 3,
+   "miss": 5,
+   "hitRate": 33.3,
+   "avgD3": -4.3,
+   "momentum": "하락"
+  },
+  {
    "theme": "이차전지",
-   "n": 7,
+   "n": 8,
    "hit": 2,
-   "miss": 4,
-   "hitRate": 28.6,
-   "avgD3": -13.8,
+   "miss": 5,
+   "hitRate": 25.0,
+   "avgD3": -10.9,
    "momentum": "하락"
   },
   {
@@ -95,6 +95,7 @@
  "winning": [],
  "losing": [
   "바이오/의료",
+  "신재생에너지",
   "이차전지"
  ]
 }

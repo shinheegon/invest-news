@@ -1,24 +1,24 @@
 {
-  "updatedAt": "2026-09-01T23:55:00+09:00",
-  "session": "PM",
-  "note": "코스피·코스닥은 오늘(9/1) 정규장 종가. 美 지수는 9/1(현지시간, 한국시간 밤~새벽 진행 중) 장중 수치 — 정규 마감 전.",
+  "updatedAt": "2026-09-02T09:10:00+09:00",
+  "session": "AM",
+  "note": "美 지수는 9/1(현지시간) 정규장 마감 확정치. 코스피·코스닥은 전일(9/1) 정규장 종가(오늘 한국장 개장 전 기준).",
   "stock_fng": { "value": 50, "label": "Neutral", "source": "https://www.cnn.com/markets/fear-and-greed" },
   "indices": [
-    { "name": "코스피", "value": "6,835.80", "change": "+15.78P(+0.23%) · 장중 -1.28%까지 밀렸다 전약후강 마감", "source": "https://www.yna.co.kr/view/AKR20260901154900008" },
+    { "name": "코스피", "value": "6,835.80", "change": "+15.78P(+0.23%) · 장중 -1.28%까지 밀렸다 전약후강 마감", "source": "https://view.asiae.co.kr/article/2026090115561233028" },
     { "name": "코스닥", "value": "821.25", "change": "-13.04P(-1.56%) · 코스피와 디커플링", "source": "https://view.asiae.co.kr/article/2026090115351106396" },
-    { "name": "S&P 500", "value": "장중 진행", "change": "-0.7%(9/1 장초반, 중동 긴장·유가 급등 여파)", "source": "https://www.cnbc.com/amp/2026/08/31/stock-market-today-live-updates.html" },
-    { "name": "나스닥", "value": "장중 진행", "change": "-1.3%(9/1 장초반)", "source": "https://www.cnbc.com/amp/2026/08/31/stock-market-today-live-updates.html" },
-    { "name": "다우존스", "value": "장중 진행", "change": "-0.7%(9/1 장초반)", "source": "https://www.cnbc.com/amp/2026/08/31/stock-market-today-live-updates.html" },
-    { "name": "VIX", "value": "14.8", "change": "저변동성권 유지(소스별 14.4~15.3)", "source": "https://www.barchart.com/stocks/quotes/VIU26" },
-    { "name": "美 10년물", "value": "4.79%", "change": "+0.03%p, 유가상승+매파신호로 상승", "source": "https://tradingeconomics.com/united-states/government-bond-yield" },
+    { "name": "S&P 500", "value": "7,686.14", "change": "-0.3%(정규장 마감, 中東 긴장·유가 급등 여파)", "source": "https://247wallst.com/cards/the-nasdaq-s-1-02-slide-was-triple-the-s-p-500-s-loss-so-t-gspc-market-bell-01m1f95kv8c17b0rdk9z8mq85y" },
+    { "name": "나스닥", "value": "26,370.89", "change": "-0.1%(정규장 마감)", "source": "https://www.fool.com/coverage/stock-market-today/2026/09/01/stock-market-midday-sept-1-stocks-slide-on-global-bond-sell-off/" },
+    { "name": "다우존스", "value": "53,185.90", "change": "-0.7%(-374.09P, 정규장 마감)", "source": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-sept-1-2026" },
+    { "name": "VIX", "value": "16.08", "change": "+7.77%(장중 16.80까지 급등, 이란 갈등 여파)", "source": "https://www.itiger.com/hans/news/2593445858" },
+    { "name": "美 10년물", "value": "4.81%", "change": "2025년 1월 이후 최고, 유가상승+매파신호로 상승", "source": "https://tradingeconomics.com/united-states/government-bond-yield" },
     { "name": "국고채 3년물", "value": "3.838%", "change": "상승세 유지", "source": "https://www.yna.co.kr/view/AKR20260831150251008" },
-    { "name": "달러인덱스(DXY)", "value": "99.58", "change": "혼조(99.56~99.60)", "source": "https://tradingeconomics.com/united-states/currency" },
-    { "name": "원/달러", "value": "1,370.4", "change": "+1.8원(15:30 기준)", "source": "https://www.yna.co.kr/view/AKR20260901147200002" },
-    { "name": "美 기준금리", "value": "3.50~3.75%", "change": "동결 유지 · 9월 인상확률 65.4%(트럼프-워시 긴장 지속)", "source": "https://view.asiae.co.kr/article/2026090110183748781" },
+    { "name": "달러인덱스(DXY)", "value": "99.65", "change": "+0.21%", "source": "https://tradingeconomics.com/united-states/government-bond-yield" },
+    { "name": "원/달러", "value": "1,370.4", "change": "+1.8원(전일 15:30 기준) · 9월 1,350원대 하락 전망", "source": "https://www.yna.co.kr/view/AKR20260901147200002" },
+    { "name": "美 기준금리", "value": "3.50~3.75%", "change": "동결 유지 · 9월 인상확률 66.1%(워시 매파 발언 후 급등)", "source": "https://www.cnbc.com/2026/08/31/markets-see-warsh-endorsing-a-rate-hike-in-september-not-everyone-is-convinced.html" },
     { "name": "한국 기준금리", "value": "3.00%", "change": "+0.25%p(2연속 인상, 8/27)", "source": "https://www.mt.co.kr/economy/2026/08/27/2026082709114417494" },
     { "name": "美 CPI", "value": "3.3%", "change": "근원 CPI(7월 YoY)", "source": "https://www.tossbank.com/articles/2026-cpi" },
     { "name": "韓 CPI", "value": "2.8%", "change": "횡보", "source": "https://news.einfomax.co.kr/news/articleView.html?idxno=4432103" },
-    { "name": "금(Gold)", "value": "4,418.50", "change": "-1.68%(워시 매파 발언+중동긴장에 안전자산 매도)", "source": "https://finance.yahoo.com/personal-finance/investing/article/gold-prices-today-tuesday-september-1-2026-gold-moves-lower-as-rate-hike-expectations-grow-120810063.html" },
-    { "name": "국제유가(WTI)", "value": "72.5+", "change": "美 이란 호르무즈 공습 여파로 상승세 지속", "source": "https://www.local10.com/business/2026/08/31/oil-prices-rise-and-stocks-fall-after-us-hits-iranian-sites-in-the-strait-of-hormuz/" }
+    { "name": "금(Gold)", "value": "4,369.19", "change": "-21.8%(1월 고점 대비), 워시 매파+유가상승에 하락", "source": "https://www.cnbc.com/select/the-price-of-gold-today-september-1-2026-and-the-best-places-to-buy/" },
+    { "name": "국제유가(WTI)", "value": "89~91", "change": "+5.2%(전일), 美·이란 호르무즈 재충돌 여파", "source": "https://www.bloomberg.com/news/articles/2026-09-01/latest-oil-market-news-and-analysis-for-sept-2" }
   ]
 }
