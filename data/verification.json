@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-09-02T09:30:01+09:00",
+ "updatedAt": "2026-09-02T23:45:38+09:00",
  "cases": [
   {
    "name": "RF머트리얼즈(327260)",
@@ -46888,6 +46888,68 @@
     "구체촉발재"
    ],
    "convStampedAt": "2026-09-02"
+  },
+  {
+   "name": "세미파이브(373170)",
+   "type": "leading",
+   "market": "韓",
+   "flagDate": "2026-09-02",
+   "signals": [
+    "성장테마밸류체인첫거론형",
+    "cross-signal수렴점수7",
+    "PM회차재포착"
+   ],
+   "theme": "AI반도체설계(팹리스/IP)",
+   "status": "pending",
+   "checks": [],
+   "flagPrice": 2210,
+   "priceLog": [
+    {
+     "date": "2026-09-02",
+     "price": 2210
+    }
+   ],
+   "convScore": 5,
+   "convTier": "high",
+   "convSignals": [
+    "반복포착",
+    "승세테마"
+   ],
+   "convStampedAt": "2026-09-02"
+  },
+  {
+   "name": "대동기어(008830)",
+   "type": "warning",
+   "market": "韓",
+   "flagDate": "2026-09-02",
+   "signals": [
+    "누적28회부상단계",
+    "로봇밸류체인구체계약2600억+",
+    "선점단계지남"
+   ],
+   "theme": "로봇/휴머노이드",
+   "status": "pending",
+   "checks": [],
+   "flagPrice": 6200,
+   "priceLog": [
+    {
+     "date": "2026-09-02",
+     "price": 6200
+    }
+   ]
+  },
+  {
+   "name": "한국피아이엠(448970)",
+   "type": "warning",
+   "market": "韓",
+   "flagDate": "2026-09-02",
+   "signals": [
+    "누적32회부상단계",
+    "국내유일양산공정재료이미확산"
+   ],
+   "theme": "로봇/휴머노이드",
+   "status": "pending",
+   "checks": []
   }
  ],
  "stats": {
@@ -46897,8 +46959,8 @@
   "miss": 137,
   "hitRate": 24.6,
   "avgD3ChangePct": 0.09,
-  "pending": 41,
-  "total": 350,
+  "pending": 44,
+  "total": 353,
   "byType": {
    "leading": {
     "verified": 131,
