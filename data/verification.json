@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-09-04T09:26:06+09:00",
+ "updatedAt": "2026-09-04T23:40:11+09:00",
  "cases": [
   {
    "name": "RF머트리얼즈(327260)",
@@ -49954,6 +49954,78 @@
     "틈새레이더"
    ],
    "convStampedAt": "2026-09-04"
+  },
+  {
+   "name": "하이로닉(149980)",
+   "type": "leading",
+   "market": "韓",
+   "flagDate": "2026-09-04",
+   "signals": [
+    "북미독점유통초도출고9/2",
+    "반복포착2회째",
+    "9/6유상증자예정"
+   ],
+   "theme": "미용의료기기(⚠️바이오/의료 인접 열세테마)",
+   "status": "pending",
+   "checks": [],
+   "flagPrice": 4930,
+   "priceLog": [
+    {
+     "date": "2026-09-04",
+     "price": 4930
+    }
+   ],
+   "convScore": 4,
+   "convTier": "mid",
+   "convSignals": [
+    "반복포착",
+    "구체촉발재",
+    "⚠️열세테마",
+    "틈새레이더"
+   ],
+   "convStampedAt": "2026-09-04"
+  },
+  {
+   "name": "파두(440110)",
+   "type": "warning",
+   "market": "韓",
+   "flagDate": "2026-09-04",
+   "signals": [
+    "당일주가+9.43%급등",
+    "구체계약재료는5월이후갱신없음",
+    "이미반영"
+   ],
+   "theme": "AI반도체설계(팹리스/IP)",
+   "status": "pending",
+   "checks": [],
+   "flagPrice": 67300,
+   "priceLog": [
+    {
+     "date": "2026-09-04",
+     "price": 67300
+    }
+   ]
+  },
+  {
+   "name": "칩스앤미디어(094360)",
+   "type": "warning",
+   "market": "韓",
+   "flagDate": "2026-09-04",
+   "signals": [
+    "ASIL-B인증+록칩IP공급이틀연속",
+    "누적거론45회",
+    "3개월째반복노출"
+   ],
+   "theme": "AI반도체설계(팹리스/IP)",
+   "status": "pending",
+   "checks": [],
+   "flagPrice": 10950,
+   "priceLog": [
+    {
+     "date": "2026-09-04",
+     "price": 10950
+    }
+   ]
   }
  ],
  "stats": {
@@ -49963,8 +50035,8 @@
   "miss": 140,
   "hitRate": 24.3,
   "avgD3ChangePct": 0.16,
-  "pending": 45,
-  "total": 362,
+  "pending": 48,
+  "total": 365,
   "byType": {
    "leading": {
     "verified": 134,

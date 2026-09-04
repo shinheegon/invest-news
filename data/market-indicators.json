@@ -1,24 +1,24 @@
 {
-  "updatedAt": "2026-09-04T09:20:00+09:00",
-  "session": "AM",
-  "note": "코스피·코스닥은 직전(9/3) 정규장 마감 확정치(오늘 9/4 한국장은 아직 개장 전). 美 지수·VIX·국채·금·유가는 9/3(현지시간) 정규장 마감 확정치.",
-  "stock_fng": { "value": 33, "label": "Fear", "source": "https://www.cnn.com/markets/fear-and-greed" },
+  "updatedAt": "2026-09-04T23:40:00+09:00",
+  "session": "PM",
+  "note": "코스피·코스닥은 오늘(9/4) 정규장 마감 확정치. 美 지수·VIX·국채·달러인덱스는 9/3(현지시간) 정규장 마감 확정치(9/4 현지 정규장은 KST 이 시각 기준 개장 초반이라 미반영). 금은 9/4 오전 국내 고시 기준.",
+  "stock_fng": { "value": 45, "label": "Fear", "source": "https://www.cnn.com/markets/fear-and-greed" },
   "indices": [
-    { "name": "코스피", "value": "6,579.48", "change": "+16.76P(+0.26%) · 9/3 마감, 장중 6,439~6,682 급변동 후 방어", "source": "https://www.mt.co.kr/stock/2026/09/03/2026090315291565240" },
-    { "name": "코스닥", "value": "790.21", "change": "-13.77P(-1.71%) · 9/3 마감, 4거래일 연속 하락", "source": "https://www.mt.co.kr/stock/2026/09/03/2026090315293335601" },
+    { "name": "코스피", "value": "6,687.21", "change": "+107.73P(+1.64%) · 9/4 마감, 월러 이사 비둘기 발언+경상수지 역대급 흑자에 반도체·대형기술주 매수", "source": "https://www.mt.co.kr/stock/2026/09/04/2026090415280697711" },
+    { "name": "코스닥", "value": "813.50", "change": "+23.29P(+2.95%) · 9/4 마감, 4거래일만에 반등(반도체·로보틱스株 강세)", "source": "https://www.mt.co.kr/stock/2026/09/04/2026090415282496905" },
     { "name": "S&P 500", "value": "7,747.71", "change": "+81.11P(+1.06%) · 9/3(현지) 마감, 8/4 이후 최대 상승폭", "source": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-september-3-dow-sp-500-nasdaq-futures-081525933.html" },
     { "name": "나스닥", "value": "26,584.06", "change": "+366.23P(+1.40%) · 9/3(현지) 마감", "source": "https://www.etoday.co.kr/news/view/2621747" },
     { "name": "다우", "value": "53,686.11", "change": "+624.16P(+1.18%) · 9/3(현지) 마감, 8/4 이후 최대 상승폭", "source": "https://www.etoday.co.kr/news/view/2621747" },
-    { "name": "VIX", "value": "15.20", "change": "9/2(16.81)→9/3 15.20로 하락 · 월러 발언 후 변동성 완화", "source": "https://www.cnbc.com/quotes/.VIX" },
-    { "name": "美 10년물", "value": "4.74%", "change": "9/2 4.79%→9/3 4.74% · 월러 '금리동결 지지' 발언에 하락", "source": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-september-3-dow-sp-500-nasdaq-futures-081525933.html" },
-    { "name": "국고채 3년물", "value": "3.930%", "change": "9/2 +5.2bp 상승분 유지(최신 수치 미확인)", "source": "https://www.dt.co.kr/article/12081776" },
-    { "name": "달러인덱스(DXY)", "value": "99.59", "change": "-0.09% · 약보합", "source": "https://www.cnbc.com/quotes/.DXY" },
-    { "name": "원/달러", "value": "1,359.3", "change": "9/3 마감(-9.4원) · 9/4 장중 1,353~1,368원 등락 전망(달러 약세·저가매수 혼재)", "source": "https://www.etoday.co.kr/news/view/2621765" },
-    { "name": "美 기준금리", "value": "3.50~3.75%", "change": "동결 유지 · 9/15~16 FOMC 인상 확률, 월러 발언으로 66%→50%대 급락", "source": "https://www.cnbc.com/2026/09/03/fed-governor-waller-indicates-he-will-support-holding-rates-steady-at-september-meeting.html" },
+    { "name": "VIX", "value": "14.32", "change": "9/2(16.81)→9/3 14.32로 하락(-5.79%) · 월러 발언 후 변동성 완화", "source": "https://finance.yahoo.com/quote/%5EVIX/history/" },
+    { "name": "美 10년물", "value": "4.78%", "change": "9/3 4.78~4.79%권 · 8월 고용 서프라이즈 전 마감치", "source": "https://tradingeconomics.com/united-states/government-bond-yield" },
+    { "name": "국고채 3년물", "value": "3.93%", "change": "상승세 유지", "source": "https://www.dt.co.kr/article/12081776" },
+    { "name": "달러인덱스(DXY)", "value": "99.59", "change": "9/3 약보합", "source": "https://www.cnbc.com/quotes/.DXY" },
+    { "name": "원/달러", "value": "1,350.4", "change": "9/4 오후 3시30분 기준(-8.9원) · 경상수지 역대급 흑자·달러 약세", "source": "https://www.mt.co.kr/economy/2026/09/04/2026090415342187051" },
+    { "name": "美 기준금리", "value": "3.50~3.75%", "change": "동결 유지 · 8월 고용 서프라이즈(16.2만명, 예상 5.6만명)로 9/15~16 FOMC 인상 베팅 재점화", "source": "https://www.cnbc.com/2026/09/04/jobs-report-august-2026.html" },
     { "name": "한국 기준금리", "value": "3.00%", "change": "8/27 2연속 인상 이후 동결 유지, 다음 회의 10/22", "source": "https://www.hankyung.com/article/202608275753i" },
     { "name": "美 CPI", "value": "3.4%", "change": "7월 YoY 유지, 근원 PCE 3.3%(컨센 부합)", "source": "https://www.cnbc.com/2026/08/26/feds-preferred-inflation-gauge-shows-core-prices-rose-3point3percent-annually-in-july.html" },
     { "name": "韓 CPI", "value": "3.1%", "change": "8월 YoY, 근원물가 3.4%(3년3개월래 최고)", "source": "https://www.ajunews.com/view/20260902074148402" },
-    { "name": "금(Gold)", "value": "4,390.98", "change": "9/3 오전 기준 반등(일중 저점 4,304→4,390선 회복), 달러·금리 하락에 지지", "source": "https://www.gukjenews.com/news/articleView.html?idxno=3684333" },
-    { "name": "국제유가(WTI)", "value": "90.22달러", "change": "호르무즈 리스크로 7/23 이후 최고치, 브렌트 94.65달러(7/24 이후 최고) — ⚠️ 직전 회차 72.5달러 표기는 오류로 정정", "source": "https://www.mt.co.kr/world/2026/09/03/2026090219594798970" }
+    { "name": "금(Gold)", "value": "4,472.30", "change": "9/4 오전 +34.86달러 · 연준 인사 비둘기 발언에 달러·금리 하락, 지지력 유지", "source": "https://www.gukjenews.com/news/articleView.html?idxno=3684333" },
+    { "name": "국제유가(WTI)", "value": "90.22달러", "change": "호르무즈 리스크로 7/23 이후 최고치권 유지(직전 회차와 동일 수준)", "source": "https://www.mt.co.kr/world/2026/09/03/2026090219594798970" }
   ]
 }
