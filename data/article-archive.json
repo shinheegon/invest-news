@@ -3,6 +3,12 @@
   "SK하이닉스(000660)": {
    "articles": [
     {
+     "date": "2026-09-04",
+     "source": "머니투데이",
+     "title": "- SK하이닉스(000660): HBM 매출 기준 점유율 50%로 1위 유지하나 삼성전자 추격으로 격차 축소, 2026년 HBM 매출은 13조원→29.3조원 급증",
+     "link": "https://www.mt.co.kr/industry/2026/09/03/2026090318350022412"
+    },
+    {
      "date": "2026-09-03",
      "source": "한국경제·경제",
      "title": "임단협 부결 뒤 첫 메시지…SK하이닉스 \"불이익 없도록 할 것\"",
@@ -715,17 +721,23 @@
      "source": "연합인포맥스",
      "title": "SK하이닉스, 54조 투자로 D램·낸드 생산시설 확충(종합)",
      "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4429203"
-    },
-    {
-     "date": "2026-08-07",
-     "source": "연합인포맥스",
-     "title": "SK하이닉스, 2천733억원 분기배당 결정…&quot;추가 주주환원 검토&quot;",
-     "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4429190"
     }
    ]
   },
   "삼성전자(005930)": {
    "articles": [
+    {
+     "date": "2026-09-04",
+     "source": "한국경제·증권",
+     "title": "\"삼성전자, 연내 40조 자사주 매입·소각 가능…목표가 60만원\"-KB",
+     "link": "https://www.hankyung.com/article/2026090433696"
+    },
+    {
+     "date": "2026-09-04",
+     "source": "머니투데이",
+     "title": "- 삼성전자(005930): 2분기 HBM 시장 점유율 21%→33%(+12%p)로 급상승, SK하이닉스와 격차가 37%p→17%p로 축소.",
+     "link": "https://www.mt.co.kr/industry/2026/09/03/2026090318350022412"
+    },
     {
      "date": "2026-09-03",
      "source": "한국경제·경제",
@@ -1433,18 +1445,6 @@
      "source": "파이낸셜·증권",
      "title": "코스피, 2% 안팎 상승...삼성전자 3% 강세 [fn오전시황]",
      "link": "https://www.fnnews.com/news/202608120945212910"
-    },
-    {
-     "date": "2026-08-11",
-     "source": "한국경제·증권",
-     "title": "코스피, 외인·기관 '사자'에 강세 마감…삼성전자 4%대 반등",
-     "link": "https://www.hankyung.com/article/2026081144966"
-    },
-    {
-     "date": "2026-08-11",
-     "source": "한국경제·증권",
-     "title": "삼성전자 판 초고수…순매수 1위도 'OO전자'",
-     "link": "https://www.hankyung.com/article/202608116249i"
     }
    ]
   },
@@ -2452,6 +2452,18 @@
   },
   "애플(AAPL)": {
    "articles": [
+    {
+     "date": "2026-09-04",
+     "source": "파이낸셜·증권",
+     "title": "한양證 \"파인엠텍, 3년 기다린 애플이 온다…실적 퀀텀점프\"",
+     "link": "https://www.fnnews.com/news/202609040839016092"
+    },
+    {
+     "date": "2026-09-04",
+     "source": "아시아경제",
+     "title": "[클릭 e종목]\"파인엠텍, 애플 폴더블로 하반기에만 2000억 매출 가능…영업익 1238%↑\"",
+     "link": "https://view.asiae.co.kr/article/2026090408231859407"
+    },
     {
      "date": "2026-09-02",
      "source": "뉴시스·경제",
@@ -4177,6 +4189,30 @@
   "엔비디아(NVDA)": {
    "articles": [
     {
+     "date": "2026-09-04",
+     "source": "한국경제·경제",
+     "title": "엔비디아, 허깅페이스 130억달러 인수…AI 유통망까지 품는다",
+     "link": "https://www.hankyung.com/article/202609043447i"
+    },
+    {
+     "date": "2026-09-04",
+     "source": "한국경제·경제",
+     "title": "[외신 에스프레소 영상] 18조원 베팅…엔비디아가 허깅페이스를 인수한 진짜 이유",
+     "link": "https://www.hankyung.com/article/202609043408i"
+    },
+    {
+     "date": "2026-09-04",
+     "source": "연합인포맥스",
+     "title": "엔비디아, 'AI 모델 플랫폼' 허깅페이스 129억달러에 인수",
+     "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4433371"
+    },
+    {
+     "date": "2026-09-04",
+     "source": "뉴시스·경제",
+     "title": "엔비디아, '개방형 AI 허브' 허깅페이스 18조원 인수…주가 1.8%↑(종합)",
+     "link": "https://www.newsis.com/view/NISX20260904_0003775825"
+    },
+    {
      "date": "2026-09-03",
      "source": "아시아경제",
      "title": "엔비디아 순환금융 논란…거품보다 중요한 건 '회수 능력'[클릭e종목]",
@@ -4871,30 +4907,6 @@
      "source": "한국경제·경제",
      "title": "엔비디아 \"GPU칩을 담보가치 있는 자산으로\"…월가와 710조원 조성",
      "link": "https://www.hankyung.com/article/202608115217i"
-    },
-    {
-     "date": "2026-08-12",
-     "source": "한국경제·경제",
-     "title": "\"엔비디아, 최고 수준의 오픈소스 모델 겨냥한 AI모델 개발중\"",
-     "link": "https://www.hankyung.com/article/202608125376i"
-    },
-    {
-     "date": "2026-08-12",
-     "source": "연합인포맥스",
-     "title": "엔비디아, 칩 넘어 'AI 금융'까지 손대는 이유는",
-     "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4429655"
-    },
-    {
-     "date": "2026-08-12",
-     "source": "뉴시스·경제",
-     "title": "엔비디아, '네모트론 3.5 라이트닝' 공개…오픈소스 전략 박차",
-     "link": "https://www.newsis.com/view/NISX20260812_0003746288"
-    },
-    {
-     "date": "2026-08-12",
-     "source": "뉴시스·경제",
-     "title": "엔비디아 5천억＄ 금융 플랫폼…순환금융 우려 완화냐? 재점화냐?",
-     "link": "https://www.newsis.com/view/NISX20260812_0003746636"
     }
    ]
   },
@@ -5388,6 +5400,12 @@
   },
   "네이버(035420)": {
    "articles": [
+    {
+     "date": "2026-09-04",
+     "source": "아시아경제",
+     "title": "키움증권에서 '네이버 쇼핑'하면 최대 4% 적립",
+     "link": "https://view.asiae.co.kr/article/2026090408514454310"
+    },
     {
      "date": "2026-09-01",
      "source": "한국경제·경제",
@@ -12037,6 +12055,12 @@
   "비츠로셀(082920)": {
    "articles": [
     {
+     "date": "2026-09-04",
+     "source": "연합뉴스·경제",
+     "title": "신한증권, 비츠로셀 목표주가↓…환율·화재로 수익성 우려\"",
+     "link": "https://www.yna.co.kr/view/AKR20260904025000008"
+    },
+    {
      "date": "2026-09-01",
      "source": "파이낸셜·증권",
      "title": "\"300억 날아갈 판인데 오히려 호재?\"…비츠로셀 화재, 생산 차질 제한적",
@@ -13207,6 +13231,12 @@
   "농협은행": {
    "articles": [
     {
+     "date": "2026-09-04",
+     "source": "한국경제·경제",
+     "title": "농협은행, 저탄소 농가 탄소배출권 매입",
+     "link": "https://www.hankyung.com/article/2026090329081"
+    },
+    {
      "date": "2026-08-28",
      "source": "한국경제·경제",
      "title": "농협은행, '사람 살리는 금융' 캠페인",
@@ -13992,6 +14022,12 @@
   },
   "두나무": {
    "articles": [
+    {
+     "date": "2026-09-04",
+     "source": "아시아경제",
+     "title": "두나무, 공정거래 자율준수 프로그램 강화 선포식",
+     "link": "https://view.asiae.co.kr/article/2026090408052434684"
+    },
     {
      "date": "2026-09-02",
      "source": "아시아경제",
@@ -16389,6 +16425,12 @@
   "로보티즈(108490)": {
    "articles": [
     {
+     "date": "2026-09-04",
+     "source": "한국경제·증권",
+     "title": "\"로보티즈, 중국 매출 증가 긍정적\"-KB",
+     "link": "https://www.hankyung.com/article/2026090433656"
+    },
+    {
      "date": "2026-08-24",
      "source": "아시아경제",
      "title": "[클릭 e종목]\"로보티즈, 업종 내 차별화 역량 보유…목표가↑\"",
@@ -18781,6 +18823,18 @@
   "실리콘투(257720)": {
    "articles": [
     {
+     "date": "2026-09-04",
+     "source": "파이낸셜·증권",
+     "title": "실리콘투, 고객사 다변화로 실적 견조…목표가 6만5000원",
+     "link": "https://www.fnnews.com/news/202609040755106740"
+    },
+    {
+     "date": "2026-09-04",
+     "source": "연합뉴스·경제",
+     "title": "한투증권, 실리콘투 목표가↑…\"유럽 내 화장품 수요 증가\"",
+     "link": "https://www.yna.co.kr/view/AKR20260904025600008"
+    },
+    {
      "date": "2026-08-28",
      "source": "연합인포맥스",
      "title": "매수 리포트 속 날아든 6.72% 블록딜…실리콘투에 무슨 일이",
@@ -19724,6 +19778,12 @@
   },
   "키움증권(039490)": {
    "articles": [
+    {
+     "date": "2026-09-04",
+     "source": "아시아경제",
+     "title": "키움증권에서 '네이버 쇼핑'하면 최대 4% 적립",
+     "link": "https://view.asiae.co.kr/article/2026090408514454310"
+    },
     {
      "date": "2026-09-01",
      "source": "연합뉴스·경제",
@@ -21455,6 +21515,12 @@
   "GS리테일(007070)": {
    "articles": [
     {
+     "date": "2026-09-04",
+     "source": "연합뉴스·경제",
+     "title": "GS리테일, 하반기 신입사원 채용…21일까지 원서 접수",
+     "link": "https://www.yna.co.kr/view/AKR20260904024000030"
+    },
+    {
      "date": "2026-08-23",
      "source": "연합뉴스·경제",
      "title": "'납품업체에 판촉비 전가' GS리테일, 과징금 불복소송 최종 패소",
@@ -22351,6 +22417,12 @@
   "현대오토에버(307950)": {
    "articles": [
     {
+     "date": "2026-09-04",
+     "source": "파이낸셜·증권",
+     "title": "\"현대오토에버, 소프트웨어 통합 사업자로 변화…과제는 수익성 개선\"",
+     "link": "https://www.fnnews.com/news/202609040832260964"
+    },
+    {
      "date": "2026-08-26",
      "source": "한국경제·증권",
      "title": "93만원서 반토막… 현대오토에버, 반등할 수 있을까",
@@ -23081,6 +23153,12 @@
   "대상(001680)": {
    "articles": [
     {
+     "date": "2026-09-04",
+     "source": "연합뉴스·경제",
+     "title": "[게시판] 대상, 백혈병어린이재단에 헌혈증서 전달",
+     "link": "https://www.yna.co.kr/view/AKR20260904027700030"
+    },
+    {
      "date": "2026-09-03",
      "source": "한국경제·경제",
      "title": "'인력 배치'도 파업 대상에 포함…재계 \"노조에 투자 거부권 준 것\"",
@@ -23793,12 +23871,6 @@
      "source": "뉴시스·경제",
      "title": "수공, 美 CSUB 대상 'AI·디지털트윈 첨단 물관리 여름학기' 운영",
      "link": "https://www.newsis.com/view/NISX20260804_0003735760"
-    },
-    {
-     "date": "2026-08-03",
-     "source": "연합뉴스·경제",
-     "title": "노동부 \"인천 사업장 장애인 대상 성범죄·체불 확인…사법처리\"",
-     "link": "https://www.yna.co.kr/view/AKR20260803146900530"
     }
    ]
   },
@@ -24990,6 +25062,12 @@
   },
   "SG(255220)": {
    "articles": [
+    {
+     "date": "2026-09-04",
+     "source": "아시아경제",
+     "title": "SG, 박창호 대표 보유 배정권리의 120% 초과청약…책임경영 의지",
+     "link": "https://view.asiae.co.kr/article/2026090408273561995"
+    },
     {
      "date": "2026-09-03",
      "source": "아시아경제",
@@ -28859,6 +28937,12 @@
   "SpaceX": {
    "articles": [
     {
+     "date": "2026-09-04",
+     "source": "MarketWatch",
+     "title": "SpaceX is back in the $2 trillion club after nearly two months",
+     "link": "https://www.marketwatch.com/story/spacex-is-back-in-the-2-trillion-club-after-nearly-two-months-25632255?mod=mw_rss_topstories"
+    },
+    {
      "date": "2026-09-03",
      "source": "MarketWatch",
      "title": "SpaceX’s big AI advantage is why this analyst thinks the stock could double",
@@ -31028,6 +31112,18 @@
   },
   "파인엠텍(441270)": {
    "articles": [
+    {
+     "date": "2026-09-04",
+     "source": "파이낸셜·증권",
+     "title": "한양證 \"파인엠텍, 3년 기다린 애플이 온다…실적 퀀텀점프\"",
+     "link": "https://www.fnnews.com/news/202609040839016092"
+    },
+    {
+     "date": "2026-09-04",
+     "source": "아시아경제",
+     "title": "[클릭 e종목]\"파인엠텍, 애플 폴더블로 하반기에만 2000억 매출 가능…영업익 1238%↑\"",
+     "link": "https://view.asiae.co.kr/article/2026090408231859407"
+    },
     {
      "date": "2026-08-19",
      "source": "아시아경제",
@@ -33325,6 +33421,12 @@
   "DB증권(016610)": {
    "articles": [
     {
+     "date": "2026-09-04",
+     "source": "연합뉴스·경제",
+     "title": "DB증권 \"BOJ, 9월 기준금리 25bp 인상 전망…엔화 점차 강세\"",
+     "link": "https://www.yna.co.kr/view/AKR20260904026300008"
+    },
+    {
      "date": "2026-09-02",
      "source": "연합인포맥스",
      "title": "'AA' 하나증권·'A+' DB증권 회사채 수요예측 흥행 성공…언더 금리 형성",
@@ -33486,6 +33588,12 @@
   },
   "구글(GOOGL)": {
    "articles": [
+    {
+     "date": "2026-09-04",
+     "source": "한국경제·경제",
+     "title": "구글, 광고 사업 분할 피했다…美 정부, 법정에서 또 패배",
+     "link": "https://www.hankyung.com/article/202609043534i"
+    },
     {
      "date": "2026-09-03",
      "source": "한국경제·증권",
@@ -35095,6 +35203,12 @@
   "빗썸": {
    "articles": [
     {
+     "date": "2026-09-04",
+     "source": "아시아경제",
+     "title": "빗썸, '2026 청년 채용설명회' 참여…\"현직자 직무 멘토링\"",
+     "link": "https://view.asiae.co.kr/article/2026090408080520909"
+    },
+    {
      "date": "2026-09-02",
      "source": "아시아경제",
      "title": "\"AI가 코인시장 분석한다\"…빗썸, '빗썸 AI' 출시",
@@ -35296,6 +35410,12 @@
   },
   "무신사": {
    "articles": [
+    {
+     "date": "2026-09-04",
+     "source": "연합뉴스·경제",
+     "title": "무신사, 노아·타이맥스 협업 시계 국내 최초 출시",
+     "link": "https://www.yna.co.kr/view/AKR20260904026700030"
+    },
     {
      "date": "2026-09-02",
      "source": "연합뉴스·경제",
@@ -35847,7 +35967,47 @@
      "link": "https://www.mt.co.kr/stock/2026/09/03/2026090310473577384"
     }
    ]
+  },
+  "어도비(ADBE)": {
+   "articles": [
+    {
+     "date": "2026-09-04",
+     "source": "연합인포맥스",
+     "title": "AI 위협에 주가 폭락한 어도비…18년 만에 CEO교체",
+     "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4433408"
+    }
+   ]
+  },
+  "룰루레몬(LULU)": {
+   "articles": [
+    {
+     "date": "2026-09-04",
+     "source": "연합인포맥스",
+     "title": "룰루레몬, 어닝 쇼크에 시간외 18% 급락…연간 가이던스 하향",
+     "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4433394"
+    }
+   ]
+  },
+  "SNT에너지(100840)": {
+   "articles": [
+    {
+     "date": "2026-09-04",
+     "source": "아시아경제",
+     "title": "- 🌱 조기 출몰(선점 후보 — 최우선): SNT에너지(100840)·중형 [조기단계: 첫등장 D-2(9/2)·니치레이더 신규포착·↗3일연속] · [AI전력/데이",
+     "link": "https://view.asiae.co.kr/article/2026090214184262527"
+    }
+   ]
+  },
+  "제이스로보틱스(090470)": {
+   "articles": [
+    {
+     "date": "2026-09-04",
+     "source": "아시아경제",
+     "title": "제이스로보틱스(090470)·소형 [첫등장 D-2·↗3일연속] · [로봇/휴머노이드] 332.6억원 2차전지 로보틱스 설비계약(매출대비 108.5%), 단 공시 ",
+     "link": "https://view.asiae.co.kr/article/2026090209535723107"
+    }
+   ]
   }
  },
- "updatedAt": "2026-09-03T23:23:17+09:00"
+ "updatedAt": "2026-09-04T08:53:39+09:00"
 }
