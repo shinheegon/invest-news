@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-09-04T23:40:11+09:00",
+ "updatedAt": "2026-09-05T23:10:41+09:00",
  "cases": [
   {
    "name": "RF머트리얼즈(327260)",
@@ -50026,6 +50026,36 @@
      "price": 10950
     }
    ]
+  },
+  {
+   "name": "에이치케이(044780)",
+   "type": "leading",
+   "market": "韓",
+   "flagDate": "2026-09-05",
+   "signals": [
+    "TSMC1차벤더레이저가공기공급완료",
+    "반도체파운드리증설밸류체인",
+    "구체성절반(금액비공개)"
+   ],
+   "theme": "반도체장비",
+   "status": "pending",
+   "checks": [],
+   "flagPrice": 1404,
+   "priceLog": [
+    {
+     "date": "2026-09-04",
+     "price": 1404
+    }
+   ],
+   "convScore": 4,
+   "convTier": "mid",
+   "convSignals": [
+    "반복포착",
+    "구체촉발재",
+    "⚠️열세테마",
+    "틈새레이더"
+   ],
+   "convStampedAt": "2026-09-05"
   }
  ],
  "stats": {
@@ -50035,8 +50065,8 @@
   "miss": 140,
   "hitRate": 24.3,
   "avgD3ChangePct": 0.16,
-  "pending": 48,
-  "total": 365,
+  "pending": 49,
+  "total": 366,
   "byType": {
    "leading": {
     "verified": 134,
