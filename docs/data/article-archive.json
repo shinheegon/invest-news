@@ -5,8 +5,20 @@
     {
      "date": "2026-09-06",
      "source": "한국경제·증권",
+     "title": "삼성전자, SK하이닉스 FCF 50% 주주환원이 던지는 질문 [이강연의 재무제표 일기]",
+     "link": "https://www.hankyung.com/article/202608313342i"
+    },
+    {
+     "date": "2026-09-06",
+     "source": "한국경제·증권",
      "title": "다시 꿈틀대는 SK하이닉스 주가…향후 핵심 이벤트 6가지",
      "link": "https://www.hankyung.com/article/202609044927i"
+    },
+    {
+     "date": "2026-09-06",
+     "source": "korea.counterpointresearch.com",
+     "title": "- SK하이닉스(000660): HBM 점유율 50%로 1위 유지, 2026년 영업이익 100조원대 전망.",
+     "link": "https://korea.counterpointresearch.com/global-hbm-market-share-q2-2026/"
     },
     {
      "date": "2026-09-05",
@@ -709,23 +721,17 @@
      "source": "한국경제·경제",
      "title": "SK하이닉스, 용인·청주에 54조 투자 확정",
      "link": "https://www.hankyung.com/article/2026080712661"
-    },
-    {
-     "date": "2026-08-07",
-     "source": "한국경제·경제",
-     "title": "SK하이닉스, 용인·청주에 54조 투입…AI 메모리 적기 공급 총력",
-     "link": "https://www.hankyung.com/article/202608071160i"
-    },
-    {
-     "date": "2026-08-07",
-     "source": "파이낸셜·증권",
-     "title": "코스피, 상승 출발 뒤 1%대 하락…SK하이닉스 5%↓ [fn오전시황]",
-     "link": "https://www.fnnews.com/news/202608071049068228"
     }
    ]
   },
   "삼성전자(005930)": {
    "articles": [
+    {
+     "date": "2026-09-06",
+     "source": "한국경제·증권",
+     "title": "삼성전자, SK하이닉스 FCF 50% 주주환원이 던지는 질문 [이강연의 재무제표 일기]",
+     "link": "https://www.hankyung.com/article/202608313342i"
+    },
     {
      "date": "2026-09-05",
      "source": "한국경제·경제",
@@ -1439,12 +1445,6 @@
      "source": "한국경제·증권",
      "title": "출렁이는 삼성전자 주가…컨센서스 변화로 투자전략 짜보니",
      "link": "https://www.hankyung.com/article/202608127120i"
-    },
-    {
-     "date": "2026-08-13",
-     "source": "한국경제·증권",
-     "title": "\"반도체주 훨훨 날아간다\"…삼성전자 5%·하이닉스 7%대 ↑",
-     "link": "https://www.hankyung.com/article/2026081384346"
     }
    ]
   },
@@ -4201,6 +4201,12 @@
   "엔비디아(NVDA)": {
    "articles": [
     {
+     "date": "2026-09-06",
+     "source": "연합인포맥스",
+     "title": "엔비디아, 허깅페이스 인수…17조원으로 개방형 AI 생태계 삼켰다",
+     "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4433619"
+    },
+    {
      "date": "2026-09-05",
      "source": "한국경제·증권",
      "title": "엔비디아 '빅딜'에 오픈AI \"AGI 왔다\"…고래싸움에 웃는 반도체 [빈난새의 빈틈없이마켓]",
@@ -4913,12 +4919,6 @@
      "source": "한국경제·증권",
      "title": "26일 실적 내놓는 엔비디아…삼전닉스 등 반도체 투자전략은",
      "link": "https://www.hankyung.com/article/202608142260i"
-    },
-    {
-     "date": "2026-08-15",
-     "source": "한국경제·경제",
-     "title": "휴머노이드·모빌리티까지…LG·엔비디아 'AI 동맹'",
-     "link": "https://www.hankyung.com/article/2026081425491"
     }
    ]
   },
@@ -6723,6 +6723,12 @@
   "신세계(004170)": {
    "articles": [
     {
+     "date": "2026-09-06",
+     "source": "한국경제·경제",
+     "title": "한화·신세계도 쪼갠다…대기업 사업재편 우회로로 뜨는 인적분할",
+     "link": "https://www.hankyung.com/article/2026090669511"
+    },
+    {
      "date": "2026-09-02",
      "source": "한국경제·경제",
      "title": "신세계·MCM…마케팅 무대된 프리즈 서울",
@@ -7008,6 +7014,12 @@
   },
   "한미반도체(042700)": {
    "articles": [
+    {
+     "date": "2026-09-06",
+     "source": "한국경제",
+     "title": "- 한미반도체(042700): HBM4 생산용 TC본더 신제품 공개, 대만 파운드리向 2.5D 패키징 본더 첫 공급 개시 — 언급 누적 135회로 최상위 유지.",
+     "link": "https://www.hankyung.com/article/202609044713i"
+    },
     {
      "date": "2026-08-18",
      "source": "한국경제·경제",
@@ -7682,6 +7694,12 @@
   },
   "대한광통신(010170)": {
    "articles": [
+    {
+     "date": "2026-09-06",
+     "source": "한국경제·증권",
+     "title": "대한광통신, 올해 흑자전환 기대…실적 눈높이도 껑충",
+     "link": "https://www.hankyung.com/article/202609066367i"
+    },
     {
      "date": "2026-06-20",
      "source": "한국경제",
@@ -9939,6 +9957,12 @@
   "KT(030200)": {
    "articles": [
     {
+     "date": "2026-09-06",
+     "source": "연합인포맥스",
+     "title": "KT, 서울불꽃축제에 5G SA 슬라이싱…CCTV 영상 실시간 전송",
+     "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4433614"
+    },
+    {
      "date": "2026-09-03",
      "source": "한국경제·증권",
      "title": "실적 좋고 배당 늘리고… KT&G, '성장배당주'로 탈바꿈",
@@ -10604,6 +10628,24 @@
   },
   "LG전자(066570)": {
    "articles": [
+    {
+     "date": "2026-09-06",
+     "source": "한국경제·증권",
+     "title": "[단독] LG전자 자회사 베어로보틱스, 프리IPO 추진",
+     "link": "https://www.hankyung.com/article/202609066608i"
+    },
+    {
+     "date": "2026-09-06",
+     "source": "한국경제·경제",
+     "title": "LG전자 \"로봇 관절 액추에이터, 빅테크 공급 추진중\"",
+     "link": "https://www.hankyung.com/article/2026090668691"
+    },
+    {
+     "date": "2026-09-06",
+     "source": "연합인포맥스",
+     "title": "[기업 이모저모] IR도 조직도…AI 시대로 탈바꿈하는 LG전자",
+     "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4433622"
+    },
     {
      "date": "2026-09-04",
      "source": "한국경제·경제",
@@ -16877,6 +16919,18 @@
   "SK(034730)": {
    "articles": [
     {
+     "date": "2026-09-06",
+     "source": "한국경제·경제",
+     "title": "SK \"제조 AI 대전환, 울산서 논의\"",
+     "link": "https://www.hankyung.com/article/2026090668701"
+    },
+    {
+     "date": "2026-09-06",
+     "source": "연합인포맥스",
+     "title": "SK·울산상의, 울산포럼서 AI로 지역 혁신 해법 찾는다",
+     "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4433612"
+    },
+    {
      "date": "2026-09-03",
      "source": "한국경제·경제",
      "title": "[단독] 삼성·SK 신규 팹에 주문 몰렸다…'워트' 공장 90% 가동",
@@ -19249,6 +19303,18 @@
   "GS건설(006360)": {
    "articles": [
     {
+     "date": "2026-09-06",
+     "source": "연합뉴스·경제",
+     "title": "GS건설·LGU+ 등, 모듈러 데이터센터 표준모델 공동개발 맞손",
+     "link": "https://www.yna.co.kr/view/AKR20260906014600003"
+    },
+    {
+     "date": "2026-09-06",
+     "source": "뉴시스·경제",
+     "title": "GS건설, AI 데이터센터 모듈러 표준모델 개발…공급 속도 높인다",
+     "link": "https://www.newsis.com/view/NISX20260906_0003777947"
+    },
+    {
      "date": "2026-09-04",
      "source": "뉴시스·경제",
      "title": "GS건설, 부산 연제갤러리자이 조성…연산교차로 '교통요지'",
@@ -20388,6 +20454,24 @@
   },
   "한화(000880)": {
    "articles": [
+    {
+     "date": "2026-09-06",
+     "source": "한국경제·경제",
+     "title": "한화·신세계도 쪼갠다…대기업 사업재편 우회로로 뜨는 인적분할",
+     "link": "https://www.hankyung.com/article/2026090669511"
+    },
+    {
+     "date": "2026-09-06",
+     "source": "한국경제·경제",
+     "title": "한화, 서울불꽃축제 비용 130억 전액 부담",
+     "link": "https://www.hankyung.com/article/2026090669151"
+    },
+    {
+     "date": "2026-09-06",
+     "source": "연합인포맥스",
+     "title": "한화, 서울세계불꽃축제 개최…130억 전액 부담·100만명 관람",
+     "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4433618"
+    },
     {
      "date": "2026-09-05",
      "source": "한국경제·경제",
@@ -23339,6 +23423,12 @@
   "대상(001680)": {
    "articles": [
     {
+     "date": "2026-09-06",
+     "source": "뉴시스·경제",
+     "title": "농촌 풍경·삶 담은 사진·영상 50점 선정…대상 '미루나무 사이길로'",
+     "link": "https://www.newsis.com/view/NISX20260905_0003777454"
+    },
+    {
      "date": "2026-09-04",
      "source": "파이낸셜뉴스",
      "title": "건국대, 농협 임직원 대상 'AX 리더 전략과정' 운영",
@@ -24051,12 +24141,6 @@
      "source": "뉴시스·경제",
      "title": "농식품부, 농가 160여곳 대상 여름철 축산악취 집중점검",
      "link": "https://www.newsis.com/view/NISX20260810_0003742157"
-    },
-    {
-     "date": "2026-08-07",
-     "source": "연합뉴스·경제",
-     "title": "대상, 세종시 복지시설에 동물복지 유정란 3만5천여알 기부",
-     "link": "https://www.yna.co.kr/view/AKR20260807024200030"
     }
    ]
   },
@@ -31653,6 +31737,18 @@
   "현대제철(004020)": {
    "articles": [
     {
+     "date": "2026-09-06",
+     "source": "한국경제·경제",
+     "title": "美서 쇳물 뽑는 현대제철…\"아틀라스에 적용\"",
+     "link": "https://www.hankyung.com/article/2026090669221"
+    },
+    {
+     "date": "2026-09-06",
+     "source": "한국경제·경제",
+     "title": "'철강 라이벌' 현대제철·포스코 원팀됐다",
+     "link": "https://www.hankyung.com/article/2026090669541"
+    },
+    {
      "date": "2026-09-05",
      "source": "한국경제·경제",
      "title": "김정관 \"현대제철 美제철소, 한미 모두에 '윈윈'\"",
@@ -32561,6 +32657,12 @@
   "LG(003550)": {
    "articles": [
     {
+     "date": "2026-09-06",
+     "source": "연합인포맥스",
+     "title": "데이터센터도 '모듈러'로…LG U+, AIDC 구축기간 단축 나서",
+     "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4433613"
+    },
+    {
      "date": "2026-09-04",
      "source": "한국경제·경제",
      "title": "'체험의 밀도'가 다르다…LG 오디오가 '셀럽들 산후조리원' 파고든 이유",
@@ -33204,6 +33306,12 @@
   },
   "애경산업(018250)": {
    "articles": [
+    {
+     "date": "2026-09-06",
+     "source": "연합뉴스·경제",
+     "title": "애경산업, '헤어케어 사업부' 신설…두피 제품 매출 확대 추진",
+     "link": "https://www.yna.co.kr/view/AKR20260905040700030"
+    },
     {
      "date": "2026-08-12",
      "source": "연합인포맥스",
@@ -35295,6 +35403,12 @@
   "국민연금": {
    "articles": [
     {
+     "date": "2026-09-06",
+     "source": "아시아경제",
+     "title": "\"신입생 매년 들어와 수요 탄탄\" 국민연금도 투자…'큰 손'이 1조 쏟아부은 대학기숙사",
+     "link": "https://view.asiae.co.kr/article/2026090314112917781"
+    },
+    {
      "date": "2026-09-04",
      "source": "연합뉴스·경제",
      "title": "국민연금, 하반기 신입직원 90명 채용…'MZ 면접관' 도입",
@@ -35516,6 +35630,18 @@
   },
   "롯데건설": {
    "articles": [
+    {
+     "date": "2026-09-06",
+     "source": "연합뉴스·경제",
+     "title": "롯데건설, 도곡우성 재건축 수주…'르엘' 브랜드 적용",
+     "link": "https://www.yna.co.kr/view/AKR20260906017700003"
+    },
+    {
+     "date": "2026-09-06",
+     "source": "뉴시스·경제",
+     "title": "롯데건설, 4000억 도곡우성 재건축 수주…올해 정비사업 4조 돌파",
+     "link": "https://www.newsis.com/view/NISX20260906_0003777939"
+    },
     {
      "date": "2026-08-30",
      "source": "뉴시스·경제",
@@ -35858,6 +35984,12 @@
   },
   "우리은행": {
    "articles": [
+    {
+     "date": "2026-09-06",
+     "source": "연합뉴스·경제",
+     "title": "우리은행, 아시안게임 '팀코리아' 적금 출시…최고 연 7.5%",
+     "link": "https://www.yna.co.kr/view/AKR20260905028900002"
+    },
     {
      "date": "2026-09-01",
      "source": "연합뉴스·경제",
@@ -36499,7 +36631,77 @@
      "link": "https://view.asiae.co.kr/article/2026090308262171612"
     }
    ]
+  },
+  "듀켐바이오(176750)": {
+   "articles": [
+    {
+     "date": "2026-09-06",
+     "source": "연합뉴스·경제",
+     "title": "듀켐바이오, 정읍에 343억원 규모 투자…전북도 등과 협약",
+     "link": "https://www.yna.co.kr/view/AKR20260904099800055"
+    }
+   ]
+  },
+  "리파인(377450)": {
+   "articles": [
+    {
+     "date": "2026-09-06",
+     "source": "아시아경제",
+     "title": "차파트너스 \"리파인 최대주주 공개매수는 이해상충\"",
+     "link": "https://view.asiae.co.kr/article/2026090416483552236"
+    }
+   ]
+  },
+  "한국자산신탁(123890)": {
+   "articles": [
+    {
+     "date": "2026-09-06",
+     "source": "아시아경제",
+     "title": "한국자산신탁-존슨헬스테크코리아, 주거시설 프리미엄 피트니스 커뮤니티 조성 업무협약",
+     "link": "https://view.asiae.co.kr/article/2026090409190595907"
+    }
+   ]
+  },
+  "벡트(457600)": {
+   "articles": [
+    {
+     "date": "2026-09-06",
+     "source": "아시아경제",
+     "title": "벡트, 日 이어 국내 특수학교 공략…'모션마루' 사업 확대",
+     "link": "https://view.asiae.co.kr/article/2026090408080316952"
+    }
+   ]
+  },
+  "광전자(017900)": {
+   "articles": [
+    {
+     "date": "2026-09-06",
+     "source": "아시아경제",
+     "title": "파커스, 엘포톤 자회사 편입 완료…광전자 플랫폼 사업 본격화",
+     "link": "https://view.asiae.co.kr/article/2026090310134200006"
+    }
+   ]
+  },
+  "HLB바이오스텝(278650)": {
+   "articles": [
+    {
+     "date": "2026-09-06",
+     "source": "아시아경제",
+     "title": "HLB바이오스텝, 넥셀과 업무협약…\"오가노이드·비임상시험 결합\"",
+     "link": "https://view.asiae.co.kr/article/2026090310110137551"
+    }
+   ]
+  },
+  "유나이티드항공(UAL)": {
+   "articles": [
+    {
+     "date": "2026-09-06",
+     "source": "뉴시스·경제",
+     "title": "인천~뉴욕 주 42회로 확대…유나이티드항공 신규 취항",
+     "link": "https://www.newsis.com/view/NISX20260906_0003777955"
+    }
+   ]
   }
  },
- "updatedAt": "2026-09-06T08:43:02+09:00"
+ "updatedAt": "2026-09-06T22:34:08+09:00"
 }

@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-09-06T09:22:44+09:00",
+ "updatedAt": "2026-09-06T23:09:45+09:00",
  "cases": [
   {
    "name": "RF머트리얼즈(327260)",
@@ -50188,6 +50188,35 @@
    "theme": "기타",
    "status": "pending",
    "checks": []
+  },
+  {
+   "name": "폴라리스AI(039980)",
+   "type": "leading",
+   "market": "韓",
+   "flagDate": "2026-09-06",
+   "signals": [
+    "신제품실물전시",
+    "파트너십선점",
+    "휴머노이드유통권"
+   ],
+   "theme": "로봇/휴머노이드",
+   "status": "pending",
+   "checks": [],
+   "flagPrice": 5400,
+   "priceLog": [
+    {
+     "date": "2026-09-04",
+     "price": 5400
+    }
+   ],
+   "convScore": 6,
+   "convTier": "high",
+   "convSignals": [
+    "승세테마",
+    "구체촉발재",
+    "틈새레이더"
+   ],
+   "convStampedAt": "2026-09-06"
   }
  ],
  "stats": {
@@ -50197,8 +50226,8 @@
   "miss": 140,
   "hitRate": 24.3,
   "avgD3ChangePct": 0.16,
-  "pending": 55,
-  "total": 372,
+  "pending": 56,
+  "total": 373,
   "byType": {
    "leading": {
     "verified": 134,
