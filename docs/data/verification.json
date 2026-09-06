@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-09-05T23:10:41+09:00",
+ "updatedAt": "2026-09-06T09:22:44+09:00",
  "cases": [
   {
    "name": "RF머트리얼즈(327260)",
@@ -50056,6 +50056,138 @@
     "틈새레이더"
    ],
    "convStampedAt": "2026-09-05"
+  },
+  {
+   "name": "파인엠텍(441270)",
+   "type": "leading",
+   "market": "韓",
+   "flagDate": "2026-09-06",
+   "signals": [
+    "실적턴어라운드",
+    "애널리스트매출구체제시"
+   ],
+   "theme": "폴더블 스마트폰 부품",
+   "status": "pending",
+   "checks": [],
+   "flagPrice": 9350,
+   "priceLog": [
+    {
+     "date": "2026-09-04",
+     "price": 9350
+    }
+   ],
+   "convScore": 5,
+   "convTier": "high",
+   "convSignals": [
+    "반복포착",
+    "틈새레이더"
+   ],
+   "convStampedAt": "2026-09-06"
+  },
+  {
+   "name": "알에스오토메이션(140670)",
+   "type": "leading",
+   "market": "韓",
+   "flagDate": "2026-09-06",
+   "signals": [
+    "대형고객사공급계약",
+    "정부로봇예산수혜밸류체인"
+   ],
+   "theme": "로봇/휴머노이드",
+   "status": "pending",
+   "checks": [],
+   "flagPrice": 10290,
+   "priceLog": [
+    {
+     "date": "2026-09-04",
+     "price": 10290
+    }
+   ],
+   "convScore": 7,
+   "convTier": "high",
+   "convSignals": [
+    "반복포착",
+    "승세테마",
+    "구체촉발재"
+   ],
+   "convStampedAt": "2026-09-06"
+  },
+  {
+   "name": "성문전자(014910)",
+   "type": "leading",
+   "market": "韓",
+   "flagDate": "2026-09-06",
+   "signals": [
+    "신사업진출",
+    "구체투자금액제시"
+   ],
+   "theme": "AI전력/데이터센터",
+   "status": "pending",
+   "checks": [],
+   "flagPrice": 2135,
+   "priceLog": [
+    {
+     "date": "2026-09-04",
+     "price": 2135
+    }
+   ],
+   "convScore": -1,
+   "convTier": "low",
+   "convSignals": [
+    "⚠️열세테마",
+    "틈새레이더"
+   ],
+   "convStampedAt": "2026-09-06"
+  },
+  {
+   "name": "원익홀딩스(030530)",
+   "type": "warning",
+   "market": "韓",
+   "flagDate": "2026-09-06",
+   "signals": [
+    "정부로봇예산발표직후상한가"
+   ],
+   "theme": "로봇/휴머노이드",
+   "status": "pending",
+   "checks": [],
+   "flagPrice": 22500,
+   "priceLog": [
+    {
+     "date": "2026-09-04",
+     "price": 22500
+    }
+   ]
+  },
+  {
+   "name": "로보티즈(108490)",
+   "type": "warning",
+   "market": "韓",
+   "flagDate": "2026-09-06",
+   "signals": [
+    "정부로봇예산발표직후급등"
+   ],
+   "theme": "로봇/휴머노이드",
+   "status": "pending",
+   "checks": [],
+   "flagPrice": 304500,
+   "priceLog": [
+    {
+     "date": "2026-09-04",
+     "price": 304500
+    }
+   ]
+  },
+  {
+   "name": "스카이랩스",
+   "type": "warning",
+   "market": "韓",
+   "flagDate": "2026-09-06",
+   "signals": [
+    "코스닥상장첫날급등"
+   ],
+   "theme": "기타",
+   "status": "pending",
+   "checks": []
   }
  ],
  "stats": {
@@ -50065,8 +50197,8 @@
   "miss": 140,
   "hitRate": 24.3,
   "avgD3ChangePct": 0.16,
-  "pending": 49,
-  "total": 366,
+  "pending": 55,
+  "total": 372,
   "byType": {
    "leading": {
     "verified": 134,
