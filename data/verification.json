@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-09-07T09:28:19+09:00",
+ "updatedAt": "2026-09-08T01:28:25+09:00",
  "cases": [
   {
    "name": "RF머트리얼즈(327260)",
@@ -51679,6 +51679,26 @@
     "틈새레이더"
    ],
    "convStampedAt": "2026-09-07"
+  },
+  {
+   "name": "아크릴(0007C0)",
+   "type": "leading",
+   "market": "韓",
+   "flagDate": "2026-09-08",
+   "signals": [
+    "정부과제반복수주"
+   ],
+   "theme": "AI 헬스케어",
+   "status": "pending",
+   "checks": [],
+   "convScore": 7,
+   "convTier": "high",
+   "convSignals": [
+    "반복포착",
+    "구체촉발재",
+    "틈새레이더"
+   ],
+   "convStampedAt": "2026-09-08"
   }
  ],
  "stats": {
@@ -51688,8 +51708,8 @@
   "miss": 142,
   "hitRate": 23.9,
   "avgD3ChangePct": 0.15,
-  "pending": 53,
-  "total": 375,
+  "pending": 54,
+  "total": 376,
   "byType": {
    "leading": {
     "verified": 136,
