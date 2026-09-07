@@ -1,12 +1,12 @@
 {
- "updatedAt": "2026-09-06T23:09:45+09:00",
+ "updatedAt": "2026-09-07T09:28:19+09:00",
  "themes": [
   {
    "theme": "로봇/휴머노이드",
-   "n": 108,
+   "n": 110,
    "hit": 26,
    "miss": 52,
-   "hitRate": 24.1,
+   "hitRate": 23.6,
    "avgD3": 2.1,
    "momentum": "중립"
   },
@@ -29,6 +29,15 @@
    "momentum": "중립"
   },
   {
+   "theme": "AI반도체설계(팹리스/IP)",
+   "n": 39,
+   "hit": 7,
+   "miss": 16,
+   "hitRate": 17.9,
+   "avgD3": -0.1,
+   "momentum": "중립"
+  },
+  {
    "theme": "우주/방산",
    "n": 13,
    "hit": 3,
@@ -48,10 +57,10 @@
   },
   {
    "theme": "AI전력/데이터센터",
-   "n": 37,
+   "n": 38,
    "hit": 11,
-   "miss": 15,
-   "hitRate": 29.7,
+   "miss": 16,
+   "hitRate": 28.9,
    "avgD3": -1.7,
    "momentum": "중립"
   },
@@ -81,15 +90,6 @@
    "hitRate": 25.0,
    "avgD3": -10.9,
    "momentum": "하락"
-  },
-  {
-   "theme": "AI반도체설계(팹리스/IP)",
-   "n": 37,
-   "hit": 7,
-   "miss": 15,
-   "hitRate": 18.9,
-   "avgD3": -0.0,
-   "momentum": "중립"
   }
  ],
  "winning": [],

@@ -1,35 +1,35 @@
 {
- "updatedAt": "2026-09-06T22:35:52+09:00",
+ "updatedAt": "2026-09-07T08:43:23+09:00",
  "note": "원본 헤드라인의 반복 언급을 탐지한 조사 후보이며 투자권유가 아니다. 동일 기사 재실행은 한 번만 집계하고, 순수 악재 반복과 모호한 회사명은 제외한다.",
  "window": 30,
- "corpusToday": 655,
- "trackedCompanies": 659,
+ "corpusToday": 577,
+ "trackedCompanies": 653,
  "companies": [
   {
    "code": "441270",
    "name": "파인엠텍",
    "market": "KOSDAQ",
-   "cap": 3452,
-   "total": 9,
+   "cap": 3946,
+   "total": 11,
    "recent": 4,
-   "activeDays": 8,
+   "activeDays": 9,
    "firstSeen": "2026-08-11",
-   "lastSeen": "2026-09-06",
-   "score": 31.0,
+   "lastSeen": "2026-09-07",
+   "score": 32.1,
    "riskMentions": 0,
    "catalystMentions": 0,
    "samples": [
     {
+     "date": "2026-09-07",
+     "title": "[클릭 e종목]\"파인엠텍, 폴드8 흥행에 북미 폴더블까지…목표가↑\""
+    },
+    {
+     "date": "2026-09-07",
+     "title": "[클릭 e종목]\"파인엠텍, 애플 폴더블로 하반기에만 2000억 매출 가능…영업익 1238%↑\""
+    },
+    {
      "date": "2026-09-06",
      "title": "[클릭 e종목]\"파인엠텍, 애플 폴더블로 하반기에만 2000억 매출 가능…영업익 1238%↑\""
-    },
-    {
-     "date": "2026-09-05",
-     "title": "[클릭 e종목]\"파인엠텍, 애플 폴더블로 하반기에만 2000억 매출 가능…영업익 1238%↑\""
-    },
-    {
-     "date": "2026-09-04",
-     "title": "한양證 \"파인엠텍, 3년 기다린 애플이 온다…실적 퀀텀점프\""
     }
    ]
   },
@@ -37,26 +37,26 @@
    "code": "030610",
    "name": "교보증권",
    "market": "KOSPI",
-   "cap": 11658,
+   "cap": 11510,
    "total": 12,
    "recent": 3,
    "activeDays": 11,
-   "firstSeen": "2026-08-08",
-   "lastSeen": "2026-09-06",
+   "firstSeen": "2026-08-17",
+   "lastSeen": "2026-09-07",
    "score": 30.7,
    "riskMentions": 0,
    "catalystMentions": 0,
    "samples": [
+    {
+     "date": "2026-09-07",
+     "title": "교보증권, SK하이닉스 기초자산 월지급식 ELB 공모"
+    },
     {
      "date": "2026-09-06",
      "title": "교보증권, SK하이닉스 기초자산 월지급식 ELB 공모"
     },
     {
      "date": "2026-09-05",
-     "title": "교보증권, SK하이닉스 기초자산 월지급식 ELB 공모"
-    },
-    {
-     "date": "2026-09-04",
      "title": "교보증권, SK하이닉스 기초자산 월지급식 ELB 공모"
     }
    ]
@@ -65,26 +65,26 @@
    "code": "044780",
    "name": "에이치케이",
    "market": "KOSDAQ",
-   "cap": 250,
-   "total": 9,
+   "cap": 260,
+   "total": 10,
    "recent": 3,
-   "activeDays": 9,
+   "activeDays": 10,
    "firstSeen": "2026-08-10",
-   "lastSeen": "2026-09-06",
-   "score": 28.2,
+   "lastSeen": "2026-09-07",
+   "score": 29.7,
    "riskMentions": 0,
    "catalystMentions": 3,
    "samples": [
+    {
+     "date": "2026-09-07",
+     "title": "에이치케이, TSMC 공급망 진입…대만 1차 벤더 설비 공급 완료"
+    },
     {
      "date": "2026-09-06",
      "title": "에이치케이, TSMC 공급망 진입…대만 1차 벤더 설비 공급 완료"
     },
     {
      "date": "2026-09-05",
-     "title": "에이치케이, TSMC 공급망 진입…대만 1차 벤더 설비 공급 완료"
-    },
-    {
-     "date": "2026-09-04",
      "title": "에이치케이, TSMC 공급망 진입…대만 1차 벤더 설비 공급 완료"
     }
    ]
@@ -93,111 +93,27 @@
    "code": "0007C0",
    "name": "아크릴",
    "market": "KOSDAQ",
-   "cap": 1208,
-   "total": 9,
+   "cap": 1317,
+   "total": 10,
    "recent": 3,
-   "activeDays": 9,
+   "activeDays": 10,
    "firstSeen": "2026-08-20",
-   "lastSeen": "2026-09-06",
-   "score": 28.2,
+   "lastSeen": "2026-09-07",
+   "score": 29.7,
    "riskMentions": 0,
    "catalystMentions": 3,
    "samples": [
     {
+     "date": "2026-09-07",
+     "title": "아크릴, 국가 의료 AI 연구개발 사업 잇단 수주"
+    },
+    {
      "date": "2026-09-06",
      "title": "아크릴, 국가 의료 AI 연구개발 사업 잇단 수주"
     },
     {
      "date": "2026-09-05",
      "title": "아크릴, 국가 의료 AI 연구개발 사업 잇단 수주"
-    },
-    {
-     "date": "2026-09-04",
-     "title": "아크릴, 국가 의료 AI 연구개발 사업 잇단 수주"
-    }
-   ]
-  },
-  {
-   "code": "355690",
-   "name": "에이텀",
-   "market": "KOSDAQ",
-   "cap": 430,
-   "total": 18,
-   "recent": 2,
-   "activeDays": 13,
-   "firstSeen": "2026-08-19",
-   "lastSeen": "2026-09-05",
-   "score": 27.0,
-   "riskMentions": 0,
-   "catalystMentions": 2,
-   "samples": [
-    {
-     "date": "2026-09-05",
-     "title": "에이텀, '알짜 자회사' 청한전자 성장 본격화…AI MLCC·반도체로 재평가 기대"
-    },
-    {
-     "date": "2026-09-04",
-     "title": "에이텀, '알짜 자회사' 청한전자 성장 본격화…AI MLCC·반도체로 재평가 기대"
-    },
-    {
-     "date": "2026-09-03",
-     "title": "에이텀, '알짜 자회사' 청한전자 성장 본격화…AI MLCC·반도체로 재평가 기대"
-    }
-   ]
-  },
-  {
-   "code": "079370",
-   "name": "제우스",
-   "market": "KOSDAQ",
-   "cap": 3192,
-   "total": 9,
-   "recent": 4,
-   "activeDays": 6,
-   "firstSeen": "2026-08-27",
-   "lastSeen": "2026-09-06",
-   "score": 27.0,
-   "riskMentions": 0,
-   "catalystMentions": 3,
-   "samples": [
-    {
-     "date": "2026-09-06",
-     "title": "크릿벤처스, '제우스: 오만의 신' 개발사 '에이버튼'에 후속투자"
-    },
-    {
-     "date": "2026-09-05",
-     "title": "크릿벤처스, '제우스: 오만의 신' 개발사 '에이버튼'에 후속투자"
-    },
-    {
-     "date": "2026-09-04",
-     "title": "크릿벤처스, '제우스: 오만의 신' 개발사 '에이버튼'에 후속투자"
-    }
-   ]
-  },
-  {
-   "code": "017900",
-   "name": "광전자",
-   "market": "KOSPI",
-   "cap": 4352,
-   "total": 8,
-   "recent": 3,
-   "activeDays": 8,
-   "firstSeen": "2026-08-27",
-   "lastSeen": "2026-09-06",
-   "score": 26.7,
-   "riskMentions": 0,
-   "catalystMentions": 0,
-   "samples": [
-    {
-     "date": "2026-09-06",
-     "title": "파커스, 엘포톤 자회사 편입 완료…광전자 플랫폼 사업 본격화"
-    },
-    {
-     "date": "2026-09-05",
-     "title": "파커스, 엘포톤 자회사 편입 완료…광전자 플랫폼 사업 본격화"
-    },
-    {
-     "date": "2026-09-04",
-     "title": "파커스, 엘포톤 자회사 편입 완료…광전자 플랫폼 사업 본격화"
     }
    ]
   },
@@ -205,111 +121,55 @@
    "code": "065690",
    "name": "파커스",
    "market": "KOSDAQ",
-   "cap": 223,
-   "total": 8,
+   "cap": 224,
+   "total": 9,
    "recent": 3,
-   "activeDays": 8,
+   "activeDays": 9,
    "firstSeen": "2026-08-27",
-   "lastSeen": "2026-09-06",
-   "score": 26.7,
+   "lastSeen": "2026-09-07",
+   "score": 28.2,
    "riskMentions": 0,
    "catalystMentions": 0,
    "samples": [
     {
+     "date": "2026-09-07",
+     "title": "파커스, 엘포톤 자회사 편입 완료…광전자 플랫폼 사업 본격화"
+    },
+    {
      "date": "2026-09-06",
      "title": "파커스, 엘포톤 자회사 편입 완료…광전자 플랫폼 사업 본격화"
     },
     {
      "date": "2026-09-05",
      "title": "파커스, 엘포톤 자회사 편입 완료…광전자 플랫폼 사업 본격화"
-    },
-    {
-     "date": "2026-09-04",
-     "title": "파커스, 엘포톤 자회사 편입 완료…광전자 플랫폼 사업 본격화"
     }
    ]
   },
   {
-   "code": "062970",
-   "name": "한국첨단소재",
-   "market": "KOSDAQ",
-   "cap": 638,
-   "total": 10,
+   "code": "017900",
+   "name": "광전자",
+   "market": "KOSPI",
+   "cap": 4097,
+   "total": 9,
    "recent": 3,
-   "activeDays": 8,
-   "firstSeen": "2026-08-08",
-   "lastSeen": "2026-09-06",
-   "score": 25.7,
-   "riskMentions": 0,
-   "catalystMentions": 3,
-   "samples": [
-    {
-     "date": "2026-09-06",
-     "title": "한국첨단소재 \"루센트 투자조합 주식 70억원에 취득\""
-    },
-    {
-     "date": "2026-09-05",
-     "title": "한국첨단소재 \"루센트 투자조합 주식 70억원에 취득\""
-    },
-    {
-     "date": "2026-09-04",
-     "title": "한국첨단소재 \"루센트 투자조합 주식 70억원에 취득\""
-    }
-   ]
-  },
-  {
-   "code": "039980",
-   "name": "폴라리스AI",
-   "market": "KOSDAQ",
-   "cap": 791,
-   "total": 10,
-   "recent": 3,
-   "activeDays": 8,
-   "firstSeen": "2026-08-20",
-   "lastSeen": "2026-09-06",
-   "score": 25.7,
+   "activeDays": 9,
+   "firstSeen": "2026-08-27",
+   "lastSeen": "2026-09-07",
+   "score": 28.2,
    "riskMentions": 0,
    "catalystMentions": 0,
    "samples": [
     {
+     "date": "2026-09-07",
+     "title": "파커스, 엘포톤 자회사 편입 완료…광전자 플랫폼 사업 본격화"
+    },
+    {
      "date": "2026-09-06",
-     "title": "폴라리스AI, 휴머노이드로 산업현장 공략…'피지컬 AI' 상용화 속도"
+     "title": "파커스, 엘포톤 자회사 편입 완료…광전자 플랫폼 사업 본격화"
     },
     {
      "date": "2026-09-05",
-     "title": "폴라리스AI, 휴머노이드로 산업현장 공략…'피지컬 AI' 상용화 속도"
-    },
-    {
-     "date": "2026-09-04",
-     "title": "폴라리스AI, 휴머노이드로 산업현장 공략…'피지컬 AI' 상용화 속도"
-    }
-   ]
-  },
-  {
-   "code": "061040",
-   "name": "알에프텍",
-   "market": "KOSDAQ",
-   "cap": 653,
-   "total": 6,
-   "recent": 4,
-   "activeDays": 4,
-   "firstSeen": "2026-09-03",
-   "lastSeen": "2026-09-06",
-   "score": 24.5,
-   "riskMentions": 0,
-   "catalystMentions": 4,
-   "samples": [
-    {
-     "date": "2026-09-06",
-     "title": "알에프텍, RF 전문 자회사 'RFTC' 출범…5G·방산 사업 본격 확대"
-    },
-    {
-     "date": "2026-09-05",
-     "title": "알에프텍, RF 전문 자회사 'RFTC' 출범…5G·방산 사업 본격 확대"
-    },
-    {
-     "date": "2026-09-04",
-     "title": "알에프텍, RF 전문 자회사 'RFTC' 출범…5G·방산 사업 본격 확대"
+     "title": "파커스, 엘포톤 자회사 편입 완료…광전자 플랫폼 사업 본격화"
     }
    ]
   },
@@ -317,16 +177,20 @@
    "code": "278650",
    "name": "HLB바이오스텝",
    "market": "KOSDAQ",
-   "cap": 404,
-   "total": 9,
+   "cap": 437,
+   "total": 10,
    "recent": 3,
-   "activeDays": 7,
+   "activeDays": 8,
    "firstSeen": "2026-08-20",
-   "lastSeen": "2026-09-06",
-   "score": 24.2,
+   "lastSeen": "2026-09-07",
+   "score": 25.7,
    "riskMentions": 0,
    "catalystMentions": 0,
    "samples": [
+    {
+     "date": "2026-09-07",
+     "title": "HLB바이오스텝, 넥셀과 업무협약…\"오가노이드·비임상시험 결합\""
+    },
     {
      "date": "2026-09-06",
      "title": "HLB바이오스텝, 넥셀과 업무협약…\"오가노이드·비임상시험 결합\""
@@ -334,10 +198,34 @@
     {
      "date": "2026-09-05",
      "title": "HLB바이오스텝, 넥셀과 업무협약…\"오가노이드·비임상시험 결합\""
+    }
+   ]
+  },
+  {
+   "code": "079370",
+   "name": "제우스",
+   "market": "KOSDAQ",
+   "cap": 3133,
+   "total": 10,
+   "recent": 3,
+   "activeDays": 7,
+   "firstSeen": "2026-08-27",
+   "lastSeen": "2026-09-07",
+   "score": 23.7,
+   "riskMentions": 0,
+   "catalystMentions": 3,
+   "samples": [
+    {
+     "date": "2026-09-07",
+     "title": "크릿벤처스, '제우스: 오만의 신' 개발사 '에이버튼'에 후속투자"
     },
     {
-     "date": "2026-09-04",
-     "title": "HLB바이오스텝, 넥셀과 업무협약…\"오가노이드·비임상시험 결합\""
+     "date": "2026-09-06",
+     "title": "크릿벤처스, '제우스: 오만의 신' 개발사 '에이버튼'에 후속투자"
+    },
+    {
+     "date": "2026-09-05",
+     "title": "크릿벤처스, '제우스: 오만의 신' 개발사 '에이버튼'에 후속투자"
     }
    ]
   },
@@ -345,55 +233,27 @@
    "code": "096690",
    "name": "에이루트",
    "market": "KOSDAQ",
-   "cap": 263,
+   "cap": 292,
    "total": 6,
    "recent": 3,
    "activeDays": 6,
-   "firstSeen": "2026-08-08",
-   "lastSeen": "2026-09-06",
+   "firstSeen": "2026-08-09",
+   "lastSeen": "2026-09-07",
    "score": 23.6,
    "riskMentions": 0,
    "catalystMentions": 3,
    "samples": [
     {
+     "date": "2026-09-07",
+     "title": "에이루트, 우진기전 투자금 247억원 회수…\"시총 88% 규모 현금 확보\""
+    },
+    {
      "date": "2026-09-06",
      "title": "에이루트, 우진기전 투자금 247억원 회수…\"시총 88% 규모 현금 확보\""
     },
     {
      "date": "2026-09-05",
      "title": "에이루트, 우진기전 투자금 247억원 회수…\"시총 88% 규모 현금 확보\""
-    },
-    {
-     "date": "2026-09-04",
-     "title": "에이루트, 우진기전 투자금 247억원 회수…\"시총 88% 규모 현금 확보\""
-    }
-   ]
-  },
-  {
-   "code": "408470",
-   "name": "한패스",
-   "market": "KOSDAQ",
-   "cap": 569,
-   "total": 6,
-   "recent": 3,
-   "activeDays": 6,
-   "firstSeen": "2026-08-27",
-   "lastSeen": "2026-09-06",
-   "score": 23.6,
-   "riskMentions": 0,
-   "catalystMentions": 0,
-   "samples": [
-    {
-     "date": "2026-09-06",
-     "title": "한패스, 네팔 재난 구호에 2000만원 기부"
-    },
-    {
-     "date": "2026-09-05",
-     "title": "한패스, 네팔 재난 구호에 2000만원 기부"
-    },
-    {
-     "date": "2026-09-04",
-     "title": "한패스, 네팔 재난 구호에 2000만원 기부"
     }
    ]
   },
@@ -401,55 +261,27 @@
    "code": "046210",
    "name": "HLB파나진",
    "market": "KOSDAQ",
-   "cap": 514,
-   "total": 5,
+   "cap": 511,
+   "total": 6,
    "recent": 3,
-   "activeDays": 5,
+   "activeDays": 6,
    "firstSeen": "2026-08-12",
-   "lastSeen": "2026-09-06",
-   "score": 22.1,
+   "lastSeen": "2026-09-07",
+   "score": 23.6,
    "riskMentions": 0,
    "catalystMentions": 0,
    "samples": [
     {
+     "date": "2026-09-07",
+     "title": "HLB파나진, 美 컨퍼런스서 PNA 주제로 개막 기조발표"
+    },
+    {
      "date": "2026-09-06",
      "title": "HLB파나진, 美 컨퍼런스서 PNA 주제로 개막 기조발표"
     },
     {
      "date": "2026-09-05",
      "title": "HLB파나진, 美 컨퍼런스서 PNA 주제로 개막 기조발표"
-    },
-    {
-     "date": "2026-09-04",
-     "title": "HLB파나진, 美 컨퍼런스서 PNA 주제로 개막 기조발표"
-    }
-   ]
-  },
-  {
-   "code": "223310",
-   "name": "사토시홀딩스",
-   "market": "KOSDAQ",
-   "cap": 146,
-   "total": 5,
-   "recent": 3,
-   "activeDays": 5,
-   "firstSeen": "2026-09-02",
-   "lastSeen": "2026-09-06",
-   "score": 22.1,
-   "riskMentions": 0,
-   "catalystMentions": 3,
-   "samples": [
-    {
-     "date": "2026-09-06",
-     "title": "사토시홀딩스, 167억원 유상증자…루센트투자조합에 제3자배정"
-    },
-    {
-     "date": "2026-09-05",
-     "title": "사토시홀딩스, 167억원 유상증자…루센트투자조합에 제3자배정"
-    },
-    {
-     "date": "2026-09-04",
-     "title": "사토시홀딩스, 167억원 유상증자…루센트투자조합에 제3자배정"
     }
    ]
   },
@@ -457,16 +289,20 @@
    "code": "119850",
    "name": "지엔씨에너지",
    "market": "KOSDAQ",
-   "cap": 8586,
-   "total": 4,
+   "cap": 7386,
+   "total": 5,
    "recent": 3,
-   "activeDays": 4,
+   "activeDays": 5,
    "firstSeen": "2026-08-15",
-   "lastSeen": "2026-09-06",
-   "score": 20.6,
+   "lastSeen": "2026-09-07",
+   "score": 22.1,
    "riskMentions": 0,
    "catalystMentions": 0,
    "samples": [
+    {
+     "date": "2026-09-07",
+     "title": "지엔씨에너지 \"케이씨에이브릿지신기술조합에 300억원 출자\""
+    },
     {
      "date": "2026-09-06",
      "title": "지엔씨에너지 \"케이씨에이브릿지신기술조합에 300억원 출자\""
@@ -474,10 +310,342 @@
     {
      "date": "2026-09-05",
      "title": "지엔씨에너지 \"케이씨에이브릿지신기술조합에 300억원 출자\""
+    }
+   ]
+  },
+  {
+   "code": "286750",
+   "name": "나노실리칸첨단소재",
+   "market": "KOSDAQ",
+   "cap": 416,
+   "total": 5,
+   "recent": 3,
+   "activeDays": 5,
+   "firstSeen": "2026-09-03",
+   "lastSeen": "2026-09-07",
+   "score": 22.1,
+   "riskMentions": 0,
+   "catalystMentions": 0,
+   "samples": [
+    {
+     "date": "2026-09-07",
+     "title": "나노실리칸첨단소재, 탄자니아서 'MTX' 공식 시연…동아프리카 정품인증 시장 공략"
+    },
+    {
+     "date": "2026-09-06",
+     "title": "나노실리칸첨단소재, 탄자니아서 'MTX' 공식 시연…동아프리카 정품인증 시장 공략"
+    },
+    {
+     "date": "2026-09-05",
+     "title": "나노실리칸첨단소재, 탄자니아서 'MTX' 공식 시연…동아프리카 정품인증 시장 공략"
+    }
+   ]
+  },
+  {
+   "code": "014910",
+   "name": "성문전자",
+   "market": "KOSPI",
+   "cap": 467,
+   "total": 5,
+   "recent": 3,
+   "activeDays": 5,
+   "firstSeen": "2026-09-03",
+   "lastSeen": "2026-09-07",
+   "score": 22.1,
+   "riskMentions": 0,
+   "catalystMentions": 0,
+   "samples": [
+    {
+     "date": "2026-09-07",
+     "title": "성문전자, 2000억 규모 '엣지 IDC' 진출…\"AI 인프라 신사업 본격화\""
+    },
+    {
+     "date": "2026-09-06",
+     "title": "성문전자, 2000억 규모 '엣지 IDC' 진출…\"AI 인프라 신사업 본격화\""
+    },
+    {
+     "date": "2026-09-05",
+     "title": "성문전자, 2000억 규모 '엣지 IDC' 진출…\"AI 인프라 신사업 본격화\""
+    }
+   ]
+  },
+  {
+   "code": "061040",
+   "name": "알에프텍",
+   "market": "KOSDAQ",
+   "cap": 679,
+   "total": 7,
+   "recent": 3,
+   "activeDays": 5,
+   "firstSeen": "2026-09-03",
+   "lastSeen": "2026-09-07",
+   "score": 21.2,
+   "riskMentions": 0,
+   "catalystMentions": 3,
+   "samples": [
+    {
+     "date": "2026-09-07",
+     "title": "알에프텍, RF 전문 자회사 'RFTC' 출범…5G·방산 사업 본격 확대"
+    },
+    {
+     "date": "2026-09-06",
+     "title": "알에프텍, RF 전문 자회사 'RFTC' 출범…5G·방산 사업 본격 확대"
+    },
+    {
+     "date": "2026-09-05",
+     "title": "알에프텍, RF 전문 자회사 'RFTC' 출범…5G·방산 사업 본격 확대"
+    }
+   ]
+  },
+  {
+   "code": "039980",
+   "name": "폴라리스AI",
+   "market": "KOSDAQ",
+   "cap": 777,
+   "total": 10,
+   "recent": 2,
+   "activeDays": 8,
+   "firstSeen": "2026-08-20",
+   "lastSeen": "2026-09-06",
+   "score": 20.9,
+   "riskMentions": 0,
+   "catalystMentions": 0,
+   "samples": [
+    {
+     "date": "2026-09-06",
+     "title": "폴라리스AI, 휴머노이드로 산업현장 공략…'피지컬 AI' 상용화 속도"
+    },
+    {
+     "date": "2026-09-05",
+     "title": "폴라리스AI, 휴머노이드로 산업현장 공략…'피지컬 AI' 상용화 속도"
     },
     {
      "date": "2026-09-04",
-     "title": "지엔씨에너지 \"케이씨에이브릿지신기술조합에 300억원 출자\""
+     "title": "폴라리스AI, 휴머노이드로 산업현장 공략…'피지컬 AI' 상용화 속도"
+    }
+   ]
+  },
+  {
+   "code": "310870",
+   "name": "디와이씨",
+   "market": "KOSDAQ",
+   "cap": 339,
+   "total": 4,
+   "recent": 3,
+   "activeDays": 4,
+   "firstSeen": "2026-09-04",
+   "lastSeen": "2026-09-07",
+   "score": 20.6,
+   "riskMentions": 0,
+   "catalystMentions": 0,
+   "samples": [
+    {
+     "date": "2026-09-07",
+     "title": "디와이씨, 자동차·방산 넘어 로봇까지…정밀부품 사업 외연 확장"
+    },
+    {
+     "date": "2026-09-06",
+     "title": "디와이씨, 자동차·방산 넘어 로봇까지…정밀부품 사업 외연 확장"
+    },
+    {
+     "date": "2026-09-05",
+     "title": "디와이씨, 자동차·방산 넘어 로봇까지…정밀부품 사업 외연 확장"
+    }
+   ]
+  },
+  {
+   "code": "377450",
+   "name": "리파인",
+   "market": "KOSDAQ",
+   "cap": 2939,
+   "total": 4,
+   "recent": 3,
+   "activeDays": 4,
+   "firstSeen": "2026-09-04",
+   "lastSeen": "2026-09-07",
+   "score": 20.6,
+   "riskMentions": 0,
+   "catalystMentions": 0,
+   "samples": [
+    {
+     "date": "2026-09-07",
+     "title": "차파트너스 \"리파인 최대주주 공개매수는 이해상충\""
+    },
+    {
+     "date": "2026-09-06",
+     "title": "차파트너스 \"리파인 최대주주 공개매수는 이해상충\""
+    },
+    {
+     "date": "2026-09-05",
+     "title": "차파트너스 \"리파인 최대주주 공개매수는 이해상충\""
+    }
+   ]
+  },
+  {
+   "code": "123890",
+   "name": "한국자산신탁",
+   "market": "KOSPI",
+   "cap": 3182,
+   "total": 4,
+   "recent": 3,
+   "activeDays": 4,
+   "firstSeen": "2026-09-04",
+   "lastSeen": "2026-09-07",
+   "score": 20.6,
+   "riskMentions": 0,
+   "catalystMentions": 0,
+   "samples": [
+    {
+     "date": "2026-09-07",
+     "title": "한국자산신탁-존슨헬스테크코리아, 주거시설 프리미엄 피트니스 커뮤니티 조성 업무협약"
+    },
+    {
+     "date": "2026-09-06",
+     "title": "한국자산신탁-존슨헬스테크코리아, 주거시설 프리미엄 피트니스 커뮤니티 조성 업무협약"
+    },
+    {
+     "date": "2026-09-05",
+     "title": "한국자산신탁-존슨헬스테크코리아, 주거시설 프리미엄 피트니스 커뮤니티 조성 업무협약"
+    }
+   ]
+  },
+  {
+   "code": "003240",
+   "name": "태광산업",
+   "market": "KOSPI",
+   "cap": 10032,
+   "total": 9,
+   "recent": 3,
+   "activeDays": 5,
+   "firstSeen": "2026-09-03",
+   "lastSeen": "2026-09-07",
+   "score": 20.2,
+   "riskMentions": 0,
+   "catalystMentions": 0,
+   "samples": [
+    {
+     "date": "2026-09-07",
+     "title": "트러스톤, 태광산업에 “그룹 경영협의회 관여 여부 밝혀라”"
+    },
+    {
+     "date": "2026-09-06",
+     "title": "트러스톤, 태광산업에 “그룹 경영협의회 관여 여부 밝혀라”"
+    },
+    {
+     "date": "2026-09-05",
+     "title": "트러스톤, 태광산업에 “그룹 경영협의회 관여 여부 밝혀라”"
+    }
+   ]
+  },
+  {
+   "code": "062970",
+   "name": "한국첨단소재",
+   "market": "KOSDAQ",
+   "cap": 545,
+   "total": 9,
+   "recent": 2,
+   "activeDays": 7,
+   "firstSeen": "2026-08-20",
+   "lastSeen": "2026-09-06",
+   "score": 19.3,
+   "riskMentions": 0,
+   "catalystMentions": 2,
+   "samples": [
+    {
+     "date": "2026-09-06",
+     "title": "한국첨단소재 \"루센트 투자조합 주식 70억원에 취득\""
+    },
+    {
+     "date": "2026-09-05",
+     "title": "한국첨단소재 \"루센트 투자조합 주식 70억원에 취득\""
+    },
+    {
+     "date": "2026-09-04",
+     "title": "한국첨단소재 \"루센트 투자조합 주식 70억원에 취득\""
+    }
+   ]
+  },
+  {
+   "code": "408470",
+   "name": "한패스",
+   "market": "KOSDAQ",
+   "cap": 552,
+   "total": 6,
+   "recent": 2,
+   "activeDays": 6,
+   "firstSeen": "2026-08-27",
+   "lastSeen": "2026-09-06",
+   "score": 18.8,
+   "riskMentions": 0,
+   "catalystMentions": 0,
+   "samples": [
+    {
+     "date": "2026-09-06",
+     "title": "한패스, 네팔 재난 구호에 2000만원 기부"
+    },
+    {
+     "date": "2026-09-05",
+     "title": "한패스, 네팔 재난 구호에 2000만원 기부"
+    },
+    {
+     "date": "2026-09-04",
+     "title": "한패스, 네팔 재난 구호에 2000만원 기부"
+    }
+   ]
+  },
+  {
+   "code": "018250",
+   "name": "애경산업",
+   "market": "KOSPI",
+   "cap": 3087,
+   "total": 5,
+   "recent": 3,
+   "activeDays": 3,
+   "firstSeen": "2026-08-12",
+   "lastSeen": "2026-09-07",
+   "score": 18.1,
+   "riskMentions": 0,
+   "catalystMentions": 2,
+   "samples": [
+    {
+     "date": "2026-09-07",
+     "title": "애경산업, '헤어케어 사업부' 신설…두피 제품 매출 확대 추진"
+    },
+    {
+     "date": "2026-09-07",
+     "title": "러시아 男心 사로잡더니…샴푸로 부활 날갯짓하는 애경산업 [장서우의 하입:hype]"
+    },
+    {
+     "date": "2026-09-06",
+     "title": "애경산업, '헤어케어 사업부' 신설…두피 제품 매출 확대 추진"
+    }
+   ]
+  },
+  {
+   "code": "223310",
+   "name": "사토시홀딩스",
+   "market": "KOSDAQ",
+   "cap": 168,
+   "total": 5,
+   "recent": 2,
+   "activeDays": 5,
+   "firstSeen": "2026-09-02",
+   "lastSeen": "2026-09-06",
+   "score": 17.3,
+   "riskMentions": 0,
+   "catalystMentions": 2,
+   "samples": [
+    {
+     "date": "2026-09-06",
+     "title": "사토시홀딩스, 167억원 유상증자…루센트투자조합에 제3자배정"
+    },
+    {
+     "date": "2026-09-05",
+     "title": "사토시홀딩스, 167억원 유상증자…루센트투자조합에 제3자배정"
+    },
+    {
+     "date": "2026-09-04",
+     "title": "사토시홀딩스, 167억원 유상증자…루센트투자조합에 제3자배정"
     }
    ]
   },
@@ -485,13 +653,13 @@
    "code": "474800",
    "name": "KIWOOM 미국원유에너지기업",
    "market": "KOSPI",
-   "cap": 330,
+   "cap": 333,
    "total": 4,
-   "recent": 3,
+   "recent": 2,
    "activeDays": 4,
    "firstSeen": "2026-09-03",
    "lastSeen": "2026-09-06",
-   "score": 20.6,
+   "score": 15.8,
    "riskMentions": 0,
    "catalystMentions": 0,
    "samples": [
@@ -513,13 +681,13 @@
    "code": "0101N0",
    "name": "RISE AI전력인프라",
    "market": "KOSPI",
-   "cap": 6464,
+   "cap": 5960,
    "total": 4,
-   "recent": 3,
+   "recent": 2,
    "activeDays": 4,
    "firstSeen": "2026-09-03",
    "lastSeen": "2026-09-06",
-   "score": 20.6,
+   "score": 15.8,
    "riskMentions": 0,
    "catalystMentions": 0,
    "samples": [
@@ -534,62 +702,6 @@
     {
      "date": "2026-09-04",
      "title": "美 전력망 정책 훈풍까지…KB운용 \"RISE AI전력인프라 ETF 주목\""
-    }
-   ]
-  },
-  {
-   "code": "286750",
-   "name": "나노실리칸첨단소재",
-   "market": "KOSDAQ",
-   "cap": 456,
-   "total": 4,
-   "recent": 3,
-   "activeDays": 4,
-   "firstSeen": "2026-09-03",
-   "lastSeen": "2026-09-06",
-   "score": 20.6,
-   "riskMentions": 0,
-   "catalystMentions": 0,
-   "samples": [
-    {
-     "date": "2026-09-06",
-     "title": "나노실리칸첨단소재, 탄자니아서 'MTX' 공식 시연…동아프리카 정품인증 시장 공략"
-    },
-    {
-     "date": "2026-09-05",
-     "title": "나노실리칸첨단소재, 탄자니아서 'MTX' 공식 시연…동아프리카 정품인증 시장 공략"
-    },
-    {
-     "date": "2026-09-04",
-     "title": "나노실리칸첨단소재, 탄자니아서 'MTX' 공식 시연…동아프리카 정품인증 시장 공략"
-    }
-   ]
-  },
-  {
-   "code": "014910",
-   "name": "성문전자",
-   "market": "KOSPI",
-   "cap": 444,
-   "total": 4,
-   "recent": 3,
-   "activeDays": 4,
-   "firstSeen": "2026-09-03",
-   "lastSeen": "2026-09-06",
-   "score": 20.6,
-   "riskMentions": 0,
-   "catalystMentions": 0,
-   "samples": [
-    {
-     "date": "2026-09-06",
-     "title": "성문전자, 2000억 규모 '엣지 IDC' 진출…\"AI 인프라 신사업 본격화\""
-    },
-    {
-     "date": "2026-09-05",
-     "title": "성문전자, 2000억 규모 '엣지 IDC' 진출…\"AI 인프라 신사업 본격화\""
-    },
-    {
-     "date": "2026-09-04",
-     "title": "성문전자, 2000억 규모 '엣지 IDC' 진출…\"AI 인프라 신사업 본격화\""
     }
    ]
   },
@@ -597,15 +709,15 @@
    "code": "416180",
    "name": "신성에스티",
    "market": "KOSDAQ",
-   "cap": 2350,
+   "cap": 2296,
    "total": 4,
-   "recent": 3,
+   "recent": 2,
    "activeDays": 4,
    "firstSeen": "2026-09-03",
    "lastSeen": "2026-09-06",
-   "score": 20.6,
+   "score": 15.8,
    "riskMentions": 0,
-   "catalystMentions": 3,
+   "catalystMentions": 2,
    "samples": [
     {
      "date": "2026-09-06",
@@ -625,15 +737,15 @@
    "code": "189980",
    "name": "흥국에프엔비",
    "market": "KOSDAQ",
-   "cap": 457,
+   "cap": 471,
    "total": 4,
-   "recent": 3,
+   "recent": 2,
    "activeDays": 4,
    "firstSeen": "2026-09-03",
    "lastSeen": "2026-09-06",
-   "score": 20.6,
+   "score": 15.8,
    "riskMentions": 0,
-   "catalystMentions": 3,
+   "catalystMentions": 2,
    "samples": [
     {
      "date": "2026-09-06",
@@ -653,163 +765,27 @@
    "code": "176750",
    "name": "듀켐바이오",
    "market": "KOSDAQ",
-   "cap": 1718,
+   "cap": 1809,
    "total": 3,
-   "recent": 3,
-   "activeDays": 3,
-   "firstSeen": "2026-09-04",
-   "lastSeen": "2026-09-06",
-   "score": 19.1,
-   "riskMentions": 0,
-   "catalystMentions": 3,
-   "samples": [
-    {
-     "date": "2026-09-06",
-     "title": "듀켐바이오, 정읍에 343억원 규모 투자…전북도 등과 협약"
-    },
-    {
-     "date": "2026-09-05",
-     "title": "듀켐바이오, 정읍에 343억원 규모 투자…전북도 등과 협약"
-    },
-    {
-     "date": "2026-09-04",
-     "title": "듀켐바이오, 정읍에 343억원 규모 투자…전북도 등과 협약"
-    }
-   ]
-  },
-  {
-   "code": "310870",
-   "name": "디와이씨",
-   "market": "KOSDAQ",
-   "cap": 285,
-   "total": 3,
-   "recent": 3,
-   "activeDays": 3,
-   "firstSeen": "2026-09-04",
-   "lastSeen": "2026-09-06",
-   "score": 19.1,
-   "riskMentions": 0,
-   "catalystMentions": 0,
-   "samples": [
-    {
-     "date": "2026-09-06",
-     "title": "디와이씨, 자동차·방산 넘어 로봇까지…정밀부품 사업 외연 확장"
-    },
-    {
-     "date": "2026-09-05",
-     "title": "디와이씨, 자동차·방산 넘어 로봇까지…정밀부품 사업 외연 확장"
-    },
-    {
-     "date": "2026-09-04",
-     "title": "디와이씨, 자동차·방산 넘어 로봇까지…정밀부품 사업 외연 확장"
-    }
-   ]
-  },
-  {
-   "code": "377450",
-   "name": "리파인",
-   "market": "KOSDAQ",
-   "cap": 2839,
-   "total": 3,
-   "recent": 3,
-   "activeDays": 3,
-   "firstSeen": "2026-09-04",
-   "lastSeen": "2026-09-06",
-   "score": 19.1,
-   "riskMentions": 0,
-   "catalystMentions": 0,
-   "samples": [
-    {
-     "date": "2026-09-06",
-     "title": "차파트너스 \"리파인 최대주주 공개매수는 이해상충\""
-    },
-    {
-     "date": "2026-09-05",
-     "title": "차파트너스 \"리파인 최대주주 공개매수는 이해상충\""
-    },
-    {
-     "date": "2026-09-04",
-     "title": "차파트너스 \"리파인 최대주주 공개매수는 이해상충\""
-    }
-   ]
-  },
-  {
-   "code": "123890",
-   "name": "한국자산신탁",
-   "market": "KOSPI",
-   "cap": 3194,
-   "total": 3,
-   "recent": 3,
-   "activeDays": 3,
-   "firstSeen": "2026-09-04",
-   "lastSeen": "2026-09-06",
-   "score": 19.1,
-   "riskMentions": 0,
-   "catalystMentions": 0,
-   "samples": [
-    {
-     "date": "2026-09-06",
-     "title": "한국자산신탁-존슨헬스테크코리아, 주거시설 프리미엄 피트니스 커뮤니티 조성 업무협약"
-    },
-    {
-     "date": "2026-09-05",
-     "title": "한국자산신탁-존슨헬스테크코리아, 주거시설 프리미엄 피트니스 커뮤니티 조성 업무협약"
-    },
-    {
-     "date": "2026-09-04",
-     "title": "한국자산신탁-존슨헬스테크코리아, 주거시설 프리미엄 피트니스 커뮤니티 조성 업무협약"
-    }
-   ]
-  },
-  {
-   "code": "090470",
-   "name": "제이스로보틱스",
-   "market": "KOSDAQ",
-   "cap": 839,
-   "total": 4,
    "recent": 2,
    "activeDays": 3,
-   "firstSeen": "2026-09-02",
-   "lastSeen": "2026-09-04",
-   "score": 13.8,
+   "firstSeen": "2026-09-04",
+   "lastSeen": "2026-09-06",
+   "score": 14.2,
    "riskMentions": 0,
    "catalystMentions": 2,
    "samples": [
     {
-     "date": "2026-09-04",
-     "title": "제이스로보틱스, 333억 규모 2차전지 제조 로보틱스 설비 공급계약"
+     "date": "2026-09-06",
+     "title": "듀켐바이오, 정읍에 343억원 규모 투자…전북도 등과 협약"
     },
-    {
-     "date": "2026-09-04",
-     "title": "제이스로보틱스(090470)·소형 [첫등장 D-2·↗3일연속] · [로봇/휴머노이드] 332.6억원 2차전지 로보틱스 설비계약(매출대비 108.5%), 단 공시"
-    },
-    {
-     "date": "2026-09-03",
-     "title": "제이스로보틱스, 333억 규모 2차전지 제조 로보틱스 설비 공급계약"
-    }
-   ]
-  },
-  {
-   "code": "115180",
-   "name": "큐리언트",
-   "market": "KOSDAQ",
-   "cap": 7619,
-   "total": 2,
-   "recent": 2,
-   "activeDays": 2,
-   "firstSeen": "2026-09-04",
-   "lastSeen": "2026-09-05",
-   "score": 12.7,
-   "riskMentions": 0,
-   "catalystMentions": 0,
-   "samples": [
     {
      "date": "2026-09-05",
-     "title": "큐리언트, 1천억원 주주배정 유상증자 결정"
+     "title": "듀켐바이오, 정읍에 343억원 규모 투자…전북도 등과 협약"
     },
     {
      "date": "2026-09-04",
-     "title": "큐리언트, 1천억원 주주배정 유상증자 결정"
+     "title": "듀켐바이오, 정읍에 343억원 규모 투자…전북도 등과 협약"
     }
    ]
   }
