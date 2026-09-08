@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-09-08T09:40:24+09:00",
+ "updatedAt": "2026-09-08T23:52:46+09:00",
  "cases": [
   {
    "name": "RF머트리얼즈(327260)",
@@ -53470,6 +53470,50 @@
      "price": 291000
     }
    ]
+  },
+  {
+   "name": "대한유화(006650)",
+   "type": "discovery",
+   "market": "韓",
+   "flagDate": "2026-09-08",
+   "signals": [
+    "3분기흑자전환전망",
+    "호르무즈유가급등매크로연결"
+   ],
+   "theme": "정유/화학",
+   "status": "pending",
+   "checks": [],
+   "flagPrice": 97100,
+   "priceLog": [
+    {
+     "date": "2026-09-08",
+     "price": 97100
+    }
+   ],
+   "convScore": 0,
+   "convTier": "low",
+   "convSignals": [],
+   "convStampedAt": "2026-09-08"
+  },
+  {
+   "name": "삼성E&A(028050)",
+   "type": "warning",
+   "market": "韓",
+   "flagDate": "2026-09-08",
+   "signals": [
+    "대미투자원전8기가스발전헤드라인",
+    "이틀연속강세이미반영"
+   ],
+   "theme": "원전/에너지 인프라",
+   "status": "pending",
+   "checks": [],
+   "flagPrice": 49150,
+   "priceLog": [
+    {
+     "date": "2026-09-08",
+     "price": 49150
+    }
+   ]
   }
  ],
  "stats": {
@@ -53479,8 +53523,8 @@
   "miss": 145,
   "hitRate": 24.3,
   "avgD3ChangePct": 0.22,
-  "pending": 56,
-  "total": 385,
+  "pending": 58,
+  "total": 387,
   "byType": {
    "leading": {
     "verified": 139,
