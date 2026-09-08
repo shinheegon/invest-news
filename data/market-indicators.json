@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-09-08T01:00:00+09:00",
+  "updatedAt": "2026-09-08T09:20:00+09:00",
   "session": "AM",
-  "note": "9/8(화) 오전 기준. 美 증시는 9/7(월) 노동절(Labor Day) 휴장 — 지수·VIX·국채·DXY는 직전 정규장(9/4 현지, 금) 마감치 유지, 화요일(9/8 현지) 재개 예정. 코스피·코스닥은 9/7(월) 한국 정규장 마감 확정치(오픈AI 신모델·젠슨 황 'AGI 도래' 발언에 삼성전자·SK하이닉스 급등 → 코스피 4.61% 급등, 7,000선 근접). 주말 사이 격화된 美-이란 호르무즈 충돌로 WTI·금 변동성 지속.",
+  "note": "9/8(화) 오전 09시 기준 갱신. 美 증시는 9/7(월) 노동절(Labor Day) 휴장 — 지수·VIX·국채·DXY는 직전 정규장(9/4 현지, 금) 마감치 유지, 현지시각 9/8(화) 재개 예정(한국시간 9/9 새벽 마감치 반영). 코스피·코스닥은 9/7(월) 한국 정규장 마감 확정치(오픈AI 신모델 'Astra'·젠슨 황 'AGI 도래' 발언에 삼성전자·SK하이닉스 급등 → 코스피 4.61% 급등, 7,000선 근접). 주말 사이 격화된 美-이란 호르무즈 충돌로 유가·안전자산 변동성 지속.",
   "stock_fng": { "value": 42, "label": "Fear", "source": "https://www.cnbc.com/2026/09/04/jobs-report-august-2026.html" },
   "indices": [
     { "name": "코스피", "value": "6,995.39", "change": "+308.18P(+4.61%) · 9/7(월) 마감, 오픈AI·AGI 훈풍에 삼성전자+5%·SK하이닉스+8%대 급등 주도", "source": "https://www.hankyung.com/article/2026090789566" },
     { "name": "코스닥", "value": "822.19", "change": "+8.69P(+1.07%) · 9/7(월) 마감", "source": "https://www.hankyung.com/article/2026090790596" },
-    { "name": "S&P 500", "value": "7,718.60", "change": "-29.11P(-0.38%) · 직전 정규장(9/4) 마감, 8월 비농업고용 서프라이즈(+16.2만)로 9월 금리인상 베팅 부상. 9/7 노동절 휴장", "source": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-sept-04-2026" },
+    { "name": "S&P 500", "value": "7,718.60", "change": "-29.11P(-0.38%) · 직전 정규장(9/4) 마감, 8월 비농업고용 서프라이즈(+16.2만)로 9월 금리인상 베팅 부상. 9/7 노동절 휴장, 9/8 현지 재개", "source": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-sept-04-2026" },
     { "name": "나스닥", "value": "26,506.99", "change": "-77.11P(-0.29%) · 직전 정규장 마감", "source": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-sept-04-2026" },
     { "name": "다우", "value": "53,414.25", "change": "-271.86P(-0.51%) · 직전 정규장 마감, 낙폭 주도", "source": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-sept-04-2026" },
     { "name": "VIX", "value": "16.34", "change": "고용 서프라이즈 후 소폭 확대 국면 유지, 노동절 휴장으로 신규 갱신 없음", "source": "https://www.macroradar.io/vix" },
@@ -14,11 +14,11 @@
     { "name": "국고채 3년물", "value": "3.900%", "change": "9/7 혼조 마감, 코스피 급등에 단기물 상승", "source": "https://www.yna.co.kr/view/AKR20260907135051008" },
     { "name": "달러인덱스(DXY)", "value": "98.97", "change": "-0.21% · 이란 리스크 안전자산 수요와 금리인상 베팅이 엇갈리며 소폭 하락", "source": "https://www.vantagemarkets.com/market-analysis/dollar-index-today-usdx-chart-september-3-2026/" },
     { "name": "원/달러", "value": "1,340.5", "change": "9/7(월) 15:30 기준 -9.9원 · 코스피 급등·외국인 매수 유입에 원화 강세, 장중 한때 1,330원대(약 2년 만) 터치 후 반납", "source": "https://www.yna.co.kr/view/AKR20260907118200002" },
-    { "name": "美 기준금리", "value": "3.50~3.75%", "change": "동결 유지 · 신임 의장 케빈 워시 9/3 비둘기 발언 후 9/4 고용 서프라이즈로 매파 되돌림, 트럼프는 인하 압박 지속 — 9/15~16 FOMC 주시", "source": "https://www.cnbc.com/2026/09/05/trump-warsh-fed-september-rate-hike.html" },
+    { "name": "美 기준금리", "value": "3.50~3.75%", "change": "동결 유지 · 신임 의장 케빈 워시 9/3 비둘기 발언 후 9/4 고용 서프라이즈로 매파 되돌림, 트럼프는 9/4 \"금리 안 내리면 무역적자국과 교역 중단\" 발언까지 하며 인하 압박 지속 — 9/15~16 FOMC 주시", "source": "https://www.hankyung.com/article/202609055488i" },
     { "name": "한국 기준금리", "value": "3.00%", "change": "8/27 2연속 인상(2.75%→3.00%) 이후 동결 유지 · 신현송 총재 \"향후 완만한 추가 인상 가능\" 기조", "source": "https://www.mt.co.kr/economy/2026/08/27/2026082711394182760" },
     { "name": "美 CPI", "value": "3.4%", "change": "7월 YoY(변동없음), 8월분은 9/11(현지) 발표 예정", "source": "https://www.cnbc.com/2026/08/11/an-inflation-report-wednesday-should-be-a-big-deal-for-the-fed-heres-what-to-expect.html" },
     { "name": "韓 CPI", "value": "3.1%", "change": "8월 YoY, 근원물가(3.4%) 2023년 5월來 최고 수준", "source": "https://www.ajunews.com/view/20260902074148402" },
-    { "name": "금(Gold)", "value": "4,391.80", "change": "-1.2% · 9/3~9/6 4,489→4,443→4,392달러로 사흘 연속 조정, 금리인상 베팅 재부상 영향", "source": "https://www.jmbullion.com/charts/gold-price/" },
-    { "name": "국제유가(WTI/Brent)", "value": "Brent 약 97달러", "change": "美-이란 호르무즈 해협 충돌 주말새 격화(유조선 상호 타격)로 6주래 최고치, 골드만삭스 \"확전 시 배럴당 120달러 가능\" 경고", "source": "https://boereport.com/2026/09/06/oil-extends-gains-after-us-and-iran-strike-ships/" }
+    { "name": "금(Gold)", "value": "4,391.80", "change": "-1.8% · 강한 美 고용지표에 금리인상 베팅 재부상하며 조정, 시선은 이번주 CPI·PPI로", "source": "https://www.jmbullion.com/charts/gold-price/" },
+    { "name": "국제유가(WTI/Brent)", "value": "Brent 약 97달러", "change": "美-이란 호르무즈 해협 충돌 격화(유조선 상호 타격)로 6주래 최고치, 원유 재고 4억배럴 감소 소식까지 겹쳐 100달러 근접 전망도 제기", "source": "https://www.newsis.com/view/NISX20260907_0003779156" }
   ]
 }

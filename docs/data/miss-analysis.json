@@ -1,19 +1,19 @@
 {
- "updatedAt": "2026-09-08T01:28:26+09:00",
+ "updatedAt": "2026-09-08T09:40:25+09:00",
  "note": "빗나감 자동 원인분류 + 자기발전 필터. 투자권유 아님.",
  "summary": {
-  "resolved": 224,
-  "miss": 118,
-  "missRate": 52.7,
+  "resolved": 227,
+  "miss": 120,
+  "missRate": 52.9,
   "preventable": 62,
-  "preventableShare": 52.5
+  "preventableShare": 51.7
  },
  "byCause": [
   {
    "cause": "weak_signal",
    "label": "신호 약함(구체 촉발재 없음)",
    "n": 58,
-   "share": 49.2,
+   "share": 48.3,
    "avgExcess": -5.74,
    "preventable": true,
    "examples": [
@@ -51,9 +51,9 @@
   {
    "cause": "idiosyncratic",
    "label": "개별 악재(불가피)",
-   "n": 41,
-   "share": 34.7,
-   "avgExcess": -5.47,
+   "n": 43,
+   "share": 35.8,
+   "avgExcess": -5.3,
    "preventable": false,
    "examples": [
     {
@@ -83,7 +83,7 @@
    "cause": "macro_riskoff",
    "label": "거시 위험회피(시장 동반 급락)",
    "n": 15,
-   "share": 12.7,
+   "share": 12.5,
    "avgExcess": -3.74,
    "preventable": false,
    "examples": [
@@ -120,7 +120,7 @@
    "cause": "theme_headwind",
    "label": "열세 테마(자금 이탈)",
    "n": 4,
-   "share": 3.4,
+   "share": 3.3,
    "avgExcess": -29.67,
    "preventable": true,
    "examples": [
@@ -157,8 +157,8 @@
  "learnedFilter": {
   "themeMissRate": {
    "AI전력/데이터센터": 57.7,
-   "로봇/휴머노이드": 53.8,
-   "AI반도체설계(팹리스/IP)": 46.2,
+   "로봇/휴머노이드": 53.7,
+   "AI반도체설계(팹리스/IP)": 48.1,
    "기타": 42.9,
    "바이오/의료": 75.0,
    "반도체소재/장비": 62.5,
@@ -167,8 +167,8 @@
    "우주/방산": 63.6
   },
   "signalMissRate": {
-   "concrete": 54.5,
-   "weak": 50.9
+   "concrete": 55.4,
+   "weak": 50.4
   },
   "rules": [
    "'바이오/의료' 테마는 빗나감률 75.0% — 강한 회피(구체촉발재+승세 아니면 제외).",
@@ -805,15 +805,15 @@
   },
   {
    "date": "2026-09-08",
-   "resolved": 224,
-   "missRate": 52.7,
+   "resolved": 227,
+   "missRate": 52.9,
    "causeShares": {
-    "weak_signal": 49.2,
-    "idiosyncratic": 34.7,
-    "macro_riskoff": 12.7,
-    "theme_headwind": 3.4
+    "weak_signal": 48.3,
+    "idiosyncratic": 35.8,
+    "macro_riskoff": 12.5,
+    "theme_headwind": 3.3
    }
   }
  ],
- "develop": "직전(2026-09-07) 대비 빗나감률 52.7%→52.7% (+0.0p). 최다 원인=‘신호 약함(구체 촉발재 없음)’. 필터에 반영됨."
+ "develop": "직전(2026-09-07) 대비 빗나감률 52.7%→52.9% (+0.2p). 최다 원인=‘신호 약함(구체 촉발재 없음)’. 필터에 반영됨."
 }
