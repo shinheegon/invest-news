@@ -1,20 +1,20 @@
 {
- "updatedAt": "2026-09-08T23:52:46+09:00",
+ "updatedAt": "2026-09-09T09:41:37+09:00",
  "note": "빗나감 자동 원인분류 + 자기발전 필터. 투자권유 아님.",
  "summary": {
-  "resolved": 227,
-  "miss": 120,
-  "missRate": 52.9,
-  "preventable": 62,
-  "preventableShare": 51.7
+  "resolved": 235,
+  "miss": 126,
+  "missRate": 53.6,
+  "preventable": 65,
+  "preventableShare": 51.6
  },
  "byCause": [
   {
    "cause": "weak_signal",
    "label": "신호 약함(구체 촉발재 없음)",
-   "n": 58,
-   "share": 48.3,
-   "avgExcess": -5.74,
+   "n": 60,
+   "share": 47.6,
+   "avgExcess": -5.9,
    "preventable": true,
    "examples": [
     {
@@ -51,9 +51,9 @@
   {
    "cause": "idiosyncratic",
    "label": "개별 악재(불가피)",
-   "n": 43,
-   "share": 35.8,
-   "avgExcess": -5.3,
+   "n": 46,
+   "share": 36.5,
+   "avgExcess": -5.14,
    "preventable": false,
    "examples": [
     {
@@ -83,7 +83,7 @@
    "cause": "macro_riskoff",
    "label": "거시 위험회피(시장 동반 급락)",
    "n": 15,
-   "share": 12.5,
+   "share": 11.9,
    "avgExcess": -3.74,
    "preventable": false,
    "examples": [
@@ -119,9 +119,9 @@
   {
    "cause": "theme_headwind",
    "label": "열세 테마(자금 이탈)",
-   "n": 4,
-   "share": 3.3,
-   "avgExcess": -29.67,
+   "n": 5,
+   "share": 4.0,
+   "avgExcess": -24.74,
    "preventable": true,
    "examples": [
     {
@@ -156,35 +156,35 @@
  ],
  "learnedFilter": {
   "themeMissRate": {
-   "AI전력/데이터센터": 57.7,
-   "로봇/휴머노이드": 53.7,
+   "AI전력/데이터센터": 57.1,
+   "로봇/휴머노이드": 54.1,
    "AI반도체설계(팹리스/IP)": 48.1,
-   "기타": 42.9,
-   "바이오/의료": 75.0,
-   "반도체소재/장비": 62.5,
+   "기타": 44.0,
+   "바이오/의료": 80.0,
+   "반도체소재/장비": 64.7,
    "신재생에너지": 71.4,
    "이차전지": 40.0,
    "우주/방산": 63.6
   },
   "signalMissRate": {
-   "concrete": 55.4,
-   "weak": 50.4
+   "concrete": 55.9,
+   "weak": 51.3
   },
   "rules": [
-   "'바이오/의료' 테마는 빗나감률 75.0% — 강한 회피(구체촉발재+승세 아니면 제외).",
+   "'바이오/의료' 테마는 빗나감률 80.0% — 강한 회피(구체촉발재+승세 아니면 제외).",
    "'신재생에너지' 테마는 빗나감률 71.4% — 강한 회피(구체촉발재+승세 아니면 제외).",
-   "'우주/방산' 테마는 빗나감률 63.6% — 강한 회피(구체촉발재+승세 아니면 제외).",
-   "'반도체소재/장비' 테마는 빗나감률 62.5% — 강한 회피(구체촉발재+승세 아니면 제외)."
+   "'반도체소재/장비' 테마는 빗나감률 64.7% — 강한 회피(구체촉발재+승세 아니면 제외).",
+   "'우주/방산' 테마는 빗나감률 63.6% — 강한 회피(구체촉발재+승세 아니면 제외)."
   ]
  },
  "macro": {
   "regime": "중립",
-  "kospi5d": 5.7,
-  "kosdaq5d": 2.74,
+  "kospi5d": 4.0,
+  "kosdaq5d": -0.2,
   "fearGreed": 42.0,
   "vix": 15.63,
   "guidance": "선별 유지 — 승세테마+구체촉발재 우선, 약신호·열세테마 경계.",
-  "asOf": "2026-09-08"
+  "asOf": "2026-09-09"
  },
  "history": [
   {
@@ -813,7 +813,18 @@
     "macro_riskoff": 12.5,
     "theme_headwind": 3.3
    }
+  },
+  {
+   "date": "2026-09-09",
+   "resolved": 235,
+   "missRate": 53.6,
+   "causeShares": {
+    "weak_signal": 47.6,
+    "idiosyncratic": 36.5,
+    "macro_riskoff": 11.9,
+    "theme_headwind": 4.0
+   }
   }
  ],
- "develop": "직전(2026-09-07) 대비 빗나감률 52.7%→52.9% (+0.2p). 최다 원인=‘신호 약함(구체 촉발재 없음)’. 필터에 반영됨."
+ "develop": "직전(2026-09-08) 대비 빗나감률 52.9%→53.6% (+0.7p). 최다 원인=‘신호 약함(구체 촉발재 없음)’. 필터에 반영됨."
 }
