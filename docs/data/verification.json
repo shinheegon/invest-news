@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-09-09T09:41:37+09:00",
+ "updatedAt": "2026-09-09T23:53:26+09:00",
  "cases": [
   {
    "name": "디케이티(290550)",
@@ -55052,6 +55052,161 @@
      "price": 50800
     }
    ]
+  },
+  {
+   "name": "나우로보틱스(459510)",
+   "type": "leading",
+   "market": "韓",
+   "flagDate": "2026-09-09",
+   "signals": [
+    "VPK재계약4일연속",
+    "정책드라이브(로봇예산42%↑)"
+   ],
+   "theme": "로봇/휴머노이드",
+   "status": "pending",
+   "checks": [],
+   "flagPrice": 14400,
+   "priceLog": [
+    {
+     "date": "2026-09-09",
+     "price": 14400
+    }
+   ],
+   "convScore": 7,
+   "convTier": "high",
+   "convSignals": [
+    "반복포착",
+    "승세테마",
+    "구체촉발재"
+   ],
+   "convStampedAt": "2026-09-09"
+  },
+  {
+   "name": "파두(440110)",
+   "type": "leading",
+   "market": "韓",
+   "flagDate": "2026-09-09",
+   "signals": [
+    "수주잔고급증",
+    "신제품",
+    "저평가괴리",
+    "14회반복포착"
+   ],
+   "theme": "AI반도체설계(팹리스/IP)",
+   "status": "pending",
+   "checks": [],
+   "flagPrice": 74400,
+   "priceLog": [
+    {
+     "date": "2026-09-09",
+     "price": 74400
+    }
+   ],
+   "convScore": 7,
+   "convTier": "high",
+   "convSignals": [
+    "반복포착",
+    "승세테마",
+    "구체촉발재"
+   ],
+   "convStampedAt": "2026-09-09"
+  },
+  {
+   "name": "지엔씨에너지(119850)",
+   "type": "leading",
+   "market": "韓",
+   "flagDate": "2026-09-09",
+   "signals": [
+    "두달침묵후재점등",
+    "증권사신규커버리지개시",
+    "300억출자"
+   ],
+   "theme": "AI데이터센터 전력",
+   "status": "pending",
+   "checks": [],
+   "flagPrice": 48300,
+   "priceLog": [
+    {
+     "date": "2026-09-09",
+     "price": 48300
+    }
+   ],
+   "convScore": 2,
+   "convTier": "low",
+   "convSignals": [
+    "반복포착",
+    "⚠️열세테마",
+    "틈새레이더"
+   ],
+   "convStampedAt": "2026-09-09"
+  },
+  {
+   "name": "크린앤사이언스(045520)",
+   "type": "discovery",
+   "market": "韓",
+   "flagDate": "2026-09-09",
+   "signals": [
+    "3주침묵후재점등",
+    "美HVAC신규진입"
+   ],
+   "theme": "AI전력/데이터센터",
+   "status": "pending",
+   "checks": [],
+   "flagPrice": 2925,
+   "priceLog": [
+    {
+     "date": "2026-09-09",
+     "price": 2925
+    }
+   ],
+   "convScore": 0,
+   "convTier": "low",
+   "convSignals": [
+    "반복포착",
+    "⚠️열세테마"
+   ],
+   "convStampedAt": "2026-09-09"
+  },
+  {
+   "name": "두산퓨얼셀(336260)",
+   "type": "warning",
+   "market": "韓",
+   "flagDate": "2026-09-09",
+   "signals": [
+    "일주일39%급등",
+    "이미반영",
+    "차익실현매물"
+   ],
+   "theme": "AI데이터센터 전력",
+   "status": "pending",
+   "checks": [],
+   "flagPrice": 53900,
+   "priceLog": [
+    {
+     "date": "2026-09-09",
+     "price": 53900
+    }
+   ]
+  },
+  {
+   "name": "롯데케미칼(011170)",
+   "type": "warning",
+   "market": "韓",
+   "flagDate": "2026-09-09",
+   "signals": [
+    "당일18%급등",
+    "이미반영"
+   ],
+   "theme": "화학/사업재편",
+   "status": "pending",
+   "checks": [],
+   "flagPrice": 67800,
+   "priceLog": [
+    {
+     "date": "2026-09-09",
+     "price": 67800
+    }
+   ]
   }
  ],
  "stats": {
@@ -55061,8 +55216,8 @@
   "miss": 151,
   "hitRate": 23.8,
   "avgD3ChangePct": 0.15,
-  "pending": 48,
-  "total": 389,
+  "pending": 54,
+  "total": 395,
   "byType": {
    "leading": {
     "verified": 146,
