@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-09-10T09:36:18+09:00",
+ "updatedAt": "2026-09-10T23:37:44+09:00",
  "companies": {
   "디케이티(290550)": {
    "market": "韓",
@@ -191,21 +191,14 @@
   },
   "씨메스로보틱스(475400)": {
    "market": "韓",
-   "type": "leading",
-   "firstSeen": "2026-09-01",
-   "firstPrice": 17980,
-   "lastPrice": 19970,
-   "changePct": 11.07,
-   "points": 8,
+   "type": "warning",
+   "firstSeen": "2026-09-10",
+   "firstPrice": 19460,
+   "lastPrice": 19460,
+   "changePct": 0.0,
+   "points": 1,
    "series": {
-    "2026-09-01": 17980,
-    "2026-09-02": 17330,
-    "2026-09-03": 16960,
-    "2026-09-04": 17670,
-    "2026-09-07": 17970,
-    "2026-09-08": 17680,
-    "2026-09-09": 17800,
-    "2026-09-10": 19970
+    "2026-09-10": 19460
    }
   },
   "아이씨에이치(368600)": {
@@ -3302,15 +3295,14 @@
   },
   "나우로보틱스(459510)": {
    "market": "韓",
-   "type": "leading",
-   "firstSeen": "2026-09-09",
-   "firstPrice": 14400,
-   "lastPrice": 15430,
-   "changePct": 7.15,
-   "points": 2,
+   "type": "discovery",
+   "firstSeen": "2026-09-10",
+   "firstPrice": 15370,
+   "lastPrice": 15370,
+   "changePct": 0.0,
+   "points": 1,
    "series": {
-    "2026-09-09": 14400,
-    "2026-09-10": 15430
+    "2026-09-10": 15370
    }
   },
   "케이지에이(455180)": {
@@ -5238,16 +5230,14 @@
   },
   "로보티즈(108490)": {
    "market": "韓",
-   "type": "warning",
-   "firstSeen": "2026-09-08",
-   "firstPrice": 291000,
-   "lastPrice": 328500,
-   "changePct": 12.89,
-   "points": 3,
+   "type": "discovery",
+   "firstSeen": "2026-09-10",
+   "firstPrice": 323500,
+   "lastPrice": 323500,
+   "changePct": 0.0,
+   "points": 1,
    "series": {
-    "2026-09-08": 291000,
-    "2026-09-09": 296000,
-    "2026-09-10": 328500
+    "2026-09-10": 323500
    }
   },
   "기가비스(420770)": {
@@ -8967,14 +8957,13 @@
   "지엔씨에너지(119850)": {
    "market": "韓",
    "type": "leading",
-   "firstSeen": "2026-09-09",
-   "firstPrice": 48300,
-   "lastPrice": 47850,
-   "changePct": -0.93,
-   "points": 2,
+   "firstSeen": "2026-09-10",
+   "firstPrice": 51200,
+   "lastPrice": 51200,
+   "changePct": 0.0,
+   "points": 1,
    "series": {
-    "2026-09-09": 48300,
-    "2026-09-10": 47850
+    "2026-09-10": 51200
    }
   },
   "롯데케미칼(011170)": {
@@ -9000,6 +8989,30 @@
    "points": 1,
    "series": {
     "2026-09-10": 150900
+   }
+  },
+  "디알텍(073490)": {
+   "market": "韓",
+   "type": "discovery",
+   "firstSeen": "2026-09-10",
+   "firstPrice": 29750,
+   "lastPrice": 29750,
+   "changePct": 0.0,
+   "points": 1,
+   "series": {
+    "2026-09-10": 29750
+   }
+  },
+  "흥구석유(024060)": {
+   "market": "韓",
+   "type": "warning",
+   "firstSeen": "2026-09-10",
+   "firstPrice": 14510,
+   "lastPrice": 14510,
+   "changePct": 0.0,
+   "points": 1,
+   "series": {
+    "2026-09-10": 14510
    }
   }
  }

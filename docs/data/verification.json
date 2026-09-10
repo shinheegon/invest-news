@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-09-10T09:36:18+09:00",
+ "updatedAt": "2026-09-10T23:37:44+09:00",
  "cases": [
   {
    "name": "디케이티(290550)",
@@ -56693,6 +56693,163 @@
      "price": 150900
     }
    ]
+  },
+  {
+   "name": "지엔씨에너지(119850)",
+   "type": "leading",
+   "market": "韓",
+   "flagDate": "2026-09-10",
+   "signals": [
+    "AI데이터센터수주1번타자",
+    "4일연속반복",
+    "주가급등미확인",
+    "열세근접테마(AI전력)"
+   ],
+   "theme": "AI전력/데이터센터",
+   "status": "pending",
+   "checks": [],
+   "flagPrice": 51200,
+   "priceLog": [
+    {
+     "date": "2026-09-10",
+     "price": 51200
+    }
+   ],
+   "convScore": 4,
+   "convTier": "mid",
+   "convSignals": [
+    "반복포착",
+    "구체촉발재",
+    "⚠️열세테마",
+    "틈새레이더"
+   ],
+   "convStampedAt": "2026-09-10"
+  },
+  {
+   "name": "로보티즈(108490)",
+   "type": "discovery",
+   "market": "韓",
+   "flagDate": "2026-09-10",
+   "signals": [
+    "액추에이터수주잔고50만대",
+    "당일+5%반영"
+   ],
+   "theme": "로봇/휴머노이드",
+   "status": "pending",
+   "checks": [],
+   "flagPrice": 323500,
+   "priceLog": [
+    {
+     "date": "2026-09-10",
+     "price": 323500
+    }
+   ],
+   "convScore": 7,
+   "convTier": "high",
+   "convSignals": [
+    "반복포착",
+    "승세테마",
+    "구체촉발재"
+   ],
+   "convStampedAt": "2026-09-10"
+  },
+  {
+   "name": "나우로보틱스(459510)",
+   "type": "discovery",
+   "market": "韓",
+   "flagDate": "2026-09-10",
+   "signals": [
+    "휴머노이드감속기원천특허5건",
+    "구체촉발재",
+    "승세테마"
+   ],
+   "theme": "로봇/휴머노이드",
+   "status": "pending",
+   "checks": [],
+   "flagPrice": 15370,
+   "priceLog": [
+    {
+     "date": "2026-09-10",
+     "price": 15370
+    }
+   ],
+   "convScore": 7,
+   "convTier": "high",
+   "convSignals": [
+    "반복포착",
+    "승세테마",
+    "구체촉발재"
+   ],
+   "convStampedAt": "2026-09-10"
+  },
+  {
+   "name": "디알텍(073490)",
+   "type": "discovery",
+   "market": "韓",
+   "flagDate": "2026-09-10",
+   "signals": [
+    "수술용엑스레이美FDA인증",
+    "단발성재료"
+   ],
+   "theme": "의료기기/수출",
+   "status": "pending",
+   "checks": [],
+   "flagPrice": 29750,
+   "priceLog": [
+    {
+     "date": "2026-09-10",
+     "price": 29750
+    }
+   ],
+   "convScore": -1,
+   "convTier": "low",
+   "convSignals": [
+    "구체촉발재",
+    "⚠️열세테마"
+   ],
+   "convStampedAt": "2026-09-10"
+  },
+  {
+   "name": "씨메스로보틱스(475400)",
+   "type": "warning",
+   "market": "韓",
+   "flagDate": "2026-09-10",
+   "signals": [
+    "당일+13.07%급등",
+    "이미반영",
+    "누적33회반복포착후급등"
+   ],
+   "theme": "로봇/휴머노이드",
+   "status": "pending",
+   "checks": [],
+   "flagPrice": 19460,
+   "priceLog": [
+    {
+     "date": "2026-09-10",
+     "price": 19460
+    }
+   ]
+  },
+  {
+   "name": "흥구석유(024060)",
+   "type": "warning",
+   "market": "韓",
+   "flagDate": "2026-09-10",
+   "signals": [
+    "유가100달러돌파수혜",
+    "당일+22%급등",
+    "이미반영"
+   ],
+   "theme": "정유",
+   "status": "pending",
+   "checks": [],
+   "flagPrice": 14510,
+   "priceLog": [
+    {
+     "date": "2026-09-10",
+     "price": 14510
+    }
+   ]
   }
  ],
  "stats": {
@@ -56702,8 +56859,8 @@
   "miss": 153,
   "hitRate": 23.6,
   "avgD3ChangePct": 0.13,
-  "pending": 53,
-  "total": 396,
+  "pending": 59,
+  "total": 402,
   "byType": {
    "leading": {
     "verified": 147,
