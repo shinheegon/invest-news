@@ -727,16 +727,28 @@
   "삼성전자(005930)": {
    "articles": [
     {
-     "date": "2026-09-10",
-     "source": "연합인포맥스",
-     "title": "세계 1위 탈환한 삼성전자 스마트폰, 사상 첫 적자에 속앓이",
-     "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4434205"
+     "date": "2026-09-11",
+     "source": "한국경제·증권",
+     "title": "삼성전자, 드디어 터진다…\"HBM 40% 찍고 파운드리 부활\" [종목+]",
+     "link": "https://www.hankyung.com/article/2026091178816"
+    },
+    {
+     "date": "2026-09-11",
+     "source": "한국경제",
+     "title": "- 삼성전자(005930): HBM 점유율 40% 목표·파운드리 부활 기대가 부각됐지만, TSMC와의 파운드리 점유율 격차가 0.5%p로 좁혀져 \"2위 자리도 흔",
+     "link": "https://www.hankyung.com/article/202609107434i"
     },
     {
      "date": "2026-09-10",
      "source": "파이낸셜뉴스",
      "title": "- 삼성전자(005930): 개별 신규 대형 재료는 없으나, 한국은행이 코스피 상승 구간에서 삼성전자·SK하이닉스의 지수 기여율이 최대 99%에 달한다며 반도체 ",
      "link": "https://www.fnnews.com/news/202608221149132420"
+    },
+    {
+     "date": "2026-09-10",
+     "source": "연합인포맥스",
+     "title": "세계 1위 탈환한 삼성전자 스마트폰, 사상 첫 적자에 속앓이",
+     "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4434205"
     },
     {
      "date": "2026-09-09",
@@ -1433,18 +1445,6 @@
      "source": "연합인포맥스",
      "title": "삼성전자 &quot;2027년 1월말 나머지 주주환원 규모 및 시행방안 발표&quot;",
      "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4431269"
-    },
-    {
-     "date": "2026-08-21",
-     "source": "연합인포맥스",
-     "title": "&quot;우리도 반도체처럼&quot;…삼성전자 완제품 노조, 서초사옥서 항의 집회",
-     "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4431250"
-    },
-    {
-     "date": "2026-08-21",
-     "source": "연합인포맥스",
-     "title": "&quot;삼성전자, 애플 제치고 스마트폰시장 세계 1위 탈환 전망&quot;",
-     "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4431239"
     }
    ]
   },
@@ -3511,6 +3511,12 @@
   "기아(000270)": {
    "articles": [
     {
+     "date": "2026-09-11",
+     "source": "연합뉴스·경제",
+     "title": "대신증권 \"기아, 실적·배당 매력…하방부담 제한된 방어주\"",
+     "link": "https://www.yna.co.kr/view/AKR20260911025100008"
+    },
+    {
      "date": "2026-09-10",
      "source": "한국경제·경제",
      "title": "기아, 獨서 대형 'PV7' 세계 최초 공개",
@@ -4339,6 +4345,12 @@
   "엔비디아(NVDA)": {
    "articles": [
     {
+     "date": "2026-09-11",
+     "source": "한국경제·경제",
+     "title": "엔비디아와 팔란티어, AI 연합군 결성…고유가 2029년까지 간다? [박신영의 개장전 요것만]",
+     "link": "https://www.hankyung.com/article/202609107697i"
+    },
+    {
      "date": "2026-09-10",
      "source": "뉴시스·경제",
      "title": "\"美법무, 지난해 엔비디아-그록 '우회 인수' 반독점 조사\"",
@@ -5051,12 +5063,6 @@
      "source": "한국경제·경제",
      "title": "엔비디아, 월가는 실적보다 '이것'에 더 관심[박신영의 개장전 요것만]",
      "link": "https://www.hankyung.com/article/202608225783i"
-    },
-    {
-     "date": "2026-08-21",
-     "source": "한국경제·경제",
-     "title": "美 국채금리·유가…그리고 엔비디아 [다음주 주요 변수 미리보기]",
-     "link": "https://www.hankyung.com/article/202608215342i"
     }
    ]
   },
@@ -9919,6 +9925,12 @@
   "대신증권(003540)": {
    "articles": [
     {
+     "date": "2026-09-11",
+     "source": "연합뉴스·경제",
+     "title": "대신증권 \"기아, 실적·배당 매력…하방부담 제한된 방어주\"",
+     "link": "https://www.yna.co.kr/view/AKR20260911025100008"
+    },
+    {
      "date": "2026-09-09",
      "source": "한국경제·증권",
      "title": "대신증권 \"크레온 비대면 신규 고객에 최대 6만원 지급\"",
@@ -12213,6 +12225,12 @@
   "씨에스윈드(112610)": {
    "articles": [
     {
+     "date": "2026-09-11",
+     "source": "파이낸셜·증권",
+     "title": "씨에스윈드, 미국 풍력 인허가 완화·경쟁 감소에 수혜 기대",
+     "link": "https://www.fnnews.com/news/202609110732155310"
+    },
+    {
      "date": "2026-06-23",
      "source": "한국경제·증권",
      "title": "\"씨에스윈드, 글로벌 선두업체인데…경쟁사 절반 수준의 저평가\"-유진",
@@ -12802,6 +12820,12 @@
   },
   "LS(006260)": {
    "articles": [
+    {
+     "date": "2026-09-11",
+     "source": "연합뉴스·경제",
+     "title": "SK증권, 주가 하락에 LS 목표가↓…\"하반기 실적 개선은 지속\"",
+     "link": "https://www.yna.co.kr/view/AKR20260911026900008"
+    },
     {
      "date": "2026-09-03",
      "source": "한국경제·증권",
@@ -14797,6 +14821,12 @@
   "두나무": {
    "articles": [
     {
+     "date": "2026-09-11",
+     "source": "연합인포맥스",
+     "title": "[4대금융 자본전략②] 하나금융, 손익 밖에 놓인 1조…두나무에 베팅한 이유",
+     "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4434386"
+    },
+    {
      "date": "2026-09-04",
      "source": "아시아경제",
      "title": "두나무, 공정거래 자율준수 프로그램 강화 선포식",
@@ -15118,6 +15148,12 @@
   },
   "레인보우로보틱스(277810)": {
    "articles": [
+    {
+     "date": "2026-09-11",
+     "source": "한국경제·증권",
+     "title": "로봇주 투톱 '레인보우로보틱스 vs. 로보티즈' 최종 승자는 누구?",
+     "link": "https://www.hankyung.com/article/202609106755i"
+    },
     {
      "date": "2026-08-13",
      "source": "연합뉴스·경제",
@@ -15452,6 +15488,12 @@
   },
   "팔란티어(PLTR)": {
    "articles": [
+    {
+     "date": "2026-09-11",
+     "source": "한국경제·경제",
+     "title": "엔비디아와 팔란티어, AI 연합군 결성…고유가 2029년까지 간다? [박신영의 개장전 요것만]",
+     "link": "https://www.hankyung.com/article/202609107697i"
+    },
     {
      "date": "2026-08-25",
      "source": "한국경제·경제",
@@ -16739,6 +16781,12 @@
   "삼성증권(016360)": {
    "articles": [
     {
+     "date": "2026-09-11",
+     "source": "연합뉴스·경제",
+     "title": "삼성증권 \"HD현대중, 엔진 증설 예상↑·SMR 진출 예상외\"",
+     "link": "https://www.yna.co.kr/view/AKR20260911024900008"
+    },
+    {
      "date": "2026-09-10",
      "source": "파이낸셜·증권",
      "title": "삼성증권 가세에 판 커지는 발행어음 시장",
@@ -17445,6 +17493,12 @@
   "로보티즈(108490)": {
    "articles": [
     {
+     "date": "2026-09-11",
+     "source": "한국경제·증권",
+     "title": "로봇주 투톱 '레인보우로보틱스 vs. 로보티즈' 최종 승자는 누구?",
+     "link": "https://www.hankyung.com/article/202609106755i"
+    },
+    {
      "date": "2026-09-10",
      "source": "한국경제·증권",
      "title": "\"액추에이터 수주잔고 50만대 이상\"…로보티즈 주가 5% 급등",
@@ -17878,6 +17932,12 @@
   },
   "SK(034730)": {
    "articles": [
+    {
+     "date": "2026-09-11",
+     "source": "한국경제·경제",
+     "title": "\"삼성·SK 가자\" 대학생들 난리…떴다 하면 순식간에 '완판'",
+     "link": "https://www.hankyung.com/article/2026091073231"
+    },
     {
      "date": "2026-09-08",
      "source": "한국경제·경제",
@@ -20295,6 +20355,12 @@
   "롯데쇼핑(023530)": {
    "articles": [
     {
+     "date": "2026-09-11",
+     "source": "파이낸셜·증권",
+     "title": "롯데쇼핑, 백화점·할인점 높은 성장률 유지…\"낙폭 과대\"",
+     "link": "https://www.fnnews.com/news/202609110849082276"
+    },
+    {
      "date": "2026-09-09",
      "source": "아시아경제",
      "title": "[클릭 e종목]연말 기대요인 늘어나는 '롯데쇼핑'",
@@ -20388,6 +20454,12 @@
   },
   "GS건설(006360)": {
    "articles": [
+    {
+     "date": "2026-09-11",
+     "source": "연합인포맥스",
+     "title": "'금리 리스크' 노출도 커진 GS건설",
+     "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4434387"
+    },
     {
      "date": "2026-09-10",
      "source": "아시아경제",
@@ -20688,6 +20760,12 @@
   },
   "두산에너빌리티(034020)": {
    "articles": [
+    {
+     "date": "2026-09-11",
+     "source": "한국경제·증권",
+     "title": "증권가가 '핵심 원전주' 두산에너빌리티를 주목하는 이유",
+     "link": "https://www.hankyung.com/article/202609106897i"
+    },
     {
      "date": "2026-09-01",
      "source": "파이낸셜·증권",
@@ -21122,6 +21200,12 @@
   },
   "키움증권(039490)": {
    "articles": [
+    {
+     "date": "2026-09-11",
+     "source": "연합뉴스·경제",
+     "title": "키움증권 \"인터로조, 뷰티렌즈 열풍에 재평가 기대\"",
+     "link": "https://www.yna.co.kr/view/AKR20260911026200008"
+    },
     {
      "date": "2026-09-10",
      "source": "아시아경제",
@@ -24326,6 +24410,18 @@
   },
   "대우건설(047040)": {
    "articles": [
+    {
+     "date": "2026-09-11",
+     "source": "한국경제·증권",
+     "title": "\"대우건설, 원전 수출 경쟁력 재부각…목표가↑\"-NH",
+     "link": "https://www.hankyung.com/article/2026091179186"
+    },
+    {
+     "date": "2026-09-11",
+     "source": "연합뉴스·경제",
+     "title": "NH증권 \"대우건설, 팀코리아 원전 수출 수혜 기대…목표가↑\"",
+     "link": "https://www.yna.co.kr/view/AKR20260911025000008"
+    },
     {
      "date": "2026-09-09",
      "source": "뉴시스·경제",
@@ -29669,6 +29765,18 @@
   "오라클(ORCL)": {
    "articles": [
     {
+     "date": "2026-09-11",
+     "source": "연합인포맥스",
+     "title": "오라클, 데이터센터 호조에 '깜짝 실적'…시간외서 주가 6% 급등",
+     "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4434362"
+    },
+    {
+     "date": "2026-09-11",
+     "source": "뉴시스·경제",
+     "title": "오라클, 데이터센터 관련 매출 2배 증가…시간외 7% 상승",
+     "link": "https://www.newsis.com/view/NISX20260911_0003785092"
+    },
+    {
      "date": "2026-09-08",
      "source": "파이낸셜·증권",
      "title": "7000선 재탈환 도전… 美 물가·오라클 실적 변수",
@@ -30869,6 +30977,12 @@
   "SpaceX": {
    "articles": [
     {
+     "date": "2026-09-11",
+     "source": "MarketWatch",
+     "title": "SpaceX is inching closer to this lofty $100 billion milestone",
+     "link": "https://www.marketwatch.com/story/spacex-is-inching-closer-to-this-lofty-100-billion-milestone-11536cfc?mod=mw_rss_topstories"
+    },
+    {
      "date": "2026-09-08",
      "source": "MarketWatch",
      "title": "Just like for SpaceX, investors may look to ‘make room’ for AI lab IPOs. These stocks could pay the price.",
@@ -31957,6 +32071,18 @@
   "삼성E&A(028050)": {
    "articles": [
     {
+     "date": "2026-09-11",
+     "source": "연합뉴스·경제",
+     "title": "삼성E&A, 4.7조원 규모 사우디 비료 프로젝트 수주",
+     "link": "https://www.yna.co.kr/view/AKR20260911022700003"
+    },
+    {
+     "date": "2026-09-11",
+     "source": "뉴시스·경제",
+     "title": "삼성E&A, 사우디서 4.7조 규모 비료 플랜트 수주",
+     "link": "https://www.newsis.com/view/NISX20260911_0003785167"
+    },
+    {
      "date": "2026-09-08",
      "source": "파이낸셜·증권",
      "title": "5만원 넘은 삼성E&A, 목표가는 8만원...반도체·중동 '쌍끌이 수주' 주목 [종목 NOW]",
@@ -32636,6 +32762,12 @@
   },
   "포드(F)": {
    "articles": [
+    {
+     "date": "2026-09-11",
+     "source": "연합인포맥스",
+     "title": "美정부에 '中과 제휴' 경고받은 포드…켄터키 공장 10억달러 투자 발표",
+     "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4434383"
+    },
     {
      "date": "2026-09-10",
      "source": "뉴시스·경제",
@@ -35567,6 +35699,12 @@
   "SK증권(001510)": {
    "articles": [
     {
+     "date": "2026-09-11",
+     "source": "연합뉴스·경제",
+     "title": "SK증권, 주가 하락에 LS 목표가↓…\"하반기 실적 개선은 지속\"",
+     "link": "https://www.yna.co.kr/view/AKR20260911026900008"
+    },
+    {
      "date": "2026-09-09",
      "source": "파이낸셜·증권",
      "title": "SK증권 \"연금저축 이전 시 최대 '105만원'\"",
@@ -38237,6 +38375,12 @@
   "무신사": {
    "articles": [
     {
+     "date": "2026-09-11",
+     "source": "연합인포맥스",
+     "title": "[기업 이모저모] 무신사 옆에 올리브영…IPO 앞두고 커지는 '영토전쟁'",
+     "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4434377"
+    },
+    {
      "date": "2026-09-10",
      "source": "한국경제·증권",
      "title": "'대어' 무신사, 내년 코스피 입성 추진…'10조 몸값' 가능할까 [분석+]",
@@ -38977,6 +39121,12 @@
   "어도비(ADBE)": {
    "articles": [
     {
+     "date": "2026-09-11",
+     "source": "연합인포맥스",
+     "title": "어도비, 4분기 매출 가이던스에 아쉬움…시간외 2% 약세",
+     "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4434369"
+    },
+    {
      "date": "2026-09-04",
      "source": "연합인포맥스",
      "title": "AI 위협에 주가 폭락한 어도비…18년 만에 CEO교체",
@@ -39479,7 +39629,95 @@
      "link": "https://view.asiae.co.kr/article/2026090915100272789"
     }
    ]
+  },
+  "롯데정밀화학(004000)": {
+   "articles": [
+    {
+     "date": "2026-09-11",
+     "source": "한국경제·경제",
+     "title": "롯데정밀화학, 그린수소 사업 강화",
+     "link": "https://www.hankyung.com/article/2026091074181"
+    }
+   ]
+  },
+  "보로노이(310210)": {
+   "articles": [
+    {
+     "date": "2026-09-11",
+     "source": "한국경제·증권",
+     "title": "보로노이, 스톡옵션 부여 공시에 조건 누락…보도자료 낸 뒤 정정",
+     "link": "https://www.hankyung.com/article/2026091062956"
+    }
+   ]
+  },
+  "티에스이(131290)": {
+   "articles": [
+    {
+     "date": "2026-09-11",
+     "source": "한국경제·증권",
+     "title": "주성엔지·티에스이 10% 급등…리밸런싱 수요에 소부장 강세",
+     "link": "https://www.hankyung.com/article/202609106282i"
+    }
+   ]
+  },
+  "디알텍(073490)": {
+   "articles": [
+    {
+     "date": "2026-09-11",
+     "source": "한국경제·증권",
+     "title": "디알텍, 수술용 엑스레이의 美FDA 인증 소식에 '급등'",
+     "link": "https://www.hankyung.com/article/2026091056576"
+    }
+   ]
+  },
+  "샘표": {
+   "articles": [
+    {
+     "date": "2026-09-11",
+     "source": "한국경제·증권",
+     "title": "샘표, 자사주 30% 소각 결정에 상한가",
+     "link": "https://www.hankyung.com/article/2026091056426"
+    },
+    {
+     "date": "2026-09-11",
+     "source": "파이낸셜·증권",
+     "title": "샘표, 자사주 소각 결정에 상한가",
+     "link": "https://www.fnnews.com/news/202609101832422278"
+    },
+    {
+     "date": "2026-09-11",
+     "source": "파이낸셜·증권",
+     "title": "'자사주 전량 소각' 샘표, 장 초반 상한가 직행 [종목 NOW]",
+     "link": "https://www.fnnews.com/news/202609100919440151"
+    },
+    {
+     "date": "2026-09-11",
+     "source": "파이낸셜·증권",
+     "title": "'자사주 소각'이 살린 샘표…상한가 직행으로 주가 회복",
+     "link": "https://www.fnnews.com/news/202609101619565542"
+    }
+   ]
+  },
+  "아모텍(082920)": {
+   "articles": [
+    {
+     "date": "2026-09-11",
+     "source": "연합뉴스·경제",
+     "title": "IBK증권, 아모텍 목표가↓…\"MLCC 성장에 수익성은 개선 예상\"",
+     "link": "https://www.yna.co.kr/view/AKR20260911022500008"
+    }
+   ]
+  },
+  "디케이티(290550)": {
+   "articles": [
+    {
+     "date": "2026-09-11",
+     "source": "연합뉴스",
+     "title": "- 디케이티(290550)·소 [조기단계: 첫등장 D-2·누적 5회·↗] · 로봇/휴머노이드 무선충전모듈 · 신규 대형계약+4분기 양산전환 확정.",
+     "link": "https://www.yna.co.kr/view/AKR20260909163200002"
+    }
+   ]
   }
  },
- "updatedAt": "2026-09-10T23:16:35+09:00"
+ "updatedAt": "2026-09-11T08:55:31+09:00"
 }

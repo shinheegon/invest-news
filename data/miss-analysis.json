@@ -1,12 +1,12 @@
 {
- "updatedAt": "2026-09-10T23:37:45+09:00",
+ "updatedAt": "2026-09-11T09:27:38+09:00",
  "note": "빗나감 자동 원인분류 + 자기발전 필터. 투자권유 아님.",
  "summary": {
-  "resolved": 237,
+  "resolved": 242,
   "miss": 128,
-  "missRate": 54.0,
-  "preventable": 66,
-  "preventableShare": 51.6
+  "missRate": 52.9,
+  "preventable": 64,
+  "preventableShare": 50.0
  },
  "byCause": [
   {
@@ -51,9 +51,9 @@
   {
    "cause": "idiosyncratic",
    "label": "개별 악재(불가피)",
-   "n": 47,
-   "share": 36.7,
-   "avgExcess": -5.11,
+   "n": 49,
+   "share": 38.3,
+   "avgExcess": -5.07,
    "preventable": false,
    "examples": [
     {
@@ -119,9 +119,9 @@
   {
    "cause": "theme_headwind",
    "label": "열세 테마(자금 이탈)",
-   "n": 5,
-   "share": 3.9,
-   "avgExcess": -24.74,
+   "n": 3,
+   "share": 2.3,
+   "avgExcess": -38.53,
    "preventable": true,
    "examples": [
     {
@@ -143,10 +143,10 @@
      ]
     },
     {
-     "name": "에어레인(163280)",
-     "flagDate": "2026-06-27",
-     "excessPct": -5.38,
-     "theme": "신재생에너지",
+     "name": "하이로닉(149980)",
+     "flagDate": "2026-09-04",
+     "excessPct": -5.0,
+     "theme": "바이오/의료",
      "tags": [
       "theme_headwind"
      ]
@@ -156,10 +156,10 @@
  ],
  "learnedFilter": {
   "themeMissRate": {
-   "AI전력/데이터센터": 58.6,
-   "로봇/휴머노이드": 54.1,
-   "AI반도체설계(팹리스/IP)": 48.1,
-   "기타": 45.1,
+   "AI전력/데이터센터": 56.7,
+   "로봇/휴머노이드": 52.9,
+   "AI반도체설계(팹리스/IP)": 46.4,
+   "기타": 44.2,
    "바이오/의료": 80.0,
    "반도체소재/장비": 64.7,
    "신재생에너지": 71.4,
@@ -167,8 +167,8 @@
    "우주/방산": 63.6
   },
   "signalMissRate": {
-   "concrete": 56.3,
-   "weak": 51.7
+   "concrete": 55.4,
+   "weak": 50.4
   },
   "rules": [
    "'바이오/의료' 테마는 빗나감률 80.0% — 강한 회피(구체촉발재+승세 아니면 제외).",
@@ -182,9 +182,9 @@
   "kospi5d": 5.18,
   "kosdaq5d": 2.88,
   "fearGreed": 36.0,
-  "vix": 15.72,
+  "vix": 16.46,
   "guidance": "선별 유지 — 승세테마+구체촉발재 우선, 약신호·열세테마 경계.",
-  "asOf": "2026-09-10"
+  "asOf": "2026-09-11"
  },
  "history": [
   {
@@ -835,7 +835,18 @@
     "macro_riskoff": 11.7,
     "theme_headwind": 3.9
    }
+  },
+  {
+   "date": "2026-09-11",
+   "resolved": 242,
+   "missRate": 52.9,
+   "causeShares": {
+    "weak_signal": 47.7,
+    "idiosyncratic": 38.3,
+    "macro_riskoff": 11.7,
+    "theme_headwind": 2.3
+   }
   }
  ],
- "develop": "직전(2026-09-09) 대비 빗나감률 53.6%→54.0% (+0.4p). 최다 원인=‘신호 약함(구체 촉발재 없음)’. 필터에 반영됨."
+ "develop": "직전(2026-09-10) 대비 빗나감률 54.0%→52.9% (-1.1p). 최다 원인=‘신호 약함(구체 촉발재 없음)’. 필터에 반영됨."
 }
