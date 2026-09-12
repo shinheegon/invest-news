@@ -1,6 +1,56 @@
 {
- "updatedAt": "2026-09-12T09:45:01+09:00",
+ "updatedAt": "2026-09-12T23:07:13+09:00",
  "companies": {
+  "지엔씨에너지(119850)": {
+   "market": "韓",
+   "type": "leading",
+   "firstSeen": "2026-09-11",
+   "firstPrice": 51000,
+   "lastPrice": 51000,
+   "changePct": 0.0,
+   "points": 1,
+   "series": {
+    "2026-09-11": 51000
+   }
+  },
+  "카티스(140430)": {
+   "market": "韓",
+   "type": "leading",
+   "firstSeen": "2026-09-11",
+   "firstPrice": 2315,
+   "lastPrice": 2315,
+   "changePct": 0.0,
+   "points": 2,
+   "series": {
+    "2026-09-11": 2315,
+    "2026-09-12": 2315
+   }
+  },
+  "중앙첨단소재(051980)": {
+   "market": "韓",
+   "type": "leading",
+   "firstSeen": "2026-09-11",
+   "firstPrice": 1035,
+   "lastPrice": 1035,
+   "changePct": 0.0,
+   "points": 2,
+   "series": {
+    "2026-09-11": 1035,
+    "2026-09-12": 1035
+   }
+  },
+  "아이씨에이치(368600)": {
+   "market": "韓",
+   "type": "discovery",
+   "firstSeen": "2026-09-11",
+   "firstPrice": 932,
+   "lastPrice": 932,
+   "changePct": 0.0,
+   "points": 1,
+   "series": {
+    "2026-09-11": 932
+   }
+  },
   "디케이티(290550)": {
    "market": "韓",
    "type": "leading",
@@ -13,6 +63,44 @@
     "2026-09-09": 15670,
     "2026-09-10": 15970,
     "2026-09-11": 15820
+   }
+  },
+  "세미파이브(373170)": {
+   "market": "韓",
+   "type": "leading",
+   "firstSeen": "2026-09-11",
+   "firstPrice": 2015,
+   "lastPrice": 2015,
+   "changePct": 0.0,
+   "points": 1,
+   "series": {
+    "2026-09-11": 2015
+   }
+  },
+  "아모텍(052710)": {
+   "market": "韓",
+   "type": "warning",
+   "firstSeen": "2026-09-11",
+   "firstPrice": 15130,
+   "lastPrice": 15130,
+   "changePct": 0.0,
+   "points": 2,
+   "series": {
+    "2026-09-11": 15130,
+    "2026-09-12": 15130
+   }
+  },
+  "씨메스로보틱스(475400)": {
+   "market": "韓",
+   "type": "warning",
+   "firstSeen": "2026-09-10",
+   "firstPrice": 19460,
+   "lastPrice": 19180,
+   "changePct": -1.44,
+   "points": 2,
+   "series": {
+    "2026-09-10": 19460,
+    "2026-09-11": 19180
    }
   },
   "이엠앤아이(083470)": {
@@ -198,31 +286,6 @@
     "2026-09-11": 145700
    }
   },
-  "씨메스로보틱스(475400)": {
-   "market": "韓",
-   "type": "warning",
-   "firstSeen": "2026-09-10",
-   "firstPrice": 19460,
-   "lastPrice": 19180,
-   "changePct": -1.44,
-   "points": 2,
-   "series": {
-    "2026-09-10": 19460,
-    "2026-09-11": 19180
-   }
-  },
-  "아이씨에이치(368600)": {
-   "market": "韓",
-   "type": "discovery",
-   "firstSeen": "2026-09-11",
-   "firstPrice": 932,
-   "lastPrice": 932,
-   "changePct": 0.0,
-   "points": 1,
-   "series": {
-    "2026-09-11": 932
-   }
-  },
   "에이텀(355690)": {
    "market": "韓",
    "type": "warning",
@@ -356,18 +419,6 @@
     "2026-09-09": 5530,
     "2026-09-10": 5740,
     "2026-09-11": 5580
-   }
-  },
-  "세미파이브(373170)": {
-   "market": "韓",
-   "type": "leading",
-   "firstSeen": "2026-09-11",
-   "firstPrice": 2015,
-   "lastPrice": 2015,
-   "changePct": 0.0,
-   "points": 1,
-   "series": {
-    "2026-09-11": 2015
    }
   },
   "PS일렉트로닉스(332570)": {
@@ -9138,18 +9189,6 @@
     "2026-09-09": 50800,
     "2026-09-10": 49225,
     "2026-09-11": 50300
-   }
-  },
-  "지엔씨에너지(119850)": {
-   "market": "韓",
-   "type": "leading",
-   "firstSeen": "2026-09-11",
-   "firstPrice": 51000,
-   "lastPrice": 51000,
-   "changePct": 0.0,
-   "points": 1,
-   "series": {
-    "2026-09-11": 51000
    }
   },
   "롯데케미칼(011170)": {

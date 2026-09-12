@@ -1,6 +1,218 @@
 {
- "updatedAt": "2026-09-12T09:45:01+09:00",
+ "updatedAt": "2026-09-12T23:07:13+09:00",
  "cases": [
+  {
+   "name": "지엔씨에너지(119850)",
+   "type": "leading",
+   "market": "韓",
+   "flagDate": "2026-09-12",
+   "signals": [
+    "AI데이터센터수주1번타자",
+    "6일연속반복",
+    "주가급등미확인"
+   ],
+   "theme": "AI전력/데이터센터",
+   "status": "pending",
+   "checks": [],
+   "flagPrice": 50600,
+   "priceLog": [
+    {
+     "date": "2026-09-11",
+     "price": 50600
+    }
+   ],
+   "convScore": 2,
+   "convTier": "low",
+   "convSignals": [
+    "반복포착",
+    "구체촉발재",
+    "⚠️열세테마"
+   ],
+   "convStampedAt": "2026-09-12"
+  },
+  {
+   "name": "카티스(140430)",
+   "type": "leading",
+   "market": "韓",
+   "flagDate": "2026-09-12",
+   "signals": [
+    "구체촉발재(네이버·한수원수주잔고439억)",
+    "3일연속반복"
+   ],
+   "theme": "AI전력/데이터센터",
+   "status": "pending",
+   "checks": [],
+   "flagPrice": 2315,
+   "priceLog": [
+    {
+     "date": "2026-09-11",
+     "price": 2315
+    }
+   ],
+   "convScore": 4,
+   "convTier": "mid",
+   "convSignals": [
+    "반복포착",
+    "구체촉발재",
+    "⚠️열세테마",
+    "틈새레이더"
+   ],
+   "convStampedAt": "2026-09-12"
+  },
+  {
+   "name": "중앙첨단소재(051980)",
+   "type": "leading",
+   "market": "韓",
+   "flagDate": "2026-09-12",
+   "signals": [
+    "구체촉발재(GTX-B계약101.1억원)",
+    "3일연속반복"
+   ],
+   "theme": "철도인프라",
+   "status": "pending",
+   "checks": [],
+   "flagPrice": 1035,
+   "priceLog": [
+    {
+     "date": "2026-09-11",
+     "price": 1035
+    }
+   ],
+   "convScore": 7,
+   "convTier": "high",
+   "convSignals": [
+    "반복포착",
+    "구체촉발재",
+    "틈새레이더"
+   ],
+   "convStampedAt": "2026-09-12"
+  },
+  {
+   "name": "아이씨에이치(368600)",
+   "type": "leading",
+   "market": "韓",
+   "flagDate": "2026-09-12",
+   "signals": [
+    "애플·삼성폴더블이중공급망확보",
+    "3일연속반복"
+   ],
+   "theme": "폴더블 부품",
+   "status": "pending",
+   "checks": [],
+   "flagPrice": 956,
+   "priceLog": [
+    {
+     "date": "2026-09-11",
+     "price": 956
+    }
+   ],
+   "convScore": 7,
+   "convTier": "high",
+   "convSignals": [
+    "반복포착",
+    "구체촉발재",
+    "틈새레이더"
+   ],
+   "convStampedAt": "2026-09-12"
+  },
+  {
+   "name": "디케이티(290550)",
+   "type": "leading",
+   "market": "韓",
+   "flagDate": "2026-09-12",
+   "signals": [
+    "신규공급계약(아틀라스·MobED시제품2000개)",
+    "4분기양산전환예정",
+    "3일연속반복"
+   ],
+   "theme": "로봇/휴머노이드",
+   "status": "pending",
+   "checks": [],
+   "flagPrice": 15790,
+   "priceLog": [
+    {
+     "date": "2026-09-11",
+     "price": 15790
+    }
+   ],
+   "convScore": 7,
+   "convTier": "high",
+   "convSignals": [
+    "반복포착",
+    "승세테마",
+    "구체촉발재"
+   ],
+   "convStampedAt": "2026-09-12"
+  },
+  {
+   "name": "세미파이브(373170)",
+   "type": "leading",
+   "market": "韓",
+   "flagDate": "2026-09-12",
+   "signals": [
+    "하이퍼엑셀向AI추론가속기공급계약",
+    "cross-signal수렴점수7",
+    "스파이크후재침묵"
+   ],
+   "theme": "AI반도체설계(팹리스/IP)",
+   "status": "pending",
+   "checks": [],
+   "flagPrice": 1997,
+   "priceLog": [
+    {
+     "date": "2026-09-11",
+     "price": 1997
+    }
+   ],
+   "convScore": 7,
+   "convTier": "high",
+   "convSignals": [
+    "반복포착",
+    "승세테마",
+    "구체촉발재"
+   ],
+   "convStampedAt": "2026-09-12"
+  },
+  {
+   "name": "아모텍(052710)",
+   "type": "warning",
+   "market": "韓",
+   "flagDate": "2026-09-12",
+   "signals": [
+    "MLCC공급부족",
+    "9/11상한가이미반영"
+   ],
+   "theme": "AI서버/데이터센터 부품",
+   "status": "pending",
+   "checks": [],
+   "flagPrice": 15130,
+   "priceLog": [
+    {
+     "date": "2026-09-11",
+     "price": 15130
+    }
+   ]
+  },
+  {
+   "name": "씨메스로보틱스(475400)",
+   "type": "warning",
+   "market": "韓",
+   "flagDate": "2026-09-12",
+   "signals": [
+    "9/10상한가이미반영",
+    "누적36회광범위노출"
+   ],
+   "theme": "로봇/휴머노이드",
+   "status": "pending",
+   "checks": [],
+   "flagPrice": 19730,
+   "priceLog": [
+    {
+     "date": "2026-09-11",
+     "price": 19730
+    }
+   ]
+  },
   {
    "name": "디케이티(290550)",
    "type": "leading",
@@ -58551,8 +58763,8 @@
   "miss": 154,
   "hitRate": 24.0,
   "avgD3ChangePct": 0.21,
-  "pending": 53,
-  "total": 407,
+  "pending": 61,
+  "total": 415,
   "byType": {
    "leading": {
     "verified": 150,

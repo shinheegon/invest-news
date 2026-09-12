@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-09-12T09:45:01+09:00",
+ "updatedAt": "2026-09-12T23:07:13+09:00",
  "note": "대기 예측을 학습패턴(승세테마+구체촉발재)으로 점수화. 투자권유 아님.",
  "top": [],
  "avoid": [
@@ -229,6 +229,42 @@
    "score": 2,
    "concrete": true,
    "why": "중립테마(AI전력/데이터센터) · 구체촉발재: AI데이터센터수주1번타자"
+  },
+  {
+   "name": "지엔씨에너지(119850)",
+   "type": "leading",
+   "theme": "AI전력/데이터센터",
+   "flagDate": "2026-09-12",
+   "score": 2,
+   "concrete": true,
+   "why": "중립테마(AI전력/데이터센터) · 구체촉발재: AI데이터센터수주1번타자"
+  },
+  {
+   "name": "카티스(140430)",
+   "type": "leading",
+   "theme": "AI전력/데이터센터",
+   "flagDate": "2026-09-12",
+   "score": 2,
+   "concrete": true,
+   "why": "중립테마(AI전력/데이터센터) · 구체촉발재: 구체촉발재(네이버·한수원수주잔고439억)"
+  },
+  {
+   "name": "디케이티(290550)",
+   "type": "leading",
+   "theme": "로봇/휴머노이드",
+   "flagDate": "2026-09-12",
+   "score": 2,
+   "concrete": true,
+   "why": "중립테마(로봇/휴머노이드) · 구체촉발재: 신규공급계약(아틀라스·MobED시제품2000개)"
+  },
+  {
+   "name": "세미파이브(373170)",
+   "type": "leading",
+   "theme": "AI반도체설계(팹리스/IP)",
+   "flagDate": "2026-09-12",
+   "score": 2,
+   "concrete": true,
+   "why": "중립테마(AI반도체설계(팹리스/IP)) · 구체촉발재: 하이퍼엑셀向AI추론가속기공급계약"
   },
   {
    "name": "덕산넵코어스(360030)",
@@ -487,6 +523,24 @@
    "type": "discovery",
    "theme": "기타",
    "flagDate": "2026-09-11",
+   "score": 0,
+   "concrete": false,
+   "why": "중립테마(기타) · 신호약함(테마첫거론류)"
+  },
+  {
+   "name": "중앙첨단소재(051980)",
+   "type": "leading",
+   "theme": "기타",
+   "flagDate": "2026-09-12",
+   "score": 0,
+   "concrete": false,
+   "why": "중립테마(기타) · 신호약함(테마첫거론류)"
+  },
+  {
+   "name": "아이씨에이치(368600)",
+   "type": "leading",
+   "theme": "기타",
+   "flagDate": "2026-09-12",
    "score": 0,
    "concrete": false,
    "why": "중립테마(기타) · 신호약함(테마첫거론류)"

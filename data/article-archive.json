@@ -2484,6 +2484,12 @@
    "articles": [
     {
      "date": "2026-09-12",
+     "source": "파이낸셜·증권",
+     "title": "\"'삼성·애플 말고 뭘 사지?\", 빌리 빈에게 배우는 '머니볼 투자법'[인치범의 주식투자 부트캠프]",
+     "link": "https://www.fnnews.com/news/202609112218419482"
+    },
+    {
+     "date": "2026-09-12",
      "source": "뉴시스·경제",
      "title": "샤넬 사는 이유?…애플, 1999弗 폴더블폰 '명품화' 승부수",
      "link": "https://www.newsis.com/view/NISX20260911_0003785836"
@@ -30071,6 +30077,12 @@
      "link": "https://www.hankyung.com/article/202609119348i"
     },
     {
+     "date": "2026-09-12",
+     "source": "뉴시스·경제",
+     "title": "오라클 창업자 엘리슨, 주식 최대 10조 매각…5000만주 처분",
+     "link": "https://www.newsis.com/view/NISX20260912_0003786747"
+    },
+    {
      "date": "2026-09-11",
      "source": "연합인포맥스",
      "title": "오라클, 데이터센터 호조에 '깜짝 실적'…시간외서 주가 6% 급등",
@@ -34962,6 +34974,12 @@
    "articles": [
     {
      "date": "2026-09-12",
+     "source": "한국경제·증권",
+     "title": "LG·LX의 희비…무엇이 두 형제회사 주가 갈랐나",
+     "link": "https://www.hankyung.com/article/202609120109i"
+    },
+    {
+     "date": "2026-09-12",
      "source": "연합인포맥스",
      "title": "LG AI연구원, 국민연금과 '기금운용 특화 AI' 개발",
      "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4434509"
@@ -38116,6 +38134,12 @@
     },
     {
      "date": "2026-09-12",
+     "source": "한국경제·경제",
+     "title": "\"국민연금 왜 이것밖에 안 들어왔지?\"…모르면 수백만원 손해",
+     "link": "https://www.hankyung.com/article/2026091204347"
+    },
+    {
+     "date": "2026-09-12",
      "source": "연합인포맥스",
      "title": "LG AI연구원, 국민연금과 '기금운용 특화 AI' 개발",
      "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4434509"
@@ -40191,7 +40215,27 @@
      "link": "https://view.asiae.co.kr/article/2026091014174815059"
     }
    ]
+  },
+  "카티스(140430)": {
+   "articles": [
+    {
+     "date": "2026-09-12",
+     "source": "joongangenews.com",
+     "title": "- 카티스(140430)·소 [신규 포착·3일 연속·↗] · AI데이터센터 물리보안 · 네이버·한수원 수주잔고 439억원.",
+     "link": "https://www.joongangenews.com/news/articleView.html?idxno=547573"
+    }
+   ]
+  },
+  "중앙첨단소재(051980)": {
+   "articles": [
+    {
+     "date": "2026-09-12",
+     "source": "이데일리",
+     "title": "- 중앙첨단소재(051980)·소 [신규 포착·3일 연속·↗] · 철도인프라(GTX-B) 방송장치 · 계약 101.1억(매출대비51%).",
+     "link": "https://www.edaily.co.kr/News/Read?newsId=03680166645578808"
+    }
+   ]
   }
  },
- "updatedAt": "2026-09-12T09:02:19+09:00"
+ "updatedAt": "2026-09-12T22:31:44+09:00"
 }
