@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-09-11T09:27:37+09:00",
+ "updatedAt": "2026-09-12T09:45:01+09:00",
  "cases": [
   {
    "name": "디케이티(290550)",
@@ -58522,6 +58522,26 @@
      "price": 328000
     }
    ]
+  },
+  {
+   "name": "아모텍(082920)",
+   "type": "warning",
+   "market": "韓",
+   "flagDate": "2026-09-12",
+   "signals": [
+    "MLCC공급부족상한가(9/11)",
+    "이미반영"
+   ],
+   "theme": "정유/화학·소재(개별 이벤트)",
+   "status": "pending",
+   "checks": [],
+   "flagPrice": 27800,
+   "priceLog": [
+    {
+     "date": "2026-09-11",
+     "price": 27800
+    }
+   ]
   }
  ],
  "stats": {
@@ -58531,8 +58551,8 @@
   "miss": 154,
   "hitRate": 24.0,
   "avgD3ChangePct": 0.21,
-  "pending": 52,
-  "total": 406,
+  "pending": 53,
+  "total": 407,
   "byType": {
    "leading": {
     "verified": 150,
