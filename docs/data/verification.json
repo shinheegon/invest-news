@@ -1,6 +1,120 @@
 {
- "updatedAt": "2026-09-12T23:07:13+09:00",
+ "updatedAt": "2026-09-13T09:30:17+09:00",
  "cases": [
+  {
+   "name": "오텍(067170)",
+   "type": "discovery",
+   "market": "韓",
+   "flagDate": "2026-09-13",
+   "signals": [
+    "CDU국내최초EPD인증",
+    "서울엣지데이터센터칠러공급확대"
+   ],
+   "theme": "AI전력/데이터센터",
+   "status": "pending",
+   "checks": [],
+   "flagPrice": 2545,
+   "priceLog": [
+    {
+     "date": "2026-09-11",
+     "price": 2545
+    }
+   ],
+   "convScore": -1,
+   "convTier": "low",
+   "convSignals": [
+    "구체촉발재",
+    "⚠️열세테마"
+   ],
+   "convStampedAt": "2026-09-13"
+  },
+  {
+   "name": "삼기(122350)",
+   "type": "discovery",
+   "market": "韓",
+   "flagDate": "2026-09-13",
+   "signals": [
+    "글로벌로봇사휴머노이드프레임개발업체선정",
+    "승세테마"
+   ],
+   "theme": "로봇/휴머노이드",
+   "status": "pending",
+   "checks": [],
+   "flagPrice": 1715,
+   "priceLog": [
+    {
+     "date": "2026-09-11",
+     "price": 1715
+    }
+   ],
+   "convScore": 4,
+   "convTier": "mid",
+   "convSignals": [
+    "승세테마",
+    "구체촉발재"
+   ],
+   "convStampedAt": "2026-09-13"
+  },
+  {
+   "name": "삼화콘덴서(001820)",
+   "type": "warning",
+   "market": "韓",
+   "flagDate": "2026-09-13",
+   "signals": [
+    "MLCC품귀",
+    "9/11+20.05%이미반영"
+   ],
+   "theme": "AI서버/데이터센터 부품",
+   "status": "pending",
+   "checks": [],
+   "flagPrice": 137400,
+   "priceLog": [
+    {
+     "date": "2026-09-11",
+     "price": 137400
+    }
+   ]
+  },
+  {
+   "name": "유일로보틱스(388720)",
+   "type": "warning",
+   "market": "韓",
+   "flagDate": "2026-09-13",
+   "signals": [
+    "로봇테마급등",
+    "9/11+18.85%이미반영"
+   ],
+   "theme": "로봇/휴머노이드",
+   "status": "pending",
+   "checks": [],
+   "flagPrice": 68700,
+   "priceLog": [
+    {
+     "date": "2026-09-11",
+     "price": 68700
+    }
+   ]
+  },
+  {
+   "name": "에브리봇(270660)",
+   "type": "warning",
+   "market": "韓",
+   "flagDate": "2026-09-13",
+   "signals": [
+    "로봇테마급등",
+    "9/11+16.41%이미반영"
+   ],
+   "theme": "로봇/휴머노이드",
+   "status": "pending",
+   "checks": [],
+   "flagPrice": 13940,
+   "priceLog": [
+    {
+     "date": "2026-09-11",
+     "price": 13940
+    }
+   ]
+  },
   {
    "name": "지엔씨에너지(119850)",
    "type": "leading",
@@ -58763,8 +58877,8 @@
   "miss": 154,
   "hitRate": 24.0,
   "avgD3ChangePct": 0.21,
-  "pending": 61,
-  "total": 415,
+  "pending": 66,
+  "total": 420,
   "byType": {
    "leading": {
     "verified": 150,

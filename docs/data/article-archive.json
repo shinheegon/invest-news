@@ -3,6 +3,12 @@
   "SK하이닉스(000660)": {
    "articles": [
     {
+     "date": "2026-09-13",
+     "source": "한국경제·경제",
+     "title": "\"67% 폭락에도 또?\"…'AI 천재'가 SK하이닉스 다시 찍은 이유 [김주완의 글로벌 머니 X파일]",
+     "link": "https://www.hankyung.com/article/202609120496i"
+    },
+    {
      "date": "2026-09-12",
      "source": "뉴시스·경제",
      "title": "AI 시대 물관리 해법은 '융합'…삼성전자·SK하이닉스도 KIWW 첫 참여",
@@ -715,12 +721,6 @@
      "source": "아시아경제",
      "title": "SK하이닉스, 日키옥시아 사실상 최대주주 등극",
      "link": "https://view.asiae.co.kr/article/2026081116342627579"
-    },
-    {
-     "date": "2026-08-11",
-     "source": "아시아경제",
-     "title": "\"지금이 재진입 시점\" 미국서 SK하이닉스 콕…목표주가 260만원",
-     "link": "https://view.asiae.co.kr/article/2026081109583956138"
     }
    ]
   },
@@ -3944,6 +3944,12 @@
   },
   "삼성전기(009150)": {
    "articles": [
+    {
+     "date": "2026-09-13",
+     "source": "한국경제·증권",
+     "title": "역대급 수주에도 주가 흔들린 삼성전기…향후 이벤트 및 접근 전략은",
+     "link": "https://www.hankyung.com/article/202609119442i"
+    },
     {
      "date": "2026-09-03",
      "source": "파이낸셜·증권",
@@ -20909,6 +20915,12 @@
   "나이키(NKE)": {
    "articles": [
     {
+     "date": "2026-09-13",
+     "source": "한국경제·경제",
+     "title": "\"요즘 누가 나이키 신어요?\"…'운동화 제왕' 러닝 붐에도 굴욕",
+     "link": "https://www.hankyung.com/article/202609120483H"
+    },
+    {
      "date": "2026-09-12",
      "source": "한국경제·경제",
      "title": "\"그 돈 주고 누가 신어요\"…'50만원→9만원' 나이키의 굴욕",
@@ -22592,6 +22604,12 @@
   },
   "아모레퍼시픽(090430)": {
    "articles": [
+    {
+     "date": "2026-09-13",
+     "source": "연합인포맥스",
+     "title": "아모레퍼시픽, 글로벌 진출 가속…내년 상반기까지 매출 10% 성장 노린다",
+     "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4434570"
+    },
     {
      "date": "2026-09-12",
      "source": "파이낸셜·증권",
@@ -31509,6 +31527,12 @@
   "Anthropic": {
    "articles": [
     {
+     "date": "2026-09-13",
+     "source": "MarketWatch",
+     "title": "Elon Musk backs Anthropic’s call to slow down AI progress before rogue bots take over the entire internet",
+     "link": "https://www.marketwatch.com/story/elon-musk-backs-anthropics-call-to-slow-down-ai-progress-before-rogue-bots-take-over-the-entire-internet-46f12d98?mod=mw_rss_topstories"
+    },
+    {
      "date": "2026-08-28",
      "source": "MarketWatch",
      "title": "Judge says Trump administration’s blacklist of Anthropic was illegal",
@@ -31868,6 +31892,12 @@
   },
   "종근당(185750)": {
    "articles": [
+    {
+     "date": "2026-09-13",
+     "source": "연합뉴스·경제",
+     "title": "경기경제청, 시흥배곧지구 종근당 지식산업센터 건립 의결",
+     "link": "https://www.yna.co.kr/view/AKR20260911120400061"
+    },
     {
      "date": "2026-07-31",
      "source": "연합인포맥스",
@@ -40219,6 +40249,18 @@
   "카티스(140430)": {
    "articles": [
     {
+     "date": "2026-09-13",
+     "source": "한국경제·증권",
+     "title": "\"카티스, 사상 최대 수주잔고 바탕으로 실적 반등할 것\"-밸류파인더",
+     "link": "https://www.hankyung.com/article/2026091185336"
+    },
+    {
+     "date": "2026-09-13",
+     "source": "아시아경제",
+     "title": "카티스 \"AI 데이터센터 수혜 본격화…하반기 실적 반등 기대\"",
+     "link": "https://view.asiae.co.kr/article/2026091108482121509"
+    },
+    {
      "date": "2026-09-12",
      "source": "joongangenews.com",
      "title": "- 카티스(140430)·소 [신규 포착·3일 연속·↗] · AI데이터센터 물리보안 · 네이버·한수원 수주잔고 439억원.",
@@ -40235,7 +40277,17 @@
      "link": "https://www.edaily.co.kr/News/Read?newsId=03680166645578808"
     }
    ]
+  },
+  "큐알티(405100)": {
+   "articles": [
+    {
+     "date": "2026-09-13",
+     "source": "아시아경제",
+     "title": "큐알티, 에이아이웍스와 손잡고 반도체 신뢰성 검증 협력",
+     "link": "https://view.asiae.co.kr/article/2026091014214109138"
+    }
+   ]
   }
  },
- "updatedAt": "2026-09-12T22:31:44+09:00"
+ "updatedAt": "2026-09-13T08:53:43+09:00"
 }
