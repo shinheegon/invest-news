@@ -1,9 +1,9 @@
 {
- "updatedAt": "2026-09-15T09:26:34+09:00",
+ "updatedAt": "2026-09-15T23:52:00+09:00",
  "note": "원본 헤드라인의 반복 언급을 탐지한 조사 후보이며 투자권유가 아니다. 동일 기사 재실행은 한 번만 집계하고, 순수 악재 반복과 모호한 회사명은 제외한다.",
  "window": 30,
- "corpusToday": 874,
- "trackedCompanies": 647,
+ "corpusToday": 1358,
+ "trackedCompanies": 660,
  "companies": [
   {
    "code": "006280",
@@ -62,10 +62,10 @@
    ]
   },
   {
-   "code": "332570",
-   "name": "PS일렉트로닉스",
-   "market": "KOSDAQ",
-   "cap": 3689,
+   "code": "007810",
+   "name": "코리아써키트",
+   "market": "KOSPI",
+   "cap": 11620,
    "total": 17,
    "recent": 2,
    "activeDays": 17,
@@ -90,10 +90,10 @@
    ]
   },
   {
-   "code": "007810",
-   "name": "코리아써키트",
-   "market": "KOSPI",
-   "cap": 11620,
+   "code": "332570",
+   "name": "PS일렉트로닉스",
+   "market": "KOSDAQ",
+   "cap": 3689,
    "total": 17,
    "recent": 2,
    "activeDays": 17,
@@ -650,6 +650,62 @@
    ]
   },
   {
+   "code": "322510",
+   "name": "제이엘케이",
+   "market": "KOSDAQ",
+   "cap": 1294,
+   "total": 11,
+   "recent": 2,
+   "activeDays": 9,
+   "firstSeen": "2026-08-18",
+   "lastSeen": "2026-09-15",
+   "score": 22.4,
+   "riskMentions": 0,
+   "catalystMentions": 1,
+   "samples": [
+    {
+     "date": "2026-09-15",
+     "title": "제이엘케이, 의료영상 AI서 '의사결정 AI'로…\"156억 국책과제 참여\""
+    },
+    {
+     "date": "2026-09-15",
+     "title": "제이엘케이, 日 응급실 병목 파고든다…\"뇌졸중 AI 공급 확대\""
+    },
+    {
+     "date": "2026-09-02",
+     "title": "제이엘케이, 日 뇌졸중AI '인허가 다음은 매출'…7종 상용화 채널 구축"
+    }
+   ]
+  },
+  {
+   "code": "293490",
+   "name": "카카오게임즈",
+   "market": "KOSDAQ",
+   "cap": 10141,
+   "total": 5,
+   "recent": 4,
+   "activeDays": 2,
+   "firstSeen": "2026-09-02",
+   "lastSeen": "2026-09-15",
+   "score": 21.0,
+   "riskMentions": 0,
+   "catalystMentions": 2,
+   "samples": [
+    {
+     "date": "2026-09-15",
+     "title": "카카오게임즈, 캐주얼 게임사 미투온 980억원에 인수[공시]"
+    },
+    {
+     "date": "2026-09-15",
+     "title": "카카오게임즈 \"미투온 주식 980억원어치 취득…지분율 39.6%\""
+    },
+    {
+     "date": "2026-09-15",
+     "title": "미투온, 279억원 유상증자…카카오게임즈에 제3자배정"
+    }
+   ]
+  },
+  {
    "code": "007310",
    "name": "오뚜기",
    "market": "KOSPI",
@@ -674,6 +730,34 @@
     {
      "date": "2026-09-02",
      "title": "오뚜기, 오늘 편의점 밥류 가격 최대 29.4% 인상"
+    }
+   ]
+  },
+  {
+   "code": "001200",
+   "name": "유진투자증권",
+   "market": "KOSPI",
+   "cap": 4204,
+   "total": 6,
+   "recent": 3,
+   "activeDays": 4,
+   "firstSeen": "2026-09-09",
+   "lastSeen": "2026-09-15",
+   "score": 19.6,
+   "riskMentions": 0,
+   "catalystMentions": 3,
+   "samples": [
+    {
+     "date": "2026-09-15",
+     "title": "유진투자증권, 걷기 챌린지 달성으로 노을공원에 400그루 나무 기부"
+    },
+    {
+     "date": "2026-09-15",
+     "title": "[게시판] 유진투자증권, 노을공원에 나무 400그루 기부"
+    },
+    {
+     "date": "2026-09-15",
+     "title": "\"걸음을 나무로 바꾸는 힘\"…유진투자증권, 노을공원에 400그루 기부"
     }
    ]
   },
@@ -758,90 +842,6 @@
     {
      "date": "2026-09-15",
      "title": "[특징주] '자사주 소각·무상증자' 코나아이 8%↑(종합)"
-    }
-   ]
-  },
-  {
-   "code": "482730",
-   "name": "TIGER 미국S&P500타겟데일리커버드콜",
-   "market": "KOSPI",
-   "cap": 6486,
-   "total": 5,
-   "recent": 2,
-   "activeDays": 5,
-   "firstSeen": "2026-09-02",
-   "lastSeen": "2026-09-15",
-   "score": 17.3,
-   "riskMentions": 0,
-   "catalystMentions": 0,
-   "samples": [
-    {
-     "date": "2026-09-15",
-     "title": "'TIGER 미국S&P500타겟데일리커버드콜' ETF, 첫 월중 분배 114원"
-    },
-    {
-     "date": "2026-09-13",
-     "title": "'TIGER 미국S&P500타겟데일리커버드콜' ETF, 첫 월중 분배 114원"
-    },
-    {
-     "date": "2026-09-12",
-     "title": "'TIGER 미국S&P500타겟데일리커버드콜' ETF, 첫 월중 분배 114원"
-    }
-   ]
-  },
-  {
-   "code": "017810",
-   "name": "풀무원",
-   "market": "KOSPI",
-   "cap": 3545,
-   "total": 7,
-   "recent": 2,
-   "activeDays": 5,
-   "firstSeen": "2026-08-25",
-   "lastSeen": "2026-09-15",
-   "score": 16.3,
-   "riskMentions": 0,
-   "catalystMentions": 0,
-   "samples": [
-    {
-     "date": "2026-09-15",
-     "title": "물가불안 조장하고 탈세 혐의…배민·풀무원 등 세무조사"
-    },
-    {
-     "date": "2026-09-15",
-     "title": "국세청, '물가 불안 탈세' 혐의 배민·무신사·풀무원 등 조사(종합)"
-    },
-    {
-     "date": "2026-09-02",
-     "title": "공정위, CJ·대상·풀무원 등 5개사 현장조사…장류 담합 의혹"
-    }
-   ]
-  },
-  {
-   "code": "079160",
-   "name": "CJ CGV",
-   "market": "KOSPI",
-   "cap": 9273,
-   "total": 7,
-   "recent": 2,
-   "activeDays": 5,
-   "firstSeen": "2026-09-08",
-   "lastSeen": "2026-09-15",
-   "score": 16.3,
-   "riskMentions": 0,
-   "catalystMentions": 0,
-   "samples": [
-    {
-     "date": "2026-09-15",
-     "title": "천만 영화 터지자 극장 훈풍…CJ CGV, 다이어트 결실 맺나 [주末머니]"
-    },
-    {
-     "date": "2026-09-13",
-     "title": "천만 영화 터지자 극장 훈풍…CJ CGV, 다이어트 결실 맺나 [주末머니]"
-    },
-    {
-     "date": "2026-09-10",
-     "title": "DS증권 \"CJ CGV, 극장 관객수 증가…3분기 실적 성장 기대\""
     }
    ]
   }

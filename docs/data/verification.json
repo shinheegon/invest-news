@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-09-15T09:42:43+09:00",
+ "updatedAt": "2026-09-16T00:26:08+09:00",
  "cases": [
   {
    "name": "오텍(067170)",
@@ -62392,6 +62392,52 @@
      "price": 1933
     }
    ]
+  },
+  {
+   "name": "효성중공업(298040)",
+   "type": "discovery",
+   "market": "韓",
+   "flagDate": "2026-09-15",
+   "signals": [
+    "대형확정계약3865억원",
+    "AI데이터센터전력인프라"
+   ],
+   "theme": "AI데이터센터/전력",
+   "status": "pending",
+   "checks": [],
+   "flagPrice": 2725000,
+   "priceLog": [
+    {
+     "date": "2026-09-15",
+     "price": 2725000
+    }
+   ],
+   "convScore": -1,
+   "convTier": "low",
+   "convSignals": [
+    "구체촉발재",
+    "⚠️열세테마"
+   ],
+   "convStampedAt": "2026-09-16"
+  },
+  {
+   "name": "쎄크",
+   "type": "discovery",
+   "market": "韓",
+   "flagDate": "2026-09-15",
+   "signals": [
+    "방산추가수주74억원",
+    "열세테마"
+   ],
+   "theme": "방산",
+   "status": "pending",
+   "checks": [],
+   "convScore": 2,
+   "convTier": "low",
+   "convSignals": [
+    "구체촉발재"
+   ],
+   "convStampedAt": "2026-09-16"
   }
  ],
  "stats": {
@@ -62401,8 +62447,8 @@
   "miss": 156,
   "hitRate": 24.7,
   "avgD3ChangePct": 0.27,
-  "pending": 62,
-  "total": 431,
+  "pending": 64,
+  "total": 433,
   "byType": {
    "leading": {
     "verified": 155,
