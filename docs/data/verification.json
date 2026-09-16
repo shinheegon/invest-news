@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-09-16T09:56:29+09:00",
+ "updatedAt": "2026-09-17T00:13:34+09:00",
  "cases": [
   {
    "name": "삼현(437730)",
@@ -64215,6 +64215,61 @@
     "구체촉발재"
    ],
    "convStampedAt": "2026-09-16"
+  },
+  {
+   "name": "DB하이텍(000990)",
+   "type": "leading",
+   "market": "韓",
+   "flagDate": "2026-09-16",
+   "signals": [
+    "대형고객공백반사수혜",
+    "기관뭉칫돈유입",
+    "테마첫거론"
+   ],
+   "theme": "파운드리 공급망 재편",
+   "status": "pending",
+   "checks": [],
+   "flagPrice": 126200,
+   "priceLog": [
+    {
+     "date": "2026-09-16",
+     "price": 126200
+    }
+   ],
+   "convScore": 2,
+   "convTier": "low",
+   "convSignals": [
+    "구체촉발재"
+   ],
+   "convStampedAt": "2026-09-17"
+  },
+  {
+   "name": "웰크론한텍(076080)",
+   "type": "discovery",
+   "market": "韓",
+   "flagDate": "2026-09-16",
+   "signals": [
+    "반도체수처리신사업재점화",
+    "3건동시보도",
+    "PF리스크해소"
+   ],
+   "theme": "플랜트/수처리 인프라",
+   "status": "pending",
+   "checks": [],
+   "flagPrice": 1131,
+   "priceLog": [
+    {
+     "date": "2026-09-16",
+     "price": 1131
+    }
+   ],
+   "convScore": 5,
+   "convTier": "high",
+   "convSignals": [
+    "반복포착",
+    "틈새레이더"
+   ],
+   "convStampedAt": "2026-09-17"
   }
  ],
  "stats": {
@@ -64224,8 +64279,8 @@
   "miss": 164,
   "hitRate": 24.3,
   "avgD3ChangePct": 0.32,
-  "pending": 50,
-  "total": 437,
+  "pending": 52,
+  "total": 439,
   "byType": {
    "leading": {
     "verified": 163,
