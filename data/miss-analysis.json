@@ -1,19 +1,19 @@
 {
- "updatedAt": "2026-09-16T00:26:09+09:00",
+ "updatedAt": "2026-09-16T09:56:30+09:00",
  "note": "빗나감 자동 원인분류 + 자기발전 필터. 투자권유 아님.",
  "summary": {
-  "resolved": 252,
-  "miss": 130,
-  "missRate": 51.6,
-  "preventable": 64,
-  "preventableShare": 49.2
+  "resolved": 263,
+  "miss": 136,
+  "missRate": 51.7,
+  "preventable": 67,
+  "preventableShare": 49.3
  },
  "byCause": [
   {
    "cause": "weak_signal",
    "label": "신호 약함(구체 촉발재 없음)",
-   "n": 61,
-   "share": 46.9,
+   "n": 62,
+   "share": 45.6,
    "avgExcess": -5.83,
    "preventable": true,
    "examples": [
@@ -51,9 +51,9 @@
   {
    "cause": "idiosyncratic",
    "label": "개별 악재(불가피)",
-   "n": 51,
-   "share": 39.2,
-   "avgExcess": -5.26,
+   "n": 54,
+   "share": 39.7,
+   "avgExcess": -5.12,
    "preventable": false,
    "examples": [
     {
@@ -83,7 +83,7 @@
    "cause": "macro_riskoff",
    "label": "거시 위험회피(시장 동반 급락)",
    "n": 15,
-   "share": 11.5,
+   "share": 11.0,
    "avgExcess": -3.74,
    "preventable": false,
    "examples": [
@@ -120,7 +120,7 @@
    "cause": "theme_headwind",
    "label": "열세 테마(자금 이탈)",
    "n": 3,
-   "share": 2.3,
+   "share": 2.2,
    "avgExcess": -38.53,
    "preventable": true,
    "examples": [
@@ -152,36 +152,64 @@
      ]
     }
    ]
+  },
+  {
+   "cause": "late_entry",
+   "label": "후발 진입(이미 급등)",
+   "n": 2,
+   "share": 1.5,
+   "avgExcess": -3.0,
+   "preventable": true,
+   "examples": [
+    {
+     "name": "지엔씨에너지(119850)",
+     "flagDate": "2026-09-11",
+     "excessPct": -3.37,
+     "theme": "AI전력/데이터센터",
+     "tags": [
+      "late_entry"
+     ]
+    },
+    {
+     "name": "지엔씨에너지(119850)",
+     "flagDate": "2026-09-12",
+     "excessPct": -2.62,
+     "theme": "AI전력/데이터센터",
+     "tags": [
+      "late_entry"
+     ]
+    }
+   ]
   }
  ],
  "learnedFilter": {
   "themeMissRate": {
+   "AI전력/데이터센터": 54.1,
    "로봇/휴머노이드": 51.1,
-   "AI전력/데이터센터": 51.5,
-   "AI반도체설계(팹리스/IP)": 48.3,
-   "기타": 44.2,
+   "반도체소재/장비": 61.1,
+   "기타": 42.6,
+   "AI반도체설계(팹리스/IP)": 51.6,
    "바이오/의료": 66.7,
-   "반도체소재/장비": 64.7,
    "신재생에너지": 71.4,
    "이차전지": 40.0,
    "우주/방산": 63.6
   },
   "signalMissRate": {
-   "concrete": 53.5,
-   "weak": 49.6
+   "concrete": 54.0,
+   "weak": 49.2
   },
   "rules": [
    "'신재생에너지' 테마는 빗나감률 71.4% — 강한 회피(구체촉발재+승세 아니면 제외).",
    "'바이오/의료' 테마는 빗나감률 66.7% — 강한 회피(구체촉발재+승세 아니면 제외).",
-   "'반도체소재/장비' 테마는 빗나감률 64.7% — 강한 회피(구체촉발재+승세 아니면 제외).",
-   "'우주/방산' 테마는 빗나감률 63.6% — 강한 회피(구체촉발재+승세 아니면 제외)."
+   "'우주/방산' 테마는 빗나감률 63.6% — 강한 회피(구체촉발재+승세 아니면 제외).",
+   "'반도체소재/장비' 테마는 빗나감률 61.1% — 강한 회피(구체촉발재+승세 아니면 제외)."
   ]
  },
  "macro": {
   "regime": "위험회피",
-  "kospi5d": -6.02,
-  "kosdaq5d": -2.16,
-  "fearGreed": 31.0,
+  "kospi5d": -5.78,
+  "kosdaq5d": -2.93,
+  "fearGreed": 30.0,
   "vix": 17.5,
   "guidance": "소형주 언더퍼폼 국면 — 포착 수를 줄이고 승세테마×구체촉발재만 최고확신으로. 열세테마·약신호 전면 배제.",
   "asOf": "2026-09-16"
@@ -838,15 +866,16 @@
   },
   {
    "date": "2026-09-16",
-   "resolved": 252,
-   "missRate": 51.6,
+   "resolved": 263,
+   "missRate": 51.7,
    "causeShares": {
-    "weak_signal": 46.9,
-    "idiosyncratic": 39.2,
-    "macro_riskoff": 11.5,
-    "theme_headwind": 2.3
+    "weak_signal": 45.6,
+    "idiosyncratic": 39.7,
+    "macro_riskoff": 11.0,
+    "theme_headwind": 2.2,
+    "late_entry": 1.5
    }
   }
  ],
- "develop": "직전(2026-09-15) 대비 빗나감률 51.6%→51.6% (+0.0p). 최다 원인=‘신호 약함(구체 촉발재 없음)’. 필터에 반영됨."
+ "develop": "직전(2026-09-15) 대비 빗나감률 51.6%→51.7% (+0.1p). 최다 원인=‘신호 약함(구체 촉발재 없음)’. 필터에 반영됨."
 }
