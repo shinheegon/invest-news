@@ -1,24 +1,28 @@
 {
- "updatedAt": "2026-09-16T23:49:50+09:00",
+ "updatedAt": "2026-09-17T09:16:34+09:00",
  "note": "원본 헤드라인의 반복 언급을 탐지한 조사 후보이며 투자권유가 아니다. 동일 기사 재실행은 한 번만 집계하고, 순수 악재 반복과 모호한 회사명은 제외한다.",
  "window": 30,
- "corpusToday": 1105,
- "trackedCompanies": 652,
+ "corpusToday": 667,
+ "trackedCompanies": 645,
  "companies": [
   {
    "code": "293490",
    "name": "카카오게임즈",
    "market": "KOSDAQ",
    "cap": 10141,
-   "total": 11,
-   "recent": 10,
-   "activeDays": 3,
+   "total": 12,
+   "recent": 11,
+   "activeDays": 4,
    "firstSeen": "2026-09-02",
-   "lastSeen": "2026-09-16",
-   "score": 49.2,
+   "lastSeen": "2026-09-17",
+   "score": 55.5,
    "riskMentions": 0,
-   "catalystMentions": 6,
+   "catalystMentions": 7,
    "samples": [
+    {
+     "date": "2026-09-17",
+     "title": "'카카오게임즈에 인수' 미투온, 장초반 상한가 직행[종목 NOW]"
+    },
     {
      "date": "2026-09-16",
      "title": "카카오게임즈, 캐주얼 게임사 미투온 980억원에 인수[공시]"
@@ -26,38 +30,6 @@
     {
      "date": "2026-09-16",
      "title": "카카오게임즈 \"미투온 주식 980억원어치 취득…지분율 39.6%\""
-    },
-    {
-     "date": "2026-09-16",
-     "title": "미투온, 카카오게임즈 피인수 소식에 상한가"
-    }
-   ]
-  },
-  {
-   "code": "006280",
-   "name": "녹십자",
-   "market": "KOSPI",
-   "cap": 14912,
-   "total": 18,
-   "recent": 3,
-   "activeDays": 17,
-   "firstSeen": "2026-08-19",
-   "lastSeen": "2026-09-16",
-   "score": 39.8,
-   "riskMentions": 0,
-   "catalystMentions": 0,
-   "samples": [
-    {
-     "date": "2026-09-16",
-     "title": "[주식민원처리반 3부] '녹십자, 실리콘투' 월요일에 선택할 이 종목은?"
-    },
-    {
-     "date": "2026-09-15",
-     "title": "[주식민원처리반 3부] '녹십자, 실리콘투' 월요일에 선택할 이 종목은?"
-    },
-    {
-     "date": "2026-09-15",
-     "title": "'재판소원 1호' 녹십자 과징금 사건 변론기일, 내달 23일로 변경"
     }
    ]
   },
@@ -66,53 +38,53 @@
    "name": "KCC글라스",
    "market": "KOSPI",
    "cap": 3905,
-   "total": 17,
-   "recent": 2,
-   "activeDays": 17,
+   "total": 18,
+   "recent": 3,
+   "activeDays": 18,
    "firstSeen": "2026-08-19",
-   "lastSeen": "2026-09-16",
-   "score": 35.5,
+   "lastSeen": "2026-09-17",
+   "score": 41.8,
    "riskMentions": 0,
    "catalystMentions": 0,
    "samples": [
+    {
+     "date": "2026-09-17",
+     "title": "\"스톤테리어 감성을 그대로\"..KCC글라스 홈씨씨 '숲 강마루 스톤'"
+    },
     {
      "date": "2026-09-16",
      "title": "\"스톤테리어 감성을 그대로\"..KCC글라스 홈씨씨 '숲 강마루 스톤'"
     },
     {
      "date": "2026-09-15",
-     "title": "\"스톤테리어 감성을 그대로\"..KCC글라스 홈씨씨 '숲 강마루 스톤'"
-    },
-    {
-     "date": "2026-09-13",
      "title": "\"스톤테리어 감성을 그대로\"..KCC글라스 홈씨씨 '숲 강마루 스톤'"
     }
    ]
   },
   {
-   "code": "290270",
-   "name": "휴네시온",
+   "code": "332570",
+   "name": "PS일렉트로닉스",
    "market": "KOSDAQ",
-   "cap": 280,
-   "total": 17,
-   "recent": 2,
-   "activeDays": 17,
+   "cap": 3689,
+   "total": 18,
+   "recent": 3,
+   "activeDays": 18,
    "firstSeen": "2026-08-19",
-   "lastSeen": "2026-09-16",
-   "score": 35.5,
+   "lastSeen": "2026-09-17",
+   "score": 41.8,
    "riskMentions": 0,
    "catalystMentions": 0,
    "samples": [
+    {
+     "date": "2026-09-17",
+     "title": "[고래사냥] 'LG전자, PS일렉트로닉스, 코리아써키트, 휴네시온!' 오늘 장 궁금종목 분석"
+    },
     {
      "date": "2026-09-16",
      "title": "[고래사냥] 'LG전자, PS일렉트로닉스, 코리아써키트, 휴네시온!' 오늘 장 궁금종목 분석"
     },
     {
      "date": "2026-09-15",
-     "title": "[고래사냥] 'LG전자, PS일렉트로닉스, 코리아써키트, 휴네시온!' 오늘 장 궁금종목 분석"
-    },
-    {
-     "date": "2026-09-13",
      "title": "[고래사냥] 'LG전자, PS일렉트로닉스, 코리아써키트, 휴네시온!' 오늘 장 궁금종목 분석"
     }
    ]
@@ -122,43 +94,47 @@
    "name": "코리아써키트",
    "market": "KOSPI",
    "cap": 11620,
-   "total": 17,
-   "recent": 2,
-   "activeDays": 17,
+   "total": 18,
+   "recent": 3,
+   "activeDays": 18,
    "firstSeen": "2026-08-19",
-   "lastSeen": "2026-09-16",
-   "score": 35.5,
+   "lastSeen": "2026-09-17",
+   "score": 41.8,
    "riskMentions": 0,
    "catalystMentions": 0,
    "samples": [
+    {
+     "date": "2026-09-17",
+     "title": "[고래사냥] 'LG전자, PS일렉트로닉스, 코리아써키트, 휴네시온!' 오늘 장 궁금종목 분석"
+    },
     {
      "date": "2026-09-16",
      "title": "[고래사냥] 'LG전자, PS일렉트로닉스, 코리아써키트, 휴네시온!' 오늘 장 궁금종목 분석"
     },
     {
      "date": "2026-09-15",
-     "title": "[고래사냥] 'LG전자, PS일렉트로닉스, 코리아써키트, 휴네시온!' 오늘 장 궁금종목 분석"
-    },
-    {
-     "date": "2026-09-13",
      "title": "[고래사냥] 'LG전자, PS일렉트로닉스, 코리아써키트, 휴네시온!' 오늘 장 궁금종목 분석"
     }
    ]
   },
   {
-   "code": "332570",
-   "name": "PS일렉트로닉스",
+   "code": "290270",
+   "name": "휴네시온",
    "market": "KOSDAQ",
-   "cap": 3689,
-   "total": 17,
-   "recent": 2,
-   "activeDays": 17,
+   "cap": 280,
+   "total": 18,
+   "recent": 3,
+   "activeDays": 18,
    "firstSeen": "2026-08-19",
-   "lastSeen": "2026-09-16",
-   "score": 35.5,
+   "lastSeen": "2026-09-17",
+   "score": 41.8,
    "riskMentions": 0,
    "catalystMentions": 0,
    "samples": [
+    {
+     "date": "2026-09-17",
+     "title": "[고래사냥] 'LG전자, PS일렉트로닉스, 코리아써키트, 휴네시온!' 오늘 장 궁금종목 분석"
+    },
     {
      "date": "2026-09-16",
      "title": "[고래사냥] 'LG전자, PS일렉트로닉스, 코리아써키트, 휴네시온!' 오늘 장 궁금종목 분석"
@@ -166,38 +142,6 @@
     {
      "date": "2026-09-15",
      "title": "[고래사냥] 'LG전자, PS일렉트로닉스, 코리아써키트, 휴네시온!' 오늘 장 궁금종목 분석"
-    },
-    {
-     "date": "2026-09-13",
-     "title": "[고래사냥] 'LG전자, PS일렉트로닉스, 코리아써키트, 휴네시온!' 오늘 장 궁금종목 분석"
-    }
-   ]
-  },
-  {
-   "code": "456010",
-   "name": "아이씨티케이",
-   "market": "KOSDAQ",
-   "cap": 2658,
-   "total": 17,
-   "recent": 2,
-   "activeDays": 17,
-   "firstSeen": "2026-08-19",
-   "lastSeen": "2026-09-16",
-   "score": 35.5,
-   "riskMentions": 0,
-   "catalystMentions": 0,
-   "samples": [
-    {
-     "date": "2026-09-16",
-     "title": "[고래사냥] '블루엠텍, 아이씨티케이, 주성엔지니어링, 한컴위드!' 오늘 장 궁금종목 분석"
-    },
-    {
-     "date": "2026-09-15",
-     "title": "[고래사냥] '블루엠텍, 아이씨티케이, 주성엔지니어링, 한컴위드!' 오늘 장 궁금종목 분석"
-    },
-    {
-     "date": "2026-09-13",
-     "title": "[고래사냥] '블루엠텍, 아이씨티케이, 주성엔지니어링, 한컴위드!' 오늘 장 궁금종목 분석"
     }
    ]
   },
@@ -206,15 +150,19 @@
    "name": "블루엠텍",
    "market": "KOSDAQ",
    "cap": 724,
-   "total": 17,
-   "recent": 2,
-   "activeDays": 17,
+   "total": 18,
+   "recent": 3,
+   "activeDays": 18,
    "firstSeen": "2026-08-19",
-   "lastSeen": "2026-09-16",
-   "score": 35.5,
+   "lastSeen": "2026-09-17",
+   "score": 41.8,
    "riskMentions": 0,
    "catalystMentions": 0,
    "samples": [
+    {
+     "date": "2026-09-17",
+     "title": "[고래사냥] '블루엠텍, 아이씨티케이, 주성엔지니어링, 한컴위드!' 오늘 장 궁금종목 분석"
+    },
     {
      "date": "2026-09-16",
      "title": "[고래사냥] '블루엠텍, 아이씨티케이, 주성엔지니어링, 한컴위드!' 오늘 장 궁금종목 분석"
@@ -222,9 +170,33 @@
     {
      "date": "2026-09-15",
      "title": "[고래사냥] '블루엠텍, 아이씨티케이, 주성엔지니어링, 한컴위드!' 오늘 장 궁금종목 분석"
+    }
+   ]
+  },
+  {
+   "code": "456010",
+   "name": "아이씨티케이",
+   "market": "KOSDAQ",
+   "cap": 2658,
+   "total": 18,
+   "recent": 3,
+   "activeDays": 18,
+   "firstSeen": "2026-08-19",
+   "lastSeen": "2026-09-17",
+   "score": 41.8,
+   "riskMentions": 0,
+   "catalystMentions": 0,
+   "samples": [
+    {
+     "date": "2026-09-17",
+     "title": "[고래사냥] '블루엠텍, 아이씨티케이, 주성엔지니어링, 한컴위드!' 오늘 장 궁금종목 분석"
     },
     {
-     "date": "2026-09-13",
+     "date": "2026-09-16",
+     "title": "[고래사냥] '블루엠텍, 아이씨티케이, 주성엔지니어링, 한컴위드!' 오늘 장 궁금종목 분석"
+    },
+    {
+     "date": "2026-09-15",
      "title": "[고래사냥] '블루엠텍, 아이씨티케이, 주성엔지니어링, 한컴위드!' 오늘 장 궁금종목 분석"
     }
    ]
@@ -234,25 +206,25 @@
    "name": "큐브엔터",
    "market": "KOSDAQ",
    "cap": 964,
-   "total": 17,
-   "recent": 2,
-   "activeDays": 17,
+   "total": 18,
+   "recent": 3,
+   "activeDays": 18,
    "firstSeen": "2026-08-19",
-   "lastSeen": "2026-09-16",
-   "score": 35.5,
+   "lastSeen": "2026-09-17",
+   "score": 41.8,
    "riskMentions": 0,
    "catalystMentions": 0,
    "samples": [
+    {
+     "date": "2026-09-17",
+     "title": "[더벨]큐브엔터 아이들 우기, 신곡 'M.O.' \"자신감·두려움 없는 본성 담아\""
+    },
     {
      "date": "2026-09-16",
      "title": "[더벨]큐브엔터 아이들 우기, 신곡 'M.O.' \"자신감·두려움 없는 본성 담아\""
     },
     {
      "date": "2026-09-15",
-     "title": "[더벨]큐브엔터 아이들 우기, 신곡 'M.O.' \"자신감·두려움 없는 본성 담아\""
-    },
-    {
-     "date": "2026-09-13",
      "title": "[더벨]큐브엔터 아이들 우기, 신곡 'M.O.' \"자신감·두려움 없는 본성 담아\""
     }
    ]
@@ -262,25 +234,25 @@
    "name": "에이직랜드",
    "market": "KOSDAQ",
    "cap": 2207,
-   "total": 17,
-   "recent": 2,
-   "activeDays": 17,
+   "total": 18,
+   "recent": 3,
+   "activeDays": 18,
    "firstSeen": "2026-08-19",
-   "lastSeen": "2026-09-16",
-   "score": 35.5,
+   "lastSeen": "2026-09-17",
+   "score": 41.8,
    "riskMentions": 0,
    "catalystMentions": 0,
    "samples": [
+    {
+     "date": "2026-09-17",
+     "title": "[수익 내비게이터] 국책과제 정부출연금 증가 추세…AI 반도체 기술력 입증 '에이직랜드' VS 글로벌 시장 프리미엄 가전 브랜드로 경쟁력 강화 'LG전자'"
+    },
     {
      "date": "2026-09-16",
      "title": "[수익 내비게이터] 국책과제 정부출연금 증가 추세…AI 반도체 기술력 입증 '에이직랜드' VS 글로벌 시장 프리미엄 가전 브랜드로 경쟁력 강화 'LG전자'"
     },
     {
      "date": "2026-09-15",
-     "title": "[수익 내비게이터] 국책과제 정부출연금 증가 추세…AI 반도체 기술력 입증 '에이직랜드' VS 글로벌 시장 프리미엄 가전 브랜드로 경쟁력 강화 'LG전자'"
-    },
-    {
-     "date": "2026-09-13",
      "title": "[수익 내비게이터] 국책과제 정부출연금 증가 추세…AI 반도체 기술력 입증 '에이직랜드' VS 글로벌 시장 프리미엄 가전 브랜드로 경쟁력 강화 'LG전자'"
     }
    ]
@@ -290,25 +262,25 @@
    "name": "제이엔비",
    "market": "KOSDAQ",
    "cap": 287,
-   "total": 17,
-   "recent": 2,
-   "activeDays": 17,
+   "total": 18,
+   "recent": 3,
+   "activeDays": 18,
    "firstSeen": "2026-08-19",
-   "lastSeen": "2026-09-16",
-   "score": 35.5,
+   "lastSeen": "2026-09-17",
+   "score": 41.8,
    "riskMentions": 0,
    "catalystMentions": 0,
    "samples": [
+    {
+     "date": "2026-09-17",
+     "title": "[여의도 클라쓰] '제이엔비, 칩스앤미디어, 농심홀딩스' 클라쓰 올릴 종목은?"
+    },
     {
      "date": "2026-09-16",
      "title": "[여의도 클라쓰] '제이엔비, 칩스앤미디어, 농심홀딩스' 클라쓰 올릴 종목은?"
     },
     {
      "date": "2026-09-15",
-     "title": "[여의도 클라쓰] '제이엔비, 칩스앤미디어, 농심홀딩스' 클라쓰 올릴 종목은?"
-    },
-    {
-     "date": "2026-09-13",
      "title": "[여의도 클라쓰] '제이엔비, 칩스앤미디어, 농심홀딩스' 클라쓰 올릴 종목은?"
     }
    ]
@@ -318,25 +290,25 @@
    "name": "케이사인",
    "market": "KOSDAQ",
    "cap": 556,
-   "total": 17,
-   "recent": 2,
-   "activeDays": 17,
+   "total": 18,
+   "recent": 3,
+   "activeDays": 18,
    "firstSeen": "2026-08-19",
-   "lastSeen": "2026-09-16",
-   "score": 35.5,
+   "lastSeen": "2026-09-17",
+   "score": 41.8,
    "riskMentions": 0,
    "catalystMentions": 0,
    "samples": [
+    {
+     "date": "2026-09-17",
+     "title": "[이달해 달달한10분] 정부가 칼빼든 해킹 사태! 케이사인, 보안주 탑픽?"
+    },
     {
      "date": "2026-09-16",
      "title": "[이달해 달달한10분] 정부가 칼빼든 해킹 사태! 케이사인, 보안주 탑픽?"
     },
     {
      "date": "2026-09-15",
-     "title": "[이달해 달달한10분] 정부가 칼빼든 해킹 사태! 케이사인, 보안주 탑픽?"
-    },
-    {
-     "date": "2026-09-13",
      "title": "[이달해 달달한10분] 정부가 칼빼든 해킹 사태! 케이사인, 보안주 탑픽?"
     }
    ]
@@ -346,25 +318,25 @@
    "name": "티엑스알로보틱스",
    "market": "KOSDAQ",
    "cap": 1897,
-   "total": 17,
-   "recent": 2,
-   "activeDays": 17,
+   "total": 18,
+   "recent": 3,
+   "activeDays": 18,
    "firstSeen": "2026-08-19",
-   "lastSeen": "2026-09-16",
-   "score": 35.5,
+   "lastSeen": "2026-09-17",
+   "score": 41.8,
    "riskMentions": 0,
    "catalystMentions": 0,
    "samples": [
+    {
+     "date": "2026-09-17",
+     "title": "[적중! 대박 예감] '농심, 티엑스알로보틱스, 다이버시파이드 에너지 컴퍼니' 예감 좋은 대박 종목은?"
+    },
     {
      "date": "2026-09-16",
      "title": "[적중! 대박 예감] '농심, 티엑스알로보틱스, 다이버시파이드 에너지 컴퍼니' 예감 좋은 대박 종목은?"
     },
     {
      "date": "2026-09-15",
-     "title": "[적중! 대박 예감] '농심, 티엑스알로보틱스, 다이버시파이드 에너지 컴퍼니' 예감 좋은 대박 종목은?"
-    },
-    {
-     "date": "2026-09-13",
      "title": "[적중! 대박 예감] '농심, 티엑스알로보틱스, 다이버시파이드 에너지 컴퍼니' 예감 좋은 대박 종목은?"
     }
    ]
@@ -374,15 +346,19 @@
    "name": "동아에스티",
    "market": "KOSPI",
    "cap": 3512,
-   "total": 17,
-   "recent": 2,
-   "activeDays": 17,
+   "total": 18,
+   "recent": 3,
+   "activeDays": 18,
    "firstSeen": "2026-08-19",
-   "lastSeen": "2026-09-16",
-   "score": 35.5,
+   "lastSeen": "2026-09-17",
+   "score": 41.8,
    "riskMentions": 0,
-   "catalystMentions": 2,
+   "catalystMentions": 3,
    "samples": [
+    {
+     "date": "2026-09-17",
+     "title": "[투자 핫플레이스] 비만·당뇨·MASH·ADC 파이프라인 보유 '동아에스티'"
+    },
     {
      "date": "2026-09-16",
      "title": "[투자 핫플레이스] 비만·당뇨·MASH·ADC 파이프라인 보유 '동아에스티'"
@@ -390,38 +366,6 @@
     {
      "date": "2026-09-15",
      "title": "[투자 핫플레이스] 비만·당뇨·MASH·ADC 파이프라인 보유 '동아에스티'"
-    },
-    {
-     "date": "2026-09-13",
-     "title": "[투자 핫플레이스] 비만·당뇨·MASH·ADC 파이프라인 보유 '동아에스티'"
-    }
-   ]
-  },
-  {
-   "code": "226590",
-   "name": "엠디바이스",
-   "market": "KOSDAQ",
-   "cap": 1350,
-   "total": 17,
-   "recent": 2,
-   "activeDays": 17,
-   "firstSeen": "2026-08-19",
-   "lastSeen": "2026-09-16",
-   "score": 35.5,
-   "riskMentions": 0,
-   "catalystMentions": 2,
-   "samples": [
-    {
-     "date": "2026-09-16",
-     "title": "[투자원정대 동행] 로체시스템즈 vs 클래시스 vs 엠디바이스, 공략법은?"
-    },
-    {
-     "date": "2026-09-15",
-     "title": "[투자원정대 동행] 로체시스템즈 vs 클래시스 vs 엠디바이스, 공략법은?"
-    },
-    {
-     "date": "2026-09-13",
-     "title": "[투자원정대 동행] 로체시스템즈 vs 클래시스 vs 엠디바이스, 공략법은?"
     }
    ]
   },
@@ -430,15 +374,19 @@
    "name": "로체시스템즈",
    "market": "KOSDAQ",
    "cap": 1052,
-   "total": 17,
-   "recent": 2,
-   "activeDays": 17,
+   "total": 18,
+   "recent": 3,
+   "activeDays": 18,
    "firstSeen": "2026-08-19",
-   "lastSeen": "2026-09-16",
-   "score": 35.5,
+   "lastSeen": "2026-09-17",
+   "score": 41.8,
    "riskMentions": 0,
-   "catalystMentions": 2,
+   "catalystMentions": 3,
    "samples": [
+    {
+     "date": "2026-09-17",
+     "title": "[투자원정대 동행] 로체시스템즈 vs 클래시스 vs 엠디바이스, 공략법은?"
+    },
     {
      "date": "2026-09-16",
      "title": "[투자원정대 동행] 로체시스템즈 vs 클래시스 vs 엠디바이스, 공략법은?"
@@ -446,9 +394,33 @@
     {
      "date": "2026-09-15",
      "title": "[투자원정대 동행] 로체시스템즈 vs 클래시스 vs 엠디바이스, 공략법은?"
+    }
+   ]
+  },
+  {
+   "code": "226590",
+   "name": "엠디바이스",
+   "market": "KOSDAQ",
+   "cap": 1350,
+   "total": 18,
+   "recent": 3,
+   "activeDays": 18,
+   "firstSeen": "2026-08-19",
+   "lastSeen": "2026-09-17",
+   "score": 41.8,
+   "riskMentions": 0,
+   "catalystMentions": 3,
+   "samples": [
+    {
+     "date": "2026-09-17",
+     "title": "[투자원정대 동행] 로체시스템즈 vs 클래시스 vs 엠디바이스, 공략법은?"
     },
     {
-     "date": "2026-09-13",
+     "date": "2026-09-16",
+     "title": "[투자원정대 동행] 로체시스템즈 vs 클래시스 vs 엠디바이스, 공략법은?"
+    },
+    {
+     "date": "2026-09-15",
      "title": "[투자원정대 동행] 로체시스템즈 vs 클래시스 vs 엠디바이스, 공략법은?"
     }
    ]
@@ -458,25 +430,25 @@
    "name": "에브리봇",
    "market": "KOSDAQ",
    "cap": 1680,
-   "total": 17,
-   "recent": 2,
-   "activeDays": 17,
+   "total": 18,
+   "recent": 3,
+   "activeDays": 18,
    "firstSeen": "2026-08-19",
-   "lastSeen": "2026-09-16",
-   "score": 35.5,
+   "lastSeen": "2026-09-17",
+   "score": 41.8,
    "riskMentions": 0,
    "catalystMentions": 0,
    "samples": [
+    {
+     "date": "2026-09-17",
+     "title": "[필승매매 승부사] '삼현 '추천 한달만에 +111% 급등! 기세 이어갈 로봇주는? '에브리봇'"
+    },
     {
      "date": "2026-09-16",
      "title": "[필승매매 승부사] '삼현 '추천 한달만에 +111% 급등! 기세 이어갈 로봇주는? '에브리봇'"
     },
     {
      "date": "2026-09-15",
-     "title": "[필승매매 승부사] '삼현 '추천 한달만에 +111% 급등! 기세 이어갈 로봇주는? '에브리봇'"
-    },
-    {
-     "date": "2026-09-13",
      "title": "[필승매매 승부사] '삼현 '추천 한달만에 +111% 급등! 기세 이어갈 로봇주는? '에브리봇'"
     }
    ]
@@ -486,25 +458,25 @@
    "name": "에스투더블유",
    "market": "KOSDAQ",
    "cap": 1735,
-   "total": 17,
-   "recent": 2,
-   "activeDays": 17,
+   "total": 18,
+   "recent": 3,
+   "activeDays": 18,
    "firstSeen": "2026-08-19",
-   "lastSeen": "2026-09-16",
-   "score": 35.5,
+   "lastSeen": "2026-09-17",
+   "score": 41.8,
    "riskMentions": 0,
    "catalystMentions": 0,
    "samples": [
+    {
+     "date": "2026-09-17",
+     "title": "에스투더블유, 상장 첫날 '따블' 성공"
+    },
     {
      "date": "2026-09-16",
      "title": "에스투더블유, 상장 첫날 '따블' 성공"
     },
     {
      "date": "2026-09-15",
-     "title": "에스투더블유, 상장 첫날 '따블' 성공"
-    },
-    {
-     "date": "2026-09-13",
      "title": "에스투더블유, 상장 첫날 '따블' 성공"
     }
    ]
@@ -514,15 +486,19 @@
    "name": "한솔홈데코",
    "market": "KOSPI",
    "cap": 305,
-   "total": 17,
-   "recent": 2,
-   "activeDays": 17,
+   "total": 18,
+   "recent": 3,
+   "activeDays": 18,
    "firstSeen": "2026-08-19",
-   "lastSeen": "2026-09-16",
-   "score": 35.5,
+   "lastSeen": "2026-09-17",
+   "score": 41.8,
    "riskMentions": 0,
    "catalystMentions": 0,
    "samples": [
+    {
+     "date": "2026-09-17",
+     "title": "한솔홈데코, '톤맞춤 인테리어'로 집안 전체를 하나로 통일"
+    },
     {
      "date": "2026-09-16",
      "title": "한솔홈데코, '톤맞춤 인테리어'로 집안 전체를 하나로 통일"
@@ -530,10 +506,90 @@
     {
      "date": "2026-09-15",
      "title": "한솔홈데코, '톤맞춤 인테리어'로 집안 전체를 하나로 통일"
+    }
+   ]
+  },
+  {
+   "code": "076080",
+   "name": "웰크론한텍",
+   "market": "KOSDAQ",
+   "cap": 255,
+   "total": 8,
+   "recent": 6,
+   "activeDays": 5,
+   "firstSeen": "2026-09-02",
+   "lastSeen": "2026-09-17",
+   "score": 35.2,
+   "riskMentions": 0,
+   "catalystMentions": 4,
+   "samples": [
+    {
+     "date": "2026-09-17",
+     "title": "\"웰크론한텍, PF 리스크 해소와 반도체 수처리로 재평가\""
+    },
+    {
+     "date": "2026-09-16",
+     "title": "웰크론한텍, 첨단산업 수처리 시장 진출…\"사업 영역 확대\""
+    },
+    {
+     "date": "2026-09-16",
+     "title": "웰크론한텍, 반도체 수처리 시장 진출…물 재이용 사업 확대"
+    }
+   ]
+  },
+  {
+   "code": "002070",
+   "name": "비비안",
+   "market": "KOSPI",
+   "cap": 262,
+   "total": 15,
+   "recent": 2,
+   "activeDays": 15,
+   "firstSeen": "2026-08-19",
+   "lastSeen": "2026-09-17",
+   "score": 32.4,
+   "riskMentions": 0,
+   "catalystMentions": 0,
+   "samples": [
+    {
+     "date": "2026-09-17",
+     "title": "비비안, AI·엣지 기반 풍력·신재생에너지 사업 시동…테크트렉과 MOU"
+    },
+    {
+     "date": "2026-09-16",
+     "title": "비비안, AI·엣지 기반 풍력·신재생에너지 사업 시동…테크트렉과 MOU"
     },
     {
      "date": "2026-09-13",
-     "title": "한솔홈데코, '톤맞춤 인테리어'로 집안 전체를 하나로 통일"
+     "title": "비비안, 광림과 MOU…해상풍력 프로젝트 투자·지원"
+    }
+   ]
+  },
+  {
+   "code": "307870",
+   "name": "비투엔",
+   "market": "KOSDAQ",
+   "cap": 909,
+   "total": 9,
+   "recent": 5,
+   "activeDays": 6,
+   "firstSeen": "2026-08-24",
+   "lastSeen": "2026-09-17",
+   "score": 31.9,
+   "riskMentions": 0,
+   "catalystMentions": 0,
+   "samples": [
+    {
+     "date": "2026-09-17",
+     "title": "앤씨앤, 100억원 유상증자…주식회사 비투엔 등에 3자 배정"
+    },
+    {
+     "date": "2026-09-17",
+     "title": "비투엔, 앤씨앤 최대주주로…넥스트칩과 車반도체 시너지↑"
+    },
+    {
+     "date": "2026-09-17",
+     "title": "비투엔 \"앤씨앤 주식 63억원어치 취득…지분율 27.7%\""
     }
    ]
   },
@@ -622,30 +678,30 @@
    ]
   },
   {
-   "code": "076080",
-   "name": "웰크론한텍",
+   "code": "315640",
+   "name": "딥노이드",
    "market": "KOSDAQ",
-   "cap": 255,
-   "total": 7,
-   "recent": 5,
-   "activeDays": 4,
-   "firstSeen": "2026-09-02",
-   "lastSeen": "2026-09-16",
-   "score": 28.9,
+   "cap": 511,
+   "total": 9,
+   "recent": 3,
+   "activeDays": 9,
+   "firstSeen": "2026-08-19",
+   "lastSeen": "2026-09-17",
+   "score": 28.2,
    "riskMentions": 0,
-   "catalystMentions": 4,
+   "catalystMentions": 0,
    "samples": [
     {
-     "date": "2026-09-16",
-     "title": "웰크론한텍, 첨단산업 수처리 시장 진출…\"사업 영역 확대\""
+     "date": "2026-09-17",
+     "title": "딥노이드, 800개 병원 판독망 뚫었다…'M4CXR' 확산 가속도"
     },
     {
      "date": "2026-09-16",
-     "title": "웰크론한텍, 반도체 수처리 시장 진출…물 재이용 사업 확대"
+     "title": "딥노이드, 800개 병원 판독망 뚫었다…'M4CXR' 확산 가속도"
     },
     {
-     "date": "2026-09-16",
-     "title": "\"웰크론한텍, PF 리스크 해소와 반도체 수처리로 재평가\""
+     "date": "2026-09-15",
+     "title": "딥노이드, 의료AI '사후검증' 통했다…서울대병원 연구서 민감도↑"
     }
    ]
   },
@@ -654,12 +710,12 @@
    "name": "제이엘케이",
    "market": "KOSDAQ",
    "cap": 1294,
-   "total": 12,
+   "total": 11,
    "recent": 3,
-   "activeDays": 10,
-   "firstSeen": "2026-08-18",
+   "activeDays": 9,
+   "firstSeen": "2026-08-20",
    "lastSeen": "2026-09-16",
-   "score": 28.7,
+   "score": 27.2,
    "riskMentions": 0,
    "catalystMentions": 2,
    "samples": [
@@ -706,142 +762,86 @@
    ]
   },
   {
-   "code": "016610",
-   "name": "DB증권",
-   "market": "KOSPI",
-   "cap": 4359,
-   "total": 11,
-   "recent": 2,
-   "activeDays": 9,
-   "firstSeen": "2026-08-18",
-   "lastSeen": "2026-09-16",
-   "score": 22.4,
-   "riskMentions": 0,
-   "catalystMentions": 0,
-   "samples": [
-    {
-     "date": "2026-09-16",
-     "title": "DB증권 \"엔화 제한적 강세 예상…자동차 주가 반등 동력\""
-    },
-    {
-     "date": "2026-09-15",
-     "title": "DB증권, 임플란트 업체 디오 목표가↓…\"중국 구매정책 공백기\""
-    },
-    {
-     "date": "2026-09-09",
-     "title": "DB증권 \"스카이라이프, 3분기 실적 악화 예상…목표가↓\""
-    }
-   ]
-  },
-  {
-   "code": "002990",
-   "name": "금호건설",
-   "market": "KOSPI",
-   "cap": 4989,
-   "total": 12,
-   "recent": 2,
-   "activeDays": 9,
-   "firstSeen": "2026-08-19",
-   "lastSeen": "2026-09-15",
-   "score": 21.9,
-   "riskMentions": 0,
-   "catalystMentions": 2,
-   "samples": [
-    {
-     "date": "2026-09-15",
-     "title": "금호건설, 수원 파장1구역 재건축 시공사 선정"
-    },
-    {
-     "date": "2026-09-15",
-     "title": "금호건설, 수원 파장1구역 재건축 수주…'아테라 루미에르'"
-    },
-    {
-     "date": "2026-09-12",
-     "title": "금호건설, 11~17일 임직원 걷기 챌린지…역대 최대 참여"
-    }
-   ]
-  },
-  {
-   "code": "315640",
-   "name": "딥노이드",
+   "code": "092600",
+   "name": "앤씨앤",
    "market": "KOSDAQ",
-   "cap": 511,
-   "total": 8,
-   "recent": 2,
-   "activeDays": 8,
-   "firstSeen": "2026-08-19",
-   "lastSeen": "2026-09-16",
-   "score": 21.8,
+   "cap": 126,
+   "total": 5,
+   "recent": 5,
+   "activeDays": 2,
+   "firstSeen": "2026-09-16",
+   "lastSeen": "2026-09-17",
+   "score": 25.8,
    "riskMentions": 0,
    "catalystMentions": 0,
    "samples": [
     {
-     "date": "2026-09-16",
-     "title": "딥노이드, 800개 병원 판독망 뚫었다…'M4CXR' 확산 가속도"
+     "date": "2026-09-17",
+     "title": "앤씨앤, 100억원 유상증자…주식회사 비투엔 등에 3자 배정"
     },
     {
-     "date": "2026-09-15",
-     "title": "딥노이드, 의료AI '사후검증' 통했다…서울대병원 연구서 민감도↑"
+     "date": "2026-09-17",
+     "title": "비투엔, 앤씨앤 최대주주로…넥스트칩과 車반도체 시너지↑"
     },
     {
-     "date": "2026-08-29",
-     "title": "\"뇌혈관 넘어 치매·파킨슨까지..\" 딥노이드, 뇌 MRI 정량분석 AI 장착"
+     "date": "2026-09-17",
+     "title": "비투엔 \"앤씨앤 주식 63억원어치 취득…지분율 27.7%\""
     }
    ]
   },
   {
-   "code": "091970",
-   "name": "LSK아이로봇",
+   "code": "441270",
+   "name": "파인엠텍",
    "market": "KOSDAQ",
-   "cap": 301,
-   "total": 10,
+   "cap": 3777,
+   "total": 17,
    "recent": 2,
-   "activeDays": 8,
-   "firstSeen": "2026-08-28",
-   "lastSeen": "2026-09-16",
-   "score": 20.9,
+   "activeDays": 12,
+   "firstSeen": "2026-08-19",
+   "lastSeen": "2026-09-17",
+   "score": 25.5,
    "riskMentions": 0,
    "catalystMentions": 0,
    "samples": [
     {
-     "date": "2026-09-16",
-     "title": "LSK아이로봇, 8회차 CB 누적 31.5억 상환…잠재 전환물량 약 114만주 축소"
+     "date": "2026-09-17",
+     "title": "하나證 \"파인엠텍, 북미 물량 본격 가세…내년 영업익 58%↑\""
     },
     {
-     "date": "2026-09-15",
-     "title": "LSK아이로봇, 8회차 CB 누적 31.5억 상환…잠재 전환물량 약 114만주 축소"
-    },
-    {
-     "date": "2026-09-03",
-     "title": "LSK아이로봇, AI 버추얼 아티스트 공개...콘텐츠 사업 확대"
-    }
-   ]
-  },
-  {
-   "code": "090460",
-   "name": "비에이치",
-   "market": "KOSPI",
-   "cap": 6776,
-   "total": 10,
-   "recent": 2,
-   "activeDays": 7,
-   "firstSeen": "2026-09-01",
-   "lastSeen": "2026-09-15",
-   "score": 18.9,
-   "riskMentions": 0,
-   "catalystMentions": 1,
-   "samples": [
-    {
-     "date": "2026-09-15",
-     "title": "[특징주] 폴더블폰 시장 확대 전망…비에이치, 6% 상승(종합)"
-    },
-    {
-     "date": "2026-09-15",
-     "title": "\"애플 폴더블폰 등장에 수혜 기대\"…비에이치 7%대 급등[종목 NOW]"
+     "date": "2026-09-17",
+     "title": "[클릭 e종목]\"파인엠텍, 북미 폴더블 '초도물량' 몰린다…경쟁사 품질 문제가 기회로\""
     },
     {
      "date": "2026-09-13",
      "title": "[클릭 e종목]애플 폴더블 아이폰에 부품주 '들썩'…비에이치·파인엠텍 주목"
+    }
+   ]
+  },
+  {
+   "code": "005960",
+   "name": "동부건설",
+   "market": "KOSPI",
+   "cap": 1866,
+   "total": 5,
+   "recent": 3,
+   "activeDays": 5,
+   "firstSeen": "2026-08-27",
+   "lastSeen": "2026-09-17",
+   "score": 22.1,
+   "riskMentions": 0,
+   "catalystMentions": 2,
+   "samples": [
+    {
+     "date": "2026-09-17",
+     "title": "[클릭 e종목]\"동부건설, 주택에 플랜트까지…실적 성장 기대\""
+    },
+    {
+     "date": "2026-09-16",
+     "title": "[클릭 e종목]\"동부건설, 주택에 플랜트까지…실적 성장 기대\""
+    },
+    {
+     "date": "2026-09-15",
+     "title": "동부건설, 新조직문화 프로그램 운영…첫 특강 개최"
     }
    ]
   }
