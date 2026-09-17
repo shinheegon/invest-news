@@ -4,6 +4,12 @@
    "articles": [
     {
      "date": "2026-09-17",
+     "source": "한국경제·증권",
+     "title": "SK하이닉스 집중매수한 초고수…반등한 삼성전자는 팔았다",
+     "link": "https://www.hankyung.com/article/202609170711i"
+    },
+    {
+     "date": "2026-09-17",
      "source": "연합인포맥스",
      "title": "SK하이닉스 美·日 저울질 속…호남 470조 투자 유인책은",
      "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4435312"
@@ -715,12 +721,6 @@
      "source": "한국경제·증권",
      "title": "SK하이닉스, 인디애나팹 27일 착공식…최태원·젠슨 황 만나나",
      "link": "https://www.hankyung.com/article/2026081277966"
-    },
-    {
-     "date": "2026-08-13",
-     "source": "한국경제·경제",
-     "title": "SK하이닉스 통합노조 나왔다…TF \"정식 노조 승인돼\"",
-     "link": "https://www.hankyung.com/article/2026081302587"
     }
    ]
   },
@@ -729,8 +729,26 @@
     {
      "date": "2026-09-17",
      "source": "한국경제·증권",
+     "title": "SK하이닉스 집중매수한 초고수…반등한 삼성전자는 팔았다",
+     "link": "https://www.hankyung.com/article/202609170711i"
+    },
+    {
+     "date": "2026-09-17",
+     "source": "한국경제·증권",
      "title": "\"같은 삼성전자 협력사인데\" … 수익률 47% VS -19% 갈린 이유는 [대기업 협력사 전수분석]",
      "link": "https://www.hankyung.com/article/202609179699i"
+    },
+    {
+     "date": "2026-09-17",
+     "source": "연합인포맥스",
+     "title": "신제윤 삼성전자 이사회 의장, 자사주 210주 매입…5천628만원 규모",
+     "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4435463"
+    },
+    {
+     "date": "2026-09-17",
+     "source": "연합뉴스·경제",
+     "title": "삼성전자, 필리핀 복합단지에 AI가전 통합운영 솔루션 공급 협력",
+     "link": "https://www.yna.co.kr/view/AKR20260917094900003"
     },
     {
      "date": "2026-09-17",
@@ -1427,24 +1445,6 @@
      "source": "아시아경제",
      "title": "110조 환원도 부족했나…삼성전자 급락에 코스피도 약세",
      "link": "https://view.asiae.co.kr/article/2026082410235555870"
-    },
-    {
-     "date": "2026-08-24",
-     "source": "아시아경제",
-     "title": "'최대 110조' 삼성전자 주주환원 수혜…55만원 간다는 삼성물산[클릭 e종목]",
-     "link": "https://view.asiae.co.kr/article/2026082416265951161"
-    },
-    {
-     "date": "2026-08-23",
-     "source": "한국경제·증권",
-     "title": "삼성전자 역대급 특별배당…지분 들고 있는 수혜주 뽑아보니",
-     "link": "https://www.hankyung.com/article/202608215035i"
-    },
-    {
-     "date": "2026-08-23",
-     "source": "한국경제·경제",
-     "title": "\"번 돈 국민과 나누겠다\"던 삼성전자…'110조 잭팟' 터뜨린다",
-     "link": "https://www.hankyung.com/article/2026082259237"
     }
    ]
   },
@@ -2233,6 +2233,18 @@
   "아마존(AMZN)": {
    "articles": [
     {
+     "date": "2026-09-17",
+     "source": "한국경제·증권",
+     "title": "아마존이 '11조 몰빵'…금리 인상에도 '34% 폭등' 무슨 일이 [빈난새의 빈틈없이마켓]",
+     "link": "https://www.hankyung.com/article/202609170554i"
+    },
+    {
+     "date": "2026-09-17",
+     "source": "한국경제·경제",
+     "title": "아마존의 AI 전력 수혜주는 어디?…나이키는 다우지수 퇴출 위험[박신영의 개장전 요것만]",
+     "link": "https://www.hankyung.com/article/202609172432i"
+    },
+    {
      "date": "2026-09-16",
      "source": "연합인포맥스",
      "title": "중국 빠진 자리를 유럽이…아마존이 만든 화장품 수출 지형",
@@ -2494,6 +2506,18 @@
   },
   "애플(AAPL)": {
    "articles": [
+    {
+     "date": "2026-09-17",
+     "source": "한국경제·경제",
+     "title": "\"100만원 더 주고 굳이?\"…애플 폴더블 뚜껑 열리자 '반전'",
+     "link": "https://www.hankyung.com/article/2026091720561"
+    },
+    {
+     "date": "2026-09-17",
+     "source": "연합뉴스·경제",
+     "title": "삼성·애플 스마트폰 점유율 동반 상승…중국 업체는 하락",
+     "link": "https://www.yna.co.kr/view/AKR20260917125000017"
+    },
     {
      "date": "2026-09-16",
      "source": "한국경제·경제",
@@ -3097,6 +3121,30 @@
   "두산(000150)": {
    "articles": [
     {
+     "date": "2026-09-17",
+     "source": "한국경제·경제",
+     "title": "AI 붐 올라탄 두산, 반도체 소재에 1조 투자",
+     "link": "https://www.hankyung.com/article/2026091720581"
+    },
+    {
+     "date": "2026-09-17",
+     "source": "파이낸셜·증권",
+     "title": "두산, 자사주 1213억원 소각 결정",
+     "link": "https://www.fnnews.com/news/202609171428235800"
+    },
+    {
+     "date": "2026-09-17",
+     "source": "파이낸셜·증권",
+     "title": "DS證 \"두산, AI 전자소재 증설로 매출 4.2조 추가 가능\"",
+     "link": "https://www.fnnews.com/news/202609171506436056"
+    },
+    {
+     "date": "2026-09-17",
+     "source": "연합뉴스·경제",
+     "title": "두산, 1조 투자해 국내·중국에 CCL 생산라인 증설…2028년 가동",
+     "link": "https://www.yna.co.kr/view/AKR20260917121500003"
+    },
+    {
      "date": "2026-08-30",
      "source": "한국경제·경제",
      "title": "반도체 소재 CCL 수출, 올 42% 급증…두산·LG·롯데 '방긋'",
@@ -3272,6 +3320,18 @@
   },
   "미래에셋증권(006800)": {
    "articles": [
+    {
+     "date": "2026-09-17",
+     "source": "파이낸셜·증권",
+     "title": "미래에셋증권, 퍼블릭닷컴 인수 중단",
+     "link": "https://www.fnnews.com/news/202609171643283594"
+    },
+    {
+     "date": "2026-09-17",
+     "source": "연합인포맥스",
+     "title": "미래에셋증권, 美 퍼블릭닷컴 인수 중단…&quot;리테일 기회 계속 모색&quot;",
+     "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4435476"
+    },
     {
      "date": "2026-09-16",
      "source": "아시아경제",
@@ -4477,6 +4537,12 @@
   "엔비디아(NVDA)": {
    "articles": [
     {
+     "date": "2026-09-17",
+     "source": "한국경제·증권",
+     "title": "스냅, 엔비디아·AWS·세일즈포스와 AR 안경시장 진출",
+     "link": "https://www.hankyung.com/article/202609171010i"
+    },
+    {
      "date": "2026-09-15",
      "source": "파이낸셜·증권",
      "title": "엔비디아·하이닉스ADR 동반 급락…'AI 제동론'에 반도체주 흔들",
@@ -5189,12 +5255,6 @@
      "source": "파이낸셜·증권",
      "title": "엔비디아·잭슨홀에 쏠린 눈…코스피 7000 안착 시험대 [주간 증시 전망]",
      "link": "https://www.fnnews.com/news/202608230852159346"
-    },
-    {
-     "date": "2026-08-23",
-     "source": "파이낸셜·증권",
-     "title": "엔비디아 실적 발표·잭슨홀 미팅에 주목 [주간 증시 전망]",
-     "link": "https://www.fnnews.com/news/202608231819014099"
     }
    ]
   },
@@ -5366,6 +5426,18 @@
   },
   "카카오(035720)": {
    "articles": [
+    {
+     "date": "2026-09-17",
+     "source": "연합뉴스·경제",
+     "title": "신한은행, '모두의 AI' 카카오 컨소시엄에 참여",
+     "link": "https://www.yna.co.kr/view/AKR20260917145700002"
+    },
+    {
+     "date": "2026-09-17",
+     "source": "아시아경제",
+     "title": "분할 앞두고 소액주주 달래기 나섰지만…커지는 반발에 난감해진 카카오",
+     "link": "https://view.asiae.co.kr/article/2026091709313546560"
+    },
     {
      "date": "2026-09-15",
      "source": "연합뉴스·경제",
@@ -5747,6 +5819,18 @@
      "source": "파이낸셜·증권",
      "title": "가상자산 제도화 늦어지지만...네이버 주가 떨어지면 매수 기회?",
      "link": "https://www.fnnews.com/news/202609170826389212"
+    },
+    {
+     "date": "2026-09-17",
+     "source": "연합인포맥스",
+     "title": "네이버, 배달의민족 인수하지 않기로…&quot;경영환경 변화&quot;",
+     "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4435452"
+    },
+    {
+     "date": "2026-09-17",
+     "source": "아시아경제",
+     "title": "네이버, 배달의민족 지분 인수 없던 일로…\"경영환경 변화\"",
+     "link": "https://view.asiae.co.kr/article/2026091715400203024"
     },
     {
      "date": "2026-09-15",
@@ -7321,6 +7405,12 @@
   "한양증권(001750)": {
    "articles": [
     {
+     "date": "2026-09-17",
+     "source": "파이낸셜·증권",
+     "title": "한양증권, '책무구조도 관리시스템' 구축",
+     "link": "https://www.fnnews.com/news/202609171431293314"
+    },
+    {
      "date": "2026-09-09",
      "source": "파이낸셜·증권",
      "title": "\"年 최고 4.8% 수익률\"…한양증권, 우량채권 특판",
@@ -8480,6 +8570,12 @@
   },
   "대한항공(003490)": {
    "articles": [
+    {
+     "date": "2026-09-17",
+     "source": "한국경제·증권",
+     "title": "외국인 지분율 꾸준히 높아지는 대한항공…실적·합병 기대",
+     "link": "https://www.hankyung.com/article/202609171937i"
+    },
     {
      "date": "2026-09-16",
      "source": "한국경제·경제",
@@ -9885,6 +9981,12 @@
   "롯데케미칼(011170)": {
    "articles": [
     {
+     "date": "2026-09-17",
+     "source": "연합인포맥스",
+     "title": "롯데케미칼, 업황 부진에 PET 재활용시설 투자 중단",
+     "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4435480"
+    },
+    {
      "date": "2026-09-09",
      "source": "파이낸셜·증권",
      "title": "롯데케미칼, 국내외 사업재편 기대 속 18%대 급등 [종목NOW]",
@@ -10298,9 +10400,27 @@
    "articles": [
     {
      "date": "2026-09-17",
+     "source": "한국경제·증권",
+     "title": "대신증권, 유튜브서 'ETF 자산배분 전략' 라이브 세미나 진행",
+     "link": "https://www.hankyung.com/article/2026091707906"
+    },
+    {
+     "date": "2026-09-17",
+     "source": "파이낸셜·증권",
+     "title": "대신증권, 변동성 장세 대응 'ETF 자산배분 전략' 세미나",
+     "link": "https://www.fnnews.com/news/202609171551118512"
+    },
+    {
+     "date": "2026-09-17",
      "source": "연합뉴스·경제",
      "title": "대신증권, LG디스플레이 목표가 하향…\"3분기 실적 부진 전망\"",
      "link": "https://www.yna.co.kr/view/AKR20260917033000008"
+    },
+    {
+     "date": "2026-09-17",
+     "source": "아시아경제",
+     "title": "대신증권, 변동성 대응 위한 'ETF 자산배분 전략' 소개",
+     "link": "https://view.asiae.co.kr/article/2026091709511887295"
     },
     {
      "date": "2026-09-15",
@@ -12485,6 +12605,12 @@
   "현대건설(000720)": {
    "articles": [
     {
+     "date": "2026-09-17",
+     "source": "한국경제·증권",
+     "title": "'현대건설 SMR 파트너' 홀텍, 미국 증시 IPO 보류",
+     "link": "https://www.hankyung.com/article/202609170928i"
+    },
+    {
      "date": "2026-09-16",
      "source": "파이낸셜·증권",
      "title": "\"美 원전 프로젝트 참여 기대감↑\"…현대건설 목표가 '상향'",
@@ -13409,6 +13535,12 @@
   "LS(006260)": {
    "articles": [
     {
+     "date": "2026-09-17",
+     "source": "연합뉴스·경제",
+     "title": "LS, 중앙아시아 3개국과 MOU…통신·광물 사업 협력",
+     "link": "https://www.yna.co.kr/view/AKR20260917131100003"
+    },
+    {
      "date": "2026-09-12",
      "source": "한국경제·증권",
      "title": "\"LS, 전선·전력기기 호황 계속…주가 여력 충분\"-SK",
@@ -14094,6 +14226,12 @@
   },
   "태영건설(009410)": {
    "articles": [
+    {
+     "date": "2026-09-17",
+     "source": "뉴시스·경제",
+     "title": "태영건설, 1355가구 대단지 '구미 파크원 데시앙' 11월 분양",
+     "link": "https://www.newsis.com/view/NISX20260917_0003793312"
+    },
     {
      "date": "2026-08-28",
      "source": "연합인포맥스",
@@ -14827,6 +14965,12 @@
     {
      "date": "2026-09-17",
      "source": "파이낸셜·증권",
+     "title": "신제품·주주환원 훈풍 탄 셀트리온… 주가는 ‘찬바람’",
+     "link": "https://www.fnnews.com/news/202609171826405135"
+    },
+    {
+     "date": "2026-09-17",
+     "source": "파이낸셜·증권",
      "title": "셀트리온, 옴니클로 유럽서 빠른 침투 지속..목표가 28만원",
      "link": "https://www.fnnews.com/news/202609170819087667"
     },
@@ -15082,6 +15226,12 @@
   },
   "테슬라(TSLA)": {
    "articles": [
+    {
+     "date": "2026-09-17",
+     "source": "연합뉴스·경제",
+     "title": "8월 자동차 생산·수출·내수 '트리플 감소'…테슬라 모델Y 1위",
+     "link": "https://www.yna.co.kr/view/AKR20260917102200003"
+    },
     {
      "date": "2026-09-16",
      "source": "한국경제·증권",
@@ -17639,6 +17789,36 @@
   "삼성증권(016360)": {
    "articles": [
     {
+     "date": "2026-09-17",
+     "source": "한국경제·증권",
+     "title": "코스피 전망 '1만2600→8400' 확 낮춘 삼성증권…\"조정땐 매수\"",
+     "link": "https://www.hankyung.com/article/202609172236i"
+    },
+    {
+     "date": "2026-09-17",
+     "source": "한국경제·증권",
+     "title": "삼성증권, 첫 발행어음 상품 출시…특판 금리 연 5.5%",
+     "link": "https://www.hankyung.com/article/2026091715676"
+    },
+    {
+     "date": "2026-09-17",
+     "source": "파이낸셜·증권",
+     "title": "삼성증권, 발행어음 첫 출시…21일 판매 시작",
+     "link": "https://www.fnnews.com/news/202609171412538716"
+    },
+    {
+     "date": "2026-09-17",
+     "source": "연합뉴스·경제",
+     "title": "삼성증권, 발행어음 상품 첫 출시…21일부터 본격 판매",
+     "link": "https://www.yna.co.kr/view/AKR20260917123600008"
+    },
+    {
+     "date": "2026-09-17",
+     "source": "아시아경제",
+     "title": "삼성증권, 발행어음 상품 첫 출시… 연 5.5% 초단기 특판",
+     "link": "https://view.asiae.co.kr/article/2026091718504678342"
+    },
+    {
      "date": "2026-09-15",
      "source": "파이낸셜·증권",
      "title": "발행어음 출시 앞둔 삼성증권…'알림 이벤트' 진행",
@@ -18238,6 +18418,12 @@
   },
   "에이피알(278470)": {
    "articles": [
+    {
+     "date": "2026-09-17",
+     "source": "한국경제·증권",
+     "title": "'에이피알이 아니네'…'134% 급등' K뷰티 수익률 1위는",
+     "link": "https://www.hankyung.com/article/202609168848i"
+    },
     {
      "date": "2026-09-13",
      "source": "연합뉴스·경제",
@@ -20399,6 +20585,12 @@
   "유니슨(018000)": {
    "articles": [
     {
+     "date": "2026-09-17",
+     "source": "아시아경제",
+     "title": "유니슨, 전북도·군산시·군산대와 업무협약 체결",
+     "link": "https://view.asiae.co.kr/article/2026091713505699410"
+    },
+    {
      "date": "2026-09-01",
      "source": "아시아경제",
      "title": "유니슨 최대주주, 376억 CB 전액 전환…\"재무 건전성 개선으로 사업 기반 강화\"",
@@ -21785,6 +21977,18 @@
   "나이키(NKE)": {
    "articles": [
     {
+     "date": "2026-09-17",
+     "source": "한국경제·경제",
+     "title": "아마존의 AI 전력 수혜주는 어디?…나이키는 다우지수 퇴출 위험[박신영의 개장전 요것만]",
+     "link": "https://www.hankyung.com/article/202609172432i"
+    },
+    {
+     "date": "2026-09-17",
+     "source": "한국경제·경제",
+     "title": "\"18년 만에 쫓겨나는 신세\"…잘 나가던 나이키, 무슨 일이? [갓신상]",
+     "link": "https://www.hankyung.com/article/202609171641g"
+    },
+    {
      "date": "2026-09-13",
      "source": "한국경제·경제",
      "title": "\"요즘 누가 나이키 신어요?\"…'운동화 제왕' 러닝 붐에도 굴욕",
@@ -21818,6 +22022,12 @@
   },
   "세일즈포스(CRM)": {
    "articles": [
+    {
+     "date": "2026-09-17",
+     "source": "한국경제·증권",
+     "title": "스냅, 엔비디아·AWS·세일즈포스와 AR 안경시장 진출",
+     "link": "https://www.hankyung.com/article/202609171010i"
+    },
     {
      "date": "2026-09-16",
      "source": "한국경제·증권",
@@ -23735,6 +23945,18 @@
   "NH투자증권(005940)": {
    "articles": [
     {
+     "date": "2026-09-17",
+     "source": "연합인포맥스",
+     "title": "NH투자증권 주가 급락에…농협금융, 1천500억 장내매수",
+     "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4435493"
+    },
+    {
+     "date": "2026-09-17",
+     "source": "연합뉴스·경제",
+     "title": "농협금융, NH투자증권 주식 1천500억원 매수…\"주주가치 제고\"",
+     "link": "https://www.yna.co.kr/view/AKR20260917187400002"
+    },
+    {
      "date": "2026-09-15",
      "source": "한국경제·증권",
      "title": "NH투자증권, 경기 광명 가지 재배 농가서 일손돕기 봉사활동",
@@ -24460,6 +24682,12 @@
   },
   "GS리테일(007070)": {
    "articles": [
+    {
+     "date": "2026-09-17",
+     "source": "한국경제·증권",
+     "title": "편의점 잘돼도 부족한 '한 방'…지지부진 GS리테일의 속사정",
+     "link": "https://www.hankyung.com/article/202609170126i"
+    },
     {
      "date": "2026-09-15",
      "source": "아시아경제",
@@ -25343,6 +25571,24 @@
   "한화시스템(272210)": {
    "articles": [
     {
+     "date": "2026-09-17",
+     "source": "한국경제·경제",
+     "title": "한화시스템, UAE 통합 대공망 구축 추진",
+     "link": "https://www.hankyung.com/article/2026091720661"
+    },
+    {
+     "date": "2026-09-17",
+     "source": "파이낸셜·증권",
+     "title": "한화시스템, UAE 통합 대공망 구축 기대에 7%대 강세[종목 NOW]",
+     "link": "https://www.fnnews.com/news/202609170940479177"
+    },
+    {
+     "date": "2026-09-17",
+     "source": "연합뉴스·경제",
+     "title": "[특징주] 한화시스템, 'UAE 통합대공망 구축' 추진에 12% 상승 마감(종합)",
+     "link": "https://www.yna.co.kr/view/AKR20260917073251008"
+    },
+    {
      "date": "2026-09-15",
      "source": "파이낸셜·증권",
      "title": "한화그룹株 장초반 동반 약세…한화시스템 6%대↓ [종목NOW]",
@@ -25555,6 +25801,12 @@
      "source": "한국경제·증권",
      "title": "골드만삭스 \"12월 한 차례 더 금리 인상\"",
      "link": "https://www.hankyung.com/article/2026091798307"
+    },
+    {
+     "date": "2026-09-17",
+     "source": "연합뉴스·경제",
+     "title": "골드만삭스 \"연준 10월 금리인상\"…매파신호에 전망 선회",
+     "link": "https://www.yna.co.kr/view/AKR20260917127700009"
     },
     {
      "date": "2026-09-15",
@@ -25814,6 +26066,12 @@
   },
   "대우건설(047040)": {
    "articles": [
+    {
+     "date": "2026-09-17",
+     "source": "파이낸셜·증권",
+     "title": "대우건설, 6000억 규모 도시환경정비사업 수주",
+     "link": "https://www.fnnews.com/news/202609170926553475"
+    },
     {
      "date": "2026-09-15",
      "source": "뉴시스·경제",
@@ -26326,6 +26584,42 @@
   },
   "대상(001680)": {
    "articles": [
+    {
+     "date": "2026-09-17",
+     "source": "파이낸셜뉴스",
+     "title": "부산진해경자청, 글로벌 소부장 기업 대상 투자유치 잰걸음",
+     "link": "https://www.fnnews.com/news/202609171432031414"
+    },
+    {
+     "date": "2026-09-17",
+     "source": "파이낸셜·증권",
+     "title": "카카오페이증권, 신혼부부 대상 금융 토크쇼 후원",
+     "link": "https://www.fnnews.com/news/202609171434032081"
+    },
+    {
+     "date": "2026-09-17",
+     "source": "연합인포맥스",
+     "title": "신한은행, 청년 대상 모집인 주담대 특별 한도 배정…총 5천억 규모",
+     "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4435454"
+    },
+    {
+     "date": "2026-09-17",
+     "source": "연합뉴스·경제",
+     "title": "임신중지약 '미프진', 한국인 대상 임상 없이 도입 추진",
+     "link": "https://www.yna.co.kr/view/AKR20260917109400017"
+    },
+    {
+     "date": "2026-09-17",
+     "source": "뉴시스·경제",
+     "title": "로봇 수직농장 개발 '로웨인', 농식품 창업콘테스트 대상",
+     "link": "https://www.newsis.com/view/NISX20260917_0003792958"
+    },
+    {
+     "date": "2026-09-17",
+     "source": "뉴시스·경제",
+     "title": "경마장서 러닝하고 '포토피니시'…마사회 정책공모 대상",
+     "link": "https://www.newsis.com/view/NISX20260917_0003794075"
+    },
     {
      "date": "2026-09-16",
      "source": "파이낸셜뉴스",
@@ -27009,42 +27303,6 @@
      "source": "한국경제·경제",
      "title": "기업銀, 장기연체 채권 소각, 5000명 대상…1200억 규모",
      "link": "https://www.hankyung.com/article/2026082521401"
-    },
-    {
-     "date": "2026-08-25",
-     "source": "연합뉴스·경제",
-     "title": "예비군 청년 위해 면접일정 조정…신중년 고용장려금 대상 확대",
-     "link": "https://www.yna.co.kr/view/AKR20260825050200530"
-    },
-    {
-     "date": "2026-08-25",
-     "source": "뉴시스·경제",
-     "title": "에너지公, 미래세대 대상 '찾아가는 에너지 교실' 시범교육 실시",
-     "link": "https://www.newsis.com/view/NISX20260825_0003762060"
-    },
-    {
-     "date": "2026-08-25",
-     "source": "뉴시스·경제",
-     "title": "국토부 장관 \"2차 공공기관 이전 대상·시기 10~11월 확정\"",
-     "link": "https://www.newsis.com/view/NISX20260825_0003761655"
-    },
-    {
-     "date": "2026-08-24",
-     "source": "한국경제·경제",
-     "title": "\"월 200만원 버는데 34만원 받았는데\"…기초연금 대상 줄어든다",
-     "link": "https://www.hankyung.com/article/2026082496001"
-    },
-    {
-     "date": "2026-08-24",
-     "source": "파이낸셜·증권",
-     "title": "금감원, 제약·바이오 공시개편 후속 설명회…IPO 주관사·상장사 대상",
-     "link": "https://www.fnnews.com/news/202608241118055066"
-    },
-    {
-     "date": "2026-08-24",
-     "source": "연합뉴스·경제",
-     "title": "울주군, 지적재조사사업 토지소유자 대상 경계설정 협의",
-     "link": "https://www.yna.co.kr/view/AKR20260824104200057"
     }
    ]
   },
@@ -27386,6 +27644,12 @@
   },
   "SAMG엔터(419530)": {
    "articles": [
+    {
+     "date": "2026-09-17",
+     "source": "아시아경제",
+     "title": "SAMG엔터 '캐치! 티니핑', 넥슨 메이플스토리 입성",
+     "link": "https://view.asiae.co.kr/article/2026091713575181804"
+    },
     {
      "date": "2026-09-15",
      "source": "아시아경제",
@@ -29583,6 +29847,12 @@
   "파커스(065690)": {
    "articles": [
     {
+     "date": "2026-09-17",
+     "source": "아시아경제",
+     "title": "파커스 \"자회사 알록, K-뷰티 글로벌 시장 공략 본격화\"",
+     "link": "https://view.asiae.co.kr/article/2026091710300459288"
+    },
+    {
      "date": "2026-09-03",
      "source": "아시아경제",
      "title": "파커스, 엘포톤 자회사 편입 완료…광전자 플랫폼 사업 본격화",
@@ -30292,6 +30562,18 @@
   },
   "모티브링크(464440)": {
    "articles": [
+    {
+     "date": "2026-09-17",
+     "source": "연합뉴스·경제",
+     "title": "모티브링크 \"종속회사 MOTILINK에 148억원 출자\"",
+     "link": "https://www.yna.co.kr/view/AKR20260917180400008"
+    },
+    {
+     "date": "2026-09-17",
+     "source": "연합뉴스·경제",
+     "title": "모티브링크 \"종속회사 DNM에 85억원 출자\"",
+     "link": "https://www.yna.co.kr/view/AKR20260917180500008"
+    },
     {
      "date": "2026-07-14",
      "source": "아시아경제",
@@ -31288,6 +31570,12 @@
   },
   "효성중공업(298040)": {
    "articles": [
+    {
+     "date": "2026-09-17",
+     "source": "뉴시스·경제",
+     "title": "기후차관, 효성중공업 美 초고압차단기 생산현장 방문…\"시장 확대 지원\"",
+     "link": "https://www.newsis.com/view/NISX20260917_0003793760"
+    },
     {
      "date": "2026-09-16",
      "source": "한국경제·경제",
@@ -32973,6 +33261,12 @@
   "Anthropic": {
    "articles": [
     {
+     "date": "2026-09-17",
+     "source": "CNBC·Finance",
+     "title": "OpenAI and Anthropic are making 10 times more revenue than all Chinese AI models combined, research group Rhodium says",
+     "link": "https://www.cnbc.com/2026/09/17/chinas-ai-models-make-only-10percent-of-us-leaders-revenue-rhodium.html"
+    },
+    {
      "date": "2026-09-13",
      "source": "MarketWatch",
      "title": "Elon Musk backs Anthropic’s call to slow down AI progress before rogue bots take over the entire internet",
@@ -33912,6 +34206,12 @@
   },
   "삼성E&A(028050)": {
    "articles": [
+    {
+     "date": "2026-09-17",
+     "source": "한국경제·경제",
+     "title": "삼성E&A, LNG 플랜트 사업 본격 진출",
+     "link": "https://www.hankyung.com/article/2026091720631"
+    },
     {
      "date": "2026-09-12",
      "source": "한국경제·경제",
@@ -35149,6 +35449,12 @@
   "포스코인터내셔널(047050)": {
    "articles": [
     {
+     "date": "2026-09-17",
+     "source": "파이낸셜·증권",
+     "title": "\"선제 매수할 시점\" 한화엔진, 4행정 중속엔진 새 성장축…포스코인터내셔널, 북미 가스전 품고 LNG 밸류체인 완성 [株토피아]",
+     "link": "https://www.fnnews.com/news/202609171032280442"
+    },
+    {
      "date": "2026-09-16",
      "source": "아시아경제",
      "title": "\"포스코인터내셔널, 美가스전 인수…사업 역량 강화 기회\"[클릭 e종목]",
@@ -35565,6 +35871,12 @@
   "현대제철(004020)": {
    "articles": [
     {
+     "date": "2026-09-17",
+     "source": "뉴시스·경제",
+     "title": "한강이앰피 원·하청 교섭 타결…현대제철 이어 두 번째",
+     "link": "https://www.newsis.com/view/NISX20260917_0003794524"
+    },
+    {
      "date": "2026-09-15",
      "source": "파이낸셜·증권",
      "title": "현대제철, 장중 7%대 강세…美 전기로 제철소 기대 지속 [종목NOW]",
@@ -35698,6 +36010,12 @@
   },
   "비자(V)": {
    "articles": [
+    {
+     "date": "2026-09-17",
+     "source": "한국경제·경제",
+     "title": "[포토] 하나카드, 비자·티머니와 제휴",
+     "link": "https://www.hankyung.com/article/2026091721381"
+    },
     {
      "date": "2026-09-13",
      "source": "파이낸셜뉴스",
@@ -36957,6 +37275,12 @@
   "동서발전": {
    "articles": [
     {
+     "date": "2026-09-17",
+     "source": "연합뉴스·경제",
+     "title": "동서발전, 천연가스 직수입 공급망 넓힌다…에너지 안보 강화",
+     "link": "https://www.yna.co.kr/view/AKR20260917149600057"
+    },
+    {
      "date": "2026-09-12",
      "source": "연합뉴스·경제",
      "title": "동서발전-우리은행, 연구비 관리 혁신모델 구축 '맞손'",
@@ -37046,6 +37370,12 @@
   },
   "카카오페이증권": {
    "articles": [
+    {
+     "date": "2026-09-17",
+     "source": "파이낸셜·증권",
+     "title": "카카오페이증권, 신혼부부 대상 금융 토크쇼 후원",
+     "link": "https://www.fnnews.com/news/202609171434032081"
+    },
     {
      "date": "2026-09-17",
      "source": "연합뉴스·경제",
@@ -37569,6 +37899,12 @@
   "메리츠증권": {
    "articles": [
     {
+     "date": "2026-09-17",
+     "source": "한국경제·증권",
+     "title": "메리츠증권, 발행어음 '9부 능선' 넘었다",
+     "link": "https://www.hankyung.com/article/202609171779i"
+    },
+    {
      "date": "2026-09-15",
      "source": "파이낸셜·증권",
      "title": "\"침착맨·김풍이 닉네임 지어준다\"…메리츠증권, MOUM 이벤트 진행",
@@ -37802,6 +38138,18 @@
   },
   "더본코리아(475560)": {
    "articles": [
+    {
+     "date": "2026-09-17",
+     "source": "연합뉴스·경제",
+     "title": "더본코리아, 온라인 커뮤니티 투자자들 모욕죄 혐의 고소",
+     "link": "https://www.yna.co.kr/view/AKR20260917146000008"
+    },
+    {
+     "date": "2026-09-17",
+     "source": "연합뉴스·경제",
+     "title": "더본코리아, 온라인 커뮤니티 이용자들 모욕죄 혐의 고소(종합)",
+     "link": "https://www.yna.co.kr/view/AKR20260917146051008"
+    },
     {
      "date": "2026-09-08",
      "source": "연합뉴스·경제",
@@ -38140,6 +38488,12 @@
   },
   "유안타증권(003470)": {
    "articles": [
+    {
+     "date": "2026-09-17",
+     "source": "한국경제·증권",
+     "title": "유안타증권, 청년 장병 금융역량 강화 위한 금융교육 실시",
+     "link": "https://www.hankyung.com/article/2026091708736"
+    },
     {
      "date": "2026-09-17",
      "source": "아시아경제",
@@ -39491,6 +39845,18 @@
      "link": "https://www.hankyung.com/article/202609179994i"
     },
     {
+     "date": "2026-09-17",
+     "source": "뉴시스·경제",
+     "title": "노보, 앤트로픽 손잡고 AI로 신약 개발…\"신약 출시 속도 높인다\"",
+     "link": "https://www.newsis.com/view/NISX20260917_0003793656"
+    },
+    {
+     "date": "2026-09-17",
+     "source": "뉴시스·경제",
+     "title": "\"AI 개발 늦추자\" 외친 오픈AI·앤트로픽…실행 놓고 내부 갈등",
+     "link": "https://www.newsis.com/view/NISX20260917_0003793250"
+    },
+    {
      "date": "2026-09-16",
      "source": "연합뉴스·경제",
      "title": "앤트로픽·스페이스X 투자한 한투파트너스, 평가이익 기대",
@@ -39932,6 +40298,18 @@
   },
   "하나증권": {
    "articles": [
+    {
+     "date": "2026-09-17",
+     "source": "한국경제·증권",
+     "title": "하나증권, 신규 MTS '하나증권V' 출시 기념 이벤트 진행",
+     "link": "https://www.hankyung.com/article/2026091707986"
+    },
+    {
+     "date": "2026-09-17",
+     "source": "파이낸셜·증권",
+     "title": "'GV90'부터 'CES 2027 투어'까지…하나증권, 신규 MTS 출시 기념 이벤트",
+     "link": "https://www.fnnews.com/news/202609171021406397"
+    },
     {
      "date": "2026-09-17",
      "source": "연합뉴스·경제",
@@ -40539,6 +40917,18 @@
   "iM뱅크": {
    "articles": [
     {
+     "date": "2026-09-17",
+     "source": "연합뉴스·경제",
+     "title": "경북도 금고 농협·iM뱅크가 계속 맡는다…KB국민 도전 실패(종합)",
+     "link": "https://www.yna.co.kr/view/AKR20260917117151053"
+    },
+    {
+     "date": "2026-09-17",
+     "source": "연합뉴스·경제",
+     "title": "경북도 금고 농협·iM뱅크가 계속 맡는다…KB국민 도전 실패",
+     "link": "https://www.yna.co.kr/view/AKR20260917117100053"
+    },
+    {
      "date": "2026-09-15",
      "source": "연합뉴스·경제",
      "title": "iM뱅크, 창립 59주년 기념 '텐텐통장' 신규 가입 이벤트",
@@ -40877,6 +41267,12 @@
   "무신사": {
    "articles": [
     {
+     "date": "2026-09-17",
+     "source": "연합인포맥스",
+     "title": "공정위, 무신사 공정거래법 무혐의 종결…무신사 &quot;동반성장 힘쓸 것&quot;",
+     "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4435475"
+    },
+    {
      "date": "2026-09-16",
      "source": "한국경제·경제",
      "title": "무신사, 日오사카에 대규모 팝업",
@@ -41123,6 +41519,12 @@
   "에이치케이(044780)": {
    "articles": [
     {
+     "date": "2026-09-17",
+     "source": "아시아경제",
+     "title": "에이치케이, 대만 대표 레이저 산업 전시회 참가…TSMC 중심 글로벌 반도체 시장 공략",
+     "link": "https://view.asiae.co.kr/article/2026091709491920567"
+    },
+    {
      "date": "2026-09-15",
      "source": "아시아경제",
      "title": "에이치케이, 日 공략 속도…현지 특화 장비 'FL2512' 정식 판매 전환",
@@ -41204,6 +41606,18 @@
   },
   "SK바이오팜(326030)": {
    "articles": [
+    {
+     "date": "2026-09-17",
+     "source": "파이낸셜·증권",
+     "title": "SK바이오팜, 파킨슨병 치료제 신약 도입",
+     "link": "https://www.fnnews.com/news/202609171425076720"
+    },
+    {
+     "date": "2026-09-17",
+     "source": "연합뉴스·경제",
+     "title": "SK바이오팜, 파킨슨병 신약후보 도입…최대 4천308억원 규모",
+     "link": "https://www.yna.co.kr/view/AKR20260917138700017"
+    },
     {
      "date": "2026-09-16",
      "source": "연합인포맥스",
@@ -41526,6 +41940,12 @@
   },
   "한국토지신탁(034830)": {
    "articles": [
+    {
+     "date": "2026-09-17",
+     "source": "뉴시스·경제",
+     "title": "한국토지신탁, 수도권 정비사업 2곳 추가…정비사업 4만4천가구로 확대",
+     "link": "https://www.newsis.com/view/NISX20260917_0003793896"
+    },
     {
      "date": "2026-09-02",
      "source": "파이낸셜·증권",
@@ -42065,6 +42485,18 @@
      "source": "한국경제·경제",
      "title": "AI 개발 늦추자더니…오픈AI·앤트로픽 내부 갈등",
      "link": "https://www.hankyung.com/article/202609179994i"
+    },
+    {
+     "date": "2026-09-17",
+     "source": "뉴시스·경제",
+     "title": "\"출처도 스스로 만들어\"…오픈AI, 인간 통제 벗어난 AI 사례 공개",
+     "link": "https://www.newsis.com/view/NISX20260917_0003793350"
+    },
+    {
+     "date": "2026-09-17",
+     "source": "뉴시스·경제",
+     "title": "\"AI 개발 늦추자\" 외친 오픈AI·앤트로픽…실행 놓고 내부 갈등",
+     "link": "https://www.newsis.com/view/NISX20260917_0003793250"
     },
     {
      "date": "2026-09-16",
@@ -42612,6 +43044,12 @@
    "articles": [
     {
      "date": "2026-09-17",
+     "source": "한국경제·증권",
+     "title": "앤씨앤, 비투엔 피인수 소식에 상한가",
+     "link": "https://www.hankyung.com/article/2026091705336"
+    },
+    {
+     "date": "2026-09-17",
      "source": "파이낸셜·증권",
      "title": "비투엔, 앤씨앤 최대주주로…넥스트칩과 車반도체 시너지↑",
      "link": "https://www.fnnews.com/news/202609170844423343"
@@ -42632,6 +43070,12 @@
   },
   "RFHIC(218410)": {
    "articles": [
+    {
+     "date": "2026-09-17",
+     "source": "한국경제·증권",
+     "title": "방산 성장에 통신 회복 기대까지…RFHIC 7% 상승",
+     "link": "https://www.hankyung.com/article/202609169062i"
+    },
     {
      "date": "2026-09-16",
      "source": "파이낸셜·증권",
@@ -42721,7 +43165,17 @@
      "link": "https://view.asiae.co.kr/article/2026091608205048981"
     }
    ]
+  },
+  "에스넷시스템(038680)": {
+   "articles": [
+    {
+     "date": "2026-09-17",
+     "source": "아시아경제",
+     "title": "- 발굴 후보: 에스넷시스템(038680) — AI데이터센터/전력인프라 SI 기업, 오늘 한국지역난방공사 AI 통합운영시스템(110억원) 수주 공시 당일. 아직 ",
+     "link": "https://view.asiae.co.kr/article/2026091709520418316"
+    }
+   ]
   }
  },
- "updatedAt": "2026-09-17T09:15:51+09:00"
+ "updatedAt": "2026-09-17T23:51:30+09:00"
 }

@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-09-17T09:53:37+09:00",
+ "updatedAt": "2026-09-18T00:22:36+09:00",
  "cases": [
   {
    "name": "이엠앤아이(481070)",
@@ -65914,6 +65914,55 @@
     "틈새레이더"
    ],
    "convStampedAt": "2026-09-17"
+  },
+  {
+   "name": "에스넷시스템(038680)",
+   "type": "leading",
+   "market": "韓",
+   "flagDate": "2026-09-17",
+   "signals": [
+    "공시성신규수주(110억원)",
+    "AI데이터센터SI",
+    "주가반응데이터전무"
+   ],
+   "theme": "AI전력/데이터센터",
+   "status": "pending",
+   "checks": [],
+   "convScore": -1,
+   "convTier": "low",
+   "convSignals": [
+    "구체촉발재",
+    "⚠️열세테마"
+   ],
+   "convStampedAt": "2026-09-18"
+  },
+  {
+   "name": "카카오게임즈(293490)",
+   "type": "warning",
+   "market": "韓",
+   "flagDate": "2026-09-17",
+   "signals": [
+    "미투온인수후지분희석우려",
+    "9/17-3.7%",
+    "이미3일간미투온급등반영"
+   ],
+   "theme": "게임/M&A",
+   "status": "pending",
+   "checks": []
+  },
+  {
+   "name": "미투온(201490)",
+   "type": "warning",
+   "market": "韓",
+   "flagDate": "2026-09-17",
+   "signals": [
+    "3거래일연속급등(상한가포함)",
+    "카카오게임즈피인수",
+    "이미반영"
+   ],
+   "theme": "게임/M&A",
+   "status": "pending",
+   "checks": []
   }
  ],
  "stats": {
@@ -65923,8 +65972,8 @@
   "miss": 164,
   "hitRate": 24.3,
   "avgD3ChangePct": 0.32,
-  "pending": 55,
-  "total": 442,
+  "pending": 58,
+  "total": 445,
   "byType": {
    "leading": {
     "verified": 163,
