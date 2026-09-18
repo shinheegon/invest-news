@@ -1,16 +1,16 @@
 {
-  "updatedAt": "2026-09-17T19:30:00+09:00",
-  "session": "PM",
-  "note": "2026-09-17(목) PM 갱신. 코스피는 美 FOMC 25bp 인상(3.75~4.00%, 2023년래 첫 인상) 충격을 소화하며 장중 6,779~6,800선까지 올랐다가 외국인 매도(7거래일 연속·2.2조원)에 밀려 6,715.41(-0.04%) 약보합 마감, 코스닥은 +0.76%로 선방했다. 밤사이(9/17 현지) 뉴욕증시는 사우디의 아시아向 원유 공급 확대 소식에 유가가 급락하며 S&P500 +1.10%·나스닥 +1.49%로 반등. 원/달러는 매파적 FOMC 여파로 6거래일 연속 상승해 1,382원대까지 올랐다.",
-  "stock_fng": { "value": 29, "label": "Fear", "source": "https://www.cnn.com/markets/fear-and-greed" },
+  "updatedAt": "2026-09-18T09:12:11+09:00",
+  "session": "AM",
+  "note": "2026-09-18(금) AM 갱신. 밤사이(9/17 현지) 뉴욕증시는 사우디의 아시아向 원유 공급 확대(오만 소하르 항 환적)로 유가·국채금리가 함께 꺾이며 나흘 만에 반등 — 나스닥 +1.69%·S&P500 +1.14%·다우 +0.62%, SOXL(반도체 3배 레버리지) +10.4%. 美 10년물은 유가 하락에 4.946%로 5%를 다시 하회. 코스피는 전일(9/17) 6,715.41(-0.04%) 약보합 마감 상태에서 오늘 미국발 훈풍을 반영해 개장.",
+  "stock_fng": { "value": 30, "label": "Fear", "source": "https://www.cnn.com/markets/fear-and-greed" },
   "indices": [
-    { "name": "코스피", "value": "6,715.41", "change": "-2.56P(-0.04%) · 9/17 마감, 장중 6,779선까지 상승 후 외국인 매도에 반납", "source": "https://view.asiae.co.kr/article/2026091715351273318" },
-    { "name": "코스닥", "value": "822.18", "change": "+6.20P(+0.76%) · 9/17 마감", "source": "https://view.asiae.co.kr/article/2026091715352380673" },
-    { "name": "S&P 500", "value": "7,634.53", "change": "+82.51P(+1.10%) · 9/17(현지) 마감, 유가 급락에 반등", "source": "https://www.newsis.com/view/NISX20260917_0003794709" },
-    { "name": "나스닥", "value": "26,366.37", "change": "+387.83P(+1.49%) · 9/17(현지) 마감, 반도체주 급등 주도", "source": "https://www.newsis.com/view/NISX20260917_0003794709" },
-    { "name": "다우", "value": "51,844.47", "change": "+364.34P(+0.74%) · 9/17(현지) 마감", "source": "https://www.newsis.com/view/NISX20260917_0003794709" },
+    { "name": "코스피", "value": "6,715.41", "change": "-2.56P(-0.04%) · 9/17 마감(전일)", "source": "https://view.asiae.co.kr/article/2026091715351273318" },
+    { "name": "코스닥", "value": "822.18", "change": "+6.20P(+0.76%) · 9/17 마감(전일)", "source": "https://view.asiae.co.kr/article/2026091715352380673" },
+    { "name": "S&P 500", "value": "7,637.76", "change": "+85.95P(+1.14%) · 9/17(현지) 마감, 유가 하락에 나흘 만 반등", "source": "https://www.hankyung.com/article/202609172437i" },
+    { "name": "나스닥", "value": "26,418.30", "change": "+439.87P(+1.69%) · 9/17(현지) 마감, SOXL +10.4%", "source": "https://www.hankyung.com/article/202609172437i" },
+    { "name": "다우", "value": "51,779.85", "change": "+317.95P(+0.62%) · 9/17(현지) 마감", "source": "https://www.fnnews.com/news/202609180516520666" },
     { "name": "VIX", "value": "16.93", "change": "9/17 기준 내부 트래커", "source": "internal-tracker" },
-    { "name": "美 10년물", "value": "4.949%", "change": "-6.7bp · 9/17(현지) 유가 급락에 일시 5% 재돌파분 되돌림", "source": "https://www.newsis.com/view/NISX20260917_0003794709" },
+    { "name": "美 10년물", "value": "4.946%", "change": "-5.7bp · 유가 하락에 5% 재차 하회", "source": "https://www.newspim.com/news/view/20260918000026" },
     { "name": "국고채 3년물", "value": "4.053~4.079%", "change": "FOMC 소화 속 보합권", "source": "https://www.yna.co.kr/view/AKR20260916157051008" },
     { "name": "달러인덱스(DXY)", "value": "100.07", "change": "+0.49 · FOMC 인상 확정 후 수주 만에 100선 첫 돌파", "source": "https://www.vantagemarkets.com/market-analysis/usdx-dollar-index-fed-rate-hike-september-17-2026/" },
     { "name": "원/달러", "value": "1,382.2", "change": "+13.6원 · 6거래일 연속 상승, 3주 만에 1,380원대 재진입", "source": "https://www.fnnews.com/news/202609171543210582" },
@@ -19,6 +19,6 @@
     { "name": "美 CPI", "value": "3.4%", "change": "0 · 8월 YoY, 전월 동일(근원 MoM +0.3%로 예상 상회)", "source": "internal-tracker" },
     { "name": "韓 CPI", "value": "3.1%", "change": "0 · 8월 YoY, 예상(3.2%) 소폭 하회. 근원물가는 2.6%→3.4%로 급등", "source": "https://kr.investing.com/news/economic-indicators/article-2081353" },
     { "name": "금(Gold)", "value": "4,230", "change": "-3.5% · 안정권", "source": "internal-tracker" },
-    { "name": "국제유가(WTI)", "value": "약 100달러", "change": "-1% · 사우디 아시아向 공급 확대 소식에 하락(브렌트 약 102달러, -2%)", "source": "https://www.hankyung.com/article/202609172437i" }
+    { "name": "국제유가(WTI)", "value": "90.76", "change": "-1.0% · 사우디 아시아向 공급 확대 소식에 추가 하락(브렌트 91.75달러)", "source": "https://www.fnnews.com/news/202609180516520666" }
   ]
 }

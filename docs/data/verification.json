@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-09-18T00:22:36+09:00",
+ "updatedAt": "2026-09-18T09:32:53+09:00",
  "cases": [
   {
    "name": "이엠앤아이(481070)",
@@ -65963,6 +65963,75 @@
    "theme": "게임/M&A",
    "status": "pending",
    "checks": []
+  },
+  {
+   "name": "이엠앤아이(481070)",
+   "type": "leading",
+   "market": "韓",
+   "flagDate": "2026-09-18",
+   "signals": [
+    "정부실증주관기관재선정(3일연속)",
+    "반복포착(13회)",
+    "주가급등미확인"
+   ],
+   "theme": "로봇/휴머노이드",
+   "status": "pending",
+   "checks": [],
+   "convScore": 7,
+   "convTier": "high",
+   "convSignals": [
+    "반복포착",
+    "승세테마",
+    "구체촉발재"
+   ],
+   "convStampedAt": "2026-09-18"
+  },
+  {
+   "name": "에스넷시스템(038680)",
+   "type": "leading",
+   "market": "韓",
+   "flagDate": "2026-09-18",
+   "signals": [
+    "AI데이터센터SI",
+    "110억원수주공시D+1",
+    "주가반응전무"
+   ],
+   "theme": "AI전력/데이터센터",
+   "status": "pending",
+   "checks": [],
+   "convScore": -1,
+   "convTier": "low",
+   "convSignals": [
+    "구체촉발재",
+    "⚠️열세테마"
+   ],
+   "convStampedAt": "2026-09-18"
+  },
+  {
+   "name": "한화시스템(272210)",
+   "type": "warning",
+   "market": "韓",
+   "flagDate": "2026-09-18",
+   "signals": [
+    "9/17UAE대공망수주급등이미반영",
+    "방산우주열세경계테마"
+   ],
+   "theme": "우주/방산",
+   "status": "pending",
+   "checks": []
+  },
+  {
+   "name": "파인엠텍(441270)",
+   "type": "warning",
+   "market": "韓",
+   "flagDate": "2026-09-18",
+   "signals": [
+    "다수증권사기리포트발간",
+    "이미널리알려진재료"
+   ],
+   "theme": "폴더블 부품",
+   "status": "pending",
+   "checks": []
   }
  ],
  "stats": {
@@ -65972,8 +66041,8 @@
   "miss": 164,
   "hitRate": 24.3,
   "avgD3ChangePct": 0.32,
-  "pending": 58,
-  "total": 445,
+  "pending": 62,
+  "total": 449,
   "byType": {
    "leading": {
     "verified": 163,
