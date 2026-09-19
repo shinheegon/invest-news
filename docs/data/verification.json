@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-09-18T09:32:53+09:00",
+ "updatedAt": "2026-09-19T09:23:09+09:00",
  "cases": [
   {
    "name": "이엠앤아이(481070)",
@@ -66032,6 +66032,63 @@
    "theme": "폴더블 부품",
    "status": "pending",
    "checks": []
+  },
+  {
+   "name": "티엑스알로보틱스(484810)",
+   "type": "leading",
+   "market": "韓",
+   "flagDate": "2026-09-19",
+   "signals": [
+    "구체수주2689억원",
+    "정책촉매(주4.5일제·세액공제)",
+    "1분기로봇사업부흑자전환"
+   ],
+   "theme": "로봇/휴머노이드",
+   "status": "pending",
+   "checks": [],
+   "convScore": 6,
+   "convTier": "high",
+   "convSignals": [
+    "승세테마",
+    "구체촉발재",
+    "틈새레이더"
+   ],
+   "convStampedAt": "2026-09-19"
+  },
+  {
+   "name": "이엠앤아이(481070)",
+   "type": "leading",
+   "market": "韓",
+   "flagDate": "2026-09-19",
+   "signals": [
+    "정부실증주관기관재선정(4일연속)",
+    "장기저빈도반복형"
+   ],
+   "theme": "로봇/휴머노이드",
+   "status": "pending",
+   "checks": [],
+   "convScore": 9,
+   "convTier": "high",
+   "convSignals": [
+    "반복포착",
+    "승세테마",
+    "구체촉발재",
+    "틈새레이더"
+   ],
+   "convStampedAt": "2026-09-19"
+  },
+  {
+   "name": "에스투더블유(488280)",
+   "type": "warning",
+   "market": "韓",
+   "flagDate": "2026-09-19",
+   "signals": [
+    "상장첫날따블",
+    "이미급등반영"
+   ],
+   "theme": "AI보안",
+   "status": "pending",
+   "checks": []
   }
  ],
  "stats": {
@@ -66041,8 +66098,8 @@
   "miss": 164,
   "hitRate": 24.3,
   "avgD3ChangePct": 0.32,
-  "pending": 62,
-  "total": 449,
+  "pending": 65,
+  "total": 452,
   "byType": {
    "leading": {
     "verified": 163,
