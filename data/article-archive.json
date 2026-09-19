@@ -747,6 +747,12 @@
     {
      "date": "2026-09-19",
      "source": "연합인포맥스",
+     "title": "삼성전자 초기업노조, '반도체 노조' 전환…DS부문만 가입",
+     "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4435754"
+    },
+    {
+     "date": "2026-09-19",
+     "source": "연합인포맥스",
      "title": "삼성전자 동행노조, 이재용 회장 자택앞 집회…&quot;같은회사, 같은권리&quot; 구호",
      "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4435706"
     },
@@ -1439,12 +1445,6 @@
      "source": "파이낸셜·증권",
      "title": "삼성전자, '역대급 주주환원'에도 급락…코스피 1%대↓[fn오전시황]",
      "link": "https://www.fnnews.com/news/202608241036288325"
-    },
-    {
-     "date": "2026-08-24",
-     "source": "파이낸셜·증권",
-     "title": "삼성전자 급락에 그룹주도 '출렁'…코스피 6700선 이탈[fn마감시황]",
-     "link": "https://www.fnnews.com/news/202608241548273754"
     }
    ]
   },
@@ -4616,6 +4616,12 @@
     },
     {
      "date": "2026-09-19",
+     "source": "한국경제·경제",
+     "title": "\"GPU는 잊어라\" 경쟁사도 품은 엔비디아, 다음 먹거리는? [김인엽의 AI 프런티어]",
+     "link": "https://www.hankyung.com/article/202609184402i"
+    },
+    {
+     "date": "2026-09-19",
      "source": "뉴시스·경제",
      "title": "젠슨 황 \"엔비디아, 내년에 반도체 판매량 2배 늘릴 것\"",
      "link": "https://www.newsis.com/view/NISX20260918_0003794958"
@@ -5321,12 +5327,6 @@
      "source": "한국경제·경제",
      "title": "칩플레이션에 항복…엔비디아 AI서버값 15% 인상",
      "link": "https://www.hankyung.com/article/2026082371381"
-    },
-    {
-     "date": "2026-08-23",
-     "source": "한국경제·경제",
-     "title": "엔비디아도 가격 인상…삼전닉스 협상력 커진다",
-     "link": "https://www.hankyung.com/article/2026082371501"
     }
    ]
   },
@@ -9086,6 +9086,18 @@
   },
   "삼성물산(028260)": {
    "articles": [
+    {
+     "date": "2026-09-19",
+     "source": "뉴시스·경제",
+     "title": "삼성물산, 성수3지구 품고 '2위' 도약…도시정비 '현대·삼성·GS' 경쟁 격화",
+     "link": "https://www.newsis.com/view/NISX20260919_0003796737"
+    },
+    {
+     "date": "2026-09-19",
+     "source": "뉴시스·경제",
+     "title": "삼성물산, 성수3지구 재개발 시공사로 선정…1.8조 한강변 사업 확보",
+     "link": "https://www.newsis.com/view/NISX20260919_0003796717"
+    },
     {
      "date": "2026-09-15",
      "source": "한국경제·증권",
@@ -19739,6 +19751,12 @@
   "SKT(017670)": {
    "articles": [
     {
+     "date": "2026-09-19",
+     "source": "아시아경제",
+     "title": "휴대폰 요금 받던 SKT, AI 시대엔 '서버 월세' 받는다[주末머니]",
+     "link": "https://view.asiae.co.kr/article/2026091816280336349"
+    },
+    {
      "date": "2026-09-16",
      "source": "연합뉴스·경제",
      "title": "SKT 정재헌, AI 스타트업과 '성공 모델' 만든다",
@@ -23972,6 +23990,12 @@
   },
   "아모레퍼시픽(090430)": {
    "articles": [
+    {
+     "date": "2026-09-19",
+     "source": "연합인포맥스",
+     "title": "아모레퍼시픽, 美 최대 뷰티 유통사 입점 검토",
+     "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4435756"
+    },
     {
      "date": "2026-09-15",
      "source": "한국경제·증권",
@@ -31650,6 +31674,12 @@
   },
   "GS(078930)": {
    "articles": [
+    {
+     "date": "2026-09-19",
+     "source": "뉴시스·경제",
+     "title": "삼성물산, 성수3지구 품고 '2위' 도약…도시정비 '현대·삼성·GS' 경쟁 격화",
+     "link": "https://www.newsis.com/view/NISX20260919_0003796737"
+    },
     {
      "date": "2026-09-16",
      "source": "뉴시스·경제",
@@ -39547,6 +39577,12 @@
   "Cisco(CSCO)": {
    "articles": [
     {
+     "date": "2026-09-19",
+     "source": "MarketWatch",
+     "title": "The old new thing: Cisco and retro tech are back and forming the AI buildout’s backbone",
+     "link": "https://www.marketwatch.com/story/the-old-new-thing-cisco-and-retro-tech-are-back-and-forming-the-ai-buildouts-backbone-cdffc0b7?mod=mw_rss_topstories"
+    },
+    {
      "date": "2026-08-17",
      "source": "CNBC·Markets",
      "title": "Cisco's stock drops despite earnings, revenue beat",
@@ -41506,6 +41542,12 @@
   },
   "Goldman Sachs(GS)": {
    "articles": [
+    {
+     "date": "2026-09-19",
+     "source": "CNBC·Economy",
+     "title": "Consumer sentiment is in the dumps despite a solid economy. Goldman Sachs blames 'lower happiness'",
+     "link": "https://www.cnbc.com/2026/09/19/goldman-sachs-happiness-struggling-consumer-sentiment.html"
+    },
     {
      "date": "2026-08-25",
      "source": "CNBC·Finance",
@@ -43701,6 +43743,12 @@
   "스타벅스(SBUX)": {
    "articles": [
     {
+     "date": "2026-09-19",
+     "source": "한국경제·경제",
+     "title": "스타벅스 '이 컵' 공짜로 준다니…잠실 잔디광장 북새통 [2026청춘커피페스티벌]",
+     "link": "https://www.hankyung.com/article/202609195178i"
+    },
+    {
      "date": "2026-09-18",
      "source": "한국경제·경제",
      "title": "\"스타벅스와 똑같이 해선 안 된다\"…28년 토종 카페의 '승부수' [씬메이커]",
@@ -43765,5 +43813,5 @@
    ]
   }
  },
- "updatedAt": "2026-09-19T09:04:55+09:00"
+ "updatedAt": "2026-09-19T22:52:00+09:00"
 }

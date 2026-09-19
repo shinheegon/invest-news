@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-09-19T09:23:09+09:00",
+ "updatedAt": "2026-09-19T23:35:53+09:00",
  "cases": [
   {
    "name": "이엠앤아이(481070)",
@@ -66089,6 +66089,80 @@
    "theme": "AI보안",
    "status": "pending",
    "checks": []
+  },
+  {
+   "name": "에스넷시스템(038680)",
+   "type": "leading",
+   "market": "韓",
+   "flagDate": "2026-09-19",
+   "signals": [
+    "3거래일연속재조명",
+    "AI데이터센터SI수주110억원"
+   ],
+   "theme": "AI전력/데이터센터",
+   "status": "pending",
+   "checks": [],
+   "convScore": 2,
+   "convTier": "low",
+   "convSignals": [
+    "반복포착",
+    "구체촉발재",
+    "⚠️열세테마"
+   ],
+   "convStampedAt": "2026-09-19"
+  },
+  {
+   "name": "DB하이텍(000990)",
+   "type": "discovery",
+   "market": "韓",
+   "flagDate": "2026-09-19",
+   "signals": [
+    "파운드리공급망재편가설"
+   ],
+   "theme": "파운드리 공급망 재편",
+   "status": "pending",
+   "checks": [],
+   "convScore": 2,
+   "convTier": "low",
+   "convSignals": [
+    "구체촉발재"
+   ],
+   "convStampedAt": "2026-09-19"
+  },
+  {
+   "name": "티로보틱스(117730)",
+   "type": "warning",
+   "market": "韓",
+   "flagDate": "2026-09-19",
+   "signals": [
+    "누적21회3개월이력",
+    "美수주확대이미다수매체커버"
+   ],
+   "theme": "로봇/휴머노이드",
+   "status": "pending",
+   "checks": []
+  },
+  {
+   "name": "지엔씨에너지(119850)",
+   "type": "leading",
+   "market": "韓",
+   "flagDate": "2026-09-19",
+   "signals": [
+    "1주일침묵후재확인",
+    "수주잔고4147억원",
+    "AI데이터센터비상발전기"
+   ],
+   "theme": "AI전력/데이터센터",
+   "status": "pending",
+   "checks": [],
+   "convScore": 2,
+   "convTier": "low",
+   "convSignals": [
+    "반복포착",
+    "구체촉발재",
+    "⚠️열세테마"
+   ],
+   "convStampedAt": "2026-09-19"
   }
  ],
  "stats": {
@@ -66098,8 +66172,8 @@
   "miss": 164,
   "hitRate": 24.3,
   "avgD3ChangePct": 0.32,
-  "pending": 65,
-  "total": 452,
+  "pending": 69,
+  "total": 456,
   "byType": {
    "leading": {
     "verified": 163,
