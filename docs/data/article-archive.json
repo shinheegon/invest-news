@@ -3,6 +3,12 @@
   "SK하이닉스(000660)": {
    "articles": [
     {
+     "date": "2026-09-20",
+     "source": "연합뉴스·경제",
+     "title": "반도체 제조업서 법 위반 338건 적발…SK하이닉스 청주캠 119건",
+     "link": "https://www.yna.co.kr/view/AKR20260918158700530"
+    },
+    {
      "date": "2026-09-19",
      "source": "한국경제·증권",
      "title": "삼성전자 팔아치운 초고수, SK하이닉스는 담은 이유는?",
@@ -715,12 +721,6 @@
      "source": "파이낸셜·증권",
      "title": "SK스퀘어 팔고 SK하이닉스로 갈아탄 국민연금",
      "link": "https://www.fnnews.com/news/202608161808350596"
-    },
-    {
-     "date": "2026-08-15",
-     "source": "한국경제·경제",
-     "title": "'최태원의 전략통'…SK하이닉스 AI 신사업 발굴 맡은 기타리스트 [강경주의 테크X]",
-     "link": "https://www.hankyung.com/article/2026081425646"
     }
    ]
   },
@@ -728,9 +728,21 @@
    "articles": [
     {
      "date": "2026-09-20",
+     "source": "한국경제·증권",
+     "title": "\"삼성전자보다 더 샀다\"…고액자산가들 풀매수한 '의외의 종목'은",
+     "link": "https://www.hankyung.com/article/202609205912i"
+    },
+    {
+     "date": "2026-09-20",
      "source": "연합인포맥스",
      "title": "두쪽·세쪽난 삼성전자 노조…노노갈등에 동력 약화",
      "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4435772"
+    },
+    {
+     "date": "2026-09-20",
+     "source": "연합인포맥스",
+     "title": "노태문 등 삼성전자 경영진, 실리콘밸리서 AI 비전 공유",
+     "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4435781"
     },
     {
      "date": "2026-09-19",
@@ -1433,23 +1445,23 @@
      "source": "한국경제·증권",
      "title": "\"110조가 끝이 아니었다\"…삼성전자 '600조' 전망 나왔다",
      "link": "https://www.hankyung.com/article/2026082475456"
-    },
-    {
-     "date": "2026-08-24",
-     "source": "파이낸셜·증권",
-     "title": "코스피, 삼성전자 8%대 급락에 '출렁'…장중 6600선으로 밀려[fn오후시황]",
-     "link": "https://www.fnnews.com/news/202608241356471030"
-    },
-    {
-     "date": "2026-08-24",
-     "source": "파이낸셜·증권",
-     "title": "삼성전자·SK하이닉스, 주주환원 경쟁 불붙었다…\"연말까지 주가 버팀목\"",
-     "link": "https://www.fnnews.com/news/202608240837392900"
     }
    ]
   },
   "현대차(005380)": {
    "articles": [
+    {
+     "date": "2026-09-20",
+     "source": "한국경제·경제",
+     "title": "현대차, 5세대 '디 올 뉴 투싼' 공개",
+     "link": "https://www.hankyung.com/article/2026092063241"
+    },
+    {
+     "date": "2026-09-20",
+     "source": "파이낸셜·증권",
+     "title": "9월 자동차株 일제히 후진… 현대차는 석달새 시총 ‘반토막’",
+     "link": "https://www.fnnews.com/news/202609201835466731"
+    },
     {
      "date": "2026-09-17",
      "source": "한국경제·증권",
@@ -2157,23 +2169,17 @@
      "source": "한국경제·경제",
      "title": "현대차 이어 한국GM도 15일부터 4시간씩 부분파업",
      "link": "https://www.hankyung.com/article/202607145148i"
-    },
-    {
-     "date": "2026-07-15",
-     "source": "한국경제·경제",
-     "title": "[포토] 현대차 '2027 넥쏘' 출시",
-     "link": "https://www.hankyung.com/article/2026071449481"
-    },
-    {
-     "date": "2026-07-14",
-     "source": "한국경제·증권",
-     "title": "초고수들, 삼전닉스·현대차 팔았다…삼성SDI·에이피알은 매수",
-     "link": "https://www.hankyung.com/article/202607143775i"
     }
    ]
   },
   "호텔신라(008770)": {
    "articles": [
+    {
+     "date": "2026-09-20",
+     "source": "한국경제·경제",
+     "title": "호텔신라, 하노이에 5성급 '신라모노그램' 연다",
+     "link": "https://www.hankyung.com/article/2026092063231"
+    },
     {
      "date": "2026-08-27",
      "source": "한국경제·경제",
@@ -4142,6 +4148,12 @@
   },
   "삼성전기(009150)": {
    "articles": [
+    {
+     "date": "2026-09-20",
+     "source": "한국경제·경제",
+     "title": "삼성전기, AI용 MLCC 빅테크 추가 수주 임박",
+     "link": "https://www.hankyung.com/article/2026092063291"
+    },
     {
      "date": "2026-09-19",
      "source": "파이낸셜·증권",
@@ -9773,6 +9785,12 @@
   "HD현대중공업(329180)": {
    "articles": [
     {
+     "date": "2026-09-20",
+     "source": "한국경제·경제",
+     "title": "HD현대중공업, 태평양 누비는 K조선…軍 함정 잇단 수주",
+     "link": "https://www.hankyung.com/article/2026092057341"
+    },
+    {
      "date": "2026-09-15",
      "source": "연합뉴스·경제",
      "title": "[특징주] HD현대중공업, 노조 파업 확대 앞두고 5% 하락(종합)",
@@ -11829,6 +11847,18 @@
   "LG전자(066570)": {
    "articles": [
     {
+     "date": "2026-09-20",
+     "source": "연합인포맥스",
+     "title": "LG전자, 공랭식 터보 칠러 선보여…&quot;데이터센터 공략&quot;",
+     "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4435782"
+    },
+    {
+     "date": "2026-09-20",
+     "source": "연합뉴스·경제",
+     "title": "LG전자, AI 데이터센터용 터보 칠러 출시…전력소비 30%↓",
+     "link": "https://www.yna.co.kr/view/AKR20260920014600003"
+    },
+    {
      "date": "2026-09-17",
      "source": "연합인포맥스",
      "title": "LG전자·미래에셋이 함께 키운 빅웨이브, 투자 회수 '가시권'",
@@ -12724,6 +12754,24 @@
   },
   "현대건설(000720)": {
    "articles": [
+    {
+     "date": "2026-09-20",
+     "source": "연합인포맥스",
+     "title": "현대건설, 2년 연속 도시정비 수주 10조 달성…핵심지 포트폴리오 구축",
+     "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4435785"
+    },
+    {
+     "date": "2026-09-20",
+     "source": "연합뉴스·경제",
+     "title": "현대건설, 도시정비사업 수주액 2년 연속 10조원 돌파",
+     "link": "https://www.yna.co.kr/view/AKR20260920014400003"
+    },
+    {
+     "date": "2026-09-20",
+     "source": "뉴시스·경제",
+     "title": "현대건설, 여의도 광장아파트 재건축 수주…도시정비 10조 돌파",
+     "link": "https://www.newsis.com/view/NISX20260920_0003796916"
+    },
     {
      "date": "2026-09-19",
      "source": "뉴시스·경제",
@@ -14666,6 +14714,12 @@
   },
   "LG이노텍(011070)": {
    "articles": [
+    {
+     "date": "2026-09-20",
+     "source": "연합뉴스·경제",
+     "title": "LG이노텍, AI로 최적 부품 찾는다…견적 산출시간 70% 단축",
+     "link": "https://www.yna.co.kr/view/AKR20260920016500003"
+    },
     {
      "date": "2026-09-01",
      "source": "한국경제·증권",
@@ -17354,6 +17408,12 @@
   },
   "JP모건(JPM)": {
    "articles": [
+    {
+     "date": "2026-09-20",
+     "source": "한국경제·증권",
+     "title": "\"유가 솔직히 모르겠다\" JP모건의 고백…최후의 카드는 [빈난새의 빈틈없이마켓]",
+     "link": "https://www.hankyung.com/article/202609205777i"
+    },
     {
      "date": "2026-09-15",
      "source": "연합인포맥스",
@@ -20947,6 +21007,12 @@
   "한화에어로스페이스(012450)": {
    "articles": [
     {
+     "date": "2026-09-20",
+     "source": "한국경제·경제",
+     "title": "한화에어로스페이스, 고체엔진 앞세워…KF-21 유도탄 개발 착수",
+     "link": "https://www.hankyung.com/article/2026092057361"
+    },
+    {
      "date": "2026-09-16",
      "source": "파이낸셜뉴스",
      "title": "고용부, 연령･학력 제한 의혹 한화에어로스페이스 감독 착수",
@@ -23071,6 +23137,12 @@
   "우리투자증권": {
    "articles": [
     {
+     "date": "2026-09-20",
+     "source": "연합뉴스·경제",
+     "title": "[부고] 이기조(우리투자증권 리테일부문 부사장)씨 장모상",
+     "link": "https://www.yna.co.kr/view/AKR20260920022900008"
+    },
+    {
      "date": "2026-09-16",
      "source": "한국경제·증권",
      "title": "우리투자증권, 이강인·야말 뛰는 라리가와 공식 스폰서십",
@@ -23322,6 +23394,12 @@
   },
   "한화(000880)": {
    "articles": [
+    {
+     "date": "2026-09-20",
+     "source": "연합인포맥스",
+     "title": "\"체급 키워 세계 무대로\" 방산 빅딜설 중심에 선 한화\"",
+     "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4435777"
+    },
     {
      "date": "2026-09-19",
      "source": "한국경제·경제",
@@ -26676,6 +26754,12 @@
   },
   "삼양사(145990)": {
    "articles": [
+    {
+     "date": "2026-09-20",
+     "source": "연합인포맥스",
+     "title": "'담합 과징금 면제·집행정지' 삼양사, 현금 유출 집중 피했지만",
+     "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4435773"
+    },
     {
      "date": "2026-07-14",
      "source": "연합뉴스·경제",
@@ -31563,6 +31647,18 @@
   "호반건설": {
    "articles": [
     {
+     "date": "2026-09-20",
+     "source": "연합뉴스·경제",
+     "title": "호반건설, 서울 창동상아1차 재건축 등 도시정비 2건 수주",
+     "link": "https://www.yna.co.kr/view/AKR20260920015100003"
+    },
+    {
+     "date": "2026-09-20",
+     "source": "뉴시스·경제",
+     "title": "호반건설, 창동상아1차 수주…올해 도시정비 '1조' 달성",
+     "link": "https://www.newsis.com/view/NISX20260920_0003796937"
+    },
+    {
      "date": "2026-07-28",
      "source": "뉴시스·경제",
      "title": "호반건설, AI로 레미콘 수량 산출…'호반써밋' 현장 적용",
@@ -33418,6 +33514,12 @@
   },
   "SpaceX": {
    "articles": [
+    {
+     "date": "2026-09-20",
+     "source": "MarketWatch",
+     "title": "China is chasing SpaceX and setting its sights on the global space economy",
+     "link": "https://www.marketwatch.com/story/china-is-chasing-spacex-and-setting-its-sights-on-the-global-space-economy-3b9e37ff?mod=mw_rss_topstories"
+    },
     {
      "date": "2026-09-11",
      "source": "MarketWatch",
@@ -35511,6 +35613,12 @@
   "LG생활건강(051900)": {
    "articles": [
     {
+     "date": "2026-09-20",
+     "source": "연합뉴스·경제",
+     "title": "LG생활건강, 한국식품연구원과 건강기능식품 공동개발",
+     "link": "https://www.yna.co.kr/view/AKR20260920015000030"
+    },
+    {
      "date": "2026-09-16",
      "source": "한국경제·경제",
      "title": "LG생활건강, 숨37°·더후·오휘…프리미엄 화장품으로 시간을 되돌려 드리세요",
@@ -37432,6 +37540,12 @@
   },
   "LG(003550)": {
    "articles": [
+    {
+     "date": "2026-09-20",
+     "source": "연합뉴스·경제",
+     "title": "LG, AI 인재 육성 확대…'에이머스 해커톤'에 3천393명 지원",
+     "link": "https://www.yna.co.kr/view/AKR20260920015500003"
+    },
     {
      "date": "2026-09-19",
      "source": "한국경제·경제",
@@ -39953,6 +40067,12 @@
   "카카오모빌리티": {
    "articles": [
     {
+     "date": "2026-09-20",
+     "source": "연합인포맥스",
+     "title": "카카오모빌리티, 태국·체코 교통부에 자율주행 선보여",
+     "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4435783"
+    },
+    {
      "date": "2026-09-10",
      "source": "연합인포맥스",
      "title": "강남서 1만3천㎞ 달려보니…카카오모빌리티가 찾은 '레벨4 조건'",
@@ -40126,6 +40246,12 @@
   },
   "효성(004800)": {
    "articles": [
+    {
+     "date": "2026-09-20",
+     "source": "한국경제·경제",
+     "title": "효성, 3대 이어온 호국보훈 기업…유공자 주거개선 15년 후원",
+     "link": "https://www.hankyung.com/article/2026092057431"
+    },
     {
      "date": "2026-09-10",
      "source": "연합뉴스·경제",
@@ -40312,6 +40438,12 @@
   },
   "앤트로픽": {
    "articles": [
+    {
+     "date": "2026-09-20",
+     "source": "연합인포맥스",
+     "title": "앤트로픽, IPO 11월로 연기…내달 투자자 접촉",
+     "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4435801"
+    },
     {
      "date": "2026-09-19",
      "source": "뉴시스·경제",
@@ -41936,6 +42068,12 @@
   },
   "우리은행": {
    "articles": [
+    {
+     "date": "2026-09-20",
+     "source": "연합뉴스·경제",
+     "title": "우리은행, 홀몸 어르신 9천722가구에 생활필수품",
+     "link": "https://www.yna.co.kr/view/AKR20260918186700002"
+    },
     {
      "date": "2026-09-16",
      "source": "연합인포맥스",
@@ -43847,6 +43985,12 @@
     {
      "date": "2026-09-20",
      "source": "한국경제·경제",
+     "title": "포스코, '신소재 철갑' 두르는 군함…포화 쏟아져도 바닷길 뚫는다",
+     "link": "https://www.hankyung.com/article/2026092057371"
+    },
+    {
+     "date": "2026-09-20",
+     "source": "한국경제·경제",
      "title": "'창사 첫 파업' 사측과 골프?…삼성·포스코 노조 '위원장 리스크'",
      "link": "https://www.hankyung.com/article/2026092056167"
     }
@@ -43869,6 +44013,12 @@
      "source": "한국경제·증권",
      "title": "오름테라퓨틱, 장 초반 하한가 직행…BMS 후보물질 반환",
      "link": "https://www.hankyung.com/article/2026091829306"
+    },
+    {
+     "date": "2026-09-20",
+     "source": "한국경제·경제",
+     "title": "오름테라퓨틱 \"내년 신약 공개…기술 반환에도 수출 확대할 것\"",
+     "link": "https://www.hankyung.com/article/2026092062491"
     }
    ]
   },
@@ -43881,7 +44031,17 @@
      "link": "https://view.asiae.co.kr/article/2026091709475677268"
     }
    ]
+  },
+  "LS마린솔루션(454910)": {
+   "articles": [
+    {
+     "date": "2026-09-20",
+     "source": "아시아경제",
+     "title": "LS마린솔루션, 1569억 규모 해저케이블 운송·설치 계약",
+     "link": "https://view.asiae.co.kr/article/2026091814084436257"
+    }
+   ]
   }
  },
- "updatedAt": "2026-09-20T09:00:47+09:00"
+ "updatedAt": "2026-09-20T23:06:24+09:00"
 }
