@@ -727,6 +727,12 @@
   "삼성전자(005930)": {
    "articles": [
     {
+     "date": "2026-09-20",
+     "source": "연합인포맥스",
+     "title": "두쪽·세쪽난 삼성전자 노조…노노갈등에 동력 약화",
+     "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4435772"
+    },
+    {
      "date": "2026-09-19",
      "source": "한국경제·증권",
      "title": "인텔 7% 급등에도…초고수는 삼성전자만 담았다",
@@ -1439,12 +1445,6 @@
      "source": "파이낸셜·증권",
      "title": "삼성전자·SK하이닉스, 주주환원 경쟁 불붙었다…\"연말까지 주가 버팀목\"",
      "link": "https://www.fnnews.com/news/202608240837392900"
-    },
-    {
-     "date": "2026-08-24",
-     "source": "파이낸셜·증권",
-     "title": "삼성전자, '역대급 주주환원'에도 급락…코스피 1%대↓[fn오전시황]",
-     "link": "https://www.fnnews.com/news/202608241036288325"
     }
    ]
   },
@@ -2506,6 +2506,12 @@
   },
   "애플(AAPL)": {
    "articles": [
+    {
+     "date": "2026-09-20",
+     "source": "한국경제·경제",
+     "title": "애플도 이제 코인처럼?…290조 몰린 서학개미들 '술렁' [김주완의 글로벌머니 X파일]",
+     "link": "https://www.hankyung.com/article/202609195213i"
+    },
     {
      "date": "2026-09-19",
      "source": "한국경제·경제",
@@ -7916,6 +7922,12 @@
   },
   "지엔씨에너지(119850)": {
    "articles": [
+    {
+     "date": "2026-09-20",
+     "source": "news.einfomax.co.kr",
+     "title": "- 지엔씨에너지(119850)·소형 [조기단계: 첫등장 D-97·누적 9회·↗지속] · AI전력 비상발전기 · 수주잔고 4,147억원, 국내 시장점유율 약 70%",
+     "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4435741"
+    },
     {
      "date": "2026-09-10",
      "source": "news.einfomax.co.kr",
@@ -21858,6 +21870,12 @@
   },
   "GS건설(006360)": {
    "articles": [
+    {
+     "date": "2026-09-20",
+     "source": "뉴시스·경제",
+     "title": "염해 농지에 태양광 발전소…주민과 수익 나누는 GS건설[짤막영상]",
+     "link": "https://www.newsis.com/view/NISX20260910_0003784454"
+    },
     {
      "date": "2026-09-16",
      "source": "파이낸셜·증권",
@@ -40579,6 +40597,12 @@
   "하나은행": {
    "articles": [
     {
+     "date": "2026-09-20",
+     "source": "연합인포맥스",
+     "title": "하나은행, 나라사랑카드 판 흔들었다…점유율 40% 넘어서",
+     "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4435771"
+    },
+    {
      "date": "2026-09-19",
      "source": "연합뉴스·경제",
      "title": "[게시판] 하나은행, 공적연금 고객 전용 멤버십 라운지",
@@ -42645,6 +42669,12 @@
   "아이엘(307180)": {
    "articles": [
     {
+     "date": "2026-09-20",
+     "source": "newspim.com",
+     "title": "- 아이엘(307180)·중형 [조기단계: 재점화 D-5·누적 19회·↗재점화] · 휴머노이드 · 갤럭시로봇파크에 ILBOT H2 실제 설치.",
+     "link": "https://www.newspim.com/news/view/20260521000974"
+    },
+    {
      "date": "2026-09-10",
      "source": "연합뉴스·경제",
      "title": "아이엘 \"리드엔지니어링 주식 128억원어치 취득…지분율 80%\"",
@@ -43811,7 +43841,47 @@
      "link": "https://edaily.co.kr/News/Read?mediaCodeNo=257&newsId=03050406645510912"
     }
    ]
+  },
+  "포스코(005490)": {
+   "articles": [
+    {
+     "date": "2026-09-20",
+     "source": "한국경제·경제",
+     "title": "'창사 첫 파업' 사측과 골프?…삼성·포스코 노조 '위원장 리스크'",
+     "link": "https://www.hankyung.com/article/2026092056167"
+    }
+   ]
+  },
+  "해성디에스(195870)": {
+   "articles": [
+    {
+     "date": "2026-09-20",
+     "source": "한국경제·경제",
+     "title": "해성디에스, 2500억 투자해 패널 공법 도입 앞당긴다",
+     "link": "https://www.hankyung.com/article/202609184617i"
+    }
+   ]
+  },
+  "오름테라퓨틱(475830)": {
+   "articles": [
+    {
+     "date": "2026-09-20",
+     "source": "한국경제·증권",
+     "title": "오름테라퓨틱, 장 초반 하한가 직행…BMS 후보물질 반환",
+     "link": "https://www.hankyung.com/article/2026091829306"
+    }
+   ]
+  },
+  "에프앤가이드(064850)": {
+   "articles": [
+    {
+     "date": "2026-09-20",
+     "source": "아시아경제",
+     "title": "에프앤가이드, 포필러스와 '디지털 자산 공동 리서치 보고서' 발간 추진",
+     "link": "https://view.asiae.co.kr/article/2026091709475677268"
+    }
+   ]
   }
  },
- "updatedAt": "2026-09-19T22:52:00+09:00"
+ "updatedAt": "2026-09-20T09:00:47+09:00"
 }

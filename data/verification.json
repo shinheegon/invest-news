@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-09-19T23:35:53+09:00",
+ "updatedAt": "2026-09-20T09:41:34+09:00",
  "cases": [
   {
    "name": "이엠앤아이(481070)",
@@ -66163,6 +66163,170 @@
     "⚠️열세테마"
    ],
    "convStampedAt": "2026-09-19"
+  },
+  {
+   "name": "에스넷시스템(038680)",
+   "type": "leading",
+   "market": "韓",
+   "flagDate": "2026-09-20",
+   "signals": [
+    "4거래일연속재조명",
+    "AI데이터센터SI수주110억원",
+    "우선협상대상자단계"
+   ],
+   "theme": "AI전력/데이터센터",
+   "status": "pending",
+   "checks": [],
+   "convScore": 2,
+   "convTier": "low",
+   "convSignals": [
+    "반복포착",
+    "구체촉발재",
+    "⚠️열세테마"
+   ],
+   "convStampedAt": "2026-09-20"
+  },
+  {
+   "name": "지엔씨에너지(119850)",
+   "type": "leading",
+   "market": "韓",
+   "flagDate": "2026-09-20",
+   "signals": [
+    "저빈도고지속반복(9회)",
+    "수주잔고4147억원",
+    "LG유플러스469억원계약"
+   ],
+   "theme": "AI전력/데이터센터",
+   "status": "pending",
+   "checks": [],
+   "convScore": 2,
+   "convTier": "low",
+   "convSignals": [
+    "반복포착",
+    "구체촉발재",
+    "⚠️열세테마"
+   ],
+   "convStampedAt": "2026-09-20"
+  },
+  {
+   "name": "카티스(140430)",
+   "type": "leading",
+   "market": "韓",
+   "flagDate": "2026-09-20",
+   "signals": [
+    "사상최대수주잔고439억원",
+    "네이버한수원고객사",
+    "실적턴어라운드조짐"
+   ],
+   "theme": "AI전력/데이터센터",
+   "status": "pending",
+   "checks": [],
+   "convScore": 2,
+   "convTier": "low",
+   "convSignals": [
+    "반복포착",
+    "구체촉발재",
+    "⚠️열세테마"
+   ],
+   "convStampedAt": "2026-09-20"
+  },
+  {
+   "name": "아이엘(307180)",
+   "type": "leading",
+   "market": "韓",
+   "flagDate": "2026-09-20",
+   "signals": [
+    "휴머노이드실제설치레퍼런스확보",
+    "갤럭시로봇파크ILBOT H2공급",
+    "8월소강후재점화"
+   ],
+   "theme": "로봇/휴머노이드",
+   "status": "pending",
+   "checks": [],
+   "convScore": 7,
+   "convTier": "high",
+   "convSignals": [
+    "반복포착",
+    "승세테마",
+    "구체촉발재"
+   ],
+   "convStampedAt": "2026-09-20"
+  },
+  {
+   "name": "디케이티(290550)",
+   "type": "discovery",
+   "market": "韓",
+   "flagDate": "2026-09-20",
+   "signals": [
+    "휴머노이드배터리충전모듈양산개시",
+    "북미고객사향공급",
+    "탈중국공급망수혜"
+   ],
+   "theme": "로봇/휴머노이드",
+   "status": "pending",
+   "checks": [],
+   "convScore": 7,
+   "convTier": "high",
+   "convSignals": [
+    "반복포착",
+    "승세테마",
+    "구체촉발재"
+   ],
+   "convStampedAt": "2026-09-20"
+  },
+  {
+   "name": "자람테크놀로지(389020)",
+   "type": "warning",
+   "market": "韓",
+   "flagDate": "2026-09-20",
+   "signals": [
+    "9/14유럽고객사계약해지",
+    "주가-20%대급락",
+    "부정적재료이미반영"
+   ],
+   "theme": "AI반도체설계(팹리스/IP)",
+   "status": "pending",
+   "checks": []
+  },
+  {
+   "name": "삼현(437730)",
+   "type": "warning",
+   "market": "韓",
+   "flagDate": "2026-09-20",
+   "signals": [
+    "9/15+29.8%섹터전반급등",
+    "개별재료단독효과아님",
+    "이미반영"
+   ],
+   "theme": "로봇/휴머노이드",
+   "status": "pending",
+   "checks": []
+  },
+  {
+   "name": "삼성전자(005930)",
+   "type": "warning",
+   "market": "韓",
+   "flagDate": "2026-09-20",
+   "signals": [
+    "9/18+3.4%이미급등",
+    "HBM젠슨황발언재료전량반영"
+   ],
+   "theme": "반도체",
+   "status": "pending",
+   "checks": []
+  },
+  {
+   "name": "SK하이닉스(000660)",
+   "type": "warning",
+   "market": "韓",
+   "flagDate": "2026-09-20",
+   "signals": [
+    "9/18+6.4%이미급등",
+    "HBM젠슨황발언재료전량반영"
+   ],
+   "theme": "반도체",
+   "status": "pending",
+   "checks": []
   }
  ],
  "stats": {
@@ -66172,8 +66336,8 @@
   "miss": 164,
   "hitRate": 24.3,
   "avgD3ChangePct": 0.32,
-  "pending": 69,
-  "total": 456,
+  "pending": 78,
+  "total": 465,
   "byType": {
    "leading": {
     "verified": 163,
