@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-09-20T23:28:58+09:00",
+ "updatedAt": "2026-09-21T09:32:33+09:00",
  "cases": [
   {
    "name": "이엠앤아이(481070)",
@@ -66327,6 +66327,29 @@
    "theme": "반도체",
    "status": "pending",
    "checks": []
+  },
+  {
+   "name": "넥사다이내믹스(357550)",
+   "type": "leading",
+   "market": "韓",
+   "flagDate": "2026-09-21",
+   "signals": [
+    "경영진개편직후첫해외수주",
+    "일본AI서버115만달러계약",
+    "5일만재점등",
+    "주가급등미확인"
+   ],
+   "theme": "AI서버/데이터센터 장비",
+   "status": "pending",
+   "checks": [],
+   "convScore": 2,
+   "convTier": "low",
+   "convSignals": [
+    "반복포착",
+    "구체촉발재",
+    "⚠️열세테마"
+   ],
+   "convStampedAt": "2026-09-21"
   }
  ],
  "stats": {
@@ -66336,8 +66359,8 @@
   "miss": 164,
   "hitRate": 24.3,
   "avgD3ChangePct": 0.32,
-  "pending": 78,
-  "total": 465,
+  "pending": 79,
+  "total": 466,
   "byType": {
    "leading": {
     "verified": 163,
