@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-09-21T09:32:33+09:00",
+ "updatedAt": "2026-09-22T01:50:34+09:00",
  "cases": [
   {
    "name": "이엠앤아이(481070)",
@@ -66350,6 +66350,30 @@
     "⚠️열세테마"
    ],
    "convStampedAt": "2026-09-21"
+  },
+  {
+   "name": "해성디에스(195870)",
+   "type": "discovery",
+   "market": "韓",
+   "flagDate": "2026-09-22",
+   "signals": [
+    "1900억원기판증설",
+    "DB증권목표가상향",
+    "니치레이더4일연속반복",
+    "주가급등미확인"
+   ],
+   "theme": "AI전력·반도체기판",
+   "status": "pending",
+   "checks": [],
+   "convScore": 4,
+   "convTier": "mid",
+   "convSignals": [
+    "반복포착",
+    "구체촉발재",
+    "⚠️열세테마",
+    "틈새레이더"
+   ],
+   "convStampedAt": "2026-09-22"
   }
  ],
  "stats": {
@@ -66359,8 +66383,8 @@
   "miss": 164,
   "hitRate": 24.3,
   "avgD3ChangePct": 0.32,
-  "pending": 79,
-  "total": 466,
+  "pending": 80,
+  "total": 467,
   "byType": {
    "leading": {
     "verified": 163,
