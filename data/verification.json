@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-09-22T01:50:34+09:00",
+ "updatedAt": "2026-09-22T09:58:59+09:00",
  "cases": [
   {
    "name": "이엠앤아이(481070)",
@@ -66374,6 +66374,48 @@
     "틈새레이더"
    ],
    "convStampedAt": "2026-09-22"
+  },
+  {
+   "name": "지란지교시큐리티(208350)",
+   "type": "discovery",
+   "market": "韓",
+   "flagDate": "2026-09-22",
+   "signals": [
+    "양자내성암호전환협약3일연속반복",
+    "AI보안테마초기",
+    "주가급등미확인"
+   ],
+   "theme": "AI보안(양자내성암호)",
+   "status": "pending",
+   "checks": [],
+   "convScore": 5,
+   "convTier": "high",
+   "convSignals": [
+    "반복포착",
+    "틈새레이더"
+   ],
+   "convStampedAt": "2026-09-22"
+  },
+  {
+   "name": "코오롱글로벌(003070)",
+   "type": "discovery",
+   "market": "韓",
+   "flagDate": "2026-09-22",
+   "signals": [
+    "삼성파워텍등데이터센터개발MOU",
+    "AI전력데이터센터밸류체인",
+    "주가급등미확인"
+   ],
+   "theme": "AI전력/데이터센터",
+   "status": "pending",
+   "checks": [],
+   "convScore": -1,
+   "convTier": "low",
+   "convSignals": [
+    "⚠️열세테마",
+    "틈새레이더"
+   ],
+   "convStampedAt": "2026-09-22"
   }
  ],
  "stats": {
@@ -66383,8 +66425,8 @@
   "miss": 164,
   "hitRate": 24.3,
   "avgD3ChangePct": 0.32,
-  "pending": 80,
-  "total": 467,
+  "pending": 82,
+  "total": 469,
   "byType": {
    "leading": {
     "verified": 163,
