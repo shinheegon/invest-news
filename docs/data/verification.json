@@ -1,6 +1,34 @@
 {
- "updatedAt": "2026-09-22T09:58:59+09:00",
+ "updatedAt": "2026-09-23T00:09:35+09:00",
  "cases": [
+  {
+   "name": "AMD(AMD)",
+   "type": "warning",
+   "market": "美",
+   "flagDate": "2026-09-22",
+   "signals": [
+    "메타AI에이전트훈풍편승",
+    "시총1조달러돌파",
+    "이미급등후반영"
+   ],
+   "theme": "AI반도체",
+   "status": "pending",
+   "checks": []
+  },
+  {
+   "name": "메타(META)",
+   "type": "warning",
+   "market": "美",
+   "flagDate": "2026-09-22",
+   "signals": [
+    "AI에이전트뮤즈흥행",
+    "주가11%대폭등",
+    "이미급등후반영"
+   ],
+   "theme": "AI서비스",
+   "status": "pending",
+   "checks": []
+  },
   {
    "name": "이엠앤아이(481070)",
    "type": "leading",
@@ -66425,8 +66453,8 @@
   "miss": 164,
   "hitRate": 24.3,
   "avgD3ChangePct": 0.32,
-  "pending": 82,
-  "total": 469,
+  "pending": 84,
+  "total": 471,
   "byType": {
    "leading": {
     "verified": 163,
