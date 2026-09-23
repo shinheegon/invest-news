@@ -4,9 +4,27 @@
    "articles": [
     {
      "date": "2026-09-23",
+     "source": "한국경제·증권",
+     "title": "\"메타가 불 지폈다\"…삼성전자·SK하이닉스 다시 '들썩'",
+     "link": "https://www.hankyung.com/article/2026092327816"
+    },
+    {
+     "date": "2026-09-23",
+     "source": "연합뉴스·경제",
+     "title": "삼성전자, 연휴 앞두고 3%대 급등마감…SK하이닉스도 1.2%↑(종합)",
+     "link": "https://www.yna.co.kr/view/AKR20260923044351008"
+    },
+    {
+     "date": "2026-09-23",
      "source": "g-enews.com",
      "title": "- SK하이닉스(000660): HBM3E 품질검증 이슈를 딛고 공급 정상화, HBM4 선행 출하로 점유율 1위 유지(카운터포인트리서치).",
      "link": "https://www.g-enews.com/article/Industry/2026/09/20260921135038340727fa31d75c_1"
+    },
+    {
+     "date": "2026-09-23",
+     "source": "머니투데이",
+     "title": "- SK하이닉스(000660): 메모리 수급 타이트 전망(2028년까지 지속)에 상승세, 시총 1,355조원대.",
+     "link": "https://www.mt.co.kr/stock/2026/09/23/2026092309085264312"
     },
     {
      "date": "2026-09-22",
@@ -703,24 +721,6 @@
      "source": "파이낸셜·증권",
      "title": "SK하이닉스, 40조 규모 자사주 취득...2407만주 소각 [공시]",
      "link": "https://www.fnnews.com/news/202608191548455814"
-    },
-    {
-     "date": "2026-08-19",
-     "source": "파이낸셜·증권",
-     "title": "S&P \"SK하이닉스 신용등급 A-로 상향...슈퍼사이클 이어질 것\"",
-     "link": "https://www.fnnews.com/news/202608191801196535"
-    },
-    {
-     "date": "2026-08-19",
-     "source": "연합인포맥스",
-     "title": "SK하이닉스, 자사주 40조원 취득…2천407만주",
-     "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4430802"
-    },
-    {
-     "date": "2026-08-19",
-     "source": "연합인포맥스",
-     "title": "SK하이닉스, 자사주 40조원 규모 2천407만주 매입(상보)",
-     "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4430811"
     }
    ]
   },
@@ -734,15 +734,45 @@
     },
     {
      "date": "2026-09-23",
+     "source": "한국경제·증권",
+     "title": "\"삼성전자 110조 배당 풀리면…\" 개미들 놀랄 전망 나왔다 [분석+]",
+     "link": "https://www.hankyung.com/article/2026092332696"
+    },
+    {
+     "date": "2026-09-23",
+     "source": "한국경제·증권",
+     "title": "\"메타가 불 지폈다\"…삼성전자·SK하이닉스 다시 '들썩'",
+     "link": "https://www.hankyung.com/article/2026092327816"
+    },
+    {
+     "date": "2026-09-23",
      "source": "파이낸셜·증권",
      "title": "삼성전자, 메모리 사이클 장기화…목표가 상향 '63만원'",
      "link": "https://www.fnnews.com/news/202609230813478763"
     },
     {
      "date": "2026-09-23",
+     "source": "파이낸셜·증권",
+     "title": "삼성전자 '낙수 효과'… \"코스피 전체 배당 150조 넘을것\"",
+     "link": "https://www.fnnews.com/news/202609231645267607"
+    },
+    {
+     "date": "2026-09-23",
      "source": "연합뉴스·경제",
      "title": "키움증권 \"삼성전자, 3분기 실적 기존 전망치 하회할듯\"",
      "link": "https://www.yna.co.kr/view/AKR20260923027700008"
+    },
+    {
+     "date": "2026-09-23",
+     "source": "연합뉴스·경제",
+     "title": "추석 앞두고 삼성전자 냉장고 잇단 '먹통'…\"긴급 복구 중\"",
+     "link": "https://www.yna.co.kr/view/AKR20260923068000003"
+    },
+    {
+     "date": "2026-09-23",
+     "source": "연합뉴스·경제",
+     "title": "삼성전자, 연휴 앞두고 3%대 급등마감…SK하이닉스도 1.2%↑(종합)",
+     "link": "https://www.yna.co.kr/view/AKR20260923044351008"
     },
     {
      "date": "2026-09-23",
@@ -755,6 +785,12 @@
      "source": "g-enews.com",
      "title": "- 삼성전자(005930): HBM4용 유리기판 캐리어 조달량을 월 1만 시트→2만 시트로 확대(2027년 5만 시트 목표), 엔비디아 차세대 GPU '베라 루빈",
      "link": "https://www.g-enews.com/article/Global-Biz/2026/09/202609220549544379fbbec65dfb_1"
+    },
+    {
+     "date": "2026-09-23",
+     "source": "머니투데이",
+     "title": "- 삼성전자(005930): HBM4(6세대) 판매 확대에 3분기 사상 최대 영업이익 전망, LPDDR6를 퀄컴 차세대 모바일 AP에 업계 최초 검증. 오늘 +2",
+     "link": "https://www.mt.co.kr/industry/2026/09/23/2026092313040913732"
     },
     {
      "date": "2026-09-22",
@@ -1409,42 +1445,6 @@
      "source": "뉴시스·경제",
      "title": "주말 낮에 삼성전자·LG전자 스마트가전 돌리면 전기료 '캐시백'",
      "link": "https://www.newsis.com/view/NISX20260901_0003771421"
-    },
-    {
-     "date": "2026-08-31",
-     "source": "한국경제·증권",
-     "title": "\"삼성전자, HBM 경쟁력 회복…목표가 45만원으로 상향\"-LS",
-     "link": "https://www.hankyung.com/article/2026083125036"
-    },
-    {
-     "date": "2026-08-31",
-     "source": "한국경제",
-     "title": "- 삼성전자(005930): 8/31 LS증권 \"HBM 경쟁력 회복\" 평가로 목표가 45만원 상향.",
-     "link": "https://www.hankyung.com/article/202608312720i"
-    },
-    {
-     "date": "2026-08-31",
-     "source": "연합인포맥스",
-     "title": "LS증권 &quot;삼성전자, HBM4 수율·양산성 우려 완화&quot;…목표가 45만원 상향",
-     "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4432571"
-    },
-    {
-     "date": "2026-08-30",
-     "source": "한국경제·경제",
-     "title": "[포토] 삼성전자, 獨서 갤럭시폰 게임대회 개최",
-     "link": "https://www.hankyung.com/article/2026083019091"
-    },
-    {
-     "date": "2026-08-30",
-     "source": "연합뉴스·경제",
-     "title": "삼성전자, 9월부터 임직원 주택대출…사내 부부는 1건으로 제한",
-     "link": "https://www.yna.co.kr/view/AKR20260828063800003"
-    },
-    {
-     "date": "2026-08-29",
-     "source": "파이낸셜·증권",
-     "title": "\"삼성전자 주가 끝난 거 아냐?\"...증권가가 아직도 \"사자\" 주장하는 이유",
-     "link": "https://www.fnnews.com/news/202608281614318215"
     }
    ]
   },
@@ -2249,6 +2249,18 @@
      "source": "한국경제·경제",
      "title": "AI가 대신 쇼핑하는 시대…쇼피파이는 열고 아마존은 막았다 [김주완의 글로벌머니 X파일]",
      "link": "https://www.hankyung.com/article/202609221263i"
+    },
+    {
+     "date": "2026-09-23",
+     "source": "연합인포맥스",
+     "title": "트럼프, 7월 증권거래 1천여건 신고…MS·아마존 매도",
+     "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4436306"
+    },
+    {
+     "date": "2026-09-23",
+     "source": "뉴시스·경제",
+     "title": "트럼프, 전쟁 와중에 주식 1천건 거래…7월, 아마존·MS 대량 매도",
+     "link": "https://www.newsis.com/view/NISX20260923_0003802224"
     },
     {
      "date": "2026-09-22",
@@ -3086,6 +3098,18 @@
   },
   "가온전선(000500)": {
    "articles": [
+    {
+     "date": "2026-09-23",
+     "source": "한국경제·증권",
+     "title": "가온전선 한달 새 50% 넘게 상승...타 전선株 수익률 압도",
+     "link": "https://www.hankyung.com/article/202609233328i"
+    },
+    {
+     "date": "2026-09-23",
+     "source": "한국경제·증권",
+     "title": "가온전선 뜀박질…이달 전선주 상승률 1위",
+     "link": "https://www.hankyung.com/article/2026092339751"
+    },
     {
      "date": "2026-09-19",
      "source": "파이낸셜·증권",
@@ -4741,6 +4765,12 @@
   "엔비디아(NVDA)": {
    "articles": [
     {
+     "date": "2026-09-23",
+     "source": "한국경제·증권",
+     "title": "엔비디아·삼전닉스보다 더 뛴 CPU株…메타 '뮤즈'가 깨운 것은 [빈난새의 빈틈없이마켓]",
+     "link": "https://www.hankyung.com/article/202609232525i"
+    },
+    {
      "date": "2026-09-22",
      "source": "한국경제·증권",
      "title": "엔비디아·MS가 날개 달았다…한풀 꺾였던 LG그룹주 '들썩' [종목+]",
@@ -5453,12 +5483,6 @@
      "source": "연합인포맥스",
      "title": "엔비디아, 그록3 LPX 고객사 확보…삼성 파운드리 기대감↑",
      "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4431699"
-    },
-    {
-     "date": "2026-08-25",
-     "source": "연합뉴스·경제",
-     "title": "삼전닉스 휘청에 코스피 하락 지속…엔비디아 실적 이벤트 주시",
-     "link": "https://www.yna.co.kr/view/AKR20260825084600008"
     }
    ]
   },
@@ -5648,6 +5672,24 @@
   },
   "카카오(035720)": {
    "articles": [
+    {
+     "date": "2026-09-23",
+     "source": "한국경제·경제",
+     "title": "[포토] 카카오·그랩, 디지털 자산 협약",
+     "link": "https://www.hankyung.com/article/2026092340351"
+    },
+    {
+     "date": "2026-09-23",
+     "source": "연합인포맥스",
+     "title": "검찰, 카카오 김범수 'SM 시세조종 혐의' 2심 징역 15년 구형(종합)",
+     "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4436327"
+    },
+    {
+     "date": "2026-09-23",
+     "source": "연합인포맥스",
+     "title": "검찰, 카카오 김범수 'SM 시세조종 혐의' 2심 징역 15년 구형",
+     "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4436323"
+    },
     {
      "date": "2026-09-22",
      "source": "한국경제·증권",
@@ -7159,8 +7201,32 @@
     {
      "date": "2026-09-23",
      "source": "한국경제·증권",
+     "title": "엔비디아·삼전닉스보다 더 뛴 CPU株…메타 '뮤즈'가 깨운 것은 [빈난새의 빈틈없이마켓]",
+     "link": "https://www.hankyung.com/article/202609232525i"
+    },
+    {
+     "date": "2026-09-23",
+     "source": "한국경제·증권",
      "title": "메타에 폭탄 맞은 JP모건, 제2 SW 사태?…나스닥 기록인데 월가 \"주의\" [김현석의 월스트리트나우]",
      "link": "https://www.hankyung.com/article/202609232271i"
+    },
+    {
+     "date": "2026-09-23",
+     "source": "한국경제·증권",
+     "title": "\"메타가 불 지폈다\"…삼성전자·SK하이닉스 다시 '들썩'",
+     "link": "https://www.hankyung.com/article/2026092327816"
+    },
+    {
+     "date": "2026-09-23",
+     "source": "한국경제·경제",
+     "title": "메타 AI비서 뮤즈…사람이 대신 전화 걸어주는 '인간컨시어지'실험",
+     "link": "https://www.hankyung.com/article/202609234444i"
+    },
+    {
+     "date": "2026-09-23",
+     "source": "파이낸셜·증권",
+     "title": "파두, 메타 AI '뮤즈' 수혜 기대에 9%대 강세[종목 NOW]",
+     "link": "https://www.fnnews.com/news/202609230935435789"
     },
     {
      "date": "2026-09-23",
@@ -7931,6 +7997,12 @@
      "source": "newspim.com",
      "title": "- 한미반도체(042700): 9/22 AI 반도체용 2.5D 패키징 장비 'FC본더75'를 글로벌 고객사에 첫 출하, 10월 중 미국 현지법인 설립 계획.",
      "link": "https://www.newspim.com/news/view/20260922000783"
+    },
+    {
+     "date": "2026-09-23",
+     "source": "news.jkn.co.kr",
+     "title": "- 한미반도체(042700): AI반도체 2.5D 패키징용 'FC본더75'를 글로벌 고객사에 첫 출하, 10월 미국법인 설립 예정. 오늘 +1.46% 마감.",
+     "link": "https://news.jkn.co.kr/post/994342"
     },
     {
      "date": "2026-09-15",
@@ -8731,6 +8803,12 @@
   "알테오젠(196170)": {
    "articles": [
     {
+     "date": "2026-09-23",
+     "source": "연합뉴스·경제",
+     "title": "알테오젠, 유럽서 키트루다 피하주사 조성물 특허 등록",
+     "link": "https://www.yna.co.kr/view/AKR20260923124600017"
+    },
+    {
      "date": "2026-09-21",
      "source": "한국경제·증권",
      "title": "\"알테오젠 ALT-B4 특허 2043년까지…장기 독점 효과 커질 것\"-IBK",
@@ -8983,6 +9061,12 @@
      "source": "파이낸셜·증권",
      "title": "대한항공, 여객·화물 운임 상승에 3분기 실적 개선 전망",
      "link": "https://www.fnnews.com/news/202609230801469849"
+    },
+    {
+     "date": "2026-09-23",
+     "source": "파이낸셜·증권",
+     "title": "\"최악의 환경에서 선방\"…대한항공 목표가 '5% 상향 조정' 이유는 [주주클럽]",
+     "link": "https://www.fnnews.com/news/202609230902586372"
     },
     {
      "date": "2026-09-23",
@@ -9295,6 +9379,18 @@
   "현대로템(064350)": {
    "articles": [
     {
+     "date": "2026-09-23",
+     "source": "한국경제·경제",
+     "title": "현대로템, 차세대 고속철 차량 디자인 공개",
+     "link": "https://www.hankyung.com/article/2026092340201"
+    },
+    {
+     "date": "2026-09-23",
+     "source": "파이낸셜·증권",
+     "title": "현대로템, 대만서 3445억원 규모 철도 E&M 수주 [공시]",
+     "link": "https://www.fnnews.com/news/202609231449056159"
+    },
+    {
      "date": "2026-09-15",
      "source": "아시아경제",
      "title": "폴란드 다음은 어디…K2가 세운 현대로템 성장판[클릭e종목]",
@@ -9430,6 +9526,12 @@
    "articles": [
     {
      "date": "2026-09-23",
+     "source": "한국경제·경제",
+     "title": "HL로보틱스·삼성물산, 주차 로봇 서비스 협약",
+     "link": "https://www.hankyung.com/article/2026092340261"
+    },
+    {
+     "date": "2026-09-23",
      "source": "파이낸셜·증권",
      "title": "삼성물산, 주주환원 눈높이 올라가는데…\"주가 여전히 저평가\"",
      "link": "https://www.fnnews.com/news/202609230836341478"
@@ -9437,8 +9539,20 @@
     {
      "date": "2026-09-23",
      "source": "연합뉴스·경제",
+     "title": "삼성물산, 해외기업과 유럽 소형모듈원전 사업 파트너십",
+     "link": "https://www.yna.co.kr/view/AKR20260923072800003"
+    },
+    {
+     "date": "2026-09-23",
+     "source": "연합뉴스·경제",
      "title": "SK증권 \"삼성물산 실적 개선세 지속에 배당 증가도 기대\"",
      "link": "https://www.yna.co.kr/view/AKR20260923027900008"
+    },
+    {
+     "date": "2026-09-23",
+     "source": "뉴시스·경제",
+     "title": "삼성물산, GE·히타치·SGE와 유럽 SMR 개발…BWRX-300 플릿 구축",
+     "link": "https://www.newsis.com/view/NISX20260923_0003801617"
     },
     {
      "date": "2026-09-22",
@@ -10945,6 +11059,18 @@
   "대신증권(003540)": {
    "articles": [
     {
+     "date": "2026-09-23",
+     "source": "파이낸셜·증권",
+     "title": "대신증권, 공모주 청약증거금에도 이자 지급…내달부터 적용",
+     "link": "https://www.fnnews.com/news/202609231504586759"
+    },
+    {
+     "date": "2026-09-23",
+     "source": "연합뉴스·경제",
+     "title": "대신증권, 공모주 청약증거금에 이자 제공",
+     "link": "https://www.yna.co.kr/view/AKR20260923047300008"
+    },
+    {
      "date": "2026-09-22",
      "source": "한국경제·증권",
      "title": "대신증권, 주식 거래시간 확대 맞춰 MTS 개편…애프터마켓 서비스 도입",
@@ -12333,6 +12459,18 @@
   "LG전자(066570)": {
    "articles": [
     {
+     "date": "2026-09-23",
+     "source": "한국경제·경제",
+     "title": "LG전자·SK엔무브, AI센터 냉각기술 개발",
+     "link": "https://www.hankyung.com/article/2026092340271"
+    },
+    {
+     "date": "2026-09-23",
+     "source": "한국경제·경제",
+     "title": "'신혼템'에 2040 감성까지…LG전자, '야심작'에 캐릭터 입혔다",
+     "link": "https://www.hankyung.com/article/202609233665g"
+    },
+    {
      "date": "2026-09-22",
      "source": "한국경제·증권",
      "title": "로봇주 고르기 어렵다면? 현대차·LG전자 묶은 ETF 나온다",
@@ -12820,6 +12958,12 @@
   },
   "유한양행(000100)": {
    "articles": [
+    {
+     "date": "2026-09-23",
+     "source": "연합뉴스·경제",
+     "title": "[바이오스냅] 유한양행, 프로바이오틱스 '엘레나 듀얼' 출시",
+     "link": "https://www.yna.co.kr/view/AKR20260923056200017"
+    },
     {
      "date": "2026-09-08",
      "source": "한국경제·증권",
@@ -15773,6 +15917,12 @@
   "셀트리온(068270)": {
    "articles": [
     {
+     "date": "2026-09-23",
+     "source": "파이낸셜·증권",
+     "title": "셀트리온, 짐펜트라 류마티스 관절염 美 임상 3상 계획 승인 [공시]",
+     "link": "https://www.fnnews.com/news/202609231459331543"
+    },
+    {
      "date": "2026-09-17",
      "source": "파이낸셜·증권",
      "title": "신제품·주주환원 훈풍 탄 셀트리온… 주가는 ‘찬바람’",
@@ -15951,6 +16101,12 @@
   "한화솔루션(009830)": {
    "articles": [
     {
+     "date": "2026-09-23",
+     "source": "한국경제·증권",
+     "title": "OCI홀딩스·한화솔루션 쑥…美 태양광 재편 수혜",
+     "link": "https://www.hankyung.com/article/2026092339761"
+    },
+    {
      "date": "2026-09-21",
      "source": "파이낸셜·증권",
      "title": "한화솔루션, 내년 '판가·AMPC 동반 상승'...실적 개선 탄탄",
@@ -16048,6 +16204,18 @@
   },
   "테슬라(TSLA)": {
    "articles": [
+    {
+     "date": "2026-09-23",
+     "source": "한국경제·경제",
+     "title": "최영석 분과위원장 \"테슬라의 자율주행 과장, 그냥 넘길 수 없었죠\"",
+     "link": "https://www.hankyung.com/article/2026092340471"
+    },
+    {
+     "date": "2026-09-23",
+     "source": "연합인포맥스",
+     "title": "피치, 대규모 투자 앞둔 테슬라에 'BBB' 투자등급 부여",
+     "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4436328"
+    },
     {
      "date": "2026-09-17",
      "source": "연합뉴스·경제",
@@ -17056,6 +17224,12 @@
   },
   "티로보틱스(117730)": {
    "articles": [
+    {
+     "date": "2026-09-23",
+     "source": "파이낸셜·증권",
+     "title": "티로보틱스, 휴머노이드 신사업에 포드에너지 매출 인식까지...성장 본격화",
+     "link": "https://www.fnnews.com/news/202609231011051926"
+    },
     {
      "date": "2026-09-23",
      "source": "아시아경제",
@@ -18708,9 +18882,21 @@
    "articles": [
     {
      "date": "2026-09-23",
+     "source": "파이낸셜·증권",
+     "title": "삼성증권, 첫 발행어음 흥행…연 4.3% 특판 1000억 완판",
+     "link": "https://www.fnnews.com/news/202609231514419301"
+    },
+    {
+     "date": "2026-09-23",
      "source": "연합인포맥스",
      "title": "삼성증권, 'AI 반도체' 딥엑스 투자 추진…상장주관 선점 포석",
      "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4436241"
+    },
+    {
+     "date": "2026-09-23",
+     "source": "연합뉴스·경제",
+     "title": "삼성증권, 연 4.3% 발행어음 특판 이틀 반 만에 완판",
+     "link": "https://www.yna.co.kr/view/AKR20260923143100008"
     },
     {
      "date": "2026-09-22",
@@ -22175,6 +22361,12 @@
     {
      "date": "2026-09-23",
      "source": "연합인포맥스",
+     "title": "황상연 대표, 한미약품 中 채권 직접 챙긴다…&quot;대충할 이유 없다&quot;",
+     "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4436302"
+    },
+    {
+     "date": "2026-09-23",
+     "source": "연합인포맥스",
      "title": "'룬메이캉 채권' 불거진 한미약품…황상연 대표 한달 만에 또 중국행",
      "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4436239"
     },
@@ -23559,6 +23751,12 @@
      "link": "https://www.yna.co.kr/view/AKR20260923027700008"
     },
     {
+     "date": "2026-09-23",
+     "source": "연합뉴스·경제",
+     "title": "[게시판] 키움증권, 다음달 '철권 스타즈컵' e스포츠 대회 개최",
+     "link": "https://www.yna.co.kr/view/AKR20260923058300008"
+    },
+    {
      "date": "2026-09-22",
      "source": "파이낸셜·증권",
      "title": "키움증권, 추석 맞이 금융권 공동 나눔 행사 참여",
@@ -24246,6 +24444,12 @@
   },
   "한화(000880)": {
    "articles": [
+    {
+     "date": "2026-09-23",
+     "source": "한국경제·경제",
+     "title": "[단독] '항공기 심장' 항공엔진 국산화 사업 결국 유찰…한화 단독 참여 유력",
+     "link": "https://www.hankyung.com/article/202609233654i"
+    },
     {
      "date": "2026-09-22",
      "source": "파이낸셜뉴스",
@@ -26331,6 +26535,24 @@
      "link": "https://www.hankyung.com/article/202609232466g"
     },
     {
+     "date": "2026-09-23",
+     "source": "연합뉴스·경제",
+     "title": "쿠팡 '현장조사 불복' 집행정지 기각…공정위 \"과태료 부과\"(종합)",
+     "link": "https://www.yna.co.kr/view/AKR20260923168651004"
+    },
+    {
+     "date": "2026-09-23",
+     "source": "연합뉴스·경제",
+     "title": "온라인 플랫폼 공정거래 분쟁 증가…쿠팡, 7년 연속 최다",
+     "link": "https://www.yna.co.kr/view/AKR20260923097100030"
+    },
+    {
+     "date": "2026-09-23",
+     "source": "뉴시스·경제",
+     "title": "법원 \"공정위 현장조사 효력 멈춰달라\" 쿠팡 집행정지 신청 기각",
+     "link": "https://www.newsis.com/view/NISX20260923_0003802618"
+    },
+    {
      "date": "2026-09-22",
      "source": "한국경제·경제",
      "title": "직장 괴롭힘 신고, 1위도 3위도 '쿠팡 계열사'",
@@ -27211,6 +27433,12 @@
   "브로드컴(AVGO)": {
    "articles": [
     {
+     "date": "2026-09-23",
+     "source": "뉴시스·경제",
+     "title": "\"中, 국유 데이터센터 美 '브로드컴' 사용 조사…AI 인프라 국산화\"",
+     "link": "https://www.newsis.com/view/NISX20260923_0003802325"
+    },
+    {
      "date": "2026-09-15",
      "source": "한국경제·증권",
      "title": "브로드컴 CEO \"AI 속도 조절론에도 매출 목표 변함없어\"",
@@ -27948,6 +28176,12 @@
    "articles": [
     {
      "date": "2026-09-23",
+     "source": "연합뉴스·경제",
+     "title": "식음료업계, 귀성길 운전자 대상 무알코올·안전운전 캠페인",
+     "link": "https://www.yna.co.kr/view/AKR20260923044000030"
+    },
+    {
+     "date": "2026-09-23",
      "source": "아시아경제",
      "title": "PKC, 국민성장펀드 지원 대상 선정",
      "link": "https://view.asiae.co.kr/article/2026092308095257102"
@@ -28659,12 +28893,6 @@
      "source": "뉴시스·경제",
      "title": "'아빠 육아휴직 장려금 효과' 분석, 국가데이터 활용대회 대상",
      "link": "https://www.newsis.com/view/NISX20260831_0003768851"
-    },
-    {
-     "date": "2026-08-31",
-     "source": "아시아경제",
-     "title": "피노, 코스모신소재 대상 150억원 규모 유상증자 결정",
-     "link": "https://view.asiae.co.kr/article/2026083108112803239"
     }
    ]
   },
@@ -29423,6 +29651,12 @@
   "OCI홀딩스(010060)": {
    "articles": [
     {
+     "date": "2026-09-23",
+     "source": "한국경제·증권",
+     "title": "OCI홀딩스·한화솔루션 쑥…美 태양광 재편 수혜",
+     "link": "https://www.hankyung.com/article/2026092339761"
+    },
+    {
      "date": "2026-08-06",
      "source": "아시아경제",
      "title": "[클릭 e종목] OCI홀딩스, '우주향 공급망' 구체화…목표가 40만원",
@@ -29942,6 +30176,12 @@
   },
   "알리바바(BABA)": {
    "articles": [
+    {
+     "date": "2026-09-23",
+     "source": "연합인포맥스",
+     "title": "알리바바, 유럽 데이터센터 3곳 신설…해외 클라우드 공략 가속",
+     "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4436324"
+    },
     {
      "date": "2026-09-22",
      "source": "뉴시스·경제",
@@ -35327,6 +35567,12 @@
   "모건스탠리(MS)": {
    "articles": [
     {
+     "date": "2026-09-23",
+     "source": "연합인포맥스",
+     "title": "모건스탠리 &quot;성장 회복력에 주요 중앙은행 금리 인상 전망 줄상향&quot;",
+     "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4436309"
+    },
+    {
      "date": "2026-09-15",
      "source": "연합인포맥스",
      "title": "모건스탠리, 에코스타 '비중확대' 추천…&quot;스페이스X 지분 할인 효과&quot;",
@@ -35838,6 +36084,12 @@
   },
   "삼성E&A(028050)": {
    "articles": [
+    {
+     "date": "2026-09-23",
+     "source": "한국경제·증권",
+     "title": "두에빌·삼성E&A 판 1% 초고수…대미투자 '픽'은 따로 있다",
+     "link": "https://www.hankyung.com/article/202609233095i"
+    },
     {
      "date": "2026-09-17",
      "source": "한국경제·경제",
@@ -37223,6 +37475,12 @@
   "가비아(079940)": {
    "articles": [
     {
+     "date": "2026-09-23",
+     "source": "한국경제·경제",
+     "title": "가비아 개인정보 유출 2998명 확인…\"추가 피해 조사 중\"",
+     "link": "https://www.hankyung.com/article/202609234116i"
+    },
+    {
      "date": "2026-09-19",
      "source": "아시아경제",
      "title": "맥쿼리 가비아 공개매수 무산…인수 다시 안갯속",
@@ -38095,6 +38353,12 @@
   "웰크론한텍(076080)": {
    "articles": [
     {
+     "date": "2026-09-23",
+     "source": "파이낸셜·증권",
+     "title": "웰크론한텍 中법인, 이차전지 분리막 설비 수주 확대",
+     "link": "https://www.fnnews.com/news/202609231312268817"
+    },
+    {
      "date": "2026-09-16",
      "source": "아시아경제",
      "title": "\"웰크론한텍, PF 리스크 해소와 반도체 수처리로 재평가\"",
@@ -38660,9 +38924,27 @@
    "articles": [
     {
      "date": "2026-09-23",
+     "source": "한국경제·증권",
+     "title": "포스코퓨처엠, SK온에 LFP 양극재 '1.1조 잭팟'…주가 상승세",
+     "link": "https://www.hankyung.com/article/202609233536i"
+    },
+    {
+     "date": "2026-09-23",
      "source": "파이낸셜·증권",
      "title": "포스코퓨처엠, SK온향 LFP 양극재 1조742억 수주...추가 기대 유효",
      "link": "https://www.fnnews.com/news/202609230759382232"
+    },
+    {
+     "date": "2026-09-23",
+     "source": "연합뉴스·경제",
+     "title": "[특징주] 포스코퓨처엠, 대규모 수주에 급등했다 하락 마감(종합)",
+     "link": "https://www.yna.co.kr/view/AKR20260923064051008"
+    },
+    {
+     "date": "2026-09-23",
+     "source": "연합뉴스·경제",
+     "title": "[특징주] 포스코퓨처엠, 1조1천억원대 공급계약에 3%대 급등",
+     "link": "https://www.yna.co.kr/view/AKR20260923064000008"
     },
     {
      "date": "2026-09-23",
@@ -38842,6 +39124,12 @@
   },
   "LG(003550)": {
    "articles": [
+    {
+     "date": "2026-09-23",
+     "source": "한국경제·경제",
+     "title": "\"관세 더 내라\"…인도, 삼성·LG OLED 부품 관세 조사 중 [로이터]",
+     "link": "https://www.hankyung.com/article/202609234426i"
+    },
     {
      "date": "2026-09-22",
      "source": "한국경제·경제",
@@ -39260,6 +39548,12 @@
   },
   "카카오페이증권": {
    "articles": [
+    {
+     "date": "2026-09-23",
+     "source": "연합뉴스·경제",
+     "title": "[게시판] 카카오페이증권, 멜론과 '비트타는 주식 거래' 이벤트",
+     "link": "https://www.yna.co.kr/view/AKR20260923060500008"
+    },
     {
      "date": "2026-09-17",
      "source": "파이낸셜·증권",
@@ -39806,6 +40100,42 @@
   },
   "메리츠증권": {
    "articles": [
+    {
+     "date": "2026-09-23",
+     "source": "한국경제·증권",
+     "title": "메리츠증권, 발행어음 사업 최종 인가 받았다",
+     "link": "https://www.hankyung.com/article/202609234132i"
+    },
+    {
+     "date": "2026-09-23",
+     "source": "한국경제·증권",
+     "title": "메리츠증권, 발행어음 사업 인가…증권사 9곳 경쟁 체제",
+     "link": "https://www.hankyung.com/article/2026092340806"
+    },
+    {
+     "date": "2026-09-23",
+     "source": "파이낸셜·증권",
+     "title": "금융위, 메리츠증권 단기금융업 인가…9번째 발행어음 사업자로",
+     "link": "https://www.fnnews.com/news/202609231453226564"
+    },
+    {
+     "date": "2026-09-23",
+     "source": "연합인포맥스",
+     "title": "메리츠증권, 1년 2개월 만에 발행어음 인가…9번째 사업자 합류",
+     "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4436326"
+    },
+    {
+     "date": "2026-09-23",
+     "source": "연합뉴스·경제",
+     "title": "메리츠증권 '9호 발행어음 사업자' 인가…금융위 정례회의 의결",
+     "link": "https://www.yna.co.kr/view/AKR20260923131800002"
+    },
+    {
+     "date": "2026-09-23",
+     "source": "아시아경제",
+     "title": "금융위, 메리츠증권 '9호 발행어음 사업자' 인가",
+     "link": "https://view.asiae.co.kr/article/2026092319385276856"
+    },
     {
      "date": "2026-09-22",
      "source": "연합뉴스·경제",
@@ -41927,6 +42257,12 @@
   "앤트로픽": {
    "articles": [
     {
+     "date": "2026-09-23",
+     "source": "뉴시스·경제",
+     "title": "오픈AI·앤트로픽 '가성비 경쟁'…최대 반값 저렴한 모델 잇단 출시",
+     "link": "https://www.newsis.com/view/NISX20260923_0003801467"
+    },
+    {
      "date": "2026-09-22",
      "source": "연합인포맥스",
      "title": "[월가 톡톡] 앤트로픽 5억대 연봉의 조건…&quot;개발자도 영업할 줄 알아야&quot;",
@@ -42228,6 +42564,18 @@
   },
   "하나은행": {
    "articles": [
+    {
+     "date": "2026-09-23",
+     "source": "연합뉴스·경제",
+     "title": "[게시판] 하나은행, 나라사랑카드 신규 발급 고객에 버거킹 쿠폰",
+     "link": "https://www.yna.co.kr/view/AKR20260923092300002"
+    },
+    {
+     "date": "2026-09-23",
+     "source": "연합뉴스·경제",
+     "title": "NH농협은행·하나은행, 세종 지역성장펀드에 출자 추진",
+     "link": "https://www.yna.co.kr/view/AKR20260923062600063"
+    },
     {
      "date": "2026-09-22",
      "source": "연합뉴스·경제",
@@ -43799,6 +44147,12 @@
   "에이치케이(044780)": {
    "articles": [
     {
+     "date": "2026-09-23",
+     "source": "아시아경제",
+     "title": "에이치케이, 대만 전시회 성료…\"TSMC 밸류체인 추가 수주 기회 확보\"",
+     "link": "https://view.asiae.co.kr/article/2026092309411246883"
+    },
+    {
      "date": "2026-09-17",
      "source": "아시아경제",
      "title": "에이치케이, 대만 대표 레이저 산업 전시회 참가…TSMC 중심 글로벌 반도체 시장 공략",
@@ -44821,6 +45175,12 @@
   "오픈AI": {
    "articles": [
     {
+     "date": "2026-09-23",
+     "source": "뉴시스·경제",
+     "title": "오픈AI·앤트로픽 '가성비 경쟁'…최대 반값 저렴한 모델 잇단 출시",
+     "link": "https://www.newsis.com/view/NISX20260923_0003801467"
+    },
+    {
      "date": "2026-09-22",
      "source": "한국경제·경제",
      "title": "오픈AI에 올인한 이 회사, 또 15조원 정크본드 발행 추진",
@@ -45379,6 +45739,12 @@
   "스피어(347700)": {
    "articles": [
     {
+     "date": "2026-09-23",
+     "source": "파이낸셜·증권",
+     "title": "스피어, 미국 우주항공 발사업체와 115억원 규모 특수합금 공급계약 [공시]",
+     "link": "https://www.fnnews.com/news/202609231616370536"
+    },
+    {
      "date": "2026-09-15",
      "source": "아시아경제",
      "title": "[클릭 e종목]\"스피어, 우주항공·니켈 사업 본격화…2027년 매출 4000~5000억\"",
@@ -45591,6 +45957,12 @@
   "스타벅스(SBUX)": {
    "articles": [
     {
+     "date": "2026-09-23",
+     "source": "연합뉴스·경제",
+     "title": "[게시판] 스타벅스, 경동시장 상인들과 시장 플로깅",
+     "link": "https://www.yna.co.kr/view/AKR20260923041300030"
+    },
+    {
      "date": "2026-09-22",
      "source": "한국경제·경제",
      "title": "스타벅스, 커피 100만잔 나눈다",
@@ -45668,6 +46040,12 @@
   },
   "포스코(005490)": {
    "articles": [
+    {
+     "date": "2026-09-23",
+     "source": "한국경제·경제",
+     "title": "포스코, 잭니클라우스GC 매각 착수",
+     "link": "https://www.hankyung.com/article/2026092340221"
+    },
     {
      "date": "2026-09-22",
      "source": "파이낸셜뉴스",
@@ -45976,6 +46354,12 @@
     },
     {
      "date": "2026-09-23",
+     "source": "파이낸셜·증권",
+     "title": "기대 밑도는 웨스팅하우스 지분율에...건설·원전주 동반 하락[종목 NOW]",
+     "link": "https://www.fnnews.com/news/202609231018170295"
+    },
+    {
+     "date": "2026-09-23",
      "source": "뉴시스·경제",
      "title": "\"美 웨스팅하우스, 몸값 500억 달러로 IPO 추진…이르면 10월\"",
      "link": "https://www.newsis.com/view/NISX20260922_0003800742"
@@ -45983,5 +46367,5 @@
    ]
   }
  },
- "updatedAt": "2026-09-23T09:13:30+09:00"
+ "updatedAt": "2026-09-23T23:53:04+09:00"
 }

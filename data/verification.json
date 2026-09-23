@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-09-23T09:51:02+09:00",
+ "updatedAt": "2026-09-24T00:17:02+09:00",
  "cases": [
   {
    "name": "AMD(AMD)",
@@ -66638,6 +66638,87 @@
    "theme": "AI반도체설계(팹리스/IP)",
    "status": "pending",
    "checks": []
+  },
+  {
+   "name": "에스넷시스템(038680)",
+   "type": "leading",
+   "market": "韓",
+   "flagDate": "2026-09-23",
+   "signals": [
+    "구체촉발재(110억우선협상대상자)",
+    "반복포착6회"
+   ],
+   "theme": "AI전력/데이터센터",
+   "status": "pending",
+   "checks": [],
+   "convScore": 0,
+   "convTier": "low",
+   "convSignals": [
+    "반복포착",
+    "⚠️열세테마"
+   ],
+   "convStampedAt": "2026-09-24"
+  },
+  {
+   "name": "알파칩스(117670)",
+   "type": "leading",
+   "market": "韓",
+   "flagDate": "2026-09-23",
+   "signals": [
+    "구체촉발재(239억계약)",
+    "신제품로드맵재점화"
+   ],
+   "theme": "AI반도체설계(팹리스/IP)",
+   "status": "pending",
+   "checks": [],
+   "convScore": 9,
+   "convTier": "high",
+   "convSignals": [
+    "반복포착",
+    "승세테마",
+    "구체촉발재",
+    "틈새레이더"
+   ],
+   "convStampedAt": "2026-09-24"
+  },
+  {
+   "name": "씨메스로보틱스(475400)",
+   "type": "warning",
+   "market": "韓",
+   "flagDate": "2026-09-23",
+   "signals": [
+    "이미부상(누적40회)",
+    "후발진입경고"
+   ],
+   "theme": "로봇/휴머노이드",
+   "status": "pending",
+   "checks": []
+  },
+  {
+   "name": "티로보틱스(117730)",
+   "type": "warning",
+   "market": "韓",
+   "flagDate": "2026-09-23",
+   "signals": [
+    "증권사리포트기반이미반영",
+    "후발진입경고"
+   ],
+   "theme": "로봇/휴머노이드",
+   "status": "pending",
+   "checks": []
+  },
+  {
+   "name": "자람테크놀로지(389020)",
+   "type": "warning",
+   "market": "韓",
+   "flagDate": "2026-09-23",
+   "signals": [
+    "공급계약해지악재",
+    "역방향신호"
+   ],
+   "theme": "AI반도체설계(팹리스/IP)",
+   "status": "pending",
+   "checks": []
   }
  ],
  "stats": {
@@ -66647,8 +66728,8 @@
   "miss": 164,
   "hitRate": 24.3,
   "avgD3ChangePct": 0.32,
-  "pending": 94,
-  "total": 481,
+  "pending": 99,
+  "total": 486,
   "byType": {
    "leading": {
     "verified": 163,
