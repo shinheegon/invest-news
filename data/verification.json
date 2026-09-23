@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-09-23T00:09:35+09:00",
+ "updatedAt": "2026-09-23T09:51:02+09:00",
  "cases": [
   {
    "name": "AMD(AMD)",
@@ -66444,6 +66444,200 @@
     "틈새레이더"
    ],
    "convStampedAt": "2026-09-22"
+  },
+  {
+   "name": "해성디에스(195870)",
+   "type": "discovery",
+   "market": "韓",
+   "flagDate": "2026-09-23",
+   "signals": [
+    "1900억원기판증설",
+    "DB증권목표가상향",
+    "4일연속재확인",
+    "주가급등미확인"
+   ],
+   "theme": "AI전력·반도체기판",
+   "status": "pending",
+   "checks": [],
+   "convScore": 4,
+   "convTier": "mid",
+   "convSignals": [
+    "반복포착",
+    "구체촉발재",
+    "⚠️열세테마",
+    "틈새레이더"
+   ],
+   "convStampedAt": "2026-09-23"
+  },
+  {
+   "name": "코오롱글로벌(003070)",
+   "type": "discovery",
+   "market": "韓",
+   "flagDate": "2026-09-23",
+   "signals": [
+    "데이터센터개발4사MOU",
+    "누적수주1.7조",
+    "2일연속재확인",
+    "주가급등미확인"
+   ],
+   "theme": "AI전력/데이터센터",
+   "status": "pending",
+   "checks": [],
+   "convScore": 4,
+   "convTier": "mid",
+   "convSignals": [
+    "반복포착",
+    "구체촉발재",
+    "⚠️열세테마",
+    "틈새레이더"
+   ],
+   "convStampedAt": "2026-09-23"
+  },
+  {
+   "name": "넥사다이내믹스(357550)",
+   "type": "discovery",
+   "market": "韓",
+   "flagDate": "2026-09-23",
+   "signals": [
+    "일본AI서버115만달러계약",
+    "경영진개편후첫해외수주",
+    "6일누적반복",
+    "주가급등미확인"
+   ],
+   "theme": "AI서버/데이터센터 장비",
+   "status": "pending",
+   "checks": [],
+   "convScore": 4,
+   "convTier": "mid",
+   "convSignals": [
+    "반복포착",
+    "구체촉발재",
+    "⚠️열세테마",
+    "틈새레이더"
+   ],
+   "convStampedAt": "2026-09-23"
+  },
+  {
+   "name": "삼아알미늄(006110)",
+   "type": "discovery",
+   "market": "韓",
+   "flagDate": "2026-09-23",
+   "signals": [
+    "AI데이터센터숨은수혜주",
+    "구체재료약함",
+    "주가급등미확인"
+   ],
+   "theme": "AI전력/데이터센터",
+   "status": "pending",
+   "checks": [],
+   "convScore": -3,
+   "convTier": "low",
+   "convSignals": [
+    "⚠️열세테마"
+   ],
+   "convStampedAt": "2026-09-23"
+  },
+  {
+   "name": "DB하이텍(000990)",
+   "type": "leading",
+   "market": "韓",
+   "flagDate": "2026-09-23",
+   "signals": [
+    "파운드리공급망재편반사수혜",
+    "기관뭉칫돈유입",
+    "4일연속재확인",
+    "주가급등미확인"
+   ],
+   "theme": "파운드리 공급망 재편",
+   "status": "pending",
+   "checks": [],
+   "convScore": 5,
+   "convTier": "high",
+   "convSignals": [
+    "반복포착",
+    "구체촉발재"
+   ],
+   "convStampedAt": "2026-09-23"
+  },
+  {
+   "name": "코아시아씨엠(196450)",
+   "type": "leading",
+   "market": "韓",
+   "flagDate": "2026-09-23",
+   "signals": [
+    "내부자매수반복",
+    "자회사임원까지확대",
+    "2일연속확인",
+    "주가급등미확인"
+   ],
+   "theme": "내부자매수·로봇광학",
+   "status": "pending",
+   "checks": [],
+   "convScore": 9,
+   "convTier": "high",
+   "convSignals": [
+    "반복포착",
+    "승세테마",
+    "구체촉발재",
+    "틈새레이더"
+   ],
+   "convStampedAt": "2026-09-23"
+  },
+  {
+   "name": "지엔씨에너지(119850)",
+   "type": "warning",
+   "market": "韓",
+   "flagDate": "2026-09-23",
+   "signals": [
+    "9주째반복",
+    "이미시장에충분히알려짐",
+    "후발진입주의"
+   ],
+   "theme": "AI데이터센터 전력",
+   "status": "pending",
+   "checks": []
+  },
+  {
+   "name": "에이직랜드(445090)",
+   "type": "warning",
+   "market": "韓",
+   "flagDate": "2026-09-23",
+   "signals": [
+    "TSMC포럼공개이후이미부상",
+    "누적22회",
+    "후발진입주의"
+   ],
+   "theme": "AI반도체설계(ASIC)",
+   "status": "pending",
+   "checks": []
+  },
+  {
+   "name": "파두(440110)",
+   "type": "warning",
+   "market": "韓",
+   "flagDate": "2026-09-23",
+   "signals": [
+    "누적47회이미인지",
+    "반복계약재료소진우려",
+    "후발진입주의"
+   ],
+   "theme": "AI반도체설계(팹리스/IP)",
+   "status": "pending",
+   "checks": []
+  },
+  {
+   "name": "세미파이브(490470)",
+   "type": "warning",
+   "market": "韓",
+   "flagDate": "2026-09-23",
+   "signals": [
+    "누적27회이미인지",
+    "4나노양산개시재료소진우려",
+    "후발진입주의"
+   ],
+   "theme": "AI반도체설계(팹리스/IP)",
+   "status": "pending",
+   "checks": []
   }
  ],
  "stats": {
@@ -66453,8 +66647,8 @@
   "miss": 164,
   "hitRate": 24.3,
   "avgD3ChangePct": 0.32,
-  "pending": 84,
-  "total": 471,
+  "pending": 94,
+  "total": 481,
   "byType": {
    "leading": {
     "verified": 163,
