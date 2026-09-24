@@ -3,6 +3,12 @@
   "SK하이닉스(000660)": {
    "articles": [
     {
+     "date": "2026-09-24",
+     "source": "g-enews.com",
+     "title": "- SK하이닉스(000660): 엔비디아 베라 루빈向 48GB 16단 HBM4 대량 출하를 3분기 중 가장 먼저 개시한 신호 포착(공급망 추적 보고서, 공식 발표",
+     "link": "https://www.g-enews.com/article/Global-Biz/2026/09/202609170926131084fbbec65dfb_1"
+    },
+    {
      "date": "2026-09-23",
      "source": "한국경제·증권",
      "title": "\"메타가 불 지폈다\"…삼성전자·SK하이닉스 다시 '들썩'",
@@ -16,15 +22,15 @@
     },
     {
      "date": "2026-09-23",
-     "source": "g-enews.com",
-     "title": "- SK하이닉스(000660): HBM3E 품질검증 이슈를 딛고 공급 정상화, HBM4 선행 출하로 점유율 1위 유지(카운터포인트리서치).",
-     "link": "https://www.g-enews.com/article/Industry/2026/09/20260921135038340727fa31d75c_1"
-    },
-    {
-     "date": "2026-09-23",
      "source": "머니투데이",
      "title": "- SK하이닉스(000660): 메모리 수급 타이트 전망(2028년까지 지속)에 상승세, 시총 1,355조원대.",
      "link": "https://www.mt.co.kr/stock/2026/09/23/2026092309085264312"
+    },
+    {
+     "date": "2026-09-23",
+     "source": "g-enews.com",
+     "title": "- SK하이닉스(000660): HBM3E 품질검증 이슈를 딛고 공급 정상화, HBM4 선행 출하로 점유율 1위 유지(카운터포인트리서치).",
+     "link": "https://www.g-enews.com/article/Industry/2026/09/20260921135038340727fa31d75c_1"
     },
     {
      "date": "2026-09-22",
@@ -715,12 +721,6 @@
      "source": "파이낸셜·증권",
      "title": "SK하이닉스의 자신감…\"잉여현금 50% 이상 주주환원\"",
      "link": "https://www.fnnews.com/news/202608191833420329"
-    },
-    {
-     "date": "2026-08-19",
-     "source": "파이낸셜·증권",
-     "title": "SK하이닉스, 40조 규모 자사주 취득...2407만주 소각 [공시]",
-     "link": "https://www.fnnews.com/news/202608191548455814"
     }
    ]
   },
@@ -782,15 +782,15 @@
     },
     {
      "date": "2026-09-23",
-     "source": "g-enews.com",
-     "title": "- 삼성전자(005930): HBM4용 유리기판 캐리어 조달량을 월 1만 시트→2만 시트로 확대(2027년 5만 시트 목표), 엔비디아 차세대 GPU '베라 루빈",
-     "link": "https://www.g-enews.com/article/Global-Biz/2026/09/202609220549544379fbbec65dfb_1"
-    },
-    {
-     "date": "2026-09-23",
      "source": "머니투데이",
      "title": "- 삼성전자(005930): HBM4(6세대) 판매 확대에 3분기 사상 최대 영업이익 전망, LPDDR6를 퀄컴 차세대 모바일 AP에 업계 최초 검증. 오늘 +2",
      "link": "https://www.mt.co.kr/industry/2026/09/23/2026092313040913732"
+    },
+    {
+     "date": "2026-09-23",
+     "source": "g-enews.com",
+     "title": "- 삼성전자(005930): HBM4용 유리기판 캐리어 조달량을 월 1만 시트→2만 시트로 확대(2027년 5만 시트 목표), 엔비디아 차세대 GPU '베라 루빈",
+     "link": "https://www.g-enews.com/article/Global-Biz/2026/09/202609220549544379fbbec65dfb_1"
     },
     {
      "date": "2026-09-22",
@@ -4765,6 +4765,12 @@
   "엔비디아(NVDA)": {
    "articles": [
     {
+     "date": "2026-09-24",
+     "source": "한국경제·경제",
+     "title": "\"GPU를 원유처럼 거래\"…CME, 엔비디아 H100·B200 선물 출시 임박 [김주완의 글로벌머니 X파일]",
+     "link": "https://www.hankyung.com/article/202609221656i"
+    },
+    {
      "date": "2026-09-23",
      "source": "한국경제·증권",
      "title": "엔비디아·삼전닉스보다 더 뛴 CPU株…메타 '뮤즈'가 깨운 것은 [빈난새의 빈틈없이마켓]",
@@ -5477,12 +5483,6 @@
      "source": "한국경제·경제",
      "title": "삼성 파운드리, 엔비디아 '그록3' 양산 돌입",
      "link": "https://www.hankyung.com/article/2026082520931"
-    },
-    {
-     "date": "2026-08-25",
-     "source": "연합인포맥스",
-     "title": "엔비디아, 그록3 LPX 고객사 확보…삼성 파운드리 기대감↑",
-     "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4431699"
     }
    ]
   },
@@ -7199,6 +7199,12 @@
   "메타(META)": {
    "articles": [
     {
+     "date": "2026-09-24",
+     "source": "한국경제·경제",
+     "title": "메타 '뮤즈AI'가 스테이블코인 키운다 [박신영의 개장전 요것만]",
+     "link": "https://www.hankyung.com/article/202609234485i"
+    },
+    {
      "date": "2026-09-23",
      "source": "한국경제·증권",
      "title": "엔비디아·삼전닉스보다 더 뛴 CPU株…메타 '뮤즈'가 깨운 것은 [빈난새의 빈틈없이마켓]",
@@ -7992,6 +7998,12 @@
   },
   "한미반도체(042700)": {
    "articles": [
+    {
+     "date": "2026-09-24",
+     "source": "아시아경제",
+     "title": "- 한미반도체(042700): SK하이닉스向 HBM4 제조용 TC본더 442억원 수주(6/8 공시, 계약기간 ~9/2)가 여전히 유효한 밸류체인 수혜 구도 — H",
+     "link": "https://view.asiae.co.kr/article/2026060815341158004"
+    },
     {
      "date": "2026-09-23",
      "source": "newspim.com",
@@ -11648,6 +11660,12 @@
   },
   "KT(030200)": {
    "articles": [
+    {
+     "date": "2026-09-24",
+     "source": "연합인포맥스",
+     "title": "&quot;수출만이 아니다&quot;…KT&amp;G, 해외매출 '쑥쑥' 크는 비결은",
+     "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4436363"
+    },
     {
      "date": "2026-09-23",
      "source": "아시아경제",
@@ -30389,6 +30407,12 @@
   "블랙록(BLK)": {
    "articles": [
     {
+     "date": "2026-09-24",
+     "source": "연합인포맥스",
+     "title": "李대통령, 블랙록·핌코에 韓증시 세일즈…&quot;저평가 벗어나고 있다&quot;",
+     "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4436374"
+    },
+    {
      "date": "2026-09-23",
      "source": "연합뉴스·경제",
      "title": "[AI프리즘] \"한국, 아태 AI 수도로\"…블랙록 20조 투자 1년째 '답보'",
@@ -35120,6 +35144,12 @@
   },
   "Anthropic": {
    "articles": [
+    {
+     "date": "2026-09-24",
+     "source": "MarketWatch",
+     "title": "OpenAI and Anthropic’s CEOs just delivered this message to the U.N. as AI fears swirl",
+     "link": "https://www.marketwatch.com/story/the-openai-and-anthropic-ceos-just-delivered-this-message-to-the-u-n-as-ai-fears-swirl-47b0e97b?mod=mw_rss_topstories"
+    },
     {
      "date": "2026-09-17",
      "source": "CNBC·Finance",
@@ -41513,6 +41543,12 @@
   "Micron(MU)": {
    "articles": [
     {
+     "date": "2026-09-24",
+     "source": "MarketWatch",
+     "title": "Micron’s stock has become a ‘battleground’ as the AI narrative shifts",
+     "link": "https://www.marketwatch.com/story/microns-stock-has-become-a-battleground-as-the-ai-narrative-shifts-d61a3408?mod=mw_rss_topstories"
+    },
+    {
      "date": "2026-09-18",
      "source": "MarketWatch",
      "title": "Micron, Intel and other chip stocks are furthering their strong comebacks",
@@ -44411,6 +44447,12 @@
   "IBK투자증권": {
    "articles": [
     {
+     "date": "2026-09-24",
+     "source": "연합뉴스·경제",
+     "title": "[부고] 문찬걸(IBK투자증권 금융소비자보호본부장)씨 모친상",
+     "link": "https://www.yna.co.kr/view/AKR20260924014800008"
+    },
+    {
      "date": "2026-09-22",
      "source": "파이낸셜·증권",
      "title": "3년 연속 농촌 취약계층 의료봉사 나선 IBK투자증권",
@@ -46365,7 +46407,45 @@
      "link": "https://www.newsis.com/view/NISX20260922_0003800742"
     }
    ]
+  },
+  "바이킹테라퓨틱스(VKTX)": {
+   "articles": [
+    {
+     "date": "2026-09-24",
+     "source": "한국경제·증권",
+     "title": "바이킹테라퓨틱스, 비만약 임상 긍정적 결과에 주가 35% 폭등",
+     "link": "https://www.hankyung.com/article/202609233279i"
+    }
+   ]
+  },
+  "와이즈플래닛컴퍼니": {
+   "articles": [
+    {
+     "date": "2026-09-24",
+     "source": "한국경제·증권",
+     "title": "와이즈플래닛컴퍼니, 코스닥 상장 첫날 249% 급등",
+     "link": "https://www.hankyung.com/article/2026092326836"
+    },
+    {
+     "date": "2026-09-24",
+     "source": "파이낸셜·증권",
+     "title": "와이즈플래닛컴퍼니, 상장 첫날 240%대 급등…공모가 3배 웃돌아 [종목NOW]",
+     "link": "https://www.fnnews.com/news/202609230940387745"
+    },
+    {
+     "date": "2026-09-24",
+     "source": "연합뉴스·경제",
+     "title": "[특징주] 와이즈플래닛컴퍼니, 코스닥 상장 첫날 285%↑(종합)",
+     "link": "https://www.yna.co.kr/view/AKR20260923043351008"
+    },
+    {
+     "date": "2026-09-24",
+     "source": "아시아경제",
+     "title": "와이즈플래닛컴퍼니, 내일 코스닥 상장…'주주우대 서비스' 도입",
+     "link": "https://view.asiae.co.kr/article/2026092208291045982"
+    }
+   ]
   }
  },
- "updatedAt": "2026-09-23T23:53:04+09:00"
+ "updatedAt": "2026-09-24T09:21:06+09:00"
 }
