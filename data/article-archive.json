@@ -727,6 +727,12 @@
   "삼성전자(005930)": {
    "articles": [
     {
+     "date": "2026-09-24",
+     "source": "한국경제",
+     "title": "- 삼성전자(005930): HBM 점유율 21%→33%로 확대, \"반도체 성과급 6억 잭팟\" 기대감 보도. 9/23 3%대 급등 마감.",
+     "link": "https://www.hankyung.com/article/2026092449257"
+    },
+    {
      "date": "2026-09-23",
      "source": "한국경제·증권",
      "title": "\"삼성전자, 전망보다 3분기 실적 밑돌 것…파운드리 주목해야\"-키움",
@@ -1439,12 +1445,6 @@
      "source": "아시아경제",
      "title": "삼성전자 '걸림돌' 걷히나…목표주가 '쑥', 배경은 신제품 비중 확대·수율 개선[클릭e종목]",
      "link": "https://view.asiae.co.kr/article/2026083114073110578"
-    },
-    {
-     "date": "2026-09-01",
-     "source": "뉴시스·경제",
-     "title": "주말 낮에 삼성전자·LG전자 스마트가전 돌리면 전기료 '캐시백'",
-     "link": "https://www.newsis.com/view/NISX20260901_0003771421"
     }
    ]
   },
@@ -4771,6 +4771,12 @@
      "link": "https://www.hankyung.com/article/202609221656i"
     },
     {
+     "date": "2026-09-24",
+     "source": "아시아경제",
+     "title": "삼전닉스처럼 돈 쓸어담는 이 회사…\"엔비디아가 바꾼 전력 판도 덕분\"[주末머니]",
+     "link": "https://view.asiae.co.kr/article/2026091714483171674"
+    },
+    {
      "date": "2026-09-23",
      "source": "한국경제·증권",
      "title": "엔비디아·삼전닉스보다 더 뛴 CPU株…메타 '뮤즈'가 깨운 것은 [빈난새의 빈틈없이마켓]",
@@ -5477,12 +5483,6 @@
      "source": "한국경제·증권",
      "title": "\"반도체 반등 트리거 될까\"…대망의 엔비디아 실적발표 '주목 포인트'는",
      "link": "https://www.hankyung.com/article/202608251796i"
-    },
-    {
-     "date": "2026-08-25",
-     "source": "한국경제·경제",
-     "title": "삼성 파운드리, 엔비디아 '그록3' 양산 돌입",
-     "link": "https://www.hankyung.com/article/2026082520931"
     }
    ]
   },
@@ -7205,6 +7205,12 @@
      "link": "https://www.hankyung.com/article/202609234485i"
     },
     {
+     "date": "2026-09-24",
+     "source": "연합인포맥스",
+     "title": "메타, 새 VR 글래스 공개…컴퓨팅 팩 분리로 무거운 고글 탈피",
+     "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4436393"
+    },
+    {
      "date": "2026-09-23",
      "source": "한국경제·증권",
      "title": "엔비디아·삼전닉스보다 더 뛴 CPU株…메타 '뮤즈'가 깨운 것은 [빈난새의 빈틈없이마켓]",
@@ -8005,6 +8011,12 @@
      "link": "https://view.asiae.co.kr/article/2026060815341158004"
     },
     {
+     "date": "2026-09-24",
+     "source": "news.nate.com",
+     "title": "- 한미반도체(042700): HBM4 TC본더 수주 흐름 지속(SK하이닉스向 계약 이어짐), 하반기 수주 가속 전망.",
+     "link": "https://news.nate.com/view/20260608n17852"
+    },
+    {
      "date": "2026-09-23",
      "source": "newspim.com",
      "title": "- 한미반도체(042700): 9/22 AI 반도체용 2.5D 패키징 장비 'FC본더75'를 글로벌 고객사에 첫 출하, 10월 중 미국 현지법인 설립 계획.",
@@ -8390,6 +8402,12 @@
   },
   "마이크론(MU)": {
    "articles": [
+    {
+     "date": "2026-09-24",
+     "source": "파이낸셜·증권",
+     "title": "\"기술주 다시 최고가 가면 청산\" 마이클 버리, 마이크론 공매도 확대",
+     "link": "https://www.fnnews.com/news/202609241439119625"
+    },
     {
      "date": "2026-09-22",
      "source": "연합인포맥스",
@@ -16222,6 +16240,18 @@
   },
   "테슬라(TSLA)": {
    "articles": [
+    {
+     "date": "2026-09-24",
+     "source": "한국경제·경제",
+     "title": "\"카니발 독주에 도전장\"…테슬라까지 뛰어든 3열 패밀리카 전쟁 [맞짱대결]",
+     "link": "https://www.hankyung.com/article/202609220758g"
+    },
+    {
+     "date": "2026-09-24",
+     "source": "한국경제·경제",
+     "title": "\"중국산만 쓰더니 갑자기 왜?\"…테슬라, 韓 공장 찾아다닌 이유",
+     "link": "https://www.hankyung.com/article/202609233829i"
+    },
     {
      "date": "2026-09-23",
      "source": "한국경제·경제",
@@ -26546,6 +26576,12 @@
   },
   "쿠팡(CPNG)": {
    "articles": [
+    {
+     "date": "2026-09-24",
+     "source": "연합인포맥스",
+     "title": "[하반기 공정위는] &quot;쿠팡 동일인 지정자료 위법사항 조사중…엄정 조치&quot;",
+     "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4436408"
+    },
     {
      "date": "2026-09-23",
      "source": "한국경제·경제",
@@ -41613,6 +41649,12 @@
   "소프트뱅크(9984)": {
    "articles": [
     {
+     "date": "2026-09-24",
+     "source": "연합인포맥스",
+     "title": "소프트뱅크, 오픈AI 투자금 조달용 111억 달러 채권 발행 성공",
+     "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4436396"
+    },
+    {
      "date": "2026-09-22",
      "source": "연합인포맥스",
      "title": "소프트뱅크 CDS, 올해 최고치에서 소폭 하락",
@@ -43861,6 +43903,12 @@
   "삼성생명(032830)": {
    "articles": [
     {
+     "date": "2026-09-24",
+     "source": "연합인포맥스",
+     "title": "[보험사 이모저모] 특허권에 진심인 삼성생명·화재",
+     "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4436391"
+    },
+    {
      "date": "2026-08-27",
      "source": "파이낸셜·증권",
      "title": "\"삼성전자 주주환원에 배당재원 확대\" 삼성생명 목표가↑-LS證",
@@ -44042,6 +44090,12 @@
   },
   "우리은행": {
    "articles": [
+    {
+     "date": "2026-09-24",
+     "source": "연합뉴스·경제",
+     "title": "우리은행 영업점 10곳 통폐합…오프라인 채널 효율화",
+     "link": "https://www.yna.co.kr/view/AKR20260923181300002"
+    },
     {
      "date": "2026-09-23",
      "source": "한국경제·경제",
@@ -45216,6 +45270,12 @@
   },
   "오픈AI": {
    "articles": [
+    {
+     "date": "2026-09-24",
+     "source": "연합인포맥스",
+     "title": "소프트뱅크, 오픈AI 투자금 조달용 111억 달러 채권 발행 성공",
+     "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4436396"
+    },
     {
      "date": "2026-09-23",
      "source": "뉴시스·경제",
@@ -46447,5 +46507,5 @@
    ]
   }
  },
- "updatedAt": "2026-09-24T09:21:06+09:00"
+ "updatedAt": "2026-09-24T23:53:56+09:00"
 }

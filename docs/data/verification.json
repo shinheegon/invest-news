@@ -1,6 +1,83 @@
 {
- "updatedAt": "2026-09-24T09:43:29+09:00",
+ "updatedAt": "2026-09-25T00:13:22+09:00",
  "cases": [
+  {
+   "name": "코아시아씨엠(196450)",
+   "type": "leading",
+   "market": "韓",
+   "flagDate": "2026-09-24",
+   "signals": [
+    "내부자자사주매수반복",
+    "3DToF양산개시",
+    "선행점수1위"
+   ],
+   "theme": "로봇/휴머노이드",
+   "status": "pending",
+   "checks": [],
+   "convScore": 9,
+   "convTier": "high",
+   "convSignals": [
+    "반복포착",
+    "승세테마",
+    "구체촉발재",
+    "틈새레이더"
+   ],
+   "convStampedAt": "2026-09-25"
+  },
+  {
+   "name": "기가비스(420770)",
+   "type": "leading",
+   "market": "韓",
+   "flagDate": "2026-09-24",
+   "signals": [
+    "129.5억확정수주",
+    "검사장비소부장온기"
+   ],
+   "theme": "HBM/AI반도체",
+   "status": "pending",
+   "checks": [],
+   "convScore": -1,
+   "convTier": "low",
+   "convSignals": [
+    "구체촉발재",
+    "⚠️열세테마"
+   ],
+   "convStampedAt": "2026-09-25"
+  },
+  {
+   "name": "알파칩스(117670)",
+   "type": "leading",
+   "market": "韓",
+   "flagDate": "2026-09-24",
+   "signals": [
+    "구계약+신제품로드맵재점화",
+    "선행점수3위"
+   ],
+   "theme": "AI반도체설계(팹리스/IP)",
+   "status": "pending",
+   "checks": [],
+   "convScore": 7,
+   "convTier": "high",
+   "convSignals": [
+    "반복포착",
+    "승세테마",
+    "구체촉발재"
+   ],
+   "convStampedAt": "2026-09-25"
+  },
+  {
+   "name": "티로보틱스(117730)",
+   "type": "warning",
+   "market": "韓",
+   "flagDate": "2026-09-24",
+   "signals": [
+    "美포드에너지매출인식",
+    "누적12~20회이미반영"
+   ],
+   "theme": "로봇/휴머노이드",
+   "status": "pending",
+   "checks": []
+  },
   {
    "name": "AMD(AMD)",
    "type": "warning",
@@ -66859,8 +66936,8 @@
   "miss": 164,
   "hitRate": 24.3,
   "avgD3ChangePct": 0.32,
-  "pending": 107,
-  "total": 494,
+  "pending": 111,
+  "total": 498,
   "byType": {
    "leading": {
     "verified": 163,

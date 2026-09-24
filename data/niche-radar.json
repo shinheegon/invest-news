@@ -1,8 +1,8 @@
 {
- "updatedAt": "2026-09-24T09:21:51+09:00",
+ "updatedAt": "2026-09-24T23:55:39+09:00",
  "note": "원본 헤드라인의 반복 언급을 탐지한 조사 후보이며 투자권유가 아니다. 동일 기사 재실행은 한 번만 집계하고, 순수 악재 반복과 모호한 회사명은 제외한다.",
  "window": 30,
- "corpusToday": 617,
+ "corpusToday": 742,
  "trackedCompanies": 643,
  "companies": [
   {
@@ -314,10 +314,10 @@
    ]
   },
   {
-   "code": "071280",
-   "name": "로체시스템즈",
+   "code": "226590",
+   "name": "엠디바이스",
    "market": "KOSDAQ",
-   "cap": 1120,
+   "cap": 1574,
    "total": 17,
    "recent": 2,
    "activeDays": 17,
@@ -342,10 +342,10 @@
    ]
   },
   {
-   "code": "226590",
-   "name": "엠디바이스",
+   "code": "071280",
+   "name": "로체시스템즈",
    "market": "KOSDAQ",
-   "cap": 1574,
+   "cap": 1120,
    "total": 17,
    "recent": 2,
    "activeDays": 17,
