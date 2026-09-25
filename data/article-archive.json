@@ -727,6 +727,12 @@
   "삼성전자(005930)": {
    "articles": [
     {
+     "date": "2026-09-25",
+     "source": "파이낸셜·증권",
+     "title": "\"28만전자 안착\" 삼성전자, 추석 뒤 29만원선 넘을까",
+     "link": "https://www.fnnews.com/news/202609241629506314"
+    },
+    {
      "date": "2026-09-24",
      "source": "한국경제",
      "title": "- 삼성전자(005930): HBM 점유율 21%→33%로 확대, \"반도체 성과급 6억 잭팟\" 기대감 보도. 9/23 3%대 급등 마감.",
@@ -1439,12 +1445,6 @@
      "source": "연합뉴스·경제",
      "title": "[특징주] 삼성전자·SK하이닉스, 장 초반 1%대 약세",
      "link": "https://www.yna.co.kr/view/AKR20260901044000008"
-    },
-    {
-     "date": "2026-09-01",
-     "source": "아시아경제",
-     "title": "삼성전자 '걸림돌' 걷히나…목표주가 '쑥', 배경은 신제품 비중 확대·수율 개선[클릭e종목]",
-     "link": "https://view.asiae.co.kr/article/2026083114073110578"
     }
    ]
   },
@@ -4765,6 +4765,12 @@
   "엔비디아(NVDA)": {
    "articles": [
     {
+     "date": "2026-09-25",
+     "source": "한국경제·경제",
+     "title": "아이온큐,양자오류정정 분야 진전에 엔비디아에 양자컴 공급",
+     "link": "https://www.hankyung.com/article/202609245306i"
+    },
+    {
      "date": "2026-09-24",
      "source": "한국경제·경제",
      "title": "\"GPU를 원유처럼 거래\"…CME, 엔비디아 H100·B200 선물 출시 임박 [김주완의 글로벌머니 X파일]",
@@ -5477,17 +5483,17 @@
      "source": "한국경제·증권",
      "title": "베라 루빈 닻 올린 엔비디아…'마진 75%' 사수가 관건",
      "link": "https://www.hankyung.com/article/2026082522121"
-    },
-    {
-     "date": "2026-08-25",
-     "source": "한국경제·증권",
-     "title": "\"반도체 반등 트리거 될까\"…대망의 엔비디아 실적발표 '주목 포인트'는",
-     "link": "https://www.hankyung.com/article/202608251796i"
     }
    ]
   },
   "인텔(INTC)": {
    "articles": [
+    {
+     "date": "2026-09-25",
+     "source": "한국경제·증권",
+     "title": "손절매 쏟아지는 채권, 10년 금리 5.2%…메타, 인텔 폭등 지속 [김현석의 월스트리트나우]",
+     "link": "https://www.hankyung.com/article/202609255572i"
+    },
     {
      "date": "2026-09-23",
      "source": "한국경제·증권",
@@ -7198,6 +7204,12 @@
   },
   "메타(META)": {
    "articles": [
+    {
+     "date": "2026-09-25",
+     "source": "한국경제·증권",
+     "title": "손절매 쏟아지는 채권, 10년 금리 5.2%…메타, 인텔 폭등 지속 [김현석의 월스트리트나우]",
+     "link": "https://www.hankyung.com/article/202609255572i"
+    },
     {
      "date": "2026-09-24",
      "source": "한국경제·경제",
@@ -31489,6 +31501,12 @@
   "코스맥스(192820)": {
    "articles": [
     {
+     "date": "2026-09-25",
+     "source": "연합뉴스·경제",
+     "title": "코스맥스, 10년간 매출 4.5배·수출 3배…R&D 투자 12배 확대",
+     "link": "https://www.yna.co.kr/view/AKR20260924031700030"
+    },
+    {
      "date": "2026-09-21",
      "source": "파이낸셜·증권",
      "title": "코스맥스, 3분기 영업익 53% 증가 전망…목표가 34만원",
@@ -33169,6 +33187,12 @@
   "코아시아씨엠(196450)": {
    "articles": [
     {
+     "date": "2026-09-25",
+     "source": "한국경제",
+     "title": "- 🌱 조기 출몰(선점 후보 — 최우선): 코아시아씨엠(196450)·소형 [조기단계: 첫등장 D-4·누적 6회·↗] · 로봇/휴머노이드 3D ToF 센싱모듈 ·",
+     "link": "https://www.hankyung.com/article/202609233117i"
+    },
+    {
      "date": "2026-07-23",
      "source": "zdnet.co.kr",
      "title": "- 🟢 선행 포착(오르기 전 기회): 코아시아씨엠(196450) — 신제품 공동개발+실적개선+경영진 매수 신호 동시 켜짐, 아직 로봇 매출 비중 미공시로 시장 반",
@@ -33616,6 +33640,18 @@
   },
   "오라클(ORCL)": {
    "articles": [
+    {
+     "date": "2026-09-25",
+     "source": "한국경제·증권",
+     "title": "오라클 '불가항력' 카드…AI 데이터센터 금융 흔든다",
+     "link": "https://www.hankyung.com/article/202609245338i"
+    },
+    {
+     "date": "2026-09-25",
+     "source": "한국경제·경제",
+     "title": "\"오라클, 뉴멕시코 데이터센터 '불가항력' 선언\" [블룸버그]",
+     "link": "https://www.hankyung.com/article/202609245339i"
+    },
     {
      "date": "2026-09-16",
      "source": "연합인포맥스",
@@ -41579,6 +41615,12 @@
   "Micron(MU)": {
    "articles": [
     {
+     "date": "2026-09-25",
+     "source": "MarketWatch",
+     "title": "3 things Micron investors need to watch as the stakes get higher",
+     "link": "https://www.marketwatch.com/story/3-things-micron-investors-need-to-watch-as-the-stakes-get-higher-e53fde7e?mod=mw_rss_topstories"
+    },
+    {
      "date": "2026-09-24",
      "source": "MarketWatch",
      "title": "Micron’s stock has become a ‘battleground’ as the AI narrative shifts",
@@ -43484,6 +43526,12 @@
   },
   "아이온큐(IONQ)": {
    "articles": [
+    {
+     "date": "2026-09-25",
+     "source": "한국경제·경제",
+     "title": "아이온큐,양자오류정정 분야 진전에 엔비디아에 양자컴 공급",
+     "link": "https://www.hankyung.com/article/202609245306i"
+    },
     {
      "date": "2026-09-21",
      "source": "연합인포맥스",
@@ -46505,7 +46553,17 @@
      "link": "https://view.asiae.co.kr/article/2026092208291045982"
     }
    ]
+  },
+  "지투파워(388050)": {
+   "articles": [
+    {
+     "date": "2026-09-25",
+     "source": "datatooza.com",
+     "title": "- 🌱 지투파워(388050)·소형 · AI전력/데이터센터 액침냉각 ESS · KTL 국제인증 획득 + 오늘 오라클 이슈와 맥락 부합.",
+     "link": "https://www.datatooza.com/article/202608141002303514e80ea65769_80"
+    }
+   ]
   }
  },
- "updatedAt": "2026-09-24T23:53:56+09:00"
+ "updatedAt": "2026-09-25T09:23:47+09:00"
 }
