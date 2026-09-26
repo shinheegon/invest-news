@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-09-25T09:44:26+09:00",
+ "updatedAt": "2026-09-26T23:46:12+09:00",
  "cases": [
   {
    "name": "지투파워(388050)",
@@ -66948,6 +66948,115 @@
    "theme": "AI반도체설계(팹리스/IP)",
    "status": "pending",
    "checks": []
+  },
+  {
+   "name": "PKC(001340)",
+   "type": "leading",
+   "market": "韓",
+   "flagDate": "2026-09-26",
+   "signals": [
+    "국민성장펀드선정",
+    "정책자금증설확정",
+    "구체촉발재"
+   ],
+   "theme": "반도체소재/장비",
+   "status": "pending",
+   "checks": [],
+   "convScore": 1,
+   "convTier": "low",
+   "convSignals": [
+    "구체촉발재",
+    "⚠️열세테마",
+    "틈새레이더"
+   ],
+   "convStampedAt": "2026-09-26"
+  },
+  {
+   "name": "케이앤에스아이앤씨(487400)",
+   "type": "leading",
+   "market": "韓",
+   "flagDate": "2026-09-26",
+   "signals": [
+    "국책과제주관선정",
+    "신규상장저인지도",
+    "구체촉발재"
+   ],
+   "theme": "우주/방산",
+   "status": "pending",
+   "checks": [],
+   "convScore": 4,
+   "convTier": "mid",
+   "convSignals": [
+    "구체촉발재",
+    "틈새레이더"
+   ],
+   "convStampedAt": "2026-09-26"
+  },
+  {
+   "name": "삼양컴텍(484590)",
+   "type": "discovery",
+   "market": "韓",
+   "flagDate": "2026-09-26",
+   "signals": [
+    "우주항공소재센터개소",
+    "신규사업진출"
+   ],
+   "theme": "우주/방산",
+   "status": "pending",
+   "checks": [],
+   "convScore": 2,
+   "convTier": "low",
+   "convSignals": [
+    "틈새레이더"
+   ],
+   "convStampedAt": "2026-09-26"
+  },
+  {
+   "name": "알에프텍(061040)",
+   "type": "discovery",
+   "market": "韓",
+   "flagDate": "2026-09-26",
+   "signals": [
+    "대드론시제품10월납품",
+    "방산확장"
+   ],
+   "theme": "우주/방산",
+   "status": "pending",
+   "checks": [],
+   "convScore": 7,
+   "convTier": "high",
+   "convSignals": [
+    "반복포착",
+    "구체촉발재",
+    "틈새레이더"
+   ],
+   "convStampedAt": "2026-09-26"
+  },
+  {
+   "name": "한화에어로스페이스(012450)",
+   "type": "warning",
+   "market": "韓",
+   "flagDate": "2026-09-26",
+   "signals": [
+    "유가급등헤드라인반영",
+    "방산이미반영"
+   ],
+   "theme": "방산",
+   "status": "pending",
+   "checks": []
+  },
+  {
+   "name": "한화오션(042660)",
+   "type": "warning",
+   "market": "韓",
+   "flagDate": "2026-09-26",
+   "signals": [
+    "유가급등헤드라인반영",
+    "방산이미반영"
+   ],
+   "theme": "방산",
+   "status": "pending",
+   "checks": []
   }
  ],
  "stats": {
@@ -66957,8 +67066,8 @@
   "miss": 164,
   "hitRate": 24.3,
   "avgD3ChangePct": 0.32,
-  "pending": 112,
-  "total": 499,
+  "pending": 118,
+  "total": 505,
   "byType": {
    "leading": {
     "verified": 163,

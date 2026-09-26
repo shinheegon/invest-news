@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-09-25T09:44:26+09:00",
+ "updatedAt": "2026-09-26T23:46:12+09:00",
  "note": "빗나감 자동 원인분류 + 자기발전 필터. 투자권유 아님.",
  "summary": {
   "resolved": 263,
@@ -206,26 +206,15 @@
   ]
  },
  "macro": {
-  "regime": "위험회피",
-  "kospi5d": 2.71,
-  "kosdaq5d": 2.1,
-  "fearGreed": 35.0,
+  "regime": "중립",
+  "kospi5d": 2.05,
+  "kosdaq5d": 1.66,
+  "fearGreed": 36.0,
   "vix": 14.87,
-  "guidance": "소형주 언더퍼폼 국면 — 포착 수를 줄이고 승세테마×구체촉발재만 최고확신으로. 열세테마·약신호 전면 배제.",
-  "asOf": "2026-09-25"
+  "guidance": "선별 유지 — 승세테마+구체촉발재 우선, 약신호·열세테마 경계.",
+  "asOf": "2026-09-26"
  },
  "history": [
-  {
-   "date": "2026-07-26",
-   "resolved": 136,
-   "missRate": 52.2,
-   "causeShares": {
-    "weak_signal": 53.5,
-    "idiosyncratic": 25.4,
-    "macro_riskoff": 18.3,
-    "theme_headwind": 2.8
-   }
-  },
   {
    "date": "2026-07-27",
    "resolved": 136,
@@ -884,7 +873,19 @@
     "theme_headwind": 2.2,
     "late_entry": 1.5
    }
+  },
+  {
+   "date": "2026-09-26",
+   "resolved": 263,
+   "missRate": 51.7,
+   "causeShares": {
+    "weak_signal": 45.6,
+    "idiosyncratic": 39.7,
+    "macro_riskoff": 11.0,
+    "theme_headwind": 2.2,
+    "late_entry": 1.5
+   }
   }
  ],
- "develop": "직전(2026-09-24) 대비 빗나감률 51.7%→51.7% (+0.0p). 최다 원인=‘신호 약함(구체 촉발재 없음)’. 필터에 반영됨."
+ "develop": "직전(2026-09-25) 대비 빗나감률 51.7%→51.7% (+0.0p). 최다 원인=‘신호 약함(구체 촉발재 없음)’. 필터에 반영됨."
 }
