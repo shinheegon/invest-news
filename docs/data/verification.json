@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-09-28T09:47:09+09:00",
+ "updatedAt": "2026-09-29T03:33:28+09:00",
  "cases": [
   {
    "name": "지투파워(388050)",
@@ -67146,6 +67146,91 @@
    "theme": "로봇/휴머노이드",
    "status": "pending",
    "checks": []
+  },
+  {
+   "name": "티엑스알로보틱스(484810)",
+   "type": "leading",
+   "market": "韓",
+   "flagDate": "2026-09-29",
+   "signals": [
+    "반복수주200억+",
+    "GS칼텍스신규공급9/28",
+    "저노출5회"
+   ],
+   "theme": "로봇/휴머노이드",
+   "status": "pending",
+   "checks": [],
+   "convScore": 9,
+   "convTier": "high",
+   "convSignals": [
+    "반복포착",
+    "승세테마",
+    "구체촉발재",
+    "틈새레이더"
+   ],
+   "convStampedAt": "2026-09-29"
+  },
+  {
+   "name": "에이직랜드(445090)",
+   "type": "discovery",
+   "market": "韓",
+   "flagDate": "2026-09-29",
+   "signals": [
+    "SK하이닉스상업계약318억+254억",
+    "매출273%증가"
+   ],
+   "theme": "AI반도체설계(팹리스/IP)",
+   "status": "pending",
+   "checks": [],
+   "convScore": 9,
+   "convTier": "high",
+   "convSignals": [
+    "반복포착",
+    "승세테마",
+    "구체촉발재",
+    "틈새레이더"
+   ],
+   "convStampedAt": "2026-09-29"
+  },
+  {
+   "name": "삼현(437730)",
+   "type": "discovery",
+   "market": "韓",
+   "flagDate": "2026-09-29",
+   "signals": [
+    "북미초도양산확정",
+    "2027매출가이던스250억"
+   ],
+   "theme": "로봇/휴머노이드",
+   "status": "pending",
+   "checks": [],
+   "convScore": 7,
+   "convTier": "high",
+   "convSignals": [
+    "반복포착",
+    "승세테마",
+    "구체촉발재"
+   ],
+   "convStampedAt": "2026-09-29"
+  },
+  {
+   "name": "한중엔시에스(107640)",
+   "type": "discovery",
+   "market": "韓",
+   "flagDate": "2026-09-29",
+   "signals": [
+    "ESS냉각→데이터센터확장",
+    "Barclays탑픽"
+   ],
+   "theme": "AI전력/데이터센터",
+   "status": "pending",
+   "checks": [],
+   "convScore": -3,
+   "convTier": "low",
+   "convSignals": [
+    "⚠️열세테마"
+   ],
+   "convStampedAt": "2026-09-29"
   }
  ],
  "stats": {
@@ -67155,8 +67240,8 @@
   "miss": 164,
   "hitRate": 24.3,
   "avgD3ChangePct": 0.32,
-  "pending": 123,
-  "total": 510,
+  "pending": 127,
+  "total": 514,
   "byType": {
    "leading": {
     "verified": 163,
