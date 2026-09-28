@@ -1,26 +1,26 @@
 {
-  "updatedAt": "2026-09-28T07:10:00+09:00",
+  "updatedAt": "2026-09-28T09:40:00+09:00",
   "session": "AM",
-  "note": "AM 갱신 — 코스피·코스닥은 추석연휴+주말 겹쳐 9/24(목)~9/27(일)까지 휴장, 오늘 9/28(월) 09:00 재개장 예정(표시값은 마지막 거래일 9/23 확정치). 美 지표는 9/25(현지 금요일) 마감 기준 최신 — 26~27일은 주말이라 신규 거래 없음. 8월 PCE(9/26 발표)가 새로 반영됨.",
-  "stock_fng": { "value": 37, "label": "Fear", "source": "https://www.cnn.com/markets/fear-and-greed" },
+  "note": "AM 재갱신 — 코스피·코스닥이 추석연휴+주말(9/24~9/27) 후 09:00 재개장, 개장 직후(09:02 기준) 실제 가격 반영. 美 지표는 9/25(금) 마감 기준(주말 휴장) + 미중 정상회담 세부합의(9/28 발표) 신규 반영.",
+  "stock_fng": { "value": 28, "label": "Fear", "source": "https://fearandgreedgraph.com/" },
   "indices": [
-    { "name": "코스피", "value": "7,080.92", "change": "휴장(추석+주말, 9/28 09:00 재개장) · 마지막거래일 9/23 +0.90%", "source": "https://view.asiae.co.kr/article/2026092315343871933" },
-    { "name": "코스닥", "value": "844.48", "change": "휴장(추석+주말, 9/28 09:00 재개장) · 마지막거래일 9/23 +1.21%", "source": "https://view.asiae.co.kr/article/2026092315345684193" },
+    { "name": "코스피", "value": "7,057.86", "change": "-0.33% · 09:00 개장가(연휴 후 첫 거래)", "source": "https://www.hankyung.com/article/2026092884126" },
+    { "name": "코스닥", "value": "845.48", "change": "+0.12% · 09:00 개장가", "source": "https://www.fnnews.com/news/202609280856560413" },
     { "name": "다우", "value": "51,828.59", "change": "+0.93% · 9/25(금) 마감, 국채금리 급등에도 상승", "source": "https://www.newsis.com/view/NISX20260926_0003803609" },
     { "name": "S&P 500", "value": "+0.54%", "change": "9/25(금) 마감 · 국채금리 급등에도 상승", "source": "https://www.newsis.com/view/NISX20260926_0003803609" },
     { "name": "나스닥", "value": "+0.45%", "change": "9/25(금) 마감 · 반도체 강세(필라델피아반도체지수 +1.13%)", "source": "https://www.newsis.com/view/NISX20260926_0003803609" },
-    { "name": "VIX", "value": "14.87", "change": "안정권 유지 — 9/25 마감 기준, 금리발 변동성 확산은 아직 제한적", "source": "https://www.hankyung.com/article/202609244555i" },
+    { "name": "VIX", "value": "14.87", "change": "안정권 유지 — 9/25 마감 기준", "source": "https://www.hankyung.com/article/202609244555i" },
     { "name": "美 10년물", "value": "5.20%", "change": "2007년 7월來 최고권 유지(9/25 기준), 10월 FOMC 추가 인상 확률 70.9%까지 반영", "source": "https://www.fnnews.com/news/202609240311076771" },
     { "name": "美 30년물", "value": "5.44%", "change": "22년만(2004년래) 최고권 근접 유지", "source": "https://news.einfomax.co.kr/news/articleView.html?idxno=4436517" },
     { "name": "국고채 3년물", "value": "4.006%", "change": "9/23 마감치, 연휴로 국내 반영 지연", "source": "https://www.yna.co.kr/view/AKR20260923163051008" },
     { "name": "달러인덱스(DXY)", "value": "101.1", "change": "0 · 주말 간 큰 변화 없이 보합권 유지", "source": "https://news.einfomax.co.kr/news/articleView.html?idxno=4436518" },
-    { "name": "원/달러", "value": "1,366.5", "change": "0 · 1,360원대 후반 박스권 유지, 9/28 재개장시 반영 변수", "source": "https://news.einfomax.co.kr/news/articleView.html?idxno=4436456" },
+    { "name": "원/달러", "value": "1,357.0", "change": "-0.5원 · 9/28 개장가(전일 종가 대비 소폭 하락)", "source": "https://news.einfomax.co.kr/news/articleView.html?idxno=4436618" },
     { "name": "美 기준금리", "value": "3.75~4.00%", "change": "0 · 9/16 FOMC +25bp(케빈 워시 의장 체제) 이후 유지, 10/27~28 FOMC서 추가 인상 가능성↑", "source": "https://www.cnbc.com/2026/09/24/surging-treasury-yields-are-posing-a-brand-new-problem-for-kevin-warsh-and-the-fed.html" },
     { "name": "한국 기준금리", "value": "3.00%", "change": "0 · 8/27 2회 연속 인상(신현송 총재 체제) 이후 유지, 10/22 다음 회의", "source": "https://www.bok.or.kr/portal/singl/baseRate/list.do?dataSeCd=01&menuNo=200643" },
     { "name": "美 CPI", "value": "3.4%", "change": "8월 YoY, 전월과 동일", "source": "https://www.hankyung.com/article/202609244494i" },
     { "name": "美 근원PCE", "value": "2.9%", "change": "8월 YoY(9/26 발표), 전월비 +0.2% — 연준 목표(2%) 상회 지속", "source": "https://edaily.co.kr/News/Read?mediaCodeNo=257&newsId=04083606642304056" },
     { "name": "韓 CPI", "value": "3.1%", "change": "8월 YoY, 전월(2.8%) 대비 확대", "source": "https://www.bok.or.kr/portal/main/main.do" },
-    { "name": "금(Gold)", "value": "4,268", "change": "-2.8% · 美 국채금리 급등·강달러에 눌린 약세권 유지(9/26 기준)", "source": "https://news.einfomax.co.kr/news/articleView.html?idxno=4436438" },
-    { "name": "국제유가(WTI)", "value": "92.41", "change": "-2.33% · 호르무즈 재개방 기대(이란 '7일 휴전안' 제시)에 반락, 단 트럼프는 해당안 거부", "source": "https://www.etoday.co.kr/news/view/2629398" }
+    { "name": "금(Gold)", "value": "4,268", "change": "-2.8% · 美 국채금리 급등·강달러에 눌린 약세권 유지(9/26 기준, 9/28 신규 고시가 미확인)", "source": "https://news.einfomax.co.kr/news/articleView.html?idxno=4436438" },
+    { "name": "국제유가(WTI)", "value": "92.41", "change": "-2.33% · 호르무즈 재개방 기대에 반락(9/25), 이후 방향 엇갈린 보도 혼재해 9/28 신규가는 불확실", "source": "https://www.etoday.co.kr/news/view/2629398" }
   ]
 }
