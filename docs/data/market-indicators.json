@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-09-29T09:00:00+09:00",
+  "updatedAt": "2026-09-29T10:57:00+09:00",
   "session": "AM",
-  "note": "AM 재갱신 — 9/28(월) 코스피·코스닥 실제 마감가 반영(전회차는 09:00 개장가였음, 장중 급락으로 마감이 크게 달라짐). 美 지표는 9/28(월) 마감 기준.",
+  "note": "AM 재갱신(10:57) — 9/28(월) 코스피·코스닥 마감가 기준 유지, 9/29 오전장은 6,844~6,860선(전일比 -0.4~0.7%) 약세 흐름 지속 확인. 美 지표는 9/28(월) 마감 기준.",
   "stock_fng": { "value": 34, "label": "Fear", "source": "https://www.cnn.com/markets/fear-and-greed" },
   "indices": [
     { "name": "코스피", "value": "6,889.74", "change": "-2.70% · 9/28 마감(개장가 7,057.86 대비 장중 급락 반전)", "source": "https://www.businesskorea.co.kr/news/articleView.html?idxno=277756" },
@@ -20,6 +20,6 @@
     { "name": "美 근원PCE", "value": "2.9%", "change": "8월 YoY(9/26 발표), 전월비 +0.2% — 연준 목표(2%) 상회 지속", "source": "https://edaily.co.kr/News/Read?mediaCodeNo=257&newsId=04083606642304056" },
     { "name": "韓 CPI", "value": "3.1%", "change": "8월 YoY, 횡보", "source": "https://ko.tradingeconomics.com/south-korea/inflation-cpi/news/467164" },
     { "name": "금(Gold)", "value": "4,148.69", "change": "-3.19% · 유가 급등·긴축 기대에 7주來 최저권", "source": "https://www.cnbc.com/select/the-price-of-gold-today-sept-28-2026/" },
-    { "name": "국제유가(WTI)", "value": "94.14", "change": "+1.87% · 이란 호르무즈 제안 트럼프 거부, 지정학 리스크 지속", "source": "https://www.cnbc.com/2026/09/28/oil-price-today-wti-brent-trump-iran.html" }
+    { "name": "국제유가(WTI)", "value": "95.5", "change": "+1.9%대 · 이란 호르무즈 제안 트럼프 거부, 지정학 리스크 지속", "source": "https://www.cnbc.com/2026/09/28/oil-price-today-wti-brent-trump-iran.html" }
   ]
 }
