@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-09-30T10:46:12+09:00",
+ "updatedAt": "2026-10-01T01:50:45+09:00",
  "cases": [
   {
    "name": "지투파워(388050)",
@@ -67301,6 +67301,84 @@
    "theme": "철강/강관",
    "status": "pending",
    "checks": []
+  },
+  {
+   "name": "에스비비테크(389260)",
+   "type": "leading",
+   "market": "韓",
+   "flagDate": "2026-10-01",
+   "signals": [
+    "감속기반복수주",
+    "매출+115.8%",
+    "정부국산화예산5배확대수혜",
+    "완전신규저노출"
+   ],
+   "theme": "로봇/휴머노이드",
+   "status": "pending",
+   "checks": [],
+   "convScore": 7,
+   "convTier": "high",
+   "convSignals": [
+    "반복포착",
+    "승세테마",
+    "구체촉발재"
+   ],
+   "convStampedAt": "2026-10-01"
+  },
+  {
+   "name": "에스비비테크(389260)",
+   "type": "discovery",
+   "market": "韓",
+   "flagDate": "2026-10-01",
+   "signals": [
+    "감속기반복수주",
+    "매출+115.8%"
+   ],
+   "theme": "로봇/휴머노이드",
+   "status": "pending",
+   "checks": [],
+   "convScore": 7,
+   "convTier": "high",
+   "convSignals": [
+    "반복포착",
+    "승세테마",
+    "구체촉발재"
+   ],
+   "convStampedAt": "2026-10-01"
+  },
+  {
+   "name": "현대무벡스(319400)",
+   "type": "discovery",
+   "market": "韓",
+   "flagDate": "2026-10-01",
+   "signals": [
+    "금호타이어720억원물류자동화·로봇공급수주",
+    "구체촉발재"
+   ],
+   "theme": "로봇/휴머노이드",
+   "status": "pending",
+   "checks": [],
+   "convScore": 4,
+   "convTier": "mid",
+   "convSignals": [
+    "승세테마",
+    "구체촉발재"
+   ],
+   "convStampedAt": "2026-10-01"
+  },
+  {
+   "name": "하이록코리아(013030)",
+   "type": "warning",
+   "market": "韓",
+   "flagDate": "2026-10-01",
+   "signals": [
+    "트럼프대미투자200억달러공식발표",
+    "임박설단계선반영급등",
+    "재료소멸셀온위험"
+   ],
+   "theme": "철강/강관",
+   "status": "pending",
+   "checks": []
   }
  ],
  "stats": {
@@ -67310,8 +67388,8 @@
   "miss": 164,
   "hitRate": 24.3,
   "avgD3ChangePct": 0.32,
-  "pending": 131,
-  "total": 518,
+  "pending": 135,
+  "total": 522,
   "byType": {
    "leading": {
     "verified": 163,
