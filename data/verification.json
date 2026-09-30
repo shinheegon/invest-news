@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-09-29T11:06:06+09:00",
+ "updatedAt": "2026-09-30T10:46:12+09:00",
  "cases": [
   {
    "name": "지투파워(388050)",
@@ -67231,6 +67231,76 @@
     "⚠️열세테마"
    ],
    "convStampedAt": "2026-09-29"
+  },
+  {
+   "name": "알체라(347860)",
+   "type": "leading",
+   "market": "韓",
+   "flagDate": "2026-09-30",
+   "signals": [
+    "LG전자컨소시엄참여확정",
+    "완전신규저노출"
+   ],
+   "theme": "로봇/휴머노이드",
+   "status": "pending",
+   "checks": [],
+   "convScore": 2,
+   "convTier": "low",
+   "convSignals": [
+    "승세테마"
+   ],
+   "convStampedAt": "2026-09-30"
+  },
+  {
+   "name": "알체라(347860)",
+   "type": "discovery",
+   "market": "韓",
+   "flagDate": "2026-09-30",
+   "signals": [
+    "LG전자컨소시엄참여확정"
+   ],
+   "theme": "로봇/휴머노이드",
+   "status": "pending",
+   "checks": [],
+   "convScore": 2,
+   "convTier": "low",
+   "convSignals": [
+    "승세테마"
+   ],
+   "convStampedAt": "2026-09-30"
+  },
+  {
+   "name": "한울소재과학(091440)",
+   "type": "discovery",
+   "market": "韓",
+   "flagDate": "2026-09-30",
+   "signals": [
+    "TCL공급망2년검증통과",
+    "中생산검토"
+   ],
+   "theme": "반도체소재/장비",
+   "status": "pending",
+   "checks": [],
+   "convScore": -1,
+   "convTier": "low",
+   "convSignals": [
+    "구체촉발재",
+    "⚠️열세테마"
+   ],
+   "convStampedAt": "2026-09-30"
+  },
+  {
+   "name": "KBI동양철관(008970)",
+   "type": "warning",
+   "market": "韓",
+   "flagDate": "2026-09-30",
+   "signals": [
+    "트럼프알래스카LNG투자설급등",
+    "공식발표전선반영"
+   ],
+   "theme": "철강/강관",
+   "status": "pending",
+   "checks": []
   }
  ],
  "stats": {
@@ -67240,8 +67310,8 @@
   "miss": 164,
   "hitRate": 24.3,
   "avgD3ChangePct": 0.32,
-  "pending": 127,
-  "total": 514,
+  "pending": 131,
+  "total": 518,
   "byType": {
    "leading": {
     "verified": 163,

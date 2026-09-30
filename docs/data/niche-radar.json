@@ -1,9 +1,9 @@
 {
- "updatedAt": "2026-09-29T10:44:32+09:00",
+ "updatedAt": "2026-09-30T10:12:39+09:00",
  "note": "원본 헤드라인의 반복 언급을 탐지한 조사 후보이며 투자권유가 아니다. 동일 기사 재실행은 한 번만 집계하고, 순수 악재 반복과 모호한 회사명은 제외한다.",
  "window": 30,
- "corpusToday": 917,
- "trackedCompanies": 616,
+ "corpusToday": 579,
+ "trackedCompanies": 619,
  "companies": [
   {
    "code": "094360",
@@ -58,6 +58,34 @@
     {
      "date": "2026-09-24",
      "title": "[수익 내비게이터] 국책과제 정부출연금 증가 추세…AI 반도체 기술력 입증 '에이직랜드' VS 글로벌 시장 프리미엄 가전 브랜드로 경쟁력 강화 'LG전자'"
+    }
+   ]
+  },
+  {
+   "code": "117730",
+   "name": "티로보틱스",
+   "market": "KOSDAQ",
+   "cap": 3205,
+   "total": 18,
+   "recent": 4,
+   "activeDays": 12,
+   "firstSeen": "2026-09-01",
+   "lastSeen": "2026-09-30",
+   "score": 34.7,
+   "riskMentions": 0,
+   "catalystMentions": 0,
+   "samples": [
+    {
+     "date": "2026-09-30",
+     "title": "티로보틱스, AI 휴머노이드 제조현장 실증 추진...45억원 국책과제 주관"
+    },
+    {
+     "date": "2026-09-30",
+     "title": "티로보틱스, AI 휴머노이드 대기업 제조라인서 실증…45억원 국책과제 주관"
+    },
+    {
+     "date": "2026-09-29",
+     "title": "티로보틱스, AI 휴머노이드 제조현장 실증 추진...45억원 국책과제 주관"
     }
    ]
   },
@@ -314,10 +342,10 @@
    ]
   },
   {
-   "code": "071280",
-   "name": "로체시스템즈",
+   "code": "226590",
+   "name": "엠디바이스",
    "market": "KOSDAQ",
-   "cap": 1202,
+   "cap": 1487,
    "total": 15,
    "recent": 2,
    "activeDays": 15,
@@ -342,10 +370,10 @@
    ]
   },
   {
-   "code": "226590",
-   "name": "엠디바이스",
+   "code": "071280",
+   "name": "로체시스템즈",
    "market": "KOSDAQ",
-   "cap": 1487,
+   "cap": 1202,
    "total": 15,
    "recent": 2,
    "activeDays": 15,
@@ -482,30 +510,58 @@
    ]
   },
   {
-   "code": "117730",
-   "name": "티로보틱스",
+   "code": "046210",
+   "name": "HLB파나진",
    "market": "KOSDAQ",
-   "cap": 3205,
-   "total": 16,
-   "recent": 2,
-   "activeDays": 11,
-   "firstSeen": "2026-09-01",
-   "lastSeen": "2026-09-29",
-   "score": 23.9,
+   "cap": 652,
+   "total": 8,
+   "recent": 3,
+   "activeDays": 7,
+   "firstSeen": "2026-09-04",
+   "lastSeen": "2026-09-30",
+   "score": 24.7,
    "riskMentions": 0,
    "catalystMentions": 0,
    "samples": [
     {
-     "date": "2026-09-29",
-     "title": "티로보틱스, AI 휴머노이드 제조현장 실증 추진...45억원 국책과제 주관"
+     "date": "2026-09-30",
+     "title": "HLB파나진, 글로벌 학회서 인공 핵산 연구 성과 공개"
+    },
+    {
+     "date": "2026-09-30",
+     "title": "HLB파나진, 'OTS 2026'서 PNA 화학적 변형 연구 성과 발표"
     },
     {
      "date": "2026-09-29",
-     "title": "티로보틱스, AI 휴머노이드 대기업 제조라인서 실증…45억원 국책과제 주관"
+     "title": "HLB파나진, 글로벌 학회서 인공 핵산 연구 성과 공개"
+    }
+   ]
+  },
+  {
+   "code": "0007C0",
+   "name": "아크릴",
+   "market": "KOSDAQ",
+   "cap": 1565,
+   "total": 9,
+   "recent": 2,
+   "activeDays": 9,
+   "firstSeen": "2026-09-01",
+   "lastSeen": "2026-09-30",
+   "score": 23.3,
+   "riskMentions": 0,
+   "catalystMentions": 0,
+   "samples": [
+    {
+     "date": "2026-09-30",
+     "title": "아크릴, AI 추론 제어기술 논문 국제 학회 메인 컨퍼런스 채택"
     },
     {
-     "date": "2026-09-26",
-     "title": "[클릭 e종목]\"티로보틱스, 진공로봇·ESS·휴머노이드 '삼각편대'…2027년 이익 성장 본격화\""
+     "date": "2026-09-29",
+     "title": "아크릴, AI 추론 제어기술 논문 국제 학회 메인 컨퍼런스 채택"
+    },
+    {
+     "date": "2026-09-08",
+     "title": "아크릴, 국가 의료 AI 연구개발 사업 잇단 수주"
     }
    ]
   },
@@ -566,6 +622,118 @@
    ]
   },
   {
+   "code": "053950",
+   "name": "경남제약",
+   "market": "KOSDAQ",
+   "cap": 408,
+   "total": 6,
+   "recent": 2,
+   "activeDays": 6,
+   "firstSeen": "2026-09-01",
+   "lastSeen": "2026-09-30",
+   "score": 18.8,
+   "riskMentions": 0,
+   "catalystMentions": 2,
+   "samples": [
+    {
+     "date": "2026-09-30",
+     "title": "경남제약, 환절기 호흡기약 라인업 확대…진해거담제 '가렌쿨' 출시"
+    },
+    {
+     "date": "2026-09-29",
+     "title": "경남제약, 환절기 호흡기약 라인업 확대…진해거담제 '가렌쿨' 출시"
+    },
+    {
+     "date": "2026-09-23",
+     "title": "경남제약, 구내염부터 비타민B6 보강까지…'나이칸정' 출시"
+    }
+   ]
+  },
+  {
+   "code": "065500",
+   "name": "오리엔트정공",
+   "market": "KOSDAQ",
+   "cap": 372,
+   "total": 5,
+   "recent": 2,
+   "activeDays": 5,
+   "firstSeen": "2026-09-01",
+   "lastSeen": "2026-09-30",
+   "score": 17.3,
+   "riskMentions": 0,
+   "catalystMentions": 0,
+   "samples": [
+    {
+     "date": "2026-09-30",
+     "title": "오리엔트정공, 2대1 액면병합 결정…기업가치 제고"
+    },
+    {
+     "date": "2026-09-29",
+     "title": "오리엔트정공, 디퍼런셜 독자 설계 역량으로 글로벌 시장 진출"
+    },
+    {
+     "date": "2026-09-15",
+     "title": "오리엔트정공, 코트라 해외지사화사업 독일·인도 선정"
+    }
+   ]
+  },
+  {
+   "code": "0233N0",
+   "name": "RISE 글로벌AI낸드메모리반도체",
+   "market": "KOSPI",
+   "cap": 163,
+   "total": 4,
+   "recent": 2,
+   "activeDays": 4,
+   "firstSeen": "2026-09-01",
+   "lastSeen": "2026-09-30",
+   "score": 15.8,
+   "riskMentions": 0,
+   "catalystMentions": 0,
+   "samples": [
+    {
+     "date": "2026-09-30",
+     "title": "한달 수익률 13%…KB운용 'RISE 글로벌AI낸드메모리반도체' 주목"
+    },
+    {
+     "date": "2026-09-29",
+     "title": "한달 수익률 13%…KB운용 'RISE 글로벌AI낸드메모리반도체' 주목"
+    },
+    {
+     "date": "2026-09-02",
+     "title": "KB자산운용 'RISE 글로벌AI낸드메모리반도체 ETF' 출시"
+    }
+   ]
+  },
+  {
+   "code": "161580",
+   "name": "필옵틱스",
+   "market": "KOSDAQ",
+   "cap": 7959,
+   "total": 4,
+   "recent": 2,
+   "activeDays": 4,
+   "firstSeen": "2026-09-08",
+   "lastSeen": "2026-09-30",
+   "score": 15.8,
+   "riskMentions": 0,
+   "catalystMentions": 2,
+   "samples": [
+    {
+     "date": "2026-09-30",
+     "title": "필옵틱스, 신규 고객사에 차세대 2.0㎜ 유리기판 TGV 장비 납품…글로벌 고객사 확대"
+    },
+    {
+     "date": "2026-09-29",
+     "title": "필옵틱스, 신규 고객사에 차세대 2.0㎜ 유리기판 TGV 장비 납품…글로벌 고객사 확대"
+    },
+    {
+     "date": "2026-09-09",
+     "title": "필옵틱스, 국내 최초 2.0㎜ 두께 유리기판 공개…TGV '무결점' 기술력 입증"
+    }
+   ]
+  },
+  {
    "code": "456040",
    "name": "OCI",
    "market": "KOSPI",
@@ -594,6 +762,62 @@
    ]
   },
   {
+   "code": "263860",
+   "name": "지니언스",
+   "market": "KOSDAQ",
+   "cap": 1737,
+   "total": 6,
+   "recent": 2,
+   "activeDays": 4,
+   "firstSeen": "2026-09-09",
+   "lastSeen": "2026-09-30",
+   "score": 14.8,
+   "riskMentions": 0,
+   "catalystMentions": 2,
+   "samples": [
+    {
+     "date": "2026-09-30",
+     "title": "지니언스, '대한민국 일자리 으뜸기업' 선정…AI 혁신으로 주 4.5일제 시범 운영"
+    },
+    {
+     "date": "2026-09-30",
+     "title": "지니언스, '대한민국 일자리 으뜸기업' 선정…8월부터 주 4.5일제 시범 운영"
+    },
+    {
+     "date": "2026-09-17",
+     "title": "지니언스, 과기부 국책과제 'AI 기반 K보안 통합 플랫폼' 개발…중동 시장 공략"
+    }
+   ]
+  },
+  {
+   "code": "207760",
+   "name": "미스터블루",
+   "market": "KOSDAQ",
+   "cap": 335,
+   "total": 4,
+   "recent": 2,
+   "activeDays": 3,
+   "firstSeen": "2026-09-02",
+   "lastSeen": "2026-09-30",
+   "score": 13.8,
+   "riskMentions": 0,
+   "catalystMentions": 1,
+   "samples": [
+    {
+     "date": "2026-09-30",
+     "title": "미스터블루, '무협 4대천왕' IP 기반 콘텐츠 공급 강화"
+    },
+    {
+     "date": "2026-09-30",
+     "title": "미스터블루, '무협 4대천왕' 10월 신작 라인업 공개"
+    },
+    {
+     "date": "2026-09-03",
+     "title": "주식병합 마친 미스터블루, '청풍' 앞세워 IP 수익화 드라이브"
+    }
+   ]
+  },
+  {
    "code": "001070",
    "name": "대한방직",
    "market": "KOSPI",
@@ -618,82 +842,6 @@
     {
      "date": "2026-09-04",
      "title": "전주시장 \"옛 대한방직 부지 개발 협약 불이행 시 법적 검토\""
-    }
-   ]
-  },
-  {
-   "code": "298020",
-   "name": "효성티앤씨",
-   "market": "KOSPI",
-   "cap": 13459,
-   "total": 2,
-   "recent": 2,
-   "activeDays": 2,
-   "firstSeen": "2026-09-28",
-   "lastSeen": "2026-09-29",
-   "score": 12.7,
-   "riskMentions": 0,
-   "catalystMentions": 2,
-   "samples": [
-    {
-     "date": "2026-09-29",
-     "title": "\"유가 변동성 확대 속 수익성 둔화\"…효성티앤씨 목표가↓"
-    },
-    {
-     "date": "2026-09-28",
-     "title": "\"유가 변동성 확대 속 수익성 둔화\"…효성티앤씨 목표가↓"
-    }
-   ]
-  },
-  {
-   "code": "105740",
-   "name": "디케이락",
-   "market": "KOSDAQ",
-   "cap": 954,
-   "total": 2,
-   "recent": 2,
-   "activeDays": 2,
-   "firstSeen": "2026-09-28",
-   "lastSeen": "2026-09-29",
-   "score": 12.7,
-   "riskMentions": 0,
-   "catalystMentions": 2,
-   "samples": [
-    {
-     "date": "2026-09-29",
-     "title": "디케이락, '글로벌 장비사' 인증 확보…반도체 부품 사업 확장"
-    },
-    {
-     "date": "2026-09-28",
-     "title": "디케이락, '글로벌 장비사' 인증 확보…반도체 부품 사업 확장"
-    }
-   ]
-  },
-  {
-   "code": "005180",
-   "name": "빙그레",
-   "market": "KOSPI",
-   "cap": 7754,
-   "total": 3,
-   "recent": 2,
-   "activeDays": 2,
-   "firstSeen": "2026-09-08",
-   "lastSeen": "2026-09-29",
-   "score": 12.2,
-   "riskMentions": 0,
-   "catalystMentions": 1,
-   "samples": [
-    {
-     "date": "2026-09-29",
-     "title": "빙그레, 11월 멕시코 현지 유통업체에 메로나 납품"
-    },
-    {
-     "date": "2026-09-29",
-     "title": "빙그레, 11월 멕시코 유통업체 소리아나에 메로나 입점"
-    },
-    {
-     "date": "2026-09-08",
-     "title": "[게시판] 빙그레, 제39회 어린이 그림잔치 참가자 모집"
     }
    ]
   }
