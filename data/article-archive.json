@@ -4,6 +4,24 @@
    "articles": [
     {
      "date": "2026-10-01",
+     "source": "연합인포맥스",
+     "title": "SK하이닉스, 환율 하락에도 3Q 영업익 74조 역대최대 전망",
+     "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4437263"
+    },
+    {
+     "date": "2026-10-01",
+     "source": "연합인포맥스",
+     "title": "&quot;자회사 상장 땐 ADR 가치 하락&quot;…SK하이닉스는 이미 경고했다",
+     "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4437270"
+    },
+    {
+     "date": "2026-10-01",
+     "source": "아시아경제",
+     "title": "SK하이닉스, 목표주가 340만원 유지하는 이유…\"메모리 수요 견조\"[클릭e종목]",
+     "link": "https://view.asiae.co.kr/article/2026093015170008670"
+    },
+    {
+     "date": "2026-10-01",
      "source": "g-enews.com",
      "title": "- SK하이닉스(000660): 9/28 '2026 파트너스데이'서 협력사 지원 확대(R&D 보상제 신설, 납품대금지원펀드 500억→1000억원), 목표주가 DB",
      "link": "https://www.g-enews.com/article/Industry/2026/09/2026092913254743563084322ec9_1"
@@ -703,29 +721,23 @@
      "source": "한국경제·증권",
      "title": "SK하이닉스의 통큰 자사주 소각…증시엔 어떤 영향 미칠까",
      "link": "https://www.hankyung.com/article/202608201065i"
-    },
-    {
-     "date": "2026-08-20",
-     "source": "한국경제·증권",
-     "title": "SK하이닉스 이어 삼성전자도?…초고수들은 반도체 투톱 담았다",
-     "link": "https://www.hankyung.com/article/202608201863i"
-    },
-    {
-     "date": "2026-08-20",
-     "source": "한국경제·증권",
-     "title": "'SK하이닉스 위탁투자중개업자' SK증권, 장 초반 '상한가'",
-     "link": "https://www.hankyung.com/article/2026082012906"
-    },
-    {
-     "date": "2026-08-20",
-     "source": "한국경제·증권",
-     "title": "'40조 자사주 취득·소각' SK하이닉스, 장 초반 6% 급등",
-     "link": "https://www.hankyung.com/article/2026082012816"
     }
    ]
   },
   "삼성전자(005930)": {
    "articles": [
+    {
+     "date": "2026-10-01",
+     "source": "한국경제·증권",
+     "title": "\"삼성전자, 내년 HBM 판매가 100% 넘게 오를 듯\"-KB",
+     "link": "https://www.hankyung.com/article/2026100162116"
+    },
+    {
+     "date": "2026-10-01",
+     "source": "한국경제·경제",
+     "title": "파리크라상 신임 대표, 강신봉 전 삼성전자 부사장 내정",
+     "link": "https://www.hankyung.com/article/202610016625g"
+    },
     {
      "date": "2026-10-01",
      "source": "연합인포맥스",
@@ -737,6 +749,12 @@
      "source": "연합인포맥스",
      "title": "삼성전자 &quot;DS부문 AX위한 'AI 프론티어 에코시스템' 준비&quot;",
      "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4437183"
+    },
+    {
+     "date": "2026-10-01",
+     "source": "연합뉴스·경제",
+     "title": "파리크라상, 신임 대표에 강신봉 전 삼성전자 부사장 내정",
+     "link": "https://www.yna.co.kr/view/AKR20261001043800030"
     },
     {
      "date": "2026-10-01",
@@ -1427,29 +1445,23 @@
      "source": "연합뉴스·경제",
      "title": "노동장관 \"새 지침대로면 '삼성전자 N% 성과급' 요구 파업 불법\"",
      "link": "https://www.yna.co.kr/view/AKR20260908023800530"
-    },
-    {
-     "date": "2026-09-07",
-     "source": "ddaily.co.kr",
-     "title": "- 삼성전자(005930): 美 산타클라라 FMS 2026에서 차세대 3D메모리 zHBM(HBM5 대비 성능 최대 8배, 전성비 3배) 세계 최초 공개, HBM ",
-     "link": "https://www.ddaily.co.kr/page/view/2026080507444142786"
-    },
-    {
-     "date": "2026-09-06",
-     "source": "한국경제·증권",
-     "title": "삼성전자, SK하이닉스 FCF 50% 주주환원이 던지는 질문 [이강연의 재무제표 일기]",
-     "link": "https://www.hankyung.com/article/202608313342i"
-    },
-    {
-     "date": "2026-09-05",
-     "source": "한국경제·경제",
-     "title": "\"돈 쏟아부어도 이건 힘들어\"…TSMC 이어 삼성전자도 '비상' [강경주의 테크X]",
-     "link": "https://www.hankyung.com/article/2026090442456"
     }
    ]
   },
   "현대차(005380)": {
    "articles": [
+    {
+     "date": "2026-10-01",
+     "source": "한국경제·증권",
+     "title": "주가순자산비율 0.8배, 현대차 담은 ETF",
+     "link": "https://www.hankyung.com/article/202609304678i"
+    },
+    {
+     "date": "2026-10-01",
+     "source": "한국경제·경제",
+     "title": "\"신차 귀하다더니 반갑네\"…현대차 '이 차'로 美공략 나선다",
+     "link": "https://www.hankyung.com/article/202609305329g"
+    },
     {
      "date": "2026-09-30",
      "source": "한국경제·경제",
@@ -2157,23 +2169,17 @@
      "source": "파이낸셜·증권",
      "title": "대신證 \"현대차, 2분기 실적 바닥 확인…하반기 신차·관세 기저에 반등 기대\"",
      "link": "https://www.fnnews.com/news/202607240808303974"
-    },
-    {
-     "date": "2026-07-24",
-     "source": "연합인포맥스",
-     "title": "현대차·기아, 매출 신기록에도 왜 기대치 미달했나",
-     "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4426740"
-    },
-    {
-     "date": "2026-07-24",
-     "source": "아시아경제",
-     "title": "현대오토에버, 현대차·기아에 3044억원 규모 GPU 서버 공급",
-     "link": "https://view.asiae.co.kr/article/2026072417310237550"
     }
    ]
   },
   "호텔신라(008770)": {
    "articles": [
+    {
+     "date": "2026-10-01",
+     "source": "한국경제·증권",
+     "title": "\"호텔신라, 3분기 영업익 시장 기대치 밑돌 전망…목표가↓\"-한투",
+     "link": "https://www.hankyung.com/article/2026100162416"
+    },
     {
      "date": "2026-09-30",
      "source": "아시아경제",
@@ -2554,6 +2560,18 @@
   },
   "애플(AAPL)": {
    "articles": [
+    {
+     "date": "2026-10-01",
+     "source": "한국경제·경제",
+     "title": "\"중국폰 살 돈이면 아이폰\"…불황 뚫은 애플, 3일 만에 '돌풍'",
+     "link": "https://www.hankyung.com/article/202610016514g"
+    },
+    {
+     "date": "2026-10-01",
+     "source": "연합인포맥스",
+     "title": "갑질 할 땐 좋았지? 참교육 시작된 애플 근황",
+     "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4437278"
+    },
     {
      "date": "2026-09-28",
      "source": "연합인포맥스",
@@ -3229,6 +3247,12 @@
   "두산(000150)": {
    "articles": [
     {
+     "date": "2026-10-01",
+     "source": "파이낸셜·증권",
+     "title": "두산, 전자BG 역대 최고 분기 실적 달성하나",
+     "link": "https://www.fnnews.com/news/202610010819418056"
+    },
+    {
      "date": "2026-09-23",
      "source": "아시아경제",
      "title": "[이주의 관.종]'전자'가 견인하는 두산…AI 사이클 탑승",
@@ -3488,6 +3512,12 @@
   },
   "미래에셋증권(006800)": {
    "articles": [
+    {
+     "date": "2026-10-01",
+     "source": "파이낸셜·증권",
+     "title": "미래에셋증권, M-STOCK을 'MAPS'로 개편...투자 플랫폼 전환",
+     "link": "https://www.fnnews.com/news/202610010921093758"
+    },
     {
      "date": "2026-10-01",
      "source": "연합뉴스·경제",
@@ -4909,6 +4939,12 @@
   "엔비디아(NVDA)": {
    "articles": [
     {
+     "date": "2026-10-01",
+     "source": "아시아경제",
+     "title": "KB인베, 엔비디아 손잡고 '美 AI 인프라' GMI클라우드 투자",
+     "link": "https://view.asiae.co.kr/article/2026100110003377696"
+    },
+    {
      "date": "2026-09-30",
      "source": "뉴시스·경제",
      "title": "\"엔비디아, AI 인프라 금융에 '보험' 검토…리스크 분산해 수요↑\"",
@@ -5621,12 +5657,6 @@
      "source": "연합뉴스·경제",
      "title": "[특징주] 삼전·닉스, 엔비디아발 훈풍에 장초반 급등세",
      "link": "https://www.yna.co.kr/view/AKR20260827036100008"
-    },
-    {
-     "date": "2026-08-27",
-     "source": "아시아경제",
-     "title": "엔비디아 깜짝실적에 한숨 돌린 삼전닉스",
-     "link": "https://view.asiae.co.kr/article/2026082710132707631"
     }
    ]
   },
@@ -5822,6 +5852,12 @@
   },
   "카카오(035720)": {
    "articles": [
+    {
+     "date": "2026-10-01",
+     "source": "연합뉴스·경제",
+     "title": "한투증권·카카오, 디지털자산 발행·유통 서비스 개발 '맞손'",
+     "link": "https://www.yna.co.kr/view/AKR20261001042900008"
+    },
     {
      "date": "2026-09-30",
      "source": "연합인포맥스",
@@ -6852,6 +6888,12 @@
   },
   "오르비텍(046120)": {
    "articles": [
+    {
+     "date": "2026-10-01",
+     "source": "파이낸셜·증권",
+     "title": "오르비텍, 파인테크닉스 주식 414만주 처분 완료…신사업 재원 확보",
+     "link": "https://www.fnnews.com/news/202610010847512645"
+    },
     {
      "date": "2026-07-15",
      "source": "아시아경제",
@@ -8675,14 +8717,68 @@
     {
      "date": "2026-10-01",
      "source": "한국경제·증권",
+     "title": "물가 둔화했는데, 멈추지 않는 금리(10년 5.3%) … 마이크론 실적 좋지만 [김현석의 월스트리트나우]",
+     "link": "https://www.hankyung.com/article/202610016031i"
+    },
+    {
+     "date": "2026-10-01",
+     "source": "한국경제·증권",
+     "title": "마이크론 사상 최대 실적인데…'삼전닉스', 장 초반 하락",
+     "link": "https://www.hankyung.com/article/2026100165966"
+    },
+    {
+     "date": "2026-10-01",
+     "source": "한국경제·증권",
+     "title": "마이크론 분기 EPS 33.42달러…'위스퍼 넘버'엔 못 미쳐",
+     "link": "https://www.hankyung.com/article/2026100162076"
+    },
+    {
+     "date": "2026-10-01",
+     "source": "한국경제·증권",
+     "title": "마이크론 '괴물 실적'...낮아진 美 금리인상 가능성 [오늘 아침, 당신이 알아야 할 7가지]",
+     "link": "https://www.hankyung.com/article/202610016192i"
+    },
+    {
+     "date": "2026-10-01",
+     "source": "한국경제·증권",
      "title": "美 물가·마이크론 실적 경계감…코스피, 3거래일 연속 약세",
      "link": "https://www.hankyung.com/article/202609305162i"
+    },
+    {
+     "date": "2026-10-01",
+     "source": "연합인포맥스",
+     "title": "코스피, 마이크론 실적 호조에도 약보합 출발",
+     "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4437283"
+    },
+    {
+     "date": "2026-10-01",
+     "source": "연합인포맥스",
+     "title": "물가 & 마이크론 실적으로 반등하면 매도 물량은 더 나올겁니다",
+     "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4437279"
+    },
+    {
+     "date": "2026-10-01",
+     "source": "연합뉴스·경제",
+     "title": "삼전·닉스, 마이크론 호실적에도 약세 출발…0.7∼1.0%↓",
+     "link": "https://www.yna.co.kr/view/AKR20261001040400008"
     },
     {
      "date": "2026-10-01",
      "source": "연합뉴스·경제",
      "title": "마이크론 실적 경계감? 삼전 1.5%↓…하이닉스 0.6%↑(종합)",
      "link": "https://www.yna.co.kr/view/AKR20260930042451008"
+    },
+    {
+     "date": "2026-10-01",
+     "source": "아시아경제",
+     "title": "[굿모닝 증시]美 혼조세에도 韓 마이크론·수출 기대감에 반등 예상",
+     "link": "https://view.asiae.co.kr/article/2026100108032474273"
+    },
+    {
+     "date": "2026-10-01",
+     "source": "뉴시스·경제",
+     "title": "마이크론, 4분기 매출 542억달러…AI발 메모리 수요 급등에 시장 예상 상회",
+     "link": "https://www.newsis.com/view/NISX20261001_0003809757"
     },
     {
      "date": "2026-09-30",
@@ -9914,6 +10010,18 @@
   },
   "삼성물산(028260)": {
    "articles": [
+    {
+     "date": "2026-10-01",
+     "source": "연합인포맥스",
+     "title": "정부, 삼성물산 합병 ISDS 환송심 패소…8년 공방 끝 배상책임 부활",
+     "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4437297"
+    },
+    {
+     "date": "2026-10-01",
+     "source": "아시아경제",
+     "title": "\"삼성물산 합병, 엘리엇 피해 맞다\"…ISDS 韓정부 다시 패소",
+     "link": "https://view.asiae.co.kr/article/2026100109251598695"
+    },
     {
      "date": "2026-09-29",
      "source": "뉴시스·경제",
@@ -11389,6 +11497,12 @@
   "폴라리스오피스(041020)": {
    "articles": [
     {
+     "date": "2026-10-01",
+     "source": "아시아경제",
+     "title": "폴라리스오피스, '페이블 스튜디오'로 기업용 AI 개발 플랫폼 사업 추진",
+     "link": "https://view.asiae.co.kr/article/2026093009123858631"
+    },
+    {
      "date": "2026-09-30",
      "source": "파이낸셜·증권",
      "title": "폴라리스오피스, '페이블 스튜디오'로 기업용 AI 개발 플랫폼 사업 추진",
@@ -11891,6 +12005,18 @@
   "주성엔지니어링(036930)": {
    "articles": [
     {
+     "date": "2026-10-01",
+     "source": "한국경제·증권",
+     "title": "주성엔지니어링, 에코프로비엠 제쳤다…코스닥 시총 상위 소부장 포진",
+     "link": "https://www.hankyung.com/article/2026093049096"
+    },
+    {
+     "date": "2026-10-01",
+     "source": "한국경제·증권",
+     "title": "연초 대비 664% 급등…시총 10조 돌파한 '주성엔지니어링'",
+     "link": "https://www.hankyung.com/article/202609305669i"
+    },
+    {
      "date": "2026-06-20",
      "source": "머니투데이·증권",
      "title": "[고래사냥] '블루엠텍, 아이씨티케이, 주성엔지니어링, 한컴위드!' 오늘 장 궁금종목 분석",
@@ -11900,6 +12026,12 @@
   },
   "농심(004370)": {
    "articles": [
+    {
+     "date": "2026-10-01",
+     "source": "연합뉴스·경제",
+     "title": "농심 라이필 콜라겐, '시알 파리 2026' 혁신상 셀렉션 수상",
+     "link": "https://www.yna.co.kr/view/AKR20261001030800030"
+    },
     {
      "date": "2026-09-29",
      "source": "연합뉴스·경제",
@@ -12951,6 +13083,24 @@
   "LG전자(066570)": {
    "articles": [
     {
+     "date": "2026-10-01",
+     "source": "한국경제·경제",
+     "title": "LG전자, AI 냉각에 1500억 투자…美 버지니아에 칠러 공장 구축",
+     "link": "https://www.hankyung.com/article/202610016478g"
+    },
+    {
+     "date": "2026-10-01",
+     "source": "연합인포맥스",
+     "title": "LG전자, 1천500억 투자 국내외 칠러 생산라인 증설",
+     "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4437277"
+    },
+    {
+     "date": "2026-10-01",
+     "source": "연합뉴스·경제",
+     "title": "LG전자, 미국에 AI 데이터센터용 칠러 공장 신설…국내도 증설",
+     "link": "https://www.yna.co.kr/view/AKR20261001023000003"
+    },
+    {
      "date": "2026-09-30",
      "source": "아시아경제",
      "title": "[클릭 e종목]\"알체라, LG전자 컨소시엄 참여로 로봇 모멘텀 확보\"",
@@ -13766,6 +13916,12 @@
   },
   "엠케이전자(033160)": {
    "articles": [
+    {
+     "date": "2026-10-01",
+     "source": "아시아경제",
+     "title": "엠케이전자, 인도 전자 제조시장 공략…솔더페이스트 고객 확대",
+     "link": "https://view.asiae.co.kr/article/2026100109505279085"
+    },
     {
      "date": "2026-09-02",
      "source": "파이낸셜·증권",
@@ -15753,6 +15909,12 @@
   "한전기술(052690)": {
    "articles": [
     {
+     "date": "2026-10-01",
+     "source": "연합뉴스·경제",
+     "title": "[특징주] 한전기술, '한미 원전 프레임워크' 합의에 장초반 강세",
+     "link": "https://www.yna.co.kr/view/AKR20261001044200008"
+    },
+    {
      "date": "2026-09-12",
      "source": "뉴시스·경제",
      "title": "한전기술, 포스코이앤씨와 소형모듈원자로 원자력 기술개발",
@@ -15978,15 +16140,39 @@
     },
     {
      "date": "2026-10-01",
+     "source": "한국경제·증권",
+     "title": "\"현대모비스, 액츄에이터 대량양산 시차 반영…목표가↓\"-대신",
+     "link": "https://www.hankyung.com/article/2026100163116"
+    },
+    {
+     "date": "2026-10-01",
      "source": "한국경제·경제",
      "title": "현대모비스 램프사업부, 佛기업과 6000억 매각 합의",
      "link": "https://www.hankyung.com/article/2026093055731"
     },
     {
      "date": "2026-10-01",
+     "source": "파이낸셜·증권",
+     "title": "현대모비스, 램프사업 6000억원 매각에 5%대 강세 [종목NOW]",
+     "link": "https://www.fnnews.com/news/202610010917478119"
+    },
+    {
+     "date": "2026-10-01",
+     "source": "파이낸셜·증권",
+     "title": "램프사업 매각하는 현대모비스…\"의도치 않은 주주환원 가능성\"",
+     "link": "https://www.fnnews.com/news/202610010855457298"
+    },
+    {
+     "date": "2026-10-01",
      "source": "연합인포맥스",
      "title": "현대모비스, 프랑스 부품사에 램프 사업부 매각 본계약 체결",
      "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4437165"
+    },
+    {
+     "date": "2026-10-01",
+     "source": "연합뉴스·경제",
+     "title": "증권가, '램프사업 매각' 현대모비스에 \"핵심사업 집중 긍정적\"",
+     "link": "https://www.yna.co.kr/view/AKR20261001026200008"
     },
     {
      "date": "2026-10-01",
@@ -16334,6 +16520,12 @@
   },
   "라온시큐어(042510)": {
    "articles": [
+    {
+     "date": "2026-10-01",
+     "source": "아시아경제",
+     "title": "\"진짜 업무를 AI에 맡기려면\"…라온시큐어, 성능 아닌 '안전'에 주목",
+     "link": "https://view.asiae.co.kr/article/2026100108445444917"
+    },
     {
      "date": "2026-09-16",
      "source": "아시아경제",
@@ -18817,6 +19009,12 @@
   "하이트진로(000080)": {
    "articles": [
     {
+     "date": "2026-10-01",
+     "source": "아시아경제",
+     "title": "[클릭 e종목]\"하이트진로, 맥주 판매량 감소세…목표가↓\"",
+     "link": "https://view.asiae.co.kr/article/2026100108052922964"
+    },
+    {
      "date": "2026-09-29",
      "source": "연합뉴스·경제",
      "title": "하이트진로 투자 스타트업 2곳, 올해 팁스 선정",
@@ -20711,6 +20909,12 @@
   "고려아연(010130)": {
    "articles": [
     {
+     "date": "2026-10-01",
+     "source": "연합뉴스·경제",
+     "title": "현대차증권, 고려아연 목표가↓…\"금 약세로 영업익 감소 전망\"",
+     "link": "https://www.yna.co.kr/view/AKR20261001027500008"
+    },
+    {
      "date": "2026-09-29",
      "source": "연합인포맥스",
      "title": "고려아연 &quot;핵심광물 공급망 재편되는 때…MBK·영풍도 동참했으면&quot;",
@@ -21483,6 +21687,12 @@
   "에코프로비엠(247540)": {
    "articles": [
     {
+     "date": "2026-10-01",
+     "source": "한국경제·증권",
+     "title": "주성엔지니어링, 에코프로비엠 제쳤다…코스닥 시총 상위 소부장 포진",
+     "link": "https://www.hankyung.com/article/2026093049096"
+    },
+    {
      "date": "2026-09-29",
      "source": "아시아경제",
      "title": "\"BMW·벤츠 등에 납품하는 에코프로비엠, 목표가 유지\"[클릭 e종목]",
@@ -21828,6 +22038,12 @@
   },
   "엔씨소프트(036570)": {
    "articles": [
+    {
+     "date": "2026-10-01",
+     "source": "한국경제·증권",
+     "title": "NC, 글로벌 겨냥한 '아이온2'의 스팀 1위 소식에 '급등'",
+     "link": "https://www.hankyung.com/article/2026100166986"
+    },
     {
      "date": "2026-09-28",
      "source": "파이낸셜·증권",
@@ -22365,6 +22581,12 @@
   "삼성SDI(006400)": {
    "articles": [
     {
+     "date": "2026-10-01",
+     "source": "한국경제·증권",
+     "title": "\"삼성SDI, 미국 ESS 시장 내 중국산 배터리 배제 수혜 기대\"-한국",
+     "link": "https://www.hankyung.com/article/2026100163626"
+    },
+    {
      "date": "2026-09-29",
      "source": "연합인포맥스",
      "title": "삼성SDI, 독자 기술의 원통형 LFP 배터리 첫 공개",
@@ -22879,6 +23101,12 @@
   "한화에어로스페이스(012450)": {
    "articles": [
     {
+     "date": "2026-10-01",
+     "source": "아시아경제",
+     "title": "하나에어로다이내믹스, 한화에어로스페이스와 양해각서…무인기 생산 협력",
+     "link": "https://view.asiae.co.kr/article/2026100108342620929"
+    },
+    {
      "date": "2026-09-20",
      "source": "한국경제·경제",
      "title": "한화에어로스페이스, 고체엔진 앞세워…KF-21 유도탄 개발 착수",
@@ -23126,6 +23354,12 @@
   },
   "CJ제일제당(097950)": {
    "articles": [
+    {
+     "date": "2026-10-01",
+     "source": "연합뉴스·경제",
+     "title": "CJ제일제당, 미국서 '비비고 김밥' 1∼7월 매출 59% 증가",
+     "link": "https://www.yna.co.kr/view/AKR20261001036200030"
+    },
     {
      "date": "2026-09-28",
      "source": "연합뉴스·경제",
@@ -23846,6 +24080,18 @@
    "articles": [
     {
      "date": "2026-10-01",
+     "source": "연합인포맥스",
+     "title": "GS건설, 홈플러스 안산점 부지 '아르뮤제자이' 이달 분양",
+     "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4437293"
+    },
+    {
+     "date": "2026-10-01",
+     "source": "뉴시스·경제",
+     "title": "GS건설, 안산 아르뮤제자이 10월 분양…1354가구",
+     "link": "https://www.newsis.com/view/NISX20261001_0003810205"
+    },
+    {
+     "date": "2026-10-01",
      "source": "뉴시스·경제",
      "title": "GS건설 에코아쿠아팜, 'K-연어' 육상양식 실증 성공",
      "link": "https://www.newsis.com/view/NISX20260930_0003808369"
@@ -24289,6 +24535,12 @@
   "두산에너빌리티(034020)": {
    "articles": [
     {
+     "date": "2026-10-01",
+     "source": "파이낸셜·증권",
+     "title": "두산에너빌리티, 베트남 화력발전소 EPC 계약…8380억원 규모",
+     "link": "https://www.fnnews.com/news/202610010918131426"
+    },
+    {
      "date": "2026-09-11",
      "source": "한국경제·증권",
      "title": "증권가가 '핵심 원전주' 두산에너빌리티를 주목하는 이유",
@@ -24460,6 +24712,12 @@
   },
   "한국콜마(161890)": {
    "articles": [
+    {
+     "date": "2026-10-01",
+     "source": "아시아경제",
+     "title": "[클릭 e종목]한국콜마, 선케어 강자에게 열린 새 시장…목표가↑",
+     "link": "https://view.asiae.co.kr/article/2026093015354763029"
+    },
     {
      "date": "2026-09-30",
      "source": "아시아경제",
@@ -24758,6 +25016,30 @@
   },
   "키움증권(039490)": {
    "articles": [
+    {
+     "date": "2026-10-01",
+     "source": "파이낸셜·증권",
+     "title": "키움증권, ISA 계좌 ETF 거래 이벤트...9개사 참여",
+     "link": "https://www.fnnews.com/news/202610010952219177"
+    },
+    {
+     "date": "2026-10-01",
+     "source": "연합뉴스·경제",
+     "title": "키움증권 \"엠씨넥스 목표가↓…스마트폰 시장 당분간 비우호적\"",
+     "link": "https://www.yna.co.kr/view/AKR20261001027300008"
+    },
+    {
+     "date": "2026-10-01",
+     "source": "연합뉴스·경제",
+     "title": "[게시판] 키움증권, 중개형ISA 이용자 대상 ETF 거래 이벤트",
+     "link": "https://www.yna.co.kr/view/AKR20261001047900008"
+    },
+    {
+     "date": "2026-10-01",
+     "source": "아시아경제",
+     "title": "ISA로 ETF 사면 상품권이…키움증권, 9개 운용사와 이벤트",
+     "link": "https://view.asiae.co.kr/article/2026100109123182767"
+    },
     {
      "date": "2026-09-29",
      "source": "연합뉴스·경제",
@@ -25488,6 +25770,18 @@
   },
   "한화(000880)": {
    "articles": [
+    {
+     "date": "2026-10-01",
+     "source": "연합뉴스·경제",
+     "title": "한화 포레나 신규 평면 선보여…상품 구성 다양화",
+     "link": "https://www.yna.co.kr/view/AKR20261001042100003"
+    },
+    {
+     "date": "2026-10-01",
+     "source": "뉴시스·경제",
+     "title": "한화 포레나, 신규 평면 개발…전 타입 주방 순환형 팬트리",
+     "link": "https://www.newsis.com/view/NISX20261001_0003810126"
+    },
     {
      "date": "2026-09-29",
      "source": "한국경제·증권",
@@ -26340,6 +26634,12 @@
   },
   "CJ대한통운(000120)": {
    "articles": [
+    {
+     "date": "2026-10-01",
+     "source": "연합뉴스·경제",
+     "title": "CJ대한통운, 지역인재 '물류공채'…올해부터 정기채용 전환",
+     "link": "https://www.yna.co.kr/view/AKR20261001039300030"
+    },
     {
      "date": "2026-08-30",
      "source": "연합인포맥스",
@@ -28756,6 +29056,18 @@
    "articles": [
     {
      "date": "2026-10-01",
+     "source": "연합뉴스·경제",
+     "title": "대우건설 이강석 대표, 투르크메니스탄 대통령 예방",
+     "link": "https://www.yna.co.kr/view/AKR20261001052000003"
+    },
+    {
+     "date": "2026-10-01",
+     "source": "뉴시스·경제",
+     "title": "이강석 대우건설 대표, 투르크메니스탄 대통령 예방…\"인프라 협력 강화\"",
+     "link": "https://www.newsis.com/view/NISX20261001_0003810124"
+    },
+    {
+     "date": "2026-10-01",
      "source": "뉴시스·경제",
      "title": "여의도 한강변 '화랑아파트', 대우건설과 수의계약 수순",
      "link": "https://www.newsis.com/view/NISX20260930_0003808603"
@@ -29350,6 +29662,24 @@
   },
   "대상(001680)": {
    "articles": [
+    {
+     "date": "2026-10-01",
+     "source": "연합뉴스·경제",
+     "title": "울산동부노동지청, 구인 사업장 대상 채용절차 공정성 집중 점검",
+     "link": "https://www.yna.co.kr/view/AKR20261001054300057"
+    },
+    {
+     "date": "2026-10-01",
+     "source": "연합뉴스·경제",
+     "title": "[바이오스냅] 식약처, 어린이 6만여명 대상 식생활 조사",
+     "link": "https://www.yna.co.kr/view/AKR20261001048100017"
+    },
+    {
+     "date": "2026-10-01",
+     "source": "연합뉴스·경제",
+     "title": "[게시판] 키움증권, 중개형ISA 이용자 대상 ETF 거래 이벤트",
+     "link": "https://www.yna.co.kr/view/AKR20261001047900008"
+    },
     {
      "date": "2026-09-30",
      "source": "한국경제·증권",
@@ -30051,24 +30381,6 @@
      "source": "한국경제·경제",
      "title": "[포토] JMW, '2026 올해의 브랜드 대상' 헤어드라이어 부문 수상",
      "link": "https://www.hankyung.com/article/202609028002H"
-    },
-    {
-     "date": "2026-09-02",
-     "source": "한국경제·경제",
-     "title": "[포토] Bdan, '2026 올해의 브랜드 대상' 디지털실물자산거래소 부문 수상",
-     "link": "https://www.hankyung.com/article/202609028017H"
-    },
-    {
-     "date": "2026-09-02",
-     "source": "연합뉴스·경제",
-     "title": "한은 대구경북본부, 대학생·일반인 대상 '금요강좌' 개최",
-     "link": "https://www.yna.co.kr/view/AKR20260902070000053"
-    },
-    {
-     "date": "2026-09-02",
-     "source": "연합뉴스·경제",
-     "title": "[이천소식] 임금님표이천쌀, '올해의 브랜드 대상' 7회째 수상",
-     "link": "https://www.yna.co.kr/view/AKR20260902131900061"
     }
    ]
   },
@@ -31643,6 +31955,12 @@
   "블랙록(BLK)": {
    "articles": [
     {
+     "date": "2026-10-01",
+     "source": "한국경제·경제",
+     "title": "데이터센터 사고 발전사도 산다…블랙록, AI 투자 확장에 전기료 논란 [김주완의 글로벌머니 X파일]",
+     "link": "https://www.hankyung.com/article/202609305889i"
+    },
+    {
      "date": "2026-09-29",
      "source": "연합인포맥스",
      "title": "이억원, 골드만삭스·블랙록 아태 총괄 면담…韓증시 전망 논의",
@@ -32042,6 +32360,12 @@
    "articles": [
     {
      "date": "2026-10-01",
+     "source": "파이낸셜·증권",
+     "title": "오르비텍, 파인테크닉스 주식 414만주 처분 완료…신사업 재원 확보",
+     "link": "https://www.fnnews.com/news/202610010847512645"
+    },
+    {
+     "date": "2026-10-01",
      "source": "연합뉴스·경제",
      "title": "파인테크닉스, 10억원 유상증자…성진홀딩스에 제3자배정",
      "link": "https://www.yna.co.kr/view/AKR20260930143400008"
@@ -32336,6 +32660,18 @@
   },
   "웨이버스(336060)": {
    "articles": [
+    {
+     "date": "2026-10-01",
+     "source": "한국경제·증권",
+     "title": "\"웨이버스 수주잔고 반년만에 2배로…하반기 매출 급증할 것\"",
+     "link": "https://www.hankyung.com/article/2026100164746"
+    },
+    {
+     "date": "2026-10-01",
+     "source": "아시아경제",
+     "title": "웨이버스, 수주잔고 6개월 새 107% 급증…\"하반기 매출 본격화\"",
+     "link": "https://view.asiae.co.kr/article/2026100108393392871"
+    },
     {
      "date": "2026-09-15",
      "source": "아시아경제",
@@ -33762,6 +34098,12 @@
   },
   "홈플러스": {
    "articles": [
+    {
+     "date": "2026-10-01",
+     "source": "연합인포맥스",
+     "title": "GS건설, 홈플러스 안산점 부지 '아르뮤제자이' 이달 분양",
+     "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4437293"
+    },
     {
      "date": "2026-09-18",
      "source": "연합인포맥스",
@@ -36231,6 +36573,12 @@
   "시스코(CSCO)": {
    "articles": [
     {
+     "date": "2026-10-01",
+     "source": "아시아경제",
+     "title": "에스넷시스템, 시스코와 '사업 전환 전략 파트너십' 체결…AI 라이프사이클 서비스 확대",
+     "link": "https://view.asiae.co.kr/article/2026100109551005718"
+    },
+    {
      "date": "2026-08-13",
      "source": "연합인포맥스",
      "title": "시스코 시스템즈, 실적 호조에도 시간외 거래서 4% 하락",
@@ -36268,6 +36616,12 @@
   },
   "영원무역(111770)": {
    "articles": [
+    {
+     "date": "2026-10-01",
+     "source": "파이낸셜·증권",
+     "title": "영원무역, 알로 등 신규 고객 성장…목표가 10만5000원",
+     "link": "https://www.fnnews.com/news/202610010807130796"
+    },
     {
      "date": "2026-07-16",
      "source": "한국경제·증권",
@@ -38959,6 +39313,12 @@
   "포스코인터내셔널(047050)": {
    "articles": [
     {
+     "date": "2026-10-01",
+     "source": "한국경제·증권",
+     "title": "\"포스코인터내셔널, 유가 상승에 최대 실적 신기록 행진 기대\"-하나",
+     "link": "https://www.hankyung.com/article/2026100162406"
+    },
+    {
      "date": "2026-09-17",
      "source": "파이낸셜·증권",
      "title": "\"선제 매수할 시점\" 한화엔진, 4행정 중속엔진 새 성장축…포스코인터내셔널, 북미 가스전 품고 LNG 밸류체인 완성 [株토피아]",
@@ -39254,6 +39614,12 @@
   },
   "현대차증권(001500)": {
    "articles": [
+    {
+     "date": "2026-10-01",
+     "source": "연합뉴스·경제",
+     "title": "현대차증권, 고려아연 목표가↓…\"금 약세로 영업익 감소 전망\"",
+     "link": "https://www.yna.co.kr/view/AKR20261001027500008"
+    },
     {
      "date": "2026-09-19",
      "source": "연합뉴스·경제",
@@ -39656,6 +40022,12 @@
   },
   "아미코젠(092040)": {
    "articles": [
+    {
+     "date": "2026-10-01",
+     "source": "파이낸셜·증권",
+     "title": "아미코젠, 해외서 만들던 '전용 배지' 송도로…바이오 원부자재 CMO 시동",
+     "link": "https://www.fnnews.com/news/202610010805275546"
+    },
     {
      "date": "2026-09-01",
      "source": "파이낸셜·증권",
@@ -40684,6 +41056,12 @@
   },
   "LG(003550)": {
    "articles": [
+    {
+     "date": "2026-10-01",
+     "source": "연합뉴스·경제",
+     "title": "LG CNS, 175조 굴리는 미국 투자사와 SW·AI 기업 공동투자",
+     "link": "https://www.yna.co.kr/view/AKR20261001031300017"
+    },
     {
      "date": "2026-09-29",
      "source": "한국경제·경제",
@@ -41933,6 +42311,12 @@
   "넷플릭스(NFLX)": {
    "articles": [
     {
+     "date": "2026-10-01",
+     "source": "연합뉴스·경제",
+     "title": "무신사 스탠다드, 성수동서 '겨울 프리뷰'…넷플릭스 등 협업",
+     "link": "https://www.yna.co.kr/view/AKR20261001032200030"
+    },
+    {
      "date": "2026-09-22",
      "source": "한국경제·경제",
      "title": "파라마운트+워너 합병…디즈니 가입자 넘고 넷플릭스 위협",
@@ -42607,6 +42991,12 @@
      "link": "https://www.hankyung.com/article/2026093056361"
     },
     {
+     "date": "2026-10-01",
+     "source": "뉴시스·경제",
+     "title": "구글, '제미나이 4 아르곤' 공개…오픈AI·앤트로픽에 도전장",
+     "link": "https://www.newsis.com/view/NISX20261001_0003810096"
+    },
+    {
      "date": "2026-09-29",
      "source": "연합인포맥스",
      "title": "국회 재경위, 국정감사 증인에 배민·구글 대표이사 등 채택",
@@ -43150,6 +43540,12 @@
   },
   "Micron(MU)": {
    "articles": [
+    {
+     "date": "2026-10-01",
+     "source": "CNBC·Markets",
+     "title": "We're raising our Micron price target after an incredible quarter and robust guidance",
+     "link": "https://www.cnbc.com/2026/09/30/were-raising-our-micron-price-target-after-an-incredible-quarter-and-robust-outlook.html"
+    },
     {
      "date": "2026-09-29",
      "source": "MarketWatch",
@@ -43955,6 +44351,24 @@
   "앤트로픽": {
    "articles": [
     {
+     "date": "2026-10-01",
+     "source": "한국경제·경제",
+     "title": "[밤 사이 해외 뉴스] 오픈AI·앤트로픽도 미뤘다…차갑게 식어버린 '월가 상장 잔치'",
+     "link": "https://www.hankyung.com/article/202610016296i"
+    },
+    {
+     "date": "2026-10-01",
+     "source": "뉴시스·경제",
+     "title": "구글, '제미나이 4 아르곤' 공개…오픈AI·앤트로픽에 도전장",
+     "link": "https://www.newsis.com/view/NISX20261001_0003810096"
+    },
+    {
+     "date": "2026-10-01",
+     "source": "뉴시스·경제",
+     "title": "美 FTC, 오픈AI·앤트로픽 조사 확대…AI 잇단 해킹에 규제 본격화",
+     "link": "https://www.newsis.com/view/NISX20261001_0003809971"
+    },
+    {
      "date": "2026-09-30",
      "source": "한국경제·증권",
      "title": "앤트로픽 700조 투자 계획에 반도체株 들썩…소부장도 강세",
@@ -44549,8 +44963,20 @@
     {
      "date": "2026-10-01",
      "source": "파이낸셜·증권",
+     "title": "하나증권, 업계 최초 외화 신종자본증권 발행…3억달러 규모",
+     "link": "https://www.fnnews.com/news/202610010947206813"
+    },
+    {
+     "date": "2026-10-01",
+     "source": "파이낸셜·증권",
      "title": "하나증권, '2차 국민참여형 국민성장펀드' 출시",
      "link": "https://www.fnnews.com/news/202609301712124186"
+    },
+    {
+     "date": "2026-10-01",
+     "source": "아시아경제",
+     "title": "하나증권, 업계 최초 3억달러 외화 신종자본증권 발행",
+     "link": "https://view.asiae.co.kr/article/2026100109242980646"
     },
     {
      "date": "2026-10-01",
@@ -45267,6 +45693,24 @@
   "롯데건설": {
    "articles": [
     {
+     "date": "2026-10-01",
+     "source": "연합인포맥스",
+     "title": "롯데건설, 'AAA'급 ABS 2천억 발행…누적 8천억 조달",
+     "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4437266"
+    },
+    {
+     "date": "2026-10-01",
+     "source": "연합뉴스·경제",
+     "title": "롯데건설, 공사대금채권 기반 ABS 3차 발행…2천억원 규모",
+     "link": "https://www.yna.co.kr/view/AKR20261001027100003"
+    },
+    {
+     "date": "2026-10-01",
+     "source": "뉴시스·경제",
+     "title": "롯데건설, AAA급 ABS 2000억 발행…올해 8000억 저금리 조달",
+     "link": "https://www.newsis.com/view/NISX20261001_0003810077"
+    },
+    {
      "date": "2026-09-06",
      "source": "연합뉴스·경제",
      "title": "롯데건설, 도곡우성 재건축 수주…'르엘' 브랜드 적용",
@@ -45402,6 +45846,12 @@
   },
   "빗썸": {
    "articles": [
+    {
+     "date": "2026-10-01",
+     "source": "아시아경제",
+     "title": "빗썸, KCSI 가상자산거래소 부문 2년 연속 1위",
+     "link": "https://view.asiae.co.kr/article/2026100108152240859"
+    },
     {
      "date": "2026-09-29",
      "source": "연합인포맥스",
@@ -45724,6 +46174,18 @@
   },
   "무신사": {
    "articles": [
+    {
+     "date": "2026-10-01",
+     "source": "연합뉴스·경제",
+     "title": "무신사, '로카(ROKA)' 에디션 출시…육군 장병에 최대 50% 할인",
+     "link": "https://www.yna.co.kr/view/AKR20261001025600030"
+    },
+    {
+     "date": "2026-10-01",
+     "source": "연합뉴스·경제",
+     "title": "무신사 스탠다드, 성수동서 '겨울 프리뷰'…넷플릭스 등 협업",
+     "link": "https://www.yna.co.kr/view/AKR20261001032200030"
+    },
     {
      "date": "2026-09-30",
      "source": "한국경제·경제",
@@ -46132,6 +46594,12 @@
   },
   "계양전기(012200)": {
    "articles": [
+    {
+     "date": "2026-10-01",
+     "source": "아시아경제",
+     "title": "계양전기, 정밀 구동 솔루션 기업 전환 박차…모빌리티·로보틱스 시장 공략",
+     "link": "https://view.asiae.co.kr/article/2026100109331549972"
+    },
     {
      "date": "2026-09-08",
      "source": "파이낸셜·증권",
@@ -47144,6 +47612,12 @@
     },
     {
      "date": "2026-10-01",
+     "source": "한국경제·경제",
+     "title": "[밤 사이 해외 뉴스] 오픈AI·앤트로픽도 미뤘다…차갑게 식어버린 '월가 상장 잔치'",
+     "link": "https://www.hankyung.com/article/202610016296i"
+    },
+    {
+     "date": "2026-10-01",
      "source": "뉴시스·경제",
      "title": "오픈AI, AI 폭주 수개월 전 직원 경고 묵살…출시 일정 우선",
      "link": "https://www.newsis.com/view/NISX20260930_0003808377"
@@ -47153,6 +47627,18 @@
      "source": "뉴시스·경제",
      "title": "오픈AI \"안전 확신해야 IPO 할 것\"…300억불 신규 투자 논의도",
      "link": "https://www.newsis.com/view/NISX20260930_0003808427"
+    },
+    {
+     "date": "2026-10-01",
+     "source": "뉴시스·경제",
+     "title": "구글, '제미나이 4 아르곤' 공개…오픈AI·앤트로픽에 도전장",
+     "link": "https://www.newsis.com/view/NISX20261001_0003810096"
+    },
+    {
+     "date": "2026-10-01",
+     "source": "뉴시스·경제",
+     "title": "美 FTC, 오픈AI·앤트로픽 조사 확대…AI 잇단 해킹에 규제 본격화",
+     "link": "https://www.newsis.com/view/NISX20261001_0003809971"
     },
     {
      "date": "2026-09-30",
@@ -48495,6 +48981,18 @@
   "웨스팅하우스(비상장)": {
    "articles": [
     {
+     "date": "2026-10-01",
+     "source": "파이낸셜뉴스",
+     "title": "웨스팅하우스 지분 품는 韓…美 원전시장 진출 교두보 만든다",
+     "link": "https://www.fnnews.com/news/202609230947469724"
+    },
+    {
+     "date": "2026-10-01",
+     "source": "연합뉴스·경제",
+     "title": "웨스팅하우스 빗장 풀렸다…미국에 한국형 원전 진출 길 열려",
+     "link": "https://www.yna.co.kr/view/AKR20260922194300003"
+    },
+    {
      "date": "2026-09-23",
      "source": "파이낸셜뉴스",
      "title": "美원전 8기 순차적으로 건설… \"웨스팅하우스 지분 5~10% 사이\" [대미투자 1호 확정]",
@@ -48815,7 +49313,33 @@
      "link": "https://view.asiae.co.kr/article/2026092914124387915"
     }
    ]
+  },
+  "LG CNS": {
+   "articles": [
+    {
+     "date": "2026-10-01",
+     "source": "연합뉴스·경제",
+     "title": "LG CNS, 175조 굴리는 미국 투자사와 SW·AI 기업 공동투자",
+     "link": "https://www.yna.co.kr/view/AKR20261001031300017"
+    }
+   ]
+  },
+  "한화생명(088350)": {
+   "articles": [
+    {
+     "date": "2026-10-01",
+     "source": "연합뉴스·경제",
+     "title": "한화생명, 애큐온캐피탈·저축은행 품는다…\"종합금융그룹 구축\"(종합)",
+     "link": "https://www.yna.co.kr/view/AKR20260930160351008"
+    },
+    {
+     "date": "2026-10-01",
+     "source": "아시아경제",
+     "title": "EQT, 한화생명·센트로이드PE 컨소시엄에 애큐온그룹 매각",
+     "link": "https://view.asiae.co.kr/article/2026093017521093923"
+    }
+   ]
   }
  },
- "updatedAt": "2026-10-01T01:21:59+09:00"
+ "updatedAt": "2026-10-01T10:10:44+09:00"
 }

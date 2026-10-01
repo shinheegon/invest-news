@@ -1,9 +1,9 @@
 {
- "updatedAt": "2026-10-01T01:23:35+09:00",
+ "updatedAt": "2026-10-01T10:12:29+09:00",
  "note": "원본 헤드라인의 반복 언급을 탐지한 조사 후보이며 투자권유가 아니다. 동일 기사 재실행은 한 번만 집계하고, 순수 악재 반복과 모호한 회사명은 제외한다.",
  "window": 30,
- "corpusToday": 578,
- "trackedCompanies": 620,
+ "corpusToday": 926,
+ "trackedCompanies": 634,
  "companies": [
   {
    "code": "003530",
@@ -454,6 +454,90 @@
    ]
   },
   {
+   "code": "336060",
+   "name": "웨이버스",
+   "market": "KOSDAQ",
+   "cap": 292,
+   "total": 5,
+   "recent": 2,
+   "activeDays": 4,
+   "firstSeen": "2026-09-02",
+   "lastSeen": "2026-10-01",
+   "score": 15.3,
+   "riskMentions": 0,
+   "catalystMentions": 2,
+   "samples": [
+    {
+     "date": "2026-10-01",
+     "title": "웨이버스, 수주잔고 6개월 새 107% 급증…\"하반기 매출 본격화\""
+    },
+    {
+     "date": "2026-10-01",
+     "title": "\"웨이버스 수주잔고 반년만에 2배로…하반기 매출 급증할 것\""
+    },
+    {
+     "date": "2026-09-15",
+     "title": "웨이버스, WSCE 2026서 공간정보 AI 기술 공개…글로벌 진출 본격화"
+    }
+   ]
+  },
+  {
+   "code": "000080",
+   "name": "하이트진로",
+   "market": "KOSPI",
+   "cap": 10597,
+   "total": 5,
+   "recent": 2,
+   "activeDays": 4,
+   "firstSeen": "2026-09-09",
+   "lastSeen": "2026-10-01",
+   "score": 15.3,
+   "riskMentions": 0,
+   "catalystMentions": 1,
+   "samples": [
+    {
+     "date": "2026-10-01",
+     "title": "[클릭 e종목]\"하이트진로, 맥주 판매량 감소세…목표가↓\""
+    },
+    {
+     "date": "2026-09-29",
+     "title": "하이트진로 투자 스타트업 2곳, 올해 팁스 선정"
+    },
+    {
+     "date": "2026-09-10",
+     "title": "하이트진로, 69년 역사 익산공장 폐쇄…전주공장으로 생산 통합(종합)"
+    }
+   ]
+  },
+  {
+   "code": "106240",
+   "name": "파인테크닉스",
+   "market": "KOSDAQ",
+   "cap": 343,
+   "total": 5,
+   "recent": 2,
+   "activeDays": 4,
+   "firstSeen": "2026-09-19",
+   "lastSeen": "2026-10-01",
+   "score": 15.3,
+   "riskMentions": 0,
+   "catalystMentions": 1,
+   "samples": [
+    {
+     "date": "2026-10-01",
+     "title": "파인테크닉스, 10억원 유상증자…성진홀딩스에 제3자배정"
+    },
+    {
+     "date": "2026-10-01",
+     "title": "오르비텍, 파인테크닉스 주식 414만주 처분 완료…신사업 재원 확보"
+    },
+    {
+     "date": "2026-09-21",
+     "title": "파인테크닉스, 유클리드소프트와 AI 스마트 조명 개발 착수"
+    }
+   ]
+  },
+  {
    "code": "0233N0",
    "name": "RISE 글로벌AI낸드메모리반도체",
    "market": "KOSPI",
@@ -722,82 +806,6 @@
     {
      "date": "2026-09-30",
      "title": "엠브레인, 자사주 추가 취득…배당 이어 주주환원 강화"
-    }
-   ]
-  },
-  {
-   "code": "368970",
-   "name": "오에스피",
-   "market": "KOSDAQ",
-   "cap": 303,
-   "total": 2,
-   "recent": 2,
-   "activeDays": 2,
-   "firstSeen": "2026-09-30",
-   "lastSeen": "2026-10-01",
-   "score": 12.7,
-   "riskMentions": 0,
-   "catalystMentions": 0,
-   "samples": [
-    {
-     "date": "2026-10-01",
-     "title": "오에스피, 코스닥 관리종목 탈피…밸류업 본격화"
-    },
-    {
-     "date": "2026-09-30",
-     "title": "오에스피, 코스닥 관리종목 탈피…밸류업 본격화"
-    }
-   ]
-  },
-  {
-   "code": "439960",
-   "name": "코스모로보틱스",
-   "market": "KOSDAQ",
-   "cap": 3696,
-   "total": 2,
-   "recent": 2,
-   "activeDays": 2,
-   "firstSeen": "2026-09-30",
-   "lastSeen": "2026-10-01",
-   "score": 12.7,
-   "riskMentions": 0,
-   "catalystMentions": 0,
-   "samples": [
-    {
-     "date": "2026-10-01",
-     "title": "코스모로보틱스, '매출 부풀리기 의혹'에 하한가"
-    },
-    {
-     "date": "2026-09-30",
-     "title": "코스모로보틱스, '매출 부풀리기 의혹'에 하한가"
-    }
-   ]
-  },
-  {
-   "code": "005180",
-   "name": "빙그레",
-   "market": "KOSPI",
-   "cap": 7754,
-   "total": 3,
-   "recent": 2,
-   "activeDays": 2,
-   "firstSeen": "2026-09-08",
-   "lastSeen": "2026-09-29",
-   "score": 12.2,
-   "riskMentions": 0,
-   "catalystMentions": 1,
-   "samples": [
-    {
-     "date": "2026-09-29",
-     "title": "빙그레, 11월 멕시코 현지 유통업체에 메로나 납품"
-    },
-    {
-     "date": "2026-09-29",
-     "title": "빙그레, 11월 멕시코 유통업체 소리아나에 메로나 입점"
-    },
-    {
-     "date": "2026-09-08",
-     "title": "[게시판] 빙그레, 제39회 어린이 그림잔치 참가자 모집"
     }
    ]
   }
