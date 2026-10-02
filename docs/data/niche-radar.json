@@ -1,23 +1,23 @@
 {
- "updatedAt": "2026-10-02T02:00:58+09:00",
+ "updatedAt": "2026-10-02T10:31:26+09:00",
  "note": "원본 헤드라인의 반복 언급을 탐지한 조사 후보이며 투자권유가 아니다. 동일 기사 재실행은 한 번만 집계하고, 순수 악재 반복과 모호한 회사명은 제외한다.",
  "window": 30,
- "corpusToday": 587,
- "trackedCompanies": 626,
+ "corpusToday": 888,
+ "trackedCompanies": 634,
  "companies": [
   {
    "code": "003530",
    "name": "한화투자증권",
    "market": "KOSPI",
    "cap": 9837,
-   "total": 13,
-   "recent": 8,
+   "total": 15,
+   "recent": 10,
    "activeDays": 6,
    "firstSeen": "2026-09-08",
    "lastSeen": "2026-10-02",
-   "score": 44.5,
+   "score": 53.2,
    "riskMentions": 0,
-   "catalystMentions": 8,
+   "catalystMentions": 10,
    "samples": [
     {
      "date": "2026-10-02",
@@ -25,11 +25,11 @@
     },
     {
      "date": "2026-10-02",
-     "title": "한화투자증권 \"2차 국민성장펀드 전용저축계좌 가입 이벤트\""
+     "title": "한화투자증권 \"업비트와 함께하는 인스타툰 론칭 이벤트\""
     },
     {
      "date": "2026-10-02",
-     "title": "[인사] 한화투자증권"
+     "title": "한화투자증권 \"2차 국민성장펀드 전용저축계좌 가입 이벤트\""
     }
    ]
   },
@@ -342,6 +342,34 @@
    ]
   },
   {
+   "code": "042510",
+   "name": "라온시큐어",
+   "market": "KOSDAQ",
+   "cap": 1305,
+   "total": 5,
+   "recent": 3,
+   "activeDays": 4,
+   "firstSeen": "2026-09-16",
+   "lastSeen": "2026-10-02",
+   "score": 20.1,
+   "riskMentions": 0,
+   "catalystMentions": 0,
+   "samples": [
+    {
+     "date": "2026-10-02",
+     "title": "라온시큐어, '2026 블록체인&AI 해커톤' 성료…AI·Web3 기반 디지털 신뢰 서비스 발굴"
+    },
+    {
+     "date": "2026-10-02",
+     "title": "\"진짜 업무를 AI에 맡기려면\"…라온시큐어, 성능 아닌 '안전'에 주목"
+    },
+    {
+     "date": "2026-10-01",
+     "title": "\"진짜 업무를 AI에 맡기려면\"…라온시큐어, 성능 아닌 '안전'에 주목"
+    }
+   ]
+  },
+  {
    "code": "046210",
    "name": "HLB파나진",
    "market": "KOSDAQ",
@@ -534,34 +562,6 @@
     {
      "date": "2026-09-16",
      "title": "제노레이, 튀르키예 정부 유방촬영장치 입찰 '싹쓸이'…올해 130대 공급"
-    }
-   ]
-  },
-  {
-   "code": "042510",
-   "name": "라온시큐어",
-   "market": "KOSDAQ",
-   "cap": 1305,
-   "total": 4,
-   "recent": 2,
-   "activeDays": 4,
-   "firstSeen": "2026-09-16",
-   "lastSeen": "2026-10-02",
-   "score": 15.8,
-   "riskMentions": 0,
-   "catalystMentions": 0,
-   "samples": [
-    {
-     "date": "2026-10-02",
-     "title": "\"진짜 업무를 AI에 맡기려면\"…라온시큐어, 성능 아닌 '안전'에 주목"
-    },
-    {
-     "date": "2026-10-01",
-     "title": "\"진짜 업무를 AI에 맡기려면\"…라온시큐어, 성능 아닌 '안전'에 주목"
-    },
-    {
-     "date": "2026-09-17",
-     "title": "\"AI는 지능, Web3는 신뢰\"…에이전틱 AI 통제 해법 꺼낸 라온시큐어"
     }
    ]
   },

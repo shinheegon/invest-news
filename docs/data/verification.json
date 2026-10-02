@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-02T02:24:50+09:00",
+ "updatedAt": "2026-10-02T11:18:39+09:00",
  "cases": [
   {
    "name": "지투파워(388050)",
@@ -67379,6 +67379,28 @@
    "theme": "철강/강관",
    "status": "pending",
    "checks": []
+  },
+  {
+   "name": "웨이버스(336060)",
+   "type": "discovery",
+   "market": "韓",
+   "flagDate": "2026-10-02",
+   "signals": [
+    "수주잔고107.3%급증",
+    "매출총이익률5.7%p개선",
+    "구체촉발재"
+   ],
+   "theme": "공공SI/공간정보",
+   "status": "pending",
+   "checks": [],
+   "convScore": 7,
+   "convTier": "high",
+   "convSignals": [
+    "반복포착",
+    "구체촉발재",
+    "틈새레이더"
+   ],
+   "convStampedAt": "2026-10-02"
   }
  ],
  "stats": {
@@ -67388,8 +67410,8 @@
   "miss": 164,
   "hitRate": 24.3,
   "avgD3ChangePct": 0.32,
-  "pending": 135,
-  "total": 522,
+  "pending": 136,
+  "total": 523,
   "byType": {
    "leading": {
     "verified": 163,

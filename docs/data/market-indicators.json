@@ -1,23 +1,23 @@
 {
-  "updatedAt": "2026-10-02T07:05:00+09:00",
+  "updatedAt": "2026-10-02T10:40:00+09:00",
   "session": "AM",
-  "note": "AM — 코스피·코스닥은 10/1(목) 정규장 마감 기준(美 마이크론 실적·韓 9월 수출 역대최대 훈풍으로 급등 마감), 美 지표·증시는 10/1(목) 뉴욕 정규장 마감 기준. 한국은행 총재는 신현송(2026-04-21 취임).",
+  "note": "AM 재작성(10:40) — 코스피·코스닥은 10/2(금) 오전장 진행 중(09:00 개장, 장중 변동) 기준, 美 지표·증시는 10/1(목) 뉴욕 정규장 마감 기준. 연준 의장은 케빈 워시(2026-05-22 취임, 파월 후임).",
   "stock_fng": { "value": 31, "label": "Fear", "source": "https://benzinga.com/markets/market-summary/26/10/62097560/dow-dips-over-400-points-following-pce-data-investor-sentiment-improves-greed-index-remains-in-fear-zone" },
   "indices": [
-    { "name": "코스피", "value": "6,971.35", "change": "+1.95% · 10/1 마감(133.31p↑). 마이크론 실적·9월 수출 역대최대 훈풍 + 삼전·닉스 자사주 매수로 장중 낙폭(-0.67%) 만회 후 급반등", "source": "https://view.asiae.co.kr/article/2026100115353993483" },
-    { "name": "코스닥", "value": "894.29", "change": "+4.48% · 10/1 마감(38.38p↑). 반도체 소부장 강세 주도", "source": "https://view.asiae.co.kr/article/2026100115355604763" },
-    { "name": "S&P 500", "value": "7,651.54", "change": "-0.3% · 10/1 마감, 美 장기금리 24년래 최고 부담", "source": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-oct-01-2026" },
-    { "name": "나스닥", "value": "26,861.06", "change": "+0.2% · 10/1 마감, 마이크론 실적 호조에도 가이던스 경계감 혼조", "source": "https://www.cnbc.com/2026/09/30/stock-market-today-live-updates.html" },
+    { "name": "코스피", "value": "6,969.60", "change": "-0.03% · 10/2 오전장 중(10:30경). 전일(10/1) 종가 6,971.35(+1.95%) 대비 보합권. 개장 6,938.27(-0.47%)→고가 6,995.19→저가 6,927.88 터치 후 등락", "source": "https://www.fnnews.com/news/202610020900551261" },
+    { "name": "코스닥", "value": "897.00", "change": "+0.30% · 10/2 오전장 중. 장초반 900선 터치(900.32·+0.67%, 고가 903.81) 후 되밀림", "source": "https://www.yna.co.kr/view/AKR20261002034300008" },
+    { "name": "S&P 500", "value": "7,651.54", "change": "-0.3% · 10/1 마감, 美 장기금리 부담", "source": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-oct-01-2026" },
+    { "name": "나스닥", "value": "26,861.06", "change": "+0.2% · 10/1 마감, 마이크론 효과로 선방", "source": "https://www.cnbc.com/2026/09/30/stock-market-today-live-updates.html" },
     { "name": "다우", "value": "50,906.05", "change": "-0.9%(-443.87pt) · 10/1 마감, 국채금리 급등 부담", "source": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-oct-01-2026" },
-    { "name": "VIX", "value": "17.49", "change": "+9.3% · Fear 구간 진입, 국채금리 급등에 변동성 확대", "source": "https://tradingeconomics.com/united-states/cboe-volatility-index-vix-fed-data.html" },
-    { "name": "美 10년물", "value": "5.25%", "change": "10/1 장중 5.33~5.34%(2002년래 24년 최고) 터치 후 소폭 되밀림 — 글로벌 국채 매도 지속", "source": "https://www.cnbc.com/2026/10/01/us-treasury-bond-yield.html" },
+    { "name": "VIX", "value": "17.49", "change": "+9.3% · 10/1 기준 Fear 구간", "source": "https://tradingeconomics.com/united-states/cboe-volatility-index-vix-fed-data.html" },
+    { "name": "美 10년물", "value": "5.25%", "change": "10/1 장중 5.33~5.34%(24년래 최고) 터치 후 10/2 오전(현지시간 기준 전일 장중) 일부 반락 — 연준 고위인사(윌리엄스·제퍼슨·보먼) 잇단 신중론으로 10월 추가 인상 확률 33%→26%로 하락", "source": "https://www.newspim.com/news/view/20261002000012" },
     { "name": "달러인덱스(DXY)", "value": "101.6", "change": "+0.2% · 연내 고점권 지속", "source": "https://www.fxstreet.com/news/united-states-dollar-index-approaches-yearly-high-near-10180-us-ism-pmi-in-focus-202610010324" },
-    { "name": "원/달러", "value": "1,358.4", "change": "+5.6원 · 10/1 15:30 기준가, 美 장기금리 부담에 약세", "source": "https://www.yna.co.kr/view/AKR20261001141600002" },
-    { "name": "美 기준금리", "value": "3.75~4.00%", "change": "0 · 9/16 FOMC +25bp 인상 이후 유지. 미니애폴리스 연은 카시카리 총재(9/30) \"PCE 둔화에도 물가 여전히 너무 높다\"며 매파 신호, 트럼프 대통령은 \"연내 추가 인상은 안 된다\"고 압박 — 10/27~28 FOMC 향방 불투명", "source": "https://news.einfomax.co.kr/news/articleView.html?idxno=4437465" },
-    { "name": "한국 기준금리", "value": "3.00%", "change": "0 · 8/27 2회 연속 인상(2.75%→3.00%) 이후 유지. 신현송 총재 \"적어도 6개월 사이 금리를 올리거나 내릴 가능성은 적다\" — 10/22 금통위 예정", "source": "https://imnews.imbc.com/news/2026/econo/article/6803435_36932.html" },
+    { "name": "원/달러", "value": "1,358.4", "change": "10/1 15:30 종가 기준(+5.6원). IBK투자증권은 연말 1,400원 전후까지 추가 상방 가능성 제시(대미투자 확대·美금리 상승이 아직 충분히 반영 안 됨)", "source": "https://www.newspim.com/news/view/20261002000058" },
+    { "name": "美 기준금리", "value": "3.75~4.00%", "change": "0 · 9/16 FOMC +25bp 인상 이후 유지. 연준 의장 케빈 워시 체제에서도 윌리엄스(NY연은)·제퍼슨(부의장)·보먼(부의장) 등이 10/2 잇달아 신중론 — CME 10월 추가 인상 확률 26%로 급락. 10/27~28 FOMC 예정", "source": "https://www.fnnews.com/news/202610020842334371" },
+    { "name": "한국 기준금리", "value": "3.00%", "change": "0 · 8/27 2회 연속 인상(2.75%→3.00%) 이후 유지. 신현송 총재, 10/22 금통위에서 물가·명목GDP 참고해 결정 예고", "source": "https://imnews.imbc.com/news/2026/econo/article/6803435_36932.html" },
     { "name": "美 CPI(PCE)", "value": "3.4%", "change": "0 · 8월 PCE YoY(9/30 발표) 유지, 근원 3.0%", "source": "https://www.cnbc.com/2026/09/30/watch-minneapolis-fed-president-neel-kashkari.html" },
-    { "name": "韓 CPI", "value": "3.1%", "change": "0 · 8월 YoY 확정치 유지, 9월 수치는 10월 초 발표 예정", "source": "https://mods.go.kr/board.es?act=view&bid=213&list_no=446746&mid=a10301040100&nPage=1" },
+    { "name": "韓 CPI", "value": "2.9%", "change": "-0.2 · 9월 YoY(10/2 발표) 2%대로 복귀(8월 3.1%→9월 2.9%). 석유류 +14.8% 등 고공행진했으나 농산물 하락·정부 석유 최고가격제(상승률 0.6%p 억제 추정)로 전월보다 둔화", "source": "https://www.yna.co.kr/view/AKR20261002019751002" },
     { "name": "금(Gold)", "value": "4,182", "change": "+0.6% · 10/1 종가, 안전자산 수요 지속", "source": "https://tradingeconomics.com/commodity/gold" },
-    { "name": "국제유가(WTI)", "value": "91.5", "change": "고유가권 유지 · 호르무즈 리스크 완화됐으나 90달러대 고착", "source": "https://tradingeconomics.com/commodity/crude-oil" }
+    { "name": "국제유가(WTI)", "value": "91.5", "change": "고유가권 유지 · 中 연료 수출 중단·디젤 공급 압박으로 경유 가격 재상승", "source": "https://tradingeconomics.com/commodity/crude-oil" }
   ]
 }
