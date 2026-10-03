@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-02T11:18:39+09:00",
+ "updatedAt": "2026-10-03T10:30:56+09:00",
  "cases": [
   {
    "name": "지투파워(388050)",
@@ -67401,6 +67401,74 @@
     "틈새레이더"
    ],
    "convStampedAt": "2026-10-02"
+  },
+  {
+   "name": "인티큐브(070590)",
+   "type": "leading",
+   "market": "韓",
+   "flagDate": "2026-10-03",
+   "signals": [
+    "110억수주AX전환",
+    "200여고객사",
+    "구체촉발재"
+   ],
+   "theme": "기타(AI전환)",
+   "status": "pending",
+   "checks": [],
+   "convScore": 4,
+   "convTier": "mid",
+   "convSignals": [
+    "구체촉발재",
+    "틈새레이더"
+   ],
+   "convStampedAt": "2026-10-03"
+  },
+  {
+   "name": "자이언트스텝(289220)",
+   "type": "leading",
+   "market": "韓",
+   "flagDate": "2026-10-03",
+   "signals": [
+    "8월월간영업흑자전환",
+    "구체촉발재"
+   ],
+   "theme": "기타(AI콘텐츠)",
+   "status": "pending",
+   "checks": [],
+   "convScore": 2,
+   "convTier": "low",
+   "convSignals": [
+    "틈새레이더"
+   ],
+   "convStampedAt": "2026-10-03"
+  },
+  {
+   "name": "SK이노베이션(096770)",
+   "type": "warning",
+   "market": "韓",
+   "flagDate": "2026-10-03",
+   "signals": [
+    "中석유수출중단반사이익",
+    "헤드라인이미반영",
+    "G7비축유방출로유가반락"
+   ],
+   "theme": "정유",
+   "status": "pending",
+   "checks": []
+  },
+  {
+   "name": "S-Oil(010950)",
+   "type": "warning",
+   "market": "韓",
+   "flagDate": "2026-10-03",
+   "signals": [
+    "호르무즈리스크반사이익",
+    "헤드라인이미반영",
+    "G7비축유방출로유가반락"
+   ],
+   "theme": "정유",
+   "status": "pending",
+   "checks": []
   }
  ],
  "stats": {
@@ -67410,8 +67478,8 @@
   "miss": 164,
   "hitRate": 24.3,
   "avgD3ChangePct": 0.32,
-  "pending": 136,
-  "total": 523,
+  "pending": 140,
+  "total": 527,
   "byType": {
    "leading": {
     "verified": 163,
