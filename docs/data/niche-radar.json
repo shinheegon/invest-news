@@ -1,10 +1,402 @@
 {
- "updatedAt": "2026-10-07T10:24:09+09:00",
+ "updatedAt": "2026-10-08T02:24:56+09:00",
  "note": "원본 헤드라인의 반복 언급을 탐지한 조사 후보이며 투자권유가 아니다. 동일 기사 재실행은 한 번만 집계하고, 순수 악재 반복과 모호한 회사명은 제외한다.",
  "window": 30,
- "corpusToday": 570,
+ "corpusToday": 573,
  "trackedCompanies": 618,
  "companies": [
+  {
+   "code": "094360",
+   "name": "칩스앤미디어",
+   "market": "KOSDAQ",
+   "cap": 2785,
+   "total": 15,
+   "recent": 2,
+   "activeDays": 15,
+   "firstSeen": "2026-09-09",
+   "lastSeen": "2026-10-08",
+   "score": 32.4,
+   "riskMentions": 0,
+   "catalystMentions": 0,
+   "samples": [
+    {
+     "date": "2026-10-08",
+     "title": "칩스앤미디어, AI 반도체 메모리 병목 해소 '데이터 압축 IP' 공개"
+    },
+    {
+     "date": "2026-10-07",
+     "title": "칩스앤미디어, AI 반도체 메모리 병목 해소 '데이터 압축 IP' 공개"
+    },
+    {
+     "date": "2026-10-03",
+     "title": "[여의도 클라쓰] '제이엔비, 칩스앤미디어, 농심홀딩스' 클라쓰 올릴 종목은?"
+    }
+   ]
+  },
+  {
+   "code": "027410",
+   "name": "BGF",
+   "market": "KOSPI",
+   "cap": 3561,
+   "total": 7,
+   "recent": 4,
+   "activeDays": 4,
+   "firstSeen": "2026-09-09",
+   "lastSeen": "2026-10-08",
+   "score": 24.0,
+   "riskMentions": 0,
+   "catalystMentions": 0,
+   "samples": [
+    {
+     "date": "2026-10-08",
+     "title": "BGF, 자회사로 KNW 편입…반도체 소재에 힘준다"
+    },
+    {
+     "date": "2026-10-08",
+     "title": "BGF, 반도체 소재 손자회사 지분 전량 매입…지배구조 개편(종합)"
+    },
+    {
+     "date": "2026-10-08",
+     "title": "BGF, 817억 규모 케이엔더블유 지분 취득"
+    }
+   ]
+  },
+  {
+   "code": "234300",
+   "name": "에스트래픽",
+   "market": "KOSDAQ",
+   "cap": 848,
+   "total": 6,
+   "recent": 2,
+   "activeDays": 6,
+   "firstSeen": "2026-09-09",
+   "lastSeen": "2026-10-08",
+   "score": 18.8,
+   "riskMentions": 0,
+   "catalystMentions": 0,
+   "samples": [
+    {
+     "date": "2026-10-08",
+     "title": "에스트래픽 아메리카, '美 APTA 트랜스폼&엑스포' 참가"
+    },
+    {
+     "date": "2026-10-07",
+     "title": "에스트래픽 아메리카, '美 APTA 트랜스폼&엑스포' 참가"
+    },
+    {
+     "date": "2026-09-17",
+     "title": "[기로의상장사]에스트래픽, 경찰에 '중국산' 사기 납품 혐의…공공사업 신뢰도 '흔들'"
+    }
+   ]
+  },
+  {
+   "code": "950210",
+   "name": "프레스티지바이오파마",
+   "market": "KOSPI",
+   "cap": 3594,
+   "total": 6,
+   "recent": 2,
+   "activeDays": 6,
+   "firstSeen": "2026-09-09",
+   "lastSeen": "2026-10-08",
+   "score": 18.8,
+   "riskMentions": 0,
+   "catalystMentions": 2,
+   "samples": [
+    {
+     "date": "2026-10-08",
+     "title": "프레스티지바이오파마, CPHI 밀라노 참가…글로벌 파트너십 확대"
+    },
+    {
+     "date": "2026-10-07",
+     "title": "프레스티지바이오파마, CPHI 밀라노 참가…글로벌 파트너십 확대"
+    },
+    {
+     "date": "2026-09-21",
+     "title": "프레스티지바이오파마, '투즈뉴' 트리니다드토바고 품목허가 획득"
+    }
+   ]
+  },
+  {
+   "code": "347700",
+   "name": "스피어",
+   "market": "KOSDAQ",
+   "cap": 12836,
+   "total": 6,
+   "recent": 2,
+   "activeDays": 6,
+   "firstSeen": "2026-09-15",
+   "lastSeen": "2026-10-08",
+   "score": 18.8,
+   "riskMentions": 0,
+   "catalystMentions": 2,
+   "samples": [
+    {
+     "date": "2026-10-08",
+     "title": "스피어, 이틀간 특수합금 계약 608억원 확보…지난해 매출 64%"
+    },
+    {
+     "date": "2026-10-07",
+     "title": "스피어, 美 우주항공 발사업체에 188억 규모 특수합금 공급 [공시]"
+    },
+    {
+     "date": "2026-09-24",
+     "title": "스피어, 미국 우주항공 발사업체와 115억원 규모 특수합금 공급계약 [공시]"
+    }
+   ]
+  },
+  {
+   "code": "065500",
+   "name": "오리엔트정공",
+   "market": "KOSDAQ",
+   "cap": 370,
+   "total": 6,
+   "recent": 2,
+   "activeDays": 6,
+   "firstSeen": "2026-09-15",
+   "lastSeen": "2026-10-08",
+   "score": 18.8,
+   "riskMentions": 0,
+   "catalystMentions": 2,
+   "samples": [
+    {
+     "date": "2026-10-08",
+     "title": "오리엔트정공, 우레탄 접착제 개발…양산 테스트 착수"
+    },
+    {
+     "date": "2026-10-07",
+     "title": "오리엔트정공, 우레탄 접착제 개발…양산 테스트 착수"
+    },
+    {
+     "date": "2026-10-01",
+     "title": "오리엔트정공, 2대1 액면병합 결정…기업가치 제고"
+    }
+   ]
+  },
+  {
+   "code": "005300",
+   "name": "롯데칠성",
+   "market": "KOSPI",
+   "cap": 8898,
+   "total": 5,
+   "recent": 2,
+   "activeDays": 4,
+   "firstSeen": "2026-09-15",
+   "lastSeen": "2026-10-08",
+   "score": 15.3,
+   "riskMentions": 0,
+   "catalystMentions": 0,
+   "samples": [
+    {
+     "date": "2026-10-08",
+     "title": "[클릭 e종목]롯데칠성, 3분기 실적 기대치 하회 전망…목표가↓"
+    },
+    {
+     "date": "2026-10-07",
+     "title": "[클릭 e종목]롯데칠성, 3분기 실적 기대치 하회 전망…목표가↓"
+    },
+    {
+     "date": "2026-10-03",
+     "title": "[신상잇슈] 농심 '너구링'·롯데칠성 '칠성사이다 리치'"
+    }
+   ]
+  },
+  {
+   "code": "109820",
+   "name": "진매트릭스",
+   "market": "KOSDAQ",
+   "cap": 378,
+   "total": 3,
+   "recent": 2,
+   "activeDays": 3,
+   "firstSeen": "2026-09-15",
+   "lastSeen": "2026-10-08",
+   "score": 14.2,
+   "riskMentions": 0,
+   "catalystMentions": 2,
+   "samples": [
+    {
+     "date": "2026-10-08",
+     "title": "진매트릭스, 유전자 전달 플랫폼 'GM-CAD1' 美 특허 취득"
+    },
+    {
+     "date": "2026-10-07",
+     "title": "진매트릭스, 유전자 전달 플랫폼 'GM-CAD1' 美 특허 취득"
+    },
+    {
+     "date": "2026-09-15",
+     "title": "진매트릭스, 복지부 A형간염백신 임상시험 지원 협약 체결"
+    }
+   ]
+  },
+  {
+   "code": "0015B0",
+   "name": "KoAct 미국나스닥성장기업액티브",
+   "market": "KOSPI",
+   "cap": 6451,
+   "total": 2,
+   "recent": 2,
+   "activeDays": 2,
+   "firstSeen": "2026-10-07",
+   "lastSeen": "2026-10-08",
+   "score": 12.7,
+   "riskMentions": 0,
+   "catalystMentions": 2,
+   "samples": [
+    {
+     "date": "2026-10-08",
+     "title": "'KoAct 미국나스닥성장기업액티브', 나스닥 ETF 중 한달 수익률 1위"
+    },
+    {
+     "date": "2026-10-07",
+     "title": "'KoAct 미국나스닥성장기업액티브', 나스닥 ETF 중 한달 수익률 1위"
+    }
+   ]
+  },
+  {
+   "code": "002720",
+   "name": "국제약품",
+   "market": "KOSPI",
+   "cap": 937,
+   "total": 2,
+   "recent": 2,
+   "activeDays": 2,
+   "firstSeen": "2026-10-07",
+   "lastSeen": "2026-10-08",
+   "score": 12.7,
+   "riskMentions": 0,
+   "catalystMentions": 0,
+   "samples": [
+    {
+     "date": "2026-10-08",
+     "title": "국제약품, 페스트 감염 우려에 상한가…제약·진단주 강세"
+    },
+    {
+     "date": "2026-10-07",
+     "title": "국제약품, 페스트 감염 우려에 상한가…제약·진단주 강세"
+    }
+   ]
+  },
+  {
+   "code": "251630",
+   "name": "브이원텍",
+   "market": "KOSDAQ",
+   "cap": 641,
+   "total": 2,
+   "recent": 2,
+   "activeDays": 2,
+   "firstSeen": "2026-10-07",
+   "lastSeen": "2026-10-08",
+   "score": 12.7,
+   "riskMentions": 0,
+   "catalystMentions": 2,
+   "samples": [
+    {
+     "date": "2026-10-08",
+     "title": "브이원텍, 배터리 리크 검사 양산장비 2대 수주…북미 생산라인 적용"
+    },
+    {
+     "date": "2026-10-07",
+     "title": "브이원텍, 배터리 리크 검사 양산장비 2대 수주…북미 생산라인 적용"
+    }
+   ]
+  },
+  {
+   "code": "203450",
+   "name": "유니온바이오메트릭스",
+   "market": "KOSDAQ",
+   "cap": 398,
+   "total": 2,
+   "recent": 2,
+   "activeDays": 2,
+   "firstSeen": "2026-10-07",
+   "lastSeen": "2026-10-08",
+   "score": 12.7,
+   "riskMentions": 0,
+   "catalystMentions": 2,
+   "samples": [
+    {
+     "date": "2026-10-08",
+     "title": "유니온바이오메트릭스, 171억원 육군 사업 단독 수주"
+    },
+    {
+     "date": "2026-10-07",
+     "title": "유니온바이오메트릭스, 171억원 육군 사업 단독 수주"
+    }
+   ]
+  },
+  {
+   "code": "261520",
+   "name": "이지스",
+   "market": "KOSDAQ",
+   "cap": 611,
+   "total": 2,
+   "recent": 2,
+   "activeDays": 2,
+   "firstSeen": "2026-10-07",
+   "lastSeen": "2026-10-08",
+   "score": 12.7,
+   "riskMentions": 0,
+   "catalystMentions": 0,
+   "samples": [
+    {
+     "date": "2026-10-08",
+     "title": "이지스 트윈트리타워, ESG도 몸값 됐다…\"亞 복합용도 1위\""
+    },
+    {
+     "date": "2026-10-07",
+     "title": "이지스 트윈트리타워, ESG도 몸값 됐다…\"亞 복합용도 1위\""
+    }
+   ]
+  },
+  {
+   "code": "0190M0",
+   "name": "KIWOOM 미국AI테크하이베타",
+   "market": "KOSPI",
+   "cap": 217,
+   "total": 2,
+   "recent": 2,
+   "activeDays": 2,
+   "firstSeen": "2026-10-07",
+   "lastSeen": "2026-10-08",
+   "score": 12.7,
+   "riskMentions": 0,
+   "catalystMentions": 0,
+   "samples": [
+    {
+     "date": "2026-10-08",
+     "title": "키움운용, KIWOOM 미국AI테크하이베타 ETF 마이크론·스페이스X 편입"
+    },
+    {
+     "date": "2026-10-07",
+     "title": "키움운용, KIWOOM 미국AI테크하이베타 ETF 마이크론·스페이스X 편입"
+    }
+   ]
+  },
+  {
+   "code": "005690",
+   "name": "파미셀",
+   "market": "KOSPI",
+   "cap": 7813,
+   "total": 2,
+   "recent": 2,
+   "activeDays": 2,
+   "firstSeen": "2026-10-07",
+   "lastSeen": "2026-10-08",
+   "score": 12.7,
+   "riskMentions": 0,
+   "catalystMentions": 2,
+   "samples": [
+    {
+     "date": "2026-10-08",
+     "title": "파미셀 \"CPHI 밀라노 2026에서 글로벌 사업협력 확대\""
+    },
+    {
+     "date": "2026-10-07",
+     "title": "파미셀 \"CPHI 밀라노 2026에서 글로벌 사업협력 확대\""
+    }
+   ]
+  },
   {
    "code": "034230",
    "name": "파라다이스",

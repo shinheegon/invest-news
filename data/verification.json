@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-07T11:00:06+09:00",
+ "updatedAt": "2026-10-08T03:04:58+09:00",
  "cases": [
   {
    "name": "지투파워(388050)",
@@ -67665,6 +67665,49 @@
    "theme": "이차전지",
    "status": "pending",
    "checks": []
+  },
+  {
+   "name": "BGF(027410)",
+   "type": "leading",
+   "market": "韓",
+   "flagDate": "2026-10-08",
+   "signals": [
+    "반도체소재자회사편입",
+    "지배구조개편공시반복"
+   ],
+   "theme": "반도체소재(지배구조재편)",
+   "status": "pending",
+   "checks": [],
+   "convScore": 2,
+   "convTier": "low",
+   "convSignals": [
+    "반복포착",
+    "⚠️열세테마",
+    "틈새레이더"
+   ],
+   "convStampedAt": "2026-10-08"
+  },
+  {
+   "name": "넥사다이내믹스(351320)",
+   "type": "leading",
+   "market": "韓",
+   "flagDate": "2026-10-08",
+   "signals": [
+    "일본AI서버실계약",
+    "130억증자완료",
+    "재점화"
+   ],
+   "theme": "AI서버/데이터센터 장비",
+   "status": "pending",
+   "checks": [],
+   "convScore": 2,
+   "convTier": "low",
+   "convSignals": [
+    "반복포착",
+    "구체촉발재",
+    "⚠️열세테마"
+   ],
+   "convStampedAt": "2026-10-08"
   }
  ],
  "stats": {
@@ -67674,8 +67717,8 @@
   "miss": 164,
   "hitRate": 24.3,
   "avgD3ChangePct": 0.32,
-  "pending": 151,
-  "total": 538,
+  "pending": 153,
+  "total": 540,
   "byType": {
    "leading": {
     "verified": 163,
