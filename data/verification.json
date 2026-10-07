@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-03T10:30:56+09:00",
+ "updatedAt": "2026-10-07T11:00:06+09:00",
  "cases": [
   {
    "name": "지투파워(388050)",
@@ -67469,6 +67469,202 @@
    "theme": "정유",
    "status": "pending",
    "checks": []
+  },
+  {
+   "name": "대성하이텍(129920)",
+   "type": "discovery",
+   "market": "韓",
+   "flagDate": "2026-10-07",
+   "signals": [
+    "대형수주330억",
+    "실적턴어라운드조짐",
+    "로봇·AIDC·방산3중축",
+    "오늘신규포착"
+   ],
+   "theme": "로봇/휴머노이드·AI데이터센터",
+   "status": "pending",
+   "checks": [],
+   "convScore": 1,
+   "convTier": "low",
+   "convSignals": [
+    "승세테마",
+    "구체촉발재",
+    "⚠️열세테마"
+   ],
+   "convStampedAt": "2026-10-07"
+  },
+  {
+   "name": "본시스템즈",
+   "type": "discovery",
+   "market": "韓",
+   "flagDate": "2026-10-07",
+   "signals": [
+    "글로벌PO확보",
+    "승세테마",
+    "구체촉발재"
+   ],
+   "theme": "로봇/휴머노이드",
+   "status": "pending",
+   "checks": [],
+   "convScore": 5,
+   "convTier": "high",
+   "convSignals": [
+    "반복포착",
+    "승세테마"
+   ],
+   "convStampedAt": "2026-10-07"
+  },
+  {
+   "name": "가온칩스(399720)",
+   "type": "discovery",
+   "market": "韓",
+   "flagDate": "2026-10-07",
+   "signals": [
+    "반복포착",
+    "승세테마",
+    "구체촉발재",
+    "과거검증승자"
+   ],
+   "theme": "AI반도체설계(팹리스/IP)",
+   "status": "pending",
+   "checks": [],
+   "convScore": 5,
+   "convTier": "high",
+   "convSignals": [
+    "반복포착",
+    "승세테마"
+   ],
+   "convStampedAt": "2026-10-07"
+  },
+  {
+   "name": "다이나믹솔루션(070120)",
+   "type": "discovery",
+   "market": "韓",
+   "flagDate": "2026-10-07",
+   "signals": [
+    "로봇손신제품",
+    "승세테마"
+   ],
+   "theme": "로봇/휴머노이드",
+   "status": "pending",
+   "checks": [],
+   "convScore": 7,
+   "convTier": "high",
+   "convSignals": [
+    "반복포착",
+    "승세테마",
+    "구체촉발재"
+   ],
+   "convStampedAt": "2026-10-07"
+  },
+  {
+   "name": "아이씨에이치(368600)",
+   "type": "leading",
+   "market": "韓",
+   "flagDate": "2026-10-07",
+   "signals": [
+    "반복포착18회",
+    "틈새레이더",
+    "구체촉발재",
+    "최근공백재점검"
+   ],
+   "theme": "로봇/휴머노이드(폴더블 부품)",
+   "status": "pending",
+   "checks": [],
+   "convScore": 5,
+   "convTier": "high",
+   "convSignals": [
+    "반복포착",
+    "승세테마"
+   ],
+   "convStampedAt": "2026-10-07"
+  },
+  {
+   "name": "한국피아이엠(448970)",
+   "type": "leading",
+   "market": "韓",
+   "flagDate": "2026-10-07",
+   "signals": [
+    "반복포착13회",
+    "구체촉발재",
+    "승세테마",
+    "최근공백재점검"
+   ],
+   "theme": "로봇/휴머노이드",
+   "status": "pending",
+   "checks": [],
+   "convScore": 5,
+   "convTier": "high",
+   "convSignals": [
+    "반복포착",
+    "승세테마"
+   ],
+   "convStampedAt": "2026-10-07"
+  },
+  {
+   "name": "에이치엘비제약(047920)",
+   "type": "warning",
+   "market": "韓",
+   "flagDate": "2026-10-07",
+   "signals": [
+    "오늘+29.97%급등",
+    "헤드라인이미반영"
+   ],
+   "theme": "바이오",
+   "status": "pending",
+   "checks": []
+  },
+  {
+   "name": "샌즈랩(411080)",
+   "type": "warning",
+   "market": "韓",
+   "flagDate": "2026-10-07",
+   "signals": [
+    "오늘+30%급등",
+    "헤드라인이미반영"
+   ],
+   "theme": "기타",
+   "status": "pending",
+   "checks": []
+  },
+  {
+   "name": "라온시큐어(042510)",
+   "type": "warning",
+   "market": "韓",
+   "flagDate": "2026-10-07",
+   "signals": [
+    "금융권AI해킹보안주상한가",
+    "헤드라인이미반영"
+   ],
+   "theme": "보안/사이버",
+   "status": "pending",
+   "checks": []
+  },
+  {
+   "name": "SK이노베이션(096770)",
+   "type": "warning",
+   "market": "韓",
+   "flagDate": "2026-10-07",
+   "signals": [
+    "오늘+10.32%급등",
+    "정유마진개선헤드라인이미반영"
+   ],
+   "theme": "정유",
+   "status": "pending",
+   "checks": []
+  },
+  {
+   "name": "SK아이이테크놀로지(361610)",
+   "type": "warning",
+   "market": "韓",
+   "flagDate": "2026-10-07",
+   "signals": [
+    "오늘+8.93%급등",
+    "헤드라인이미반영"
+   ],
+   "theme": "이차전지",
+   "status": "pending",
+   "checks": []
   }
  ],
  "stats": {
@@ -67478,8 +67674,8 @@
   "miss": 164,
   "hitRate": 24.3,
   "avgD3ChangePct": 0.32,
-  "pending": 140,
-  "total": 527,
+  "pending": 151,
+  "total": 538,
   "byType": {
    "leading": {
     "verified": 163,
