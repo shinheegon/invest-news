@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-08T11:08:26+09:00",
+ "updatedAt": "2026-10-09T02:59:10+09:00",
  "cases": [
   {
    "name": "지투파워(388050)",
@@ -67708,6 +67708,65 @@
     "⚠️열세테마"
    ],
    "convStampedAt": "2026-10-08"
+  },
+  {
+   "name": "퀀텀레일(070300)",
+   "type": "leading",
+   "market": "韓",
+   "flagDate": "2026-10-09",
+   "signals": [
+    "금융권해킹이슈동시점등",
+    "전담조직신설",
+    "오늘신규포착"
+   ],
+   "theme": "양자보안/금융보안",
+   "status": "pending",
+   "checks": [],
+   "convScore": 2,
+   "convTier": "low",
+   "convSignals": [
+    "틈새레이더"
+   ],
+   "convStampedAt": "2026-10-09"
+  },
+  {
+   "name": "동양고속(084670)",
+   "type": "warning",
+   "market": "韓",
+   "flagDate": "2026-10-09",
+   "signals": [
+    "이틀연속상한가",
+    "고터재개발기대"
+   ],
+   "theme": "고속버스터미널 재개발",
+   "status": "pending",
+   "checks": []
+  },
+  {
+   "name": "포티넷(FTNT)",
+   "type": "warning",
+   "market": "美",
+   "flagDate": "2026-10-09",
+   "signals": [
+    "연초이후+140%",
+    "신고가"
+   ],
+   "theme": "AI보안",
+   "status": "pending",
+   "checks": []
+  },
+  {
+   "name": "울프스피드(WOLF)",
+   "type": "warning",
+   "market": "美",
+   "flagDate": "2026-10-09",
+   "signals": [
+    "국방부15억달러대출",
+    "시간외+17%"
+   ],
+   "theme": "전력반도체(SiC)",
+   "status": "pending",
+   "checks": []
   }
  ],
  "stats": {
@@ -67717,8 +67776,8 @@
   "miss": 164,
   "hitRate": 24.3,
   "avgD3ChangePct": 0.32,
-  "pending": 153,
-  "total": 540,
+  "pending": 157,
+  "total": 544,
   "byType": {
    "leading": {
     "verified": 163,
