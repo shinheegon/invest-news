@@ -1,23 +1,23 @@
 {
-  "updatedAt": "2026-10-08T07:30:00+09:00",
+  "updatedAt": "2026-10-08T10:55:00+09:00",
   "session": "AM",
-  "note": "AM 재작성 — 코스피·코스닥은 10/7 정규장 마감 기준, 美 지표·증시는 10/7(미국 현지시간) 뉴욕 정규장 마감 기준(한국시간 10/8 새벽 반영). 美·韓 기준금리 모두 직전 '인상' 후 유지 중(완화 아님) — 美 9/16 FOMC +25bp(3.75~4.00%), 韓 8/27 2회연속 인상(3.00%).",
+  "note": "AM 재작성(2차) — 코스피·코스닥은 10/8 오전장 진행 중(09:09 기준 스냅샷), 美 지표·증시는 10/7(미국 현지시간) 뉴욕 정규장 마감 기준. 오늘 삼성전자 3분기 영업이익 107.4조원(전년比 +782.5%, 분기 기준 국내 최초 100조 돌파) 발표됐으나 주가는 장초반 -0.56%로 '사상최대 실적에 셀온' 양상. 美·韓 기준금리 모두 직전 '인상' 후 유지 중(완화 아님) — 美 9/16 FOMC +25bp(3.75~4.00%), 韓 8/27 2회연속 인상(3.00%), 韓 10/22 금통위 예정.",
   "stock_fng": { "value": 47, "label": "Neutral(개선 중, 43→47)", "source": "https://www.benzinga.com/markets/market-summary/26/10/62209042/sp-500-hits-record-high-investor-sentiment-improves-fear-greed-index-moves-to-neutral-zone" },
   "indices": [
-    { "name": "코스피", "value": "6,803.90", "change": "-1.98%(-137.49pt) · 10/7 마감, 외국인 2.2조원대 매도에 7000선·6900선 모두 이탈. 삼성전자·SK하이닉스 실적발표(10/8) 경계감", "source": "https://view.asiae.co.kr/article/2026100715315501688" },
-    { "name": "코스닥", "value": "898.43", "change": "-2.34%(-21.49pt) · 10/7 마감, 전날(10/6) 이차전지·바이오 강세로 +2.98%(919.92) 급등 후 하루만에 900선 반납", "source": "https://view.asiae.co.kr/article/2026100715353389912" },
-    { "name": "S&P 500", "value": "7,802.44", "change": "-0.21%(-16.49pt) · 10/7 마감, 美 국채금리 24년만 최고치 부담에 전일 기록 경신 후 숨고르기", "source": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-october-7-dow-sp-500-nasdaq-080241833.html" },
-    { "name": "나스닥", "value": "27,494.39", "change": "-0.38%(-105.50pt) · 10/7 마감, 전일 사상최고치 경신 후 반납", "source": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-october-7-dow-sp-500-nasdaq-080241833.html" },
-    { "name": "다우", "value": "51,236.43", "change": "-0.55%(-284.85pt) · 10/7 마감", "source": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-october-7-dow-sp-500-nasdaq-080241833.html" },
-    { "name": "VIX", "value": "15.22", "change": "+1.40% · 10/7 CBOE 스팟 기준, 저변동성 구간 유지", "source": "https://tradingeconomics.com/united-states/cboe-volatility-index-vix-fed-data.html" },
-    { "name": "美 10년물", "value": "5.28%", "change": "-2.6bp · 10/7 기준, 전일 2002년 4월來 최고치 기록 후 소폭 숨고르기", "source": "https://www.blockmedia.co.kr/archives/1148442" },
-    { "name": "달러인덱스(DXY)", "value": "101.53", "change": "-0.28% · 10/7 기준, 유로 반등·美 금리 하락에 약세", "source": "https://www.blockmedia.co.kr/archives/1148442" },
-    { "name": "원/달러", "value": "1,340.4", "change": "-3.2원 · 10/7 15:30 기준, 수출기업 달러 매도 유입", "source": "https://www.yna.co.kr/view/AKR20261007152600002" },
-    { "name": "美 기준금리", "value": "3.75~4.00%", "change": "0 · 9/16 FOMC +25bp 인상 이후 유지. CME FedWatch 10/28 FOMC 동결 확률 약 63~83%·추가인상 17~37%(인하 베팅 거의 0%)", "source": "https://www.fnnews.com/news/202610021405524466" },
-    { "name": "한국 기준금리", "value": "3.00%", "change": "0 · 8/27 2회 연속 인상 이후 유지", "source": "https://www.mt.co.kr/economy/2026/10/02/2026100207131172401" },
+    { "name": "코스피", "value": "6,785.20", "change": "-0.27%(-18.70pt) · 10/8 오전 9시9분 기준, 4.78p 상승 출발 후 하락 전환. 개인 순매수 672억·외국인 663억·기관 14억 순매도", "source": "https://blockmedia.co.kr/archives/1148975" },
+    { "name": "코스닥", "value": "886.99", "change": "-1.27%(-11.44pt) · 10/8 오전 9시9분 기준, 코스피보다 낙폭 확대", "source": "https://blockmedia.co.kr/archives/1148975" },
+    { "name": "S&P 500", "value": "7,801.77", "change": "-0.22%(-16.95pt) · 10/7 마감, 美 국채금리·유가 반등에 사상최고치 기록 다음날 반납", "source": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-october-7-dow-sp-500-nasdaq-080241833.html" },
+    { "name": "나스닥", "value": "27,538.69", "change": "-0.22%(-61.20pt) · 10/7 마감", "source": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-october-7-dow-sp-500-nasdaq-080241833.html" },
+    { "name": "다우", "value": "51,179.87", "change": "-0.66%(-341.41pt) · 10/7 마감", "source": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-october-7-dow-sp-500-nasdaq-080241833.html" },
+    { "name": "VIX", "value": "15.08", "change": "-0.9% · 10/7 CBOE 스팟 기준, 저변동성 구간 유지", "source": "https://tradingeconomics.com/united-states/cboe-volatility-index-vix-fed-data.html" },
+    { "name": "美 10년물", "value": "5.28%", "change": "0bp · 2002년 4월來 최고치 부근 유지, 10/7 뉴욕증시 조정 요인", "source": "https://www.blockmedia.co.kr/archives/1148442" },
+    { "name": "달러인덱스(DXY)", "value": "101.27", "change": "-0.26% · 10/8 오전 기준, 약세 흐름 지속", "source": "https://kr.investing.com/news/stock-market-news/article-2118519" },
+    { "name": "원/달러", "value": "1,337.70", "change": "-2.7원 · 10/8 오전 10시 기준(KB국민은행 매매기준율), 달러 약세·수출기업 매도 유입", "source": "https://www.citibank.co.kr/FxdExrt0100.act" },
+    { "name": "美 기준금리", "value": "3.75~4.00%", "change": "0 · 9/16 FOMC +25bp 인상 이후 유지. 9월 비농업고용 2.9만명(예상 8.4만~9만명 하회)·실업률 4.2%로 둔화 신호와 달리 일부 시장은 10/28 FOMC 추가 인상 가능성도 열어둠 — 전망 혼재", "source": "https://m.news.nate.com/view/20261002n35779" },
+    { "name": "한국 기준금리", "value": "3.00%", "change": "0 · 8/27 2회 연속 인상 이후 유지, 10/22 금통위 결정 예정", "source": "https://www.mt.co.kr/economy/2026/10/02/2026100207131172401" },
     { "name": "美 CPI", "value": "3.4%", "change": "0 · 8월 YoY(9월 CPI는 10/14 발표 예정), 근원 CPI 2.4%", "source": "https://m.news.nate.com/view/20260911n31877" },
     { "name": "韓 CPI", "value": "2.9%", "change": "0%p · 9월 YoY, 석유류 14.8%↑가 견인·서비스물가는 둔화(3.7%→2.7%)", "source": "https://view.asiae.co.kr/article/2026100209285359116" },
-    { "name": "금(Gold)", "value": "4,164.12", "change": "+0.56% · 10/7 기준 국제 금 현물, 달러·금리 동반 하락이 견인", "source": "https://www.blockmedia.co.kr/archives/1148442" },
-    { "name": "국제유가(WTI)", "value": "89.85", "change": "+0.46% · 10/7 기준, 호르무즈 지정학 리스크 속 보합권", "source": "https://tradingeconomics.com/commodity/crude-oil" }
+    { "name": "금(Gold)", "value": "4,200", "change": "+1%↑ · 10/8 오전 기준 국제 금 현물, 달러 약세·안전자산 수요로 온스당 4,200달러선 돌파", "source": "https://kr.investing.com/news/stock-market-news/article-2118519" },
+    { "name": "국제유가(WTI)", "value": "89.85", "change": "+0.46% · 10/7 기준, 호르무즈 지정학 리스크 속 보합권(10/8 갱신치 미확인)", "source": "https://tradingeconomics.com/commodity/crude-oil" }
   ]
 }
