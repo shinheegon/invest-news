@@ -1,6 +1,126 @@
 {
- "updatedAt": "2026-10-09T11:20:57+09:00",
+ "updatedAt": "2026-10-10T02:33:51+09:00",
  "cases": [
+  {
+   "name": "이엠앤아이(083470)",
+   "type": "leading",
+   "market": "韓",
+   "flagDate": "2026-10-10",
+   "signals": [
+    "경기도제조로봇이니셔티브재선정",
+    "구체촉발재"
+   ],
+   "theme": "로봇/휴머노이드",
+   "status": "pending",
+   "checks": [],
+   "convScore": 9,
+   "convTier": "high",
+   "convSignals": [
+    "반복포착",
+    "승세테마",
+    "구체촉발재",
+    "틈새레이더"
+   ],
+   "convStampedAt": "2026-10-10"
+  },
+  {
+   "name": "아이엘(307180)",
+   "type": "leading",
+   "market": "韓",
+   "flagDate": "2026-10-10",
+   "signals": [
+    "반복포착",
+    "승세테마",
+    "구체촉발재"
+   ],
+   "theme": "로봇/휴머노이드",
+   "status": "pending",
+   "checks": [],
+   "convScore": 5,
+   "convTier": "high",
+   "convSignals": [
+    "반복포착",
+    "승세테마"
+   ],
+   "convStampedAt": "2026-10-10"
+  },
+  {
+   "name": "아이씨에이치(368600)",
+   "type": "leading",
+   "market": "韓",
+   "flagDate": "2026-10-10",
+   "signals": [
+    "틈새레이더",
+    "구체촉발재"
+   ],
+   "theme": "로봇/휴머노이드",
+   "status": "pending",
+   "checks": [],
+   "convScore": 5,
+   "convTier": "high",
+   "convSignals": [
+    "반복포착",
+    "승세테마"
+   ],
+   "convStampedAt": "2026-10-10"
+  },
+  {
+   "name": "칩스앤미디어(094360)",
+   "type": "discovery",
+   "market": "韓",
+   "flagDate": "2026-10-10",
+   "signals": [
+    "반복포착",
+    "승세테마",
+    "구체촉발재:데이터압축IP신제품"
+   ],
+   "theme": "AI반도체설계(팹리스/IP)",
+   "status": "pending",
+   "checks": [],
+   "convScore": 9,
+   "convTier": "high",
+   "convSignals": [
+    "반복포착",
+    "승세테마",
+    "구체촉발재",
+    "틈새레이더"
+   ],
+   "convStampedAt": "2026-10-10"
+  },
+  {
+   "name": "파두(440110)",
+   "type": "discovery",
+   "market": "韓",
+   "flagDate": "2026-10-10",
+   "signals": [
+    "반복포착",
+    "승세테마",
+    "구체촉발재"
+   ],
+   "theme": "AI반도체설계(팹리스/IP)",
+   "status": "pending",
+   "checks": [],
+   "convScore": 5,
+   "convTier": "high",
+   "convSignals": [
+    "반복포착",
+    "승세테마"
+   ],
+   "convStampedAt": "2026-10-10"
+  },
+  {
+   "name": "동아에스티(170900)",
+   "type": "warning",
+   "market": "韓",
+   "flagDate": "2026-10-10",
+   "signals": [
+    "열세테마:바이오",
+    "구체촉발재있으나테마역풍"
+   ],
+   "theme": "바이오/의료",
+   "status": "pending",
+   "checks": []
+  },
   {
    "name": "지투파워(388050)",
    "type": "leading",
@@ -67776,8 +67896,8 @@
   "miss": 164,
   "hitRate": 24.3,
   "avgD3ChangePct": 0.32,
-  "pending": 157,
-  "total": 544,
+  "pending": 163,
+  "total": 550,
   "byType": {
    "leading": {
     "verified": 163,

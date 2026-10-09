@@ -3,6 +3,12 @@
   "SK하이닉스(000660)": {
    "articles": [
     {
+     "date": "2026-10-10",
+     "source": "머니투데이",
+     "title": "- SK하이닉스(000660): \"2026년 HBM·D램·낸드 생산 사실상 완판\" 자체 발표, 10/7 AMD가 삼성·SK하이닉스로부터 HBM4 공급을 받기 시작",
+     "link": "https://www.mt.co.kr/industry/2026/10/01/2026100114535135360"
+    },
+    {
      "date": "2026-10-09",
      "source": "연합뉴스·경제",
      "title": "삼성전자, 역대 최대 실적에도 2%대 급락…SK하이닉스도 내려(종합)",
@@ -715,17 +721,29 @@
      "source": "한국경제·경제",
      "title": "SK하이닉스, 델 포럼서 AI 메모리 총망라…HBM4·eSSD 등 공개",
      "link": "https://www.hankyung.com/article/202608264553i"
-    },
-    {
-     "date": "2026-08-25",
-     "source": "한국경제·증권",
-     "title": "[속보] SK하이닉스 잠정합의안 노조 투표 부결…반대 50.1%",
-     "link": "https://www.hankyung.com/article/2026082504367"
     }
    ]
   },
   "삼성전자(005930)": {
    "articles": [
+    {
+     "date": "2026-10-10",
+     "source": "한국경제·경제",
+     "title": "[단독] 삼성전자 물량 80%가 장기계약분…빅테크 줄섰다",
+     "link": "https://www.hankyung.com/article/2026100929291"
+    },
+    {
+     "date": "2026-10-10",
+     "source": "한국경제·경제",
+     "title": "[단독] 삼성전자 내년 공급물량 80%가 장기계약",
+     "link": "https://www.hankyung.com/article/202610092740i"
+    },
+    {
+     "date": "2026-10-10",
+     "source": "newspim.com",
+     "title": "- 삼성전자(005930): 3분기 영업이익 107.4조원(전년比 +782.5%, 국내 최초 분기 100조 돌파)으로 메모리 슈퍼사이클이 실적으로 증명됐으나, 발",
+     "link": "https://www.newspim.com/news/view/20261008000948"
+    },
     {
      "date": "2026-10-09",
      "source": "한국경제·증권",
@@ -1427,29 +1445,17 @@
      "source": "연합인포맥스",
      "title": "삼성전자 동행노조, 이재용 회장 자택앞 집회…&quot;같은회사, 같은권리&quot; 구호",
      "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4435706"
-    },
-    {
-     "date": "2026-09-19",
-     "source": "연합뉴스·경제",
-     "title": "삼성전자, 3.4% 급등 마감…SK하이닉스는 6.4% 뛰어(종합)",
-     "link": "https://www.yna.co.kr/view/AKR20260918036851008"
-    },
-    {
-     "date": "2026-09-19",
-     "source": "뉴시스·경제",
-     "title": "\"10월 코스피 7000선 돌파 가능\"…삼성전자·SK하이닉스 '주목'",
-     "link": "https://www.newsis.com/view/NISX20260918_0003795413"
-    },
-    {
-     "date": "2026-09-19",
-     "source": "etoday.co.kr",
-     "title": "- 삼성전자(005930): 9/18 반도체 랠리 주도, +3.37%(26.1만원). HBM 점유율 33%로 SK하이닉스와 격차 17%p까지 축소.",
-     "link": "https://www.etoday.co.kr/news/view/2621683"
     }
    ]
   },
   "현대차(005380)": {
    "articles": [
+    {
+     "date": "2026-10-10",
+     "source": "한국경제·경제",
+     "title": "현대차, 유럽 전기차 누적판매 50만대 돌파",
+     "link": "https://www.hankyung.com/article/2026100928651"
+    },
     {
      "date": "2026-10-09",
      "source": "한국경제·증권",
@@ -2163,12 +2169,6 @@
      "source": "한국경제·증권",
      "title": "'판매 신기록' 기아, 현대차 실적 뛰어넘나",
      "link": "https://www.hankyung.com/article/2026080447191"
-    },
-    {
-     "date": "2026-08-04",
-     "source": "한국경제·증권",
-     "title": "\"삼성·현대차 집중 투자\"…우리운용, 피지컬AI 액티브 ETF 출시",
-     "link": "https://www.hankyung.com/article/2026080444426"
     }
    ]
   },
@@ -2590,6 +2590,12 @@
   },
   "애플(AAPL)": {
    "articles": [
+    {
+     "date": "2026-10-10",
+     "source": "연합인포맥스",
+     "title": "&quot;애플, 일부 공급업체에 아이폰18프로 부품 주문 생산 감축 요청&quot;",
+     "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4438497"
+    },
     {
      "date": "2026-10-09",
      "source": "한국경제·경제",
@@ -8551,6 +8557,12 @@
   "한미반도체(042700)": {
    "articles": [
     {
+     "date": "2026-10-10",
+     "source": "파이낸셜뉴스",
+     "title": "- 한미반도체(042700): 10/6 삼성전기와 AI반도체 기판용 대면적 MSVP 장비 공급계약(244.8억원, 계약기간 2027.12.17까지) 체결 — 관심",
+     "link": "https://fnnews.com/news/202610060856408145"
+    },
+    {
      "date": "2026-10-08",
      "source": "seoul.co.kr",
      "title": "- 한미반도체(042700): 10/6 삼성전기와 245억원 규모 MSVP(반도체 후공정 장비) 공급계약을 공시 — 2012년 특허소송 이후 끊겼던 삼성그룹向 거",
@@ -8996,6 +9008,12 @@
   },
   "마이크론(MU)": {
    "articles": [
+    {
+     "date": "2026-10-10",
+     "source": "한국경제·증권",
+     "title": "\"삼성닉스·마이크론 다 담았다\"…상장일 110억 몰린 ETF",
+     "link": "https://www.hankyung.com/article/202610092653i"
+    },
     {
      "date": "2026-10-08",
      "source": "한국경제·증권",
@@ -11910,6 +11928,12 @@
   },
   "한컴(030520)": {
    "articles": [
+    {
+     "date": "2026-10-10",
+     "source": "한국경제·증권",
+     "title": "'한글' 넘어 '인공지능 직원' 미국에 판다는 한컴…주가 반등 가능할까",
+     "link": "https://www.hankyung.com/article/202610081938i"
+    },
     {
      "date": "2026-09-08",
      "source": "연합뉴스·경제",
@@ -15616,6 +15640,18 @@
   },
   "한화오션(042660)": {
    "articles": [
+    {
+     "date": "2026-10-10",
+     "source": "한국경제·경제",
+     "title": "정인섭 한화오션 사장 \"크레인 아닌 협상장서 논의 이어가야\"",
+     "link": "https://www.hankyung.com/article/2026100928631"
+    },
+    {
+     "date": "2026-10-10",
+     "source": "연합인포맥스",
+     "title": "정인섭 한화오션 사장 &quot;불법 고공농성, 안전·생산 위협…심각한 우려&quot;",
+     "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4438484"
+    },
     {
      "date": "2026-10-09",
      "source": "연합인포맥스",
@@ -22301,6 +22337,12 @@
   "SK(034730)": {
    "articles": [
     {
+     "date": "2026-10-10",
+     "source": "한국경제·경제",
+     "title": "최태원 SK 회장 \"호남 반도체, 수요 있으면 더 크게 짓겠다\"",
+     "link": "https://www.hankyung.com/article/2026100928621"
+    },
+    {
      "date": "2026-10-09",
      "source": "한국경제·경제",
      "title": "'반도체 부지 점검'…최태원 SK 회장, 9일 광주 군공항 방문",
@@ -27903,6 +27945,12 @@
   "아모레퍼시픽(090430)": {
    "articles": [
     {
+     "date": "2026-10-10",
+     "source": "한국경제·경제",
+     "title": "아모레퍼시픽 대표가 피부과에 간 까닭은",
+     "link": "https://www.hankyung.com/article/2026100928791"
+    },
+    {
      "date": "2026-10-08",
      "source": "한국경제·증권",
      "title": "\"화장품株 주가 조정 과도\"…아모레퍼시픽 5%·한국콜마 5%대 상승",
@@ -29390,6 +29438,24 @@
   },
   "쿠팡(CPNG)": {
    "articles": [
+    {
+     "date": "2026-10-10",
+     "source": "한국경제·경제",
+     "title": "2시간 먹통 된 쿠팡 \"피해 보상\"",
+     "link": "https://www.hankyung.com/article/2026100928601"
+    },
+    {
+     "date": "2026-10-10",
+     "source": "연합인포맥스",
+     "title": "쿠팡, 전산장애로 2시간반 먹통…고객보상 진행",
+     "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4438489"
+    },
+    {
+     "date": "2026-10-10",
+     "source": "연합뉴스·경제",
+     "title": "슈퍼마켓연합회·택배노조, 쿠팡 장애에 대책 마련·보상 촉구",
+     "link": "https://www.yna.co.kr/view/AKR20261009050900030"
+    },
     {
      "date": "2026-10-09",
      "source": "한국경제·경제",
@@ -40339,6 +40405,12 @@
   "이엠앤아이(083470)": {
    "articles": [
     {
+     "date": "2026-10-10",
+     "source": "emoneynews.co.kr",
+     "title": "- 🌱 조기 출몰(선점 후보 — 최우선): 이엠앤아이(083470)·초소형 [반복 재출몰·누적 4회·↗] · 로봇/휴머노이드(제조로봇 자동화) · 정부과제 재선정",
+     "link": "http://www.emoneynews.co.kr/news/articleView.html?idxno=123196"
+    },
+    {
      "date": "2026-09-28",
      "source": "newspim.com",
      "title": "- 🌱 조기 출몰(선점 후보 — 최우선): 이엠앤아이(083470)·소형 [조기단계: 첫등장 D-17·발굴누적 3회·공백 후 재점화] · 로봇/휴머노이드 제조 자",
@@ -40628,6 +40700,12 @@
   },
   "IPARK현대산업개발(294870)": {
    "articles": [
+    {
+     "date": "2026-10-10",
+     "source": "연합뉴스·경제",
+     "title": "IPARK현대산업개발, '5천500억원' 숙대입구역세권 재개발 공략",
+     "link": "https://www.yna.co.kr/view/AKR20261009028100003"
+    },
     {
      "date": "2026-10-09",
      "source": "뉴시스·경제",
@@ -50239,6 +50317,24 @@
   "오픈AI": {
    "articles": [
     {
+     "date": "2026-10-10",
+     "source": "한국경제·증권",
+     "title": "오픈AI 매출 실망…AI 낙관론에 '찬물'",
+     "link": "https://www.hankyung.com/article/2026100929311"
+    },
+    {
+     "date": "2026-10-10",
+     "source": "한국경제·증권",
+     "title": "블룸버그 \"오픈AI, 올 연말엔 연 환산 매출 700억달러 달성\"",
+     "link": "https://www.hankyung.com/article/202610093047i"
+    },
+    {
+     "date": "2026-10-10",
+     "source": "연합인포맥스",
+     "title": "오픈AI 매출 거품 논란에 실망했지만…전문가 &quot;IPO 열기 뜨거울 것&quot;",
+     "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4438482"
+    },
+    {
      "date": "2026-10-09",
      "source": "한국경제·증권",
      "title": "\"오픈AI 매출 기대 못 미친다\"…S&P500·나스닥 '하락' [뉴욕증시 브리핑]",
@@ -51260,6 +51356,12 @@
   },
   "스타벅스(SBUX)": {
    "articles": [
+    {
+     "date": "2026-10-10",
+     "source": "한국경제·증권",
+     "title": "\"스타벅스에 인수되나\"…치폴레 주가 6% 급등",
+     "link": "https://www.hankyung.com/article/202610092535i"
+    },
     {
      "date": "2026-09-30",
      "source": "뉴시스·경제",
@@ -52481,5 +52583,5 @@
    ]
   }
  },
- "updatedAt": "2026-10-09T10:55:01+09:00"
+ "updatedAt": "2026-10-10T01:56:37+09:00"
 }
