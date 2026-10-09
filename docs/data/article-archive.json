@@ -752,9 +752,21 @@
     },
     {
      "date": "2026-10-09",
+     "source": "파이낸셜뉴스",
+     "title": "삼성전자, 분기 영업익 107조 찍었는데 주가는 주춤?...\"극단적 저평가, 지금이 매수 기회\"",
+     "link": "https://www.fnnews.com/news/202610090835517924"
+    },
+    {
+     "date": "2026-10-09",
      "source": "파이낸셜·증권",
      "title": "삼성전자 영업익 100조 시대, 다음 질문은...\"2027년 투자지도\"",
      "link": "https://www.fnnews.com/news/202610081526228546"
+    },
+    {
+     "date": "2026-10-09",
+     "source": "파이낸셜·증권",
+     "title": "삼성전자 역대급 실적에 차익실현 매물…코스피 6600선까지 하락",
+     "link": "https://www.fnnews.com/news/202610082215402483"
     },
     {
      "date": "2026-10-09",
@@ -785,6 +797,12 @@
      "source": "연합뉴스·경제",
      "title": "리밸런싱 수급부담? 삼성전자 역대 최대 실적에도 코스피 약세",
      "link": "https://www.yna.co.kr/view/AKR20261008093400008"
+    },
+    {
+     "date": "2026-10-09",
+     "source": "news.einfomax.co.kr",
+     "title": "- 삼성전자(005930): 3분기 영업이익 107조4,000억원(+782.5%) 발표에도 '셀온'으로 주가 약세. 일부 월가는 2027년 영업이익 560조원(엔",
+     "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4438466"
     },
     {
      "date": "2026-10-08",
@@ -1427,24 +1445,6 @@
      "source": "etoday.co.kr",
      "title": "- 삼성전자(005930): 9/18 반도체 랠리 주도, +3.37%(26.1만원). HBM 점유율 33%로 SK하이닉스와 격차 17%p까지 축소.",
      "link": "https://www.etoday.co.kr/news/view/2621683"
-    },
-    {
-     "date": "2026-09-18",
-     "source": "newspim.com",
-     "title": "- 삼성전자(005930): HBM4E 12단 샘플을 8/29 이미 선공급, SK하이닉스와 3주 차이의 세대교체 경쟁 지속. HBM 점유율 33%까지 상승.",
-     "link": "https://www.newspim.com/news/view/20260903001026"
-    },
-    {
-     "date": "2026-09-17",
-     "source": "한국경제·증권",
-     "title": "SK하이닉스 집중매수한 초고수…반등한 삼성전자는 팔았다",
-     "link": "https://www.hankyung.com/article/202609170711i"
-    },
-    {
-     "date": "2026-09-17",
-     "source": "한국경제·증권",
-     "title": "\"같은 삼성전자 협력사인데\" … 수익률 47% VS -19% 갈린 이유는 [대기업 협력사 전수분석]",
-     "link": "https://www.hankyung.com/article/202609179699i"
     }
    ]
   },
@@ -1464,9 +1464,21 @@
     },
     {
      "date": "2026-10-09",
+     "source": "한국경제·경제",
+     "title": "\"랜드로버 노렸다\" 극찬 쏟아졌는데…현대차 내부 뒤집은 '車' [최수진의 모빌리티톡]",
+     "link": "https://www.hankyung.com/article/202610081261g"
+    },
+    {
+     "date": "2026-10-09",
      "source": "연합뉴스·경제",
      "title": "[특징주] 현대차·기아, '원화 강세' 실적 우려에 연이틀 하락세(종합)",
      "link": "https://www.yna.co.kr/view/AKR20261008050351008"
+    },
+    {
+     "date": "2026-10-09",
+     "source": "연합뉴스·경제",
+     "title": "[시승기] 강인하지만 부드럽다…현대차 '디 올 뉴 투싼'",
+     "link": "https://www.yna.co.kr/view/AKR20261008179100003"
     },
     {
      "date": "2026-10-08",
@@ -2157,18 +2169,6 @@
      "source": "한국경제·증권",
      "title": "\"삼성·현대차 집중 투자\"…우리운용, 피지컬AI 액티브 ETF 출시",
      "link": "https://www.hankyung.com/article/2026080444426"
-    },
-    {
-     "date": "2026-08-04",
-     "source": "한국경제·경제",
-     "title": "현대차 '아이오닉 9' 獨서 럭셔리 SUV 1위",
-     "link": "https://www.hankyung.com/article/2026080447501"
-    },
-    {
-     "date": "2026-08-04",
-     "source": "한국경제·경제",
-     "title": "삼성·SK·현대차가 출자…10조 산업성장펀드 조성",
-     "link": "https://www.hankyung.com/article/2026080448181"
     }
    ]
   },
@@ -5125,6 +5125,12 @@
      "link": "https://www.hankyung.com/article/2026100818371"
     },
     {
+     "date": "2026-10-09",
+     "source": "연합인포맥스",
+     "title": "엔비디아는 사는데 삼전닉스는 판다…외국인의 'AI 차별화'",
+     "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4438466"
+    },
+    {
      "date": "2026-10-08",
      "source": "한국경제·증권",
      "title": "\"엔비디아만 믿고 있었는데\"…월가서 심상찮은 전망 나왔다",
@@ -5825,12 +5831,6 @@
      "source": "한국경제·증권",
      "title": "엔비디아 실적에 시장이 놀란 이유…'삼전닉스'도 동반 상승",
      "link": "https://www.hankyung.com/article/202608275684i"
-    },
-    {
-     "date": "2026-08-27",
-     "source": "한국경제·증권",
-     "title": "엔비디아 실적 발표 관망…나스닥 0.08%↓ [뉴욕증시 브리핑]",
-     "link": "https://www.hankyung.com/article/2026082754306"
     }
    ]
   },
@@ -10297,6 +10297,12 @@
   "현대로템(064350)": {
    "articles": [
     {
+     "date": "2026-10-09",
+     "source": "한국경제·경제",
+     "title": "\"페루에 장갑차 30대 먼저\"…현대로템 20억달러 수주 승부수",
+     "link": "https://www.hankyung.com/article/202610081531i"
+    },
+    {
      "date": "2026-09-23",
      "source": "한국경제·경제",
      "title": "현대로템, 차세대 고속철 차량 디자인 공개",
@@ -10910,6 +10916,12 @@
   },
   "KT&G(033780)": {
    "articles": [
+    {
+     "date": "2026-10-09",
+     "source": "한국경제·증권",
+     "title": "\"음식료 톱픽은 KT&G\"…증권가가 제시한 3가지 이유",
+     "link": "https://www.hankyung.com/article/202610082205i"
+    },
     {
      "date": "2026-10-08",
      "source": "연합뉴스·경제",
@@ -12782,6 +12794,12 @@
   },
   "KT(030200)": {
    "articles": [
+    {
+     "date": "2026-10-09",
+     "source": "한국경제·증권",
+     "title": "\"음식료 톱픽은 KT&G\"…증권가가 제시한 3가지 이유",
+     "link": "https://www.hankyung.com/article/202610082205i"
+    },
     {
      "date": "2026-10-08",
      "source": "연합뉴스·경제",
@@ -25636,6 +25654,12 @@
   },
   "나이키(NKE)": {
    "articles": [
+    {
+     "date": "2026-10-09",
+     "source": "한국경제·경제",
+     "title": "휠라에 이어 푸마까지…中 안타, 나이키·아디다스 아성 흔든다 [차이나 워치]",
+     "link": "https://www.hankyung.com/article/202610082012i"
+    },
     {
      "date": "2026-10-03",
      "source": "한국경제·경제",
@@ -38639,6 +38663,12 @@
   "SpaceX": {
    "articles": [
     {
+     "date": "2026-10-09",
+     "source": "MarketWatch",
+     "title": "SpaceX’s Starlink Mobile plans are pressuring AT&T and Verizon shares",
+     "link": "https://www.marketwatch.com/story/spacexs-starlink-mobile-plans-are-pressuring-at-t-and-verizon-shares-7cb56764?mod=mw_rss_topstories"
+    },
+    {
      "date": "2026-10-08",
      "source": "MarketWatch",
      "title": "SpaceX may chase ‘stunning’ AI returns by taking on a lot of debt to buy Nvidia chips",
@@ -41148,6 +41178,12 @@
   },
   "풀무원(017810)": {
    "articles": [
+    {
+     "date": "2026-10-09",
+     "source": "연합뉴스·경제",
+     "title": "풀무원, 지리산국립공원 직원·자원활동가 초청 교류 행사",
+     "link": "https://www.yna.co.kr/view/AKR20261009018500030"
+    },
     {
      "date": "2026-09-15",
      "source": "한국경제·경제",
@@ -45803,6 +45839,12 @@
   "Micron(MU)": {
    "articles": [
     {
+     "date": "2026-10-09",
+     "source": "MarketWatch",
+     "title": "Micron, Nvidia and AI chip stocks fall as report on OpenAI’s revenue causes ‘undue concern’",
+     "link": "https://www.marketwatch.com/story/micron-nvidia-and-ai-chip-stocks-fall-as-report-on-openais-revenue-causes-undue-concern-2a2bcf53?mod=mw_rss_topstories"
+    },
+    {
      "date": "2026-10-08",
      "source": "MarketWatch",
      "title": "Micron’s ridiculously cheap stock could triple from here, according to this analyst’s math",
@@ -50197,6 +50239,24 @@
   "오픈AI": {
    "articles": [
     {
+     "date": "2026-10-09",
+     "source": "한국경제·증권",
+     "title": "\"오픈AI 매출 기대 못 미친다\"…S&P500·나스닥 '하락' [뉴욕증시 브리핑]",
+     "link": "https://www.hankyung.com/article/2026100923007"
+    },
+    {
+     "date": "2026-10-09",
+     "source": "연합인포맥스",
+     "title": "[뉴욕증시] 오픈AI 실적 충격에 기술주 '요동'…나스닥 1.25%↓",
+     "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4438452"
+    },
+    {
+     "date": "2026-10-09",
+     "source": "연합인포맥스",
+     "title": "[뉴욕증시-1보] 오픈AI 실적 충격에 기술주 '요동'…나스닥 1.25%↓",
+     "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4438450"
+    },
+    {
      "date": "2026-10-07",
      "source": "한국경제·경제",
      "title": "\"무서운 AI를 귀엽게\"…오픈AI·메타가 캐릭터 만든 이유",
@@ -52217,6 +52277,12 @@
   "Nvidia(NVDA)": {
    "articles": [
     {
+     "date": "2026-10-09",
+     "source": "MarketWatch",
+     "title": "Micron, Nvidia and AI chip stocks fall as report on OpenAI’s revenue causes ‘undue concern’",
+     "link": "https://www.marketwatch.com/story/micron-nvidia-and-ai-chip-stocks-fall-as-report-on-openais-revenue-causes-undue-concern-2a2bcf53?mod=mw_rss_topstories"
+    },
+    {
      "date": "2026-10-08",
      "source": "MarketWatch",
      "title": "SpaceX may chase ‘stunning’ AI returns by taking on a lot of debt to buy Nvidia chips",
@@ -52353,7 +52419,67 @@
      "link": "https://view.asiae.co.kr/article/2026100808260703006"
     }
    ]
+  },
+  "포티넷(FTNT)": {
+   "articles": [
+    {
+     "date": "2026-10-09",
+     "source": "한국경제·증권",
+     "title": "AI發 트래픽 급증에 보안 열풍…포티넷 140% 급등",
+     "link": "https://www.hankyung.com/article/2026100818121"
+    }
+   ]
+  },
+  "동양고속(084670)": {
+   "articles": [
+    {
+     "date": "2026-10-09",
+     "source": "한국경제·증권",
+     "title": "천일고속·동양고속 들썩…고터 재개발 수혜 기대",
+     "link": "https://www.hankyung.com/article/2026100817911"
+    }
+   ]
+  },
+  "울프스피드(WOLF)": {
+   "articles": [
+    {
+     "date": "2026-10-09",
+     "source": "한국경제·증권",
+     "title": "美 국방부 15억달러 대출에…울프스피드 시간외 17%↑",
+     "link": "https://www.hankyung.com/article/202610081425i"
+    }
+   ]
+  },
+  "HDC(012630)": {
+   "articles": [
+    {
+     "date": "2026-10-09",
+     "source": "연합뉴스·경제",
+     "title": "HDC, 자기주식 771억원 상당 소각 결정…\"주주환원 강화\"",
+     "link": "https://www.yna.co.kr/view/AKR20261008166200003"
+    }
+   ]
+  },
+  "모나미(005360)": {
+   "articles": [
+    {
+     "date": "2026-10-09",
+     "source": "파이낸셜·증권",
+     "title": "\"숨 좀 돌렸다\"…모나미, 상폐 절차 일시정지에 8%대 상승 [종목 NOW]",
+     "link": "https://www.fnnews.com/news/202610081012254202"
+    }
+   ]
+  },
+  "케이엔더블유(105330)": {
+   "articles": [
+    {
+     "date": "2026-10-09",
+     "source": "아시아경제",
+     "title": "BGF, 817억 규모 케이엔더블유 지분 취득",
+     "link": "https://view.asiae.co.kr/article/2026100717134044650"
+    }
+   ]
   }
  },
- "updatedAt": "2026-10-09T02:20:49+09:00"
+ "updatedAt": "2026-10-09T10:55:01+09:00"
 }
