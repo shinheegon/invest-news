@@ -1,8 +1,8 @@
 {
- "updatedAt": "2026-10-10T01:57:21+09:00",
+ "updatedAt": "2026-10-10T10:38:52+09:00",
  "note": "원본 헤드라인의 반복 언급을 탐지한 조사 후보이며 투자권유가 아니다. 동일 기사 재실행은 한 번만 집계하고, 순수 악재 반복과 모호한 회사명은 제외한다.",
  "window": 30,
- "corpusToday": 529,
+ "corpusToday": 627,
  "trackedCompanies": 598,
  "companies": [
   {
@@ -146,10 +146,10 @@
    ]
   },
   {
-   "code": "332570",
-   "name": "PS일렉트로닉스",
+   "code": "290270",
+   "name": "휴네시온",
    "market": "KOSDAQ",
-   "cap": 4204,
+   "cap": 282,
    "total": 15,
    "recent": 3,
    "activeDays": 15,
@@ -174,10 +174,10 @@
    ]
   },
   {
-   "code": "290270",
-   "name": "휴네시온",
+   "code": "332570",
+   "name": "PS일렉트로닉스",
    "market": "KOSDAQ",
-   "cap": 282,
+   "cap": 4204,
    "total": 15,
    "recent": 3,
    "activeDays": 15,
@@ -426,10 +426,10 @@
    ]
   },
   {
-   "code": "071280",
-   "name": "로체시스템즈",
+   "code": "226590",
+   "name": "엠디바이스",
    "market": "KOSDAQ",
-   "cap": 1380,
+   "cap": 1598,
    "total": 15,
    "recent": 3,
    "activeDays": 15,
@@ -454,10 +454,10 @@
    ]
   },
   {
-   "code": "226590",
-   "name": "엠디바이스",
+   "code": "071280",
+   "name": "로체시스템즈",
    "market": "KOSDAQ",
-   "cap": 1598,
+   "cap": 1380,
    "total": 15,
    "recent": 3,
    "activeDays": 15,
@@ -650,6 +650,34 @@
    ]
   },
   {
+   "code": "005300",
+   "name": "롯데칠성",
+   "market": "KOSPI",
+   "cap": 8898,
+   "total": 8,
+   "recent": 4,
+   "activeDays": 5,
+   "firstSeen": "2026-09-15",
+   "lastSeen": "2026-10-10",
+   "score": 25.5,
+   "riskMentions": 0,
+   "catalystMentions": 2,
+   "samples": [
+    {
+     "date": "2026-10-10",
+     "title": "[신상잇슈] 롯데칠성 '순하리 청레몬진'·연세유업 '공주의밤 생크림빵'"
+    },
+    {
+     "date": "2026-10-08",
+     "title": "추억의 '그 양주' 돌아왔다…롯데칠성 ㅤㅋㅐㅍ틴큐 재출시"
+    },
+    {
+     "date": "2026-10-08",
+     "title": "[클릭 e종목]롯데칠성, 3분기 실적 기대치 하회 전망…목표가↓"
+    }
+   ]
+  },
+  {
    "code": "294870",
    "name": "IPARK현대산업개발",
    "market": "KOSPI",
@@ -814,34 +842,6 @@
     {
      "date": "2026-10-08",
      "title": "\"프로티나, AI 항체 검증 인프라로 재평가\""
-    }
-   ]
-  },
-  {
-   "code": "494330",
-   "name": "ACE 라이프자산주주가치액티브",
-   "market": "KOSPI",
-   "cap": 1886,
-   "total": 4,
-   "recent": 3,
-   "activeDays": 4,
-   "firstSeen": "2026-09-15",
-   "lastSeen": "2026-10-10",
-   "score": 20.6,
-   "riskMentions": 0,
-   "catalystMentions": 0,
-   "samples": [
-    {
-     "date": "2026-10-10",
-     "title": "'ACE 라이프자산주주가치액티브', 액티브 ETF 중 6개월 BM 대비 성과 1위"
-    },
-    {
-     "date": "2026-10-09",
-     "title": "'ACE 라이프자산주주가치액티브', 액티브 ETF 중 6개월 BM 대비 성과 1위"
-    },
-    {
-     "date": "2026-10-08",
-     "title": "'ACE 라이프자산주주가치액티브', 액티브 ETF 중 6개월 BM 대비 성과 1위"
     }
    ]
   }

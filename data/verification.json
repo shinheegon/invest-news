@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-10T02:33:51+09:00",
+ "updatedAt": "2026-10-10T10:55:40+09:00",
  "cases": [
   {
    "name": "이엠앤아이(083470)",
@@ -67887,6 +67887,19 @@
    "theme": "전력반도체(SiC)",
    "status": "pending",
    "checks": []
+  },
+  {
+   "name": "삼성전자(005930)",
+   "type": "warning",
+   "market": "韓",
+   "flagDate": "2026-10-10",
+   "signals": [
+    "사상최대실적셀온4번째관찰",
+    "3거래일연속하락"
+   ],
+   "theme": "반도체(메모리)",
+   "status": "pending",
+   "checks": []
   }
  ],
  "stats": {
@@ -67896,8 +67909,8 @@
   "miss": 164,
   "hitRate": 24.3,
   "avgD3ChangePct": 0.32,
-  "pending": 163,
-  "total": 550,
+  "pending": 164,
+  "total": 551,
   "byType": {
    "leading": {
     "verified": 163,

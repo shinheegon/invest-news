@@ -8193,6 +8193,12 @@
   "신세계(004170)": {
    "articles": [
     {
+     "date": "2026-10-10",
+     "source": "한국경제·경제",
+     "title": "치폴레, 이번엔 백화점으로…내달 신세계 강남에 2호점 연다",
+     "link": "https://www.hankyung.com/article/202610103307i"
+    },
+    {
      "date": "2026-10-09",
      "source": "한국경제·증권",
      "title": "3개월새 '반토막'난 신세계…증권가 \"과도한 낙폭\" 이유는",
@@ -16985,6 +16991,12 @@
   "현대모비스(012330)": {
    "articles": [
     {
+     "date": "2026-10-10",
+     "source": "연합인포맥스",
+     "title": "현대모비스 3Q 영업익 17%↑ 전망…4Q '로봇 액추에이터' 본격화 기대",
+     "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4438516"
+    },
+    {
      "date": "2026-10-08",
      "source": "아시아경제",
      "title": "[클릭 e종목]\"현대모비스, 목표주가 68만→58만원…'매수'는 유지\"",
@@ -18482,6 +18494,12 @@
   },
   "롯데칠성(005300)": {
    "articles": [
+    {
+     "date": "2026-10-10",
+     "source": "연합뉴스·경제",
+     "title": "[신상잇슈] 롯데칠성 '순하리 청레몬진'·연세유업 '공주의밤 생크림빵'",
+     "link": "https://www.yna.co.kr/view/AKR20261008168100030"
+    },
     {
      "date": "2026-10-08",
      "source": "연합인포맥스",
@@ -30663,6 +30681,12 @@
   "대우건설(047040)": {
    "articles": [
     {
+     "date": "2026-10-10",
+     "source": "연합인포맥스",
+     "title": "대우건설, 주택 원가 완화에 3Q 전망 '방긋'…이강석號 시동 거나",
+     "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4438525"
+    },
+    {
      "date": "2026-10-09",
      "source": "연합뉴스·경제",
      "title": "대우건설, 정비사업 확대·데이터센터사업팀 신설…조직 개편",
@@ -38729,6 +38753,12 @@
   "SpaceX": {
    "articles": [
     {
+     "date": "2026-10-10",
+     "source": "MarketWatch",
+     "title": "As AT&T, Verizon and T-Mobile shares fall, Wall Street assesses the growing SpaceX threat",
+     "link": "https://www.marketwatch.com/story/as-at-t-verizon-and-t-mobile-shares-fall-wall-street-assesses-the-growing-spacex-threat-e869ef9e?mod=mw_rss_topstories"
+    },
+    {
      "date": "2026-10-09",
      "source": "MarketWatch",
      "title": "SpaceX’s Starlink Mobile plans are pressuring AT&T and Verizon shares",
@@ -46125,6 +46155,12 @@
   "현대글로비스(086280)": {
    "articles": [
     {
+     "date": "2026-10-10",
+     "source": "연합인포맥스",
+     "title": "중국車 호황에 웃는다…현대글로비스, 3Q 성장세 지속 전망",
+     "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4438535"
+    },
+    {
      "date": "2026-09-29",
      "source": "파이낸셜·증권",
      "title": "현대글로비스, 고정선복 67%까지 늘린다",
@@ -50335,6 +50371,24 @@
      "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4438482"
     },
     {
+     "date": "2026-10-10",
+     "source": "연합인포맥스",
+     "title": "[뉴욕증시] 이번에는 오픈AI 실적 낙관론…강세 마감",
+     "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4438512"
+    },
+    {
+     "date": "2026-10-10",
+     "source": "연합인포맥스",
+     "title": "[뉴욕증시-1보] 이번에는 오픈AI 실적 낙관론…강세 마감",
+     "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4438511"
+    },
+    {
+     "date": "2026-10-10",
+     "source": "뉴시스·경제",
+     "title": "뉴욕증시, 오픈AI 매출 우려 완화에 상승 마감…나스닥 0.64%↑",
+     "link": "https://www.newsis.com/view/NISX20261010_0003820399"
+    },
+    {
      "date": "2026-10-09",
      "source": "한국경제·증권",
      "title": "\"오픈AI 매출 기대 못 미친다\"…S&P500·나스닥 '하락' [뉴욕증시 브리핑]",
@@ -52583,5 +52637,5 @@
    ]
   }
  },
- "updatedAt": "2026-10-10T01:56:37+09:00"
+ "updatedAt": "2026-10-10T10:37:14+09:00"
 }
