@@ -3,6 +3,12 @@
   "SK하이닉스(000660)": {
    "articles": [
     {
+     "date": "2026-10-12",
+     "source": "파이낸셜뉴스",
+     "title": "- SK하이닉스(000660): 애프터마켓에서 외국인 매매 엇갈림(\"개미는 삼전우, 외국인은 하이닉스\"), 1% 고수의 매수 강도는 반도체 장비·배터리로 분산 중",
+     "link": "https://www.fnnews.com/news/202610111116528716"
+    },
+    {
      "date": "2026-10-10",
      "source": "머니투데이",
      "title": "- SK하이닉스(000660): \"2026년 HBM·D램·낸드 생산 사실상 완판\" 자체 발표, 10/7 AMD가 삼성·SK하이닉스로부터 HBM4 공급을 받기 시작",
@@ -715,17 +721,41 @@
      "source": "한국경제·증권",
      "title": "한미약품·신풍제약 하루 만에 팔았다…초고수는 SK하이닉스 '사자'",
      "link": "https://www.hankyung.com/article/202608262829i"
-    },
-    {
-     "date": "2026-08-26",
-     "source": "한국경제·경제",
-     "title": "SK하이닉스, 델 포럼서 AI 메모리 총망라…HBM4·eSSD 등 공개",
-     "link": "https://www.hankyung.com/article/202608264553i"
     }
    ]
   },
   "삼성전자(005930)": {
    "articles": [
+    {
+     "date": "2026-10-12",
+     "source": "한국경제·증권",
+     "title": "삼성전자 '107조 역대급 실적'에도…外人 지분율 금융위기 수준으로",
+     "link": "https://www.hankyung.com/article/2026101142157"
+    },
+    {
+     "date": "2026-10-12",
+     "source": "한국경제·경제",
+     "title": "삼성전자, 반도체 제조 모든 과정 'AX 생태계' 추진",
+     "link": "https://www.hankyung.com/article/2026101139551"
+    },
+    {
+     "date": "2026-10-12",
+     "source": "한국경제·경제",
+     "title": "삼성전자, 로봇·가전·공간 아우르는 'AI 리빙' 생태계 구축한다",
+     "link": "https://www.hankyung.com/article/2026101139541"
+    },
+    {
+     "date": "2026-10-12",
+     "source": "한국경제·경제",
+     "title": "삼성전자 메모리 직원 10억 받는다",
+     "link": "https://www.hankyung.com/article/2026101145271"
+    },
+    {
+     "date": "2026-10-12",
+     "source": "파이낸셜·증권",
+     "title": "외인, 삼성전자 역대급 실적에도 '팔자'…지분율 금융위기 이후 최저",
+     "link": "https://www.fnnews.com/news/202610111448561990"
+    },
     {
      "date": "2026-10-11",
      "source": "연합뉴스·경제",
@@ -1415,41 +1445,29 @@
      "source": "한국경제·증권",
      "title": "\"삼성전자보다 더 샀다\"…고액자산가들 풀매수한 '의외의 종목'은",
      "link": "https://www.hankyung.com/article/202609205912i"
-    },
-    {
-     "date": "2026-09-20",
-     "source": "연합인포맥스",
-     "title": "두쪽·세쪽난 삼성전자 노조…노노갈등에 동력 약화",
-     "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4435772"
-    },
-    {
-     "date": "2026-09-20",
-     "source": "연합인포맥스",
-     "title": "노태문 등 삼성전자 경영진, 실리콘밸리서 AI 비전 공유",
-     "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4435781"
-    },
-    {
-     "date": "2026-09-19",
-     "source": "한국경제·증권",
-     "title": "인텔 7% 급등에도…초고수는 삼성전자만 담았다",
-     "link": "https://www.hankyung.com/article/202609183380i"
-    },
-    {
-     "date": "2026-09-19",
-     "source": "한국경제·증권",
-     "title": "삼성전자 팔아치운 초고수, SK하이닉스는 담은 이유는?",
-     "link": "https://www.hankyung.com/article/202609182724i"
-    },
-    {
-     "date": "2026-09-19",
-     "source": "한국경제·경제",
-     "title": "\"2년 만에 최고\" 삼성전자 일냈다…갤럭시 잘 팔리더니 '깜짝'",
-     "link": "https://www.hankyung.com/article/202609183963g"
     }
    ]
   },
   "현대차(005380)": {
    "articles": [
+    {
+     "date": "2026-10-12",
+     "source": "한국경제·경제",
+     "title": "현대차, 인도 누적 판매 1000만대 눈앞",
+     "link": "https://www.hankyung.com/article/2026101144321"
+    },
+    {
+     "date": "2026-10-12",
+     "source": "연합인포맥스",
+     "title": "인도 진출 30년史…현대차, 누적 판매 1천만대 돌파 초읽기",
+     "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4438558"
+    },
+    {
+     "date": "2026-10-12",
+     "source": "아시아경제",
+     "title": "\"목표주가 67만·26만원으로 낮췄다\"…현대차·기아, 車 더 팔아도 웃기 어려운 이유[주末머니]",
+     "link": "https://view.asiae.co.kr/article/2026100815444660680"
+    },
     {
      "date": "2026-10-10",
      "source": "한국경제·경제",
@@ -2151,24 +2169,6 @@
      "source": "한국경제·경제",
      "title": "현대차 '디 올 뉴 아반떼' 시작 가격 2398만원부터",
      "link": "https://www.hankyung.com/article/2026080570471"
-    },
-    {
-     "date": "2026-08-05",
-     "source": "연합인포맥스",
-     "title": "현대차, 노조 가족에 서한…&quot;파업으로 실적 악화, 성과 보상 축소&quot;",
-     "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4428816"
-    },
-    {
-     "date": "2026-08-05",
-     "source": "아시아경제",
-     "title": "\"현대차 울고 기아 웃고\"…7월 판매 희비 갈린 형제들[클릭e종목]",
-     "link": "https://view.asiae.co.kr/article/2026080418162431412"
-    },
-    {
-     "date": "2026-08-04",
-     "source": "한국경제·증권",
-     "title": "'판매 신기록' 기아, 현대차 실적 뛰어넘나",
-     "link": "https://www.hankyung.com/article/2026080447191"
     }
    ]
   },
@@ -3972,6 +3972,12 @@
   },
   "기아(000270)": {
    "articles": [
+    {
+     "date": "2026-10-12",
+     "source": "아시아경제",
+     "title": "\"목표주가 67만·26만원으로 낮췄다\"…현대차·기아, 車 더 팔아도 웃기 어려운 이유[주末머니]",
+     "link": "https://view.asiae.co.kr/article/2026100815444660680"
+    },
     {
      "date": "2026-10-09",
      "source": "연합뉴스·경제",
@@ -13713,6 +13719,12 @@
   "LG전자(066570)": {
    "articles": [
     {
+     "date": "2026-10-12",
+     "source": "연합인포맥스",
+     "title": "LG전자, 뉴욕 구겐하임서 '시그니처의 재도약' 알렸다",
+     "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4438573"
+    },
+    {
      "date": "2026-10-09",
      "source": "파이낸셜·증권",
      "title": "\"삼성SDI, 4분기 수주 발표 이어진다\"…\"LG전자 10% 급락, 낙폭 과도\" [株토피아]",
@@ -22367,6 +22379,18 @@
   "SK(034730)": {
    "articles": [
     {
+     "date": "2026-10-12",
+     "source": "한국경제·경제",
+     "title": "계열사 대폭 줄인 SK…리밸런싱과 AX로 새 성장방정식 쓴다",
+     "link": "https://www.hankyung.com/article/2026101139621"
+    },
+    {
+     "date": "2026-10-12",
+     "source": "한국경제·경제",
+     "title": "'사회적가치' 원조 SK, AI 만나 상생 넓힌다",
+     "link": "https://www.hankyung.com/article/2026101139631"
+    },
+    {
      "date": "2026-10-10",
      "source": "한국경제·경제",
      "title": "최태원 SK 회장 \"호남 반도체, 수요 있으면 더 크게 짓겠다\"",
@@ -23768,6 +23792,12 @@
   },
   "삼성SDI(006400)": {
    "articles": [
+    {
+     "date": "2026-10-12",
+     "source": "연합인포맥스",
+     "title": "증권가, 삼성SDI 3Q 실적 호조 예상…&quot;일회성 요인 반영&quot;",
+     "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4438557"
+    },
     {
      "date": "2026-10-09",
      "source": "파이낸셜·증권",
@@ -25356,6 +25386,12 @@
   },
   "GS건설(006360)": {
    "articles": [
+    {
+     "date": "2026-10-12",
+     "source": "한국경제·증권",
+     "title": "GS건설, 연간 1만7000세대 분양 예상...일주일 새 영업익 전망 29% 올라가",
+     "link": "https://www.hankyung.com/article/202610113952i"
+    },
     {
      "date": "2026-10-11",
      "source": "뉴시스·경제",
@@ -27234,6 +27270,18 @@
   },
   "한화(000880)": {
    "articles": [
+    {
+     "date": "2026-10-12",
+     "source": "한국경제·경제",
+     "title": "김승연 \"낙관주의 설 자리 없다\"…'200년 한화' 준비할 혁신 당부",
+     "link": "https://www.hankyung.com/article/2026101145011"
+    },
+    {
+     "date": "2026-10-12",
+     "source": "한국경제·경제",
+     "title": "'5차 발사' 누리호 만든 한화…뉴스페이스 시대 선봉장으로",
+     "link": "https://www.hankyung.com/article/2026101139841"
+    },
     {
      "date": "2026-10-01",
      "source": "연합뉴스·경제",
@@ -31385,6 +31433,12 @@
   "대상(001680)": {
    "articles": [
     {
+     "date": "2026-10-12",
+     "source": "뉴시스·경제",
+     "title": "\"내 농지도 투기 대상?\"…농지 전수조사 상담센터 12일부터 운영",
+     "link": "https://www.newsis.com/view/NISX20261009_0003820052"
+    },
+    {
      "date": "2026-10-09",
      "source": "파이낸셜뉴스",
      "title": "박홍근 \"명절 할인 지원, 미래대응기금 대상 아냐… 다른 재원 쓸 것\"",
@@ -32097,12 +32151,6 @@
      "source": "한국경제·경제",
      "title": "[포토] 씨푸드프롬노르웨이, '2026 올해의 브랜드 대상' 수입수산물 부문 수상",
      "link": "https://www.hankyung.com/article/202609028030H"
-    },
-    {
-     "date": "2026-09-02",
-     "source": "한국경제·경제",
-     "title": "[포토] 시야쥬, '2026 올해의 브랜드 대상' 비즈니스캐주얼 부문 수상",
-     "link": "https://www.hankyung.com/article/202609028023H"
     }
    ]
   },
@@ -36036,6 +36084,12 @@
   },
   "홈플러스": {
    "articles": [
+    {
+     "date": "2026-10-12",
+     "source": "한국경제·경제",
+     "title": "홈플러스 매출, 목표치 30% 그쳐…매각 작업 '빨간불'",
+     "link": "https://www.hankyung.com/article/2026101144301"
+    },
     {
      "date": "2026-10-08",
      "source": "연합뉴스·경제",
@@ -43354,6 +43408,30 @@
   },
   "LG(003550)": {
    "articles": [
+    {
+     "date": "2026-10-12",
+     "source": "한국경제·경제",
+     "title": "첨단가전·미술의 결합 'LG 시그니처'…B2B로 美 공략 속도",
+     "link": "https://www.hankyung.com/article/2026101144291"
+    },
+    {
+     "date": "2026-10-12",
+     "source": "한국경제·경제",
+     "title": "LG 하드웨어에 빅테크 두뇌 장착…글로벌 AI 판 다시 짠다",
+     "link": "https://www.hankyung.com/article/2026101139741"
+    },
+    {
+     "date": "2026-10-12",
+     "source": "한국경제·경제",
+     "title": "'사랑해요 LG' 30년…이번엔 '미소' 퍼뜨린다",
+     "link": "https://www.hankyung.com/article/2026101139751"
+    },
+    {
+     "date": "2026-10-12",
+     "source": "연합인포맥스",
+     "title": "미국 진출 10년 'LG 시그니처', 라인업·유통망 키워 북미 공략 가속",
+     "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4438556"
+    },
     {
      "date": "2026-10-08",
      "source": "한국경제·경제",
@@ -51603,6 +51681,12 @@
   "포스코(005490)": {
    "articles": [
     {
+     "date": "2026-10-12",
+     "source": "한국경제·경제",
+     "title": "철강·리튬·에너지에 힘 싣는 포스코…핵심자원 '삼각축 체제' 가동",
+     "link": "https://www.hankyung.com/article/2026101139801"
+    },
+    {
      "date": "2026-10-02",
      "source": "한국경제·경제",
      "title": "포스코, 우리금융 지분 6700억원 전량 매각",
@@ -51988,6 +52072,12 @@
   },
   "멜콘(IPO)": {
    "articles": [
+    {
+     "date": "2026-10-12",
+     "source": "연합인포맥스",
+     "title": "이번주 진코스텍·멜콘 코스닥시장 입성…수요예측도 줄이어",
+     "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4438565"
+    },
     {
      "date": "2026-09-30",
      "source": "파이낸셜·증권",
@@ -52707,7 +52797,17 @@
      "link": "https://view.asiae.co.kr/article/2026100717134044650"
     }
    ]
+  },
+  "펌텍코리아(251970)": {
+   "articles": [
+    {
+     "date": "2026-10-12",
+     "source": "한국경제·증권",
+     "title": "인디 화장품 브랜드 성장에 펌텍코리아 한 달 새 24%↑...3분기 최대 실적 기대",
+     "link": "https://www.hankyung.com/article/202610114214i"
+    }
+   ]
   }
  },
- "updatedAt": "2026-10-11T09:46:21+09:00"
+ "updatedAt": "2026-10-12T01:14:42+09:00"
 }
