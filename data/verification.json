@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-10T10:55:40+09:00",
+ "updatedAt": "2026-10-11T10:27:00+09:00",
  "cases": [
   {
    "name": "이엠앤아이(083470)",
@@ -67900,6 +67900,139 @@
    "theme": "반도체(메모리)",
    "status": "pending",
    "checks": []
+  },
+  {
+   "name": "대성하이텍(129920)",
+   "type": "leading",
+   "market": "韓",
+   "flagDate": "2026-10-11",
+   "signals": [
+    "대형수주330억",
+    "실적턴어라운드조짐",
+    "반복포착3일",
+    "증권가커버리지재개"
+   ],
+   "theme": "로봇/휴머노이드·AI데이터센터(방산겸업)",
+   "status": "pending",
+   "checks": [],
+   "convScore": 4,
+   "convTier": "mid",
+   "convSignals": [
+    "반복포착",
+    "승세테마",
+    "구체촉발재",
+    "⚠️열세테마"
+   ],
+   "convStampedAt": "2026-10-11"
+  },
+  {
+   "name": "이엠앤아이(083470)",
+   "type": "leading",
+   "market": "韓",
+   "flagDate": "2026-10-11",
+   "signals": [
+    "경기도제조로봇이니셔티브재선정",
+    "반복포착6회",
+    "cross-signal최고수렴score9"
+   ],
+   "theme": "로봇/휴머노이드",
+   "status": "pending",
+   "checks": [],
+   "convScore": 9,
+   "convTier": "high",
+   "convSignals": [
+    "반복포착",
+    "승세테마",
+    "구체촉발재",
+    "틈새레이더"
+   ],
+   "convStampedAt": "2026-10-11"
+  },
+  {
+   "name": "드림텍(192650)",
+   "type": "discovery",
+   "market": "韓",
+   "flagDate": "2026-10-11",
+   "signals": [
+    "메모리모듈매출전망",
+    "증권가커버리지재개"
+   ],
+   "theme": "AI데이터센터/메모리모듈",
+   "status": "pending",
+   "checks": [],
+   "convScore": 2,
+   "convTier": "low",
+   "convSignals": [
+    "반복포착",
+    "⚠️열세테마",
+    "틈새레이더"
+   ],
+   "convStampedAt": "2026-10-11"
+  },
+  {
+   "name": "파두(440110)",
+   "type": "warning",
+   "market": "韓",
+   "flagDate": "2026-10-11",
+   "signals": [
+    "누적노출63회",
+    "후발진입경고"
+   ],
+   "theme": "AI반도체설계(팹리스/IP)",
+   "status": "pending",
+   "checks": []
+  },
+  {
+   "name": "칩스앤미디어(094360)",
+   "type": "warning",
+   "market": "韓",
+   "flagDate": "2026-10-11",
+   "signals": [
+    "누적노출63회",
+    "후발진입경고"
+   ],
+   "theme": "AI반도체설계(팹리스/IP)",
+   "status": "pending",
+   "checks": []
+  },
+  {
+   "name": "자람테크놀로지(389020)",
+   "type": "warning",
+   "market": "韓",
+   "flagDate": "2026-10-11",
+   "signals": [
+    "누적노출54회",
+    "후발진입경고"
+   ],
+   "theme": "AI반도체설계(팹리스/IP)",
+   "status": "pending",
+   "checks": []
+  },
+  {
+   "name": "가온칩스(399720)",
+   "type": "warning",
+   "market": "韓",
+   "flagDate": "2026-10-11",
+   "signals": [
+    "누적노출42회",
+    "후발진입경고"
+   ],
+   "theme": "AI반도체설계(팹리스/IP)",
+   "status": "pending",
+   "checks": []
+  },
+  {
+   "name": "삼성전자(005930)",
+   "type": "warning",
+   "market": "韓",
+   "flagDate": "2026-10-11",
+   "signals": [
+    "사상최대실적셀온",
+    "외국인지분46%대"
+   ],
+   "theme": "반도체(메모리)",
+   "status": "pending",
+   "checks": []
   }
  ],
  "stats": {
@@ -67909,8 +68042,8 @@
   "miss": 164,
   "hitRate": 24.3,
   "avgD3ChangePct": 0.32,
-  "pending": 164,
-  "total": 551,
+  "pending": 172,
+  "total": 559,
   "byType": {
    "leading": {
     "verified": 163,
