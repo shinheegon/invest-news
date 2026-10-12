@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-12T01:57:21+09:00",
+ "updatedAt": "2026-10-12T10:14:03+09:00",
  "note": "AI에 구조적으로 필수인 부품·밸류체인 기업을 '장기 전망·비전' 기준으로 선별한 관찰 그룹. 단기 모멘텀(검증 D+3)과는 별개 — 각 종목에 현재 모멘텀도 함께 표기. 투자권유 아님, 정보·관찰용.",
  "macroOverview": "거시 큰 그림: AI 데이터센터 capex는 경기 사이클과 디커플링된 '구조적 투자'다 — 빅테크(MS·구글·메타·아마존)의 설비투자는 경기와 무관하게 매년 증액되고 있다. 금리 인하 사이클 진입은 성장주 밸류에이션에 우호적(할인율↓). 시장의 병목이 HBM → 전력 → 냉각 → 광통신 순으로 '로테이션'하는 게 핵심 흐름이라, 어느 한 계층이 조정받아도 다음 병목으로 자금이 옮겨간다. 단기적으로는 메모리 고점론·급락장(위험회피)으로 소부장·전력이 눌려 있으나, 이는 '구조적 성장 vs 단기 수급'의 괴리 구간. 우리 그룹은 이 괴리를 계층별로 보여줘 '비전은 필수인데 아직 자금이 안 붙은' 눌림 구간을 포착하는 게 목적이다.",
  "categories": [
@@ -76,8 +76,8 @@
    "risk": "메모리 사이클·고점론",
    "official": "SK하이닉스",
    "tickerMismatch": false,
-   "price": 1686000,
-   "changeRate": "-2.15",
+   "price": 1617000,
+   "changeRate": "-3.81",
    "sinceAddedPct": -9.4,
    "priceLog": [
     {
@@ -435,8 +435,8 @@
    "risk": "HBM 경쟁열위·파운드리 적자",
    "official": "삼성전자",
    "tickerMismatch": false,
-   "price": 263000,
-   "changeRate": "-2.05",
+   "price": 255500,
+   "changeRate": "-2.48",
    "sinceAddedPct": 2.5,
    "priceLog": [
     {
@@ -794,8 +794,8 @@
    "risk": "고객사 편중·경쟁 진입",
    "official": "한미반도체",
    "tickerMismatch": false,
-   "price": 263000,
-   "changeRate": "-0.57",
+   "price": 255500,
+   "changeRate": "-4.31",
    "sinceAddedPct": 27.7,
    "priceLog": [
     {
@@ -1153,8 +1153,8 @@
    "risk": "전방 투자 변동성",
    "official": "하나마이크론",
    "tickerMismatch": false,
-   "price": 50200,
-   "changeRate": "-0.99",
+   "price": 50100,
+   "changeRate": "-2.15",
    "sinceAddedPct": 29.5,
    "priceLog": [
     {
@@ -1512,8 +1512,8 @@
    "risk": "기판 단가·소재장비 열세테마",
    "official": "심텍",
    "tickerMismatch": false,
-   "price": 170700,
-   "changeRate": "0.18",
+   "price": 165000,
+   "changeRate": "-4.51",
    "sinceAddedPct": 57.0,
    "priceLog": [
     {
@@ -1871,8 +1871,8 @@
    "risk": "IT 수요 둔화",
    "official": "삼성전기",
    "tickerMismatch": false,
-   "price": 1559000,
-   "changeRate": "-2.81",
+   "price": 1537000,
+   "changeRate": "-0.58",
    "sinceAddedPct": 20.0,
    "priceLog": [
     {
@@ -2230,8 +2230,8 @@
    "risk": "양산 지연·2027~28 실적 시점",
    "official": "SKC",
    "tickerMismatch": false,
-   "price": 107500,
-   "changeRate": "-0.65",
+   "price": 101100,
+   "changeRate": "-6.39",
    "sinceAddedPct": 22.2,
    "priceLog": [
     {
@@ -2589,8 +2589,8 @@
    "risk": "테마 선반영·양산 시점",
    "official": "필옵틱스",
    "tickerMismatch": false,
-   "price": 41800,
-   "changeRate": "0.24",
+   "price": 39850,
+   "changeRate": "-4.89",
    "sinceAddedPct": 43.6,
    "priceLog": [
     {
@@ -2948,8 +2948,8 @@
    "risk": "고객 편중·밸류 부담",
    "official": "에이직랜드",
    "tickerMismatch": false,
-   "price": 23300,
-   "changeRate": "2.42",
+   "price": 22000,
+   "changeRate": "-6.38",
    "sinceAddedPct": 10.4,
    "priceLog": [
     {
@@ -3307,8 +3307,8 @@
    "risk": "실적 변동성",
    "official": "가온칩스",
    "tickerMismatch": false,
-   "price": 47400,
-   "changeRate": "1.39",
+   "price": 45350,
+   "changeRate": "-5.42",
    "sinceAddedPct": -4.4,
    "priceLog": [
     {
@@ -3666,8 +3666,8 @@
    "risk": "적자·라이선스 인식 시점",
    "official": "오픈엣지테크놀로지",
    "tickerMismatch": false,
-   "price": 10370,
-   "changeRate": "1.57",
+   "price": 9850,
+   "changeRate": "-5.29",
    "sinceAddedPct": -2.3,
    "priceLog": [
     {
@@ -4025,8 +4025,8 @@
    "risk": "단기 급등·전력 열세테마(모멘텀)",
    "official": "HD현대일렉트릭",
    "tickerMismatch": false,
-   "price": 607000,
-   "changeRate": "-3.34",
+   "price": 593000,
+   "changeRate": "-2.15",
    "sinceAddedPct": -23.0,
    "priceLog": [
     {
@@ -4384,8 +4384,8 @@
    "risk": "전력 모멘텀 열세(단기)",
    "official": "LS ELECTRIC",
    "tickerMismatch": false,
-   "price": 197200,
-   "changeRate": "-4.04",
+   "price": 188350,
+   "changeRate": "-3.66",
    "sinceAddedPct": 7.4,
    "priceLog": [
     {
@@ -4743,8 +4743,8 @@
    "risk": "수주 편중·모멘텀",
    "official": "효성중공업",
    "tickerMismatch": false,
-   "price": 2514000,
-   "changeRate": "-2.86",
+   "price": 2319000,
+   "changeRate": "-7.02",
    "sinceAddedPct": -6.1,
    "priceLog": [
     {
@@ -5102,8 +5102,8 @@
    "risk": "초기 시장·실적 미미·냉각 모멘텀",
    "official": "케이엔솔",
    "tickerMismatch": false,
-   "price": 9190,
-   "changeRate": "-1.39",
+   "price": 8900,
+   "changeRate": "-3.68",
    "sinceAddedPct": 6.2,
    "priceLog": [
     {
@@ -5461,8 +5461,8 @@
    "risk": "실적 반영 지연·테마 변동성",
    "official": "퀄리타스반도체",
    "tickerMismatch": false,
-   "price": 11580,
-   "changeRate": "-1.61",
+   "price": 11060,
+   "changeRate": "-5.06",
    "sinceAddedPct": 37.5,
    "priceLog": [
     {
@@ -5820,8 +5820,8 @@
    "risk": "범용 소재 변동성",
    "official": "대한광통신",
    "tickerMismatch": false,
-   "price": 16970,
-   "changeRate": "-5.41",
+   "price": 15930,
+   "changeRate": "-6.13",
    "sinceAddedPct": 53.3,
    "priceLog": [
     {
@@ -6179,8 +6179,8 @@
    "risk": "밸류 부담·양산 시점",
    "official": "레인보우로보틱스",
    "tickerMismatch": false,
-   "price": 431500,
-   "changeRate": "-3.47",
+   "price": 397500,
+   "changeRate": "-7.34",
    "sinceAddedPct": 3.2,
    "priceLog": [
     {
@@ -6538,8 +6538,8 @@
    "risk": "규모·수익성",
    "official": "로보티즈",
    "tickerMismatch": false,
-   "price": 298000,
-   "changeRate": "-2.45",
+   "price": 265000,
+   "changeRate": "-10.92",
    "sinceAddedPct": 43.6,
    "priceLog": [
     {
@@ -6897,8 +6897,8 @@
    "risk": "전방 양산 속도",
    "official": "에스피지",
    "tickerMismatch": false,
-   "price": 97300,
-   "changeRate": "-2.60",
+   "price": 88700,
+   "changeRate": "-8.93",
    "sinceAddedPct": 39.8,
    "priceLog": [
     {
