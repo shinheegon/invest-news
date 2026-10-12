@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-12T10:13:43+09:00",
+ "updatedAt": "2026-10-13T05:17:19+09:00",
  "cases": [
   {
    "name": "이엠앤아이(083470)",
@@ -68033,6 +68033,127 @@
    "theme": "반도체(메모리)",
    "status": "pending",
    "checks": []
+  },
+  {
+   "name": "앤로보틱스(458870)",
+   "type": "leading",
+   "market": "韓",
+   "flagDate": "2026-10-13",
+   "signals": [
+    "글로벌독점공급계약",
+    "구체촉발재",
+    "오늘첫등장"
+   ],
+   "theme": "로봇/휴머노이드",
+   "status": "pending",
+   "checks": [],
+   "convScore": 4,
+   "convTier": "mid",
+   "convSignals": [
+    "승세테마",
+    "구체촉발재"
+   ],
+   "convStampedAt": "2026-10-13"
+  },
+  {
+   "name": "플리토(300080)",
+   "type": "discovery",
+   "market": "韓",
+   "flagDate": "2026-10-13",
+   "signals": [
+    "글로벌반도체기업공급계약",
+    "구체촉발재",
+    "오늘첫등장"
+   ],
+   "theme": "AI 소프트웨어/언어모델",
+   "status": "pending",
+   "checks": [],
+   "convScore": 2,
+   "convTier": "low",
+   "convSignals": [
+    "구체촉발재"
+   ],
+   "convStampedAt": "2026-10-13"
+  },
+  {
+   "name": "유니켐(011330)",
+   "type": "leading",
+   "market": "韓",
+   "flagDate": "2026-10-13",
+   "signals": [
+    "美루미아인수본계약",
+    "구체촉발재",
+    "두달공백후재점화"
+   ],
+   "theme": "로봇/휴머노이드",
+   "status": "pending",
+   "checks": [],
+   "convScore": 7,
+   "convTier": "high",
+   "convSignals": [
+    "반복포착",
+    "승세테마",
+    "구체촉발재"
+   ],
+   "convStampedAt": "2026-10-13"
+  },
+  {
+   "name": "삼성전자(005930)",
+   "type": "warning",
+   "market": "韓",
+   "flagDate": "2026-10-13",
+   "signals": [
+    "사상최대실적후코스피전체3.65%급락",
+    "외국인5일10조순매도"
+   ],
+   "theme": "반도체(메모리)",
+   "status": "pending",
+   "checks": []
+  },
+  {
+   "name": "대성하이텍(129920)",
+   "type": "discovery",
+   "market": "韓",
+   "flagDate": "2026-10-13",
+   "signals": [
+    "방산330억수주",
+    "로봇OEM부품",
+    "AI데이터센터냉각부품",
+    "거의매일반복"
+   ],
+   "theme": "로봇/휴머노이드·AI데이터센터",
+   "status": "pending",
+   "checks": [],
+   "convScore": 4,
+   "convTier": "mid",
+   "convSignals": [
+    "반복포착",
+    "승세테마",
+    "구체촉발재",
+    "⚠️열세테마"
+   ],
+   "convStampedAt": "2026-10-13"
+  },
+  {
+   "name": "해성에어로보틱스(059270)",
+   "type": "discovery",
+   "market": "韓",
+   "flagDate": "2026-10-13",
+   "signals": [
+    "누적수주63.4억+40.2억",
+    "3개월반복"
+   ],
+   "theme": "로봇/휴머노이드",
+   "status": "pending",
+   "checks": [],
+   "convScore": 7,
+   "convTier": "high",
+   "convSignals": [
+    "반복포착",
+    "승세테마",
+    "구체촉발재"
+   ],
+   "convStampedAt": "2026-10-13"
   }
  ],
  "stats": {
@@ -68042,8 +68163,8 @@
   "miss": 164,
   "hitRate": 24.3,
   "avgD3ChangePct": 0.32,
-  "pending": 172,
-  "total": 559,
+  "pending": 178,
+  "total": 565,
   "byType": {
    "leading": {
     "verified": 163,

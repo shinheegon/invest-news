@@ -1,22 +1,23 @@
 {
-  "updatedAt": "2026-10-12T01:40:23+09:00",
-  "session": "AM",
-  "note": "오늘(10/12 월)은 한국 추석·한글날 연휴 이후 첫 재개장일. 코스피·코스닥은 10/8(목) 마감가가 '직전 거래일' 최신치(10/9 한글날 휴장·10/10~11 주말로 신규 거래 없음). 美 3대지수·VIX·DXY·국채금리는 10/9(금) 마감 기준. 9월 비농업고용 +2.9만명(예상 +8.4만명 급락 미스)·실업률 4.2%로 고용 둔화 뚜렷해졌고, 트럼프가 리사 쿡 연준이사 해임을 위한 조사위원회를 구성(11/5 백악관 청문)해 연준 인사 리스크가 재부각.",
-  "stock_fng": { "value": 43, "label": "Fear(개선)", "source": "https://www.benzinga.com/markets/market-summary/26/10/62182263/nasdaq-surges-over-1-as-market-sentiment-improves-cnn-fear-greed-index-climbs-to-43-but-fear-still-dominates" },
-  "indices": [
-    { "name": "코스피", "value": "6,625.93", "change": "-2.62%(-177.97p) · 10/8(목) 마감(10/9 한글날 휴장, 10/12 월 재개장). 삼성전자 분기영업익 100조 돌파에도 외국인·기관 동반 매도", "source": "https://www.yna.co.kr/view/AKR20261010015700008" },
-    { "name": "코스닥", "value": "892.27", "change": "-0.69%(-6.16p) · 10/8(목) 마감", "source": "https://view.asiae.co.kr/article/2026100815344470569" },
-    { "name": "S&P 500", "value": "7,811.51", "change": "+0.59%(+46.15p) · 10/9(금) 마감, 실적시즌 기대·유가 안정", "source": "https://finance.yahoo.com/markets/stocks/articles/markets-news-oct-9-2026-105547352.html" },
-    { "name": "나스닥", "value": "27,366.17", "change": "+0.64%(+172.83p) · 10/9(금) 마감", "source": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-oct-09-2026" },
-    { "name": "다우", "value": "51,655.01", "change": "+0.83%(+423.37p) · 10/9(금) 마감, 주간 상승 마무리", "source": "https://www.cnbc.com/2026/10/08/stock-market-today-live-updates.html" },
-    { "name": "VIX", "value": "14.84", "change": "-3.70% · 저변동성 안도 구간 유지", "source": "https://www.investing.com/indices/volatility-s-p-500-historical-data" },
-    { "name": "美 10년물", "value": "5.24%", "change": "기간프리미엄 1.16%p·주중 한때 5.37%(24년來 최고) 터치 후 소폭 하락", "source": "https://www.etftrends.com/fixed-income-content-hub/treasury-yields-snapshot-october-9-2026/" },
-    { "name": "달러인덱스(DXY)", "value": "102.23", "change": "+0.09% · 18개월래 최고권 근접, 美고금리 장기화 베팅", "source": "https://tradingeconomics.com/dxy:cur" },
-    { "name": "원/달러", "value": "1,341.5", "change": "-1.3원 · 1,330~1,400원 박스권", "source": "https://www.tokenpost.kr/news/insights/418639" },
-    { "name": "美 기준금리", "value": "3.75~4.00%", "change": "0 · 9/17 FOMC 25bp 인상 후 유지. 10/27~28 FOMC, 10월 추가인상 확률 16~18%만 반영(12월 인상 가능성에 무게)", "source": "https://admiralmarkets.com/analytics/traders-blog/fed-rate-decision-october-2026" },
-    { "name": "한국 기준금리", "value": "3.00%", "change": "0 · 8/27 2회 연속 인상 후 유지. 10/22 금통위, '매파적 동결' 전망 우세", "source": "https://www.fnnews.com/news/202610110645476583" },
-    { "name": "美 CPI", "value": "3.4%", "change": "0 · 8월 YoY. 9월 CPI는 정부 셧다운으로 지연돼 10/14(수) 발표 예정(컨센서스 3.7%)", "source": "https://nowflation.com/cpi-preview/september-2026" },
-    { "name": "韓 CPI", "value": "2.9%", "change": "-0.2%p · 9월 YoY, 8월(3.1%)보다 둔화", "source": "https://www.hankyung.com/article/2026100291217" },
-    { "name": "금(Gold)", "value": "4,187", "change": "+1.1% · 유가 변동성·안전자산 수요에 상승", "source": "https://www.cbci.co.kr/news/articleView.html?idxno=614072" }
-  ]
+ "updatedAt": "2026-10-13T07:10:00+09:00",
+ "session": "AM",
+ "note": "AM회차 — 10/12(월) 한국 코스피·코스닥 마감 + 10/12(월) 美 증시 마감 기준. 중동 호르무즈 해협 긴장(유조선 피격·GCC 항만 마비)으로 유가 급등, 삼성전자 분기영업익 100조 돌파에도 외국인·기관 동반매도로 코스피 3.65% 급락.",
+ "stock_fng": { "value": 43, "label": "Fear(개선)", "source": "https://www.benzinga.com/markets/market-summary/26/10/62182263/nasdaq-surges-over-1-as-market-sentiment-improves-cnn-fear-greed-index-climbs-to-43-but-fear-still-dominates" },
+ "indices": [
+  { "name": "코스피", "value": "6,384.24", "change": "-3.65%(-241.69p) · 10/12(월) 마감. 삼성전자 3분기 영업익 107조 '사상최대'에도 외국인·기관 동반매도, 코스닥 소부장·기판주 차익실현 되돌림 겹쳐 한 달來 최대 하락률", "source": "https://view.asiae.co.kr/article/2026101215331204720" },
+  { "name": "코스닥", "value": "849.19", "change": "-4.83%(-43.08p) · 10/12(월) 마감. 기계·장비(-6.72%)·건설(-4.54%) 업종 하락 주도", "source": "https://www.yna.co.kr/view/AKR20261012129251008" },
+  { "name": "S&P 500", "value": "7,803.0(추정)", "change": "-0.1% · 10/12(월) 마감, 유가 급등·Fed 매파 발언에 실적시즌 경계감", "source": "https://www.thestreet.com/stock-market-today/stock-market-today-oct-12-2026-dow-futures-climb-as-wall-street-gears-up-for-busy-week" },
+  { "name": "나스닥", "value": "27,284.7(추정)", "change": "-0.3% · 10/12(월) 마감, 오일서프라이즈가 성장주 압박", "source": "https://finance.yahoo.com/markets/live/stock-market-today-monday-october-12-dow-sp-500-nasdaq-080321571.html" },
+  { "name": "다우", "value": "51,870(추정)", "change": "+0.4%(+215p) · 10/12(월) 마감, 세일즈포스가 지수 견인", "source": "https://www.detroitnews.com/story/business/2026/10/12/oil-surge-keeps-sp-500-nasdaq-in-check-before-earnings-salesforce-lifts-dow/92217482007/" },
+  { "name": "VIX", "value": "14.84", "change": "-3.7% · 저변동성 안도 구간(위험회피 트리거는 가격 급락 쪼으로는 아직 미점등)", "source": "https://www.investing.com/indices/volatility-s-p-500-historical-data" },
+  { "name": "WTI", "value": "$91.85~92.92", "change": "호르무즈 해협 유조선 통항 40%↓·GCC 항만 15/24개 마비로 급등. 브렌트유는 $104~106 돌파", "source": "https://www.tradingkey.com/kr/analysis/stocks/us-stocks/262211558-us-premarket-hormuz-oil-salesforce-memory-chips-micron-tradingkey" },
+  { "name": "美 10년물", "value": "5.24~5.25%", "change": "Fed 클리블랜드 총재 해맥(Hammack) 매파 발언에 고금리 장기화 베팅", "source": "https://www.cnbc.com/2026/10/12/beth-hammack-fed-inflation-policy.html" },
+  { "name": "달러인덱스(DXY)", "value": "102.21", "change": "0% · 18개월래 최고권 유지", "source": "https://tradingeconomics.com/dxy:cur" },
+  { "name": "원/달러", "value": "1,332.0~1,335.1", "change": "-7.7원 · 2년(2024.10 이후) 최저, 반도체 기업 달러 매도물량 지속", "source": "https://view.asiae.co.kr/article/2026101217282362201" },
+  { "name": "美 기준금리", "value": "3.75~4.00%", "change": "0 · 9/17 FOMC 25bp 인상 후 유지. 10/27~28 FOMC 앞두고 Fed 내 매파(해맥) 발언 부각", "source": "https://www.cnbc.com/2026/10/12/beth-hammack-fed-inflation-policy.html" },
+  { "name": "한국 기준금리", "value": "3.00%", "change": "0 · 8/27 2연속 인상 후 유지. 신현송 한은 총재 \"추가 금리인상 여부는 인플레이션 추이가 가장 중요\"", "source": "https://www.yna.co.kr/view/AKR20261012110500002" },
+  { "name": "美 CPI", "value": "3.4%", "change": "0 · 8월 YoY. 9월 CPI는 정부 셧다운으로 지연, 10/14(수) 발표 예정", "source": "https://nowflation.com/cpi-preview/september-2026" },
+  { "name": "韓 CPI", "value": "2.9%", "change": "-0.2%p · 9월 YoY, 8월(3.1%)보다 둔화", "source": "https://www.hankyung.com/article/2026100291217" },
+  { "name": "금(Gold)", "value": "4,187", "change": "-0.3% · 국채금리 상승에 안전자산 수요 소폭 둔화, 중국은 올해 8개월간 1,000톤 매입", "source": "https://www.hankyung.com/article/202610127140i" }
+ ]
 }
