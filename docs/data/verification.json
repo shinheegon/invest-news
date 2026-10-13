@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-13T05:17:19+09:00",
+ "updatedAt": "2026-10-13T12:21:10+09:00",
  "cases": [
   {
    "name": "이엠앤아이(083470)",
@@ -68154,6 +68154,46 @@
     "구체촉발재"
    ],
    "convStampedAt": "2026-10-13"
+  },
+  {
+   "name": "SK하이닉스(000660)",
+   "type": "warning",
+   "market": "韓",
+   "flagDate": "2026-10-13",
+   "signals": [
+    "中CXMT차세대D램기술추격공론화",
+    "장중8.54%급락",
+    "매도사이드카"
+   ],
+   "theme": "반도체(메모리)",
+   "status": "pending",
+   "checks": []
+  },
+  {
+   "name": "한미반도체(042700)",
+   "type": "warning",
+   "market": "韓",
+   "flagDate": "2026-10-13",
+   "signals": [
+    "中CXMT경쟁위협반사",
+    "장중8~10%대급락"
+   ],
+   "theme": "반도체(HBM 후공정)",
+   "status": "pending",
+   "checks": []
+  },
+  {
+   "name": "씨메스로보틱스(475400)",
+   "type": "warning",
+   "market": "韓",
+   "flagDate": "2026-10-13",
+   "signals": [
+    "누적노출43회",
+    "증권방송재조명(이미알려진재료)"
+   ],
+   "theme": "로봇/휴머노이드",
+   "status": "pending",
+   "checks": []
   }
  ],
  "stats": {
@@ -68163,8 +68203,8 @@
   "miss": 164,
   "hitRate": 24.3,
   "avgD3ChangePct": 0.32,
-  "pending": 178,
-  "total": 565,
+  "pending": 181,
+  "total": 568,
   "byType": {
    "leading": {
     "verified": 163,
