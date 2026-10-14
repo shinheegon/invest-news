@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-13T12:21:10+09:00",
+ "updatedAt": "2026-10-14T10:40:01+09:00",
  "cases": [
   {
    "name": "이엠앤아이(083470)",
@@ -68194,6 +68194,52 @@
    "theme": "로봇/휴머노이드",
    "status": "pending",
    "checks": []
+  },
+  {
+   "name": "한울반도체(320000)",
+   "type": "leading",
+   "market": "韓",
+   "flagDate": "2026-10-14",
+   "signals": [
+    "대만델타전자계열사수주",
+    "日MLCC검사장비시장진입",
+    "두달침묵후재점화",
+    "구체촉발재"
+   ],
+   "theme": "AI서버 전자부품 검사장비",
+   "status": "pending",
+   "checks": [],
+   "convScore": 4,
+   "convTier": "mid",
+   "convSignals": [
+    "반복포착",
+    "구체촉발재",
+    "⚠️열세테마",
+    "틈새레이더"
+   ],
+   "convStampedAt": "2026-10-14"
+  },
+  {
+   "name": "오늘이엔엠",
+   "type": "leading",
+   "market": "韓",
+   "flagDate": "2026-10-14",
+   "signals": [
+    "신규포착",
+    "셀프힐링안테나특허출원",
+    "피지컬AI통신망공략"
+   ],
+   "theme": "피지컬AI 통신인프라",
+   "status": "pending",
+   "checks": [],
+   "convScore": 7,
+   "convTier": "high",
+   "convSignals": [
+    "반복포착",
+    "구체촉발재",
+    "틈새레이더"
+   ],
+   "convStampedAt": "2026-10-14"
   }
  ],
  "stats": {
@@ -68203,8 +68249,8 @@
   "miss": 164,
   "hitRate": 24.3,
   "avgD3ChangePct": 0.32,
-  "pending": 181,
-  "total": 568,
+  "pending": 183,
+  "total": 570,
   "byType": {
    "leading": {
     "verified": 163,
