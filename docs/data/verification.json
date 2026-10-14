@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-14T10:40:01+09:00",
+ "updatedAt": "2026-10-15T00:27:48+09:00",
  "cases": [
   {
    "name": "이엠앤아이(083470)",
@@ -68240,6 +68240,45 @@
     "틈새레이더"
    ],
    "convStampedAt": "2026-10-14"
+  },
+  {
+   "name": "트루엔(322030)",
+   "type": "leading",
+   "market": "韓",
+   "flagDate": "2026-10-15",
+   "signals": [
+    "대표이사자사주추가매입",
+    "내부자매수(insider-buy패턴)",
+    "신규포착"
+   ],
+   "theme": "AI영상보안",
+   "status": "pending",
+   "checks": [],
+   "convScore": 2,
+   "convTier": "low",
+   "convSignals": [
+    "구체촉발재"
+   ],
+   "convStampedAt": "2026-10-15"
+  },
+  {
+   "name": "DMS(068790)",
+   "type": "discovery",
+   "market": "韓",
+   "flagDate": "2026-10-15",
+   "signals": [
+    "유리기판세정사업확장",
+    "신규포착"
+   ],
+   "theme": "AI반도체 패키징(유리기판)",
+   "status": "pending",
+   "checks": [],
+   "convScore": -3,
+   "convTier": "low",
+   "convSignals": [
+    "⚠️열세테마"
+   ],
+   "convStampedAt": "2026-10-15"
   }
  ],
  "stats": {
@@ -68249,8 +68288,8 @@
   "miss": 164,
   "hitRate": 24.3,
   "avgD3ChangePct": 0.32,
-  "pending": 183,
-  "total": 570,
+  "pending": 185,
+  "total": 572,
   "byType": {
    "leading": {
     "verified": 163,
