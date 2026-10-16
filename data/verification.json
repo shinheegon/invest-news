@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-16T00:16:55+09:00",
+ "updatedAt": "2026-10-16T09:45:20+09:00",
  "cases": [
   {
    "name": "이엠앤아이(083470)",
@@ -68279,6 +68279,105 @@
     "⚠️열세테마"
    ],
    "convStampedAt": "2026-10-15"
+  },
+  {
+   "name": "이엠앤아이(083470)",
+   "type": "leading",
+   "market": "韓",
+   "flagDate": "2026-10-16",
+   "signals": [
+    "대표자사주13만주매입",
+    "경기도제조로봇이니셔티브재선정반복",
+    "cross-signal최고수렴"
+   ],
+   "theme": "로봇/휴머노이드",
+   "status": "pending",
+   "checks": [],
+   "convScore": 9,
+   "convTier": "high",
+   "convSignals": [
+    "반복포착",
+    "승세테마",
+    "구체촉발재",
+    "틈새레이더"
+   ],
+   "convStampedAt": "2026-10-16"
+  },
+  {
+   "name": "넥사다이내믹스(351320)",
+   "type": "leading",
+   "market": "韓",
+   "flagDate": "2026-10-16",
+   "signals": [
+    "311억AI서버공급계약재확인",
+    "주가급등미확인"
+   ],
+   "theme": "AI전력/데이터센터",
+   "status": "pending",
+   "checks": [],
+   "convScore": 4,
+   "convTier": "mid",
+   "convSignals": [
+    "반복포착",
+    "구체촉발재",
+    "⚠️열세테마",
+    "틈새레이더"
+   ],
+   "convStampedAt": "2026-10-16"
+  },
+  {
+   "name": "오텍(067170)",
+   "type": "leading",
+   "market": "韓",
+   "flagDate": "2026-10-16",
+   "signals": [
+    "엔비디아인증CDU라인업확대",
+    "거시급락동반저가구간"
+   ],
+   "theme": "AI전력/데이터센터",
+   "status": "pending",
+   "checks": [],
+   "convScore": 2,
+   "convTier": "low",
+   "convSignals": [
+    "반복포착",
+    "구체촉발재",
+    "⚠️열세테마"
+   ],
+   "convStampedAt": "2026-10-16"
+  },
+  {
+   "name": "아이엘(307180)",
+   "type": "discovery",
+   "market": "韓",
+   "flagDate": "2026-10-16",
+   "signals": [
+    "반복포착",
+    "로봇휴머노이드부품"
+   ],
+   "theme": "로봇/휴머노이드",
+   "status": "pending",
+   "checks": [],
+   "convScore": 5,
+   "convTier": "high",
+   "convSignals": [
+    "반복포착",
+    "승세테마"
+   ],
+   "convStampedAt": "2026-10-16"
+  },
+  {
+   "name": "유니켐(011330)",
+   "type": "warning",
+   "market": "韓",
+   "flagDate": "2026-10-16",
+   "signals": [
+    "10/15상한가이미반영",
+    "후발진입경고"
+   ],
+   "theme": "로봇/휴머노이드(전자피부)",
+   "status": "pending",
+   "checks": []
   }
  ],
  "stats": {
@@ -68288,8 +68387,8 @@
   "miss": 164,
   "hitRate": 24.3,
   "avgD3ChangePct": 0.32,
-  "pending": 185,
-  "total": 572,
+  "pending": 190,
+  "total": 577,
   "byType": {
    "leading": {
     "verified": 163,
