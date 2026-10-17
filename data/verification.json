@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-17T00:07:24+09:00",
+ "updatedAt": "2026-10-17T23:10:48+09:00",
  "cases": [
   {
    "name": "이엠앤아이(083470)",
@@ -68378,6 +68378,101 @@
    "theme": "로봇/휴머노이드(전자피부)",
    "status": "pending",
    "checks": []
+  },
+  {
+   "name": "이엠앤아이(083470)",
+   "type": "leading",
+   "market": "韓",
+   "flagDate": "2026-10-17",
+   "signals": [
+    "대표이사자사주매입(13만주)",
+    "경기도제조로봇이니셔티브재선정",
+    "내부자매수"
+   ],
+   "theme": "로봇/휴머노이드",
+   "status": "pending",
+   "checks": [],
+   "convScore": 9,
+   "convTier": "high",
+   "convSignals": [
+    "반복포착",
+    "승세테마",
+    "구체촉발재",
+    "틈새레이더"
+   ],
+   "convStampedAt": "2026-10-17"
+  },
+  {
+   "name": "아이엘(307180)",
+   "type": "leading",
+   "market": "韓",
+   "flagDate": "2026-10-17",
+   "signals": [
+    "회장장내매수2.3만주(10/15~16)",
+    "cross-signal최고수렴(7점)",
+    "반복포착14회"
+   ],
+   "theme": "로봇/휴머노이드",
+   "status": "pending",
+   "checks": [],
+   "convScore": 5,
+   "convTier": "high",
+   "convSignals": [
+    "반복포착",
+    "승세테마"
+   ],
+   "convStampedAt": "2026-10-17"
+  },
+  {
+   "name": "대성하이텍(129920)",
+   "type": "discovery",
+   "market": "韓",
+   "flagDate": "2026-10-17",
+   "signals": [
+    "방산330억수주",
+    "로봇OEM부품",
+    "AI데이터센터냉각부품",
+    "조기단계(누적5회)"
+   ],
+   "theme": "로봇/휴머노이드·방산·AI데이터센터",
+   "status": "pending",
+   "checks": [],
+   "convScore": 4,
+   "convTier": "mid",
+   "convSignals": [
+    "반복포착",
+    "승세테마",
+    "구체촉발재",
+    "⚠️열세테마"
+   ],
+   "convStampedAt": "2026-10-17"
+  },
+  {
+   "name": "우리로(046970)",
+   "type": "warning",
+   "market": "韓",
+   "flagDate": "2026-10-17",
+   "signals": [
+    "10/15공급계약소식에당일+10%대반응",
+    "후발진입경고"
+   ],
+   "theme": "AI데이터센터/광",
+   "status": "pending",
+   "checks": []
+  },
+  {
+   "name": "삼현(437730)",
+   "type": "warning",
+   "market": "韓",
+   "flagDate": "2026-10-17",
+   "signals": [
+    "9/21공시후3주경과",
+    "이미널리알려진재료",
+    "후발진입경고"
+   ],
+   "theme": "로봇/휴머노이드",
+   "status": "pending",
+   "checks": []
   }
  ],
  "stats": {
@@ -68387,8 +68482,8 @@
   "miss": 164,
   "hitRate": 24.3,
   "avgD3ChangePct": 0.32,
-  "pending": 190,
-  "total": 577,
+  "pending": 195,
+  "total": 582,
   "byType": {
    "leading": {
     "verified": 163,
