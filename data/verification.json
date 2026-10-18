@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-17T23:10:48+09:00",
+ "updatedAt": "2026-10-18T09:25:10+09:00",
  "cases": [
   {
    "name": "이엠앤아이(083470)",
@@ -68473,6 +68473,25 @@
    "theme": "로봇/휴머노이드",
    "status": "pending",
    "checks": []
+  },
+  {
+   "name": "혜인(003010)",
+   "type": "leading",
+   "market": "韓",
+   "flagDate": "2026-10-18",
+   "signals": [
+    "AI데이터센터비상발전기선점",
+    "미해군MRO성장기대"
+   ],
+   "theme": "AI전력/데이터센터",
+   "status": "pending",
+   "checks": [],
+   "convScore": -3,
+   "convTier": "low",
+   "convSignals": [
+    "⚠️열세테마"
+   ],
+   "convStampedAt": "2026-10-18"
   }
  ],
  "stats": {
@@ -68482,8 +68501,8 @@
   "miss": 164,
   "hitRate": 24.3,
   "avgD3ChangePct": 0.32,
-  "pending": 195,
-  "total": 582,
+  "pending": 196,
+  "total": 583,
   "byType": {
    "leading": {
     "verified": 163,
