@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-18T23:26:38+09:00",
+ "updatedAt": "2026-10-19T09:40:56+09:00",
  "cases": [
   {
    "name": "이엠앤아이(083470)",
@@ -68492,6 +68492,149 @@
     "⚠️열세테마"
    ],
    "convStampedAt": "2026-10-18"
+  },
+  {
+   "name": "넥사다이내믹스(351320)",
+   "type": "leading",
+   "market": "韓",
+   "flagDate": "2026-10-19",
+   "signals": [
+    "311억AI서버공급계약",
+    "호재가격디커플링",
+    "4일연속재확인"
+   ],
+   "theme": "AI서버/데이터센터 장비",
+   "status": "pending",
+   "checks": [],
+   "convScore": 4,
+   "convTier": "mid",
+   "convSignals": [
+    "반복포착",
+    "구체촉발재",
+    "⚠️열세테마",
+    "틈새레이더"
+   ],
+   "convStampedAt": "2026-10-19"
+  },
+  {
+   "name": "에이디테크놀로지(200710)",
+   "type": "discovery",
+   "market": "韓",
+   "flagDate": "2026-10-19",
+   "signals": [
+    "암호화폐ASIC수주",
+    "Siemens ASIC개발계약",
+    "AI/HPC매출비중73%"
+   ],
+   "theme": "AI반도체설계(팹리스/IP)",
+   "status": "pending",
+   "checks": [],
+   "convScore": 7,
+   "convTier": "high",
+   "convSignals": [
+    "반복포착",
+    "승세테마",
+    "구체촉발재"
+   ],
+   "convStampedAt": "2026-10-19"
+  },
+  {
+   "name": "세미파이브(490470)",
+   "type": "discovery",
+   "market": "韓",
+   "flagDate": "2026-10-19",
+   "signals": [
+    "703억역대최대ASIC계약"
+   ],
+   "theme": "AI반도체설계(팹리스/IP)",
+   "status": "pending",
+   "checks": [],
+   "convScore": 7,
+   "convTier": "high",
+   "convSignals": [
+    "반복포착",
+    "승세테마",
+    "구체촉발재"
+   ],
+   "convStampedAt": "2026-10-19"
+  },
+  {
+   "name": "네오티스(085910)",
+   "type": "warning",
+   "market": "韓",
+   "flagDate": "2026-10-19",
+   "signals": [
+    "52주저점대비+438%",
+    "추격매수위험"
+   ],
+   "theme": "AI서버/PCB드릴비트",
+   "status": "pending",
+   "checks": []
+  },
+  {
+   "name": "우리로(046970)",
+   "type": "warning",
+   "market": "韓",
+   "flagDate": "2026-10-19",
+   "signals": [
+    "상한가+VI2회",
+    "이미과열"
+   ],
+   "theme": "AI데이터센터/광반도체",
+   "status": "pending",
+   "checks": []
+  },
+  {
+   "name": "TS트릴리온(317240)",
+   "type": "warning",
+   "market": "韓",
+   "flagDate": "2026-10-19",
+   "signals": [
+    "상한가소진",
+    "MOU단계테마성"
+   ],
+   "theme": "AI데이터센터부지개발",
+   "status": "pending",
+   "checks": []
+  },
+  {
+   "name": "대동기어(008830)",
+   "type": "warning",
+   "market": "韓",
+   "flagDate": "2026-10-19",
+   "signals": [
+    "5배급등",
+    "오너지분매각이슈"
+   ],
+   "theme": "로봇/휴머노이드(포장)",
+   "status": "pending",
+   "checks": []
+  },
+  {
+   "name": "한국피아이엠(448970)",
+   "type": "warning",
+   "market": "韓",
+   "flagDate": "2026-10-19",
+   "signals": [
+    "52주최고대비-76%",
+    "기대감거의반납"
+   ],
+   "theme": "로봇/휴머노이드",
+   "status": "pending",
+   "checks": []
+  },
+  {
+   "name": "자람테크놀로지(389020)",
+   "type": "warning",
+   "market": "韓",
+   "flagDate": "2026-10-19",
+   "signals": [
+    "230억ASIC계약직후+6.94%",
+    "고변동성과열전력"
+   ],
+   "theme": "AI반도체설계/통신ASIC",
+   "status": "pending",
+   "checks": []
   }
  ],
  "stats": {
@@ -68501,8 +68644,8 @@
   "miss": 164,
   "hitRate": 24.3,
   "avgD3ChangePct": 0.32,
-  "pending": 196,
-  "total": 583,
+  "pending": 205,
+  "total": 592,
   "byType": {
    "leading": {
     "verified": 163,
