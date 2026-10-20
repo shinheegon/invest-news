@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-20T10:34:55+09:00",
+ "updatedAt": "2026-10-21T00:26:41+09:00",
  "cases": [
   {
    "name": "이엠앤아이(083470)",
@@ -68785,6 +68785,20 @@
    "theme": "AI반도체설계(팹리스/IP)",
    "status": "pending",
    "checks": []
+  },
+  {
+   "name": "빅웨이브로보틱스(0035S0)",
+   "type": "warning",
+   "market": "韓",
+   "flagDate": "2026-10-20",
+   "signals": [
+    "로봇AI플랫폼출시",
+    "상장첫날200%급등후추가+23.97%",
+    "이미반영"
+   ],
+   "theme": "로봇/휴머노이드",
+   "status": "pending",
+   "checks": []
   }
  ],
  "stats": {
@@ -68794,8 +68808,8 @@
   "miss": 164,
   "hitRate": 24.3,
   "avgD3ChangePct": 0.32,
-  "pending": 213,
-  "total": 600,
+  "pending": 214,
+  "total": 601,
   "byType": {
    "leading": {
     "verified": 163,
