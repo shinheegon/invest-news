@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-19T09:40:56+09:00",
+ "updatedAt": "2026-10-20T10:34:55+09:00",
  "cases": [
   {
    "name": "이엠앤아이(083470)",
@@ -68635,6 +68635,156 @@
    "theme": "AI반도체설계/통신ASIC",
    "status": "pending",
    "checks": []
+  },
+  {
+   "name": "MDS테크(086960)",
+   "type": "leading",
+   "market": "韓",
+   "flagDate": "2026-10-20",
+   "signals": [
+    "신규포착",
+    "엔비디아Jetson40억수주",
+    "구체촉발재"
+   ],
+   "theme": "로봇/휴머노이드(피지컬AI)",
+   "status": "pending",
+   "checks": [],
+   "convScore": 4,
+   "convTier": "mid",
+   "convSignals": [
+    "승세테마",
+    "구체촉발재"
+   ],
+   "convStampedAt": "2026-10-20"
+  },
+  {
+   "name": "넥사다이내믹스(351320)",
+   "type": "leading",
+   "market": "韓",
+   "flagDate": "2026-10-20",
+   "signals": [
+    "6일연속재확인",
+    "주가무반응",
+    "buried-contract-rebound"
+   ],
+   "theme": "AI서버/데이터센터 장비",
+   "status": "pending",
+   "checks": [],
+   "convScore": 2,
+   "convTier": "low",
+   "convSignals": [
+    "반복포착",
+    "⚠️열세테마",
+    "틈새레이더"
+   ],
+   "convStampedAt": "2026-10-20"
+  },
+  {
+   "name": "대성하이텍(129920)",
+   "type": "leading",
+   "market": "韓",
+   "flagDate": "2026-10-20",
+   "signals": [
+    "227억방산추가수주",
+    "수주잔고343%증가",
+    "증권가커버리지재개"
+   ],
+   "theme": "로봇/휴머노이드·AI데이터센터(방산 겸업)",
+   "status": "pending",
+   "checks": [],
+   "convScore": 4,
+   "convTier": "mid",
+   "convSignals": [
+    "반복포착",
+    "승세테마",
+    "구체촉발재",
+    "⚠️열세테마"
+   ],
+   "convStampedAt": "2026-10-20"
+  },
+  {
+   "name": "이엠앤아이(083470)",
+   "type": "leading",
+   "market": "韓",
+   "flagDate": "2026-10-20",
+   "signals": [
+    "경기도제조로봇이니셔티브재선정",
+    "내부자매수",
+    "cross-signal최고수렴(score9)"
+   ],
+   "theme": "로봇/휴머노이드",
+   "status": "pending",
+   "checks": [],
+   "convScore": 9,
+   "convTier": "high",
+   "convSignals": [
+    "반복포착",
+    "승세테마",
+    "구체촉발재",
+    "틈새레이더"
+   ],
+   "convStampedAt": "2026-10-20"
+  },
+  {
+   "name": "에이직랜드(445090)",
+   "type": "leading",
+   "market": "韓",
+   "flagDate": "2026-10-20",
+   "signals": [
+    "국책과제100+175억",
+    "재출몰(100일만)"
+   ],
+   "theme": "AI반도체설계(칩렛)",
+   "status": "pending",
+   "checks": [],
+   "convScore": 9,
+   "convTier": "high",
+   "convSignals": [
+    "반복포착",
+    "승세테마",
+    "구체촉발재",
+    "틈새레이더"
+   ],
+   "convStampedAt": "2026-10-20"
+  },
+  {
+   "name": "삼성SDI(006400)",
+   "type": "warning",
+   "market": "韓",
+   "flagDate": "2026-10-20",
+   "signals": [
+    "中ESS美철수설+11%급등",
+    "열세테마이력"
+   ],
+   "theme": "이차전지",
+   "status": "pending",
+   "checks": []
+  },
+  {
+   "name": "LG에너지솔루션(373220)",
+   "type": "warning",
+   "market": "韓",
+   "flagDate": "2026-10-20",
+   "signals": [
+    "中ESS美철수설+7%급등",
+    "열세테마이력"
+   ],
+   "theme": "이차전지",
+   "status": "pending",
+   "checks": []
+  },
+  {
+   "name": "세미파이브(490470)",
+   "type": "warning",
+   "market": "韓",
+   "flagDate": "2026-10-20",
+   "signals": [
+    "역대최대ASIC계약이미반영",
+    "오버행리스크"
+   ],
+   "theme": "AI반도체설계(팹리스/IP)",
+   "status": "pending",
+   "checks": []
   }
  ],
  "stats": {
@@ -68644,8 +68794,8 @@
   "miss": 164,
   "hitRate": 24.3,
   "avgD3ChangePct": 0.32,
-  "pending": 205,
-  "total": 592,
+  "pending": 213,
+  "total": 600,
   "byType": {
    "leading": {
     "verified": 163,
