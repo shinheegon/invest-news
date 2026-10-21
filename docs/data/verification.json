@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-21T00:26:41+09:00",
+ "updatedAt": "2026-10-21T10:00:17+09:00",
  "cases": [
   {
    "name": "이엠앤아이(083470)",
@@ -68799,6 +68799,41 @@
    "theme": "로봇/휴머노이드",
    "status": "pending",
    "checks": []
+  },
+  {
+   "name": "삼기에너지솔루션즈(419050)",
+   "type": "discovery",
+   "market": "韓",
+   "flagDate": "2026-10-21",
+   "signals": [
+    "휴지기후재점등",
+    "美1000억원하이브리드부품수주",
+    "⚠️열세테마(이차전지)"
+   ],
+   "theme": "이차전지(EV배터리부품)",
+   "status": "pending",
+   "checks": [],
+   "convScore": 4,
+   "convTier": "mid",
+   "convSignals": [
+    "구체촉발재",
+    "틈새레이더"
+   ],
+   "convStampedAt": "2026-10-21"
+  },
+  {
+   "name": "현대로템(064350)",
+   "type": "warning",
+   "market": "韓",
+   "flagDate": "2026-10-21",
+   "signals": [
+    "수주공백우려",
+    "52주신저가",
+    "섹터급락"
+   ],
+   "theme": "방산",
+   "status": "pending",
+   "checks": []
   }
  ],
  "stats": {
@@ -68808,8 +68843,8 @@
   "miss": 164,
   "hitRate": 24.3,
   "avgD3ChangePct": 0.32,
-  "pending": 214,
-  "total": 601,
+  "pending": 216,
+  "total": 603,
   "byType": {
    "leading": {
     "verified": 163,
