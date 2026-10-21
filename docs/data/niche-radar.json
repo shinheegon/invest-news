@@ -1,35 +1,63 @@
 {
- "updatedAt": "2026-10-21T09:29:56+09:00",
+ "updatedAt": "2026-10-22T00:06:23+09:00",
  "note": "원본 헤드라인의 반복 언급을 탐지한 조사 후보이며 투자권유가 아니다. 동일 기사 재실행은 한 번만 집계하고, 순수 악재 반복과 모호한 회사명은 제외한다.",
  "window": 30,
- "corpusToday": 667,
- "trackedCompanies": 570,
+ "corpusToday": 474,
+ "trackedCompanies": 564,
  "companies": [
   {
-   "code": "170900",
-   "name": "동아에스티",
+   "code": "001500",
+   "name": "현대차증권",
    "market": "KOSPI",
-   "cap": 3327,
-   "total": 16,
-   "recent": 3,
-   "activeDays": 16,
+   "cap": 4260,
+   "total": 8,
+   "recent": 6,
+   "activeDays": 5,
+   "firstSeen": "2026-10-01",
+   "lastSeen": "2026-10-22",
+   "score": 35.2,
+   "riskMentions": 0,
+   "catalystMentions": 0,
+   "samples": [
+    {
+     "date": "2026-10-22",
+     "title": "현대차증권, 포천 신봉초서 '1사1교 금융교육' 진행"
+    },
+    {
+     "date": "2026-10-21",
+     "title": "현대차증권 \"롯데렌탈, 주주환원 강화 기대…목표가 상향\""
+    },
+    {
+     "date": "2026-10-21",
+     "title": "'151억 손실' 정몽구재단…현대차증권, 2심도 90억 배상 판결"
+    }
+   ]
+  },
+  {
+   "code": "456010",
+   "name": "아이씨티케이",
+   "market": "KOSDAQ",
+   "cap": 2747,
+   "total": 18,
+   "recent": 2,
+   "activeDays": 17,
    "firstSeen": "2026-09-23",
    "lastSeen": "2026-10-21",
-   "score": 38.8,
+   "score": 35.0,
    "riskMentions": 0,
-   "catalystMentions": 3,
+   "catalystMentions": 0,
    "samples": [
     {
      "date": "2026-10-21",
-     "title": "[투자 핫플레이스] 비만·당뇨·MASH·ADC 파이프라인 보유 '동아에스티'"
+     "title": "[고래사냥] '블루엠텍, 아이씨티케이, 주성엔지니어링, 한컴위드!' 오늘 장 궁금종목 분석"
     },
     {
      "date": "2026-10-20",
-     "title": "[투자 핫플레이스] 비만·당뇨·MASH·ADC 파이프라인 보유 '동아에스티'"
+     "title": "[고래사냥] '블루엠텍, 아이씨티케이, 주성엔지니어링, 한컴위드!' 오늘 장 궁금종목 분석"
     },
     {
-     "date": "2026-10-19",
-     "title": "\"동아에스티, 시장이 원하는 성장 모멘텀 필요…목표가↓\"-키움"
+     "date": "2026-10-18",
+     "title": "[고래사냥] '블루엠텍, 아이씨티케이, 주성엔지니어링, 한컴위드!' 오늘 장 궁금종목 분석"
     }
    ]
   },
@@ -37,7 +65,7 @@
    "code": "011210",
    "name": "현대위아",
    "market": "KOSPI",
-   "cap": 13462,
+   "cap": 13516,
    "total": 9,
    "recent": 6,
    "activeDays": 5,
@@ -62,30 +90,30 @@
    ]
   },
   {
-   "code": "445090",
-   "name": "에이직랜드",
-   "market": "KOSDAQ",
-   "cap": 2196,
+   "code": "170900",
+   "name": "동아에스티",
+   "market": "KOSPI",
+   "cap": 3444,
    "total": 16,
    "recent": 2,
    "activeDays": 16,
-   "firstSeen": "2026-09-22",
+   "firstSeen": "2026-09-23",
    "lastSeen": "2026-10-21",
    "score": 33.9,
    "riskMentions": 0,
-   "catalystMentions": 0,
+   "catalystMentions": 2,
    "samples": [
     {
      "date": "2026-10-21",
-     "title": "[수익 내비게이터] 국책과제 정부출연금 증가 추세…AI 반도체 기술력 입증 '에이직랜드' VS 글로벌 시장 프리미엄 가전 브랜드로 경쟁력 강화 'LG전자'"
+     "title": "[투자 핫플레이스] 비만·당뇨·MASH·ADC 파이프라인 보유 '동아에스티'"
     },
     {
      "date": "2026-10-20",
-     "title": "[수익 내비게이터] 국책과제 정부출연금 증가 추세…AI 반도체 기술력 입증 '에이직랜드' VS 글로벌 시장 프리미엄 가전 브랜드로 경쟁력 강화 'LG전자'"
+     "title": "[투자 핫플레이스] 비만·당뇨·MASH·ADC 파이프라인 보유 '동아에스티'"
     },
     {
-     "date": "2026-10-18",
-     "title": "[수익 내비게이터] 국책과제 정부출연금 증가 추세…AI 반도체 기술력 입증 '에이직랜드' VS 글로벌 시장 프리미엄 가전 브랜드로 경쟁력 강화 'LG전자'"
+     "date": "2026-10-19",
+     "title": "\"동아에스티, 시장이 원하는 성장 모멘텀 필요…목표가↓\"-키움"
     }
    ]
   },
@@ -93,7 +121,7 @@
    "code": "094360",
    "name": "칩스앤미디어",
    "market": "KOSDAQ",
-   "cap": 2565,
+   "cap": 2537,
    "total": 17,
    "recent": 2,
    "activeDays": 16,
@@ -121,7 +149,7 @@
    "code": "344820",
    "name": "KCC글라스",
    "market": "KOSPI",
-   "cap": 3721,
+   "cap": 3657,
    "total": 15,
    "recent": 2,
    "activeDays": 15,
@@ -149,7 +177,7 @@
    "code": "290270",
    "name": "휴네시온",
    "market": "KOSDAQ",
-   "cap": 251,
+   "cap": 223,
    "total": 15,
    "recent": 2,
    "activeDays": 15,
@@ -177,7 +205,7 @@
    "code": "332570",
    "name": "PS일렉트로닉스",
    "market": "KOSDAQ",
-   "cap": 3335,
+   "cap": 3344,
    "total": 15,
    "recent": 2,
    "activeDays": 15,
@@ -198,34 +226,6 @@
     {
      "date": "2026-10-18",
      "title": "[고래사냥] 'LG전자, PS일렉트로닉스, 코리아써키트, 휴네시온!' 오늘 장 궁금종목 분석"
-    }
-   ]
-  },
-  {
-   "code": "439580",
-   "name": "블루엠텍",
-   "market": "KOSDAQ",
-   "cap": 740,
-   "total": 15,
-   "recent": 2,
-   "activeDays": 15,
-   "firstSeen": "2026-09-23",
-   "lastSeen": "2026-10-21",
-   "score": 32.4,
-   "riskMentions": 0,
-   "catalystMentions": 0,
-   "samples": [
-    {
-     "date": "2026-10-21",
-     "title": "[고래사냥] '블루엠텍, 아이씨티케이, 주성엔지니어링, 한컴위드!' 오늘 장 궁금종목 분석"
-    },
-    {
-     "date": "2026-10-20",
-     "title": "[고래사냥] '블루엠텍, 아이씨티케이, 주성엔지니어링, 한컴위드!' 오늘 장 궁금종목 분석"
-    },
-    {
-     "date": "2026-10-18",
-     "title": "[고래사냥] '블루엠텍, 아이씨티케이, 주성엔지니어링, 한컴위드!' 오늘 장 궁금종목 분석"
     }
    ]
   },
@@ -233,7 +233,35 @@
    "code": "054920",
    "name": "한컴위드",
    "market": "KOSDAQ",
-   "cap": 1273,
+   "cap": 1155,
+   "total": 15,
+   "recent": 2,
+   "activeDays": 15,
+   "firstSeen": "2026-09-23",
+   "lastSeen": "2026-10-21",
+   "score": 32.4,
+   "riskMentions": 0,
+   "catalystMentions": 0,
+   "samples": [
+    {
+     "date": "2026-10-21",
+     "title": "[고래사냥] '블루엠텍, 아이씨티케이, 주성엔지니어링, 한컴위드!' 오늘 장 궁금종목 분석"
+    },
+    {
+     "date": "2026-10-20",
+     "title": "[고래사냥] '블루엠텍, 아이씨티케이, 주성엔지니어링, 한컴위드!' 오늘 장 궁금종목 분석"
+    },
+    {
+     "date": "2026-10-18",
+     "title": "[고래사냥] '블루엠텍, 아이씨티케이, 주성엔지니어링, 한컴위드!' 오늘 장 궁금종목 분석"
+    }
+   ]
+  },
+  {
+   "code": "439580",
+   "name": "블루엠텍",
+   "market": "KOSDAQ",
+   "cap": 767,
    "total": 15,
    "recent": 2,
    "activeDays": 15,
@@ -289,7 +317,7 @@
    "code": "182360",
    "name": "큐브엔터",
    "market": "KOSDAQ",
-   "cap": 984,
+   "cap": 1034,
    "total": 15,
    "recent": 2,
    "activeDays": 15,
@@ -314,10 +342,38 @@
    ]
   },
   {
+   "code": "445090",
+   "name": "에이직랜드",
+   "market": "KOSDAQ",
+   "cap": 2153,
+   "total": 15,
+   "recent": 2,
+   "activeDays": 15,
+   "firstSeen": "2026-09-23",
+   "lastSeen": "2026-10-21",
+   "score": 32.4,
+   "riskMentions": 0,
+   "catalystMentions": 0,
+   "samples": [
+    {
+     "date": "2026-10-21",
+     "title": "[수익 내비게이터] 국책과제 정부출연금 증가 추세…AI 반도체 기술력 입증 '에이직랜드' VS 글로벌 시장 프리미엄 가전 브랜드로 경쟁력 강화 'LG전자'"
+    },
+    {
+     "date": "2026-10-20",
+     "title": "[수익 내비게이터] 국책과제 정부출연금 증가 추세…AI 반도체 기술력 입증 '에이직랜드' VS 글로벌 시장 프리미엄 가전 브랜드로 경쟁력 강화 'LG전자'"
+    },
+    {
+     "date": "2026-10-18",
+     "title": "[수익 내비게이터] 국책과제 정부출연금 증가 추세…AI 반도체 기술력 입증 '에이직랜드' VS 글로벌 시장 프리미엄 가전 브랜드로 경쟁력 강화 'LG전자'"
+    }
+   ]
+  },
+  {
    "code": "452160",
    "name": "제이엔비",
    "market": "KOSDAQ",
-   "cap": 306,
+   "cap": 293,
    "total": 15,
    "recent": 2,
    "activeDays": 15,
@@ -345,7 +401,7 @@
    "code": "192250",
    "name": "케이사인",
    "market": "KOSDAQ",
-   "cap": 600,
+   "cap": 567,
    "total": 15,
    "recent": 2,
    "activeDays": 15,
@@ -373,7 +429,7 @@
    "code": "484810",
    "name": "티엑스알로보틱스",
    "market": "KOSDAQ",
-   "cap": 1584,
+   "cap": 1539,
    "total": 15,
    "recent": 2,
    "activeDays": 15,
@@ -401,7 +457,7 @@
    "code": "424960",
    "name": "스마트레이더시스템",
    "market": "KOSDAQ",
-   "cap": 570,
+   "cap": 576,
    "total": 15,
    "recent": 2,
    "activeDays": 15,
@@ -426,10 +482,10 @@
    ]
   },
   {
-   "code": "071280",
-   "name": "로체시스템즈",
+   "code": "226590",
+   "name": "엠디바이스",
    "market": "KOSDAQ",
-   "cap": 1294,
+   "cap": 1156,
    "total": 15,
    "recent": 2,
    "activeDays": 15,
@@ -454,10 +510,10 @@
    ]
   },
   {
-   "code": "226590",
-   "name": "엠디바이스",
+   "code": "071280",
+   "name": "로체시스템즈",
    "market": "KOSDAQ",
-   "cap": 1332,
+   "cap": 1141,
    "total": 15,
    "recent": 2,
    "activeDays": 15,
@@ -485,7 +541,7 @@
    "code": "270660",
    "name": "에브리봇",
    "market": "KOSDAQ",
-   "cap": 1505,
+   "cap": 1813,
    "total": 15,
    "recent": 2,
    "activeDays": 15,
@@ -513,7 +569,7 @@
    "code": "488280",
    "name": "에스투더블유",
    "market": "KOSDAQ",
-   "cap": 1409,
+   "cap": 1214,
    "total": 15,
    "recent": 2,
    "activeDays": 15,
@@ -541,7 +597,7 @@
    "code": "083470",
    "name": "이엠앤아이",
    "market": "KOSDAQ",
-   "cap": 186,
+   "cap": 177,
    "total": 17,
    "recent": 2,
    "activeDays": 15,
@@ -566,46 +622,18 @@
    ]
   },
   {
-   "code": "001500",
-   "name": "현대차증권",
-   "market": "KOSPI",
-   "cap": 4409,
-   "total": 7,
-   "recent": 5,
-   "activeDays": 4,
-   "firstSeen": "2026-10-01",
-   "lastSeen": "2026-10-21",
-   "score": 28.9,
-   "riskMentions": 0,
-   "catalystMentions": 0,
-   "samples": [
-    {
-     "date": "2026-10-21",
-     "title": "현대차증권 \"롯데렌탈, 주주환원 강화 기대…목표가 상향\""
-    },
-    {
-     "date": "2026-10-21",
-     "title": "'151억 손실' 정몽구재단…현대차증권, 2심도 90억 배상 판결"
-    },
-    {
-     "date": "2026-10-20",
-     "title": "현대차증권, '2026년 탄소금융 인사이트 데이' 개최"
-    }
-   ]
-  },
-  {
    "code": "290660",
    "name": "다이나믹솔루션",
    "market": "KOSDAQ",
-   "cap": 498,
+   "cap": 518,
    "total": 6,
-   "recent": 4,
+   "recent": 3,
    "activeDays": 5,
    "firstSeen": "2026-09-30",
    "lastSeen": "2026-10-21",
-   "score": 26.5,
+   "score": 21.6,
    "riskMentions": 0,
-   "catalystMentions": 2,
+   "catalystMentions": 1,
    "samples": [
     {
      "date": "2026-10-21",
@@ -625,7 +653,7 @@
    "code": "419050",
    "name": "삼기에너지솔루션즈",
    "market": "KOSDAQ",
-   "cap": 1298,
+   "cap": 1467,
    "total": 4,
    "recent": 4,
    "activeDays": 2,
@@ -650,10 +678,66 @@
    ]
   },
   {
+   "code": "030610",
+   "name": "교보증권",
+   "market": "KOSPI",
+   "cap": 10052,
+   "total": 10,
+   "recent": 2,
+   "activeDays": 8,
+   "firstSeen": "2026-09-30",
+   "lastSeen": "2026-10-22",
+   "score": 20.9,
+   "riskMentions": 0,
+   "catalystMentions": 0,
+   "samples": [
+    {
+     "date": "2026-10-22",
+     "title": "교보증권, 친환경 캠페인 기부금 1000만원 환경재단에 전달"
+    },
+    {
+     "date": "2026-10-22",
+     "title": "[게시판] 교보증권, '드림이 그린레이스' 기부금 환경재단 전달"
+    },
+    {
+     "date": "2026-10-19",
+     "title": "이석기 교보증권 대표, '사람 살리는 금융' 릴레이 캠페인 동참"
+    }
+   ]
+  },
+  {
+   "code": "096690",
+   "name": "에이루트",
+   "market": "KOSDAQ",
+   "cap": 234,
+   "total": 7,
+   "recent": 2,
+   "activeDays": 7,
+   "firstSeen": "2026-09-23",
+   "lastSeen": "2026-10-22",
+   "score": 20.3,
+   "riskMentions": 0,
+   "catalystMentions": 1,
+   "samples": [
+    {
+     "date": "2026-10-22",
+     "title": "에이루트, 17억원 유상증자…최혜윤 등에 3자 배정"
+    },
+    {
+     "date": "2026-10-20",
+     "title": "에이루트 子, 대만 전력반도체 기업 노광장비 수주…AI 데이터센터 밸류체인 진입"
+    },
+    {
+     "date": "2026-10-16",
+     "title": "에이루트 子, 삼성전자·SK하이닉스 출신 반도체 노광장비 전문 인력 확보"
+    }
+   ]
+  },
+  {
    "code": "044780",
    "name": "에이치케이",
    "market": "KOSDAQ",
-   "cap": 230,
+   "cap": 216,
    "total": 7,
    "recent": 2,
    "activeDays": 7,
@@ -678,58 +762,30 @@
    ]
   },
   {
-   "code": "189330",
-   "name": "씨이랩",
-   "market": "KOSDAQ",
-   "cap": 853,
-   "total": 7,
+   "code": "003530",
+   "name": "한화투자증권",
+   "market": "KOSPI",
+   "cap": 8872,
+   "total": 16,
    "recent": 2,
-   "activeDays": 7,
-   "firstSeen": "2026-10-08",
-   "lastSeen": "2026-10-20",
-   "score": 20.3,
+   "activeDays": 8,
+   "firstSeen": "2026-09-29",
+   "lastSeen": "2026-10-22",
+   "score": 17.9,
    "riskMentions": 0,
-   "catalystMentions": 0,
+   "catalystMentions": 2,
    "samples": [
+    {
+     "date": "2026-10-22",
+     "title": "쪼그라든 한화투자증권…방산·생명 날아갈 때 나홀로 '비틀'"
+    },
     {
      "date": "2026-10-20",
-     "title": "씨이랩, '2026 한국건설·안전박람회'서 스마트 건설안전 기술력 입증"
+     "title": "한화투자증권, 가족과 함께하는 '사랑의 배 나눔' 봉사활동 성료"
     },
     {
-     "date": "2026-10-19",
-     "title": "씨이랩, '2026 한국건설·안전박람회'서 스마트 건설안전 기술력 입증"
-    },
-    {
-     "date": "2026-10-12",
-     "title": "씨이랩, '한국건설·안전박람회'서 AI·디지털 트윈 기술 공개"
-    }
-   ]
-  },
-  {
-   "code": "030610",
-   "name": "교보증권",
-   "market": "KOSPI",
-   "cap": 10439,
-   "total": 8,
-   "recent": 2,
-   "activeDays": 7,
-   "firstSeen": "2026-09-30",
-   "lastSeen": "2026-10-19",
-   "score": 19.8,
-   "riskMentions": 0,
-   "catalystMentions": 0,
-   "samples": [
-    {
-     "date": "2026-10-19",
-     "title": "이석기 교보증권 대표, '사람 살리는 금융' 릴레이 캠페인 동참"
-    },
-    {
-     "date": "2026-10-19",
-     "title": "교보증권, 넷마블 목표주가 16%↓…\"신작 성과 확인 필요\""
-    },
-    {
-     "date": "2026-10-18",
-     "title": "이석기 교보증권 대표, '사람 살리는 금융' 릴레이 캠페인 동참"
+     "date": "2026-10-10",
+     "title": "[부고] 정재영(한화투자증권 운영지원팀 팀장)씨 부친상"
     }
    ]
   },
@@ -738,12 +794,12 @@
    "name": "제이알글로벌리츠",
    "market": "KOSPI",
    "cap": 2333,
-   "total": 7,
+   "total": 5,
    "recent": 2,
-   "activeDays": 6,
-   "firstSeen": "2026-09-22",
+   "activeDays": 5,
+   "firstSeen": "2026-09-23",
    "lastSeen": "2026-10-21",
-   "score": 18.3,
+   "score": 17.3,
    "riskMentions": 0,
    "catalystMentions": 0,
    "samples": [
@@ -762,66 +818,10 @@
    ]
   },
   {
-   "code": "032350",
-   "name": "롯데관광개발",
+   "code": "0255E0",
+   "name": "TIGER 글로벌MLCC&기판",
    "market": "KOSPI",
-   "cap": 8411,
-   "total": 5,
-   "recent": 3,
-   "activeDays": 3,
-   "firstSeen": "2026-09-22",
-   "lastSeen": "2026-10-20",
-   "score": 18.1,
-   "riskMentions": 0,
-   "catalystMentions": 2,
-   "samples": [
-    {
-     "date": "2026-10-20",
-     "title": "롯데관광개발, 올해 크루즈 외국인 관광객 10만명 넘어"
-    },
-    {
-     "date": "2026-10-20",
-     "title": "[클릭 e종목]\"롯데관광개발, 카지노 고객 몰린다…'드롭액 성장'에 실적 개선 기대\""
-    },
-    {
-     "date": "2026-10-19",
-     "title": "[클릭 e종목]\"롯데관광개발, 카지노 고객 몰린다…'드롭액 성장'에 실적 개선 기대\""
-    }
-   ]
-  },
-  {
-   "code": "0005D0",
-   "name": "SOL 전고체배터리&실리콘음극재",
-   "market": "KOSPI",
-   "cap": 1960,
-   "total": 3,
-   "recent": 3,
-   "activeDays": 2,
-   "firstSeen": "2026-10-19",
-   "lastSeen": "2026-10-20",
-   "score": 17.1,
-   "riskMentions": 0,
-   "catalystMentions": 0,
-   "samples": [
-    {
-     "date": "2026-10-20",
-     "title": "신한운용, 'SOL 전고체배터리&실리콘음극재' ETF 3개월 수익률 1위"
-    },
-    {
-     "date": "2026-10-20",
-     "title": "'SOL 전고체배터리&실리콘음극재', 3개월 수익 주식형 ETF 중 1위"
-    },
-    {
-     "date": "2026-10-19",
-     "title": "'SOL 전고체배터리&실리콘음극재', 3개월 수익 주식형 ETF 중 1위"
-    }
-   ]
-  },
-  {
-   "code": "091440",
-   "name": "한울소재과학",
-   "market": "KOSDAQ",
-   "cap": 958,
+   "cap": 1077,
    "total": 3,
    "recent": 3,
    "activeDays": 2,
@@ -829,19 +829,19 @@
    "lastSeen": "2026-10-21",
    "score": 17.1,
    "riskMentions": 0,
-   "catalystMentions": 1,
+   "catalystMentions": 0,
    "samples": [
     {
      "date": "2026-10-21",
-     "title": "한울소재과학, 255억 BW 만기 1년 연장…단기 오버행 우려 완화 기대"
+     "title": "미래에셋운용, 'TIGER 글로벌MLCC&기판 ETF' 신규 상장"
     },
     {
      "date": "2026-10-20",
-     "title": "한울소재과학, 255억 BW 상환 1년 뒤로…\"신사업 재무여력 확보\""
+     "title": "미래에셋운용, AI 서버 핵심 부품 담은 'TIGER 글로벌MLCC&기판 ETF' 상장"
     },
     {
      "date": "2026-10-20",
-     "title": "한울소재과학, 255억 BW 만기 1년 연장…단기 오버행 우려 완화 기대"
+     "title": "미래에셋운용, 'TIGER 글로벌MLCC&기판 ETF' 신규 상장"
     }
    ]
   }
