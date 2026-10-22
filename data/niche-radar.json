@@ -1,80 +1,28 @@
 {
- "updatedAt": "2026-10-22T00:06:23+09:00",
+ "updatedAt": "2026-10-22T09:33:35+09:00",
  "note": "원본 헤드라인의 반복 언급을 탐지한 조사 후보이며 투자권유가 아니다. 동일 기사 재실행은 한 번만 집계하고, 순수 악재 반복과 모호한 회사명은 제외한다.",
  "window": 30,
- "corpusToday": 474,
- "trackedCompanies": 564,
+ "corpusToday": 854,
+ "trackedCompanies": 575,
  "companies": [
-  {
-   "code": "001500",
-   "name": "현대차증권",
-   "market": "KOSPI",
-   "cap": 4260,
-   "total": 8,
-   "recent": 6,
-   "activeDays": 5,
-   "firstSeen": "2026-10-01",
-   "lastSeen": "2026-10-22",
-   "score": 35.2,
-   "riskMentions": 0,
-   "catalystMentions": 0,
-   "samples": [
-    {
-     "date": "2026-10-22",
-     "title": "현대차증권, 포천 신봉초서 '1사1교 금융교육' 진행"
-    },
-    {
-     "date": "2026-10-21",
-     "title": "현대차증권 \"롯데렌탈, 주주환원 강화 기대…목표가 상향\""
-    },
-    {
-     "date": "2026-10-21",
-     "title": "'151억 손실' 정몽구재단…현대차증권, 2심도 90억 배상 판결"
-    }
-   ]
-  },
-  {
-   "code": "456010",
-   "name": "아이씨티케이",
-   "market": "KOSDAQ",
-   "cap": 2747,
-   "total": 18,
-   "recent": 2,
-   "activeDays": 17,
-   "firstSeen": "2026-09-23",
-   "lastSeen": "2026-10-21",
-   "score": 35.0,
-   "riskMentions": 0,
-   "catalystMentions": 0,
-   "samples": [
-    {
-     "date": "2026-10-21",
-     "title": "[고래사냥] '블루엠텍, 아이씨티케이, 주성엔지니어링, 한컴위드!' 오늘 장 궁금종목 분석"
-    },
-    {
-     "date": "2026-10-20",
-     "title": "[고래사냥] '블루엠텍, 아이씨티케이, 주성엔지니어링, 한컴위드!' 오늘 장 궁금종목 분석"
-    },
-    {
-     "date": "2026-10-18",
-     "title": "[고래사냥] '블루엠텍, 아이씨티케이, 주성엔지니어링, 한컴위드!' 오늘 장 궁금종목 분석"
-    }
-   ]
-  },
   {
    "code": "011210",
    "name": "현대위아",
    "market": "KOSPI",
    "cap": 13516,
-   "total": 9,
-   "recent": 6,
-   "activeDays": 5,
+   "total": 10,
+   "recent": 7,
+   "activeDays": 6,
    "firstSeen": "2026-09-29",
-   "lastSeen": "2026-10-21",
-   "score": 34.7,
+   "lastSeen": "2026-10-22",
+   "score": 41.1,
    "riskMentions": 0,
    "catalystMentions": 1,
    "samples": [
+    {
+     "date": "2026-10-22",
+     "title": "현대위아, 방산 팔고 신사업…열관리·로보틱스 자본 재배치 [클릭 e종목]"
+    },
     {
      "date": "2026-10-21",
      "title": "현대위아, 방산 팔고 신사업…열관리·로보틱스 자본 재배치 [클릭 e종목]"
@@ -82,10 +30,6 @@
     {
      "date": "2026-10-21",
      "title": "창원 기업·경로당 '1대 1 동행사업' 시동…현대위아 1호 결연"
-    },
-    {
-     "date": "2026-10-20",
-     "title": "현대위아, 특수사업부문 현대로템에 양도…3584억원 규모"
     }
    ]
   },
@@ -94,15 +38,19 @@
    "name": "동아에스티",
    "market": "KOSPI",
    "cap": 3444,
-   "total": 16,
-   "recent": 2,
-   "activeDays": 16,
+   "total": 17,
+   "recent": 3,
+   "activeDays": 17,
    "firstSeen": "2026-09-23",
-   "lastSeen": "2026-10-21",
-   "score": 33.9,
+   "lastSeen": "2026-10-22",
+   "score": 40.3,
    "riskMentions": 0,
-   "catalystMentions": 2,
+   "catalystMentions": 3,
    "samples": [
+    {
+     "date": "2026-10-22",
+     "title": "[투자 핫플레이스] 비만·당뇨·MASH·ADC 파이프라인 보유 '동아에스티'"
+    },
     {
      "date": "2026-10-21",
      "title": "[투자 핫플레이스] 비만·당뇨·MASH·ADC 파이프라인 보유 '동아에스티'"
@@ -110,10 +58,6 @@
     {
      "date": "2026-10-20",
      "title": "[투자 핫플레이스] 비만·당뇨·MASH·ADC 파이프라인 보유 '동아에스티'"
-    },
-    {
-     "date": "2026-10-19",
-     "title": "\"동아에스티, 시장이 원하는 성장 모멘텀 필요…목표가↓\"-키움"
     }
    ]
   },
@@ -122,15 +66,19 @@
    "name": "칩스앤미디어",
    "market": "KOSDAQ",
    "cap": 2537,
-   "total": 17,
-   "recent": 2,
-   "activeDays": 16,
+   "total": 18,
+   "recent": 3,
+   "activeDays": 17,
    "firstSeen": "2026-09-23",
-   "lastSeen": "2026-10-21",
-   "score": 33.5,
+   "lastSeen": "2026-10-22",
+   "score": 39.8,
    "riskMentions": 0,
    "catalystMentions": 0,
    "samples": [
+    {
+     "date": "2026-10-22",
+     "title": "[여의도 클라쓰] '제이엔비, 칩스앤미디어, 농심홀딩스' 클라쓰 올릴 종목은?"
+    },
     {
      "date": "2026-10-21",
      "title": "[여의도 클라쓰] '제이엔비, 칩스앤미디어, 농심홀딩스' 클라쓰 올릴 종목은?"
@@ -138,10 +86,34 @@
     {
      "date": "2026-10-20",
      "title": "[여의도 클라쓰] '제이엔비, 칩스앤미디어, 농심홀딩스' 클라쓰 올릴 종목은?"
+    }
+   ]
+  },
+  {
+   "code": "001500",
+   "name": "현대차증권",
+   "market": "KOSPI",
+   "cap": 4260,
+   "total": 9,
+   "recent": 7,
+   "activeDays": 5,
+   "firstSeen": "2026-10-01",
+   "lastSeen": "2026-10-22",
+   "score": 39.6,
+   "riskMentions": 0,
+   "catalystMentions": 0,
+   "samples": [
+    {
+     "date": "2026-10-22",
+     "title": "현대차증권, 포천 신봉초서 '1사1교 금융교육' 진행"
     },
     {
-     "date": "2026-10-18",
-     "title": "[여의도 클라쓰] '제이엔비, 칩스앤미디어, 농심홀딩스' 클라쓰 올릴 종목은?"
+     "date": "2026-10-22",
+     "title": "'151억 손실' 정몽구재단…현대차증권, 2심도 90억 배상 판결"
+    },
+    {
+     "date": "2026-10-21",
+     "title": "현대차증권 \"롯데렌탈, 주주환원 강화 기대…목표가 상향\""
     }
    ]
   },
@@ -150,25 +122,25 @@
    "name": "KCC글라스",
    "market": "KOSPI",
    "cap": 3657,
-   "total": 15,
-   "recent": 2,
-   "activeDays": 15,
+   "total": 16,
+   "recent": 3,
+   "activeDays": 16,
    "firstSeen": "2026-09-23",
-   "lastSeen": "2026-10-21",
-   "score": 32.4,
+   "lastSeen": "2026-10-22",
+   "score": 38.8,
    "riskMentions": 0,
    "catalystMentions": 0,
    "samples": [
+    {
+     "date": "2026-10-22",
+     "title": "\"스톤테리어 감성을 그대로\"..KCC글라스 홈씨씨 '숲 강마루 스톤'"
+    },
     {
      "date": "2026-10-21",
      "title": "\"스톤테리어 감성을 그대로\"..KCC글라스 홈씨씨 '숲 강마루 스톤'"
     },
     {
      "date": "2026-10-20",
-     "title": "\"스톤테리어 감성을 그대로\"..KCC글라스 홈씨씨 '숲 강마루 스톤'"
-    },
-    {
-     "date": "2026-10-18",
      "title": "\"스톤테리어 감성을 그대로\"..KCC글라스 홈씨씨 '숲 강마루 스톤'"
     }
    ]
@@ -178,25 +150,25 @@
    "name": "휴네시온",
    "market": "KOSDAQ",
    "cap": 223,
-   "total": 15,
-   "recent": 2,
-   "activeDays": 15,
+   "total": 16,
+   "recent": 3,
+   "activeDays": 16,
    "firstSeen": "2026-09-23",
-   "lastSeen": "2026-10-21",
-   "score": 32.4,
+   "lastSeen": "2026-10-22",
+   "score": 38.8,
    "riskMentions": 0,
    "catalystMentions": 0,
    "samples": [
+    {
+     "date": "2026-10-22",
+     "title": "[고래사냥] 'LG전자, PS일렉트로닉스, 코리아써키트, 휴네시온!' 오늘 장 궁금종목 분석"
+    },
     {
      "date": "2026-10-21",
      "title": "[고래사냥] 'LG전자, PS일렉트로닉스, 코리아써키트, 휴네시온!' 오늘 장 궁금종목 분석"
     },
     {
      "date": "2026-10-20",
-     "title": "[고래사냥] 'LG전자, PS일렉트로닉스, 코리아써키트, 휴네시온!' 오늘 장 궁금종목 분석"
-    },
-    {
-     "date": "2026-10-18",
      "title": "[고래사냥] 'LG전자, PS일렉트로닉스, 코리아써키트, 휴네시온!' 오늘 장 궁금종목 분석"
     }
    ]
@@ -206,25 +178,25 @@
    "name": "PS일렉트로닉스",
    "market": "KOSDAQ",
    "cap": 3344,
-   "total": 15,
-   "recent": 2,
-   "activeDays": 15,
+   "total": 16,
+   "recent": 3,
+   "activeDays": 16,
    "firstSeen": "2026-09-23",
-   "lastSeen": "2026-10-21",
-   "score": 32.4,
+   "lastSeen": "2026-10-22",
+   "score": 38.8,
    "riskMentions": 0,
    "catalystMentions": 0,
    "samples": [
+    {
+     "date": "2026-10-22",
+     "title": "[고래사냥] 'LG전자, PS일렉트로닉스, 코리아써키트, 휴네시온!' 오늘 장 궁금종목 분석"
+    },
     {
      "date": "2026-10-21",
      "title": "[고래사냥] 'LG전자, PS일렉트로닉스, 코리아써키트, 휴네시온!' 오늘 장 궁금종목 분석"
     },
     {
      "date": "2026-10-20",
-     "title": "[고래사냥] 'LG전자, PS일렉트로닉스, 코리아써키트, 휴네시온!' 오늘 장 궁금종목 분석"
-    },
-    {
-     "date": "2026-10-18",
      "title": "[고래사냥] 'LG전자, PS일렉트로닉스, 코리아써키트, 휴네시온!' 오늘 장 궁금종목 분석"
     }
    ]
@@ -234,25 +206,25 @@
    "name": "한컴위드",
    "market": "KOSDAQ",
    "cap": 1155,
-   "total": 15,
-   "recent": 2,
-   "activeDays": 15,
+   "total": 16,
+   "recent": 3,
+   "activeDays": 16,
    "firstSeen": "2026-09-23",
-   "lastSeen": "2026-10-21",
-   "score": 32.4,
+   "lastSeen": "2026-10-22",
+   "score": 38.8,
    "riskMentions": 0,
    "catalystMentions": 0,
    "samples": [
+    {
+     "date": "2026-10-22",
+     "title": "[고래사냥] '블루엠텍, 아이씨티케이, 주성엔지니어링, 한컴위드!' 오늘 장 궁금종목 분석"
+    },
     {
      "date": "2026-10-21",
      "title": "[고래사냥] '블루엠텍, 아이씨티케이, 주성엔지니어링, 한컴위드!' 오늘 장 궁금종목 분석"
     },
     {
      "date": "2026-10-20",
-     "title": "[고래사냥] '블루엠텍, 아이씨티케이, 주성엔지니어링, 한컴위드!' 오늘 장 궁금종목 분석"
-    },
-    {
-     "date": "2026-10-18",
      "title": "[고래사냥] '블루엠텍, 아이씨티케이, 주성엔지니어링, 한컴위드!' 오늘 장 궁금종목 분석"
     }
    ]
@@ -262,25 +234,25 @@
    "name": "블루엠텍",
    "market": "KOSDAQ",
    "cap": 767,
-   "total": 15,
-   "recent": 2,
-   "activeDays": 15,
+   "total": 16,
+   "recent": 3,
+   "activeDays": 16,
    "firstSeen": "2026-09-23",
-   "lastSeen": "2026-10-21",
-   "score": 32.4,
+   "lastSeen": "2026-10-22",
+   "score": 38.8,
    "riskMentions": 0,
    "catalystMentions": 0,
    "samples": [
+    {
+     "date": "2026-10-22",
+     "title": "[고래사냥] '블루엠텍, 아이씨티케이, 주성엔지니어링, 한컴위드!' 오늘 장 궁금종목 분석"
+    },
     {
      "date": "2026-10-21",
      "title": "[고래사냥] '블루엠텍, 아이씨티케이, 주성엔지니어링, 한컴위드!' 오늘 장 궁금종목 분석"
     },
     {
      "date": "2026-10-20",
-     "title": "[고래사냥] '블루엠텍, 아이씨티케이, 주성엔지니어링, 한컴위드!' 오늘 장 궁금종목 분석"
-    },
-    {
-     "date": "2026-10-18",
      "title": "[고래사냥] '블루엠텍, 아이씨티케이, 주성엔지니어링, 한컴위드!' 오늘 장 궁금종목 분석"
     }
    ]
@@ -290,25 +262,25 @@
    "name": "다이나믹디자인",
    "market": "KOSPI",
    "cap": 95,
-   "total": 15,
-   "recent": 2,
-   "activeDays": 15,
+   "total": 16,
+   "recent": 3,
+   "activeDays": 16,
    "firstSeen": "2026-09-23",
-   "lastSeen": "2026-10-21",
-   "score": 32.4,
+   "lastSeen": "2026-10-22",
+   "score": 38.8,
    "riskMentions": 0,
    "catalystMentions": 0,
    "samples": [
+    {
+     "date": "2026-10-22",
+     "title": "[더벨]다이나믹디자인, 광주 마이스터고 학생에 격려금 전달"
+    },
     {
      "date": "2026-10-21",
      "title": "[더벨]다이나믹디자인, 광주 마이스터고 학생에 격려금 전달"
     },
     {
      "date": "2026-10-20",
-     "title": "[더벨]다이나믹디자인, 광주 마이스터고 학생에 격려금 전달"
-    },
-    {
-     "date": "2026-10-18",
      "title": "[더벨]다이나믹디자인, 광주 마이스터고 학생에 격려금 전달"
     }
    ]
@@ -318,25 +290,25 @@
    "name": "큐브엔터",
    "market": "KOSDAQ",
    "cap": 1034,
-   "total": 15,
-   "recent": 2,
-   "activeDays": 15,
+   "total": 16,
+   "recent": 3,
+   "activeDays": 16,
    "firstSeen": "2026-09-23",
-   "lastSeen": "2026-10-21",
-   "score": 32.4,
+   "lastSeen": "2026-10-22",
+   "score": 38.8,
    "riskMentions": 0,
    "catalystMentions": 0,
    "samples": [
+    {
+     "date": "2026-10-22",
+     "title": "[더벨]큐브엔터 아이들 우기, 신곡 'M.O.' \"자신감·두려움 없는 본성 담아\""
+    },
     {
      "date": "2026-10-21",
      "title": "[더벨]큐브엔터 아이들 우기, 신곡 'M.O.' \"자신감·두려움 없는 본성 담아\""
     },
     {
      "date": "2026-10-20",
-     "title": "[더벨]큐브엔터 아이들 우기, 신곡 'M.O.' \"자신감·두려움 없는 본성 담아\""
-    },
-    {
-     "date": "2026-10-18",
      "title": "[더벨]큐브엔터 아이들 우기, 신곡 'M.O.' \"자신감·두려움 없는 본성 담아\""
     }
    ]
@@ -346,25 +318,25 @@
    "name": "에이직랜드",
    "market": "KOSDAQ",
    "cap": 2153,
-   "total": 15,
-   "recent": 2,
-   "activeDays": 15,
+   "total": 16,
+   "recent": 3,
+   "activeDays": 16,
    "firstSeen": "2026-09-23",
-   "lastSeen": "2026-10-21",
-   "score": 32.4,
+   "lastSeen": "2026-10-22",
+   "score": 38.8,
    "riskMentions": 0,
    "catalystMentions": 0,
    "samples": [
+    {
+     "date": "2026-10-22",
+     "title": "[수익 내비게이터] 국책과제 정부출연금 증가 추세…AI 반도체 기술력 입증 '에이직랜드' VS 글로벌 시장 프리미엄 가전 브랜드로 경쟁력 강화 'LG전자'"
+    },
     {
      "date": "2026-10-21",
      "title": "[수익 내비게이터] 국책과제 정부출연금 증가 추세…AI 반도체 기술력 입증 '에이직랜드' VS 글로벌 시장 프리미엄 가전 브랜드로 경쟁력 강화 'LG전자'"
     },
     {
      "date": "2026-10-20",
-     "title": "[수익 내비게이터] 국책과제 정부출연금 증가 추세…AI 반도체 기술력 입증 '에이직랜드' VS 글로벌 시장 프리미엄 가전 브랜드로 경쟁력 강화 'LG전자'"
-    },
-    {
-     "date": "2026-10-18",
      "title": "[수익 내비게이터] 국책과제 정부출연금 증가 추세…AI 반도체 기술력 입증 '에이직랜드' VS 글로벌 시장 프리미엄 가전 브랜드로 경쟁력 강화 'LG전자'"
     }
    ]
@@ -374,25 +346,25 @@
    "name": "제이엔비",
    "market": "KOSDAQ",
    "cap": 293,
-   "total": 15,
-   "recent": 2,
-   "activeDays": 15,
+   "total": 16,
+   "recent": 3,
+   "activeDays": 16,
    "firstSeen": "2026-09-23",
-   "lastSeen": "2026-10-21",
-   "score": 32.4,
+   "lastSeen": "2026-10-22",
+   "score": 38.8,
    "riskMentions": 0,
    "catalystMentions": 0,
    "samples": [
+    {
+     "date": "2026-10-22",
+     "title": "[여의도 클라쓰] '제이엔비, 칩스앤미디어, 농심홀딩스' 클라쓰 올릴 종목은?"
+    },
     {
      "date": "2026-10-21",
      "title": "[여의도 클라쓰] '제이엔비, 칩스앤미디어, 농심홀딩스' 클라쓰 올릴 종목은?"
     },
     {
      "date": "2026-10-20",
-     "title": "[여의도 클라쓰] '제이엔비, 칩스앤미디어, 농심홀딩스' 클라쓰 올릴 종목은?"
-    },
-    {
-     "date": "2026-10-18",
      "title": "[여의도 클라쓰] '제이엔비, 칩스앤미디어, 농심홀딩스' 클라쓰 올릴 종목은?"
     }
    ]
@@ -402,25 +374,25 @@
    "name": "케이사인",
    "market": "KOSDAQ",
    "cap": 567,
-   "total": 15,
-   "recent": 2,
-   "activeDays": 15,
+   "total": 16,
+   "recent": 3,
+   "activeDays": 16,
    "firstSeen": "2026-09-23",
-   "lastSeen": "2026-10-21",
-   "score": 32.4,
+   "lastSeen": "2026-10-22",
+   "score": 38.8,
    "riskMentions": 0,
    "catalystMentions": 0,
    "samples": [
+    {
+     "date": "2026-10-22",
+     "title": "[이달해 달달한10분] 정부가 칼빼든 해킹 사태! 케이사인, 보안주 탑픽?"
+    },
     {
      "date": "2026-10-21",
      "title": "[이달해 달달한10분] 정부가 칼빼든 해킹 사태! 케이사인, 보안주 탑픽?"
     },
     {
      "date": "2026-10-20",
-     "title": "[이달해 달달한10분] 정부가 칼빼든 해킹 사태! 케이사인, 보안주 탑픽?"
-    },
-    {
-     "date": "2026-10-18",
      "title": "[이달해 달달한10분] 정부가 칼빼든 해킹 사태! 케이사인, 보안주 탑픽?"
     }
    ]
@@ -430,25 +402,25 @@
    "name": "티엑스알로보틱스",
    "market": "KOSDAQ",
    "cap": 1539,
-   "total": 15,
-   "recent": 2,
-   "activeDays": 15,
+   "total": 16,
+   "recent": 3,
+   "activeDays": 16,
    "firstSeen": "2026-09-23",
-   "lastSeen": "2026-10-21",
-   "score": 32.4,
+   "lastSeen": "2026-10-22",
+   "score": 38.8,
    "riskMentions": 0,
    "catalystMentions": 0,
    "samples": [
+    {
+     "date": "2026-10-22",
+     "title": "[적중! 대박 예감] '농심, 티엑스알로보틱스, 다이버시파이드 에너지 컴퍼니' 예감 좋은 대박 종목은?"
+    },
     {
      "date": "2026-10-21",
      "title": "[적중! 대박 예감] '농심, 티엑스알로보틱스, 다이버시파이드 에너지 컴퍼니' 예감 좋은 대박 종목은?"
     },
     {
      "date": "2026-10-20",
-     "title": "[적중! 대박 예감] '농심, 티엑스알로보틱스, 다이버시파이드 에너지 컴퍼니' 예감 좋은 대박 종목은?"
-    },
-    {
-     "date": "2026-10-18",
      "title": "[적중! 대박 예감] '농심, 티엑스알로보틱스, 다이버시파이드 에너지 컴퍼니' 예감 좋은 대박 종목은?"
     }
    ]
@@ -458,54 +430,26 @@
    "name": "스마트레이더시스템",
    "market": "KOSDAQ",
    "cap": 576,
-   "total": 15,
-   "recent": 2,
-   "activeDays": 15,
+   "total": 16,
+   "recent": 3,
+   "activeDays": 16,
    "firstSeen": "2026-09-23",
-   "lastSeen": "2026-10-21",
-   "score": 32.4,
+   "lastSeen": "2026-10-22",
+   "score": 38.8,
    "riskMentions": 0,
    "catalystMentions": 0,
    "samples": [
     {
+     "date": "2026-10-22",
+     "title": "[주식민원처리반 2부] 스마트레이더시스템 vs 파크시스템스, 매매 포인트는?"
+    },
+    {
      "date": "2026-10-21",
      "title": "[주식민원처리반 2부] 스마트레이더시스템 vs 파크시스템스, 매매 포인트는?"
     },
     {
      "date": "2026-10-20",
      "title": "[주식민원처리반 2부] 스마트레이더시스템 vs 파크시스템스, 매매 포인트는?"
-    },
-    {
-     "date": "2026-10-18",
-     "title": "[주식민원처리반 2부] 스마트레이더시스템 vs 파크시스템스, 매매 포인트는?"
-    }
-   ]
-  },
-  {
-   "code": "226590",
-   "name": "엠디바이스",
-   "market": "KOSDAQ",
-   "cap": 1156,
-   "total": 15,
-   "recent": 2,
-   "activeDays": 15,
-   "firstSeen": "2026-09-23",
-   "lastSeen": "2026-10-21",
-   "score": 32.4,
-   "riskMentions": 0,
-   "catalystMentions": 2,
-   "samples": [
-    {
-     "date": "2026-10-21",
-     "title": "[투자원정대 동행] 로체시스템즈 vs 클래시스 vs 엠디바이스, 공략법은?"
-    },
-    {
-     "date": "2026-10-20",
-     "title": "[투자원정대 동행] 로체시스템즈 vs 클래시스 vs 엠디바이스, 공략법은?"
-    },
-    {
-     "date": "2026-10-18",
-     "title": "[투자원정대 동행] 로체시스템즈 vs 클래시스 vs 엠디바이스, 공략법은?"
     }
    ]
   },
@@ -514,15 +458,19 @@
    "name": "로체시스템즈",
    "market": "KOSDAQ",
    "cap": 1141,
-   "total": 15,
-   "recent": 2,
-   "activeDays": 15,
+   "total": 16,
+   "recent": 3,
+   "activeDays": 16,
    "firstSeen": "2026-09-23",
-   "lastSeen": "2026-10-21",
-   "score": 32.4,
+   "lastSeen": "2026-10-22",
+   "score": 38.8,
    "riskMentions": 0,
-   "catalystMentions": 2,
+   "catalystMentions": 3,
    "samples": [
+    {
+     "date": "2026-10-22",
+     "title": "[투자원정대 동행] 로체시스템즈 vs 클래시스 vs 엠디바이스, 공략법은?"
+    },
     {
      "date": "2026-10-21",
      "title": "[투자원정대 동행] 로체시스템즈 vs 클래시스 vs 엠디바이스, 공략법은?"
@@ -530,9 +478,33 @@
     {
      "date": "2026-10-20",
      "title": "[투자원정대 동행] 로체시스템즈 vs 클래시스 vs 엠디바이스, 공략법은?"
+    }
+   ]
+  },
+  {
+   "code": "226590",
+   "name": "엠디바이스",
+   "market": "KOSDAQ",
+   "cap": 1156,
+   "total": 16,
+   "recent": 3,
+   "activeDays": 16,
+   "firstSeen": "2026-09-23",
+   "lastSeen": "2026-10-22",
+   "score": 38.8,
+   "riskMentions": 0,
+   "catalystMentions": 3,
+   "samples": [
+    {
+     "date": "2026-10-22",
+     "title": "[투자원정대 동행] 로체시스템즈 vs 클래시스 vs 엠디바이스, 공략법은?"
     },
     {
-     "date": "2026-10-18",
+     "date": "2026-10-21",
+     "title": "[투자원정대 동행] 로체시스템즈 vs 클래시스 vs 엠디바이스, 공략법은?"
+    },
+    {
+     "date": "2026-10-20",
      "title": "[투자원정대 동행] 로체시스템즈 vs 클래시스 vs 엠디바이스, 공략법은?"
     }
    ]
@@ -542,25 +514,25 @@
    "name": "에브리봇",
    "market": "KOSDAQ",
    "cap": 1813,
-   "total": 15,
-   "recent": 2,
-   "activeDays": 15,
+   "total": 16,
+   "recent": 3,
+   "activeDays": 16,
    "firstSeen": "2026-09-23",
-   "lastSeen": "2026-10-21",
-   "score": 32.4,
+   "lastSeen": "2026-10-22",
+   "score": 38.8,
    "riskMentions": 0,
    "catalystMentions": 0,
    "samples": [
+    {
+     "date": "2026-10-22",
+     "title": "[필승매매 승부사] '삼현 '추천 한달만에 +111% 급등! 기세 이어갈 로봇주는? '에브리봇'"
+    },
     {
      "date": "2026-10-21",
      "title": "[필승매매 승부사] '삼현 '추천 한달만에 +111% 급등! 기세 이어갈 로봇주는? '에브리봇'"
     },
     {
      "date": "2026-10-20",
-     "title": "[필승매매 승부사] '삼현 '추천 한달만에 +111% 급등! 기세 이어갈 로봇주는? '에브리봇'"
-    },
-    {
-     "date": "2026-10-18",
      "title": "[필승매매 승부사] '삼현 '추천 한달만에 +111% 급등! 기세 이어갈 로봇주는? '에브리봇'"
     }
    ]
@@ -570,25 +542,25 @@
    "name": "에스투더블유",
    "market": "KOSDAQ",
    "cap": 1214,
-   "total": 15,
-   "recent": 2,
-   "activeDays": 15,
+   "total": 16,
+   "recent": 3,
+   "activeDays": 16,
    "firstSeen": "2026-09-23",
-   "lastSeen": "2026-10-21",
-   "score": 32.4,
+   "lastSeen": "2026-10-22",
+   "score": 38.8,
    "riskMentions": 0,
    "catalystMentions": 0,
    "samples": [
+    {
+     "date": "2026-10-22",
+     "title": "에스투더블유, 상장 첫날 '따블' 성공"
+    },
     {
      "date": "2026-10-21",
      "title": "에스투더블유, 상장 첫날 '따블' 성공"
     },
     {
      "date": "2026-10-20",
-     "title": "에스투더블유, 상장 첫날 '따블' 성공"
-    },
-    {
-     "date": "2026-10-18",
      "title": "에스투더블유, 상장 첫날 '따블' 성공"
     }
    ]
@@ -598,15 +570,19 @@
    "name": "이엠앤아이",
    "market": "KOSDAQ",
    "cap": 177,
-   "total": 17,
-   "recent": 2,
-   "activeDays": 15,
+   "total": 18,
+   "recent": 3,
+   "activeDays": 16,
    "firstSeen": "2026-09-23",
-   "lastSeen": "2026-10-21",
-   "score": 31.5,
+   "lastSeen": "2026-10-22",
+   "score": 37.8,
    "riskMentions": 0,
-   "catalystMentions": 2,
+   "catalystMentions": 3,
    "samples": [
+    {
+     "date": "2026-10-22",
+     "title": "이엠앤아이, '경기도 제조로봇 이니셔티브' 도입실증 과제 주관기관 선정"
+    },
     {
      "date": "2026-10-21",
      "title": "이엠앤아이, '경기도 제조로봇 이니셔티브' 도입실증 과제 주관기관 선정"
@@ -614,10 +590,118 @@
     {
      "date": "2026-10-20",
      "title": "이엠앤아이, '경기도 제조로봇 이니셔티브' 도입실증 과제 주관기관 선정"
+    }
+   ]
+  },
+  {
+   "code": "030610",
+   "name": "교보증권",
+   "market": "KOSPI",
+   "cap": 10052,
+   "total": 11,
+   "recent": 3,
+   "activeDays": 8,
+   "firstSeen": "2026-09-30",
+   "lastSeen": "2026-10-22",
+   "score": 25.2,
+   "riskMentions": 0,
+   "catalystMentions": 0,
+   "samples": [
+    {
+     "date": "2026-10-22",
+     "title": "교보증권, 친환경 캠페인 기부금 1000만원 환경재단에 전달"
     },
     {
-     "date": "2026-10-18",
-     "title": "이엠앤아이, '경기도 제조로봇 이니셔티브' 도입실증 과제 주관기관 선정"
+     "date": "2026-10-22",
+     "title": "교보증권 \"드림이 그린레이스 기부금 환경재단 전달\""
+    },
+    {
+     "date": "2026-10-22",
+     "title": "[게시판] 교보증권, '드림이 그린레이스' 기부금 환경재단 전달"
+    }
+   ]
+  },
+  {
+   "code": "096690",
+   "name": "에이루트",
+   "market": "KOSDAQ",
+   "cap": 234,
+   "total": 8,
+   "recent": 3,
+   "activeDays": 7,
+   "firstSeen": "2026-09-23",
+   "lastSeen": "2026-10-22",
+   "score": 24.7,
+   "riskMentions": 0,
+   "catalystMentions": 1,
+   "samples": [
+    {
+     "date": "2026-10-22",
+     "title": "에이루트, 17억원 유상증자…최혜윤 등에 3자 배정"
+    },
+    {
+     "date": "2026-10-22",
+     "title": "에이루트 子, 임직원 대상 3자배정 유증…반도체 장비 시너지 강화"
+    },
+    {
+     "date": "2026-10-20",
+     "title": "에이루트 子, 대만 전력반도체 기업 노광장비 수주…AI 데이터센터 밸류체인 진입"
+    }
+   ]
+  },
+  {
+   "code": "348950",
+   "name": "제이알글로벌리츠",
+   "market": "KOSPI",
+   "cap": 2333,
+   "total": 6,
+   "recent": 3,
+   "activeDays": 6,
+   "firstSeen": "2026-09-23",
+   "lastSeen": "2026-10-22",
+   "score": 23.6,
+   "riskMentions": 0,
+   "catalystMentions": 0,
+   "samples": [
+    {
+     "date": "2026-10-22",
+     "title": "제이알글로벌리츠, 2029년 말까지 채무 전액 상환 추진…내달 채권자집회"
+    },
+    {
+     "date": "2026-10-21",
+     "title": "제이알글로벌리츠, 2029년 말까지 채무 전액 상환 추진…내달 채권자집회"
+    },
+    {
+     "date": "2026-10-20",
+     "title": "제이알글로벌리츠, 2029년 말까지 채무 전액 상환 추진…내달 채권자집회"
+    }
+   ]
+  },
+  {
+   "code": "003530",
+   "name": "한화투자증권",
+   "market": "KOSPI",
+   "cap": 8872,
+   "total": 17,
+   "recent": 3,
+   "activeDays": 8,
+   "firstSeen": "2026-09-29",
+   "lastSeen": "2026-10-22",
+   "score": 22.3,
+   "riskMentions": 0,
+   "catalystMentions": 3,
+   "samples": [
+    {
+     "date": "2026-10-22",
+     "title": "쪼그라든 한화투자증권…방산·생명 날아갈 때 나홀로 '비틀'"
+    },
+    {
+     "date": "2026-10-22",
+     "title": "그룹 입지·업계 위상 내리막…한화투자증권 '종투사' 먹구름"
+    },
+    {
+     "date": "2026-10-20",
+     "title": "한화투자증권, 가족과 함께하는 '사랑의 배 나눔' 봉사활동 성료"
     }
    ]
   },
@@ -678,58 +762,30 @@
    ]
   },
   {
-   "code": "030610",
-   "name": "교보증권",
+   "code": "003920",
+   "name": "남양유업",
    "market": "KOSPI",
-   "cap": 10052,
-   "total": 10,
-   "recent": 2,
-   "activeDays": 8,
-   "firstSeen": "2026-09-30",
+   "cap": 2278,
+   "total": 4,
+   "recent": 3,
+   "activeDays": 4,
+   "firstSeen": "2026-10-12",
    "lastSeen": "2026-10-22",
-   "score": 20.9,
+   "score": 20.6,
    "riskMentions": 0,
    "catalystMentions": 0,
    "samples": [
     {
      "date": "2026-10-22",
-     "title": "교보증권, 친환경 캠페인 기부금 1000만원 환경재단에 전달"
+     "title": "국감서도 남양유업 前오너 일가 기부금 의혹 제기"
     },
     {
-     "date": "2026-10-22",
-     "title": "[게시판] 교보증권, '드림이 그린레이스' 기부금 환경재단 전달"
-    },
-    {
-     "date": "2026-10-19",
-     "title": "이석기 교보증권 대표, '사람 살리는 금융' 릴레이 캠페인 동참"
-    }
-   ]
-  },
-  {
-   "code": "096690",
-   "name": "에이루트",
-   "market": "KOSDAQ",
-   "cap": 234,
-   "total": 7,
-   "recent": 2,
-   "activeDays": 7,
-   "firstSeen": "2026-09-23",
-   "lastSeen": "2026-10-22",
-   "score": 20.3,
-   "riskMentions": 0,
-   "catalystMentions": 1,
-   "samples": [
-    {
-     "date": "2026-10-22",
-     "title": "에이루트, 17억원 유상증자…최혜윤 등에 3자 배정"
+     "date": "2026-10-21",
+     "title": "국감서도 남양유업 前오너 일가 기부금 의혹 제기"
     },
     {
      "date": "2026-10-20",
-     "title": "에이루트 子, 대만 전력반도체 기업 노광장비 수주…AI 데이터센터 밸류체인 진입"
-    },
-    {
-     "date": "2026-10-16",
-     "title": "에이루트 子, 삼성전자·SK하이닉스 출신 반도체 노광장비 전문 인력 확보"
+     "title": "국감서도 남양유업 前오너 일가 기부금 의혹 제기"
     }
    ]
   },
@@ -762,86 +818,30 @@
    ]
   },
   {
-   "code": "003530",
-   "name": "한화투자증권",
-   "market": "KOSPI",
-   "cap": 8872,
-   "total": 16,
+   "code": "419530",
+   "name": "SAMG엔터",
+   "market": "KOSDAQ",
+   "cap": 1934,
+   "total": 7,
    "recent": 2,
-   "activeDays": 8,
-   "firstSeen": "2026-09-29",
+   "activeDays": 7,
+   "firstSeen": "2026-09-30",
    "lastSeen": "2026-10-22",
-   "score": 17.9,
+   "score": 20.3,
    "riskMentions": 0,
-   "catalystMentions": 2,
+   "catalystMentions": 0,
    "samples": [
     {
      "date": "2026-10-22",
-     "title": "쪼그라든 한화투자증권…방산·생명 날아갈 때 나홀로 '비틀'"
+     "title": "SAMG엔터, '하츄핑'으로 아동 실종 예방 알린다…경찰청장 감사장 받아"
     },
-    {
-     "date": "2026-10-20",
-     "title": "한화투자증권, 가족과 함께하는 '사랑의 배 나눔' 봉사활동 성료"
-    },
-    {
-     "date": "2026-10-10",
-     "title": "[부고] 정재영(한화투자증권 운영지원팀 팀장)씨 부친상"
-    }
-   ]
-  },
-  {
-   "code": "348950",
-   "name": "제이알글로벌리츠",
-   "market": "KOSPI",
-   "cap": 2333,
-   "total": 5,
-   "recent": 2,
-   "activeDays": 5,
-   "firstSeen": "2026-09-23",
-   "lastSeen": "2026-10-21",
-   "score": 17.3,
-   "riskMentions": 0,
-   "catalystMentions": 0,
-   "samples": [
     {
      "date": "2026-10-21",
-     "title": "제이알글로벌리츠, 2029년 말까지 채무 전액 상환 추진…내달 채권자집회"
-    },
-    {
-     "date": "2026-10-20",
-     "title": "제이알글로벌리츠, 2029년 말까지 채무 전액 상환 추진…내달 채권자집회"
+     "title": "SAMG엔터, '하츄핑'으로 아동 실종 예방 알린다…경찰청장 감사장 받아"
     },
     {
      "date": "2026-10-15",
-     "title": "제이알글로벌리츠, ARS 한 달 더 연장…&quot;수정 변제안으로 합의 추진&quot;"
-    }
-   ]
-  },
-  {
-   "code": "0255E0",
-   "name": "TIGER 글로벌MLCC&기판",
-   "market": "KOSPI",
-   "cap": 1077,
-   "total": 3,
-   "recent": 3,
-   "activeDays": 2,
-   "firstSeen": "2026-10-20",
-   "lastSeen": "2026-10-21",
-   "score": 17.1,
-   "riskMentions": 0,
-   "catalystMentions": 0,
-   "samples": [
-    {
-     "date": "2026-10-21",
-     "title": "미래에셋운용, 'TIGER 글로벌MLCC&기판 ETF' 신규 상장"
-    },
-    {
-     "date": "2026-10-20",
-     "title": "미래에셋운용, AI 서버 핵심 부품 담은 'TIGER 글로벌MLCC&기판 ETF' 상장"
-    },
-    {
-     "date": "2026-10-20",
-     "title": "미래에셋운용, 'TIGER 글로벌MLCC&기판 ETF' 신규 상장"
+     "title": "SAMG엔터 '캐치! 티니핑', 2026년 크리스마스 씰 주인공 선정…결핵퇴치 캠페인 동참"
     }
    ]
   }
