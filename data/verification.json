@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-22T09:37:21+09:00",
+ "updatedAt": "2026-10-23T00:34:59+09:00",
  "cases": [
   {
    "name": "이엠앤아이(083470)",
@@ -68834,6 +68834,142 @@
    "theme": "방산",
    "status": "pending",
    "checks": []
+  },
+  {
+   "name": "이엠앤아이(083470)",
+   "type": "leading",
+   "market": "韓",
+   "flagDate": "2026-10-23",
+   "signals": [
+    "경기도제조로봇이니셔티브재선정",
+    "cross-signal최고수렴(score9)",
+    "내부자매수"
+   ],
+   "theme": "로봇/휴머노이드",
+   "status": "pending",
+   "checks": [],
+   "convScore": 9,
+   "convTier": "high",
+   "convSignals": [
+    "반복포착",
+    "승세테마",
+    "구체촉발재",
+    "틈새레이더"
+   ],
+   "convStampedAt": "2026-10-23"
+  },
+  {
+   "name": "다이나믹솔루션(290660)",
+   "type": "leading",
+   "market": "韓",
+   "flagDate": "2026-10-23",
+   "signals": [
+    "BCI얼라이언스구체촉발재",
+    "매직랩로보틱스휴머노이드동맹",
+    "조기단계"
+   ],
+   "theme": "로봇/휴머노이드",
+   "status": "pending",
+   "checks": [],
+   "convScore": 5,
+   "convTier": "high",
+   "convSignals": [
+    "반복포착",
+    "승세테마"
+   ],
+   "convStampedAt": "2026-10-23"
+  },
+  {
+   "name": "티로보틱스(117730)",
+   "type": "leading",
+   "market": "韓",
+   "flagDate": "2026-10-23",
+   "signals": [
+    "美특허확보(반도체유리기판이송로봇)",
+    "승세테마",
+    "첨단패키징시장공략"
+   ],
+   "theme": "로봇/휴머노이드",
+   "status": "pending",
+   "checks": [],
+   "convScore": 6,
+   "convTier": "high",
+   "convSignals": [
+    "반복포착",
+    "승세테마",
+    "구체촉발재",
+    "⚠️열세테마",
+    "틈새레이더"
+   ],
+   "convStampedAt": "2026-10-23"
+  },
+  {
+   "name": "아이엘(307180)",
+   "type": "leading",
+   "market": "韓",
+   "flagDate": "2026-10-23",
+   "signals": [
+    "내부자매수(회장2.3만주)",
+    "조기단계(discovery count5)"
+   ],
+   "theme": "로봇/휴머노이드",
+   "status": "pending",
+   "checks": [],
+   "convScore": 7,
+   "convTier": "high",
+   "convSignals": [
+    "반복포착",
+    "승세테마",
+    "구체촉발재"
+   ],
+   "convStampedAt": "2026-10-23"
+  },
+  {
+   "name": "파인메딕스(387570)",
+   "type": "discovery",
+   "market": "韓",
+   "flagDate": "2026-10-23",
+   "signals": [
+    "英크레오메디컬ODM계약(30억원)",
+    "⚠️열세테마(바이오/의료)"
+   ],
+   "theme": "바이오/의료",
+   "status": "pending",
+   "checks": [],
+   "convScore": 1,
+   "convTier": "low",
+   "convSignals": [
+    "구체촉발재",
+    "⚠️열세테마",
+    "틈새레이더"
+   ],
+   "convStampedAt": "2026-10-23"
+  },
+  {
+   "name": "파두(440110)",
+   "type": "warning",
+   "market": "韓",
+   "flagDate": "2026-10-23",
+   "signals": [
+    "이미반복포착(count51)",
+    "후발진입주의"
+   ],
+   "theme": "AI반도체설계(팹리스/IP)",
+   "status": "pending",
+   "checks": []
+  },
+  {
+   "name": "자람테크놀로지(389020)",
+   "type": "warning",
+   "market": "韓",
+   "flagDate": "2026-10-23",
+   "signals": [
+    "이미반복포착(count38)",
+    "후발진입주의"
+   ],
+   "theme": "AI반도체설계(팹리스/IP)",
+   "status": "pending",
+   "checks": []
   }
  ],
  "stats": {
@@ -68843,8 +68979,8 @@
   "miss": 164,
   "hitRate": 24.3,
   "avgD3ChangePct": 0.32,
-  "pending": 216,
-  "total": 603,
+  "pending": 223,
+  "total": 610,
   "byType": {
    "leading": {
     "verified": 163,
