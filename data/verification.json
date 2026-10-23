@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-23T09:58:55+09:00",
+ "updatedAt": "2026-10-24T00:22:27+09:00",
  "cases": [
   {
    "name": "이엠앤아이(083470)",
@@ -68970,6 +68970,21 @@
    "theme": "AI반도체설계(팹리스/IP)",
    "status": "pending",
    "checks": []
+  },
+  {
+   "name": "한국피아이엠(448900)",
+   "type": "warning",
+   "market": "韓",
+   "flagDate": "2026-10-23",
+   "signals": [
+    "52주신고가",
+    "공모가대비8배",
+    "순손실상태급등",
+    "후발진입주의"
+   ],
+   "theme": "로봇/휴머노이드",
+   "status": "pending",
+   "checks": []
   }
  ],
  "stats": {
@@ -68979,8 +68994,8 @@
   "miss": 164,
   "hitRate": 24.3,
   "avgD3ChangePct": 0.32,
-  "pending": 223,
-  "total": 610,
+  "pending": 224,
+  "total": 611,
   "byType": {
    "leading": {
     "verified": 163,
