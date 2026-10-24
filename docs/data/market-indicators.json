@@ -1,24 +1,95 @@
 {
- "updatedAt": "2026-10-23T23:59:00+09:00",
- "session": "PM",
- "note": "10/23(금) 코스피는 美 빅테크發 'AI 신용위험' 공포로 개장 -2.36%·장중 한때 -4%까지 급락했으나, SK하이닉스가 자회사 솔리다임의 美 IPO·프리IPO 검토를 전격 철회했다는 소식에 반도체주가 급반등하며 +0.30%(5,550.30) 마감했다(코스닥은 -1.62% 마감, 반등폭 제한적). ⚠️ 오전 한때 보도된 '코스피 5,311 -3.95%'는 장중 저점 스냅샷이며 최종 마감가가 아니다.",
- "stock_fng": { "value": 31, "label": "Fear", "source": "https://www.hankyung.com/article/202610231404i" },
- "indices": [
-  { "name": "코스피", "value": "5,550.30", "change": "+0.30%(+16.53p) · 장중 -4%대 급락 후 반등 마감", "source": "https://www.mt.co.kr/stock/2026/10/23/2026102315265178425" },
-  { "name": "코스닥", "value": "751.69", "change": "-1.62%(-12.41p)", "source": "https://www.mt.co.kr/stock/2026/10/23/2026102315265178425" },
-  { "name": "S&P 500", "value": "7,663.43", "change": "-1.21% · 10/22(목) NY 종가", "source": "https://www.hankyung.com/article/202610239978i" },
-  { "name": "나스닥", "value": "26,008.86", "change": "-2.60% · 10/22(목) NY 종가, AI 신용우려發 기술주 투매", "source": "https://www.newsis.com/view/NISX20261023_0003837727" },
-  { "name": "다우", "value": "52,866", "change": "+0.02% · 10/22(목) NY 종가", "source": "https://www.hankyung.com/article/202610239978i" },
-  { "name": "VIX", "value": "19.03", "change": "+4.20% · 장중 한때 20.30(4개월래 최고)까지 상승", "source": "https://nordfx.com/market-news/market-pulse-october-23-2026" },
-  { "name": "美 10년물", "value": "4.952%", "change": "한 달 만에 5% 하회 · 안전자산 수요(기술주 매도→국채 매수)", "source": "https://www.cnbc.com/2026/10/23/bonds-yields-us-treasurys.html" },
-  { "name": "달러인덱스(DXY)", "value": "101.80", "change": "소폭 상승", "source": "https://kr.investing.com/indices/usdollar" },
-  { "name": "원/달러", "value": "1,324.6", "change": "+0.4원 · 15:30 기준", "source": "https://www.fnnews.com/news/202610231539221037" },
-  { "name": "美 기준금리", "value": "3.75~4.00%", "change": "0 · 10/27~28 FOMC(케빈 워시 의장 체제) 예정", "source": "https://fedratecalc.com/fed-rate-decision/" },
-  { "name": "한국 기준금리", "value": "3.00%", "change": "0 · 10/22 금통위 만장일치 동결(신현송 총재)", "source": "https://www.fntimes.com/html/view.php?ud=202610220949143753179ad43907_18" },
-  { "name": "美 CPI", "value": "3.7%", "change": "+0.1%p · 9월 전년비(예상 3.6% 상회), 근원 2.6%", "source": "https://www.hankyung.com/article/202610155072i" },
-  { "name": "韓 CPI", "value": "2.9%", "change": "0 · 9월 전년비, 10월 발표는 11/10", "source": "https://www.investing.com/economic-calendar/south-korean-cpi-467" },
-  { "name": "국고채 3년물", "value": "3.803%", "change": "하락 · 美 국채 강세 동조", "source": "https://www.yna.co.kr/view/AKR20261023146851008" },
-  { "name": "금(Gold)", "value": "4,127", "change": "-0.9% · 고유가·고금리 경계에 하락", "source": "https://news.einfomax.co.kr/news/articleView.html?idxno=4440893" },
-  { "name": "WTI", "value": "72.5", "change": "중동(이란) 지정학 리스크로 강세", "source": "https://nordfx.com/market-news/market-pulse-october-23-2026" }
- ]
+  "updatedAt": "2026-10-24T07:00:00+09:00",
+  "session": "AM",
+  "stock_fng": {
+    "value": 20,
+    "label": "Extreme Fear",
+    "source": "https://www.benzinga.com/markets/market-summary/26/10/62550969/nasdaq-records-worst-session-since-june-investor-sentiment-weakens-greed-index-moves-to-extreme-fear-zone"
+  },
+  "indices": [
+    {
+      "name": "코스피",
+      "value": "5,550.30",
+      "change": "+0.30%",
+      "source": "https://www.gukjenews.com/news/articleView.html?idxno=3731223"
+    },
+    {
+      "name": "코스닥",
+      "value": "751.69",
+      "change": "-1.62%",
+      "source": "https://kr.investing.com/indices/kosdaq-historical-data"
+    },
+    {
+      "name": "S&P 500",
+      "value": "7,623.68",
+      "change": "-0.52%",
+      "source": "https://247wallst.com/cards/the-selling-was-concentrated-in-old-economy-names-the-dow-g-gspc-market-bell-01m5n5skmg2fk150w6tvc7c2wv"
+    },
+    {
+      "name": "나스닥",
+      "value": "25,955.34",
+      "change": "-0.21%",
+      "source": "https://www.hawaiitribune-herald.com/2026/10/23/nation-world-news/standard-and-poors-500-nasdaq-end-sharply-lower-as-revived-ai-doubts-ignite-tech-selloff"
+    },
+    {
+      "name": "다우",
+      "value": "52,215.16",
+      "change": "-1.23%",
+      "source": "https://www.bbntimes.com/global-economy/dow-jones-today-djia-falls-to-52-215-16-as-american-express-slides-and-oil-prices-jump"
+    },
+    {
+      "name": "VIX",
+      "value": "19.45",
+      "change": "+2.21%",
+      "source": "https://www.investing.com/indices/volatility-s-p-500-historical-data"
+    },
+    {
+      "name": "美 10년물",
+      "value": "5.13%",
+      "change": "+1bp",
+      "source": "https://tradingeconomics.com/united-states/government-bond-yield"
+    },
+    {
+      "name": "달러인덱스(DXY)",
+      "value": "101.71",
+      "change": "+0.10%",
+      "source": "https://tradingeconomics.com/dxy:cur"
+    },
+    {
+      "name": "원/달러",
+      "value": "1,324.6",
+      "change": "+0.4원",
+      "source": "https://www.mt.co.kr/economy/2026/10/23/2026102315223170326"
+    },
+    {
+      "name": "美 기준금리",
+      "value": "3.75~4.00%",
+      "change": "0",
+      "source": "https://www.ironcladresearch.com/federal-funds-rate"
+    },
+    {
+      "name": "한국 기준금리",
+      "value": "3.00%",
+      "change": "0",
+      "source": "https://www.fntimes.com/html/view.php?ud=202610220949143753179ad43907_18"
+    },
+    {
+      "name": "美 CPI",
+      "value": "3.7%",
+      "change": "+0.3%p",
+      "source": "https://www.bls.gov/news.release/archives/cpi_10142026.htm"
+    },
+    {
+      "name": "韓 CPI",
+      "value": "2.9%",
+      "change": "-0.2%p",
+      "source": "https://www.korea.kr/briefing/policyBriefingView.do?newsId=156784092"
+    },
+    {
+      "name": "금(Gold)",
+      "value": "4,010.80",
+      "change": "+0.22%",
+      "source": "https://www.cnbc.com/select/the-price-of-gold-today-oct-23-2026/"
+    }
+  ]
 }

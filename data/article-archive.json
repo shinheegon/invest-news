@@ -3,6 +3,30 @@
   "SK하이닉스(000660)": {
    "articles": [
     {
+     "date": "2026-10-24",
+     "source": "아시아경제",
+     "title": "코스피, 하락폭 줄이며 5400선 회복…SK하이닉스 2% 강세",
+     "link": "https://view.asiae.co.kr/article/2026102314003655039"
+    },
+    {
+     "date": "2026-10-24",
+     "source": "아시아경제",
+     "title": "코스피, 5500선 회복…'솔리다임 IPO 철회' SK하이닉스 강세",
+     "link": "https://view.asiae.co.kr/article/2026102316141192290"
+    },
+    {
+     "date": "2026-10-24",
+     "source": "아시아경제",
+     "title": "거버넌스포럼 \"SK하이닉스, 솔리다임 美 상장중단 환영\"",
+     "link": "https://view.asiae.co.kr/article/2026102311271182280"
+    },
+    {
+     "date": "2026-10-24",
+     "source": "파이낸셜뉴스",
+     "title": "- SK하이닉스(000660): 10/23 美 낸드 자회사 솔리다임의 나스닥 IPO·프리IPO 검토를 전면 중단 발표(자본시장 변동성·반도체 밸류에이션 조정 사유",
+     "link": "https://www.fnnews.com/news/202610231054594940"
+    },
+    {
      "date": "2026-10-23",
      "source": "한국경제·증권",
      "title": "이억원 \"솔리다임 중복상장 규제 대상…SK하이닉스 등 모회사 의무 발생\"",
@@ -697,35 +721,17 @@
      "source": "g-enews.com",
      "title": "- SK하이닉스(000660): HBM3E 품질검증 이슈를 딛고 공급 정상화, HBM4 선행 출하로 점유율 1위 유지(카운터포인트리서치).",
      "link": "https://www.g-enews.com/article/Industry/2026/09/20260921135038340727fa31d75c_1"
-    },
-    {
-     "date": "2026-09-22",
-     "source": "한국경제·증권",
-     "title": "서학개미 몰리는 반도체 3배 ETF 'SOXL'…SK하이닉스 담았다",
-     "link": "https://www.hankyung.com/article/202609221491i"
-    },
-    {
-     "date": "2026-09-22",
-     "source": "한국경제·증권",
-     "title": "SK하이닉스 ADR, 이제 원화로 투자한다…KODEX 미국반도체 편입",
-     "link": "https://www.hankyung.com/article/202609218539i"
-    },
-    {
-     "date": "2026-09-22",
-     "source": "한국경제·경제",
-     "title": "\"수억대 연봉 날아갔다\"…SK하이닉스 신입 4명 결국 짐 쌌다",
-     "link": "https://www.hankyung.com/article/2026092219317"
-    },
-    {
-     "date": "2026-09-22",
-     "source": "파이낸셜·증권",
-     "title": "삼성운용 'KODEX 미국반도체', SK하이닉스 ADR 담았다",
-     "link": "https://www.fnnews.com/news/202609210903015027"
     }
    ]
   },
   "삼성전자(005930)": {
    "articles": [
+    {
+     "date": "2026-10-24",
+     "source": "g-enews.com",
+     "title": "- 삼성전자(005930): HBM4 2027년 공급분을 기가바이트당 $4 중후반대(전세대 약 3배)로 주요 고객사와 협상 중. 번스타인은 삼성전자의 HBM4 기",
+     "link": "https://www.g-enews.com/article/Global-Biz/2026/10/202610031136088018fbbec65dfb_1"
+    },
     {
      "date": "2026-10-23",
      "source": "파이낸셜·증권",
@@ -752,15 +758,15 @@
     },
     {
      "date": "2026-10-23",
-     "source": "Investing",
-     "title": "- 삼성전자(005930): 10/23 -4.03%(214,500원) 마감. HBM 매출은 3Q 전분기比 +33%(약87억달러 추정)로 견조하나 美 반도체 투매·",
-     "link": "https://kr.investing.com/news/stock-market-news/article-93CH-2136806"
-    },
-    {
-     "date": "2026-10-23",
      "source": "g-enews.com",
      "title": "- 삼성전자(005930): 10/23 美 AI 수익성 우려 여파로 약세 마감. HBM4 양산 출하가 시작됐고(전송속도 최대 13Gbps), 메모리 빅사이클 기대",
      "link": "https://www.g-enews.com/article/Securities/2026/10/20261023100923591144093b5d4e_1"
+    },
+    {
+     "date": "2026-10-23",
+     "source": "Investing",
+     "title": "- 삼성전자(005930): 10/23 -4.03%(214,500원) 마감. HBM 매출은 3Q 전분기比 +33%(약87억달러 추정)로 견조하나 美 반도체 투매·",
+     "link": "https://kr.investing.com/news/stock-market-news/article-93CH-2136806"
     },
     {
      "date": "2026-10-22",
@@ -1439,17 +1445,17 @@
      "source": "연합뉴스·경제",
      "title": "골드만삭스 \"삼성전자, 8일 변동성 확대…매도 요인 겹쳐\"",
      "link": "https://www.yna.co.kr/view/AKR20261007048300008"
-    },
-    {
-     "date": "2026-10-07",
-     "source": "연합뉴스·경제",
-     "title": "[특징주] 삼성전자, 장초반 2%대 급등…SK하이닉스는 0.6%↓",
-     "link": "https://www.yna.co.kr/view/AKR20261007047000008"
     }
    ]
   },
   "현대차(005380)": {
    "articles": [
+    {
+     "date": "2026-10-24",
+     "source": "머니투데이·증권",
+     "title": "\"8만전자 찍는데 우리는\" 개미 속 태우는 현대차…증권가 엇갈린 시선",
+     "link": "https://news.mt.co.kr/mtview.php?no=2025091915355269638"
+    },
     {
      "date": "2026-10-23",
      "source": "한국경제·경제",
@@ -2163,12 +2169,6 @@
      "source": "한국경제·경제",
      "title": "한화·현대차 수해복구 성금 전달",
      "link": "https://www.hankyung.com/article/2026082370461"
-    },
-    {
-     "date": "2026-08-24",
-     "source": "연합뉴스·경제",
-     "title": "현대차, 내년부터 2028년까지 기술직 500명 신규 채용 전망",
-     "link": "https://www.yna.co.kr/view/AKR20260824157000057"
     }
    ]
   },
@@ -4749,6 +4749,12 @@
   "삼성전기(009150)": {
    "articles": [
     {
+     "date": "2026-10-24",
+     "source": "머니투데이·증권",
+     "title": "[이창대의 잠금해제] 피지컬 AI 주도하는 MLCC 삼성전기 신고가부터가 진짜 기회",
+     "link": "https://news.mt.co.kr/mtview.php?no=2025091911437056345"
+    },
+    {
      "date": "2026-10-23",
      "source": "한국경제·증권",
      "title": "엔비디아와 '기판 동맹'…삼성전기, 코스피 약세에도 4% 상승",
@@ -5461,17 +5467,17 @@
      "source": "아시아경제",
      "title": "\"삼성전기, 내년 영업익 110% 성장 전망…목표가↑\"[클릭 e종목]",
      "link": "https://view.asiae.co.kr/article/2026062215184996178"
-    },
-    {
-     "date": "2026-06-19",
-     "source": "한국경제·증권",
-     "title": "\"삼성전기, MLCC·패키징 기판 여전히 과소평가…목표가 300만원\"-KB",
-     "link": "https://www.hankyung.com/article/2026061956156"
     }
    ]
   },
   "엔비디아(NVDA)": {
    "articles": [
+    {
+     "date": "2026-10-24",
+     "source": "한국경제·증권",
+     "title": "\"엔비디아, 경쟁심화 우려\"…스페이스X 재평가 본격화[월가 업&다운]",
+     "link": "https://www.hankyung.com/article/202610232075i"
+    },
     {
      "date": "2026-10-23",
      "source": "한국경제·증권",
@@ -6185,12 +6191,6 @@
      "source": "한국경제·증권",
      "title": "\"엔비디아 차세대 수요 선제 대응\"…심텍, 증설 결정에 '급등' [종목+]",
      "link": "https://www.hankyung.com/article/2026082769986"
-    },
-    {
-     "date": "2026-08-28",
-     "source": "한국경제·증권",
-     "title": "\"땡큐, 엔비디아\"…코스피, '백투백' 금리인상에도 1%대 상승",
-     "link": "https://www.hankyung.com/article/2026082771506"
     }
    ]
   },
@@ -8189,6 +8189,18 @@
   "메타(META)": {
    "articles": [
     {
+     "date": "2026-10-24",
+     "source": "한국경제·경제",
+     "title": "AI 투자 불안에 국채 급등…메타 증자·스페이스X 통신 진출 주목[박신영의 개장전 요것만]",
+     "link": "https://www.hankyung.com/article/202610242083i"
+    },
+    {
+     "date": "2026-10-24",
+     "source": "아시아경제",
+     "title": "이번엔 메타발 충격…코스피 이달에만 20% 급락",
+     "link": "https://view.asiae.co.kr/article/2026102310253850172"
+    },
+    {
      "date": "2026-10-23",
      "source": "한국경제·증권",
      "title": "메타 너마저…빅테크로 번진 'AI 돈줄' 공포에 코스피 '휘청'",
@@ -9381,14 +9393,14 @@
     {
      "date": "2026-10-23",
      "source": "job-post.co.kr",
-     "title": "- 한미반도체(042700): HBM4용 TC본더 시장 점유율 71.2%(세계 1위)로 SK하이닉스向 442억원·삼성전기向 245억원 장비 공급계약을 보유하나, ",
-     "link": "https://www.job-post.co.kr/news/articleView.html?idxno=233896"
+     "title": "- 한미반도체(042700): 美 반도체 투매 여파로 약세. SK하이닉스向 442억원 HBM4용 TC본더 공급계약을 보유하고 있어 HBM 수요 사이클의 핵심 수혜",
+     "link": "https://www.job-post.co.kr/news/articleView.html?idxno=233100"
     },
     {
      "date": "2026-10-23",
      "source": "job-post.co.kr",
-     "title": "- 한미반도체(042700): 美 반도체 투매 여파로 약세. SK하이닉스向 442억원 HBM4용 TC본더 공급계약을 보유하고 있어 HBM 수요 사이클의 핵심 수혜",
-     "link": "https://www.job-post.co.kr/news/articleView.html?idxno=233100"
+     "title": "- 한미반도체(042700): HBM4용 TC본더 시장 점유율 71.2%(세계 1위)로 SK하이닉스向 442억원·삼성전기向 245억원 장비 공급계약을 보유하나, ",
+     "link": "https://www.job-post.co.kr/news/articleView.html?idxno=233896"
     },
     {
      "date": "2026-10-22",
@@ -20225,6 +20237,12 @@
   "테슬라(TSLA)": {
    "articles": [
     {
+     "date": "2026-10-24",
+     "source": "연합인포맥스",
+     "title": "테슬라 로드스터가 날아다니는 이유",
+     "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4440940"
+    },
+    {
      "date": "2026-10-23",
      "source": "한국경제·증권",
      "title": "\"수천억 달러 필요\"→AI 대학살…메타는 너무 많이 쓰고, 테슬라는 적게 썼다 [김현석의 월스트리트나우]",
@@ -24850,6 +24868,12 @@
   },
   "고려아연(010130)": {
    "articles": [
+    {
+     "date": "2026-10-24",
+     "source": "아시아경제",
+     "title": "영풍·MBK \"고려아연, 최윤범 최측근 관련사에 300억 넘게 빌려줘\"",
+     "link": "https://view.asiae.co.kr/article/2026102310142060948"
+    },
     {
      "date": "2026-10-23",
      "source": "연합인포맥스",
@@ -31889,6 +31913,12 @@
   "NH투자증권(005940)": {
    "articles": [
     {
+     "date": "2026-10-24",
+     "source": "아시아경제",
+     "title": "NH투자증권 \"IMA 'N2 IMA1 중기형 4호' 모집\"",
+     "link": "https://view.asiae.co.kr/article/2026102311132016551"
+    },
+    {
      "date": "2026-10-23",
      "source": "연합뉴스·경제",
      "title": "NH투자증권, IMA 'N2 IMA1 중기형 4호' 26∼29일 모집",
@@ -35435,6 +35465,12 @@
   "대상(001680)": {
    "articles": [
     {
+     "date": "2026-10-24",
+     "source": "아시아경제",
+     "title": "KB증권 \"기업 담당자 대상 '퇴직연금 세미나' 개최\"",
+     "link": "https://view.asiae.co.kr/article/2026102314242236873"
+    },
+    {
      "date": "2026-10-23",
      "source": "한국경제·증권",
      "title": "이억원 \"솔리다임 중복상장 규제 대상…SK하이닉스 등 모회사 의무 발생\"",
@@ -36147,12 +36183,6 @@
      "source": "파이낸셜뉴스",
      "title": "부산항만공사, 협력사 대상 물가변동 교육·상생협력 간담회 개최",
      "link": "https://www.fnnews.com/news/202609081438589589"
-    },
-    {
-     "date": "2026-09-08",
-     "source": "파이낸셜뉴스",
-     "title": "KT&G, 궐련형 전자담배 브랜드 9년 연속 소비자 대상 수상",
-     "link": "https://www.fnnews.com/news/202609070949229854"
     }
    ]
   },
@@ -41851,6 +41881,12 @@
   "CJ프레시웨이(051500)": {
    "articles": [
     {
+     "date": "2026-10-24",
+     "source": "연합인포맥스",
+     "title": "'성장통' CJ프레시웨이, 3Q 영업익 28% 감소 전망…&quot;투자비 증가&quot;",
+     "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4440934"
+    },
+    {
      "date": "2026-10-23",
      "source": "연합뉴스·경제",
      "title": "공정위, '식자재 입찰 담합 의혹' CJ프레시웨이 현장 조사",
@@ -42620,6 +42656,12 @@
   },
   "영풍(000670)": {
    "articles": [
+    {
+     "date": "2026-10-24",
+     "source": "아시아경제",
+     "title": "영풍·MBK \"고려아연, 최윤범 최측근 관련사에 300억 넘게 빌려줘\"",
+     "link": "https://view.asiae.co.kr/article/2026102310142060948"
+    },
     {
      "date": "2026-10-23",
      "source": "아시아경제",
@@ -43535,6 +43577,12 @@
   "SpaceX": {
    "articles": [
     {
+     "date": "2026-10-24",
+     "source": "MarketWatch",
+     "title": "The mobile ambitions of SpaceX are hitting telecom stocks again. Here’s what the latest developments mean.",
+     "link": "https://www.marketwatch.com/story/the-mobile-ambitions-of-spacex-see-telecom-stocks-get-hit-again-what-the-latest-developments-mean-9a4159b5?mod=mw_rss_topstories"
+    },
+    {
      "date": "2026-10-22",
      "source": "MarketWatch",
      "title": "Why investors should be skeptical of a potential Tesla-SpaceX merger",
@@ -43832,6 +43880,12 @@
   },
   "Anthropic": {
    "articles": [
+    {
+     "date": "2026-10-24",
+     "source": "MarketWatch",
+     "title": "Will Anthropic pull off a November IPO? Time is running out to file key paperwork.",
+     "link": "https://www.marketwatch.com/story/will-anthropic-pull-off-a-november-ipo-time-is-running-out-to-file-key-paperwork-52677343?mod=mw_rss_topstories"
+    },
     {
      "date": "2026-10-20",
      "source": "CNBC·Finance",
@@ -44452,6 +44506,12 @@
   },
   "모건스탠리(MS)": {
    "articles": [
+    {
+     "date": "2026-10-24",
+     "source": "아시아경제",
+     "title": "모건스탠리 \"한은 '매파적 동결'…11월 0.25%P 인상 유력\"",
+     "link": "https://view.asiae.co.kr/article/2026102315100372096"
+    },
     {
      "date": "2026-10-21",
      "source": "연합인포맥스",
@@ -59581,6 +59641,12 @@
   "신현송(한은총재)": {
    "articles": [
     {
+     "date": "2026-10-24",
+     "source": "연합인포맥스",
+     "title": "신현송, '국채 수급 부담 있나' 질문에 &quot;어느 정도 균형&quot;",
+     "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4440922"
+    },
+    {
      "date": "2026-10-23",
      "source": "파이낸셜뉴스",
      "title": "신현송 한은 총재, 정부 물가·재정 정책에 '작심 비판'",
@@ -61037,6 +61103,12 @@
   "Moderna(MRNA)": {
    "articles": [
     {
+     "date": "2026-10-24",
+     "source": "MarketWatch",
+     "title": "The real test for Moderna’s cancer vaccine isn’t about beating Keytruda. It’s keeping cancer from coming back in the long term.",
+     "link": "https://www.marketwatch.com/story/the-real-test-for-modernas-cancer-vaccine-isnt-about-beating-keytruda-its-keeping-cancer-from-coming-back-in-the-long-term-da9af99f?mod=mw_rss_topstories"
+    },
+    {
      "date": "2026-10-23",
      "source": "MarketWatch",
      "title": "Moderna’s cancer vaccine hits its targets, but a data leak rattled investors and the stock tumbled",
@@ -61127,5 +61199,5 @@
    ]
   }
  },
- "updatedAt": "2026-10-23T23:54:08+09:00"
+ "updatedAt": "2026-10-24T09:25:21+09:00"
 }

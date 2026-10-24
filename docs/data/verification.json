@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-24T00:22:27+09:00",
+ "updatedAt": "2026-10-24T10:00:06+09:00",
  "cases": [
   {
    "name": "이엠앤아이(083470)",
@@ -68985,6 +68985,112 @@
    "theme": "로봇/휴머노이드",
    "status": "pending",
    "checks": []
+  },
+  {
+   "name": "세미파이브(490470)",
+   "type": "warning",
+   "market": "韓",
+   "flagDate": "2026-10-24",
+   "signals": [
+    "이미급등",
+    "극심한변동성"
+   ],
+   "theme": "AI반도체설계(팹리스/IP)",
+   "status": "pending",
+   "checks": []
+  },
+  {
+   "name": "파두(440110)",
+   "type": "warning",
+   "market": "韓",
+   "flagDate": "2026-10-24",
+   "signals": [
+    "이미과열",
+    "시총3조돌파"
+   ],
+   "theme": "AI반도체설계(팹리스/IP)",
+   "status": "pending",
+   "checks": []
+  },
+  {
+   "name": "에이디테크놀로지(200710)",
+   "type": "warning",
+   "market": "韓",
+   "flagDate": "2026-10-24",
+   "signals": [
+    "선반영",
+    "거래량25배"
+   ],
+   "theme": "AI반도체설계(팹리스/IP)",
+   "status": "pending",
+   "checks": []
+  },
+  {
+   "name": "한솔아이원스(114810)",
+   "type": "warning",
+   "market": "韓",
+   "flagDate": "2026-10-24",
+   "signals": [
+    "열세테마",
+    "즉시전매체보도"
+   ],
+   "theme": "반도체소재/장비",
+   "status": "pending",
+   "checks": []
+  },
+  {
+   "name": "아이씨에이치(368600)",
+   "type": "warning",
+   "market": "韓",
+   "flagDate": "2026-10-24",
+   "signals": [
+    "이미알려짐",
+    "8월부터반복보도"
+   ],
+   "theme": "로봇/휴머노이드",
+   "status": "pending",
+   "checks": []
+  },
+  {
+   "name": "자람테크놀로지(389020)",
+   "type": "discovery",
+   "market": "韓",
+   "flagDate": "2026-10-24",
+   "signals": [
+    "국책과제선정",
+    "구체촉발재",
+    "수개월공백후재료"
+   ],
+   "theme": "AI반도체설계(팹리스/IP)",
+   "status": "pending",
+   "checks": [],
+   "convScore": 7,
+   "convTier": "high",
+   "convSignals": [
+    "반복포착",
+    "승세테마",
+    "구체촉발재"
+   ],
+   "convStampedAt": "2026-10-24"
+  },
+  {
+   "name": "씨메스로보틱스(475400)",
+   "type": "discovery",
+   "market": "韓",
+   "flagDate": "2026-10-24",
+   "signals": [
+    "증권가재조명"
+   ],
+   "theme": "로봇/휴머노이드",
+   "status": "pending",
+   "checks": [],
+   "convScore": 5,
+   "convTier": "high",
+   "convSignals": [
+    "반복포착",
+    "승세테마"
+   ],
+   "convStampedAt": "2026-10-24"
   }
  ],
  "stats": {
@@ -68994,8 +69100,8 @@
   "miss": 164,
   "hitRate": 24.3,
   "avgD3ChangePct": 0.32,
-  "pending": 224,
-  "total": 611,
+  "pending": 231,
+  "total": 618,
   "byType": {
    "leading": {
     "verified": 163,
