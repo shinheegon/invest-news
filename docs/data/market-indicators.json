@@ -1,41 +1,41 @@
 {
-  "updatedAt": "2026-10-24T07:00:00+09:00",
-  "session": "AM",
+  "updatedAt": "2026-10-24T23:09:31+09:00",
+  "session": "PM",
   "stock_fng": {
     "value": 20,
     "label": "Extreme Fear",
-    "source": "https://www.benzinga.com/markets/market-summary/26/10/62550969/nasdaq-records-worst-session-since-june-investor-sentiment-weakens-greed-index-moves-to-extreme-fear-zone"
+    "source": "https://investrade.com/market-review-october-23-2026/"
   },
   "indices": [
     {
       "name": "코스피",
       "value": "5,550.30",
       "change": "+0.30%",
-      "source": "https://www.gukjenews.com/news/articleView.html?idxno=3731223"
+      "source": "https://view.asiae.co.kr/article/2026102315485888517"
     },
     {
       "name": "코스닥",
       "value": "751.69",
       "change": "-1.62%",
-      "source": "https://kr.investing.com/indices/kosdaq-historical-data"
+      "source": "https://view.asiae.co.kr/article/2026102315494608537"
     },
     {
       "name": "S&P 500",
       "value": "7,623.68",
       "change": "-0.52%",
-      "source": "https://247wallst.com/cards/the-selling-was-concentrated-in-old-economy-names-the-dow-g-gspc-market-bell-01m5n5skmg2fk150w6tvc7c2wv"
+      "source": "https://finance.yahoo.com/markets/live/stock-market-today-friday-october-23-dow-sp-500-nasdaq-tesla-meta-093000521.html"
     },
     {
       "name": "나스닥",
       "value": "25,955.34",
       "change": "-0.21%",
-      "source": "https://www.hawaiitribune-herald.com/2026/10/23/nation-world-news/standard-and-poors-500-nasdaq-end-sharply-lower-as-revived-ai-doubts-ignite-tech-selloff"
+      "source": "https://finance.yahoo.com/markets/live/stock-market-today-friday-october-23-dow-sp-500-nasdaq-tesla-meta-093000521.html"
     },
     {
       "name": "다우",
       "value": "52,215.16",
       "change": "-1.23%",
-      "source": "https://www.bbntimes.com/global-economy/dow-jones-today-djia-falls-to-52-215-16-as-american-express-slides-and-oil-prices-jump"
+      "source": "https://finance.yahoo.com/markets/live/stock-market-today-friday-october-23-dow-sp-500-nasdaq-tesla-meta-093000521.html"
     },
     {
       "name": "VIX",
@@ -45,9 +45,9 @@
     },
     {
       "name": "美 10년물",
-      "value": "5.13%",
-      "change": "+1bp",
-      "source": "https://tradingeconomics.com/united-states/government-bond-yield"
+      "value": "4.99%",
+      "change": "-",
+      "source": "https://www.investing.com/rates-bonds/u.s.-10-year-bond-yield-historical-data"
     },
     {
       "name": "달러인덱스(DXY)",
@@ -59,7 +59,7 @@
       "name": "원/달러",
       "value": "1,324.6",
       "change": "+0.4원",
-      "source": "https://www.mt.co.kr/economy/2026/10/23/2026102315223170326"
+      "source": "https://www.yna.co.kr/view/AKR20261023128300002"
     },
     {
       "name": "美 기준금리",
@@ -87,9 +87,15 @@
     },
     {
       "name": "금(Gold)",
-      "value": "4,010.80",
-      "change": "+0.22%",
-      "source": "https://www.cnbc.com/select/the-price-of-gold-today-oct-23-2026/"
+      "value": "3,992.44",
+      "change": "-3.0%",
+      "source": "https://www.gukjenews.com/news/articleView.html?idxno=3731361"
+    },
+    {
+      "name": "WTI",
+      "value": "100.84",
+      "change": "+",
+      "source": "https://www.newsis.com/view/NISX20261024_0003839365"
     }
   ]
 }
