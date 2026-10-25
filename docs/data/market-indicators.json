@@ -1,23 +1,23 @@
 {
-  "updatedAt": "2026-10-25T09:30:00+09:00",
-  "session": "AM",
+  "updatedAt": "2026-10-25T19:30:00+09:00",
+  "session": "PM",
   "stock_fng": {
-    "value": 20,
+    "value": 21,
     "label": "Extreme Fear",
-    "source": "https://www.benzinga.com/markets/market-summary/26/10/62458648/nasdaq-jumps-over-1-as-tech-stocks-gain-investor-sentiment-improves-greed-index-remains-in-extreme-fear-zone"
+    "source": "https://www.aistockselection.com/en/fear-greed-today/"
   },
   "indices": [
     {
       "name": "코스피",
       "value": "5,550.30",
       "change": "+0.30%",
-      "source": "https://view.asiae.co.kr/article/2026102315485888517"
+      "source": "https://www.mt.co.kr/stock/2026/10/23/2026102315261132491"
     },
     {
       "name": "코스닥",
       "value": "751.69",
       "change": "-1.62%",
-      "source": "https://view.asiae.co.kr/article/2026102315494608537"
+      "source": "https://www.mt.co.kr/stock/2026/10/23/2026102315265178425"
     },
     {
       "name": "S&P 500",
@@ -35,49 +35,55 @@
       "name": "다우",
       "value": "52,215.16",
       "change": "-1.23%",
-      "source": "https://finance.yahoo.com/markets/live/stock-market-today-friday-october-23-dow-sp-500-nasdaq-tesla-meta-093000521.html"
+      "source": "https://www.spokesman.com/stories/2026/oct/23/dow-sp-500-fall-tech-steadies-to-end-rocky-week/"
     },
     {
       "name": "VIX",
       "value": "19.45",
       "change": "+2.21%",
-      "source": "https://www.investing.com/indices/volatility-s-p-500-historical-data"
+      "source": "https://hollowpointtrading.substack.com/p/point-blank-vix-at-1945-adds-a-volatility"
     },
     {
       "name": "美 10년물",
       "value": "4.99%",
-      "change": "-",
+      "change": "+0.04",
       "source": "https://www.cnbc.com/2026/10/23/bonds-yields-us-treasurys.html"
     },
     {
       "name": "달러인덱스(DXY)",
       "value": "101.71",
-      "change": "+0.10%",
+      "change": "+0.14%",
       "source": "https://tradingeconomics.com/dxy:cur"
     },
     {
       "name": "원/달러",
       "value": "1,324.6",
       "change": "+0.4원",
-      "source": "https://www.yna.co.kr/view/AKR20261023128300002"
+      "source": "https://www.mt.co.kr/economy/2026/10/23/2026102315223170326"
     },
     {
       "name": "美 기준금리",
       "value": "3.75~4.00%",
-      "change": "+0.25%p(9월 인상)",
-      "source": "https://www.forbes.com/sites/simonmoore/2026/10/19/what-to-look-for-from-the-feds-october-meeting/"
+      "change": "0(동결 유력, 10/28 FOMC)",
+      "source": "https://www.mitrade.com/insights/more/Central-Banks/fed-october-hold-december-hike-20261022J1428"
     },
     {
       "name": "한국 기준금리",
       "value": "3.00%",
       "change": "0(10/22 동결)",
-      "source": "https://www.fntimes.com/html/view.php?ud=202610220949143753179ad43907_18"
+      "source": "https://view.asiae.co.kr/article/2026102209202343988"
+    },
+    {
+      "name": "국고채 3년물",
+      "value": "3.803%",
+      "change": "-0.04%p",
+      "source": "https://www.specialtimes.co.kr/news/articleView.html?idxno=477775"
     },
     {
       "name": "美 CPI",
       "value": "3.7%",
       "change": "+0.3%p",
-      "source": "https://www.bls.gov/news.release/archives/cpi_10142026.htm"
+      "source": "https://www.cnbc.com/2026/10/14/cpi-inflation-report-september-2026.html"
     },
     {
       "name": "韓 CPI",
@@ -88,14 +94,14 @@
     {
       "name": "금(Gold)",
       "value": "3,992.44",
-      "change": "-3.0%",
+      "change": "-2.9%",
       "source": "https://www.gukjenews.com/news/articleView.html?idxno=3731361"
     },
     {
       "name": "WTI",
-      "value": "103.27",
-      "change": "+3.8%",
-      "source": "https://ua.news/en/energetika/brent-podorozhchala-do-116-72-za-barel-wti-do-103-27-the-rio-times"
+      "value": "72.5",
+      "change": "-",
+      "source": "https://www.hankyung.com/article/2026102535241"
     }
   ]
 }
