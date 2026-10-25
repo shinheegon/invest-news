@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-10-24T23:09:31+09:00",
-  "session": "PM",
+  "updatedAt": "2026-10-25T09:30:00+09:00",
+  "session": "AM",
   "stock_fng": {
     "value": 20,
     "label": "Extreme Fear",
-    "source": "https://investrade.com/market-review-october-23-2026/"
+    "source": "https://www.benzinga.com/markets/market-summary/26/10/62458648/nasdaq-jumps-over-1-as-tech-stocks-gain-investor-sentiment-improves-greed-index-remains-in-extreme-fear-zone"
   },
   "indices": [
     {
@@ -47,7 +47,7 @@
       "name": "美 10년물",
       "value": "4.99%",
       "change": "-",
-      "source": "https://www.investing.com/rates-bonds/u.s.-10-year-bond-yield-historical-data"
+      "source": "https://www.cnbc.com/2026/10/23/bonds-yields-us-treasurys.html"
     },
     {
       "name": "달러인덱스(DXY)",
@@ -64,13 +64,13 @@
     {
       "name": "美 기준금리",
       "value": "3.75~4.00%",
-      "change": "0",
-      "source": "https://www.ironcladresearch.com/federal-funds-rate"
+      "change": "+0.25%p(9월 인상)",
+      "source": "https://www.forbes.com/sites/simonmoore/2026/10/19/what-to-look-for-from-the-feds-october-meeting/"
     },
     {
       "name": "한국 기준금리",
       "value": "3.00%",
-      "change": "0",
+      "change": "0(10/22 동결)",
       "source": "https://www.fntimes.com/html/view.php?ud=202610220949143753179ad43907_18"
     },
     {
@@ -93,9 +93,9 @@
     },
     {
       "name": "WTI",
-      "value": "100.84",
-      "change": "+",
-      "source": "https://www.newsis.com/view/NISX20261024_0003839365"
+      "value": "103.27",
+      "change": "+3.8%",
+      "source": "https://ua.news/en/energetika/brent-podorozhchala-do-116-72-za-barel-wti-do-103-27-the-rio-times"
     }
   ]
 }
