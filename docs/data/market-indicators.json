@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-26T09:30:00+09:00",
+  "updatedAt": "2026-10-27T07:30:00+09:00",
   "session": "AM",
   "stock_fng": {
     "value": 21,
@@ -9,104 +9,104 @@
   "indices": [
     {
       "name": "코스피",
-      "value": "5,499.05",
-      "change": "-0.92%",
-      "source": "https://www.fnnews.com/news/202610260856491808"
+      "value": "5,469.47",
+      "change": "-1.46%",
+      "source": "https://www.fnnews.com/news/202610261552276234"
     },
     {
       "name": "코스닥",
-      "value": "742.17",
-      "change": "-1.27%",
-      "source": "https://www.mt.co.kr/stock/2026/10/26/2026102608481499248"
+      "value": "727.21",
+      "change": "-3.26%",
+      "source": "https://www.fnnews.com/news/202610261552276234"
     },
     {
       "name": "S&P 500",
-      "value": "7,623.68",
-      "change": "-0.52%",
-      "source": "https://www.spokesman.com/stories/2026/oct/23/dow-sp-500-fall-tech-steadies-to-end-rocky-week/"
+      "value": "7,667.00",
+      "change": "+0.57%",
+      "source": "https://finance.yahoo.com/markets/live/stock-market-today-monday-october-26-dow-sp-500-nasdaq-101153035.html"
     },
     {
       "name": "나스닥",
-      "value": "25,955.34",
-      "change": "-0.21%",
-      "source": "https://www.spokesman.com/stories/2026/oct/23/dow-sp-500-fall-tech-steadies-to-end-rocky-week/"
+      "value": "26,157.90",
+      "change": "+0.78%",
+      "source": "https://finance.yahoo.com/markets/live/stock-market-today-monday-october-26-dow-sp-500-nasdaq-101153035.html"
     },
     {
       "name": "다우",
-      "value": "52,215.16",
-      "change": "-1.23%",
-      "source": "https://www.spokesman.com/stories/2026/oct/23/dow-sp-500-fall-tech-steadies-to-end-rocky-week/"
+      "value": "52,287.41",
+      "change": "+0.14%",
+      "source": "https://finance.yahoo.com/markets/live/stock-market-today-monday-october-26-dow-sp-500-nasdaq-101153035.html"
     },
     {
       "name": "VIX",
-      "value": "19.45",
-      "change": "+2.21%",
-      "source": "https://www.cnbc.com/2026/10/23/bonds-yields-us-treasurys.html"
+      "value": "19.52",
+      "change": "+0.36%",
+      "source": "https://tradingeconomics.com/united-states/cboe-volatility-index-vix-fed-data.html"
     },
     {
       "name": "美 10년물",
-      "value": "4.99%",
-      "change": "+0.04",
-      "source": "https://www.cnbc.com/2026/10/23/bonds-yields-us-treasurys.html"
+      "value": "5.00%",
+      "change": "+0.02%p",
+      "source": "https://www.investing.com/rates-bonds/u.s.-10-year-bond-yield"
     },
     {
       "name": "달러인덱스(DXY)",
-      "value": "101.81",
-      "change": "+0.10",
+      "value": "101.61",
+      "change": "-0.20%",
       "source": "https://tradingeconomics.com/dxy:cur"
     },
     {
       "name": "원/달러",
-      "value": "1,326.2",
-      "change": "+1.6원",
-      "source": "https://www.segye.com/newsView/20261026502322"
+      "value": "1,323.1",
+      "change": "-1.5원(연중 저점)",
+      "source": "https://www.yna.co.kr/view/AKR20261026137300002"
     },
     {
       "name": "美 기준금리",
       "value": "3.75~4.00%",
-      "change": "0(동결 유력, 10/28 FOMC·워시 의장 첫 FOMC)",
+      "change": "0(10/28 FOMC·워시 의장 취임 후 첫 회의, 동결 유력 속 '매파적 동결' 전망)",
       "source": "https://www.cnbc.com/2026/10/16/kevin-warsh-fed-october-rate-hike-interest-rates-markets.html"
     },
     {
       "name": "한국 기준금리",
       "value": "3.00%",
-      "change": "0(10/22 동결, 신현송 총재 11월 인상 시사)",
+      "change": "0(10/22 동결, 신현송 총재 11월 인상 가능성 시사)",
       "source": "https://www.fnnews.com/news/202610221300213740"
     },
     {
       "name": "국고채 3년물",
-      "value": "3.803%",
-      "change": "-0.04%p",
-      "source": "https://www.specialtimes.co.kr/news/articleView.html?idxno=477775"
+      "value": "3.789%",
+      "change": "-0.01%p",
+      "source": "https://www.yna.co.kr/view/AKR20261026143400008"
     },
     {
       "name": "美 CPI",
       "value": "3.7%",
-      "change": "+0.3%p",
+      "change": "+0.3%p(9월, 전월 3.4%)",
       "source": "https://www.cnbc.com/2026/10/14/cpi-inflation-report-september-2026.html"
     },
     {
       "name": "韓 CPI",
       "value": "2.9%",
-      "change": "-0.2%p",
+      "change": "-0.2%p(9월, 전월 3.1%)",
       "source": "https://www.korea.kr/briefing/policyBriefingView.do?newsId=156784092"
     },
     {
       "name": "금(Gold)",
-      "value": "3,994.90",
-      "change": "-0.7%",
-      "source": "https://www.kitco.com/charts/gold"
+      "value": "4,015.37",
+      "change": "+0.5%(3개월來 최저권에서 반등)",
+      "source": "https://finance.yahoo.com/personal-finance/investing/article/gold-prices-today-monday-october-26-2026-gold-opens-at-3-month-lows-at-the-start-of-fed-week-111704766.html"
     },
     {
       "name": "WTI",
-      "value": "103.27",
-      "change": "+중동전쟁 우려 급등",
-      "source": "https://tradingeconomics.com/commodity/crude-oil"
+      "value": "101.63",
+      "change": "-0.6%(여전히 4월來 고점권)",
+      "source": "https://www.techflowpost.com/en-US/newsletter/141425"
     },
     {
       "name": "브렌트유",
-      "value": "115.80",
-      "change": "-0.79%(4월來 최고권 유지)",
+      "value": "113.60",
+      "change": "-1.95%",
       "source": "https://tradingeconomics.com/commodity/brent-crude-oil"
     }
   ]

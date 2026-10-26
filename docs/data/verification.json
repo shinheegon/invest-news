@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-26T09:35:15+09:00",
+ "updatedAt": "2026-10-27T02:16:09+09:00",
  "cases": [
   {
    "name": "코세스(058610)",
@@ -69395,6 +69395,26 @@
    "theme": "바이오/의료",
    "status": "pending",
    "checks": []
+  },
+  {
+   "name": "코츠테크놀로지(448710)",
+   "type": "leading",
+   "market": "韓",
+   "flagDate": "2026-10-27",
+   "signals": [
+    "K2전차천궁수출구체재료",
+    "선행점수Top3",
+    "열세테마(우주/방산)게이트로🟡"
+   ],
+   "theme": "우주/방산",
+   "status": "pending",
+   "checks": [],
+   "convScore": 2,
+   "convTier": "low",
+   "convSignals": [
+    "틈새레이더"
+   ],
+   "convStampedAt": "2026-10-27"
   }
  ],
  "stats": {
@@ -69404,8 +69424,8 @@
   "miss": 164,
   "hitRate": 24.3,
   "avgD3ChangePct": 0.32,
-  "pending": 249,
-  "total": 636,
+  "pending": 250,
+  "total": 637,
   "byType": {
    "leading": {
     "verified": 163,
