@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-25T23:46:45+09:00",
+ "updatedAt": "2026-10-26T09:35:15+09:00",
  "cases": [
   {
    "name": "코세스(058610)",
@@ -69337,6 +69337,64 @@
    "theme": "AI반도체설계(팹리스/IP)",
    "status": "pending",
    "checks": []
+  },
+  {
+   "name": "아이씨에이치(368600)",
+   "type": "discovery",
+   "market": "韓",
+   "flagDate": "2026-10-26",
+   "signals": [
+    "조기단계",
+    "구체촉발재",
+    "핵심발굴",
+    "4분기공급2배확대"
+   ],
+   "theme": "Apple 폴더블 밸류체인(소재)",
+   "status": "pending",
+   "checks": [],
+   "convScore": 7,
+   "convTier": "high",
+   "convSignals": [
+    "반복포착",
+    "구체촉발재",
+    "틈새레이더"
+   ],
+   "convStampedAt": "2026-10-26"
+  },
+  {
+   "name": "파인엠텍(441270)",
+   "type": "leading",
+   "market": "韓",
+   "flagDate": "2026-10-26",
+   "signals": [
+    "구체촉발재",
+    "3분기컨센서스상회",
+    "목표가상향",
+    "아직조용"
+   ],
+   "theme": "Apple 폴더블 밸류체인(힌지)",
+   "status": "pending",
+   "checks": [],
+   "convScore": 3,
+   "convTier": "mid",
+   "convSignals": [
+    "반복포착"
+   ],
+   "convStampedAt": "2026-10-26"
+  },
+  {
+   "name": "루닛(328130)",
+   "type": "warning",
+   "market": "韓",
+   "flagDate": "2026-10-26",
+   "signals": [
+    "당일+9.91%",
+    "이미반영",
+    "바이오열세테마"
+   ],
+   "theme": "바이오/의료",
+   "status": "pending",
+   "checks": []
   }
  ],
  "stats": {
@@ -69346,8 +69404,8 @@
   "miss": 164,
   "hitRate": 24.3,
   "avgD3ChangePct": 0.32,
-  "pending": 246,
-  "total": 633,
+  "pending": 249,
+  "total": 636,
   "byType": {
    "leading": {
     "verified": 163,
