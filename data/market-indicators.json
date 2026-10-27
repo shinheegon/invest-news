@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-27T07:30:00+09:00",
+  "updatedAt": "2026-10-27T10:30:00+09:00",
   "session": "AM",
   "stock_fng": {
     "value": 21,
@@ -9,33 +9,33 @@
   "indices": [
     {
       "name": "코스피",
-      "value": "5,469.47",
-      "change": "-1.46%",
-      "source": "https://www.fnnews.com/news/202610261552276234"
+      "value": "5,702.95",
+      "change": "+4.25%",
+      "source": "https://www.ajunews.com/view/20261027101450244"
     },
     {
       "name": "코스닥",
-      "value": "727.21",
-      "change": "-3.26%",
-      "source": "https://www.fnnews.com/news/202610261552276234"
+      "value": "753.76",
+      "change": "+3.65%",
+      "source": "https://view.asiae.co.kr/article/2026102709290329890"
     },
     {
       "name": "S&P 500",
-      "value": "7,667.00",
-      "change": "+0.57%",
-      "source": "https://finance.yahoo.com/markets/live/stock-market-today-monday-october-26-dow-sp-500-nasdaq-101153035.html"
+      "value": "7,676.77",
+      "change": "+0.70%",
+      "source": "https://biztoc.com/x/912a61f61c48e342"
     },
     {
       "name": "나스닥",
-      "value": "26,157.90",
-      "change": "+0.78%",
-      "source": "https://finance.yahoo.com/markets/live/stock-market-today-monday-october-26-dow-sp-500-nasdaq-101153035.html"
+      "value": "26,169.38",
+      "change": "+0.83%",
+      "source": "https://www.topstarnews.net/news/articleView.html?idxno=16258907"
     },
     {
       "name": "다우",
-      "value": "52,287.41",
-      "change": "+0.14%",
-      "source": "https://finance.yahoo.com/markets/live/stock-market-today-monday-october-26-dow-sp-500-nasdaq-101153035.html"
+      "value": "52,361.58",
+      "change": "+0.28%",
+      "source": "https://biztoc.com/x/912a61f61c48e342"
     },
     {
       "name": "VIX",
@@ -64,14 +64,14 @@
     {
       "name": "美 기준금리",
       "value": "3.75~4.00%",
-      "change": "0(10/28 FOMC·워시 의장 취임 후 첫 회의, 동결 유력 속 '매파적 동결' 전망)",
+      "change": "0(10/28 FOMC·워시 의장 취임 후 첫 회의, 9월 CPI 3.7% 깜짝 상회로 동결 유력 속 '매파적 동결' 전망)",
       "source": "https://www.cnbc.com/2026/10/16/kevin-warsh-fed-october-rate-hike-interest-rates-markets.html"
     },
     {
       "name": "한국 기준금리",
       "value": "3.00%",
-      "change": "0(10/22 동결, 신현송 총재 11월 인상 가능성 시사)",
-      "source": "https://www.fnnews.com/news/202610221300213740"
+      "change": "0(10/22 동결, 신현송 총재 '물가 2% 수렴까지 긴축' · 11월 추가 인상 가능성)",
+      "source": "https://www.g-enews.com/article/Finance/2026/10/202610221152316837bb91c46fcd_1"
     },
     {
       "name": "국고채 3년물",
@@ -93,9 +93,9 @@
     },
     {
       "name": "금(Gold)",
-      "value": "4,015.37",
-      "change": "+0.5%(3개월來 최저권에서 반등)",
-      "source": "https://finance.yahoo.com/personal-finance/investing/article/gold-prices-today-monday-october-26-2026-gold-opens-at-3-month-lows-at-the-start-of-fed-week-111704766.html"
+      "value": "4,014.49",
+      "change": "+0.5%(월요일 $4,000 재돌파)",
+      "source": "https://www.gukjenews.com/news/articleView.html?idxno=3733409"
     },
     {
       "name": "WTI",
