@@ -1,77 +1,77 @@
 {
-  "updatedAt": "2026-10-27T10:30:00+09:00",
+  "updatedAt": "2026-10-28T10:30:00+09:00",
   "session": "AM",
   "stock_fng": {
-    "value": 21,
-    "label": "Extreme Fear",
-    "source": "https://www.aistockselection.com/en/fear-greed-today/"
+    "value": 27,
+    "label": "Fear",
+    "source": "https://www.benzinga.com/markets/market-summary/26/10/62581994/dow-tumbles-over-1-as-oil-prices-rise-greed-index-remains-in-extreme-fear-zone"
   },
   "indices": [
     {
       "name": "코스피",
-      "value": "5,702.95",
-      "change": "+4.25%",
-      "source": "https://www.ajunews.com/view/20261027101450244"
+      "value": "5,894.26(장중 09:55)",
+      "change": "+4.54%",
+      "source": "https://view.asiae.co.kr/article/2026102809571205695"
     },
     {
       "name": "코스닥",
-      "value": "753.76",
-      "change": "+3.65%",
-      "source": "https://view.asiae.co.kr/article/2026102709290329890"
+      "value": "773.03(장중 09:55)",
+      "change": "+3.93%",
+      "source": "https://www.newspim.com/news/view/20261028000261"
     },
     {
       "name": "S&P 500",
-      "value": "7,676.77",
-      "change": "+0.70%",
-      "source": "https://biztoc.com/x/912a61f61c48e342"
+      "value": "7,722.60",
+      "change": "+0.6%",
+      "source": "https://247wallst.com/cards/big-tech-did-nearly-all-the-work-today-the-nasdaq-added-1-2-gspc-market-bell-01m5zfc466wpggx27vagbmvdfk"
     },
     {
       "name": "나스닥",
-      "value": "26,169.38",
-      "change": "+0.83%",
-      "source": "https://www.topstarnews.net/news/articleView.html?idxno=16258907"
+      "value": "26,477.81",
+      "change": "+1.18%",
+      "source": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-oct-27-2026"
     },
     {
       "name": "다우",
-      "value": "52,361.58",
-      "change": "+0.28%",
-      "source": "https://biztoc.com/x/912a61f61c48e342"
+      "value": "52,377.57",
+      "change": "+0.03%",
+      "source": "https://www.ktvb.com/article/syndication/associatedpress/how-major-us-stock-indexes-fared-tuesday-10272026/616-aa76019b-b218-4bd1-956f-e9226e74551b"
     },
     {
       "name": "VIX",
-      "value": "19.52",
-      "change": "+0.36%",
-      "source": "https://tradingeconomics.com/united-states/cboe-volatility-index-vix-fed-data.html"
+      "value": "17.52",
+      "change": "-4.7%",
+      "source": "https://www.ad-hoc-news.de/boerse/news/marktberichte/vix-falls-0-87-points-as-anthropic-lifts-tech-stocks/70423502"
     },
     {
       "name": "美 10년물",
-      "value": "5.00%",
-      "change": "+0.02%p",
-      "source": "https://www.investing.com/rates-bonds/u.s.-10-year-bond-yield"
+      "value": "4.9967%",
+      "change": "0.00%p(FOMC 대기)",
+      "source": "https://tradingeconomics.com/united-states/government-bond-yield"
     },
     {
       "name": "달러인덱스(DXY)",
-      "value": "101.61",
-      "change": "-0.20%",
-      "source": "https://tradingeconomics.com/dxy:cur"
+      "value": "102.05",
+      "change": "+0.34%",
+      "source": "https://www.blockmedia.co.kr/archives/1157241"
     },
     {
       "name": "원/달러",
-      "value": "1,323.1",
-      "change": "-1.5원(연중 저점)",
-      "source": "https://www.yna.co.kr/view/AKR20261026137300002"
+      "value": "1,323.7",
+      "change": "+0.6원",
+      "source": "https://www.mt.co.kr/index.php/economy/2026/10/27/2026102715384861247"
     },
     {
       "name": "美 기준금리",
       "value": "3.75~4.00%",
-      "change": "0(10/28 FOMC·워시 의장 취임 후 첫 회의, 9월 CPI 3.7% 깜짝 상회로 동결 유력 속 '매파적 동결' 전망)",
-      "source": "https://www.cnbc.com/2026/10/16/kevin-warsh-fed-october-rate-hike-interest-rates-markets.html"
+      "change": "0(10/28~29 FOMC·워시 의장 취임 후 첫 회의, 한국시간 10/29 새벽 발표 — 동결 유력 속 '매파적 동결'·소수 인상의견 전망)",
+      "source": "https://www.cnbc.com/2026/10/27/federal-reserve-rates-kevin-warsh.html"
     },
     {
       "name": "한국 기준금리",
       "value": "3.00%",
-      "change": "0(10/22 동결, 신현송 총재 '물가 2% 수렴까지 긴축' · 11월 추가 인상 가능성)",
-      "source": "https://www.g-enews.com/article/Finance/2026/10/202610221152316837bb91c46fcd_1"
+      "change": "0(10/22 금통위원 7명 전원 만장일치 동결, 신현송 총재 '물가 2% 수렴까지 긴축')",
+      "source": "https://www.newspim.com/news/view/20261022000540"
     },
     {
       "name": "국고채 3년물",
@@ -82,32 +82,20 @@
     {
       "name": "美 CPI",
       "value": "3.7%",
-      "change": "+0.3%p(9월, 전월 3.4%)",
-      "source": "https://www.cnbc.com/2026/10/14/cpi-inflation-report-september-2026.html"
+      "change": "+0.3%p(9월, 전월 3.4%, 컨센서스 3.6% 상회)",
+      "source": "https://view.asiae.co.kr/article/2026101423191075800"
     },
     {
       "name": "韓 CPI",
       "value": "2.9%",
       "change": "-0.2%p(9월, 전월 3.1%)",
-      "source": "https://www.korea.kr/briefing/policyBriefingView.do?newsId=156784092"
+      "source": "https://view.asiae.co.kr/article/2026100208231709424"
     },
     {
       "name": "금(Gold)",
-      "value": "4,014.49",
-      "change": "+0.5%(월요일 $4,000 재돌파)",
-      "source": "https://www.gukjenews.com/news/articleView.html?idxno=3733409"
-    },
-    {
-      "name": "WTI",
-      "value": "101.63",
-      "change": "-0.6%(여전히 4월來 고점권)",
-      "source": "https://www.techflowpost.com/en-US/newsletter/141425"
-    },
-    {
-      "name": "브렌트유",
-      "value": "113.60",
-      "change": "-1.95%",
-      "source": "https://tradingeconomics.com/commodity/brent-crude-oil"
+      "value": "3,995.89",
+      "change": "-0.5%",
+      "source": "https://www.gukjenews.com/news/articleView.html?idxno=3734693"
     }
   ]
 }

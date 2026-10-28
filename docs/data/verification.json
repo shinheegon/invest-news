@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-27T10:41:34+09:00",
+ "updatedAt": "2026-10-28T10:44:40+09:00",
  "cases": [
   {
    "name": "코세스(058610)",
@@ -69415,6 +69415,99 @@
     "틈새레이더"
    ],
    "convStampedAt": "2026-10-27"
+  },
+  {
+   "name": "로보티즈(108490)",
+   "type": "leading",
+   "market": "韓",
+   "flagDate": "2026-10-28",
+   "signals": [
+    "구체촉발재(해외계약)",
+    "조기포착(재출몰)",
+    "수요캐파초과"
+   ],
+   "theme": "로봇/휴머노이드",
+   "status": "pending",
+   "checks": [],
+   "convScore": 7,
+   "convTier": "high",
+   "convSignals": [
+    "반복포착",
+    "승세테마",
+    "구체촉발재"
+   ],
+   "convStampedAt": "2026-10-28"
+  },
+  {
+   "name": "알에스오토메이션(140670)",
+   "type": "leading",
+   "market": "韓",
+   "flagDate": "2026-10-28",
+   "signals": [
+    "실적턴어라운드(매출+78%YoY)",
+    "조기포착",
+    "아직조용(52주고가-70%)"
+   ],
+   "theme": "로봇/휴머노이드",
+   "status": "pending",
+   "checks": [],
+   "convScore": 5,
+   "convTier": "high",
+   "convSignals": [
+    "반복포착",
+    "승세테마"
+   ],
+   "convStampedAt": "2026-10-28"
+  },
+  {
+   "name": "MDS테크(086960)",
+   "type": "discovery",
+   "market": "韓",
+   "flagDate": "2026-10-28",
+   "signals": [
+    "구체촉발재(엔비디아Jetson40억수주)",
+    "조기발굴",
+    "아직조용"
+   ],
+   "theme": "로봇/휴머노이드(피지컬AI)",
+   "status": "pending",
+   "checks": [],
+   "convScore": 7,
+   "convTier": "high",
+   "convSignals": [
+    "반복포착",
+    "승세테마",
+    "구체촉발재"
+   ],
+   "convStampedAt": "2026-10-28"
+  },
+  {
+   "name": "아이씨에이치(368600)",
+   "type": "warning",
+   "market": "韓",
+   "flagDate": "2026-10-28",
+   "signals": [
+    "3연속상한가",
+    "삼성1차벤더코드확정",
+    "이미반영"
+   ],
+   "theme": "폴더블 부품/로봇 PU폼",
+   "status": "pending",
+   "checks": []
+  },
+  {
+   "name": "한국피아이엠(448900)",
+   "type": "warning",
+   "market": "韓",
+   "flagDate": "2026-10-28",
+   "signals": [
+    "10월+31%",
+    "섹터모멘텀(종목고유재료無)",
+    "후발주의"
+   ],
+   "theme": "로봇/휴머노이드",
+   "status": "pending",
+   "checks": []
   }
  ],
  "stats": {
@@ -69424,8 +69517,8 @@
   "miss": 164,
   "hitRate": 24.3,
   "avgD3ChangePct": 0.32,
-  "pending": 250,
-  "total": 637,
+  "pending": 255,
+  "total": 642,
   "byType": {
    "leading": {
     "verified": 163,
