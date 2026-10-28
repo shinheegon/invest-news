@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-28T10:44:40+09:00",
+ "updatedAt": "2026-10-29T02:08:33+09:00",
  "cases": [
   {
    "name": "코세스(058610)",
@@ -69508,6 +69508,46 @@
    "theme": "로봇/휴머노이드",
    "status": "pending",
    "checks": []
+  },
+  {
+   "name": "플래티어(367000)",
+   "type": "leading",
+   "market": "韓",
+   "flagDate": "2026-10-29",
+   "signals": [
+    "GS네오텍AICC공동사업",
+    "엔터프라이즈AI 밸류체인 초기거론"
+   ],
+   "theme": "금융 AX(엔터프라이즈 AI)",
+   "status": "pending",
+   "checks": [],
+   "convScore": 5,
+   "convTier": "high",
+   "convSignals": [
+    "반복포착",
+    "틈새레이더"
+   ],
+   "convStampedAt": "2026-10-29"
+  },
+  {
+   "name": "지니언스(263860)",
+   "type": "leading",
+   "market": "韓",
+   "flagDate": "2026-10-29",
+   "signals": [
+    "금융권보안규제강화",
+    "EDR추가도입기대"
+   ],
+   "theme": "보안/사이버",
+   "status": "pending",
+   "checks": [],
+   "convScore": 5,
+   "convTier": "high",
+   "convSignals": [
+    "반복포착",
+    "틈새레이더"
+   ],
+   "convStampedAt": "2026-10-29"
   }
  ],
  "stats": {
@@ -69517,8 +69557,8 @@
   "miss": 164,
   "hitRate": 24.3,
   "avgD3ChangePct": 0.32,
-  "pending": 255,
-  "total": 642,
+  "pending": 257,
+  "total": 644,
   "byType": {
    "leading": {
     "verified": 163,
