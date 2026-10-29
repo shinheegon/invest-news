@@ -1,9 +1,9 @@
 {
- "updatedAt": "2026-10-29T01:34:44+09:00",
+ "updatedAt": "2026-10-29T10:42:09+09:00",
  "note": "원본 헤드라인의 반복 언급을 탐지한 조사 후보이며 투자권유가 아니다. 동일 기사 재실행은 한 번만 집계하고, 순수 악재 반복과 모호한 회사명은 제외한다.",
  "window": 30,
- "corpusToday": 682,
- "trackedCompanies": 631,
+ "corpusToday": 1076,
+ "trackedCompanies": 639,
  "companies": [
   {
    "code": "344820",
@@ -510,6 +510,34 @@
    ]
   },
   {
+   "code": "290690",
+   "name": "아리바이오홀딩스",
+   "market": "KOSDAQ",
+   "cap": 1436,
+   "total": 10,
+   "recent": 4,
+   "activeDays": 5,
+   "firstSeen": "2026-09-30",
+   "lastSeen": "2026-10-29",
+   "score": 24.6,
+   "riskMentions": 0,
+   "catalystMentions": 3,
+   "samples": [
+    {
+     "date": "2026-10-29",
+     "title": "아리바이오홀딩스, 오는 12월 그린플러스 인수 후 경영진 재편 검토"
+    },
+    {
+     "date": "2026-10-29",
+     "title": "아리바이오홀딩스, 그린플러스 인수 계약 체결"
+    },
+    {
+     "date": "2026-10-29",
+     "title": "아리바이오홀딩스, 그린플러스 경영권 인수 추진 \"스마트팜 등 사업 확장\""
+    }
+   ]
+  },
+  {
    "code": "368600",
    "name": "아이씨에이치",
    "market": "KOSDAQ",
@@ -594,6 +622,34 @@
    ]
   },
   {
+   "code": "186230",
+   "name": "그린플러스",
+   "market": "KOSDAQ",
+   "cap": 350,
+   "total": 4,
+   "recent": 4,
+   "activeDays": 2,
+   "firstSeen": "2026-10-27",
+   "lastSeen": "2026-10-29",
+   "score": 21.5,
+   "riskMentions": 0,
+   "catalystMentions": 3,
+   "samples": [
+    {
+     "date": "2026-10-29",
+     "title": "아리바이오홀딩스, 오는 12월 그린플러스 인수 후 경영진 재편 검토"
+    },
+    {
+     "date": "2026-10-29",
+     "title": "아리바이오홀딩스, 그린플러스 인수 계약 체결"
+    },
+    {
+     "date": "2026-10-29",
+     "title": "아리바이오홀딩스, 그린플러스 경영권 인수 추진 \"스마트팜 등 사업 확장\""
+    }
+   ]
+  },
+  {
    "code": "408470",
    "name": "한패스",
    "market": "KOSDAQ",
@@ -622,30 +678,30 @@
    ]
   },
   {
-   "code": "290690",
-   "name": "아리바이오홀딩스",
-   "market": "KOSDAQ",
-   "cap": 1436,
-   "total": 9,
+   "code": "007310",
+   "name": "오뚜기",
+   "market": "KOSPI",
+   "cap": 12364,
+   "total": 8,
    "recent": 3,
-   "activeDays": 5,
-   "firstSeen": "2026-09-30",
+   "activeDays": 4,
+   "firstSeen": "2026-10-09",
    "lastSeen": "2026-10-29",
-   "score": 20.2,
+   "score": 18.7,
    "riskMentions": 0,
-   "catalystMentions": 2,
+   "catalystMentions": 0,
    "samples": [
     {
      "date": "2026-10-29",
-     "title": "아리바이오홀딩스, 그린플러스 인수 계약 체결"
+     "title": "오뚜기, '함태호 학술상'에 이영승 단국대 교수…상금 3천만원"
     },
     {
      "date": "2026-10-29",
-     "title": "아리바이오홀딩스, 그린플러스 경영권 인수 추진 \"스마트팜 등 사업 확장\""
+     "title": "공정위, 라면담합 정조준…농심·삼양·팔도·오뚜기 현장조사"
     },
     {
-     "date": "2026-10-27",
-     "title": "그린플러스, 100억유증…아리바이오홀딩스 등에 3자 배정"
+     "date": "2026-10-29",
+     "title": "공정위, 농심·삼양·오뚜기·팔도 현장조사…라면값 담합 의혹"
     }
    ]
   },
@@ -678,10 +734,10 @@
    ]
   },
   {
-   "code": "186230",
-   "name": "그린플러스",
+   "code": "095910",
+   "name": "에스에너지",
    "market": "KOSDAQ",
-   "cap": 350,
+   "cap": 193,
    "total": 3,
    "recent": 3,
    "activeDays": 2,
@@ -693,15 +749,15 @@
    "samples": [
     {
      "date": "2026-10-29",
-     "title": "아리바이오홀딩스, 그린플러스 인수 계약 체결"
-    },
-    {
-     "date": "2026-10-29",
-     "title": "아리바이오홀딩스, 그린플러스 경영권 인수 추진 \"스마트팜 등 사업 확장\""
+     "title": "에스에너지, 25년 태양광 기술력 앞세워 차세대 R&D 속도"
     },
     {
      "date": "2026-10-27",
-     "title": "그린플러스, 100억유증…아리바이오홀딩스 등에 3자 배정"
+     "title": "에스에너지, 올해 EPC 수주 300억 돌파…공공·해외 사업 확대"
+    },
+    {
+     "date": "2026-10-27",
+     "title": "[클릭 e종목]\"에스에너지, 태양광 수주 확대…日 AIDC 전력시장 진출 수혜\""
     }
    ]
   },
@@ -734,6 +790,34 @@
    ]
   },
   {
+   "code": "317240",
+   "name": "TS트릴리온",
+   "market": "KOSDAQ",
+   "cap": 338,
+   "total": 7,
+   "recent": 2,
+   "activeDays": 5,
+   "firstSeen": "2026-10-16",
+   "lastSeen": "2026-10-29",
+   "score": 16.3,
+   "riskMentions": 0,
+   "catalystMentions": 2,
+   "samples": [
+    {
+     "date": "2026-10-29",
+     "title": "TS트릴리온 子, CJ대한통운과 90억 규모 데이터센터 공조설비 계약…AI 인프라 사업 가속"
+    },
+    {
+     "date": "2026-10-29",
+     "title": "TS트릴리온 \"자회사가 90억원 규모 데이터센터 공조설비 시공 수주\""
+    },
+    {
+     "date": "2026-10-19",
+     "title": "TS트릴리온, 2.3조 규모 천안 AI데이터센터 공동개발 추진"
+    }
+   ]
+  },
+  {
    "code": "263860",
    "name": "지니언스",
    "market": "KOSDAQ",
@@ -758,90 +842,6 @@
     {
      "date": "2026-10-01",
      "title": "지니언스, '대한민국 일자리 으뜸기업' 선정…AI 혁신으로 주 4.5일제 시범 운영"
-    }
-   ]
-  },
-  {
-   "code": "035760",
-   "name": "CJ ENM",
-   "market": "KOSDAQ",
-   "cap": 8936,
-   "total": 5,
-   "recent": 2,
-   "activeDays": 4,
-   "firstSeen": "2026-10-12",
-   "lastSeen": "2026-10-28",
-   "score": 15.3,
-   "riskMentions": 0,
-   "catalystMentions": 0,
-   "samples": [
-    {
-     "date": "2026-10-28",
-     "title": "TV광고도 데이터로 고객 찾는다…CJ ENM 'CJ DMP' 공개"
-    },
-    {
-     "date": "2026-10-27",
-     "title": "티빙 이제 버는데…CJ ENM, 정보유출 보상 '복병' 언제쯤"
-    },
-    {
-     "date": "2026-10-13",
-     "title": "KB증권, CJ ENM 목표주가↓…\"업황 반등 가시화 제한적\""
-    }
-   ]
-  },
-  {
-   "code": "007310",
-   "name": "오뚜기",
-   "market": "KOSPI",
-   "cap": 12364,
-   "total": 7,
-   "recent": 2,
-   "activeDays": 4,
-   "firstSeen": "2026-10-09",
-   "lastSeen": "2026-10-29",
-   "score": 14.3,
-   "riskMentions": 0,
-   "catalystMentions": 0,
-   "samples": [
-    {
-     "date": "2026-10-29",
-     "title": "공정위, 라면담합 정조준…농심·삼양·팔도·오뚜기 현장조사"
-    },
-    {
-     "date": "2026-10-29",
-     "title": "공정위, 농심·삼양·오뚜기·팔도 현장조사…라면값 담합 의혹"
-    },
-    {
-     "date": "2026-10-26",
-     "title": "롯데마트·슈퍼, 오뚜기와 '굴미역국라면' 단독 출시"
-    }
-   ]
-  },
-  {
-   "code": "367000",
-   "name": "플래티어",
-   "market": "KOSDAQ",
-   "cap": 281,
-   "total": 3,
-   "recent": 2,
-   "activeDays": 3,
-   "firstSeen": "2026-10-26",
-   "lastSeen": "2026-10-29",
-   "score": 14.2,
-   "riskMentions": 0,
-   "catalystMentions": 1,
-   "samples": [
-    {
-     "date": "2026-10-29",
-     "title": "플래티어, GS네오텍과 '에이전틱 AICC' 공동사업 추진"
-    },
-    {
-     "date": "2026-10-27",
-     "title": "플래티어, 폐쇄망 대응 테스트 관리 솔루션 출시"
-    },
-    {
-     "date": "2026-10-26",
-     "title": "플래티어, 폐쇄망 대응 테스트 관리 솔루션 출시"
     }
    ]
   }
