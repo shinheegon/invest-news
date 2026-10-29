@@ -1,107 +1,107 @@
 {
-  "updatedAt": "2026-10-29T10:55:00+09:00",
+  "updatedAt": "2026-10-30T07:10:00+09:00",
   "session": "AM",
   "stock_fng": {
-    "value": 34,
+    "value": 36.5,
     "label": "Fear",
-    "source": "https://www.aistockselection.com/en/fear-greed-today/"
+    "source": "https://www.benzinga.com/markets/market-summary/26/10/62682622/dow-gains-for-third-session-following-fed-decision-investor-sentiment-improves-greed-index-remains-in-fear-zone"
   },
   "indices": [
     {
       "name": "코스피",
-      "value": "6,062.12",
-      "change": "+0.83%(오전장, 전일比)",
-      "source": "https://news.mtn.co.kr/article/2026102909444983994"
+      "value": "5,937.66",
+      "change": "-1.24%(10/29 종가, 삼성전자 주주환원 실망 매물)",
+      "source": "https://view.asiae.co.kr/article/2026102915354415495"
     },
     {
       "name": "코스닥",
-      "value": "767.78",
-      "change": "-0.45%(개장, 전일比)",
-      "source": "https://view.asiae.co.kr/article/2026102909021071836"
+      "value": "753.23",
+      "change": "-2.34%(10/29 종가)",
+      "source": "https://view.asiae.co.kr/article/2026102915360133319"
     },
     {
       "name": "S&P 500",
-      "value": "7,743.98",
-      "change": "+0.28%(10/28 종가)",
-      "source": "https://www.bbntimes.com/global-economy/s-p-500-rises-to-7-743-98-for-a-third-straight-gain-as-the-fed-holds-rates-in-a-split-10-2-vote-and-oracle-surges-11"
+      "value": "7,718.22",
+      "change": "-0.33%(10/29 종가, 알파벳 실적쇼크)",
+      "source": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-oct-29-134623155.html"
     },
     {
       "name": "나스닥",
-      "value": "26,549.85",
-      "change": "+0.27%(10/28 종가)",
-      "source": "https://www.bbntimes.com/technology/nasdaq-composite-rises-to-26-549-85-after-the-fed-decision-as-alphabet-sinks-10-and-microsoft-rises-after-hours"
+      "value": "26,211.52",
+      "change": "-1.27%(10/29 종가)",
+      "source": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-oct-29-134623155.html"
     },
     {
       "name": "다우",
-      "value": "52,475.10",
-      "change": "+0.19%(10/28 종가)",
-      "source": "https://www.fool.com/coverage/stock-market-today/2026/10/28/stock-market-today-oct-28-markets-edge-higher-as-fed-holds-rates-steady/"
+      "value": "52,302.89",
+      "change": "-0.33%(10/29 종가)",
+      "source": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-oct-29-134623155.html"
     },
     {
       "name": "VIX",
-      "value": "17.32",
-      "change": "-1.1%(10/28 종가)",
-      "source": "https://fred.stlouisfed.org/series/VIXCLS"
+      "value": "16.91",
+      "change": "-0.8%(10/29 종가, 안정권)",
+      "source": "https://www.indexergo.com/series/?frq=D&idxDetail=23111"
     },
     {
       "name": "美 10년물",
       "value": "5.02%",
-      "change": "+0.06%p(FOMC 동결에도 추가인상 전망에 상승)",
-      "source": "https://tradingeconomics.com/united-states/government-bond-yield"
+      "change": "+0.02%p(GDP·PCE 호조에도 안전자산 선호로 국채가는 강세)",
+      "source": "https://news.einfomax.co.kr/news/articleView.html?idxno=4442045"
     },
     {
       "name": "달러인덱스(DXY)",
-      "value": "102.24",
-      "change": "소폭 상승",
-      "source": "https://www.investing.com/rates-bonds/u.s.-10-year-bond-yield-historical-data"
+      "value": "102.13",
+      "change": "-0.12%(워시 의장 비둘기적 발언 소화)",
+      "source": "https://news.einfomax.co.kr/news/articleView.html?idxno=4442037"
     },
     {
       "name": "원/달러",
-      "value": "1,337.7",
-      "change": "+14.0원(FOMC 앞두고 긴장)",
-      "source": "https://view.asiae.co.kr/article/2026102816471778538"
+      "value": "1,336.8",
+      "change": "-0.9원(美 금리동결, 뉴욕장서 1,330원대 후반)",
+      "source": "https://view.asiae.co.kr/article/2026102915355929222"
     },
     {
       "name": "美 기준금리",
       "value": "3.75~4.00%",
-      "change": "0(10/28 FOMC 동결, 쿡·해먹 2명 인상소수의견, 워시 의장 \"정치적 영향 없었다\"·12월 인상 가능성 거론)",
-      "source": "https://www.newsis.com/view/NISX20261029_0003845551"
+      "change": "0(10/28 FOMC 동결, 12월 추가 인상 확률 73~80%로 상승)",
+      "source": "https://www.cnbc.com/2026/10/28/fed-rate-decision-warsh-takeaways.html"
     },
     {
       "name": "한국 기준금리",
       "value": "3.00%",
-      "change": "0(신현송 총재 \"물가 잡힐 때까지 긴축…초저금리 복귀 어렵다\", 10/22 국정감사)",
-      "source": "https://www.fnnews.com/news/202610231707072494"
+      "change": "0(10/22 동결, 신현송 총재 긴축 기조 유지…11월 인상 가능성 커짐)",
+      "source": "https://www.fnnews.com/news/202610291842214110"
     },
     {
       "name": "국고채 3년물",
-      "value": "3.789%",
-      "change": "-0.01%p",
-      "source": "https://www.yna.co.kr/view/AKR20261026143400008"
+      "value": "3.766%",
+      "change": "-0.023%p(국고채 금리, 美 금리 연동하며 하락)",
+      "source": "https://www.yna.co.kr/view/AKR20261029173951008"
     },
     {
       "name": "美 CPI",
-      "value": "3.7%",
-      "change": "+0.3%p(9월, 전월 3.4%, 컨센서스 3.6% 상회)",
-      "source": "https://view.asiae.co.kr/article/2026101423191075800"
+      "value": "3.6%",
+      "change": "+0.1%p(9월 PCE 전년비, 예상치 소폭 하회·근원 PCE 3.1%)",
+      "source": "https://www.hankyung.com/article/2026102946807"
     },
     {
       "name": "韓 CPI",
       "value": "2.9%",
-      "change": "-0.2%p(9월, 전월 3.1%)",
-      "source": "https://view.asiae.co.kr/article/2026100208231709424"
+      "change": "0(9월, 10월 수치는 11/2 발표)",
+      "source": "https://www.investing.com/economic-calendar/south-korean-cpi-467"
     },
     {
       "name": "금(Gold)",
-      "value": "4,050.6",
-      "change": "-0.2%(FOMC 전후 변동, 온스당 $)",
-      "source": "https://financefeeds.com/gold-price-today-4038-wednesday-fed-decision-day-pce-thursday-bull-4125-bear-3940/"
+      "value": "4,066.3",
+      "change": "+0.4%(온스당 $, 중동 긴장완화·유가 하락 속 안전자산 수요는 유지)",
+      "source": "https://www.gukjenews.com/news/articleView.html?idxno=3735875"
     },
     {
       "name": "WTI 원유",
-      "value": "$101.7",
-      "change": "+1.8%(美 이란 공격 가능성·이스라엘 총선 불확실성에 급등)",
-      "source": "https://www.yna.co.kr/view/AKR20261029009000072"
+      "value": "$101.72",
+      "change": "-1.1%(美-이란 평화협상 재개 기대에 하락)",
+      "source": "https://www.newspim.com/news/view/20261029001390"
     }
   ]
 }
