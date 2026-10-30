@@ -1,107 +1,101 @@
 {
-  "updatedAt": "2026-10-30T07:10:00+09:00",
+  "updatedAt": "2026-10-30T11:10:00+09:00",
   "session": "AM",
   "stock_fng": {
-    "value": 36.5,
+    "value": 35,
     "label": "Fear",
-    "source": "https://www.benzinga.com/markets/market-summary/26/10/62682622/dow-gains-for-third-session-following-fed-decision-investor-sentiment-improves-greed-index-remains-in-fear-zone"
+    "source": "https://247wallst.com/investing/2026/10/22/fear-greed-index-hits-25-investors-are-running-scared-should-you-be/"
   },
   "indices": [
     {
       "name": "코스피",
-      "value": "5,937.66",
-      "change": "-1.24%(10/29 종가, 삼성전자 주주환원 실망 매물)",
-      "source": "https://view.asiae.co.kr/article/2026102915354415495"
+      "value": "5,653.02",
+      "change": "-4.79%(10/30 오전 10:08 장중, 매도 사이드카 발동)",
+      "source": "https://www.segye.com/newsView/20261030505322"
     },
     {
       "name": "코스닥",
-      "value": "753.23",
-      "change": "-2.34%(10/29 종가)",
-      "source": "https://view.asiae.co.kr/article/2026102915360133319"
+      "value": "728.25",
+      "change": "-3.32%(10/30 오전 10:08 장중)",
+      "source": "https://www.segye.com/newsView/20261030505322"
     },
     {
       "name": "S&P 500",
-      "value": "7,718.22",
-      "change": "-0.33%(10/29 종가, 알파벳 실적쇼크)",
-      "source": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-oct-29-134623155.html"
+      "value": "7,720.39",
+      "change": "-0.30%(10/29 종가, 알파벳 실적쇼크)",
+      "source": "https://www.g-enews.com/article/Securities/2026/10/202610292124538994e250e8e188_1"
     },
     {
       "name": "나스닥",
-      "value": "26,211.52",
-      "change": "-1.27%(10/29 종가)",
-      "source": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-oct-29-134623155.html"
+      "value": "26,184.72",
+      "change": "-1.38%(10/29 종가)",
+      "source": "https://en.fnnews.com/news/202610300610245198"
     },
     {
       "name": "다우",
-      "value": "52,302.89",
-      "change": "-0.33%(10/29 종가)",
-      "source": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-oct-29-134623155.html"
+      "value": "52,342.56",
+      "change": "-0.25%(10/29 종가)",
+      "source": "https://en.fnnews.com/news/202610300610245198"
     },
     {
       "name": "VIX",
-      "value": "16.91",
-      "change": "-0.8%(10/29 종가, 안정권)",
-      "source": "https://www.indexergo.com/series/?frq=D&idxDetail=23111"
+      "value": "17.20",
+      "change": "+1.71%(10/29 종가)",
+      "source": "https://tradingeconomics.com/united-states/cboe-volatility-index-vix-fed-data.html"
     },
     {
       "name": "美 10년물",
-      "value": "5.02%",
-      "change": "+0.02%p(GDP·PCE 호조에도 안전자산 선호로 국채가는 강세)",
-      "source": "https://news.einfomax.co.kr/news/articleView.html?idxno=4442045"
+      "value": "4.98%",
+      "change": "-0.07%p(10/30, 위험회피 속 안전자산 선호)",
+      "source": "https://www.investing.com/rates-bonds/u.s.-10-year-bond-yield-historical-data"
     },
     {
       "name": "달러인덱스(DXY)",
-      "value": "102.13",
-      "change": "-0.12%(워시 의장 비둘기적 발언 소화)",
-      "source": "https://news.einfomax.co.kr/news/articleView.html?idxno=4442037"
+      "value": "101.96",
+      "change": "-0.23%(美 기술주 급락에 달러 약세)",
+      "source": "https://tradingeconomics.com/dxy:cur"
     },
     {
       "name": "원/달러",
-      "value": "1,336.8",
-      "change": "-0.9원(美 금리동결, 뉴욕장서 1,330원대 후반)",
-      "source": "https://view.asiae.co.kr/article/2026102915355929222"
+      "value": "1,337.8",
+      "change": "+1.0원(달러 약세·외국인 매도 상쇄)",
+      "source": "https://www.dailian.co.kr/news/view/1708524"
     },
     {
       "name": "美 기준금리",
       "value": "3.75~4.00%",
-      "change": "0(10/28 FOMC 동결, 12월 추가 인상 확률 73~80%로 상승)",
-      "source": "https://www.cnbc.com/2026/10/28/fed-rate-decision-warsh-takeaways.html"
+      "change": "0(10/28 FOMC 동결, 12월 추가 인상 확률 거론)",
+      "source": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261028a.htm"
     },
     {
       "name": "한국 기준금리",
       "value": "3.00%",
-      "change": "0(10/22 동결, 신현송 총재 긴축 기조 유지…11월 인상 가능성 커짐)",
-      "source": "https://www.fnnews.com/news/202610291842214110"
+      "change": "0(10/22 동결, 11월 인상 가능성 거론)",
+      "source": "https://www.mediapen.com/news/view/1092471"
     },
     {
       "name": "국고채 3년물",
       "value": "3.766%",
-      "change": "-0.023%p(국고채 금리, 美 금리 연동하며 하락)",
+      "change": "-0.023%p",
       "source": "https://www.yna.co.kr/view/AKR20261029173951008"
     },
     {
       "name": "美 CPI",
-      "value": "3.6%",
-      "change": "+0.1%p(9월 PCE 전년비, 예상치 소폭 하회·근원 PCE 3.1%)",
-      "source": "https://www.hankyung.com/article/2026102946807"
+      "value": "3.7%",
+      "change": "+0.1%p(9월, 근원 2.6%)",
+      "source": "https://www.wichitaliberty.org/economics/september-2026-cpi-report/"
     },
     {
       "name": "韓 CPI",
       "value": "2.9%",
-      "change": "0(9월, 10월 수치는 11/2 발표)",
-      "source": "https://www.investing.com/economic-calendar/south-korean-cpi-467"
+      "change": "-0.2%p(9월, 8월 3.1%에서 둔화)",
+      "source": "https://www.korea.kr/briefing/policyBriefingView.do?newsId=156784092"
     },
     {
       "name": "금(Gold)",
-      "value": "4,066.3",
-      "change": "+0.4%(온스당 $, 중동 긴장완화·유가 하락 속 안전자산 수요는 유지)",
-      "source": "https://www.gukjenews.com/news/articleView.html?idxno=3735875"
-    },
-    {
-      "name": "WTI 원유",
-      "value": "$101.72",
-      "change": "-1.1%(美-이란 평화협상 재개 기대에 하락)",
-      "source": "https://www.newspim.com/news/view/20261029001390"
+      "value": "4,009",
+      "change": "-1.4%(온스당 $, 美 인플레 압력에 하락)",
+      "source": "https://guardian-gold.com.au/market-updates/overnight-summary-precious-metals-prices-30-10-2026/"
     }
   ]
 }

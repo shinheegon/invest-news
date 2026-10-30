@@ -1,9 +1,9 @@
 {
- "updatedAt": "2026-10-30T01:52:56+09:00",
+ "updatedAt": "2026-10-30T10:48:55+09:00",
  "note": "원본 헤드라인의 반복 언급을 탐지한 조사 후보이며 투자권유가 아니다. 동일 기사 재실행은 한 번만 집계하고, 순수 악재 반복과 모호한 회사명은 제외한다.",
  "window": 30,
- "corpusToday": 593,
- "trackedCompanies": 630,
+ "corpusToday": 923,
+ "trackedCompanies": 635,
  "companies": [
   {
    "code": "344820",
@@ -342,10 +342,10 @@
    ]
   },
   {
-   "code": "071280",
-   "name": "로체시스템즈",
+   "code": "226590",
+   "name": "엠디바이스",
    "market": "KOSDAQ",
-   "cap": 1234,
+   "cap": 1101,
    "total": 18,
    "recent": 2,
    "activeDays": 18,
@@ -370,10 +370,10 @@
    ]
   },
   {
-   "code": "226590",
-   "name": "엠디바이스",
+   "code": "071280",
+   "name": "로체시스템즈",
    "market": "KOSDAQ",
-   "cap": 1101,
+   "cap": 1234,
    "total": 18,
    "recent": 2,
    "activeDays": 18,
@@ -678,6 +678,62 @@
    ]
   },
   {
+   "code": "408470",
+   "name": "한패스",
+   "market": "KOSDAQ",
+   "cap": 421,
+   "total": 8,
+   "recent": 2,
+   "activeDays": 8,
+   "firstSeen": "2026-10-13",
+   "lastSeen": "2026-10-30",
+   "score": 21.8,
+   "riskMentions": 0,
+   "catalystMentions": 0,
+   "samples": [
+    {
+     "date": "2026-10-30",
+     "title": "한패스, '2026 JB포럼' 참가…사업 협업 방안 모색"
+    },
+    {
+     "date": "2026-10-28",
+     "title": "한패스, 서민금융진흥원 '사람 살리는 금융' 캠페인 동참"
+    },
+    {
+     "date": "2026-10-27",
+     "title": "한패스, 서민금융진흥원 '사람 살리는 금융' 릴레이 캠페인 참여"
+    }
+   ]
+  },
+  {
+   "code": "331380",
+   "name": "포커스에이아이",
+   "market": "KOSDAQ",
+   "cap": 798,
+   "total": 6,
+   "recent": 3,
+   "activeDays": 5,
+   "firstSeen": "2026-10-07",
+   "lastSeen": "2026-10-30",
+   "score": 21.6,
+   "riskMentions": 0,
+   "catalystMentions": 2,
+   "samples": [
+    {
+     "date": "2026-10-30",
+     "title": "포커스에이아이, 딥엑스와 국산 NPU 기반 AI 서버 양산 협약 체결"
+    },
+    {
+     "date": "2026-10-30",
+     "title": "포커스에이아이, 딥엑스와 AI 서버 양산 협약…내년 1월 첫 제품 출시"
+    },
+    {
+     "date": "2026-10-28",
+     "title": "포커스에이아이, 증자·자산 매각으로 실탄 보강…\"환기 해제 총력\""
+    }
+   ]
+  },
+  {
    "code": "032580",
    "name": "피델릭스",
    "market": "KOSDAQ",
@@ -762,86 +818,30 @@
    ]
   },
   {
-   "code": "065500",
-   "name": "오리엔트정공",
+   "code": "114630",
+   "name": "폴라리스우노",
    "market": "KOSDAQ",
-   "cap": 315,
-   "total": 5,
+   "cap": 231,
+   "total": 8,
    "recent": 2,
-   "activeDays": 5,
-   "firstSeen": "2026-10-01",
+   "activeDays": 6,
+   "firstSeen": "2026-10-22",
    "lastSeen": "2026-10-30",
-   "score": 17.3,
+   "score": 17.8,
    "riskMentions": 0,
    "catalystMentions": 0,
    "samples": [
     {
      "date": "2026-10-30",
-     "title": "오리엔트정공, 전기차 배터리 열관리 시장 공략 본격화"
+     "title": "폴라리스우노, 차세대 경량 가발사 'KTS' 개발…프리미엄 시장 공략"
     },
-    {
-     "date": "2026-10-29",
-     "title": "오리엔트정공, 전기차 배터리 열관리 시장 공략 본격화"
-    },
-    {
-     "date": "2026-10-08",
-     "title": "오리엔트정공, 우레탄 접착제 개발…양산 테스트 착수"
-    }
-   ]
-  },
-  {
-   "code": "263860",
-   "name": "지니언스",
-   "market": "KOSDAQ",
-   "cap": 2479,
-   "total": 3,
-   "recent": 2,
-   "activeDays": 3,
-   "firstSeen": "2026-10-01",
-   "lastSeen": "2026-10-29",
-   "score": 14.2,
-   "riskMentions": 0,
-   "catalystMentions": 1,
-   "samples": [
-    {
-     "date": "2026-10-29",
-     "title": "[클릭 e종목]\"지니언스, 금융권 보안 투자 확대…EDR 추가 도입 수혜 기대\""
-    },
-    {
-     "date": "2026-10-28",
-     "title": "\"지니언스, 금융권 보안 규제 강화 수혜 기대돼\"-한국"
-    },
-    {
-     "date": "2026-10-01",
-     "title": "지니언스, '대한민국 일자리 으뜸기업' 선정…AI 혁신으로 주 4.5일제 시범 운영"
-    }
-   ]
-  },
-  {
-   "code": "095910",
-   "name": "에스에너지",
-   "market": "KOSDAQ",
-   "cap": 193,
-   "total": 4,
-   "recent": 2,
-   "activeDays": 3,
-   "firstSeen": "2026-10-27",
-   "lastSeen": "2026-10-30",
-   "score": 13.8,
-   "riskMentions": 0,
-   "catalystMentions": 0,
-   "samples": [
     {
      "date": "2026-10-30",
-     "title": "에스에너지, 25년 태양광 기술력 앞세워 차세대 R&D 속도"
+     "title": "폴라리스우노, 경량 가발용 신소재 개발 \"고부가 제품으로 시장 공략\""
     },
     {
-     "date": "2026-10-29",
-     "title": "에스에너지, 25년 태양광 기술력 앞세워 차세대 R&D 속도"
-    },
-    {
-     "date": "2026-10-27",
-     "title": "에스에너지, 올해 EPC 수주 300억 돌파…공공·해외 사업 확대"
+     "date": "2026-10-26",
+     "title": "폴라리스세원, 폴라리스우노 경영권 이전…572억 규모 자산 재배치"
     }
    ]
   }

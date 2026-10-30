@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-30T02:23:05+09:00",
+ "updatedAt": "2026-10-30T11:15:56+09:00",
  "cases": [
   {
    "name": "코세스(058610)",
@@ -69548,6 +69548,110 @@
     "틈새레이더"
    ],
    "convStampedAt": "2026-10-29"
+  },
+  {
+   "name": "아이엘(307180)",
+   "type": "leading",
+   "market": "韓",
+   "flagDate": "2026-10-30",
+   "signals": [
+    "실적턴어라운드확정",
+    "내부자매수",
+    "반복포착15회"
+   ],
+   "theme": "로봇/휴머노이드",
+   "status": "pending",
+   "checks": [],
+   "convScore": 7,
+   "convTier": "high",
+   "convSignals": [
+    "반복포착",
+    "승세테마",
+    "구체촉발재"
+   ],
+   "convStampedAt": "2026-10-30"
+  },
+  {
+   "name": "포커스에이아이(331380)",
+   "type": "leading",
+   "market": "韓",
+   "flagDate": "2026-10-30",
+   "signals": [
+    "신규협약(딥엑스NPU)",
+    "양산로드맵확정",
+    "신규포착"
+   ],
+   "theme": "AI반도체/엣지AI서버",
+   "status": "pending",
+   "checks": [],
+   "convScore": 4,
+   "convTier": "mid",
+   "convSignals": [
+    "구체촉발재",
+    "틈새레이더"
+   ],
+   "convStampedAt": "2026-10-30"
+  },
+  {
+   "name": "대동기어(008830)",
+   "type": "leading",
+   "market": "韓",
+   "flagDate": "2026-10-30",
+   "signals": [
+    "中JV MOU",
+    "교차검증최고점수",
+    "거버넌스리스크(오너매각이력)"
+   ],
+   "theme": "로봇/휴머노이드",
+   "status": "pending",
+   "checks": [],
+   "convScore": 5,
+   "convTier": "high",
+   "convSignals": [
+    "반복포착",
+    "승세테마"
+   ],
+   "convStampedAt": "2026-10-30"
+  },
+  {
+   "name": "자람테크놀로지(389020)",
+   "type": "warning",
+   "market": "韓",
+   "flagDate": "2026-10-30",
+   "signals": [
+    "한달+150%급등",
+    "목표가초과",
+    "과열경고재확인"
+   ],
+   "theme": "AI반도체설계/통신ASIC",
+   "status": "pending",
+   "checks": []
+  },
+  {
+   "name": "삼성전자(005930)",
+   "type": "warning",
+   "market": "韓",
+   "flagDate": "2026-10-30",
+   "signals": [
+    "美AI주충격동반급락",
+    "이미반영된재료"
+   ],
+   "theme": "반도체(메모리)",
+   "status": "pending",
+   "checks": []
+  },
+  {
+   "name": "SK하이닉스(000660)",
+   "type": "warning",
+   "market": "韓",
+   "flagDate": "2026-10-30",
+   "signals": [
+    "美AI주충격동반급락",
+    "이미반영된재료"
+   ],
+   "theme": "반도체(메모리)",
+   "status": "pending",
+   "checks": []
   }
  ],
  "stats": {
@@ -69557,8 +69661,8 @@
   "miss": 164,
   "hitRate": 24.3,
   "avgD3ChangePct": 0.32,
-  "pending": 257,
-  "total": 644,
+  "pending": 263,
+  "total": 650,
   "byType": {
    "leading": {
     "verified": 163,
