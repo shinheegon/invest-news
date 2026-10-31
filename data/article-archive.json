@@ -27,6 +27,12 @@
      "link": "https://www.yna.co.kr/view/AKR20261030072400003"
     },
     {
+     "date": "2026-10-31",
+     "source": "파이낸셜뉴스",
+     "title": "- SK하이닉스(000660): D램·HBM 공급이 2029년까지 사실상 완판됐다고 밝혔음에도 -7.08%로 가장 큰 타격.",
+     "link": "https://www.fnnews.com/news/202610281818006894"
+    },
+    {
      "date": "2026-10-30",
      "source": "한국경제·증권",
      "title": "[오늘의 증권가 콜] SK하이닉스, 삼성전기, HD현대중공업, HMM, HD한국조선해양, 두산퓨얼셀, 호텔신라 등",
@@ -715,12 +721,6 @@
      "source": "연합인포맥스",
      "title": "코스피, 나스닥 반등에도 '팔자'폭 확대…SK하이닉스 4% 약세",
      "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4440069"
-    },
-    {
-     "date": "2026-10-20",
-     "source": "연합뉴스·경제",
-     "title": "정부·SK하이닉스, 반도체 협력사에 2조원 보증 지원",
-     "link": "https://www.yna.co.kr/view/AKR20261019072200003"
     }
    ]
   },
@@ -758,6 +758,12 @@
     },
     {
      "date": "2026-10-31",
+     "source": "한국경제·경제",
+     "title": "\"후회말고 삼성전자 사라\"…100조 '뉴노멀'에 개미도 들썩 [강경주의 테크X]",
+     "link": "https://www.hankyung.com/article/2026103064846"
+    },
+    {
+     "date": "2026-10-31",
      "source": "파이낸셜·증권",
      "title": "코스피, 美 AI 우려에 3.48% 급락…삼성전자 3%·SK하이닉스 7%↓[마감시황]",
      "link": "https://www.fnnews.com/news/202610301540505038"
@@ -773,6 +779,12 @@
      "source": "연합인포맥스",
      "title": "삼성전자, 삼성디플의 中 TCL CSOT 지분 전량 취득",
      "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4442258"
+    },
+    {
+     "date": "2026-10-31",
+     "source": "파이낸셜뉴스",
+     "title": "- 삼성전자(005930): 3Q 영업익 107조 사상최대, 2027년 HBM 배정 물량 완판·4Q HBM 시장점유율 1위 목표에도 美 AI주 충격에 -3.02%",
+     "link": "https://www.fnnews.com/news/202610291853080631"
     },
     {
      "date": "2026-10-30",
@@ -1433,18 +1445,6 @@
      "source": "한국경제·증권",
      "title": "\"삼성전자, 이제 세계 1위 이익 기업…HBM4으로 내년 더 뛴다\" [종목+]",
      "link": "https://www.hankyung.com/article/2026101249176"
-    },
-    {
-     "date": "2026-10-12",
-     "source": "한국경제·경제",
-     "title": "삼성전자, 반도체 제조 모든 과정 'AX 생태계' 추진",
-     "link": "https://www.hankyung.com/article/2026101139551"
-    },
-    {
-     "date": "2026-10-12",
-     "source": "한국경제·경제",
-     "title": "삼성전자, 로봇·가전·공간 아우르는 'AI 리빙' 생태계 구축한다",
-     "link": "https://www.hankyung.com/article/2026101139541"
     }
    ]
   },
@@ -2301,8 +2301,26 @@
     {
      "date": "2026-10-31",
      "source": "연합인포맥스",
+     "title": "아마존, 기술 인프라 자산 담보로 최대 800억달러 대출…AI 투자 박차",
+     "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4442291"
+    },
+    {
+     "date": "2026-10-31",
+     "source": "연합인포맥스",
      "title": "뉴욕증시, 아마존·인텔 실적 부진에 하락 출발",
      "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4442282"
+    },
+    {
+     "date": "2026-10-31",
+     "source": "연합인포맥스",
+     "title": "[뉴욕증시] '아마존 쇼크'에 전방위 기술주 투매…필리 7.20%↓",
+     "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4442297"
+    },
+    {
+     "date": "2026-10-31",
+     "source": "연합인포맥스",
+     "title": "[뉴욕증시-1보] '아마존 쇼크'에 전방위 기술주 투매…필리 7.20%↓",
+     "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4442296"
     },
     {
      "date": "2026-10-30",
@@ -2734,6 +2752,18 @@
   },
   "애플(AAPL)": {
    "articles": [
+    {
+     "date": "2026-10-31",
+     "source": "한국경제·증권",
+     "title": "인텔 투매, 30% 추락…메모리의 복수, 애플도 쇼크? \"선거 뒤를 기다려라\" [김현석의 월스트리트나우]",
+     "link": "https://www.hankyung.com/article/202610317321i"
+    },
+    {
+     "date": "2026-10-31",
+     "source": "한국경제·증권",
+     "title": "\"무릎 꿇어라\" 애플에 굴욕당한 男…10년 후 벌어진 '대반전' [박한신의 테크+]",
+     "link": "https://www.hankyung.com/article/202610317174i"
+    },
     {
      "date": "2026-10-30",
      "source": "한국경제·경제",
@@ -3441,18 +3471,6 @@
      "source": "한국경제·경제",
      "title": "'애플 독점' 고화질 영상 시장 흔든다…칩스앤미디어, 美 빅테크와 맞손",
      "link": "https://www.hankyung.com/article/202607022064i"
-    },
-    {
-     "date": "2026-06-28",
-     "source": "한국경제·경제",
-     "title": "콧대 높던 애플도 굴복…\"중국산 칩 구해달라\" 美 정부에 로비",
-     "link": "https://www.hankyung.com/article/202606281994i"
-    },
-    {
-     "date": "2026-06-28",
-     "source": "한국경제·경제",
-     "title": "중국산 메모리 사게 해달라는 애플…\"빅테크 황금기 끝\" [빈난새의 빈틈없이월가]",
-     "link": "https://www.hankyung.com/article/202606281611i"
     }
    ]
   },
@@ -6414,9 +6432,45 @@
    "articles": [
     {
      "date": "2026-10-31",
+     "source": "한국경제·증권",
+     "title": "인텔 투매, 30% 추락…메모리의 복수, 애플도 쇼크? \"선거 뒤를 기다려라\" [김현석의 월스트리트나우]",
+     "link": "https://www.hankyung.com/article/202610317321i"
+    },
+    {
+     "date": "2026-10-31",
+     "source": "한국경제·경제",
+     "title": "연말 랠리 '이것'에 달렸다…답이 안보이는 인텔 [월가 백브리핑]",
+     "link": "https://www.hankyung.com/article/202610317171i"
+    },
+    {
+     "date": "2026-10-31",
+     "source": "연합인포맥스",
+     "title": "인텔, AI 투매 속 50년래 최악의 하루…주가 30% 폭락",
+     "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4442290"
+    },
+    {
+     "date": "2026-10-31",
+     "source": "연합인포맥스",
+     "title": "어닝 서프라이즈에도 주가 폭락한 인텔…시장의 시선은 '현금 흐름'",
+     "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4442300"
+    },
+    {
+     "date": "2026-10-31",
      "source": "연합인포맥스",
      "title": "뉴욕증시, 아마존·인텔 실적 부진에 하락 출발",
      "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4442282"
+    },
+    {
+     "date": "2026-10-31",
+     "source": "아시아경제",
+     "title": "AI 잘된다는데 주가는 왜 뚝?…인텔이 마주한 '현금의 벽'[주末머니]",
+     "link": "https://view.asiae.co.kr/article/2026103016312212343"
+    },
+    {
+     "date": "2026-10-31",
+     "source": "뉴시스·경제",
+     "title": "인텔 주가 29% 폭락, 52년 만에 최악의 하루…시총 183조원 증발",
+     "link": "https://www.newsis.com/view/NISX20261031_0003849191"
     },
     {
      "date": "2026-10-31",
@@ -9333,6 +9387,12 @@
      "link": "https://www.hankyung.com/article/202610306134g"
     },
     {
+     "date": "2026-10-31",
+     "source": "연합뉴스·경제",
+     "title": "해운대 센텀시티 품은 신세계…다시 불붙는 부산 백화점 전쟁",
+     "link": "https://www.yna.co.kr/view/AKR20261030023500051"
+    },
+    {
      "date": "2026-10-30",
      "source": "한국경제·증권",
      "title": "신세계의 롯데백 센텀점 인수…투자자 관점서 살펴보니",
@@ -12098,6 +12158,12 @@
   },
   "삼성물산(028260)": {
    "articles": [
+    {
+     "date": "2026-10-31",
+     "source": "연합인포맥스",
+     "title": "반도체 특수에 웃는 삼성물산·삼성E&amp;A·SK에코…실적 방어 '든든'",
+     "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4442305"
+    },
     {
      "date": "2026-10-29",
      "source": "파이낸셜·증권",
@@ -32865,6 +32931,12 @@
     {
      "date": "2026-10-31",
      "source": "한국경제·경제",
+     "title": "한화, 美 해군 함정 건조 '첫' 수주…필리조선소 인수 2년만",
+     "link": "https://www.hankyung.com/article/202610317206i"
+    },
+    {
+     "date": "2026-10-31",
+     "source": "한국경제·경제",
      "title": "\"K-위성 경쟁력 높인다\"…한화, 초소형 군집위성 수주",
      "link": "https://www.hankyung.com/article/202610306396i"
     },
@@ -51807,6 +51879,12 @@
   "상상인증권(001290)": {
    "articles": [
     {
+     "date": "2026-10-31",
+     "source": "파이낸셜·증권",
+     "title": "상상인증권, 체급 넘어 본업 확대…흑자전환 이어 수익성 회복",
+     "link": "https://www.fnnews.com/news/202610301546185788"
+    },
+    {
      "date": "2026-09-09",
      "source": "한국경제·증권",
      "title": "상상인증권, 액면병합 변경상장 첫날 9%대 급락",
@@ -56541,6 +56619,12 @@
   "제네시스": {
    "articles": [
     {
+     "date": "2026-10-31",
+     "source": "연합뉴스·경제",
+     "title": "[시승기] 정숙함과 연비를 더했다…제네시스 GV80 하이브리드",
+     "link": "https://www.yna.co.kr/view/AKR20261030163600003"
+    },
+    {
      "date": "2026-10-29",
      "source": "한국경제·경제",
      "title": "문짝 하나에 6년 걸렸다…제네시스 GV90 '세계 최초' 기술 [현장+]",
@@ -58045,6 +58129,12 @@
   "퓨리오사AI": {
    "articles": [
     {
+     "date": "2026-10-31",
+     "source": "연합뉴스·경제",
+     "title": "[고양소식] 퓨리오사AI·엑스페릭스와 AI선도 도시 MOU",
+     "link": "https://www.yna.co.kr/view/AKR20261031021700060"
+    },
+    {
      "date": "2026-09-08",
      "source": "연합뉴스·경제",
      "title": "한컴, 국산 NPU로 AX 승부…퓨리오사AI와 제품 공동개발",
@@ -58153,6 +58243,12 @@
      "source": "한국경제·증권",
      "title": "국민연금, AI 기판주 팔고 화장품·건설주 담았다",
      "link": "https://www.hankyung.com/article/202610306523i"
+    },
+    {
+     "date": "2026-10-31",
+     "source": "한국경제·증권",
+     "title": "\"27% 폭락했는데 더 샀다고?\"…국민연금 찍은 종목은",
+     "link": "https://www.hankyung.com/article/2026103068451"
     },
     {
      "date": "2026-10-30",
@@ -66063,7 +66159,23 @@
      "link": "https://www.hankyung.com/article/202610306755i"
     }
    ]
+  },
+  "포커스에이아이(331380)": {
+   "articles": [
+    {
+     "date": "2026-10-31",
+     "source": "파이낸셜·증권",
+     "title": "포커스에이아이, 딥엑스와 국산 NPU 기반 AI 서버 양산 협약 체결",
+     "link": "https://www.fnnews.com/news/202610301037546730"
+    },
+    {
+     "date": "2026-10-31",
+     "source": "아시아경제",
+     "title": "포커스에이아이, 딥엑스와 AI 서버 양산 협약…내년 1월 첫 제품 출시",
+     "link": "https://view.asiae.co.kr/article/2026103010361914636"
+    }
+   ]
   }
  },
- "updatedAt": "2026-10-31T01:39:19+09:00"
+ "updatedAt": "2026-10-31T10:28:21+09:00"
 }

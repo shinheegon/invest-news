@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-31T08:30:00+09:00",
+  "updatedAt": "2026-10-31T10:39:00+09:00",
   "session": "AM",
   "stock_fng": {
     "value": 35,
@@ -11,60 +11,60 @@
       "name": "코스피",
       "value": "5,730.74",
       "change": "-3.48%(10/30 마감, -206.92p, 매도 사이드카 발동)",
-      "source": "https://www.etoday.co.kr/news/view/2642400"
+      "source": "https://en.sedaily.com/finance/2026/10/30/kospi-closes-down-348-percent-at-573074"
     },
     {
       "name": "코스닥",
       "value": "724.38",
       "change": "-3.83%(10/30 마감, -28.85p)",
-      "source": "https://view.asiae.co.kr/article/2026103015343256789"
+      "source": "https://en.sedaily.com/finance/2026/10/30/kosdaq-closes-at-72438-down-2885-points-or-383-percent"
     },
     {
       "name": "S&P 500",
-      "value": "7,720.39",
-      "change": "-0.30%(10/30 종가, 아마존·인텔 실적 쇼크)",
-      "source": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-oct-30-2026"
+      "value": "7,580.07",
+      "change": "-1.82%(10/30 종가, -140.32p, 인텔·아마존 실적 쇼크)",
+      "source": "https://finance.yahoo.com/markets/live/stock-market-today-friday-october-30-dow-sp-500-nasdaq-amazon-intel-ai-sell-off-191429143.html"
     },
     {
       "name": "나스닥",
-      "value": "26,184.72",
-      "change": "-1.38%(10/30 종가)",
-      "source": "https://www.cnbc.com/2026/10/29/stock-market-today-live-updates.html"
+      "value": "25,437.00",
+      "change": "-2.86%(10/30 종가, -747.73p, 6/5 이후 최악의 하루)",
+      "source": "https://finance.yahoo.com/markets/live/stock-market-today-friday-october-30-dow-sp-500-nasdaq-amazon-intel-ai-sell-off-191429143.html"
     },
     {
       "name": "다우",
-      "value": "52,342.56",
-      "change": "-0.30%(10/30 종가, -132.54p)",
-      "source": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-oct-30-2026"
+      "value": "51,770.31",
+      "change": "-1.09%(10/30 종가, -572.25p)",
+      "source": "https://finance.yahoo.com/markets/live/stock-market-today-friday-october-30-dow-sp-500-nasdaq-amazon-intel-ai-sell-off-191429143.html"
     },
     {
       "name": "VIX",
-      "value": "18.54",
-      "change": "10/30 현재가 기준",
-      "source": "https://www.cnbc.com/quotes/US10Y"
+      "value": "19.42",
+      "change": "+12.91%(10/30 종가, +2.22)",
+      "source": "https://finance.yahoo.com/quote/%5EVIX/"
     },
     {
       "name": "美 10년물",
-      "value": "4.91%",
-      "change": "-0.03%p(10/30, 위험회피 속 안전자산 선호)",
-      "source": "https://www.cnbc.com/quotes/US10Y"
+      "value": "4.92%",
+      "change": "소폭 하락(10/30, 위험회피 속 안전자산 선호)",
+      "source": "https://tradingeconomics.com/united-states/government-bond-yield"
     },
     {
       "name": "달러인덱스(DXY)",
-      "value": "101.93",
-      "change": "거의 보합(기술주 투매 속 달러 약세·강세 혼조)",
-      "source": "https://tradingeconomics.com/united-states/stock-market"
+      "value": "101.9",
+      "change": "거의 보합(-0.03%, 기술주 투매 속 혼조)",
+      "source": "https://tradingeconomics.com/dxy:cur"
     },
     {
       "name": "원/달러",
       "value": "1,334.3",
-      "change": "-2.5원(15:30 기준가, 수출기업 달러 매도)",
+      "change": "-2.5원(10/30 15:30 종가, 수출기업 달러 매도)",
       "source": "https://www.yna.co.kr/view/AKR20261030130000002"
     },
     {
       "name": "美 기준금리",
       "value": "3.75~4.00%",
-      "change": "0(10/28 FOMC 10-2 동결, 2명은 인상 주장·매파 색채 강화)",
+      "change": "0(10/28 FOMC 10-2 동결, 쿡·해먹 2명 인상 소수의견)",
       "source": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261028a.htm"
     },
     {
@@ -76,8 +76,8 @@
     {
       "name": "국고채 3년물",
       "value": "3.715%",
-      "change": "하락(위험회피 속 국채 강세)",
-      "source": "https://www.yna.co.kr/view/AKR20261030149100008"
+      "change": "-5.1bp(10/30, 위험회피 속 국채 강세, 10월 한달 약 -30bp)",
+      "source": "https://biz.sbs.co.kr/article/20000343377"
     },
     {
       "name": "美 CPI",
@@ -93,9 +93,15 @@
     },
     {
       "name": "금(Gold)",
-      "value": "3,938.5",
-      "change": "-2.0%(온스당 $, Fed 인상 베팅 강화에 하락)",
+      "value": "3,897.5",
+      "change": "-3.08%(온스당 $, Fed 인상 경계·강달러 베팅에 하락)",
       "source": "https://www.usagold.com/daily-precious-metals-market-report-october-30-2026/"
+    },
+    {
+      "name": "WTI(원유)",
+      "value": "104.12",
+      "change": "+2.08%(호르무즈 해협 유조선 피격 리스크, 10월 4개월 연속 월간 상승)",
+      "source": "https://energynow.com/2026/10/oil-prices-jump-more-than-2-as-strait-of-hormuz-tanker-attack-renews-middle-east-supply-fears/"
     }
   ]
 }
