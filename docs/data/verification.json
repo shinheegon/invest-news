@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-31T10:56:09+09:00",
+ "updatedAt": "2026-11-01T10:20:10+09:00",
  "cases": [
   {
    "name": "코세스(058610)",
@@ -69808,6 +69808,81 @@
    "theme": "반도체(메모리)",
    "status": "pending",
    "checks": []
+  },
+  {
+   "name": "포커스에이아이(331380)",
+   "type": "leading",
+   "market": "韓",
+   "flagDate": "2026-11-01",
+   "signals": [
+    "구체촉발재",
+    "반복포착2일째",
+    "주가미반영"
+   ],
+   "theme": "AI반도체설계(팹리스/IP)/엣지AI서버",
+   "status": "pending",
+   "checks": [],
+   "convScore": 7,
+   "convTier": "high",
+   "convSignals": [
+    "반복포착",
+    "승세테마",
+    "틈새레이더"
+   ],
+   "convStampedAt": "2026-11-01"
+  },
+  {
+   "name": "한화투자증권(003530)",
+   "type": "leading",
+   "market": "韓",
+   "flagDate": "2026-11-01",
+   "signals": [
+    "구체촉발재(체인링크파트너십)",
+    "신규테마첫선점"
+   ],
+   "theme": "디지털자산/RWA",
+   "status": "pending",
+   "checks": [],
+   "convScore": 2,
+   "convTier": "low",
+   "convSignals": [
+    "틈새레이더"
+   ],
+   "convStampedAt": "2026-11-01"
+  },
+  {
+   "name": "머큐리(100590)",
+   "type": "leading",
+   "market": "韓",
+   "flagDate": "2026-11-01",
+   "signals": [
+    "구체촉발재(공급계약확대)",
+    "기존고객사물량확대"
+   ],
+   "theme": "AI데이터센터/통신장비",
+   "status": "pending",
+   "checks": [],
+   "convScore": 1,
+   "convTier": "low",
+   "convSignals": [
+    "구체촉발재",
+    "⚠️열세테마",
+    "틈새레이더"
+   ],
+   "convStampedAt": "2026-11-01"
+  },
+  {
+   "name": "대원제약(003220)",
+   "type": "warning",
+   "market": "韓",
+   "flagDate": "2026-11-01",
+   "signals": [
+    "임상3상성공후급등(+13~15%)",
+    "이미반영(후발)"
+   ],
+   "theme": "바이오/의료",
+   "status": "pending",
+   "checks": []
   }
  ],
  "stats": {
@@ -69817,8 +69892,8 @@
   "miss": 164,
   "hitRate": 24.3,
   "avgD3ChangePct": 0.32,
-  "pending": 272,
-  "total": 659,
+  "pending": 276,
+  "total": 663,
   "byType": {
    "leading": {
     "verified": 163,

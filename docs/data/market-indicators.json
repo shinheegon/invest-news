@@ -1,8 +1,9 @@
 {
-  "updatedAt": "2026-10-31T10:39:00+09:00",
+  "updatedAt": "2026-11-01T07:30:00+09:00",
   "session": "AM",
+  "note": "2026-11-01(일)은 한·미 증시 모두 휴장 — 직전 거래일(금, 10/30) 종가를 유지하고 주말에도 갱신되는 지표(공포·탐욕지수)만 최신화. 다음 개장은 월요일(11/2).",
   "stock_fng": {
-    "value": 35,
+    "value": 26,
     "label": "Fear",
     "source": "https://www.aistockselection.com/en/fear-greed-today/"
   },
@@ -10,13 +11,13 @@
     {
       "name": "코스피",
       "value": "5,730.74",
-      "change": "-3.48%(10/30 마감, -206.92p, 매도 사이드카 발동)",
+      "change": "-3.48%(10/30 마감, -206.92p, 매도 사이드카 발동) · 주말 휴장",
       "source": "https://en.sedaily.com/finance/2026/10/30/kospi-closes-down-348-percent-at-573074"
     },
     {
       "name": "코스닥",
       "value": "724.38",
-      "change": "-3.83%(10/30 마감, -28.85p)",
+      "change": "-3.83%(10/30 마감, -28.85p) · 주말 휴장",
       "source": "https://en.sedaily.com/finance/2026/10/30/kosdaq-closes-at-72438-down-2885-points-or-383-percent"
     },
     {
@@ -28,7 +29,7 @@
     {
       "name": "나스닥",
       "value": "25,437.00",
-      "change": "-2.86%(10/30 종가, -747.73p, 6/5 이후 최악의 하루)",
+      "change": "-2.86%(10/30 종가, -747.73p, 6/5 이후 최악의 하루) · 3주 연속 주간 하락",
       "source": "https://finance.yahoo.com/markets/live/stock-market-today-friday-october-30-dow-sp-500-nasdaq-amazon-intel-ai-sell-off-191429143.html"
     },
     {
@@ -41,7 +42,7 @@
       "name": "VIX",
       "value": "19.42",
       "change": "+12.91%(10/30 종가, +2.22)",
-      "source": "https://finance.yahoo.com/quote/%5EVIX/"
+      "source": "https://www.investing.com/indices/volatility-s-p-500-historical-data"
     },
     {
       "name": "美 10년물",
@@ -57,14 +58,14 @@
     },
     {
       "name": "원/달러",
-      "value": "1,334.3",
-      "change": "-2.5원(10/30 15:30 종가, 수출기업 달러 매도)",
-      "source": "https://www.yna.co.kr/view/AKR20261030130000002"
+      "value": "1,334.0",
+      "change": "-1.45원(10/31 16:19 기준 고시환율, 주말 변동 없음)",
+      "source": "https://www.citibank.co.kr/FxdExrt0100.act"
     },
     {
       "name": "美 기준금리",
       "value": "3.75~4.00%",
-      "change": "0(10/28 FOMC 10-2 동결, 쿡·해먹 2명 인상 소수의견)",
+      "change": "0(10/28 FOMC 10-2 동결, 쿡·해먹 2명 인상 소수의견 · 세인트루이스·댈러스 연은 총재도 주말 강경 발언)",
       "source": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261028a.htm"
     },
     {
@@ -93,9 +94,9 @@
     },
     {
       "name": "금(Gold)",
-      "value": "3,897.5",
-      "change": "-3.08%(온스당 $, Fed 인상 경계·강달러 베팅에 하락)",
-      "source": "https://www.usagold.com/daily-precious-metals-market-report-october-30-2026/"
+      "value": "3,875.19",
+      "change": "-3.74%(주간), -7.22%(월간, 2개월 연속 하락) — Fed 추가긴축 경계·강달러에 하락",
+      "source": "https://financefeeds.com/gold-price-today-3875-saturday-week-ahead-after-second-monthly-decline-midterms-jobs-report-bull-4000-bear-3800/"
     },
     {
       "name": "WTI(원유)",

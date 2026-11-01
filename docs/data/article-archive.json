@@ -3,10 +3,28 @@
   "SK하이닉스(000660)": {
    "articles": [
     {
+     "date": "2026-11-01",
+     "source": "뉴시스·경제",
+     "title": "삼성전자·SK하이닉스 지금이 기회?…\"역사적 바겐세일 구간\"",
+     "link": "https://www.newsis.com/view/NISX20261031_0003849384"
+    },
+    {
+     "date": "2026-11-01",
+     "source": "news.sbs.co.kr",
+     "title": "- SK하이닉스(000660): D램·HBM 공급이 2029년까지 완판됐음에도 금요일 -8.85%로 가장 큰 타격, 8월·10월 두 차례 걸쳐 총 60조원 자사주",
+     "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008824829"
+    },
+    {
      "date": "2026-10-31",
      "source": "한국경제·증권",
      "title": "코스피 3.48% 급락…삼성전자 3%·SK하이닉스 7%↓",
      "link": "https://www.hankyung.com/article/2026103064646"
+    },
+    {
+     "date": "2026-10-31",
+     "source": "파이낸셜뉴스",
+     "title": "- SK하이닉스(000660): D램·HBM 공급이 2029년까지 사실상 완판됐다고 밝혔음에도 -7.08%로 가장 큰 타격.",
+     "link": "https://www.fnnews.com/news/202610281818006894"
     },
     {
      "date": "2026-10-31",
@@ -25,12 +43,6 @@
      "source": "연합뉴스·경제",
      "title": "SK하이닉스, 미주총괄 신설…HBM 이끈 안현 사장 배치",
      "link": "https://www.yna.co.kr/view/AKR20261030072400003"
-    },
-    {
-     "date": "2026-10-31",
-     "source": "파이낸셜뉴스",
-     "title": "- SK하이닉스(000660): D램·HBM 공급이 2029년까지 사실상 완판됐다고 밝혔음에도 -7.08%로 가장 큰 타격.",
-     "link": "https://www.fnnews.com/news/202610281818006894"
     },
     {
      "date": "2026-10-30",
@@ -709,23 +721,23 @@
      "source": "파이낸셜·증권",
      "title": "이찬진 \"SK하이닉스 '솔리다임' 중복상장 저촉…유권 해석 대기\"",
      "link": "https://www.fnnews.com/news/202610191356425835"
-    },
-    {
-     "date": "2026-10-20",
-     "source": "파이낸셜·증권",
-     "title": "'120만닉스' 6개월 만에 깨졌다…SK하이닉스, 118만원까지 하락 [종목 NOW]",
-     "link": "https://www.fnnews.com/news/202610201027570660"
-    },
-    {
-     "date": "2026-10-20",
-     "source": "연합인포맥스",
-     "title": "코스피, 나스닥 반등에도 '팔자'폭 확대…SK하이닉스 4% 약세",
-     "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4440069"
     }
    ]
   },
   "삼성전자(005930)": {
    "articles": [
+    {
+     "date": "2026-11-01",
+     "source": "뉴시스·경제",
+     "title": "삼성전자·SK하이닉스 지금이 기회?…\"역사적 바겐세일 구간\"",
+     "link": "https://www.newsis.com/view/NISX20261031_0003849384"
+    },
+    {
+     "date": "2026-11-01",
+     "source": "ddaily.co.kr",
+     "title": "- 삼성전자(005930): 3Q 영업익 107조 사상최대·HBM 2027년 물량 완판에도 금요일(10/30) -4.96% 마감. 주말 추가 뉴스는 확인되지 않았",
+     "link": "https://www.ddaily.co.kr/page/view/2026102913590790624"
+    },
     {
      "date": "2026-10-31",
      "source": "한국경제·증권",
@@ -764,6 +776,12 @@
     },
     {
      "date": "2026-10-31",
+     "source": "파이낸셜뉴스",
+     "title": "- 삼성전자(005930): 3Q 영업익 107조 사상최대, 2027년 HBM 배정 물량 완판·4Q HBM 시장점유율 1위 목표에도 美 AI주 충격에 -3.02%",
+     "link": "https://www.fnnews.com/news/202610291853080631"
+    },
+    {
+     "date": "2026-10-31",
      "source": "파이낸셜·증권",
      "title": "코스피, 美 AI 우려에 3.48% 급락…삼성전자 3%·SK하이닉스 7%↓[마감시황]",
      "link": "https://www.fnnews.com/news/202610301540505038"
@@ -779,12 +797,6 @@
      "source": "연합인포맥스",
      "title": "삼성전자, 삼성디플의 中 TCL CSOT 지분 전량 취득",
      "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4442258"
-    },
-    {
-     "date": "2026-10-31",
-     "source": "파이낸셜뉴스",
-     "title": "- 삼성전자(005930): 3Q 영업익 107조 사상최대, 2027년 HBM 배정 물량 완판·4Q HBM 시장점유율 1위 목표에도 美 AI주 충격에 -3.02%",
-     "link": "https://www.fnnews.com/news/202610291853080631"
     },
     {
      "date": "2026-10-30",
@@ -1433,18 +1445,6 @@
      "source": "biz.heraldcorp.com",
      "title": "- 삼성전자(005930): 3분기 영업이익 107.4조원(사상 최대)에도 中CXMT 경쟁위협 공론화로 오늘 장중 -6.79%, 23만3,500원.",
      "link": "https://biz.heraldcorp.com/article/10900851"
-    },
-    {
-     "date": "2026-10-12",
-     "source": "한국경제·증권",
-     "title": "삼성전자 '107조 역대급 실적'에도…外人 지분율 금융위기 수준으로",
-     "link": "https://www.hankyung.com/article/2026101142157"
-    },
-    {
-     "date": "2026-10-12",
-     "source": "한국경제·증권",
-     "title": "\"삼성전자, 이제 세계 1위 이익 기업…HBM4으로 내년 더 뛴다\" [종목+]",
-     "link": "https://www.hankyung.com/article/2026101249176"
     }
    ]
   },
@@ -2753,6 +2753,12 @@
   "애플(AAPL)": {
    "articles": [
     {
+     "date": "2026-11-01",
+     "source": "연합인포맥스",
+     "title": "[뉴욕증시-주간전망] 애플·AMD, 급락세에 제동걸까…고용·선거도 주시",
+     "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4442337"
+    },
+    {
      "date": "2026-10-31",
      "source": "한국경제·증권",
      "title": "인텔 투매, 30% 추락…메모리의 복수, 애플도 쇼크? \"선거 뒤를 기다려라\" [김현석의 월스트리트나우]",
@@ -3465,12 +3471,6 @@
      "source": "한국경제·경제",
      "title": "가전·캠핑용품도 판매…애플 리셀러숍의 변신",
      "link": "https://www.hankyung.com/article/202607022447r"
-    },
-    {
-     "date": "2026-07-02",
-     "source": "한국경제·경제",
-     "title": "'애플 독점' 고화질 영상 시장 흔든다…칩스앤미디어, 美 빅테크와 맞손",
-     "link": "https://www.hankyung.com/article/202607022064i"
     }
    ]
   },
@@ -6716,6 +6716,12 @@
   },
   "카카오(035720)": {
    "articles": [
+    {
+     "date": "2026-11-01",
+     "source": "연합뉴스·경제",
+     "title": "카카오 광고 메시지, 문자보다 더 믿는다…소비자 조사",
+     "link": "https://www.yna.co.kr/view/AKR20261030157800017"
+    },
     {
      "date": "2026-10-31",
      "source": "한국경제·증권",
@@ -15188,6 +15194,12 @@
   },
   "KT(030200)": {
    "articles": [
+    {
+     "date": "2026-11-01",
+     "source": "연합인포맥스",
+     "title": "'아파트 한채 가격' GPU랙 냉각 검증 어떻게…KT, 자체기술로 뚫었다",
+     "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4442350"
+    },
     {
      "date": "2026-10-31",
      "source": "연합뉴스·경제",
@@ -26903,6 +26915,12 @@
   "SK(034730)": {
    "articles": [
     {
+     "date": "2026-11-01",
+     "source": "연합뉴스·경제",
+     "title": "SK·한화·HD현대, 핀셋 쇄신…삼성·LG도 안정에 무게 전망",
+     "link": "https://www.yna.co.kr/view/AKR20261031045800003"
+    },
+    {
      "date": "2026-10-31",
      "source": "한국경제·경제",
      "title": "SK '실무형 리더' 전진배치…반도체 안정, 에너지는 쇄신",
@@ -28172,6 +28190,12 @@
   },
   "HD현대(267250)": {
    "articles": [
+    {
+     "date": "2026-11-01",
+     "source": "연합뉴스·경제",
+     "title": "SK·한화·HD현대, 핀셋 쇄신…삼성·LG도 안정에 무게 전망",
+     "link": "https://www.yna.co.kr/view/AKR20261031045800003"
+    },
     {
      "date": "2026-10-30",
      "source": "한국경제·경제",
@@ -31139,6 +31163,12 @@
   "나이키(NKE)": {
    "articles": [
     {
+     "date": "2026-11-01",
+     "source": "한국경제·경제",
+     "title": "\"요즘 누가 나이키 신어요?\"…젊은층 떠나자 결국 '산'으로 갔다 [박수림의 요즘 여기]",
+     "link": "https://www.hankyung.com/article/202610306280g"
+    },
+    {
      "date": "2026-10-29",
      "source": "한국경제·경제",
      "title": "\"나이키·아디다스 다 지겨워\"…'이 신발' 뜨자마자 8조 터졌다",
@@ -32928,6 +32958,18 @@
   },
   "한화(000880)": {
    "articles": [
+    {
+     "date": "2026-11-01",
+     "source": "한국경제·경제",
+     "title": "한화, 미 해군함정 첫 수주…3600억 美 상륙함 건조한다",
+     "link": "https://www.hankyung.com/article/2026103176317"
+    },
+    {
+     "date": "2026-11-01",
+     "source": "연합뉴스·경제",
+     "title": "SK·한화·HD현대, 핀셋 쇄신…삼성·LG도 안정에 무게 전망",
+     "link": "https://www.yna.co.kr/view/AKR20261031045800003"
+    },
     {
      "date": "2026-10-31",
      "source": "한국경제·경제",
@@ -46731,6 +46773,12 @@
   "Anthropic": {
    "articles": [
     {
+     "date": "2026-11-01",
+     "source": "CNBC·Markets",
+     "title": "Anthropic's path to the Nasdaq just got a lot bumpier",
+     "link": "https://www.cnbc.com/2026/10/31/anthropic-ipo-ai-spending.html"
+    },
+    {
      "date": "2026-10-29",
      "source": "한국경제·증권",
      "title": "프런티어AI, 앤트로픽(Anthropic) 담은 ETF",
@@ -51833,6 +51881,12 @@
   "CJ CGV(079160)": {
    "articles": [
     {
+     "date": "2026-11-01",
+     "source": "연합인포맥스",
+     "title": "극장가 다시 불 켜졌다…오디세이가 이끌 CJ CGV 서프라이즈",
+     "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4442346"
+    },
+    {
      "date": "2026-09-13",
      "source": "아시아경제",
      "title": "천만 영화 터지자 극장 훈풍…CJ CGV, 다이어트 결실 맺나 [주末머니]",
@@ -52186,6 +52240,12 @@
   },
   "LG(003550)": {
    "articles": [
+    {
+     "date": "2026-11-01",
+     "source": "연합뉴스·경제",
+     "title": "SK·한화·HD현대, 핀셋 쇄신…삼성·LG도 안정에 무게 전망",
+     "link": "https://www.yna.co.kr/view/AKR20261031045800003"
+    },
     {
      "date": "2026-10-31",
      "source": "연합뉴스·경제",
@@ -54924,6 +54984,12 @@
   },
   "구글(GOOGL)": {
    "articles": [
+    {
+     "date": "2026-11-01",
+     "source": "아시아경제",
+     "title": "구글 검색, 정말 흔들리는 걸까 [주末머니]",
+     "link": "https://view.asiae.co.kr/article/2026102918162467398"
+    },
     {
      "date": "2026-10-30",
      "source": "한국경제·증권",
@@ -58238,6 +58304,12 @@
   },
   "국민연금": {
    "articles": [
+    {
+     "date": "2026-11-01",
+     "source": "파이낸셜뉴스",
+     "title": "국민연금 받는 사람 800만명 넘었다...10명 중 7명은 월 60만원 미만",
+     "link": "https://www.fnnews.com/news/202611010905285311"
+    },
     {
      "date": "2026-10-31",
      "source": "한국경제·증권",
@@ -63585,6 +63657,12 @@
   "한섬(020000)": {
    "articles": [
     {
+     "date": "2026-11-01",
+     "source": "연합인포맥스",
+     "title": "한섬, 작년 기저효과에 3분기 영업익 급증 전망",
+     "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4442335"
+    },
+    {
      "date": "2026-10-22",
      "source": "한국경제·경제",
      "title": "佛 러닝웨어 새티스파이 온다…한섬, 국내 독점 유통 계약",
@@ -65349,6 +65427,12 @@
   "CJ(001040)": {
    "articles": [
     {
+     "date": "2026-11-01",
+     "source": "연합인포맥스",
+     "title": "극장가 다시 불 켜졌다…오디세이가 이끌 CJ CGV 서프라이즈",
+     "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4442346"
+    },
+    {
      "date": "2026-10-31",
      "source": "한국경제·경제",
      "title": "중앙일보 이어 물류도…CJ·신세계 '범삼성가' 다시 손잡았다",
@@ -66177,5 +66261,5 @@
    ]
   }
  },
- "updatedAt": "2026-10-31T10:28:21+09:00"
+ "updatedAt": "2026-11-01T09:52:26+09:00"
 }
