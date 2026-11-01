@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-11-01T07:30:00+09:00",
+  "updatedAt": "2026-11-02T07:30:00+09:00",
   "session": "AM",
-  "note": "2026-11-01(일)은 한·미 증시 모두 휴장 — 직전 거래일(금, 10/30) 종가를 유지하고 주말에도 갱신되는 지표(공포·탐욕지수)만 최신화. 다음 개장은 월요일(11/2).",
+  "note": "11/1(일)은 한·미 모두 휴장이었다. 아래는 직전 거래일(금, 10/30) 마감치를 유지하고, 주말에도 갱신되는 지표(공포·탐욕지수)만 최신화했다. 코스피200 선물이 898.65→873.10으로 추가 하락해 월요일(11/2) 개장이 약세로 출발할 가능성을 시사한다.",
   "stock_fng": {
     "value": 26,
     "label": "Fear",
@@ -11,7 +11,7 @@
     {
       "name": "코스피",
       "value": "5,730.74",
-      "change": "-3.48%(10/30 마감, -206.92p, 매도 사이드카 발동) · 주말 휴장",
+      "change": "-3.48%(10/30 마감, -206.92p, 매도 사이드카) · 코스피200선물 873.10(약세 시그널)",
       "source": "https://en.sedaily.com/finance/2026/10/30/kospi-closes-down-348-percent-at-573074"
     },
     {
@@ -23,7 +23,7 @@
     {
       "name": "S&P 500",
       "value": "7,580.07",
-      "change": "-1.82%(10/30 종가, -140.32p, 인텔·아마존 실적 쇼크)",
+      "change": "-1.82%(10/30 종가, -140.32p, 빅테크 실적 쇼크)",
       "source": "https://finance.yahoo.com/markets/live/stock-market-today-friday-october-30-dow-sp-500-nasdaq-amazon-intel-ai-sell-off-191429143.html"
     },
     {
@@ -52,8 +52,8 @@
     },
     {
       "name": "달러인덱스(DXY)",
-      "value": "101.9",
-      "change": "거의 보합(-0.03%, 기술주 투매 속 혼조)",
+      "value": "101.83",
+      "change": "거의 보합 수준",
       "source": "https://tradingeconomics.com/dxy:cur"
     },
     {
@@ -65,8 +65,8 @@
     {
       "name": "美 기준금리",
       "value": "3.75~4.00%",
-      "change": "0(10/28 FOMC 10-2 동결, 쿡·해먹 2명 인상 소수의견 · 세인트루이스·댈러스 연은 총재도 주말 강경 발언)",
-      "source": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261028a.htm"
+      "change": "0(10/28 FOMC 10-2 동결, 쿡·해먹 인상 소수의견) · 12월 인상 확률 73~85%로 급등(워시 의장은 포워드가이던스 거부·데이터 의존 재확인)",
+      "source": "https://www.tradingkey.com/analysis/economic/central-banks/262247759-fed-kevin-warsh-forward-guidance-december-hike-83-percent-tradingkey"
     },
     {
       "name": "한국 기준금리",
@@ -89,7 +89,7 @@
     {
       "name": "韓 CPI",
       "value": "2.9%",
-      "change": "-0.2%p(9월, 8월 3.1%에서 둔화)",
+      "change": "-0.2%p(9월, 8월 3.1%에서 둔화) · 10월 수치는 이번 주 발표 예정",
       "source": "https://www.korea.kr/briefing/policyBriefingView.do?newsId=156784092"
     },
     {
@@ -101,8 +101,8 @@
     {
       "name": "WTI(원유)",
       "value": "104.12",
-      "change": "+2.08%(호르무즈 해협 유조선 피격 리스크, 10월 4개월 연속 월간 상승)",
-      "source": "https://energynow.com/2026/10/oil-prices-jump-more-than-2-as-strait-of-hormuz-tanker-attack-renews-middle-east-supply-fears/"
+      "change": "+2.08%(10/30), 10월 한달 약 +15% — 호르무즈 해협 봉쇄(통항 85회/일→2회)에 따른 공급 리스크 지속",
+      "source": "https://oilprice.com/Energy/Oil-Prices/Oil-Price-Forecasts-Jump-as-Hormuz-Disruption-Drags-On.html"
     }
   ]
 }

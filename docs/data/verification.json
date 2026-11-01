@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-01T10:20:10+09:00",
+ "updatedAt": "2026-11-02T02:09:06+09:00",
  "cases": [
   {
    "name": "코세스(058610)",
@@ -69883,6 +69883,106 @@
    "theme": "바이오/의료",
    "status": "pending",
    "checks": []
+  },
+  {
+   "name": "포커스에이아이(331380)",
+   "type": "leading",
+   "market": "韓",
+   "flagDate": "2026-11-02",
+   "signals": [
+    "구체촉발재(딥엑스 NPU AI서버 양산협약)",
+    "신제품로드맵(내년1월출시)",
+    "3일째반복포착"
+   ],
+   "theme": "AI반도체설계(팹리스/IP)",
+   "status": "pending",
+   "checks": [],
+   "convScore": 9,
+   "convTier": "high",
+   "convSignals": [
+    "반복포착",
+    "승세테마",
+    "구체촉발재",
+    "틈새레이더"
+   ],
+   "convStampedAt": "2026-11-02"
+  },
+  {
+   "name": "머큐리(100590)",
+   "type": "leading",
+   "market": "韓",
+   "flagDate": "2026-11-02",
+   "signals": [
+    "구체촉발재(KT 와이파이7 공급계약 142억 확대)",
+    "기존고객사물량확대"
+   ],
+   "theme": "AI전력/데이터센터",
+   "status": "pending",
+   "checks": [],
+   "convScore": 1,
+   "convTier": "low",
+   "convSignals": [
+    "구체촉발재",
+    "⚠️열세테마",
+    "틈새레이더"
+   ],
+   "convStampedAt": "2026-11-02"
+  },
+  {
+   "name": "이엠앤아이(083470)",
+   "type": "leading",
+   "market": "韓",
+   "flagDate": "2026-11-02",
+   "signals": [
+    "경기도제조로봇이니셔티브재선정",
+    "반복포착14회",
+    "대표이사자사주매입"
+   ],
+   "theme": "로봇/휴머노이드",
+   "status": "pending",
+   "checks": [],
+   "convScore": 7,
+   "convTier": "high",
+   "convSignals": [
+    "반복포착",
+    "승세테마",
+    "구체촉발재"
+   ],
+   "convStampedAt": "2026-11-02"
+  },
+  {
+   "name": "본시스템즈",
+   "type": "discovery",
+   "market": "韓",
+   "flagDate": "2026-11-02",
+   "signals": [
+    "방산무기체계용감속기공급",
+    "재출몰(약3개월만)"
+   ],
+   "theme": "로봇/휴머노이드",
+   "status": "pending",
+   "checks": [],
+   "convScore": 7,
+   "convTier": "high",
+   "convSignals": [
+    "반복포착",
+    "승세테마",
+    "구체촉발재"
+   ],
+   "convStampedAt": "2026-11-02"
+  },
+  {
+   "name": "씨메스로보틱스(475400)",
+   "type": "warning",
+   "market": "韓",
+   "flagDate": "2026-11-02",
+   "signals": [
+    "누적46회반복포착",
+    "언론재공략타이밍언급=후발신호"
+   ],
+   "theme": "로봇/휴머노이드",
+   "status": "pending",
+   "checks": []
   }
  ],
  "stats": {
@@ -69892,8 +69992,8 @@
   "miss": 164,
   "hitRate": 24.3,
   "avgD3ChangePct": 0.32,
-  "pending": 276,
-  "total": 663,
+  "pending": 281,
+  "total": 668,
   "byType": {
    "leading": {
     "verified": 163,
