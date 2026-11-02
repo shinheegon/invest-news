@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-11-02T07:30:00+09:00",
+  "updatedAt": "2026-11-02T10:45:00+09:00",
   "session": "AM",
-  "note": "11/1(일)은 한·미 모두 휴장이었다. 아래는 직전 거래일(금, 10/30) 마감치를 유지하고, 주말에도 갱신되는 지표(공포·탐욕지수)만 최신화했다. 코스피200 선물이 898.65→873.10으로 추가 하락해 월요일(11/2) 개장이 약세로 출발할 가능성을 시사한다.",
+  "note": "11/1(일) 휴장 후 월요일(11/2) 코스피·코스닥 개장은 선물 약세 시그널대로 추가 하락 출발. 호르무즈 해협은 11/2 기준 246일째 사실상 봉쇄(통항 85회/일→2회)로 유가 상방압력 지속 중이며, 美 Fed·韓 한은 모두 '동결+인상 경계'로 매파 전환— macro-compass.json의 '완화(인하)' 신호와 실제 정책 스탠스 간 괴리에 유의(세부는 analysis.md/macro-analog.md 참고).",
   "stock_fng": {
     "value": 26,
     "label": "Fear",
@@ -10,15 +10,15 @@
   "indices": [
     {
       "name": "코스피",
-      "value": "5,730.74",
-      "change": "-3.48%(10/30 마감, -206.92p, 매도 사이드카) · 코스피200선물 873.10(약세 시그널)",
-      "source": "https://en.sedaily.com/finance/2026/10/30/kospi-closes-down-348-percent-at-573074"
+      "value": "5,637.77",
+      "change": "-1.62%(11/2 개장, -92.97p) · 전거래일(10/30) -3.48% 급락 이어 추가 하락",
+      "source": "https://view.asiae.co.kr/article/2026110209015044953"
     },
     {
       "name": "코스닥",
-      "value": "724.38",
-      "change": "-3.83%(10/30 마감, -28.85p) · 주말 휴장",
-      "source": "https://en.sedaily.com/finance/2026/10/30/kosdaq-closes-at-72438-down-2885-points-or-383-percent"
+      "value": "716.44",
+      "change": "-1.10%(11/2 개장, -7.94p) · 전거래일(10/30) -3.83% 급락",
+      "source": "https://view.asiae.co.kr/article/2026110209020758964"
     },
     {
       "name": "S&P 500",
@@ -58,9 +58,9 @@
     },
     {
       "name": "원/달러",
-      "value": "1,334.0",
-      "change": "-1.45원(10/31 16:19 기준 고시환율, 주말 변동 없음)",
-      "source": "https://www.citibank.co.kr/FxdExrt0100.act"
+      "value": "1,334.55",
+      "change": "+1.09원(11/2 오전 9시19분 기준)",
+      "source": "https://www.ziksir.com/news/articleView.html?idxno=151572"
     },
     {
       "name": "美 기준금리",
@@ -94,15 +94,15 @@
     },
     {
       "name": "금(Gold)",
-      "value": "3,875.19",
-      "change": "-3.74%(주간), -7.22%(월간, 2개월 연속 하락) — Fed 추가긴축 경계·강달러에 하락",
-      "source": "https://financefeeds.com/gold-price-today-3875-saturday-week-ahead-after-second-monthly-decline-midterms-jobs-report-bull-4000-bear-3800/"
+      "value": "3,900",
+      "change": "+0.6%(11/2 아시아장), 2개월 연속 월간 하락 이후 반등 시도 — Fed 매파 기조·강달러 속 저가매수",
+      "source": "https://www.techflowpost.com/en-US/newsletter/142400"
     },
     {
       "name": "WTI(원유)",
-      "value": "104.12",
-      "change": "+2.08%(10/30), 10월 한달 약 +15% — 호르무즈 해협 봉쇄(통항 85회/일→2회)에 따른 공급 리스크 지속",
-      "source": "https://oilprice.com/Energy/Oil-Prices/Oil-Price-Forecasts-Jump-as-Hormuz-Disruption-Drags-On.html"
+      "value": "101.20",
+      "change": "-2.8%(11/2 아시아장, OPEC+ 증산쿼터·중동외교 기대) · 호르무즈 해협은 246일째 사실상 봉쇄(통항 85회/일→2회) 지속으로 하단 지지",
+      "source": "https://fxstreet.com/news/wti-drops-to-near-10100-amid-opec-quotas-middle-east-diplomacy-202611020059"
     }
   ]
 }
