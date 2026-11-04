@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-02T10:43:36+09:00",
+ "updatedAt": "2026-11-04T11:30:15+09:00",
  "cases": [
   {
    "name": "코세스(058610)",
@@ -69983,6 +69983,84 @@
    "theme": "로봇/휴머노이드",
    "status": "pending",
    "checks": []
+  },
+  {
+   "name": "한패스(408470)",
+   "type": "leading",
+   "market": "韓",
+   "flagDate": "2026-11-04",
+   "signals": [
+    "실적턴어라운드조짐(거래액역대최고)",
+    "해외송금1위재확인"
+   ],
+   "theme": "핀테크/해외송금",
+   "status": "pending",
+   "checks": [],
+   "convScore": 0,
+   "convTier": "low",
+   "convSignals": [
+    "⚠️약신호",
+    "틈새레이더"
+   ],
+   "convStampedAt": "2026-11-04"
+  },
+  {
+   "name": "M83(476080)",
+   "type": "discovery",
+   "market": "韓",
+   "flagDate": "2026-11-04",
+   "signals": [
+    "신제품개발완료(딥페이크판별)"
+   ],
+   "theme": "AI보안/딥페이크탐지",
+   "status": "pending",
+   "checks": [],
+   "convScore": 4,
+   "convTier": "mid",
+   "convSignals": [
+    "구체촉발재",
+    "틈새레이더"
+   ],
+   "convStampedAt": "2026-11-04"
+  },
+  {
+   "name": "피스피스스튜디오(462510)",
+   "type": "discovery",
+   "market": "韓",
+   "flagDate": "2026-11-04",
+   "signals": [
+    "해외판매거점확대"
+   ],
+   "theme": "K뷰티/소비재 해외진출",
+   "status": "pending",
+   "checks": [],
+   "convScore": 2,
+   "convTier": "low",
+   "convSignals": [
+    "틈새레이더"
+   ],
+   "convStampedAt": "2026-11-04"
+  },
+  {
+   "name": "에스비비테크(389500)",
+   "type": "discovery",
+   "market": "韓",
+   "flagDate": "2026-11-04",
+   "signals": [
+    "로보월드2026신제품전시",
+    "기존계약보유(19.2억)"
+   ],
+   "theme": "로봇/휴머노이드",
+   "status": "pending",
+   "checks": [],
+   "convScore": 7,
+   "convTier": "high",
+   "convSignals": [
+    "반복포착",
+    "승세테마",
+    "구체촉발재"
+   ],
+   "convStampedAt": "2026-11-04"
   }
  ],
  "stats": {
@@ -69992,8 +70070,8 @@
   "miss": 164,
   "hitRate": 24.3,
   "avgD3ChangePct": 0.32,
-  "pending": 281,
-  "total": 668,
+  "pending": 285,
+  "total": 672,
   "byType": {
    "leading": {
     "verified": 163,
