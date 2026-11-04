@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-04T11:30:15+09:00",
+ "updatedAt": "2026-11-05T03:34:03+09:00",
  "cases": [
   {
    "name": "코세스(058610)",
@@ -70061,6 +70061,85 @@
     "구체촉발재"
    ],
    "convStampedAt": "2026-11-04"
+  },
+  {
+   "name": "머큐리(100590)",
+   "type": "leading",
+   "market": "韓",
+   "flagDate": "2026-11-05",
+   "signals": [
+    "공급계약확대",
+    "캐파확대",
+    "반복포착"
+   ],
+   "theme": "AI전력/데이터센터",
+   "status": "pending",
+   "checks": [],
+   "convScore": 4,
+   "convTier": "mid",
+   "convSignals": [
+    "반복포착",
+    "구체촉발재",
+    "⚠️열세테마",
+    "틈새레이더"
+   ],
+   "convStampedAt": "2026-11-05"
+  },
+  {
+   "name": "캠시스(050110)",
+   "type": "leading",
+   "market": "韓",
+   "flagDate": "2026-11-05",
+   "signals": [
+    "신규매출원",
+    "공백후재등장"
+   ],
+   "theme": "AI가전/로봇비전",
+   "status": "pending",
+   "checks": [],
+   "convScore": 7,
+   "convTier": "high",
+   "convSignals": [
+    "반복포착",
+    "승세테마",
+    "틈새레이더"
+   ],
+   "convStampedAt": "2026-11-05"
+  },
+  {
+   "name": "브이원텍(251630)",
+   "type": "leading",
+   "market": "韓",
+   "flagDate": "2026-11-05",
+   "signals": [
+    "소규모레퍼런스수주",
+    "공백후재등장"
+   ],
+   "theme": "로봇/반도체자동화",
+   "status": "pending",
+   "checks": [],
+   "convScore": 9,
+   "convTier": "high",
+   "convSignals": [
+    "반복포착",
+    "승세테마",
+    "구체촉발재",
+    "틈새레이더"
+   ],
+   "convStampedAt": "2026-11-05"
+  },
+  {
+   "name": "심텍",
+   "type": "warning",
+   "market": "韓",
+   "flagDate": "2026-11-05",
+   "signals": [
+    "이미반영",
+    "3분기호실적급등9~10%"
+   ],
+   "theme": "반도체장비",
+   "status": "pending",
+   "checks": []
   }
  ],
  "stats": {
@@ -70070,8 +70149,8 @@
   "miss": 164,
   "hitRate": 24.3,
   "avgD3ChangePct": 0.32,
-  "pending": 285,
-  "total": 672,
+  "pending": 289,
+  "total": 676,
   "byType": {
    "leading": {
     "verified": 163,

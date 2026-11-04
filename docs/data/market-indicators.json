@@ -1,108 +1,108 @@
 {
-  "updatedAt": "2026-11-04T11:15:00+09:00",
+  "updatedAt": "2026-11-05T07:05:00+09:00",
   "session": "AM",
-  "note": "11/3(현지) 美 반도체주 반등(AMD 깜짝 실적)에도 애플 마진 전망 실망에 다우만 약세. 이 반도체 강세가 11/4 코스피 개장을 +2.43%까지 끌어올렸으나 외국인 매도에 오전 중 상승분을 반납하며 하락 전환(코스닥 700선 붕괴). 한국 10월 CPI는 2.8%로 컨센서스(2.8%)에 부합하며 2개월 연속 2%대 후반 둔화. CNN 공포탐욕지수는 Extreme Fear 구간까지 악화.",
+  "note": "美 중간선거(11/3)에서 민주당이 상·하원을 모두 탈환하는 '블루 쓰나미'가 발생. 정치 불확실성 해소에 11/4 뉴욕증시는 장중 큰 폭 반등했으나 다우는 결국 소폭 하락 마감하는 등 엇갈렸고, VIX는 전일 20선에서 17.89로 급락(안도)했음에도 CNN 공포탐욕지수는 Extreme Fear(19)에 머물렀다. 코스피·코스닥은 11/3 급락(-3.59%/-4.08%) 후 11/4 반등 마감(+0.62%/+1.50%)했으나 외국인은 2거래일째 대규모 순매도. 금값은 달러 약세 속 온스당 4,000달러를 넘어 급등.",
   "stock_fng": {
-    "value": 23,
+    "value": 19,
     "label": "Extreme Fear",
-    "source": "https://www.benzinga.com/markets/market-summary/26/11/62806764/nasdaq-dips-over-1-as-tech-stocks-fall-investor-sentiment-weakens-fear-greed-index-moves-to-extreme-fear-zone"
+    "source": "https://www.benzinga.com/markets/market-summary/26/11/62852873/nasdaq-jumps-over-200-points-as-chip-stocks-gain-fear-greed-index-remains-in-extreme-fear-zone"
   },
   "indices": [
     {
       "name": "코스피",
-      "value": "5,786.13→하락전환",
-      "change": "11/4 개장 +2.43%(+137.34p, AMD 실적발 반도체 강세)했으나 외국인 매도 속 오전 10시55분경 상승분 반납·하락 전환 · 전거래일(11/3) -3.59%(5,648.79) 급락",
-      "source": "https://view.asiae.co.kr/article/2026110410553705710"
+      "value": "5,683.80",
+      "change": "+0.62%(+35.01p, 11/4 종가) · 전일(11/3) -3.59%(5,648.79) 급락 후 반등, 장중 변동폭 7%p 이상",
+      "source": "https://m.sedaily.com/article/20110198"
     },
     {
       "name": "코스닥",
-      "value": "700선 붕괴",
-      "change": "11/4 개장 +1.61%(715.74)했으나 오전 9시47분경 700선 붕괴·600선대 진입 · 전거래일(11/3) -4.08%(704.39) 급락",
-      "source": "https://www.fnnews.com/news/202611040947188774"
+      "value": "714.95",
+      "change": "+1.50%(+10.56p, 11/4 종가) · 전일(11/3) -4.08%(704.39) 급락 후 반등",
+      "source": "https://www.news1.kr/finance/market-exr/6343010"
     },
     {
       "name": "S&P 500",
-      "value": "7,569",
-      "change": "+0.36%(11/3 종가, 반도체주 반등)",
-      "source": "https://www.stocktitan.net/articles/stock-market-today-live-november-3-2026"
+      "value": "7,568.92",
+      "change": "+0.4%(+27.52p, 11/4 종가) · 장중 한때 +1.7~1.9%까지 급등했다가 되돌림",
+      "source": "https://finance.yahoo.com/markets/stocks/articles/stock-market-news-nov-4-132500586.html"
     },
     {
       "name": "나스닥",
-      "value": "25,372",
-      "change": "+0.83%(11/3 종가, AMD 실적 서프라이즈에 반도체주 견인)",
-      "source": "https://www.stocktitan.net/articles/stock-market-today-live-november-3-2026"
+      "value": "25,372.01",
+      "change": "+0.8%(+207.69p, 11/4 종가, 반도체주 강세)",
+      "source": "https://finance.yahoo.com/markets/stocks/articles/stock-market-news-nov-4-132500586.html"
     },
     {
       "name": "다우",
-      "value": "51,787",
-      "change": "-0.38%(11/3 종가, 애플 마진 전망 실망에 약세)",
-      "source": "https://www.stocktitan.net/articles/stock-market-today-live-november-3-2026"
+      "value": "51,786.72",
+      "change": "-0.4%(-197.26p, 11/4 종가) · 장중 한때 +1,000p(+1.9%) 급등 출발했으나 결국 소폭 하락 마감",
+      "source": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-nov-04-2026"
     },
     {
       "name": "VIX",
-      "value": "20.29",
-      "change": "11/3 종가, JOLTS 구인건수 예상 상회에 금리 상승 동반 변동성 확대",
-      "source": "https://www.babypips.com/news/daily-financial-forex-market-recap-2026-11-03"
+      "value": "17.89",
+      "change": "11/4 종가, 전일(11/3) 20.83에서 급락 — 중간선거 불확실성 해소에 따른 안도",
+      "source": "https://www.gurufocus.com/economic_indicators/234/vix"
     },
     {
       "name": "美 10년물",
-      "value": "4.96%",
-      "change": "+5bp(11/3, JOLTS 서프라이즈)",
-      "source": "https://www.babypips.com/news/daily-financial-forex-market-recap-2026-11-03"
+      "value": "4.92%",
+      "change": "-5bp(11/4) · 민주당 압승 프라이싱에 따른 안전자산 수요",
+      "source": "https://www.tokenpost.com/news/investing/48435"
     },
     {
       "name": "달러인덱스(DXY)",
-      "value": "101.9",
-      "change": "+0.1%(11/3, 거의 보합)",
-      "source": "https://www.babypips.com/news/daily-financial-forex-market-recap-2026-11-03"
+      "value": "101.35",
+      "change": "-0.5%(11/4, 장중 101.1까지 하락) · 블루 쓰나미發 성장둔화·AI규제 우려",
+      "source": "https://www.fxstreet.com/analysis/us-dollar-breaks-below-10150-as-democrats-sweep-congress-202611041603"
     },
     {
       "name": "원/달러",
-      "value": "1,341.0",
-      "change": "-2.8원(11/3 종가, 중간선거 관망·유가 하락)",
-      "source": "https://www.segye.com/newsView/20261103514833"
+      "value": "1,341.5",
+      "change": "+0.5원(11/4 15:30 기준가, 거의 보합) · 뉴욕장에서는 1,330원대 후반까지 하락",
+      "source": "https://www.fnnews.com/news/202611041536386810"
     },
     {
       "name": "美 기준금리",
       "value": "3.75~4.00%",
-      "change": "0(10/29 FOMC 동결, 워시 의장 포워드가이던스 거부 재확인) · 12월 인상 확률 71~85%(CME FedWatch 소스별 상이)",
-      "source": "https://www.noradarealestate.com/blog/interest-rates-hike-odds-december-2026-jump-85-after-feds-recent-decision/"
+      "change": "0(10/29 FOMC 동결, 10:2 표결·쿡·해맥 인상 소수의견) · 다음 FOMC 12/8~9",
+      "source": "https://en.sedaily.com/international/2026/10/29/fed-holds-rates-steady-at-375-percent-400-percent"
     },
     {
       "name": "한국 기준금리",
       "value": "3.00%",
       "change": "0(10/22 금통위 전원일치 동결) · 다음 결정 11/26",
-      "source": "https://marketlog.co.kr/rate-decision-calendar-2026/"
+      "source": "https://en.sedaily.com/finance/2026/10/22/bank-of-korea-holds-base-rate-at-300-percent"
     },
     {
       "name": "국고채 3년물",
-      "value": "3.715%",
-      "change": "하락 추세 지속(10월 한달 약 -30bp)",
-      "source": "https://biz.sbs.co.kr/article/20000343377"
+      "value": "3.714%",
+      "change": "블루 쓰나미發 금리 하락·외국인 매수, 2.2bp↓(11/4)",
+      "source": "https://news.einfomax.co.kr/news/articleView.html?idxno=4443064"
     },
     {
       "name": "美 CPI",
       "value": "3.7%",
-      "change": "9월 발표치(전월 3.4%→3.7%, 근원 2.6%) 유지 · 10월치는 11월 중 발표 예정",
-      "source": "https://www.cnbc.com/2026/10/14/cpi-inflation-report-september-2026.html"
+      "change": "9월 발표치(근원 2.6%) 유지 · 10월치는 11/10 발표 예정",
+      "source": "https://tradingeconomics.com/united-states/inflation-cpi"
     },
     {
       "name": "韓 CPI",
       "value": "2.8%",
-      "change": "-0.1%p(9월 2.9%→10월 2.8%, 컨센서스 2.8% 부합) · 2개월 연속 2%대 후반, 석유류 +14.9%·가공식품 +2.9%",
-      "source": "https://www.newspim.com/news/view/20261103000301"
+      "change": "-0.1%p(9월 2.9%→10월 2.8%, 컨센서스 2.9% 하회) · 2개월 연속 2%대 후반, 석유류 +14.9%·가공식품 +2.9%",
+      "source": "https://www.newspim.com/news/view/20261103000090"
     },
     {
       "name": "금(Gold)",
-      "value": "3,922",
-      "change": "-0.65%(11/3, 美 국채금리 상승·강달러 영향)",
-      "source": "https://www.riotimesonline.com/gold-silver-precious-metals-tuesday-november-3-2026/"
+      "value": "4,050",
+      "change": "+3%대(11/4 장중 4,040~4,068달러/온스 급등) · 달러 약세·안전자산 수요",
+      "source": "https://www.cnbc.com/select/the-price-of-gold-today-nov-4-2026/"
     },
     {
       "name": "WTI(원유)",
-      "value": "96.09",
-      "change": "-0.38%(11/3 종가, 10/14 이후 최저) · 브렌트유 103.60(-1.12%, 10/7 이후 최저) — 美-이란·러-우크라 종전 기대감",
-      "source": "https://news.sbs.co.kr/english/article.do?news_id=N1008829420"
+      "value": "72.5",
+      "change": "美-이란·러-우크라 종전 기대감 지속",
+      "source": "https://www.hankyung.com/article/202611045580i"
     }
   ]
 }
