@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-11-05T07:05:00+09:00",
+  "updatedAt": "2026-11-05T11:30:00+09:00",
   "session": "AM",
-  "note": "美 중간선거(11/3)에서 민주당이 상·하원을 모두 탈환하는 '블루 쓰나미'가 발생. 정치 불확실성 해소에 11/4 뉴욕증시는 장중 큰 폭 반등했으나 다우는 결국 소폭 하락 마감하는 등 엇갈렸고, VIX는 전일 20선에서 17.89로 급락(안도)했음에도 CNN 공포탐욕지수는 Extreme Fear(19)에 머물렀다. 코스피·코스닥은 11/3 급락(-3.59%/-4.08%) 후 11/4 반등 마감(+0.62%/+1.50%)했으나 외국인은 2거래일째 대규모 순매도. 금값은 달러 약세 속 온스당 4,000달러를 넘어 급등.",
+  "note": "美 중간선거(11/3) '블루 쓰나미'(민주당 상·하원 탈환) 안도감에 11/4 뉴욕 3대 지수는 동반 급등(다우 +3.03%·19개월 만 최대폭)했으나, 민주당의 AI데이터센터 규제 강화 우려로 반도체·데이터센터주만 역주행(필라델피아반도체지수 -3.1%, 엔비디아 -3.1%)했다. 이 규제 공포가 11/5 한국장을 직격, 코스피·코스닥 모두 장중 매도 사이드카가 발동되며 코스피가 5%대, SK하이닉스 -9%·삼성전자 -6%대 폭락했다(오전 10~11시 기준 진행 중인 급락장).",
   "stock_fng": {
     "value": 19,
     "label": "Extreme Fear",
@@ -10,57 +10,57 @@
   "indices": [
     {
       "name": "코스피",
-      "value": "5,683.80",
-      "change": "+0.62%(+35.01p, 11/4 종가) · 전일(11/3) -3.59%(5,648.79) 급락 후 반등, 장중 변동폭 7%p 이상",
-      "source": "https://m.sedaily.com/article/20110198"
+      "value": "5,390.62",
+      "change": "-5.16%(-293.18p, 11/5 오전 10:22 기준) · 10:16 매도 사이드카 발동(올해 56번째), 반도체 대형주 급락 주도",
+      "source": "https://www.jnilbo.com/news/articleView.html?idxno=90000079862"
     },
     {
       "name": "코스닥",
-      "value": "714.95",
-      "change": "+1.50%(+10.56p, 11/4 종가) · 전일(11/3) -4.08%(704.39) 급락 후 반등",
-      "source": "https://www.news1.kr/finance/market-exr/6343010"
+      "value": "682.30",
+      "change": "-4.57%(11/5 오전 10:22 기준) · 코스닥도 동반 사이드카권 진입",
+      "source": "https://www.job-post.co.kr/news/articleView.html?idxno=236653"
     },
     {
       "name": "S&P 500",
-      "value": "7,568.92",
-      "change": "+0.4%(+27.52p, 11/4 종가) · 장중 한때 +1.7~1.9%까지 급등했다가 되돌림",
-      "source": "https://finance.yahoo.com/markets/stocks/articles/stock-market-news-nov-4-132500586.html"
+      "value": "7,688.62",
+      "change": "+1.58%(+119.70p, 11/4 종가) · 블루 쓰나미發 안도 랠리",
+      "source": "https://www.hankyung.com/article/2026110568957"
     },
     {
       "name": "나스닥",
-      "value": "25,372.01",
-      "change": "+0.8%(+207.69p, 11/4 종가, 반도체주 강세)",
-      "source": "https://finance.yahoo.com/markets/stocks/articles/stock-market-news-nov-4-132500586.html"
+      "value": "25,736.51",
+      "change": "+1.44%(+364.50p, 11/4 종가) · 단 반도체(필라델피아반도체지수 -3.1%, 6개월 최저)는 역주행",
+      "source": "https://www.mediapen.com/news/view/1135270"
     },
     {
       "name": "다우",
-      "value": "51,786.72",
-      "change": "-0.4%(-197.26p, 11/4 종가) · 장중 한때 +1,000p(+1.9%) 급등 출발했으나 결국 소폭 하락 마감",
-      "source": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-nov-04-2026"
+      "value": "53,356.12",
+      "change": "+3.03%(+1,569.40p, 11/4 종가) · 19개월 만 최대 상승폭, 중간선거 불확실성 해소",
+      "source": "https://www.hankyung.com/article/2026110568957"
     },
     {
       "name": "VIX",
-      "value": "17.89",
-      "change": "11/4 종가, 전일(11/3) 20.83에서 급락 — 중간선거 불확실성 해소에 따른 안도",
-      "source": "https://www.gurufocus.com/economic_indicators/234/vix"
+      "value": "16.93",
+      "change": "11/4 종가, -18~20%대 급락 · 선거 불확실성 해소에 따른 안도(단 아시아 11/5 반도체 쇼크는 미반영)",
+      "source": "https://cappnotes.substack.com/p/closing-look-wednesday-november-4"
     },
     {
       "name": "美 10년물",
-      "value": "4.92%",
-      "change": "-5bp(11/4) · 민주당 압승 프라이싱에 따른 안전자산 수요",
-      "source": "https://www.tokenpost.com/news/investing/48435"
+      "value": "4.90%",
+      "change": "11/4 종가 전후, 소폭 하락 · 민주당 압승發 안전자산 수요",
+      "source": "https://ko.tradingeconomics.com/united-states/government-bond-yield"
     },
     {
       "name": "달러인덱스(DXY)",
-      "value": "101.35",
-      "change": "-0.5%(11/4, 장중 101.1까지 하락) · 블루 쓰나미發 성장둔화·AI규제 우려",
-      "source": "https://www.fxstreet.com/analysis/us-dollar-breaks-below-10150-as-democrats-sweep-congress-202611041603"
+      "value": "101.42",
+      "change": "-0.44%(11/4 종가)",
+      "source": "https://www.investing.com/indices/usdollar-historical-data"
     },
     {
       "name": "원/달러",
-      "value": "1,341.5",
-      "change": "+0.5원(11/4 15:30 기준가, 거의 보합) · 뉴욕장에서는 1,330원대 후반까지 하락",
-      "source": "https://www.fnnews.com/news/202611041536386810"
+      "value": "1,338.80",
+      "change": "-3.70원(11/5 하나은행 매매기준율) · 코스피 폭락 중에도 달러 약세가 더 커 원화는 소폭 강세(이례적 디커플링)",
+      "source": "https://www.job-post.co.kr/news/articleView.html?idxno=236647"
     },
     {
       "name": "美 기준금리",
@@ -83,26 +83,26 @@
     {
       "name": "美 CPI",
       "value": "3.7%",
-      "change": "9월 발표치(근원 2.6%) 유지 · 10월치는 11/10 발표 예정",
+      "change": "9월 발표치 유지 · 10월치는 11/10 발표 예정(셧다운 여파로 지연 가능성)",
       "source": "https://tradingeconomics.com/united-states/inflation-cpi"
     },
     {
       "name": "韓 CPI",
       "value": "2.8%",
-      "change": "-0.1%p(9월 2.9%→10월 2.8%, 컨센서스 2.9% 하회) · 2개월 연속 2%대 후반, 석유류 +14.9%·가공식품 +2.9%",
+      "change": "-0.1%p(9월 2.9%→10월 2.8%, 컨센서스 2.9% 하회) · 2개월 연속 2%대 후반",
       "source": "https://www.newspim.com/news/view/20261103000090"
     },
     {
       "name": "금(Gold)",
-      "value": "4,050",
-      "change": "+3%대(11/4 장중 4,040~4,068달러/온스 급등) · 달러 약세·안전자산 수요",
-      "source": "https://www.cnbc.com/select/the-price-of-gold-today-nov-4-2026/"
+      "value": "4,043",
+      "change": "+2.52%(11/4, 장중 4,040~4,073달러/온스) · 단 일부 보도는 4,000달러 하회 전환 언급, 변동성 확대",
+      "source": "https://newsroom.stockplus.com/breaking-news/42125"
     },
     {
       "name": "WTI(원유)",
       "value": "72.5",
-      "change": "美-이란·러-우크라 종전 기대감 지속",
-      "source": "https://www.hankyung.com/article/202611045580i"
+      "change": "美-이란·러-우크라 종전 기대감에 급락세 지속(블루 쓰나미發 지정학 완화 기대)",
+      "source": "https://www.jnilbo.com/news/articleView.html?idxno=90000079762"
     }
   ]
 }
