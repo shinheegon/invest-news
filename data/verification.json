@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-05T11:30:59+09:00",
+ "updatedAt": "2026-11-06T11:38:28+09:00",
  "cases": [
   {
    "name": "코세스(058610)",
@@ -70140,6 +70140,141 @@
    "theme": "반도체장비",
    "status": "pending",
    "checks": []
+  },
+  {
+   "name": "포커스에이아이(331380)",
+   "type": "leading",
+   "market": "韓",
+   "flagDate": "2026-11-06",
+   "signals": [
+    "구체촉발재",
+    "4일연속반복"
+   ],
+   "theme": "AI반도체설계(엣지NPU)",
+   "status": "pending",
+   "checks": [],
+   "convScore": 5,
+   "convTier": "high",
+   "convSignals": [
+    "반복포착",
+    "승세테마"
+   ],
+   "convStampedAt": "2026-11-06"
+  },
+  {
+   "name": "오리엔트정공(065500)",
+   "type": "leading",
+   "market": "韓",
+   "flagDate": "2026-11-06",
+   "signals": [
+    "기관공인촉발재",
+    "한달공백후재등장"
+   ],
+   "theme": "피지컬AI/로봇",
+   "status": "pending",
+   "checks": [],
+   "convScore": 4,
+   "convTier": "mid",
+   "convSignals": [
+    "승세테마",
+    "틈새레이더"
+   ],
+   "convStampedAt": "2026-11-06"
+  },
+  {
+   "name": "머큐리(100590)",
+   "type": "discovery",
+   "market": "韓",
+   "flagDate": "2026-11-06",
+   "signals": [
+    "구체촉발재(KT계약확대+생산거점)"
+   ],
+   "theme": "AI데이터센터/통신장비",
+   "status": "pending",
+   "checks": [],
+   "convScore": 4,
+   "convTier": "mid",
+   "convSignals": [
+    "반복포착",
+    "구체촉발재",
+    "⚠️열세테마",
+    "틈새레이더"
+   ],
+   "convStampedAt": "2026-11-06"
+  },
+  {
+   "name": "캠시스(050110)",
+   "type": "warning",
+   "market": "韓",
+   "flagDate": "2026-11-06",
+   "signals": [
+    "이미상한가반영"
+   ],
+   "theme": "AI가전/로봇비전",
+   "status": "pending",
+   "checks": []
+  },
+  {
+   "name": "대동기어(008830)",
+   "type": "warning",
+   "market": "韓",
+   "flagDate": "2026-11-06",
+   "signals": [
+    "이미누적38회부상"
+   ],
+   "theme": "로봇감속기/EV",
+   "status": "pending",
+   "checks": []
+  },
+  {
+   "name": "삼성전자(005930)",
+   "type": "warning",
+   "market": "韓",
+   "flagDate": "2026-11-06",
+   "signals": [
+    "급락당사자",
+    "서킷브레이커"
+   ],
+   "theme": "반도체",
+   "status": "pending",
+   "checks": []
+  },
+  {
+   "name": "SK하이닉스(000660)",
+   "type": "warning",
+   "market": "韓",
+   "flagDate": "2026-11-06",
+   "signals": [
+    "급락당사자",
+    "서킷브레이커"
+   ],
+   "theme": "반도체",
+   "status": "pending",
+   "checks": []
+  },
+  {
+   "name": "파두(440110)",
+   "type": "warning",
+   "market": "韓",
+   "flagDate": "2026-11-06",
+   "signals": [
+    "AI반도체설계셀오프직격"
+   ],
+   "theme": "AI반도체설계(팹리스/IP)",
+   "status": "pending",
+   "checks": []
+  },
+  {
+   "name": "자람테크놀로지(389020)",
+   "type": "warning",
+   "market": "韓",
+   "flagDate": "2026-11-06",
+   "signals": [
+    "AI반도체설계셀오프직격"
+   ],
+   "theme": "AI반도체설계(팹리스/IP)",
+   "status": "pending",
+   "checks": []
   }
  ],
  "stats": {
@@ -70149,8 +70284,8 @@
   "miss": 164,
   "hitRate": 24.3,
   "avgD3ChangePct": 0.32,
-  "pending": 289,
-  "total": 676,
+  "pending": 298,
+  "total": 685,
   "byType": {
    "leading": {
     "verified": 163,

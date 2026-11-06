@@ -1,71 +1,71 @@
 {
-  "updatedAt": "2026-11-05T11:30:00+09:00",
+  "updatedAt": "2026-11-06T11:30:00+09:00",
   "session": "AM",
-  "note": "美 중간선거(11/3) '블루 쓰나미'(민주당 상·하원 탈환) 안도감에 11/4 뉴욕 3대 지수는 동반 급등(다우 +3.03%·19개월 만 최대폭)했으나, 민주당의 AI데이터센터 규제 강화 우려로 반도체·데이터센터주만 역주행(필라델피아반도체지수 -3.1%, 엔비디아 -3.1%)했다. 이 규제 공포가 11/5 한국장을 직격, 코스피·코스닥 모두 장중 매도 사이드카가 발동되며 코스피가 5%대, SK하이닉스 -9%·삼성전자 -6%대 폭락했다(오전 10~11시 기준 진행 중인 급락장).",
+  "note": "美 중간선거(11/3) '블루웨이브'(민주당 상·하원 장악) 이후 상위 민주당 의원들이 'AI데이터센터 전국 모라토리엄'을 공개 촉구하자, 11/5(현지시간) 뉴욕 3대 지수가 동반 급락(나스닥 -5.52%·19개월 만 최대 하락, 다우 -3.44%, S&P500 -4.36%)했고 나스닥은 200일선 아래로 '기술적 조정' 진입. 필라델피아반도체지수 -12.3%, 엔비디아 -9.26%, 마이크론 -17%(대만 신규 팹 노사갈등으로 공사 중단), 퀄컴 실적전망 부진까지 겹쳤다. 이 충격이 11/6 한국장을 직격, 코스피가 개장 3분 만에 8%대 급락해 서킷브레이커(올해 11번째)·코스닥 매도사이드카가 동시 발동됐다. 20분 매매정지 후 거래재개, 오전 중 4,900~5,020선 사이에서 등락하며 패닉 진정 시도 중(이형일 부총리 F4 긴급회의 소집).",
   "stock_fng": {
-    "value": 19,
+    "value": 20,
     "label": "Extreme Fear",
     "source": "https://www.benzinga.com/markets/market-summary/26/11/62852873/nasdaq-jumps-over-200-points-as-chip-stocks-gain-fear-greed-index-remains-in-extreme-fear-zone"
   },
   "indices": [
     {
       "name": "코스피",
-      "value": "5,390.62",
-      "change": "-5.16%(-293.18p, 11/5 오전 10:22 기준) · 10:16 매도 사이드카 발동(올해 56번째), 반도체 대형주 급락 주도",
-      "source": "https://www.jnilbo.com/news/articleView.html?idxno=90000079862"
+      "value": "5,023.39",
+      "change": "-6.69%(11/6 오전 기준, 진행 중) · 개장 3분 만에 -8.76%(4,911.91)로 서킷브레이커 발동(올해 11번째) 후 20분 매매정지, 재개 후 5,000선 반짝 회복했다가 재차 밀림",
+      "source": "https://www.news1.kr/finance/market-exr/6345268"
     },
     {
       "name": "코스닥",
-      "value": "682.30",
-      "change": "-4.57%(11/5 오전 10:22 기준) · 코스닥도 동반 사이드카권 진입",
-      "source": "https://www.job-post.co.kr/news/articleView.html?idxno=236653"
+      "value": "632.20",
+      "change": "-6.81%(11/6 오전, 매도 사이드카 발동 당시 수준) · 전일(-5.11%, 678.41 마감)에 이어 이틀째 급락",
+      "source": "https://www.news1.kr/finance/general-stock/6345216"
     },
     {
       "name": "S&P 500",
-      "value": "7,688.62",
-      "change": "+1.58%(+119.70p, 11/4 종가) · 블루 쓰나미發 안도 랠리",
-      "source": "https://www.hankyung.com/article/2026110568957"
+      "value": "7,353.73",
+      "change": "-4.36%(11/5 종가) · 2025년 4월 관세쇼크 이후 최악의 하루",
+      "source": "https://journalarta.com/en/2026/11/06/wall-street-close-nasdaq-sinks-5-52-and-sp-500-falls-4-36-as-ai-stocks-slide/"
     },
     {
       "name": "나스닥",
-      "value": "25,736.51",
-      "change": "+1.44%(+364.50p, 11/4 종가) · 단 반도체(필라델피아반도체지수 -3.1%, 6개월 최저)는 역주행",
-      "source": "https://www.mediapen.com/news/view/1135270"
+      "value": "24,315.00",
+      "change": "-5.52%(11/5 종가) · 19개월 만 최대 하락, 200일 이동평균선 하회(기술적 조정 진입)",
+      "source": "https://www.fool.com/coverage/stock-market-today/2026/11/05/stock-market-today-nov-5-nasdaq-suffers-worst-day-in-18-months-as-ai-trade-comes-under-fire/"
     },
     {
       "name": "다우",
-      "value": "53,356.12",
-      "change": "+3.03%(+1,569.40p, 11/4 종가) · 19개월 만 최대 상승폭, 중간선거 불확실성 해소",
-      "source": "https://www.hankyung.com/article/2026110568957"
+      "value": "51,523.06",
+      "change": "-3.44%(-1,833.06p, 11/5 종가) · 전일 안도랠리(+3.03%) 반납",
+      "source": "https://www.cnbc.com/2026/11/04/stock-market-today-live-updates.html"
     },
     {
       "name": "VIX",
-      "value": "16.93",
-      "change": "11/4 종가, -18~20%대 급락 · 선거 불확실성 해소에 따른 안도(단 아시아 11/5 반도체 쇼크는 미반영)",
-      "source": "https://cappnotes.substack.com/p/closing-look-wednesday-november-4"
+      "value": "24.5",
+      "change": "+38.3%(11/5) · 선거 안도 랠리 하루 만에 반전, AI데이터센터 규제 공포로 급등",
+      "source": "https://www.blockmedia.co.kr/archives/1162127"
     },
     {
       "name": "美 10년물",
-      "value": "4.90%",
-      "change": "11/4 종가 전후, 소폭 하락 · 민주당 압승發 안전자산 수요",
-      "source": "https://ko.tradingeconomics.com/united-states/government-bond-yield"
+      "value": "4.83%",
+      "change": "-5bp(11/5) · 기술주 투매 속 안전자산(국채) 쏠림",
+      "source": "https://www.fnnews.com/news/202611060844367643"
     },
     {
       "name": "달러인덱스(DXY)",
-      "value": "101.42",
-      "change": "-0.44%(11/4 종가)",
-      "source": "https://www.investing.com/indices/usdollar-historical-data"
+      "value": "101.29",
+      "change": "소폭 하락(11/5 종가 기준) · 안전자산은 금·국채로 쏠림, 달러는 중립",
+      "source": "https://www.blockmedia.co.kr/archives/1162127"
     },
     {
       "name": "원/달러",
-      "value": "1,338.80",
-      "change": "-3.70원(11/5 하나은행 매매기준율) · 코스피 폭락 중에도 달러 약세가 더 커 원화는 소폭 강세(이례적 디커플링)",
-      "source": "https://www.job-post.co.kr/news/articleView.html?idxno=236647"
+      "value": "1,357.8",
+      "change": "+15.7원(11/6 오전) · 기술주 투매·외국인 순매도·역외 롱플레이에 상승 우위, 장중 1,360원대 가능성",
+      "source": "https://news.jkn.co.kr/post/1074072"
     },
     {
       "name": "美 기준금리",
       "value": "3.75~4.00%",
-      "change": "0(10/29 FOMC 동결, 10:2 표결·쿡·해맥 인상 소수의견) · 다음 FOMC 12/8~9",
+      "change": "0(10/29 FOMC 동결) · 다음 FOMC 12/8~9",
       "source": "https://en.sedaily.com/international/2026/10/29/fed-holds-rates-steady-at-375-percent-400-percent"
     },
     {
@@ -76,33 +76,33 @@
     },
     {
       "name": "국고채 3년물",
-      "value": "3.714%",
-      "change": "블루 쓰나미發 금리 하락·외국인 매수, 2.2bp↓(11/4)",
-      "source": "https://news.einfomax.co.kr/news/articleView.html?idxno=4443064"
+      "value": "3.669%",
+      "change": "블루웨이브 파급에 국고채 금리 일제히 하락",
+      "source": "https://www.yna.co.kr/view/AKR20261106033400002"
     },
     {
       "name": "美 CPI",
       "value": "3.7%",
-      "change": "9월 발표치 유지 · 10월치는 11/10 발표 예정(셧다운 여파로 지연 가능성)",
+      "change": "9월 발표치 유지(10월치는 발표 지연 가능성)",
       "source": "https://tradingeconomics.com/united-states/inflation-cpi"
     },
     {
       "name": "韓 CPI",
       "value": "2.8%",
-      "change": "-0.1%p(9월 2.9%→10월 2.8%, 컨센서스 2.9% 하회) · 2개월 연속 2%대 후반",
+      "change": "10월 2.8%(컨센 2.9% 하회), 2개월 연속 2%대 후반 둔화",
       "source": "https://www.newspim.com/news/view/20261103000090"
     },
     {
       "name": "금(Gold)",
-      "value": "4,043",
-      "change": "+2.52%(11/4, 장중 4,040~4,073달러/온스) · 단 일부 보도는 4,000달러 하회 전환 언급, 변동성 확대",
-      "source": "https://newsroom.stockplus.com/breaking-news/42125"
+      "value": "4,146",
+      "change": "이틀 연속 상승(11/5 아시아장 기준) · 블루웨이브發 안전자산 수요, 씨티 3개월 목표 4,500달러",
+      "source": "https://www.g-enews.com/article/Global-Biz/2026/11/2026110520353114149a1f309431_1"
     },
     {
       "name": "WTI(원유)",
-      "value": "72.5",
-      "change": "美-이란·러-우크라 종전 기대감에 급락세 지속(블루 쓰나미發 지정학 완화 기대)",
-      "source": "https://www.jnilbo.com/news/articleView.html?idxno=90000079762"
+      "value": "90.52",
+      "change": "+2.72%(11/5) · 선거 직후 8% 급락했다가 이란전쟁 불확실성에 재반등",
+      "source": "https://www.etoday.co.kr/news/view/2644823"
     }
   ]
 }
