@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-06T11:38:28+09:00",
+ "updatedAt": "2026-11-07T02:56:47+09:00",
  "cases": [
   {
    "name": "코세스(058610)",
@@ -70275,6 +70275,128 @@
    "theme": "AI반도체설계(팹리스/IP)",
    "status": "pending",
    "checks": []
+  },
+  {
+   "name": "파워넷(037030)",
+   "type": "leading",
+   "market": "韓",
+   "flagDate": "2026-11-07",
+   "signals": [
+    "신제품(로봇구동솔루션)",
+    "조기출몰",
+    "선행포착"
+   ],
+   "theme": "로봇/휴머노이드",
+   "status": "pending",
+   "checks": [],
+   "convScore": 6,
+   "convTier": "high",
+   "convSignals": [
+    "승세테마",
+    "구체촉발재",
+    "틈새레이더"
+   ],
+   "convStampedAt": "2026-11-07"
+  },
+  {
+   "name": "오리엔트정공(065500)",
+   "type": "leading",
+   "market": "韓",
+   "flagDate": "2026-11-07",
+   "signals": [
+    "구체촉발재(피지컬AI실증기업선정)",
+    "조기출몰",
+    "선행포착",
+    "선행Top3"
+   ],
+   "theme": "피지컬AI/로봇",
+   "status": "pending",
+   "checks": [],
+   "convScore": 9,
+   "convTier": "high",
+   "convSignals": [
+    "반복포착",
+    "승세테마",
+    "구체촉발재",
+    "틈새레이더"
+   ],
+   "convStampedAt": "2026-11-07"
+  },
+  {
+   "name": "아이엘(307180)",
+   "type": "leading",
+   "market": "韓",
+   "flagDate": "2026-11-07",
+   "signals": [
+    "신제품(리튬메탈음극장비)",
+    "내부자매수(임원9명)",
+    "반복포착17회",
+    "선행Top3"
+   ],
+   "theme": "로봇/휴머노이드",
+   "status": "pending",
+   "checks": [],
+   "convScore": 6,
+   "convTier": "high",
+   "convSignals": [
+    "반복포착",
+    "승세테마",
+    "구체촉발재",
+    "⚠️열세테마",
+    "틈새레이더"
+   ],
+   "convStampedAt": "2026-11-07"
+  },
+  {
+   "name": "에이텀(355690)",
+   "type": "leading",
+   "market": "韓",
+   "flagDate": "2026-11-07",
+   "signals": [
+    "대표이사자사주매입반복",
+    "내부자매수",
+    "반복포착19회",
+    "선행Top3"
+   ],
+   "theme": "AI전력변환",
+   "status": "pending",
+   "checks": [],
+   "convScore": 4,
+   "convTier": "mid",
+   "convSignals": [
+    "반복포착",
+    "구체촉발재",
+    "⚠️열세테마",
+    "틈새레이더"
+   ],
+   "convStampedAt": "2026-11-07"
+  },
+  {
+   "name": "한진칼(180640)",
+   "type": "warning",
+   "market": "韓",
+   "flagDate": "2026-11-07",
+   "signals": [
+    "우선주5일+200%급등",
+    "후발경고"
+   ],
+   "theme": "항공/지주",
+   "status": "pending",
+   "checks": []
+  },
+  {
+   "name": "제주항공(089590)",
+   "type": "warning",
+   "market": "韓",
+   "flagDate": "2026-11-07",
+   "signals": [
+    "유가하락수혜이미반영",
+    "이틀간+13%급등",
+    "후발경고"
+   ],
+   "theme": "항공",
+   "status": "pending",
+   "checks": []
   }
  ],
  "stats": {
@@ -70284,8 +70406,8 @@
   "miss": 164,
   "hitRate": 24.3,
   "avgD3ChangePct": 0.32,
-  "pending": 298,
-  "total": 685,
+  "pending": 304,
+  "total": 691,
   "byType": {
    "leading": {
     "verified": 163,
