@@ -3,6 +3,12 @@
   "SK하이닉스(000660)": {
    "articles": [
     {
+     "date": "2026-11-08",
+     "source": "newspim.com",
+     "title": "- SK하이닉스(000660): 11/6 이틀간 -18.91% 폭락했으나, 같은 날 외국인·기관의 순매수 1위 종목에 올랐다. HBM4 수율 60%대로 개선, 내",
+     "link": "https://www.newspim.com/news/view/20261106000396"
+    },
+    {
      "date": "2026-11-07",
      "source": "한국경제·증권",
      "title": "대범한 고수들…코스피 급락장에서 SK하이닉스 '순매수 1위'",
@@ -715,17 +721,17 @@
      "source": "한국경제·증권",
      "title": "\"정말 피가 마릅니다\"…SK하이닉스 폭등에도 개미들은 '한숨' [분석+]",
      "link": "https://www.hankyung.com/article/2026102165996"
-    },
-    {
-     "date": "2026-10-22",
-     "source": "파이낸셜뉴스",
-     "title": "\"400만 원 간다더니\"…SK하이닉스 87만원에 산 조혜련, 결국 '본전' 된 사연",
-     "link": "https://www.fnnews.com/news/202610220037205863"
     }
    ]
   },
   "삼성전자(005930)": {
    "articles": [
+    {
+     "date": "2026-11-08",
+     "source": "파이낸셜뉴스",
+     "title": "- 삼성전자(005930): 11/6 이틀간 -13.44% 폭락. 노태문 대표이사(DX부문장)가 11/6 자사주 3,000주(6.3억원)를 추가 매입(7월말 이후",
+     "link": "https://www.fnnews.com/news/202611061819420281"
+    },
     {
      "date": "2026-11-07",
      "source": "한국경제·경제",
@@ -1439,12 +1445,6 @@
      "source": "한국경제·증권",
      "title": "삼성전자 팔고 '이 종목' 샀다…급락장서 초고수들의 선택은",
      "link": "https://www.hankyung.com/article/202610153772i"
-    },
-    {
-     "date": "2026-10-15",
-     "source": "한국경제·증권",
-     "title": "\"삼성전자, CXMT와 기술격차 최대 7년…시장 우려 과도\"",
-     "link": "https://www.hankyung.com/article/2026101528166"
     }
    ]
   },
@@ -3926,6 +3926,12 @@
   },
   "미래에셋증권(006800)": {
    "articles": [
+    {
+     "date": "2026-11-08",
+     "source": "연합뉴스·경제",
+     "title": "미래에셋증권도 3만9천여명 정보유출…당국에 전날 밤 신고(종합2보)",
+     "link": "https://www.yna.co.kr/view/AKR20261107014453008"
+    },
     {
      "date": "2026-11-07",
      "source": "파이낸셜·증권",
@@ -10224,6 +10230,12 @@
   },
   "한미반도체(042700)": {
    "articles": [
+    {
+     "date": "2026-11-08",
+     "source": "ajunews.com",
+     "title": "- 한미반도체(042700): 11/4 자사주 267억원 규모 매입 공시. 고객사(SK하이닉스·마이크론) 요청으로 TC본더 수주 자율공시는 중단된 상태라 신규 수",
+     "link": "https://www.ajunews.com/view/20260201165416006"
+    },
     {
      "date": "2026-11-06",
      "source": "joongangenews.com",
@@ -48675,6 +48687,12 @@
   "Anthropic": {
    "articles": [
     {
+     "date": "2026-11-08",
+     "source": "MarketWatch",
+     "title": "The AI trade is now counting on Anthropic’s IPO — but it couldn’t be happening at a worse time",
+     "link": "https://www.marketwatch.com/story/the-ai-trade-is-now-counting-on-anthropics-ipo-but-it-couldnt-be-happening-at-a-worse-time-8bd0f1c4?mod=mw_rss_topstories"
+    },
+    {
      "date": "2026-11-04",
      "source": "MarketWatch",
      "title": "Anthropic’s IPO is a high-stakes referendum on Big Tech — and this chart proves it",
@@ -66027,6 +66045,12 @@
   "스타벅스(SBUX)": {
    "articles": [
     {
+     "date": "2026-11-08",
+     "source": "한국경제·경제",
+     "title": "홍대는 K뷰티, 성수는 북쪽으로…스타벅스로 알아본 상권 변화 [권용훈의 트렌드워치]",
+     "link": "https://www.hankyung.com/article/202611060905i"
+    },
+    {
      "date": "2026-11-06",
      "source": "연합뉴스·경제",
      "title": "[게시판] 스타벅스, 겨울 e-프리퀀시 스티커 더블 적립 행사",
@@ -69653,5 +69677,5 @@
    ]
   }
  },
- "updatedAt": "2026-11-07T10:44:34+09:00"
+ "updatedAt": "2026-11-08T01:17:34+09:00"
 }
