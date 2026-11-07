@@ -1469,6 +1469,12 @@
      "link": "https://www.yna.co.kr/view/AKR20261106143100008"
     },
     {
+     "date": "2026-11-07",
+     "source": "아시아경제",
+     "title": "차는 더 팔아도 이익은 줄고…현대차의 '로봇' 승부수[주末머니]",
+     "link": "https://view.asiae.co.kr/article/2026110516151055280"
+    },
+    {
      "date": "2026-11-06",
      "source": "파이낸셜·증권",
      "title": "\"현대차 내년 영업익 8% 급감\" 목표주가 '줄줄줄'…SK텔레콤, AI DC·앤트로픽 지분가치 낮춰 목표가↓ [株토피아]",
@@ -2163,12 +2169,6 @@
      "source": "한국경제·증권",
      "title": "로봇분리 실망에 동반 급락한 현대차 3인방…개인 투자자들은 \"저가매수 기회\"",
      "link": "https://www.hankyung.com/article/202609030948i"
-    },
-    {
-     "date": "2026-09-02",
-     "source": "한국경제·경제",
-     "title": "美·캐나다 관세전쟁…현대차·기아 '반사이익' 기대",
-     "link": "https://www.hankyung.com/article/2026090202561"
     }
    ]
   },
@@ -3931,6 +3931,60 @@
      "source": "파이낸셜·증권",
      "title": "미래에셋증권, 'Global AI Festival 2026' 성료..글로벌 AI 금융인재 발굴",
      "link": "https://www.fnnews.com/news/202611061524123827"
+    },
+    {
+     "date": "2026-11-07",
+     "source": "파이낸셜·증권",
+     "title": "미래에셋증권 해킹에 고객 3800여명 계좌번호 유출…임직원 정보도 빠져나가",
+     "link": "https://www.fnnews.com/news/202611070825226459"
+    },
+    {
+     "date": "2026-11-07",
+     "source": "파이낸셜·증권",
+     "title": "미래에셋증권 해킹 사고…고객·임직원 3만9000여명 정보 유출",
+     "link": "https://www.fnnews.com/news/202611070803069202"
+    },
+    {
+     "date": "2026-11-07",
+     "source": "파이낸셜·증권",
+     "title": "[속보] 미래에셋증권도 해킹 피해…고객·임직원 정보 일부 유출",
+     "link": "https://www.fnnews.com/news/202611070752505816"
+    },
+    {
+     "date": "2026-11-07",
+     "source": "연합인포맥스",
+     "title": "미래에셋증권도 해킹…고객 계좌번호·임직원 3만5천명 정보 유출",
+     "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4443581"
+    },
+    {
+     "date": "2026-11-07",
+     "source": "연합인포맥스",
+     "title": "미래에셋증권, 고객 3천800명 계좌번호·임직원 3만5천명 정보 유출(종합)",
+     "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4443587"
+    },
+    {
+     "date": "2026-11-07",
+     "source": "연합뉴스·경제",
+     "title": "해킹 대책 문제없나…미래에셋증권도 3만9천여명 정보유출(종합)",
+     "link": "https://www.yna.co.kr/view/AKR20261107014452008"
+    },
+    {
+     "date": "2026-11-07",
+     "source": "연합뉴스·경제",
+     "title": "미래에셋증권도 해킹…고객 3천800여명·임직원 3만5천여명 정보 유출",
+     "link": "https://www.yna.co.kr/view/AKR20261107014451008"
+    },
+    {
+     "date": "2026-11-07",
+     "source": "연합뉴스·경제",
+     "title": "[속보] 미래에셋증권도 해킹…고객·임직원 정보 일부 유출",
+     "link": "https://www.yna.co.kr/view/AKR20261107014400008"
+    },
+    {
+     "date": "2026-11-07",
+     "source": "아시아경제",
+     "title": "미래에셋증권 \"中알리바바와 글로벌 대학생 AI 공모전 개최\"",
+     "link": "https://view.asiae.co.kr/article/2026110615404839406"
     },
     {
      "date": "2026-10-31",
@@ -5797,6 +5851,18 @@
   "엔비디아(NVDA)": {
    "articles": [
     {
+     "date": "2026-11-07",
+     "source": "연합인포맥스",
+     "title": "&quot;韓증시 바닥쳤나&quot;…코어위브·엔비디아 등 빅 이벤트 '주목'",
+     "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4443586"
+    },
+    {
+     "date": "2026-11-07",
+     "source": "연합인포맥스",
+     "title": "&quot;TSMC, 첨단 AI 메모리 반도체 생산 검토…엔비디아 요청&quot;",
+     "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4443572"
+    },
+    {
      "date": "2026-11-06",
      "source": "한국경제·증권",
      "title": "엔비디아 '강력 매수' 유지…루멘텀 인수 경쟁 가능성 부각[월가 업&다운]",
@@ -6503,18 +6569,6 @@
      "source": "한국경제·경제",
      "title": "엔비디아, 허깅페이스 130억달러 인수…AI 유통망까지 품는다",
      "link": "https://www.hankyung.com/article/202609043447i"
-    },
-    {
-     "date": "2026-09-04",
-     "source": "한국경제·경제",
-     "title": "[외신 에스프레소 영상] 18조원 베팅…엔비디아가 허깅페이스를 인수한 진짜 이유",
-     "link": "https://www.hankyung.com/article/202609043408i"
-    },
-    {
-     "date": "2026-09-04",
-     "source": "연합인포맥스",
-     "title": "캐시 우드, AMD 팔고 엔비디아·브로드컴 매수…포트폴리오 재편",
-     "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4433510"
     }
    ]
   },
@@ -24391,6 +24445,12 @@
   "오리온(271560)": {
    "articles": [
     {
+     "date": "2026-11-07",
+     "source": "연합뉴스·경제",
+     "title": "[신상잇슈] 오리온 '닥터유 단백질바 저당'·bhc '양념킹'",
+     "link": "https://www.yna.co.kr/view/AKR20261106092500030"
+    },
+    {
      "date": "2026-11-06",
      "source": "연합인포맥스",
      "title": "오리온, 중국·러시아서 잘 버네…주주에게 얼마 돌려줄까",
@@ -34219,6 +34279,12 @@
   "한화(000880)": {
    "articles": [
     {
+     "date": "2026-11-07",
+     "source": "연합인포맥스",
+     "title": "비스마야 미수금 받은 한화…'이라크 수주' 상흔 아물어 가나",
+     "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4443585"
+    },
+    {
      "date": "2026-11-05",
      "source": "한국경제·증권",
      "title": "[단독] SK 7조·한화 5조·LG 4.5조…'분위기 심상치 않다' 비상",
@@ -36929,6 +36995,12 @@
   "에쓰오일(010950)": {
    "articles": [
     {
+     "date": "2026-11-07",
+     "source": "연합인포맥스",
+     "title": "에쓰오일·SK이노, 일주일 새 두 자릿수↓…유가 급락에 정유주 '휘청'",
+     "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4443589"
+    },
+    {
      "date": "2026-11-04",
      "source": "한국경제·증권",
      "title": "에쓰오일 '피크아웃 공포' 커졌다",
@@ -37069,6 +37141,12 @@
      "source": "한국경제·경제",
      "title": "[속보] 법원, '회원 기록 무단수집' 쿠팡 2천억대 과징금 효력정지",
      "link": "https://www.hankyung.com/article/2026110607997"
+    },
+    {
+     "date": "2026-11-07",
+     "source": "아시아경제",
+     "title": "'탈팡' 이전으로 고객 회복한 쿠팡, 대규모 적자 이유는[주末머니]",
+     "link": "https://view.asiae.co.kr/article/2026110515360582534"
     },
     {
      "date": "2026-11-06",
@@ -37771,12 +37849,6 @@
      "source": "한국경제·경제",
      "title": "쿠팡 \"인천 물류센터 화재 피해 전액 보상\"",
      "link": "https://www.hankyung.com/article/2026072201051"
-    },
-    {
-     "date": "2026-07-21",
-     "source": "한국경제·경제",
-     "title": "3400억 악몽 또 덮쳤다…10조 쏟아부은 쿠팡 '초비상'",
-     "link": "https://www.hankyung.com/article/2026072176221"
     }
    ]
   },
@@ -48275,6 +48347,12 @@
   "SpaceX": {
    "articles": [
     {
+     "date": "2026-11-07",
+     "source": "MarketWatch",
+     "title": "Elon Musk opens the door for a big SpaceX acquisition",
+     "link": "https://www.marketwatch.com/story/elon-musk-opens-the-door-for-a-big-spacex-acquisition-4f62bcad?mod=mw_rss_topstories"
+    },
+    {
      "date": "2026-11-06",
      "source": "MarketWatch",
      "title": "The ‘Musk selloff’ deepens as Tesla and SpaceX combine for $456 billion two-day wipeout",
@@ -52907,6 +52985,12 @@
   "비자(V)": {
    "articles": [
     {
+     "date": "2026-11-07",
+     "source": "한국경제·경제",
+     "title": "세금 면제에 5년 비자까지…금융패권 다투는 홍콩·싱가포르 [차이나 워치]",
+     "link": "https://www.hankyung.com/article/202611061835i"
+    },
+    {
      "date": "2026-10-29",
      "source": "한국경제·경제",
      "title": "비자·테더가 선점하려는 '돈의 길'…스테이블코인 결제 전쟁 [타이거리서치 프리즘]",
@@ -54409,6 +54493,12 @@
      "link": "https://www.yna.co.kr/view/AKR20261106138800030"
     },
     {
+     "date": "2026-11-07",
+     "source": "아시아경제",
+     "title": "교촌에프앤비, 3분기 영업이익 123억…전년比 9.6% 증가",
+     "link": "https://view.asiae.co.kr/article/2026110616351500451"
+    },
+    {
      "date": "2026-08-08",
      "source": "연합뉴스·경제",
      "title": "교촌에프앤비, 2분기 영업익 15.7% 감소…원부자재비 상승 영향",
@@ -55620,6 +55710,18 @@
   },
   "코어위브(CRWV)": {
    "articles": [
+    {
+     "date": "2026-11-07",
+     "source": "한국경제·증권",
+     "title": "기술주 운명, 다음 주에 달렸다 ⑴ 코어위브 실적 ⑵ 앤트로픽 IPO [김현석의 월스트리트나우]",
+     "link": "https://www.hankyung.com/article/202611071912i"
+    },
+    {
+     "date": "2026-11-07",
+     "source": "연합인포맥스",
+     "title": "&quot;韓증시 바닥쳤나&quot;…코어위브·엔비디아 등 빅 이벤트 '주목'",
+     "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4443586"
+    },
     {
      "date": "2026-11-05",
      "source": "연합인포맥스",
@@ -57691,6 +57793,12 @@
   "제이알글로벌리츠(348950)": {
    "articles": [
     {
+     "date": "2026-11-07",
+     "source": "아시아경제",
+     "title": "제이알글로벌리츠 \"채무상환, 1년 앞당긴 2028년 완료\"",
+     "link": "https://view.asiae.co.kr/article/2026110612035989098"
+    },
+    {
      "date": "2026-11-06",
      "source": "연합인포맥스",
      "title": "제이알글로벌리츠, 채무 전액상환 1년 앞당겨…내달 2일 사채권자집회",
@@ -58156,6 +58264,12 @@
   },
   "Micron(MU)": {
    "articles": [
+    {
+     "date": "2026-11-07",
+     "source": "MarketWatch",
+     "title": "Micron’s stock is dirt cheap — and that’s igniting a fierce online debate",
+     "link": "https://www.marketwatch.com/story/microns-stock-is-dirt-cheap-and-thats-igniting-a-fierce-online-debate-0626791d?mod=mw_rss_topstories"
+    },
     {
      "date": "2026-11-05",
      "source": "MarketWatch",
@@ -64083,6 +64197,12 @@
      "link": "https://www.hankyung.com/article/202611060911i"
     },
     {
+     "date": "2026-11-07",
+     "source": "아시아경제",
+     "title": "아이엘, 특허 기반 리튬메탈 롤투롤 장비 개발 완료",
+     "link": "https://view.asiae.co.kr/article/2026110611515764760"
+    },
+    {
      "date": "2026-11-06",
      "source": "아시아경제",
      "title": "아이엘, 최대주주 이어 그룹 임원 9명도 자사주 매입…책임경영 강화",
@@ -69533,5 +69653,5 @@
    ]
   }
  },
- "updatedAt": "2026-11-07T02:23:06+09:00"
+ "updatedAt": "2026-11-07T10:44:34+09:00"
 }
