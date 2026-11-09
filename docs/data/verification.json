@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-09T02:01:17+09:00",
+ "updatedAt": "2026-11-09T11:03:14+09:00",
  "cases": [
   {
    "name": "코세스(058610)",
@@ -70397,6 +70397,70 @@
    "theme": "항공",
    "status": "pending",
    "checks": []
+  },
+  {
+   "name": "아이엘(307180)",
+   "type": "leading",
+   "market": "韓",
+   "flagDate": "2026-11-09",
+   "signals": [
+    "신제품(리튬메탈음극롤투롤장비)",
+    "특허(전고체배터리PCT출원)",
+    "내부자매수(임원9명)",
+    "반복포착18회·나흘연속",
+    "선행Top1"
+   ],
+   "theme": "로봇/휴머노이드",
+   "status": "pending",
+   "checks": [],
+   "convScore": 6,
+   "convTier": "high",
+   "convSignals": [
+    "반복포착",
+    "승세테마",
+    "구체촉발재",
+    "⚠️열세테마",
+    "틈새레이더"
+   ],
+   "convStampedAt": "2026-11-09"
+  },
+  {
+   "name": "에이텀(355690)",
+   "type": "leading",
+   "market": "韓",
+   "flagDate": "2026-11-09",
+   "signals": [
+    "대표이사자사주매입반복",
+    "내부자매수",
+    "반복포착20회·나흘연속",
+    "선행Top2"
+   ],
+   "theme": "AI전력/전력변환",
+   "status": "pending",
+   "checks": [],
+   "convScore": 4,
+   "convTier": "mid",
+   "convSignals": [
+    "반복포착",
+    "구체촉발재",
+    "⚠️열세테마",
+    "틈새레이더"
+   ],
+   "convStampedAt": "2026-11-09"
+  },
+  {
+   "name": "대동기어(008830)",
+   "type": "warning",
+   "market": "韓",
+   "flagDate": "2026-11-09",
+   "signals": [
+    "이미+25%급등기보도",
+    "누적40회부상",
+    "후발경고"
+   ],
+   "theme": "로봇감속기/EV",
+   "status": "pending",
+   "checks": []
   }
  ],
  "stats": {
@@ -70406,8 +70470,8 @@
   "miss": 164,
   "hitRate": 24.3,
   "avgD3ChangePct": 0.32,
-  "pending": 304,
-  "total": 691,
+  "pending": 307,
+  "total": 694,
   "byType": {
    "leading": {
     "verified": 163,
