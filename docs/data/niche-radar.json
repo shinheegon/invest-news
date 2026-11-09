@@ -1,24 +1,28 @@
 {
- "updatedAt": "2026-11-09T10:35:49+09:00",
+ "updatedAt": "2026-11-10T05:39:58+09:00",
  "note": "원본 헤드라인의 반복 언급을 탐지한 조사 후보이며 투자권유가 아니다. 동일 기사 재실행은 한 번만 집계하고, 순수 악재 반복과 모호한 회사명은 제외한다.",
  "window": 30,
- "corpusToday": 836,
- "trackedCompanies": 637,
+ "corpusToday": 586,
+ "trackedCompanies": 646,
  "companies": [
   {
    "code": "307180",
    "name": "아이엘",
    "market": "KOSDAQ",
    "cap": 1744,
-   "total": 11,
-   "recent": 9,
-   "activeDays": 5,
+   "total": 12,
+   "recent": 7,
+   "activeDays": 6,
    "firstSeen": "2026-10-17",
-   "lastSeen": "2026-11-09",
-   "score": 48.3,
+   "lastSeen": "2026-11-10",
+   "score": 40.1,
    "riskMentions": 0,
-   "catalystMentions": 3,
+   "catalystMentions": 2,
    "samples": [
+    {
+     "date": "2026-11-10",
+     "title": "아이엘, 유럽 AI·로봇 협의체 'ADRA' 정식 가입…피지컬AI 글로벌 진출 추진"
+    },
     {
      "date": "2026-11-09",
      "title": "아이엘, 특허 기반 리튬메탈 롤투롤 장비 개발 완료"
@@ -26,10 +30,398 @@
     {
      "date": "2026-11-09",
      "title": "아이엘, 최대주주 이어 그룹 임원 9명도 자사주 매입…책임경영 강화"
+    }
+   ]
+  },
+  {
+   "code": "001200",
+   "name": "유진투자증권",
+   "market": "KOSPI",
+   "cap": 3511,
+   "total": 11,
+   "recent": 6,
+   "activeDays": 5,
+   "firstSeen": "2026-10-13",
+   "lastSeen": "2026-11-10",
+   "score": 33.8,
+   "riskMentions": 0,
+   "catalystMentions": 6,
+   "samples": [
+    {
+     "date": "2026-11-10",
+     "title": "유진투자증권, 월정액으로 미국주식 거래…수수료 구독 서비스 출시"
+    },
+    {
+     "date": "2026-11-10",
+     "title": "유진투자증권, 美주식 매매 수수료 월정액제 출시"
+    },
+    {
+     "date": "2026-11-10",
+     "title": "\"미국주식 수수료를 구독으로\"…유진투자증권, 월정액제 도입"
+    }
+   ]
+  },
+  {
+   "code": "286750",
+   "name": "나노실리칸첨단소재",
+   "market": "KOSDAQ",
+   "cap": 405,
+   "total": 10,
+   "recent": 5,
+   "activeDays": 7,
+   "firstSeen": "2026-10-27",
+   "lastSeen": "2026-11-10",
+   "score": 33.4,
+   "riskMentions": 0,
+   "catalystMentions": 2,
+   "samples": [
+    {
+     "date": "2026-11-10",
+     "title": "나노실리칸첨단소재, 탄자니아에 연 30억장 'MTX 위조방지 라벨' 생산거점 추진"
+    },
+    {
+     "date": "2026-11-10",
+     "title": "나노실리칸첨단소재, 탄자니아서 '연 30억장' 노린다…위조방지 라벨 현지 생산 추진"
     },
     {
      "date": "2026-11-09",
-     "title": "아이엘, 유럽 AI·로봇 협의체 'ADRA' 정식 가입…피지컬AI 글로벌 진출 추진"
+     "title": "나노실리칸첨단소재, 탄자니아에 연 30억장 'MTX 위조방지 라벨' 생산거점 추진"
+    }
+   ]
+  },
+  {
+   "code": "121440",
+   "name": "골프존홀딩스",
+   "market": "KOSDAQ",
+   "cap": 3474,
+   "total": 9,
+   "recent": 2,
+   "activeDays": 9,
+   "firstSeen": "2026-10-29",
+   "lastSeen": "2026-11-09",
+   "score": 23.3,
+   "riskMentions": 0,
+   "catalystMentions": 0,
+   "samples": [
+    {
+     "date": "2026-11-09",
+     "title": "\"골프존카운티 매각 수용해야\" 터톤캐피탈, 골프존홀딩스에 주주서한"
+    },
+    {
+     "date": "2026-11-08",
+     "title": "\"골프존카운티 매각 수용해야\" 터톤캐피탈, 골프존홀딩스에 주주서한"
+    },
+    {
+     "date": "2026-11-07",
+     "title": "\"골프존카운티 매각 수용해야\" 터톤캐피탈, 골프존홀딩스에 주주서한"
+    }
+   ]
+  },
+  {
+   "code": "082270",
+   "name": "젬백스",
+   "market": "KOSDAQ",
+   "cap": 3925,
+   "total": 5,
+   "recent": 4,
+   "activeDays": 3,
+   "firstSeen": "2026-11-04",
+   "lastSeen": "2026-11-10",
+   "score": 23.0,
+   "riskMentions": 0,
+   "catalystMentions": 0,
+   "samples": [
+    {
+     "date": "2026-11-10",
+     "title": "젬백스, 국제 PSP 심포지엄 'Neuro2026' 메인 스폰서 참가…72주 임상 결과 발표"
+    },
+    {
+     "date": "2026-11-10",
+     "title": "젬백스, '난치성 뇌질환 신약' 개발 잰걸음…英에서 장기 임상 결과 발표"
+    },
+    {
+     "date": "2026-11-09",
+     "title": "젬백스, 국제 PSP 심포지엄 'Neuro2026' 메인 스폰서 참가…72주 임상 결과 발표"
+    }
+   ]
+  },
+  {
+   "code": "002990",
+   "name": "금호건설",
+   "market": "KOSPI",
+   "cap": 3219,
+   "total": 16,
+   "recent": 2,
+   "activeDays": 10,
+   "firstSeen": "2026-10-12",
+   "lastSeen": "2026-11-10",
+   "score": 21.9,
+   "riskMentions": 0,
+   "catalystMentions": 0,
+   "samples": [
+    {
+     "date": "2026-11-10",
+     "title": "금호건설, '시흥 거모 아테라' 견본주택 개관…분양 돌입"
+    },
+    {
+     "date": "2026-11-09",
+     "title": "금호건설, '시흥 거모 아테라' 견본주택 개관…분양 돌입"
+    },
+    {
+     "date": "2026-11-02",
+     "title": "LH·HUG 민참사업 금융지원 1호…금호건설 컨소 연 4.7% 대출"
+    }
+   ]
+  },
+  {
+   "code": "348950",
+   "name": "제이알글로벌리츠",
+   "market": "KOSPI",
+   "cap": 2333,
+   "total": 8,
+   "recent": 2,
+   "activeDays": 8,
+   "firstSeen": "2026-10-15",
+   "lastSeen": "2026-11-09",
+   "score": 21.8,
+   "riskMentions": 0,
+   "catalystMentions": 0,
+   "samples": [
+    {
+     "date": "2026-11-09",
+     "title": "제이알글로벌리츠 \"채무상환, 1년 앞당긴 2028년 완료\""
+    },
+    {
+     "date": "2026-11-08",
+     "title": "제이알글로벌리츠 \"채무상환, 1년 앞당긴 2028년 완료\""
+    },
+    {
+     "date": "2026-11-07",
+     "title": "제이알글로벌리츠 \"채무상환, 1년 앞당긴 2028년 완료\""
+    }
+   ]
+  },
+  {
+   "code": "474650",
+   "name": "링크솔루션",
+   "market": "KOSDAQ",
+   "cap": 914,
+   "total": 6,
+   "recent": 3,
+   "activeDays": 5,
+   "firstSeen": "2026-10-31",
+   "lastSeen": "2026-11-10",
+   "score": 21.6,
+   "riskMentions": 0,
+   "catalystMentions": 2,
+   "samples": [
+    {
+     "date": "2026-11-10",
+     "title": "링크솔루션, 해군정비창과 업무협약…디지털 부품 공급망 구축"
+    },
+    {
+     "date": "2026-11-10",
+     "title": "링크솔루션, 단종된 함정 부품 3D프린팅으로 대체…\"해군 MRO 공략\""
+    },
+    {
+     "date": "2026-11-09",
+     "title": "링크솔루션, 해군정비창과 업무협약…디지털 부품 공급망 구축"
+    }
+   ]
+  },
+  {
+   "code": "336060",
+   "name": "웨이버스",
+   "market": "KOSDAQ",
+   "cap": 284,
+   "total": 7,
+   "recent": 2,
+   "activeDays": 7,
+   "firstSeen": "2026-10-12",
+   "lastSeen": "2026-11-09",
+   "score": 20.3,
+   "riskMentions": 0,
+   "catalystMentions": 0,
+   "samples": [
+    {
+     "date": "2026-11-09",
+     "title": "웨이버스, '2026 K-Geo Festa'서 정밀도로지도 AI 솔루션 'GeOnRoadX' 공개"
+    },
+    {
+     "date": "2026-11-08",
+     "title": "웨이버스, '2026 K-Geo Festa'서 정밀도로지도 AI 솔루션 'GeOnRoadX' 공개"
+    },
+    {
+     "date": "2026-11-07",
+     "title": "웨이버스, '2026 K-Geo Festa'서 정밀도로지도 AI 솔루션 'GeOnRoadX' 공개"
+    }
+   ]
+  },
+  {
+   "code": "364950",
+   "name": "에이아이코리아",
+   "market": "KOSDAQ",
+   "cap": 335,
+   "total": 7,
+   "recent": 2,
+   "activeDays": 7,
+   "firstSeen": "2026-10-15",
+   "lastSeen": "2026-11-10",
+   "score": 20.3,
+   "riskMentions": 0,
+   "catalystMentions": 2,
+   "samples": [
+    {
+     "date": "2026-11-10",
+     "title": "에이아이코리아, 용인 반도체 클러스터 기계설비 공사 수주"
+    },
+    {
+     "date": "2026-11-09",
+     "title": "에이아이코리아, 용인 반도체 클러스터 기계설비 공사 수주"
+    },
+    {
+     "date": "2026-11-05",
+     "title": "에이아이코리아, '2026 데이터센터코리아' 통해 인프라 사업 확장"
+    }
+   ]
+  },
+  {
+   "code": "188040",
+   "name": "바이오포트",
+   "market": "KOSDAQ",
+   "cap": 250,
+   "total": 7,
+   "recent": 2,
+   "activeDays": 7,
+   "firstSeen": "2026-10-16",
+   "lastSeen": "2026-11-10",
+   "score": 20.3,
+   "riskMentions": 0,
+   "catalystMentions": 2,
+   "samples": [
+    {
+     "date": "2026-11-10",
+     "title": "\"바이오포트, 히트 제품·글로벌 유통망으로 해외 성장 기대\""
+    },
+    {
+     "date": "2026-11-09",
+     "title": "\"바이오포트, 히트 제품·글로벌 유통망으로 해외 성장 기대\""
+    },
+    {
+     "date": "2026-10-27",
+     "title": "바이오포트, 패밀리팜 2.3배 증설…해외시장 공략"
+    }
+   ]
+  },
+  {
+   "code": "044780",
+   "name": "에이치케이",
+   "market": "KOSDAQ",
+   "cap": 199,
+   "total": 6,
+   "recent": 2,
+   "activeDays": 6,
+   "firstSeen": "2026-10-15",
+   "lastSeen": "2026-11-10",
+   "score": 18.8,
+   "riskMentions": 0,
+   "catalystMentions": 2,
+   "samples": [
+    {
+     "date": "2026-11-10",
+     "title": "에이치케이, 글로벌 완성차 기업 공급망 진입…\"차세대 장비 수주\""
+    },
+    {
+     "date": "2026-11-09",
+     "title": "에이치케이, 글로벌 완성차 기업 공급망 진입…\"차세대 장비 수주\""
+    },
+    {
+     "date": "2026-10-27",
+     "title": "에이치케이, 독일 EuroBLECH서 폴란드 딜러 2곳 확보…동유럽 공략 본격화"
+    }
+   ]
+  },
+  {
+   "code": "397810",
+   "name": "애드포러스",
+   "market": "KOSDAQ",
+   "cap": 294,
+   "total": 6,
+   "recent": 2,
+   "activeDays": 6,
+   "firstSeen": "2026-10-22",
+   "lastSeen": "2026-11-10",
+   "score": 18.8,
+   "riskMentions": 0,
+   "catalystMentions": 0,
+   "samples": [
+    {
+     "date": "2026-11-10",
+     "title": "애드포러스, 신규 플랫폼 '어트랙' 상용화 성공"
+    },
+    {
+     "date": "2026-11-09",
+     "title": "애드포러스, 신규 플랫폼 '어트랙' 상용화 성공"
+    },
+    {
+     "date": "2026-10-25",
+     "title": "애드포러스, 60억 규모 투자 유치…신성장동력 발굴 가속"
+    }
+   ]
+  },
+  {
+   "code": "024850",
+   "name": "HLB이노베이션",
+   "market": "KOSDAQ",
+   "cap": 5529,
+   "total": 7,
+   "recent": 2,
+   "activeDays": 6,
+   "firstSeen": "2026-10-16",
+   "lastSeen": "2026-11-10",
+   "score": 18.3,
+   "riskMentions": 0,
+   "catalystMentions": 2,
+   "samples": [
+    {
+     "date": "2026-11-10",
+     "title": "HLB이노베이션, AI·스마트제조 지원사업 선정"
+    },
+    {
+     "date": "2026-11-09",
+     "title": "HLB이노베이션, AI·스마트제조 지원사업 선정"
+    },
+    {
+     "date": "2026-10-19",
+     "title": "HLB이노베이션, 베리스모, 고형암 CAR-T 전임상 결과 공개"
+    }
+   ]
+  },
+  {
+   "code": "276730",
+   "name": "한울앤제주",
+   "market": "KOSDAQ",
+   "cap": 250,
+   "total": 5,
+   "recent": 2,
+   "activeDays": 5,
+   "firstSeen": "2026-10-29",
+   "lastSeen": "2026-11-09",
+   "score": 17.3,
+   "riskMentions": 0,
+   "catalystMentions": 2,
+   "samples": [
+    {
+     "date": "2026-11-09",
+     "title": "한울앤제주, '로컬창업 페스타' 참가…향토기업 성장 비전 제시"
+    },
+    {
+     "date": "2026-11-08",
+     "title": "한울앤제주, '로컬창업 페스타' 참가…향토기업 성장 비전 제시"
+    },
+    {
+     "date": "2026-11-07",
+     "title": "한울앤제주, '로컬창업 페스타' 참가…향토기업 성장 비전 제시"
     }
    ]
   },
@@ -39,11 +431,11 @@
    "market": "KOSPI",
    "cap": 1871,
    "total": 7,
-   "recent": 7,
+   "recent": 3,
    "activeDays": 3,
    "firstSeen": "2026-11-07",
    "lastSeen": "2026-11-09",
-   "score": 36.6,
+   "score": 17.2,
    "riskMentions": 0,
    "catalystMentions": 0,
    "samples": [
@@ -62,198 +454,30 @@
    ]
   },
   {
-   "code": "121440",
-   "name": "골프존홀딩스",
+   "code": "441270",
+   "name": "파인엠텍",
    "market": "KOSDAQ",
-   "cap": 3474,
-   "total": 9,
-   "recent": 3,
-   "activeDays": 9,
-   "firstSeen": "2026-10-29",
-   "lastSeen": "2026-11-09",
-   "score": 28.2,
-   "riskMentions": 0,
-   "catalystMentions": 0,
-   "samples": [
-    {
-     "date": "2026-11-09",
-     "title": "\"골프존카운티 매각 수용해야\" 터톤캐피탈, 골프존홀딩스에 주주서한"
-    },
-    {
-     "date": "2026-11-08",
-     "title": "\"골프존카운티 매각 수용해야\" 터톤캐피탈, 골프존홀딩스에 주주서한"
-    },
-    {
-     "date": "2026-11-07",
-     "title": "\"골프존카운티 매각 수용해야\" 터톤캐피탈, 골프존홀딩스에 주주서한"
-    }
-   ]
-  },
-  {
-   "code": "286750",
-   "name": "나노실리칸첨단소재",
-   "market": "KOSDAQ",
-   "cap": 405,
-   "total": 8,
-   "recent": 4,
-   "activeDays": 6,
-   "firstSeen": "2026-10-27",
-   "lastSeen": "2026-11-09",
-   "score": 27.5,
-   "riskMentions": 0,
-   "catalystMentions": 3,
-   "samples": [
-    {
-     "date": "2026-11-09",
-     "title": "나노실리칸첨단소재, 탄자니아에 연 30억장 'MTX 위조방지 라벨' 생산거점 추진"
-    },
-    {
-     "date": "2026-11-09",
-     "title": "나노실리칸첨단소재, 차세대 정품인증 플랫폼 '베릭' 출시…유통 전 과정 추적"
-    },
-    {
-     "date": "2026-11-08",
-     "title": "나노실리칸첨단소재, 차세대 정품인증 플랫폼 '베릭' 출시…유통 전 과정 추적"
-    }
-   ]
-  },
-  {
-   "code": "348950",
-   "name": "제이알글로벌리츠",
-   "market": "KOSPI",
-   "cap": 2333,
-   "total": 8,
-   "recent": 3,
-   "activeDays": 8,
-   "firstSeen": "2026-10-15",
-   "lastSeen": "2026-11-09",
-   "score": 26.7,
-   "riskMentions": 0,
-   "catalystMentions": 0,
-   "samples": [
-    {
-     "date": "2026-11-09",
-     "title": "제이알글로벌리츠 \"채무상환, 1년 앞당긴 2028년 완료\""
-    },
-    {
-     "date": "2026-11-08",
-     "title": "제이알글로벌리츠 \"채무상환, 1년 앞당긴 2028년 완료\""
-    },
-    {
-     "date": "2026-11-07",
-     "title": "제이알글로벌리츠 \"채무상환, 1년 앞당긴 2028년 완료\""
-    }
-   ]
-  },
-  {
-   "code": "336060",
-   "name": "웨이버스",
-   "market": "KOSDAQ",
-   "cap": 284,
-   "total": 7,
-   "recent": 3,
-   "activeDays": 7,
-   "firstSeen": "2026-10-12",
-   "lastSeen": "2026-11-09",
-   "score": 25.2,
-   "riskMentions": 0,
-   "catalystMentions": 0,
-   "samples": [
-    {
-     "date": "2026-11-09",
-     "title": "웨이버스, '2026 K-Geo Festa'서 정밀도로지도 AI 솔루션 'GeOnRoadX' 공개"
-    },
-    {
-     "date": "2026-11-08",
-     "title": "웨이버스, '2026 K-Geo Festa'서 정밀도로지도 AI 솔루션 'GeOnRoadX' 공개"
-    },
-    {
-     "date": "2026-11-07",
-     "title": "웨이버스, '2026 K-Geo Festa'서 정밀도로지도 AI 솔루션 'GeOnRoadX' 공개"
-    }
-   ]
-  },
-  {
-   "code": "355690",
-   "name": "에이텀",
-   "market": "KOSDAQ",
-   "cap": 576,
-   "total": 6,
-   "recent": 4,
-   "activeDays": 4,
-   "firstSeen": "2026-11-06",
-   "lastSeen": "2026-11-09",
-   "score": 24.5,
-   "riskMentions": 0,
-   "catalystMentions": 4,
-   "samples": [
-    {
-     "date": "2026-11-09",
-     "title": "에이텀 한택수 대표, 사재로 장내매수…\"지분 확대로 책임경영 강화\""
-    },
-    {
-     "date": "2026-11-08",
-     "title": "에이텀 한택수 대표, 사재로 장내매수…\"지분 확대로 책임경영 강화\""
-    },
-    {
-     "date": "2026-11-07",
-     "title": "에이텀 한택수 대표, 장내 자사주 매입 \"기술력·성장성 확신\""
-    }
-   ]
-  },
-  {
-   "code": "035760",
-   "name": "CJ ENM",
-   "market": "KOSDAQ",
-   "cap": 9342,
+   "cap": 3348,
    "total": 10,
-   "recent": 3,
-   "activeDays": 7,
-   "firstSeen": "2026-10-12",
-   "lastSeen": "2026-11-08",
-   "score": 23.7,
+   "recent": 2,
+   "activeDays": 6,
+   "firstSeen": "2026-10-21",
+   "lastSeen": "2026-11-10",
+   "score": 16.9,
    "riskMentions": 0,
    "catalystMentions": 0,
    "samples": [
     {
-     "date": "2026-11-08",
-     "title": "[오늘의 증권가 콜] KT&G, 삼성E&A, 셀트리온, CJ ENM, 롯데에너지머티, 넷마블, 카카오, LG화학 등"
+     "date": "2026-11-10",
+     "title": "파인엠텍, ESS·車전장 '쌍끌이'…신사업 매출 1500억 가시권"
     },
     {
-     "date": "2026-11-07",
-     "title": "CJ ENM, '티빙·광고' 살아난다…6년 만에 영업익 2000억 탈환"
+     "date": "2026-11-10",
+     "title": "파인엠텍 \"ESS·자동차 전장 매출 2027년 1500억 전망\""
     },
     {
-     "date": "2026-11-07",
-     "title": "[오늘의 증권가 콜] KT&G, 삼성E&A, 셀트리온, CJ ENM, 롯데에너지머티, 넷마블, 카카오, LG화학 등"
-    }
-   ]
-  },
-  {
-   "code": "276730",
-   "name": "한울앤제주",
-   "market": "KOSDAQ",
-   "cap": 250,
-   "total": 5,
-   "recent": 3,
-   "activeDays": 5,
-   "firstSeen": "2026-10-29",
-   "lastSeen": "2026-11-09",
-   "score": 22.1,
-   "riskMentions": 0,
-   "catalystMentions": 3,
-   "samples": [
-    {
-     "date": "2026-11-09",
-     "title": "한울앤제주, '로컬창업 페스타' 참가…향토기업 성장 비전 제시"
-    },
-    {
-     "date": "2026-11-08",
-     "title": "한울앤제주, '로컬창업 페스타' 참가…향토기업 성장 비전 제시"
-    },
-    {
-     "date": "2026-11-07",
-     "title": "한울앤제주, '로컬창업 페스타' 참가…향토기업 성장 비전 제시"
+     "date": "2026-10-28",
+     "title": "\"파인엠텍, 폴더블 품질 논란은 기우\" 목표가 26%↑…:\"LG생건, 가격 매력 커졌다\" 투자의견 보유→매수 [株토피아]"
     }
    ]
   },
@@ -263,11 +487,11 @@
    "market": "KOSPI",
    "cap": 11320,
    "total": 8,
-   "recent": 3,
+   "recent": 2,
    "activeDays": 5,
    "firstSeen": "2026-10-12",
    "lastSeen": "2026-11-09",
-   "score": 20.7,
+   "score": 15.8,
    "riskMentions": 0,
    "catalystMentions": 1,
    "samples": [
@@ -286,18 +510,74 @@
    ]
   },
   {
+   "code": "226330",
+   "name": "신테카바이오",
+   "market": "KOSDAQ",
+   "cap": 237,
+   "total": 4,
+   "recent": 2,
+   "activeDays": 4,
+   "firstSeen": "2026-10-22",
+   "lastSeen": "2026-11-10",
+   "score": 15.8,
+   "riskMentions": 0,
+   "catalystMentions": 0,
+   "samples": [
+    {
+     "date": "2026-11-10",
+     "title": "신테카바이오, 美 MSK와 신약 유효물질 2건 발굴…AI로 15년 난제 돌파"
+    },
+    {
+     "date": "2026-11-09",
+     "title": "신테카바이오, 美 MSK와 신약 유효물질 2건 발굴…AI로 15년 난제 돌파"
+    },
+    {
+     "date": "2026-10-23",
+     "title": "신테카바이오, '경영혁신위원회' 출범 추진…자금통제 강화·경영쇄신 본격화"
+    }
+   ]
+  },
+  {
+   "code": "357230",
+   "name": "에이치피오",
+   "market": "KOSDAQ",
+   "cap": 811,
+   "total": 4,
+   "recent": 2,
+   "activeDays": 4,
+   "firstSeen": "2026-10-27",
+   "lastSeen": "2026-11-10",
+   "score": 15.8,
+   "riskMentions": 0,
+   "catalystMentions": 0,
+   "samples": [
+    {
+     "date": "2026-11-10",
+     "title": "에이치피오 자회사 아른, 아프리콧스튜디오로 글로벌 진출"
+    },
+    {
+     "date": "2026-11-09",
+     "title": "에이치피오 자회사 아른, 아프리콧스튜디오로 글로벌 진출"
+    },
+    {
+     "date": "2026-10-28",
+     "title": "에이치피오, 화장품子 판로 확대…주닥 '무신사 뷰티' 입점"
+    }
+   ]
+  },
+  {
    "code": "298000",
    "name": "효성화학",
    "market": "KOSPI",
    "cap": 1416,
    "total": 4,
-   "recent": 3,
+   "recent": 2,
    "activeDays": 4,
    "firstSeen": "2026-11-02",
    "lastSeen": "2026-11-09",
-   "score": 20.6,
+   "score": 15.8,
    "riskMentions": 0,
-   "catalystMentions": 3,
+   "catalystMentions": 2,
    "samples": [
     {
      "date": "2026-11-09",
@@ -314,16 +594,44 @@
    ]
   },
   {
+   "code": "002880",
+   "name": "디와이에이",
+   "market": "KOSPI",
+   "cap": 313,
+   "total": 4,
+   "recent": 2,
+   "activeDays": 4,
+   "firstSeen": "2026-11-05",
+   "lastSeen": "2026-11-10",
+   "score": 15.8,
+   "riskMentions": 0,
+   "catalystMentions": 2,
+   "samples": [
+    {
+     "date": "2026-11-10",
+     "title": "디와이에이, 제네시스 GV80·GV70 암레스트 신규 수주"
+    },
+    {
+     "date": "2026-11-09",
+     "title": "디와이에이, 제네시스 GV80·GV70 암레스트 신규 수주"
+    },
+    {
+     "date": "2026-11-06",
+     "title": "디와이에이, 인도 현지 합작법인 설립 추진"
+    }
+   ]
+  },
+  {
    "code": "459510",
    "name": "나우로보틱스",
    "market": "KOSDAQ",
    "cap": 1541,
    "total": 4,
-   "recent": 3,
+   "recent": 2,
    "activeDays": 4,
    "firstSeen": "2026-11-06",
    "lastSeen": "2026-11-09",
-   "score": 20.6,
+   "score": 15.8,
    "riskMentions": 0,
    "catalystMentions": 0,
    "samples": [
@@ -347,257 +655,185 @@
    "market": "KOSDAQ",
    "cap": 348,
    "total": 4,
-   "recent": 3,
+   "recent": 2,
    "activeDays": 4,
    "firstSeen": "2026-11-06",
    "lastSeen": "2026-11-09",
-   "score": 20.6,
-   "riskMentions": 0,
-   "catalystMentions": 0,
-   "samples": [
-    {
-     "date": "2026-11-09",
-     "title": "보원케미칼, 자본준비금 100억원 이익잉여금 전입 추진"
-    },
-    {
-     "date": "2026-11-08",
-     "title": "보원케미칼, 자본준비금 100억원 이익잉여금 전입 추진"
-    },
-    {
-     "date": "2026-11-07",
-     "title": "보원케미칼, 자본준비금 100억원 이익잉여금 전입 추진"
-    }
-   ]
-  },
-  {
-   "code": "001200",
-   "name": "유진투자증권",
-   "market": "KOSPI",
-   "cap": 3511,
-   "total": 8,
-   "recent": 3,
-   "activeDays": 4,
-   "firstSeen": "2026-10-13",
-   "lastSeen": "2026-11-09",
-   "score": 18.7,
-   "riskMentions": 0,
-   "catalystMentions": 3,
-   "samples": [
-    {
-     "date": "2026-11-09",
-     "title": "유진투자증권, 월정액으로 미국주식 거래…수수료 구독 서비스 출시"
-    },
-    {
-     "date": "2026-11-09",
-     "title": "유진투자증권, 국내 첫 월정액 美주식 수수료 구독제 출시"
-    },
-    {
-     "date": "2026-11-09",
-     "title": "\"미국주식 수수료를 구독으로\"…유진투자증권, 월정액제 도입"
-    }
-   ]
-  },
-  {
-   "code": "123890",
-   "name": "한국자산신탁",
-   "market": "KOSPI",
-   "cap": 2796,
-   "total": 4,
-   "recent": 2,
-   "activeDays": 4,
-   "firstSeen": "2026-11-05",
-   "lastSeen": "2026-11-08",
    "score": 15.8,
    "riskMentions": 0,
    "catalystMentions": 0,
    "samples": [
     {
+     "date": "2026-11-09",
+     "title": "보원케미칼, 자본준비금 100억원 이익잉여금 전입 추진"
+    },
+    {
      "date": "2026-11-08",
-     "title": "한국자산신탁, 평촌 A-5 구역 예비사업시행자 업무협약 체결"
+     "title": "보원케미칼, 자본준비금 100억원 이익잉여금 전입 추진"
     },
     {
      "date": "2026-11-07",
-     "title": "한국자산신탁, 평촌 A-5 구역 예비사업시행자 업무협약 체결"
-    },
-    {
-     "date": "2026-11-06",
-     "title": "한국자산신탁, 평촌 A-5 구역 예비사업시행자 업무협약 체결"
+     "title": "보원케미칼, 자본준비금 100억원 이익잉여금 전입 추진"
     }
    ]
   },
   {
-   "code": "079160",
-   "name": "CJ CGV",
+   "code": "032350",
+   "name": "롯데관광개발",
    "market": "KOSPI",
-   "cap": 8660,
-   "total": 4,
+   "cap": 8307,
+   "total": 6,
+   "recent": 2,
+   "activeDays": 4,
+   "firstSeen": "2026-10-19",
+   "lastSeen": "2026-11-10",
+   "score": 14.8,
+   "riskMentions": 0,
+   "catalystMentions": 2,
+   "samples": [
+    {
+     "date": "2026-11-10",
+     "title": "[클릭 e종목]\"롯데관광개발, 10월 카지노 매출 역대 최대…내년 이익 성장 본격화\""
+    },
+    {
+     "date": "2026-11-10",
+     "title": "\"롯데관광개발, 10월 역대 최대 실적…성장 여력 확인\"-메리츠"
+    },
+    {
+     "date": "2026-11-02",
+     "title": "월매출 신기록 쓴 롯데관광개발…4분기 실적 기대감 '쑥'"
+    }
+   ]
+  },
+  {
+   "code": "419050",
+   "name": "삼기에너지솔루션즈",
+   "market": "KOSDAQ",
+   "cap": 1302,
+   "total": 6,
+   "recent": 2,
+   "activeDays": 4,
+   "firstSeen": "2026-10-20",
+   "lastSeen": "2026-11-10",
+   "score": 14.8,
+   "riskMentions": 0,
+   "catalystMentions": 2,
+   "samples": [
+    {
+     "date": "2026-11-10",
+     "title": "삼기에너지솔루션즈 美 법인, 2000억원 규모 하이브리드 변속기 부품 수주"
+    },
+    {
+     "date": "2026-11-09",
+     "title": "삼기에너지솔루션즈 美 법인, 2000억원 규모 하이브리드 변속기 부품 수주"
+    },
+    {
+     "date": "2026-10-21",
+     "title": "삼기에너지솔루션즈, 美서 1천억 규모 하이브리드 부품 수주"
+    }
+   ]
+  },
+  {
+   "code": "355690",
+   "name": "에이텀",
+   "market": "KOSDAQ",
+   "cap": 576,
+   "total": 6,
+   "recent": 2,
+   "activeDays": 4,
+   "firstSeen": "2026-11-06",
+   "lastSeen": "2026-11-09",
+   "score": 14.8,
+   "riskMentions": 0,
+   "catalystMentions": 2,
+   "samples": [
+    {
+     "date": "2026-11-09",
+     "title": "에이텀 한택수 대표, 사재로 장내매수…\"지분 확대로 책임경영 강화\""
+    },
+    {
+     "date": "2026-11-08",
+     "title": "에이텀 한택수 대표, 사재로 장내매수…\"지분 확대로 책임경영 강화\""
+    },
+    {
+     "date": "2026-11-07",
+     "title": "에이텀 한택수 대표, 장내 자사주 매입 \"기술력·성장성 확신\""
+    }
+   ]
+  },
+  {
+   "code": "085660",
+   "name": "차바이오텍",
+   "market": "KOSDAQ",
+   "cap": 6471,
+   "total": 3,
    "recent": 2,
    "activeDays": 3,
-   "firstSeen": "2026-11-01",
-   "lastSeen": "2026-11-07",
-   "score": 13.8,
+   "firstSeen": "2026-11-05",
+   "lastSeen": "2026-11-10",
+   "score": 14.2,
    "riskMentions": 0,
    "catalystMentions": 0,
    "samples": [
     {
-     "date": "2026-11-07",
-     "title": "CJ CGV, 3Q 영업익 736억·215%↑…예상치 상회"
+     "date": "2026-11-10",
+     "title": "차바이오텍 차메디텍, '하이로라' 앞세워 에스테틱 시장 공략"
     },
     {
-     "date": "2026-11-07",
-     "title": "CJ CGV, 3Q 영업익 736억·215%↑…역대 분기 최대 영업익(종합)"
+     "date": "2026-11-09",
+     "title": "차바이오텍 차메디텍, '하이로라' 앞세워 에스테틱 시장 공략"
     },
     {
-     "date": "2026-11-02",
-     "title": "극장가 다시 불 켜졌다…오디세이가 이끌 CJ CGV 서프라이즈"
+     "date": "2026-11-05",
+     "title": "美민주당 승리에 K헬스케어 '기회의 문'…차바이오텍 등 수혜 촉각"
     }
    ]
   },
   {
-   "code": "002460",
-   "name": "HS화성",
+   "code": "025560",
+   "name": "미래산업",
    "market": "KOSPI",
-   "cap": 1111,
+   "cap": 2125,
    "total": 2,
    "recent": 2,
    "activeDays": 2,
-   "firstSeen": "2026-11-07",
-   "lastSeen": "2026-11-08",
+   "firstSeen": "2026-11-09",
+   "lastSeen": "2026-11-10",
+   "score": 12.7,
+   "riskMentions": 0,
+   "catalystMentions": 0,
+   "samples": [
+    {
+     "date": "2026-11-10",
+     "title": "미래산업, 일회성 걷어내도 이익률 27%…실적 체력 달라졌다"
+    },
+    {
+     "date": "2026-11-09",
+     "title": "미래산업, 일회성 걷어내도 이익률 27%…실적 체력 달라졌다"
+    }
+   ]
+  },
+  {
+   "code": "060230",
+   "name": "제이케이시냅스",
+   "market": "KOSDAQ",
+   "cap": 215,
+   "total": 2,
+   "recent": 2,
+   "activeDays": 2,
+   "firstSeen": "2026-11-09",
+   "lastSeen": "2026-11-10",
    "score": 12.7,
    "riskMentions": 0,
    "catalystMentions": 2,
    "samples": [
     {
-     "date": "2026-11-08",
-     "title": "HS화성, 부산 범천동 공공지원 민간임대주택 사업 수주"
-    },
-    {
-     "date": "2026-11-07",
-     "title": "HS화성, 부산 범천동 공공지원 민간임대주택 사업 수주"
-    }
-   ]
-  },
-  {
-   "code": "002240",
-   "name": "고려제강",
-   "market": "KOSPI",
-   "cap": 4047,
-   "total": 2,
-   "recent": 2,
-   "activeDays": 2,
-   "firstSeen": "2026-11-07",
-   "lastSeen": "2026-11-08",
-   "score": 12.7,
-   "riskMentions": 0,
-   "catalystMentions": 0,
-   "samples": [
-    {
-     "date": "2026-11-08",
-     "title": "고려제강, 주당 0.1111774주 무상증자 결정"
-    },
-    {
-     "date": "2026-11-07",
-     "title": "고려제강, 주당 0.1111774주 무상증자 결정"
-    }
-   ]
-  },
-  {
-   "code": "002900",
-   "name": "TYM",
-   "market": "KOSPI",
-   "cap": 2596,
-   "total": 2,
-   "recent": 2,
-   "activeDays": 2,
-   "firstSeen": "2026-11-07",
-   "lastSeen": "2026-11-08",
-   "score": 12.7,
-   "riskMentions": 0,
-   "catalystMentions": 0,
-   "samples": [
-    {
-     "date": "2026-11-08",
-     "title": "밭 가는 트랙터도 자율주행…대구 키엠스타서 맞붙은 대동·TYM"
-    },
-    {
-     "date": "2026-11-07",
-     "title": "밭 가는 트랙터도 자율주행…대구 키엠스타서 맞붙은 대동·TYM"
-    }
-   ]
-  },
-  {
-   "code": "038460",
-   "name": "바이오스마트",
-   "market": "KOSDAQ",
-   "cap": 589,
-   "total": 2,
-   "recent": 2,
-   "activeDays": 2,
-   "firstSeen": "2026-11-07",
-   "lastSeen": "2026-11-08",
-   "score": 12.7,
-   "riskMentions": 0,
-   "catalystMentions": 0,
-   "samples": [
-    {
-     "date": "2026-11-08",
-     "title": "티씨머티리얼즈, 100억원 유상증자…바이오스마트 등에 3자 배정"
-    },
-    {
-     "date": "2026-11-07",
-     "title": "티씨머티리얼즈, 100억원 유상증자…바이오스마트 등에 3자 배정"
-    }
-   ]
-  },
-  {
-   "code": "125020",
-   "name": "티씨머티리얼즈",
-   "market": "KOSDAQ",
-   "cap": 1440,
-   "total": 2,
-   "recent": 2,
-   "activeDays": 2,
-   "firstSeen": "2026-11-07",
-   "lastSeen": "2026-11-08",
-   "score": 12.7,
-   "riskMentions": 0,
-   "catalystMentions": 0,
-   "samples": [
-    {
-     "date": "2026-11-08",
-     "title": "티씨머티리얼즈, 100억원 유상증자…바이오스마트 등에 3자 배정"
-    },
-    {
-     "date": "2026-11-07",
-     "title": "티씨머티리얼즈, 100억원 유상증자…바이오스마트 등에 3자 배정"
-    }
-   ]
-  },
-  {
-   "code": "082270",
-   "name": "젬백스",
-   "market": "KOSDAQ",
-   "cap": 3925,
-   "total": 3,
-   "recent": 2,
-   "activeDays": 2,
-   "firstSeen": "2026-11-04",
-   "lastSeen": "2026-11-09",
-   "score": 12.2,
-   "riskMentions": 0,
-   "catalystMentions": 0,
-   "samples": [
-    {
-     "date": "2026-11-09",
-     "title": "젬백스, 국제 PSP 심포지엄 'Neuro2026' 메인 스폰서 참가…72주 임상 결과 발표"
+     "date": "2026-11-10",
+     "title": "제이케이시냅스, 매출 40% 성장 전망…기업가치 열쇠는 반도체 소재"
     },
     {
      "date": "2026-11-09",
-     "title": "젬백스, '난치성 뇌질환 신약' 개발 잰걸음…英에서 장기 임상 결과 발표"
-    },
-    {
-     "date": "2026-11-04",
-     "title": "젬백스, '퇴행성 뇌질환 권위자' 이재홍 박사 CMO 영입…임상 개발 고도화"
+     "title": "제이케이시냅스, 매출 40% 성장 전망…기업가치 열쇠는 반도체 소재"
     }
    ]
   }

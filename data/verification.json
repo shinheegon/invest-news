@@ -1,6 +1,26 @@
 {
- "updatedAt": "2026-11-09T11:03:14+09:00",
+ "updatedAt": "2026-11-10T06:18:43+09:00",
  "cases": [
+  {
+   "name": "디와이에이(002880)",
+   "type": "leading",
+   "market": "韓",
+   "flagDate": "2026-11-10",
+   "signals": [
+    "제네시스GV80·GV70암레스트신규수주",
+    "구체촉발재0→1첫거론"
+   ],
+   "theme": "완성차 부품 국산화",
+   "status": "pending",
+   "checks": [],
+   "convScore": 4,
+   "convTier": "mid",
+   "convSignals": [
+    "구체촉발재",
+    "틈새레이더"
+   ],
+   "convStampedAt": "2026-11-10"
+  },
   {
    "name": "코세스(058610)",
    "type": "discovery",
@@ -70470,8 +70490,8 @@
   "miss": 164,
   "hitRate": 24.3,
   "avgD3ChangePct": 0.32,
-  "pending": 307,
-  "total": 694,
+  "pending": 308,
+  "total": 695,
   "byType": {
    "leading": {
     "verified": 163,
