@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-10T06:18:43+09:00",
+ "updatedAt": "2026-11-10T13:35:11+09:00",
  "cases": [
   {
    "name": "디와이에이(002880)",
@@ -70481,6 +70481,74 @@
    "theme": "로봇감속기/EV",
    "status": "pending",
    "checks": []
+  },
+  {
+   "name": "MDS테크(086960)",
+   "type": "leading",
+   "market": "韓",
+   "flagDate": "2026-11-10",
+   "signals": [
+    "엔비디아젯슨패키지40억원공급계약",
+    "2026로보월드피지컬AI솔루션공개"
+   ],
+   "theme": "로봇/휴머노이드",
+   "status": "pending",
+   "checks": [],
+   "convScore": 7,
+   "convTier": "high",
+   "convSignals": [
+    "반복포착",
+    "승세테마",
+    "구체촉발재"
+   ],
+   "convStampedAt": "2026-11-10"
+  },
+  {
+   "name": "나노실리칸첨단소재(286750)",
+   "type": "discovery",
+   "market": "韓",
+   "flagDate": "2026-11-10",
+   "signals": [
+    "탄자니아연30억장위조방지라벨생산거점",
+    "3일연속반복보도"
+   ],
+   "theme": "신소재/위조방지라벨",
+   "status": "pending",
+   "checks": [],
+   "convScore": 5,
+   "convTier": "high",
+   "convSignals": [
+    "반복포착",
+    "틈새레이더"
+   ],
+   "convStampedAt": "2026-11-10"
+  },
+  {
+   "name": "NHN(181710)",
+   "type": "warning",
+   "market": "韓",
+   "flagDate": "2026-11-10",
+   "signals": [
+    "3Q영업익588억+112.7%YoY어닝서프라이즈",
+    "당일+29.87%이미반영"
+   ],
+   "theme": "AI클라우드",
+   "status": "pending",
+   "checks": []
+  },
+  {
+   "name": "한올바이오파마(009420)",
+   "type": "warning",
+   "market": "韓",
+   "flagDate": "2026-11-10",
+   "signals": [
+    "이뮤노반트임상2b상1차지표충족",
+    "당일+20.49%이미반영",
+    "바이오열세테마"
+   ],
+   "theme": "바이오/의료(⚠️열세테마)",
+   "status": "pending",
+   "checks": []
   }
  ],
  "stats": {
@@ -70490,8 +70558,8 @@
   "miss": 164,
   "hitRate": 24.3,
   "avgD3ChangePct": 0.32,
-  "pending": 308,
-  "total": 695,
+  "pending": 312,
+  "total": 699,
   "byType": {
    "leading": {
     "verified": 163,
