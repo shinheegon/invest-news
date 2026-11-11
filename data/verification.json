@@ -1,6 +1,105 @@
 {
- "updatedAt": "2026-11-10T13:35:11+09:00",
+ "updatedAt": "2026-11-11T11:22:54+09:00",
  "cases": [
+  {
+   "name": "비나텍(126340)",
+   "type": "discovery",
+   "market": "韓",
+   "flagDate": "2026-11-11",
+   "signals": [
+    "3485억수주매출전환가시화",
+    "5개월침묵후재점등"
+   ],
+   "theme": "AI데이터센터/전력인프라",
+   "status": "pending",
+   "checks": [],
+   "convScore": 2,
+   "convTier": "low",
+   "convSignals": [
+    "반복포착",
+    "구체촉발재",
+    "⚠️열세테마"
+   ],
+   "convStampedAt": "2026-11-11"
+  },
+  {
+   "name": "라온텍(418420)",
+   "type": "discovery",
+   "market": "韓",
+   "flagDate": "2026-11-11",
+   "signals": [
+    "AI데이터센터광통신WSS수혜구조",
+    "당일신규공개"
+   ],
+   "theme": "AI데이터센터/광통신",
+   "status": "pending",
+   "checks": [],
+   "convScore": -3,
+   "convTier": "low",
+   "convSignals": [
+    "⚠️열세테마"
+   ],
+   "convStampedAt": "2026-11-11"
+  },
+  {
+   "name": "버넥트(438700)",
+   "type": "leading",
+   "market": "韓",
+   "flagDate": "2026-11-11",
+   "signals": [
+    "CES2027혁신상3관왕",
+    "국방부AI시뮬레이터사업착수"
+   ],
+   "theme": "스마트글라스/국방AI",
+   "status": "pending",
+   "checks": [],
+   "convScore": 2,
+   "convTier": "low",
+   "convSignals": [
+    "틈새레이더"
+   ],
+   "convStampedAt": "2026-11-11"
+  },
+  {
+   "name": "한진(002320)",
+   "type": "warning",
+   "market": "韓",
+   "flagDate": "2026-11-11",
+   "signals": [
+    "저PBR자사주200억전량소각",
+    "당일+17%급등(이미반영)"
+   ],
+   "theme": "저PBR/밸류업",
+   "status": "pending",
+   "checks": []
+  },
+  {
+   "name": "예스티(122640)",
+   "type": "warning",
+   "market": "韓",
+   "flagDate": "2026-11-11",
+   "signals": [
+    "사상최대분기영업이익",
+    "당일급등(이미반영)",
+    "반도체소재장비열세테마"
+   ],
+   "theme": "반도체소재/장비",
+   "status": "pending",
+   "checks": []
+  },
+  {
+   "name": "안랩(053800)",
+   "type": "warning",
+   "market": "韓",
+   "flagDate": "2026-11-11",
+   "signals": [
+    "금융보안원해킹반사이익",
+    "당일+17.9%급등(이미반영)"
+   ],
+   "theme": "사이버보안",
+   "status": "pending",
+   "checks": []
+  },
   {
    "name": "디와이에이(002880)",
    "type": "leading",
@@ -70558,8 +70657,8 @@
   "miss": 164,
   "hitRate": 24.3,
   "avgD3ChangePct": 0.32,
-  "pending": 312,
-  "total": 699,
+  "pending": 318,
+  "total": 705,
   "byType": {
    "leading": {
     "verified": 163,
