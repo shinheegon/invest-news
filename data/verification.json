@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-11T11:22:54+09:00",
+ "updatedAt": "2026-11-12T03:17:41+09:00",
  "cases": [
   {
    "name": "비나텍(126340)",
@@ -70648,6 +70648,19 @@
    "theme": "바이오/의료(⚠️열세테마)",
    "status": "pending",
    "checks": []
+  },
+  {
+   "name": "코어위브(CRWV)",
+   "type": "warning",
+   "market": "美",
+   "flagDate": "2026-11-12",
+   "signals": [
+    "3Q어닝서프라이즈매출+168%가이던스상향",
+    "당일+20.74%이미반영"
+   ],
+   "theme": "AI클라우드/네오클라우드",
+   "status": "pending",
+   "checks": []
   }
  ],
  "stats": {
@@ -70657,8 +70670,8 @@
   "miss": 164,
   "hitRate": 24.3,
   "avgD3ChangePct": 0.32,
-  "pending": 318,
-  "total": 705,
+  "pending": 319,
+  "total": 706,
   "byType": {
    "leading": {
     "verified": 163,
