@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-12T03:17:41+09:00",
+ "updatedAt": "2026-11-13T03:36:42+09:00",
  "cases": [
   {
    "name": "비나텍(126340)",
@@ -70661,6 +70661,44 @@
    "theme": "AI클라우드/네오클라우드",
    "status": "pending",
    "checks": []
+  },
+  {
+   "name": "도우인시스(484120)",
+   "type": "leading",
+   "market": "韓",
+   "flagDate": "2026-11-13",
+   "signals": [
+    "UTG(초박형강화유리)AI안경向적용거론",
+    "삼성AI안경30종출시(11/12)로테마부상",
+    "아직주가·언급미반영"
+   ],
+   "theme": "AI안경/스마트글라스",
+   "status": "pending",
+   "checks": [],
+   "convScore": 0,
+   "convTier": "low",
+   "convSignals": [],
+   "convStampedAt": "2026-11-13"
+  },
+  {
+   "name": "사피엔반도체(452430)",
+   "type": "leading",
+   "market": "韓",
+   "flagDate": "2026-11-13",
+   "signals": [
+    "LEDoS용디스플레이구동반도체(DDIC)AI안경向거론",
+    "삼성AI안경30종출시(11/12)로테마부상",
+    "아직주가·언급미반영"
+   ],
+   "theme": "AI안경/스마트글라스",
+   "status": "pending",
+   "checks": [],
+   "convScore": 2,
+   "convTier": "low",
+   "convSignals": [
+    "승세테마"
+   ],
+   "convStampedAt": "2026-11-13"
   }
  ],
  "stats": {
@@ -70670,8 +70708,8 @@
   "miss": 164,
   "hitRate": 24.3,
   "avgD3ChangePct": 0.32,
-  "pending": 319,
-  "total": 706,
+  "pending": 321,
+  "total": 708,
   "byType": {
    "leading": {
     "verified": 163,
