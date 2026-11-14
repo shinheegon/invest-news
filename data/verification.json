@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-13T03:36:42+09:00",
+ "updatedAt": "2026-11-14T11:49:25+09:00",
  "cases": [
   {
    "name": "비나텍(126340)",
@@ -70699,6 +70699,43 @@
     "승세테마"
    ],
    "convStampedAt": "2026-11-13"
+  },
+  {
+   "name": "파인텍(131760)",
+   "type": "discovery",
+   "market": "韓",
+   "flagDate": "2026-11-14",
+   "signals": [
+    "3Q영업익흑자전환(매출+68%)",
+    "OLED100억추가수주(10/29)재확인",
+    "초초소형(시총74억)",
+    "아직주가미반영"
+   ],
+   "theme": "디스플레이소재",
+   "status": "pending",
+   "checks": [],
+   "convScore": 7,
+   "convTier": "high",
+   "convSignals": [
+    "반복포착",
+    "구체촉발재",
+    "틈새레이더"
+   ],
+   "convStampedAt": "2026-11-14"
+  },
+  {
+   "name": "엔비디아(NVDA)",
+   "type": "warning",
+   "market": "美",
+   "flagDate": "2026-11-14",
+   "signals": [
+    "CEO사임후6주연속약세",
+    "후임미확정",
+    "공매도경고(마이클버리)"
+   ],
+   "theme": "AI반도체(대형)",
+   "status": "pending",
+   "checks": []
   }
  ],
  "stats": {
@@ -70708,8 +70745,8 @@
   "miss": 164,
   "hitRate": 24.3,
   "avgD3ChangePct": 0.32,
-  "pending": 321,
-  "total": 708,
+  "pending": 323,
+  "total": 710,
   "byType": {
    "leading": {
     "verified": 163,

@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-13T03:36:43+09:00",
+ "updatedAt": "2026-11-14T11:49:25+09:00",
  "note": "빗나감 자동 원인분류 + 자기발전 필터. 투자권유 아님.",
  "summary": {
   "resolved": 263,
@@ -207,25 +207,14 @@
  },
  "macro": {
   "regime": "중립",
-  "kospi5d": 5.59,
-  "kosdaq5d": 8.11,
-  "fearGreed": 43.0,
-  "vix": 17.49,
+  "kospi5d": 5.09,
+  "kosdaq5d": 11.27,
+  "fearGreed": 38.0,
+  "vix": 18.7,
   "guidance": "선별 유지 — 승세테마+구체촉발재 우선, 약신호·열세테마 경계.",
-  "asOf": "2026-11-13"
+  "asOf": "2026-11-14"
  },
  "history": [
-  {
-   "date": "2026-09-09",
-   "resolved": 235,
-   "missRate": 53.6,
-   "causeShares": {
-    "weak_signal": 47.6,
-    "idiosyncratic": 36.5,
-    "macro_riskoff": 11.9,
-    "theme_headwind": 4.0
-   }
-  },
   {
    "date": "2026-09-10",
    "resolved": 237,
@@ -928,7 +917,19 @@
     "theme_headwind": 2.2,
     "late_entry": 1.5
    }
+  },
+  {
+   "date": "2026-11-14",
+   "resolved": 263,
+   "missRate": 51.7,
+   "causeShares": {
+    "weak_signal": 45.6,
+    "idiosyncratic": 39.7,
+    "macro_riskoff": 11.0,
+    "theme_headwind": 2.2,
+    "late_entry": 1.5
+   }
   }
  ],
- "develop": "직전(2026-11-12) 대비 빗나감률 51.7%→51.7% (+0.0p). 최다 원인=‘신호 약함(구체 촉발재 없음)’. 필터에 반영됨."
+ "develop": "직전(2026-11-13) 대비 빗나감률 51.7%→51.7% (+0.0p). 최다 원인=‘신호 약함(구체 촉발재 없음)’. 필터에 반영됨."
 }
