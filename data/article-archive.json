@@ -3,6 +3,18 @@
   "SK하이닉스(000660)": {
    "articles": [
     {
+     "date": "2026-11-16",
+     "source": "파이낸셜·증권",
+     "title": "SK하이닉스, 5800억원 자금 유입 기대",
+     "link": "https://www.fnnews.com/news/202611151815451831"
+    },
+    {
+     "date": "2026-11-16",
+     "source": "파이낸셜·증권",
+     "title": "MSCI서 몸집 키운 SK하이닉스…5800억원 外人 자금 들어온다",
+     "link": "https://www.fnnews.com/news/202611150917122617"
+    },
+    {
      "date": "2026-11-14",
      "source": "파이낸셜·증권",
      "title": "지앤비에스에코, SK하이닉스·인도 태양광 '쌍끌이'…연매출 기록 9개월 만에 깼다",
@@ -709,18 +721,6 @@
      "source": "한국경제·증권",
      "title": "SK하이닉스, 솔리다임 IPO 검토 중단에도…프리장서 120만원 붕괴",
      "link": "https://www.hankyung.com/article/2026102300706"
-    },
-    {
-     "date": "2026-10-23",
-     "source": "한국경제·증권",
-     "title": "SK하이닉스, 반도체 '저평가' 족쇄 풀었다…남은 과제는?",
-     "link": "https://www.hankyung.com/article/202610231264i"
-    },
-    {
-     "date": "2026-10-23",
-     "source": "한국경제·증권",
-     "title": "SK하이닉스 매도 나선 1% 초고수들…'이 종목'으로 갈아탔다",
-     "link": "https://www.hankyung.com/article/202610228285i"
     }
    ]
   },
@@ -1451,6 +1451,12 @@
   "현대차(005380)": {
    "articles": [
     {
+     "date": "2026-11-16",
+     "source": "한국경제·경제",
+     "title": "\"화학업계 新시장 된 로봇·AI…현대차와 휴머노이드 소재 협력\"",
+     "link": "https://www.hankyung.com/article/2026111574371"
+    },
+    {
      "date": "2026-11-12",
      "source": "파이낸셜뉴스",
      "title": "산업인력공단·현대차, 일학습병행 고등생 100명 대상 AI 특강",
@@ -2163,12 +2169,6 @@
      "source": "한국경제·증권",
      "title": "\"AI 로봇 믿었는데\"…'주가 반토막' 현대차 반등은 언제?",
      "link": "https://www.hankyung.com/article/202609218323i"
-    },
-    {
-     "date": "2026-09-22",
-     "source": "파이낸셜·증권",
-     "title": "미래에셋운용, 현대차·LG전자 중심 피지컬AI ETF 22일 상장",
-     "link": "https://www.fnnews.com/news/202609211420493897"
     }
    ]
   },
@@ -6025,6 +6025,42 @@
   "엔비디아(NVDA)": {
    "articles": [
     {
+     "date": "2026-11-16",
+     "source": "한국경제·증권",
+     "title": "뉴욕·상하이 증시, 엔비디아 실적 발표…AI주식 향방 좌우",
+     "link": "https://www.hankyung.com/article/2026111574511"
+    },
+    {
+     "date": "2026-11-16",
+     "source": "파이낸셜·증권",
+     "title": "엔비디아 실적발표에 쏠리는 눈...앤스로픽 상장까지[주간증시전망]",
+     "link": "https://www.fnnews.com/news/202611150129458878"
+    },
+    {
+     "date": "2026-11-16",
+     "source": "파이낸셜·증권",
+     "title": "엔비디아 실적발표·앤스로픽 상장 주목 [주간증시전망]",
+     "link": "https://www.fnnews.com/news/202611151911427765"
+    },
+    {
+     "date": "2026-11-16",
+     "source": "연합인포맥스",
+     "title": "엔비디아 주요 투자자들, 이사회에 젠슨 황 복귀 요구",
+     "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4444823"
+    },
+    {
+     "date": "2026-11-16",
+     "source": "연합인포맥스",
+     "title": "&quot;트럼프, 엔비디아 수출 규제 완화하며 엔비디아 주식 매입&quot;",
+     "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4444824"
+    },
+    {
+     "date": "2026-11-16",
+     "source": "아시아경제",
+     "title": "[마켓 ING]코스피 반등, 여전히 엔비디아에 달렸다",
+     "link": "https://view.asiae.co.kr/article/2026111516505463421"
+    },
+    {
      "date": "2026-11-15",
      "source": "한국경제·증권",
      "title": "젠슨 황 떠난 엔비디아의 빈틈…삼전닉스엔 '뜻밖의 호재'?",
@@ -6707,42 +6743,6 @@
      "source": "한국경제·증권",
      "title": "엔비디아와 메타 협력, \"AI 투자 확대 촉매\" [월가 업&다운]",
      "link": "https://www.hankyung.com/article/202610291866i"
-    },
-    {
-     "date": "2026-10-29",
-     "source": "한국경제·증권",
-     "title": "엔비디아 GPU·미술품까지…자산담보금융 시장 커진다",
-     "link": "https://www.hankyung.com/article/2026102814311"
-    },
-    {
-     "date": "2026-10-29",
-     "source": "한국경제·증권",
-     "title": "앤트로픽 IPO·하이닉스 환원·엔비디아 방한…'겹호재' 속 초고수 선택은",
-     "link": "https://www.hankyung.com/article/202610280177i"
-    },
-    {
-     "date": "2026-10-29",
-     "source": "한국경제·증권",
-     "title": "삼성도 찜한 '이 분야'…엔비디아 동맹에 주가 솟구쳤다",
-     "link": "https://www.hankyung.com/article/202610280043i"
-    },
-    {
-     "date": "2026-10-29",
-     "source": "한국경제·경제",
-     "title": "엔비디아·애플보다 현금많은 6년차기업…앤스로픽 176조원에 시장\"깜짝\"",
-     "link": "https://www.hankyung.com/article/202610281854i"
-    },
-    {
-     "date": "2026-10-29",
-     "source": "연합뉴스·경제",
-     "title": "[특징주] 엔비디아 매디슨 황 방한 소식 등에 로봇주 강세 마감(종합)",
-     "link": "https://www.yna.co.kr/view/AKR20261028047751008"
-    },
-    {
-     "date": "2026-10-29",
-     "source": "뉴시스·경제",
-     "title": "\"오픈AI도 구글 AI칩 TPU 구매 추진…엔비디아 독주 흔들까\"",
-     "link": "https://www.newsis.com/view/NISX20261028_0003844594"
     }
    ]
   },
@@ -17393,6 +17393,12 @@
   "LG엔솔(373220)": {
    "articles": [
     {
+     "date": "2026-11-16",
+     "source": "한국경제·경제",
+     "title": "LG엔솔·삼성SDI, 美서 차세대 ESS 배터리 공개",
+     "link": "https://www.hankyung.com/article/2026111574441"
+    },
+    {
      "date": "2026-11-15",
      "source": "연합인포맥스",
      "title": "LG엔솔·삼성SDI, 북미 최대 신재생에너지 전시회 참가…&quot;AI 성장 뒷받침&quot;",
@@ -17708,6 +17714,12 @@
   },
   "LG전자(066570)": {
    "articles": [
+    {
+     "date": "2026-11-16",
+     "source": "한국경제·경제",
+     "title": "LG전자 美테네시 공장, 1000만대 생산 달성",
+     "link": "https://www.hankyung.com/article/2026111574431"
+    },
     {
      "date": "2026-11-15",
      "source": "연합인포맥스",
@@ -18421,12 +18433,6 @@
      "source": "한국경제·경제",
      "title": "LG전자, GS건설 손잡고 차세대 'AI 홈' 개발 속도",
      "link": "https://www.hankyung.com/article/2026071325121"
-    },
-    {
-     "date": "2026-07-13",
-     "source": "한국경제·증권",
-     "title": "'AI 열 관리 강자' LG전자, 엔비디아 효과에 12% '급등' [종목+]",
-     "link": "https://www.hankyung.com/article/2026071309996"
     }
    ]
   },
@@ -24123,6 +24129,12 @@
   "롯데칠성(005300)": {
    "articles": [
     {
+     "date": "2026-11-16",
+     "source": "한국경제·증권",
+     "title": "원화 강세에 '캪틴큐'까지…롯데칠성, 4분기 이익 컨센서스 70%↑",
+     "link": "https://www.hankyung.com/article/202611157097i"
+    },
+    {
      "date": "2026-11-10",
      "source": "한국경제·증권",
      "title": "[오늘의 증권가 콜] 펌텍코리아, 롯데칠성, 대한항공, 두산, 원익IPS, 한전기술, 알테오젠",
@@ -25002,6 +25014,12 @@
   },
   "HMM(011200)": {
    "articles": [
+    {
+     "date": "2026-11-16",
+     "source": "아시아경제",
+     "title": "배 살 때부터 달랐다…HMM '알뜰 항해'의 힘[주末머니]",
+     "link": "https://view.asiae.co.kr/article/2026111315052888098"
+    },
     {
      "date": "2026-11-14",
      "source": "연합인포맥스",
@@ -28757,6 +28775,12 @@
   "고려아연(010130)": {
    "articles": [
     {
+     "date": "2026-11-16",
+     "source": "연합인포맥스",
+     "title": "고려아연 美 통합제련소, 230MW 전력 사용 승인…2029년 공급",
+     "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4444818"
+    },
+    {
      "date": "2026-11-13",
      "source": "한국경제·경제",
      "title": "법원 \"영풍 의결권 제한한 고려아연 주총 결의 취소\"",
@@ -29194,6 +29218,12 @@
   },
   "SK(034730)": {
    "articles": [
+    {
+     "date": "2026-11-16",
+     "source": "한국경제·경제",
+     "title": "최태원 \"SK, 기존 틀 깨고 AI컴퍼니로 재정의해야\"",
+     "link": "https://www.hankyung.com/article/2026111574461"
+    },
     {
      "date": "2026-11-12",
      "source": "한국경제·경제",
@@ -30639,6 +30669,24 @@
   "HD현대(267250)": {
    "articles": [
     {
+     "date": "2026-11-16",
+     "source": "한국경제·경제",
+     "title": "HD현대, 안두릴과 무인수상함 띄웠다…\"美 해군 수주 도전\"",
+     "link": "https://www.hankyung.com/article/2026111574421"
+    },
+    {
+     "date": "2026-11-16",
+     "source": "한국경제·경제",
+     "title": "\"3년 걸릴 군함을 1년 만에\"…HD현대 '무인수상함' 진수식 현장 가보니 [르포]",
+     "link": "https://www.hankyung.com/article/202611157179i"
+    },
+    {
+     "date": "2026-11-16",
+     "source": "연합인포맥스",
+     "title": "HD현대·안두릴, 첫 한·미 합작 무인수상함 건조",
+     "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4444817"
+    },
+    {
      "date": "2026-11-01",
      "source": "연합뉴스·경제",
      "title": "SK·한화·HD현대, 핀셋 쇄신…삼성·LG도 안정에 무게 전망",
@@ -31190,6 +31238,24 @@
   },
   "삼성SDI(006400)": {
    "articles": [
+    {
+     "date": "2026-11-16",
+     "source": "한국경제·경제",
+     "title": "LG엔솔·삼성SDI, 美서 차세대 ESS 배터리 공개",
+     "link": "https://www.hankyung.com/article/2026111574441"
+    },
+    {
+     "date": "2026-11-16",
+     "source": "파이낸셜·증권",
+     "title": "삼성SDI, 순매수 2.8배 증가... 하이닉스는 1위에서 15위 밖 [1% 고수의 선택]",
+     "link": "https://www.fnnews.com/news/202611151911457960"
+    },
+    {
+     "date": "2026-11-16",
+     "source": "파이낸셜·증권",
+     "title": "고수들, 삼성SDI 매수 2.8배 늘렸다…하이닉스는 순위권 밖으로 [1% 고수의 선택]",
+     "link": "https://www.fnnews.com/news/202611150155375275"
+    },
     {
      "date": "2026-11-15",
      "source": "연합인포맥스",
@@ -37104,6 +37170,12 @@
   },
   "CJ대한통운(000120)": {
    "articles": [
+    {
+     "date": "2026-11-16",
+     "source": "연합인포맥스",
+     "title": "신영수 CJ대한통운 대표 &quot;혁신으로 기업가치 제고&quot;",
+     "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4444814"
+    },
     {
      "date": "2026-11-11",
      "source": "한국경제·증권",
@@ -50537,6 +50609,12 @@
   "SpaceX": {
    "articles": [
     {
+     "date": "2026-11-16",
+     "source": "MarketWatch",
+     "title": "Will the Anthropic IPO create a disturbance in the broader U.S. equity market, like SpaceX did?",
+     "link": "https://www.marketwatch.com/story/will-the-anthropic-ipo-create-a-disturbance-in-the-broader-u-s-equity-market-like-spacex-did-05ba4351?mod=mw_rss_topstories"
+    },
+    {
      "date": "2026-11-15",
      "source": "MarketWatch",
      "title": "SpaceX successfully catches Starship rocket in huge milestone for the space industry",
@@ -50870,6 +50948,12 @@
   },
   "Anthropic": {
    "articles": [
+    {
+     "date": "2026-11-16",
+     "source": "MarketWatch",
+     "title": "Will the Anthropic IPO create a disturbance in the broader U.S. equity market, like SpaceX did?",
+     "link": "https://www.marketwatch.com/story/will-the-anthropic-ipo-create-a-disturbance-in-the-broader-u-s-equity-market-like-spacex-did-05ba4351?mod=mw_rss_topstories"
+    },
     {
      "date": "2026-11-14",
      "source": "MarketWatch",
@@ -61455,6 +61539,12 @@
   "현대글로비스(086280)": {
    "articles": [
     {
+     "date": "2026-11-16",
+     "source": "한국경제·경제",
+     "title": "레드테크 공습의 역설…中 수출 특수에 쾌속 항해하는 현대글로비스",
+     "link": "https://www.hankyung.com/article/202611157355i"
+    },
+    {
      "date": "2026-11-02",
      "source": "연합뉴스·경제",
      "title": "현대글로비스, 인천물류센터 본격 가동…해외직구 통관도 처리",
@@ -71573,6 +71663,12 @@
   "Nvidia(NVDA)": {
    "articles": [
     {
+     "date": "2026-11-16",
+     "source": "MarketWatch",
+     "title": "Nvidia is gearing up for one of Wall Street’s most anticipated earnings calls in years",
+     "link": "https://www.marketwatch.com/story/nvidia-is-gearing-up-for-one-of-wall-streets-most-anticipated-earnings-calls-in-years-91855b1e?mod=mw_rss_topstories"
+    },
+    {
      "date": "2026-11-15",
      "source": "CNBC·Finance",
      "title": "How Nvidia turmoil and a Democratic Congress could reshape the AI trade, according to ETF experts",
@@ -73863,5 +73959,5 @@
    ]
   }
  },
- "updatedAt": "2026-11-15T10:41:02+09:00"
+ "updatedAt": "2026-11-16T01:57:24+09:00"
 }
