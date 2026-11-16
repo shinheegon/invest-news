@@ -1,24 +1,24 @@
 {
-  "updatedAt": "2026-11-16T10:55:00+09:00", "session": "AM",
-  "note": "11/16(월) 장중 업데이트 — 코스피는 삼성SDI 美 ESS 수주 호재로 +0.38%(5310선)까지 올랐다가 반도체 대형주(삼성전자·SK하이닉스) 매도세에 하락 전환, 9시12분 기준 5271선(-0.36%)까지 밀렸다. 美 데이터센터 규제 우려·AI투자 과열 경고가 지속되는 가운데 11/17(화) 엔비디아 실적이 분수령. 코스닥도 반도체 약세 동조에 1%대 하락 전환. 투자권유 아님.",
-  "stock_fng": { "value": 39, "label": "Fear", "source": "https://feargreedmeter.com/" },
-  "indices": [
-    { "name": "코스피", "value": "5,271.35", "change": "-0.36%(-19.18P), 장중(9:12 KST) · 개장 +0.28%(5305.40)→반도체 대형주 매도에 하락 전환", "source": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=504334" },
-    { "name": "코스닥", "value": "693.0(추정)", "change": "약 -0.9%~-1%, 반도체 약세 동조 하락 전환(장중)", "source": "https://www.greened.kr/news/articleView.html?idxno=354685" },
-    { "name": "S&P 500", "value": "7,561.67", "change": "-0.40%, 11/13(금) 마감 · 주간 +2.51%", "source": "https://www.washingtonpost.com/business/2026/11/13/wall-street-stocks-dow-nasdaq/f15a10e2-dfa7-11f1-912c-4fbb80d73f7f_story.html" },
-    { "name": "나스닥", "value": "25,136.27", "change": "-0.91%, 11/13(금) 마감 · 엔비디아發 AI주 매도 지속", "source": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-nov-13-2026" },
-    { "name": "다우", "value": "52,347.55", "change": "+0.10%, 11/13(금) 마감 · 4대지수 중 유일 상승", "source": "https://en.fnnews.com/news/202611140642023929" },
-    { "name": "VIX", "value": "19.84", "change": "+6.1%p 수준, 11/13 18.70→11/16 장중 19.8대로 소폭 추가 상승", "source": "https://www.investing.com/indices/volatility-s-p-500" },
-    { "name": "美 10년물", "value": "5.15%", "change": "+0.02%p, 장중 5.17%(10월來 최고권) · 12월 FOMC 인상 베팅 89%로 확산", "source": "https://www.investing.com/news/economy-news/fed-rate-hike-odds-in-december-at-88-after-hot-cpi-cme-fedwatch-5017585" },
-    { "name": "국고채 3년물", "value": "3.76%", "change": "소폭 상승 지속", "source": "https://news.einfomax.co.kr/news/articleView.html?idxno=4444756" },
-    { "name": "달러인덱스(DXY)", "value": "103.15", "change": "+0.23%, 2025년 4월래 최고권", "source": "https://www.kucoin.com/news/flash/bitcoin-falls-below-70-000-amid-dollar-rally-and-1-64-billion-in-liquidations" },
-    { "name": "원/달러", "value": "1,336.0", "change": "11/16 개장 1,336.0원(-0.7원) · 월말 1,358~1,360원대 상승 전망(긴축 경계)", "source": "https://www.tokenpost.kr/news/insights/438765" },
-    { "name": "美 기준금리", "value": "3.75~4.00%", "change": "0 · 케빈 워시 의장 체제 · 12월 FOMC(12/9) 25bp 인상 베팅 89%(CME)", "source": "https://www.investing.com/news/economy-news/fed-rate-hike-odds-in-december-at-88-after-hot-cpi-cme-fedwatch-5017585" },
-    { "name": "한국 기준금리", "value": "3.00%", "change": "0 · 10월 동결, 11/26 금통위서 0.25%p 인상(3.25%) 전망 우세", "source": "http://www.efnews.co.kr/news/articleView.html?idxno=133874" },
-    { "name": "美 CPI", "value": "4.0%(전년비)", "change": "근원 2.8% · 전월비 0.4%(예상 0.3% 상회), 10월 발표", "source": "https://m.news.nate.com/view/20261110n36920" },
-    { "name": "韓 CPI", "value": "2.8%", "change": "-0.1%p · 전월대비 0.2%↑, 전년대비 2.9%→2.8%로 소폭 둔화", "source": "https://www.korea.kr/briefing/policyBriefingView.do?newsId=156787698" },
-    { "name": "금(Gold)", "value": "3,883", "change": "-2.5%, 美 국채금리 5%대 안착에 되돌림", "source": "https://www.riotimesonline.com/global-economy-briefing-november-13-2026/" },
-    { "name": "WTI", "value": "88.56", "change": "-0.20%, 브렌트 95.84달러(+0.02%) · IEA 4분기 공급과잉 전망이 상단 제한, 호르무즈 리스크가 하단 지지", "source": "https://www.sentv.co.kr/article/view/sentv202611140002" },
-    { "name": "비트코인(BTC)", "value": "약 67,700", "change": "3개월래 최저권 유지, ETF 자금유출 지속", "source": "https://www.forbes.com/sites/digital-assets/2026/11/13/bitcoin-falls-below-70000-to-reach-lowest-since-august/" }
-  ]
+ "updatedAt": "2026-11-17T05:40:00+09:00", "session": "AM",
+ "note": "11/17(화) AM — 코스피 11/16(월) -3.59%(5100.50) 3거래일 연속 급락, 코스닥 -4.86%(665.65). 젠슨 황 前엔비디아 CEO 사임 후폭풍·외국인 대량 순매도가 주도, 장 초반 삼성SDI 美ESS 수주 호재 반납. 美증시는 11/13(금) 마감 기준(혼조)이며 11/16(월)은 엔비디아 실적(11/17 美장 마감후 발표, 황 사임 후 첫 실적)·앤트로픽 IPO(11/19)를 앞두고 기술주 매도 지속. 투자권유 아님.",
+ "stock_fng": { "value": 39, "label": "Fear", "source": "https://www.benzinga.com/markets/market-summary/26/11/63130061/dow-falls-over-150-points-following-inflation-report-greed-index-remains-in-fear-zone" },
+ "indices": [
+  { "name": "코스피", "value": "5,100.50", "change": "-3.59%(-190.03P), 11/16(월) 마감 · 3거래일 연속 하락 · 외국인·기관 1.6조+ 순매도", "source": "https://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202611160137" },
+  { "name": "코스닥", "value": "665.65", "change": "-4.86%(-34.01P), 11/16(월) 마감 · 반등 시도(705선) 무산 후 급락", "source": "https://view.asiae.co.kr/article/2026111615343205881" },
+  { "name": "S&P 500", "value": "7,561.67", "change": "-0.40%, 11/13(금) 마감(최근 완결 美마감) · 주간 +2.51%", "source": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-nov-13-2026" },
+  { "name": "나스닥", "value": "25,136.27", "change": "-0.91%, 11/13(금) 마감 · 11/16(월) 장중 엔비디아 실적·앤트로픽 IPO 경계 속 추가 매도 지속", "source": "https://www.fool.com/coverage/stock-market-today/2026/11/16/stock-market-midday-nov-16-stocks-slide-as-tech-selling-intensifies-across-the-market/" },
+  { "name": "다우", "value": "52,347.55", "change": "+0.10%, 11/13(금) 마감 · 4대지수 중 유일 상승", "source": "https://en.fnnews.com/news/202611140642023929" },
+  { "name": "VIX", "value": "19.8", "change": "11/16 장중 19~20대, 전주 한때 23대 터치", "source": "https://www.itiger.com/news/2481997564" },
+  { "name": "美 10년물", "value": "5.15%", "change": "10월來 최고권 · 1년반 만 최악의 한 주, 12월 FOMC 인상 베팅 확산", "source": "https://m.news.nate.com/view/20261115n04639" },
+  { "name": "국고채 3년물", "value": "3.76%", "change": "소폭 상승 지속", "source": "https://news.einfomax.co.kr/news/articleView.html?idxno=4444756" },
+  { "name": "달러인덱스(DXY)", "value": "103.15", "change": "2025년 4월來 최고권 · 비트코인 등 위험자산 약세 동반", "source": "https://www.kucoin.com/news/flash/bitcoin-falls-below-70-000-amid-dollar-rally-and-1-64-billion-in-liquidations" },
+  { "name": "원/달러", "value": "1,336.20", "change": "11/16 하나은행 매매기준율, 전일比 -1.80원", "source": "https://www.job-post.co.kr/news/articleView.html?idxno=238515" },
+  { "name": "美 기준금리", "value": "3.75~4.00%", "change": "0 · 케빈 워시 의장 체제, 10/28 동결(10-2 split) · 12/8~9 FOMC 인상 베팅 확산", "source": "https://www.cnbc.com/2026/10/28/fed-rate-decision-warsh-takeaways.html" },
+  { "name": "한국 기준금리", "value": "3.00%", "change": "0 · 10월 동결 · 11/26 금통위서 0.25%p 인상(3.25%) 전망 우세(증권사 9/10)", "source": "https://www.fnnews.com/news/202610221909169005" },
+  { "name": "美 CPI", "value": "4.0%(추정)", "change": "전월비 0.4%(예상 0.3% 상회)·근원 0.3%(예상 0.2% 상회), 10월 발표 · 연간치는 작년 셧다운 영향으로 미집계", "source": "https://kr.benzinga.com/news/usa/economy/%EB%AF%B8%EA%B5%AD-10%EC%9B%94-%EC%86%8C%EB%B9%84%EC%9E%90%EB%AC%BC%EA%B0%80%EC%A7%80%EC%88%98cpi-0-4-%EC%83%81%EC%8A%B9-%EC%98%88%EC%83%81%EC%B9%98-%EC%9B%83%EB%8F%8C%EC%9412" },
+  { "name": "韓 CPI", "value": "2.8%", "change": "-0.1%p · 전월대비 0.2%↑, 석유 최고가격제가 0.8%p 하방 견인", "source": "https://www.mt.co.kr/index.php/economy/2026/11/03/2026110308121520247" },
+  { "name": "금(Gold)", "value": "3,883", "change": "-2.5%, 美 국채금리 5%대 안착에 되돌림", "source": "https://www.riotimesonline.com/global-economy-briefing-november-13-2026/" },
+  { "name": "WTI", "value": "88.74", "change": "브렌트 92.77~95.82달러 · 호르무즈 선박 피격 지속(10월 37척, 전쟁後 최다)", "source": "https://www.g-enews.com/article/Global-Biz/2026/11/2026111120433124269a1f309431_1" },
+  { "name": "비트코인(BTC)", "value": "약 66,870", "change": "7만달러 재붕괴 · 3개월래 최저권, 24h 선물청산 13억달러+", "source": "https://www.blockmedia.co.kr/archives/1165545" }
+ ]
 }

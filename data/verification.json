@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-16T11:07:16+09:00",
+ "updatedAt": "2026-11-17T05:51:12+09:00",
  "cases": [
   {
    "name": "비나텍(126340)",
@@ -70864,6 +70864,159 @@
    "theme": "AI반도체",
    "status": "pending",
    "checks": []
+  },
+  {
+   "name": "아이씨에이치(368600)",
+   "type": "leading",
+   "market": "韓",
+   "flagDate": "2026-11-17",
+   "signals": [
+    "로봇관절PU폼양산",
+    "38일공백후재점등",
+    "3Q영업손실91%축소"
+   ],
+   "theme": "로봇/휴머노이드",
+   "status": "pending",
+   "checks": [],
+   "convScore": 7,
+   "convTier": "high",
+   "convSignals": [
+    "반복포착",
+    "승세테마",
+    "구체촉발재"
+   ],
+   "convStampedAt": "2026-11-17"
+  },
+  {
+   "name": "아이엘(307180)",
+   "type": "leading",
+   "market": "韓",
+   "flagDate": "2026-11-17",
+   "signals": [
+    "로봇손신규진출",
+    "아이엘핸드상표출원",
+    "7일공백후재점등"
+   ],
+   "theme": "로봇/휴머노이드",
+   "status": "pending",
+   "checks": [],
+   "convScore": 5,
+   "convTier": "high",
+   "convSignals": [
+    "반복포착",
+    "승세테마"
+   ],
+   "convStampedAt": "2026-11-17"
+  },
+  {
+   "name": "한국피아이엠(448970)",
+   "type": "leading",
+   "market": "韓",
+   "flagDate": "2026-11-17",
+   "signals": [
+    "글로벌휴머노이드社샘플공급개시",
+    "93일공백후재점등"
+   ],
+   "theme": "로봇/휴머노이드",
+   "status": "pending",
+   "checks": [],
+   "convScore": 7,
+   "convTier": "high",
+   "convSignals": [
+    "반복포착",
+    "승세테마",
+    "구체촉발재"
+   ],
+   "convStampedAt": "2026-11-17"
+  },
+  {
+   "name": "가온칩스(399720)",
+   "type": "discovery",
+   "market": "韓",
+   "flagDate": "2026-11-17",
+   "signals": [
+    "2나노DX-M2수주",
+    "수주잔고1000억"
+   ],
+   "theme": "AI반도체설계(팹리스/IP)",
+   "status": "pending",
+   "checks": [],
+   "convScore": 7,
+   "convTier": "high",
+   "convSignals": [
+    "반복포착",
+    "승세테마",
+    "구체촉발재"
+   ],
+   "convStampedAt": "2026-11-17"
+  },
+  {
+   "name": "세미파이브(490470)",
+   "type": "discovery",
+   "market": "韓",
+   "flagDate": "2026-11-17",
+   "signals": [
+    "3Q신규수주437%YoY",
+    "수주잔고역대최대"
+   ],
+   "theme": "AI반도체설계(팹리스/IP)",
+   "status": "pending",
+   "checks": [],
+   "convScore": 7,
+   "convTier": "high",
+   "convSignals": [
+    "반복포착",
+    "승세테마",
+    "구체촉발재"
+   ],
+   "convStampedAt": "2026-11-17"
+  },
+  {
+   "name": "대동기어(008830)",
+   "type": "discovery",
+   "market": "韓",
+   "flagDate": "2026-11-17",
+   "signals": [
+    "수주잔고1.9조원",
+    "체어로봇감속기모듈개발완료"
+   ],
+   "theme": "로봇/휴머노이드",
+   "status": "pending",
+   "checks": [],
+   "convScore": 7,
+   "convTier": "high",
+   "convSignals": [
+    "반복포착",
+    "승세테마",
+    "구체촉발재"
+   ],
+   "convStampedAt": "2026-11-17"
+  },
+  {
+   "name": "나무가(190510)",
+   "type": "warning",
+   "market": "韓",
+   "flagDate": "2026-11-17",
+   "signals": [
+    "AI부정행위탐지테마급등",
+    "이미25.9%급등반영"
+   ],
+   "theme": "기타(이벤트성)",
+   "status": "pending",
+   "checks": []
+  },
+  {
+   "name": "세코닉스(053450)",
+   "type": "warning",
+   "market": "韓",
+   "flagDate": "2026-11-17",
+   "signals": [
+    "AI부정행위탐지테마상한가",
+    "이미반영"
+   ],
+   "theme": "기타(이벤트성)",
+   "status": "pending",
+   "checks": []
   }
  ],
  "stats": {
@@ -70873,8 +71026,8 @@
   "miss": 164,
   "hitRate": 24.3,
   "avgD3ChangePct": 0.32,
-  "pending": 330,
-  "total": 717,
+  "pending": 338,
+  "total": 725,
   "byType": {
    "leading": {
     "verified": 163,
