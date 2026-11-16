@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-16T02:25:50+09:00",
+ "updatedAt": "2026-11-16T11:07:16+09:00",
  "cases": [
   {
    "name": "비나텍(126340)",
@@ -70755,6 +70755,115 @@
     "반복포착"
    ],
    "convStampedAt": "2026-11-15"
+  },
+  {
+   "name": "오리엔트정공(065500)",
+   "type": "leading",
+   "market": "韓",
+   "flagDate": "2026-11-16",
+   "signals": [
+    "반복포착7회",
+    "피지컬AI실증기업선정",
+    "코모텍핵심부품MOU",
+    "아직주가미반영"
+   ],
+   "theme": "피지컬AI/로봇",
+   "status": "pending",
+   "checks": [],
+   "convScore": 7,
+   "convTier": "high",
+   "convSignals": [
+    "반복포착",
+    "승세테마",
+    "구체촉발재"
+   ],
+   "convStampedAt": "2026-11-16"
+  },
+  {
+   "name": "한울소재과학(091440)",
+   "type": "leading",
+   "market": "韓",
+   "flagDate": "2026-11-16",
+   "signals": [
+    "KT36억재난안전통신망계약",
+    "45일공백후재점등",
+    "공시일무반응"
+   ],
+   "theme": "통신인프라(방산인접)",
+   "status": "pending",
+   "checks": [],
+   "convScore": 7,
+   "convTier": "high",
+   "convSignals": [
+    "반복포착",
+    "구체촉발재",
+    "틈새레이더"
+   ],
+   "convStampedAt": "2026-11-16"
+  },
+  {
+   "name": "파인텍(131760)",
+   "type": "leading",
+   "market": "韓",
+   "flagDate": "2026-11-16",
+   "signals": [
+    "3Q흑자전환",
+    "OLED100억추가수주",
+    "초소형시총74억"
+   ],
+   "theme": "디스플레이소재",
+   "status": "pending",
+   "checks": [],
+   "convScore": 7,
+   "convTier": "high",
+   "convSignals": [
+    "반복포착",
+    "구체촉발재",
+    "틈새레이더"
+   ],
+   "convStampedAt": "2026-11-16"
+  },
+  {
+   "name": "세미파이브(490470)",
+   "type": "warning",
+   "market": "韓",
+   "flagDate": "2026-11-16",
+   "signals": [
+    "3Q신규수주437%증가역대최대",
+    "이미누적32회반복보도",
+    "사상최대실적셀온패턴"
+   ],
+   "theme": "AI반도체설계(팹리스/IP)",
+   "status": "pending",
+   "checks": []
+  },
+  {
+   "name": "씨메스로보틱스(475400)",
+   "type": "warning",
+   "market": "韓",
+   "flagDate": "2026-11-16",
+   "signals": [
+    "3Q매출183.8%증가창사최대",
+    "이미누적48회반복보도",
+    "사상최대실적셀온패턴"
+   ],
+   "theme": "로봇/휴머노이드",
+   "status": "pending",
+   "checks": []
+  },
+  {
+   "name": "엔비디아(NVDA)",
+   "type": "warning",
+   "market": "美",
+   "flagDate": "2026-11-16",
+   "signals": [
+    "젠슨황리더십리스크6주반영",
+    "복귀청원13만6천명",
+    "11/17실적전불확실성"
+   ],
+   "theme": "AI반도체",
+   "status": "pending",
+   "checks": []
   }
  ],
  "stats": {
@@ -70764,8 +70873,8 @@
   "miss": 164,
   "hitRate": 24.3,
   "avgD3ChangePct": 0.32,
-  "pending": 324,
-  "total": 711,
+  "pending": 330,
+  "total": 717,
   "byType": {
    "leading": {
     "verified": 163,

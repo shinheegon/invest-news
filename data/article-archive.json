@@ -4,6 +4,12 @@
    "articles": [
     {
      "date": "2026-11-16",
+     "source": "한국경제·경제",
+     "title": "\"반도체 기술 혼자 안 쓴다\"…SK하이닉스가 만든 '비밀병기'",
+     "link": "https://www.hankyung.com/article/202611168049i"
+    },
+    {
+     "date": "2026-11-16",
      "source": "파이낸셜·증권",
      "title": "SK하이닉스, 5800억원 자금 유입 기대",
      "link": "https://www.fnnews.com/news/202611151815451831"
@@ -11,8 +17,20 @@
     {
      "date": "2026-11-16",
      "source": "파이낸셜·증권",
+     "title": "SK하이닉스, 100조 주주환원에 쏠린 눈 \"시간은 매수자의 편\"",
+     "link": "https://www.fnnews.com/news/202611160726431862"
+    },
+    {
+     "date": "2026-11-16",
+     "source": "파이낸셜·증권",
      "title": "MSCI서 몸집 키운 SK하이닉스…5800억원 外人 자금 들어온다",
      "link": "https://www.fnnews.com/news/202611150917122617"
+    },
+    {
+     "date": "2026-11-16",
+     "source": "pinpointnews.co.kr",
+     "title": "- SK하이닉스(000660): 11/16 장중 1.32% 하락(120만원) — 모건스탠리의 \"2028년 이후 HBM 공급과잉\" 경고 재부상과 겹쳐 반도체 대형주",
+     "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=504334"
     },
     {
      "date": "2026-11-14",
@@ -703,29 +721,47 @@
      "source": "한국경제·증권",
      "title": "솔리다임 IPO철회했는데 SK하이닉스 주가는 왜 떨어지나",
      "link": "https://www.hankyung.com/article/202610230209i"
-    },
-    {
-     "date": "2026-10-23",
-     "source": "한국경제·증권",
-     "title": "[속보] SK하이닉스, 솔리다임 프리IPO·IPO 검토 중단",
-     "link": "https://www.hankyung.com/article/2026102399877"
-    },
-    {
-     "date": "2026-10-23",
-     "source": "한국경제·증권",
-     "title": "[마켓라이브] 4% 급락 딛고 돌아선 코스피…솔리다임 상장 접자 SK하이닉스 4%↑",
-     "link": "https://www.hankyung.com/article/202610230242i"
-    },
-    {
-     "date": "2026-10-23",
-     "source": "한국경제·증권",
-     "title": "SK하이닉스, 솔리다임 IPO 검토 중단에도…프리장서 120만원 붕괴",
-     "link": "https://www.hankyung.com/article/2026102300706"
     }
    ]
   },
   "삼성전자(005930)": {
    "articles": [
+    {
+     "date": "2026-11-16",
+     "source": "한국경제·증권",
+     "title": "\"삼성전자, 脫엔비디아 시대 최대 수혜주\"",
+     "link": "https://www.hankyung.com/article/2026111679816"
+    },
+    {
+     "date": "2026-11-16",
+     "source": "한국경제·증권",
+     "title": "\"삼성전자, '연산하는 메모리'가 주가 재평가 열쇠\"-LS",
+     "link": "https://www.hankyung.com/article/2026111679306"
+    },
+    {
+     "date": "2026-11-16",
+     "source": "파이낸셜·증권",
+     "title": "엔비디아 실적 앞두고 하이닉스 2%대 하락…삼성전자도 약세[종목 NOW]",
+     "link": "https://www.fnnews.com/news/202611160951115980"
+    },
+    {
+     "date": "2026-11-16",
+     "source": "파이낸셜·증권",
+     "title": "\"젠슨황 떠나도 AI 제국 커진다...삼성전자는 탈엔비디아 최대 수혜주\"",
+     "link": "https://www.fnnews.com/news/202611160822449785"
+    },
+    {
+     "date": "2026-11-16",
+     "source": "연합뉴스·경제",
+     "title": "[특징주] 삼성전자, 보합권서 등락…하이닉스, 1%대 하락",
+     "link": "https://www.yna.co.kr/view/AKR20261116034300008"
+    },
+    {
+     "date": "2026-11-16",
+     "source": "pinpointnews.co.kr",
+     "title": "- 삼성전자(005930): 11/16 장중 0.12% 하락(20만5750원) — 반도체 대형주 매도 동조, HBM4 양산은 순조.",
+     "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=504334"
+    },
     {
      "date": "2026-11-15",
      "source": "연합인포맥스",
@@ -1409,42 +1445,6 @@
      "source": "파이낸셜뉴스",
      "title": "매출 100조 삼성전자, 사람을 바꿨다면 평가 룰도 엎어라 [김문경의 리더십테크](30)",
      "link": "https://www.fnnews.com/news/202610131548384084"
-    },
-    {
-     "date": "2026-10-25",
-     "source": "joongangenews.com",
-     "title": "- 삼성전자(005930): HBM4 세계 최초 양산 출하 이후 엔비디아 '베라 루빈'向 최종 검증을 통과했고, 10/23 장중 -3.15%까지 밀렸다가 +0.4",
-     "link": "https://www.joongangenews.com/news/articleView.html?idxno=557723"
-    },
-    {
-     "date": "2026-10-24",
-     "source": "g-enews.com",
-     "title": "- 삼성전자(005930): HBM4 2027년 공급분을 기가바이트당 $4 중후반대(전세대 약 3배)로 주요 고객사와 협상 중. 번스타인은 삼성전자의 HBM4 기",
-     "link": "https://www.g-enews.com/article/Global-Biz/2026/10/202610031136088018fbbec65dfb_1"
-    },
-    {
-     "date": "2026-10-23",
-     "source": "파이낸셜·증권",
-     "title": "코스피, 전날 급등 뒤 0.94% 하락…삼성전자·SK하이닉스 동반 약세 [fn오전시황]",
-     "link": "https://www.fnnews.com/news/202610221004420220"
-    },
-    {
-     "date": "2026-10-23",
-     "source": "파이낸셜·증권",
-     "title": "연기금이 담는 삼성화재, 삼성전자 지분 1.49%에 특별배당 기대까지",
-     "link": "https://www.fnnews.com/news/202610231609088332"
-    },
-    {
-     "date": "2026-10-23",
-     "source": "파이낸셜·증권",
-     "title": "디케이락, '삼성전자 메탈 가스 필터' 품질 실사 통과…평택 P5 공급 목표",
-     "link": "https://www.fnnews.com/news/202610221011414741"
-    },
-    {
-     "date": "2026-10-23",
-     "source": "joongangenews.com",
-     "title": "- 삼성전자(005930): 메모리 공급과잉 공포로 전일 4~5% 동반 급락했으나, HBM4 장기공급가를 HBM3E 대비 3배 이상인 GB당 4달러 중후반대로 책",
-     "link": "https://www.joongangenews.com/news/articleView.html?idxno=552557"
     }
    ]
   },
@@ -6027,6 +6027,12 @@
     {
      "date": "2026-11-16",
      "source": "한국경제·증권",
+     "title": "치솟는 금리, 물가 속 엔비디아 실적 발표…빅위크의 시작 [오늘 아침 당신이 알아야 할 7가지]",
+     "link": "https://www.hankyung.com/article/202611157717i"
+    },
+    {
+     "date": "2026-11-16",
+     "source": "한국경제·증권",
      "title": "뉴욕·상하이 증시, 엔비디아 실적 발표…AI주식 향방 좌우",
      "link": "https://www.hankyung.com/article/2026111574511"
     },
@@ -6044,6 +6050,12 @@
     },
     {
      "date": "2026-11-16",
+     "source": "파이낸셜·증권",
+     "title": "엔비디아 실적 앞두고 하이닉스 2%대 하락…삼성전자도 약세[종목 NOW]",
+     "link": "https://www.fnnews.com/news/202611160951115980"
+    },
+    {
+     "date": "2026-11-16",
      "source": "연합인포맥스",
      "title": "엔비디아 주요 투자자들, 이사회에 젠슨 황 복귀 요구",
      "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4444823"
@@ -6056,9 +6068,45 @@
     },
     {
      "date": "2026-11-16",
+     "source": "연합인포맥스",
+     "title": "&quot;젠슨 황 퇴진, 엔비디아 넘어 AI 투자 전반에 충격 가능성&quot;",
+     "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4444913"
+    },
+    {
+     "date": "2026-11-16",
+     "source": "연합인포맥스",
+     "title": "&quot;엔비디아 팔고 마이크론으로 갈아탔다&quot;",
+     "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4444878"
+    },
+    {
+     "date": "2026-11-16",
+     "source": "연합뉴스·경제",
+     "title": "iM증권 \"엔비디아·코스피, 불편한 차트…중요한건 펀더멘털\"",
+     "link": "https://www.yna.co.kr/view/AKR20261116022900008"
+    },
+    {
+     "date": "2026-11-16",
      "source": "아시아경제",
      "title": "[마켓 ING]코스피 반등, 여전히 엔비디아에 달렸다",
      "link": "https://view.asiae.co.kr/article/2026111516505463421"
+    },
+    {
+     "date": "2026-11-16",
+     "source": "뉴시스·경제",
+     "title": "베선트 \"엔비디아 CEO 외부 영입해야\"…中 우회 수출 의혹 해명 촉구",
+     "link": "https://www.newsis.com/view/NISX20261116_0003868835"
+    },
+    {
+     "date": "2026-11-16",
+     "source": "뉴시스·경제",
+     "title": "[주간 뉴욕증시]'젠슨 황' 사임 후 엔비디아 첫 실적…연준 의사록 주목",
+     "link": "https://www.newsis.com/view/NISX20261116_0003868985"
+    },
+    {
+     "date": "2026-11-16",
+     "source": "뉴시스·경제",
+     "title": "'불륜 파문' 젠슨 황, 엔비디아 CEO 복귀 모색…머스크까지 지원 사격",
+     "link": "https://www.newsis.com/view/NISX20261116_0003868839"
     },
     {
      "date": "2026-11-15",
@@ -6695,54 +6743,6 @@
      "source": "연합인포맥스",
      "title": "엔비디아·배당 역송금 경계에도 '잠잠'…달러-원 1,330원 회귀 전망",
      "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4442913"
-    },
-    {
-     "date": "2026-11-04",
-     "source": "아시아경제",
-     "title": "오텍캐리어, '데이터센터코리아 2026' 참가…엔비디아 인증 CDU 앞세워 공략",
-     "link": "https://view.asiae.co.kr/article/2026110408381850647"
-    },
-    {
-     "date": "2026-11-04",
-     "source": "뉴시스·경제",
-     "title": "\"51% 비중국에 팔라\"…엔비디아, 해외 데이터센터에 '탈중국' 압박",
-     "link": "https://www.newsis.com/view/NISX20261103_0003852883"
-    },
-    {
-     "date": "2026-10-30",
-     "source": "연합뉴스·경제",
-     "title": "엔비디아, 네이버에 1조4천억원 투자 내달 납입…3대 주주된다",
-     "link": "https://www.yna.co.kr/view/AKR20261030026400017"
-    },
-    {
-     "date": "2026-10-30",
-     "source": "아시아경제",
-     "title": "엔비디아, 네이버에 1조3000억 투자금 내달 초 납입",
-     "link": "https://view.asiae.co.kr/article/2026103009465841492"
-    },
-    {
-     "date": "2026-10-30",
-     "source": "아시아경제",
-     "title": "\"배당 받는 개미 2년새 30%↑…국내는 삼전, 해외는 엔비디아\"",
-     "link": "https://view.asiae.co.kr/article/2026102910492885968"
-    },
-    {
-     "date": "2026-10-30",
-     "source": "뉴시스·경제",
-     "title": "美법무, 엔비디아-허깅페이스 인수도 조사…\"AI 유통망 장악 여부\"",
-     "link": "https://www.newsis.com/view/NISX20261029_0003846147"
-    },
-    {
-     "date": "2026-10-29",
-     "source": "한국경제·증권",
-     "title": "오픈AI, 구글 TPU 구매 추진…엔비디아 의존도 낮추나",
-     "link": "https://www.hankyung.com/article/202610280398i"
-    },
-    {
-     "date": "2026-10-29",
-     "source": "한국경제·증권",
-     "title": "엔비디아와 메타 협력, \"AI 투자 확대 촉매\" [월가 업&다운]",
-     "link": "https://www.hankyung.com/article/202610291866i"
     }
    ]
   },
@@ -7753,6 +7753,12 @@
   "네이버(035420)": {
    "articles": [
     {
+     "date": "2026-11-16",
+     "source": "파이낸셜·증권",
+     "title": "\"네이버, AI 신사업 좋지만 본업이 둔화\"...목표가 ↓",
+     "link": "https://www.fnnews.com/news/202611150157461685"
+    },
+    {
      "date": "2026-11-14",
      "source": "파이낸셜·증권",
      "title": "\"연료비·요금 개편 부담\" 한국전력, 4분기 적자 전망…\"네이버, 내년에도 투자비 부담\" [株토피아]",
@@ -8465,12 +8471,6 @@
      "source": "연합뉴스·경제",
      "title": "네이버 D2SF, 가상 아이돌 스타트업 투자…버추얼 엔터 키운다",
      "link": "https://www.yna.co.kr/view/AKR20260709055700017"
-    },
-    {
-     "date": "2026-07-09",
-     "source": "연합뉴스·경제",
-     "title": "NH증권 \"네이버, 1GW 데이터센터 발표 후 주가 하락 과도\"",
-     "link": "https://www.yna.co.kr/view/AKR20260709034300008"
     }
    ]
   },
@@ -9927,6 +9927,12 @@
   "신세계(004170)": {
    "articles": [
     {
+     "date": "2026-11-16",
+     "source": "한국경제·증권",
+     "title": "\"신세계, 4분기 백화점·면세 둔화…목표가↓\"-유안타",
+     "link": "https://www.hankyung.com/article/2026111679376"
+    },
+    {
      "date": "2026-11-12",
      "source": "한국경제·증권",
      "title": "'실적 파티 끝?' 증권사 12곳 모두 목표가 하향…신세계에 무슨 일이",
@@ -10509,6 +10515,12 @@
   "리노공업(058470)": {
    "articles": [
     {
+     "date": "2026-11-16",
+     "source": "연합뉴스·경제",
+     "title": "삼성증권 \"리노공업, 3분기 실적 어닝 쇼크…목표가↓\"",
+     "link": "https://www.yna.co.kr/view/AKR20261116018000008"
+    },
+    {
      "date": "2026-10-07",
      "source": "파이낸셜·증권",
      "title": "\"5공장, 기대보다 빨랐다\" 삼성바이오, 환율·파업 뚫은 성장…리노공업, CPO 광엔진 소켓 '사실상 유일' [株토피아]",
@@ -10536,6 +10548,12 @@
   },
   "한미반도체(042700)": {
    "articles": [
+    {
+     "date": "2026-11-16",
+     "source": "joongangenews.com",
+     "title": "- 한미반도체(042700): HBM4 TC본더 세계 유일 독점 공급사 지위 유지, 다만 11/16 장중 3.30% 하락(175,700원) — 메모리 수요 회복·",
+     "link": "https://www.joongangenews.com/news/articleView.html?idxno=564073"
+    },
     {
      "date": "2026-11-13",
      "source": "joongangenews.com",
@@ -11162,6 +11180,12 @@
   },
   "마이크론(MU)": {
    "articles": [
+    {
+     "date": "2026-11-16",
+     "source": "연합인포맥스",
+     "title": "&quot;엔비디아 팔고 마이크론으로 갈아탔다&quot;",
+     "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4444878"
+    },
     {
      "date": "2026-11-11",
      "source": "연합인포맥스",
@@ -14821,6 +14845,12 @@
   "LG화학(051910)": {
    "articles": [
     {
+     "date": "2026-11-16",
+     "source": "연합인포맥스",
+     "title": "팰리서캐피탈, LG화학에 주주서한…&quot;자사주 매입부족, 이사회 개편해야&quot;",
+     "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4444868"
+    },
+    {
      "date": "2026-11-11",
      "source": "연합뉴스·경제",
      "title": "LG화학, 청년 실무역량 강화 'K-뉴딜 아카데미' 1기 수료식",
@@ -16040,6 +16070,18 @@
   },
   "농심(004370)": {
    "articles": [
+    {
+     "date": "2026-11-16",
+     "source": "파이낸셜·증권",
+     "title": "농심, 3분기 영업익 9% 감소…투자의견 '중립' 유지",
+     "link": "https://www.fnnews.com/news/202611160828500131"
+    },
+    {
+     "date": "2026-11-16",
+     "source": "연합뉴스·경제",
+     "title": "농심, 소비자 투표로 뽑힌 '신라면 해물&어묵' 30일 출시",
+     "link": "https://www.yna.co.kr/view/AKR20261116038100030"
+    },
     {
      "date": "2026-11-14",
      "source": "연합뉴스·경제",
@@ -17721,6 +17763,18 @@
      "link": "https://www.hankyung.com/article/2026111574431"
     },
     {
+     "date": "2026-11-16",
+     "source": "연합인포맥스",
+     "title": "LG전자, 이족보행 로봇 개발 박차…한국로봇산업진흥원 MOU",
+     "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4444897"
+    },
+    {
+     "date": "2026-11-16",
+     "source": "뉴시스·경제",
+     "title": "유해물질 줄인 기업 8곳 시상…최우수상에 진공플랜트·LG전자",
+     "link": "https://www.newsis.com/view/NISX20261115_0003868377"
+    },
+    {
      "date": "2026-11-15",
      "source": "연합인포맥스",
      "title": "LG전자 테네시 공장, 북미 가전 1위 거점으로 자리매김",
@@ -18421,18 +18475,6 @@
      "source": "한국경제·경제",
      "title": "LG전자, 목재 소재로 모듈러 주택 만든다",
      "link": "https://www.hankyung.com/article/2026071711941"
-    },
-    {
-     "date": "2026-07-16",
-     "source": "한국경제·경제",
-     "title": "LG전자, 국내외 경영진과 미래전략 논의",
-     "link": "https://www.hankyung.com/article/2026071601671"
-    },
-    {
-     "date": "2026-07-14",
-     "source": "한국경제·경제",
-     "title": "LG전자, GS건설 손잡고 차세대 'AI 홈' 개발 속도",
-     "link": "https://www.hankyung.com/article/2026071325121"
     }
    ]
   },
@@ -20547,6 +20589,12 @@
   "한국전력(015760)": {
    "articles": [
     {
+     "date": "2026-11-16",
+     "source": "파이낸셜·증권",
+     "title": "\"중동전쟁 여파 내년까지\"…한국전력 목표가 하향",
+     "link": "https://www.fnnews.com/news/202611160843294140"
+    },
+    {
      "date": "2026-11-15",
      "source": "한국경제·증권",
      "title": "한국전력 '어닝 쇼크'에 장중 최저가…증권가 목표가 줄하향",
@@ -20728,6 +20776,12 @@
   },
   "LS(006260)": {
    "articles": [
+    {
+     "date": "2026-11-16",
+     "source": "한국경제·증권",
+     "title": "\"삼성전자, '연산하는 메모리'가 주가 재평가 열쇠\"-LS",
+     "link": "https://www.hankyung.com/article/2026111679306"
+    },
     {
      "date": "2026-11-06",
      "source": "한국경제·경제",
@@ -21678,6 +21732,12 @@
   },
   "태영건설(009410)": {
    "articles": [
+    {
+     "date": "2026-11-16",
+     "source": "뉴시스·경제",
+     "title": "태영건설, 한국ESG기준원 평가서 통합 A등급",
+     "link": "https://www.newsis.com/view/NISX20261116_0003869228"
+    },
     {
      "date": "2026-10-30",
      "source": "연합뉴스·경제",
@@ -25345,6 +25405,12 @@
   "리가켐바이오(141080)": {
    "articles": [
     {
+     "date": "2026-11-16",
+     "source": "한국경제·증권",
+     "title": "\"리가켐바이오, 3분기 '한 방' 없었지만 임상 성과는 누적…목표가↓\"-하나",
+     "link": "https://www.hankyung.com/article/2026111679056"
+    },
+    {
      "date": "2026-07-09",
      "source": "이데일리·경제",
      "title": "김용주 리가켐바이오 회장 “중국 위협에서 살아남을 전략은 ‘초격차’…계속 도망쳐야”",
@@ -27400,6 +27466,12 @@
   },
   "삼성증권(016360)": {
    "articles": [
+    {
+     "date": "2026-11-16",
+     "source": "연합뉴스·경제",
+     "title": "삼성증권 \"리노공업, 3분기 실적 어닝 쇼크…목표가↓\"",
+     "link": "https://www.yna.co.kr/view/AKR20261116018000008"
+    },
     {
      "date": "2026-11-13",
      "source": "한국경제·증권",
@@ -30489,6 +30561,12 @@
   "미래산업(025560)": {
    "articles": [
     {
+     "date": "2026-11-16",
+     "source": "연합인포맥스",
+     "title": "李대통령 &quot;한·아세안 FTA 개선 추진…AI·핵심광물 등 미래산업 협력 확대&quot;",
+     "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4444872"
+    },
+    {
      "date": "2026-11-11",
      "source": "연합뉴스·경제",
      "title": "독일상의·아주자동차대·TUV SUD, 미래산업 인재양성 맞손",
@@ -30955,6 +31033,12 @@
   "한국가스공사(036460)": {
    "articles": [
     {
+     "date": "2026-11-16",
+     "source": "한국경제·증권",
+     "title": "[오늘의 증권가 콜]티엘비, 하나머티리얼즈, 펌텍, NICE평가정보, 롯데웰푸드, 한국가스공사 등",
+     "link": "https://www.hankyung.com/article/202611168022i"
+    },
+    {
      "date": "2026-10-22",
      "source": "아시아경제",
      "title": "[클릭 e종목]\"한국가스공사, 유가 상승에 실적 전망치 상향…목표가↑\"",
@@ -31240,6 +31324,24 @@
    "articles": [
     {
      "date": "2026-11-16",
+     "source": "한국경제·증권",
+     "title": "삼성SDI, 美서 ESS용 LFP 배터리 수주 소식에 강세",
+     "link": "https://www.hankyung.com/article/2026111683136"
+    },
+    {
+     "date": "2026-11-16",
+     "source": "한국경제·증권",
+     "title": "[마켓라이브] 외국인·기관 매도에 코스피 강보합…삼성SDI·태양광주 강세",
+     "link": "https://www.hankyung.com/article/202611168242i"
+    },
+    {
+     "date": "2026-11-16",
+     "source": "한국경제·경제",
+     "title": "삼성SDI 해냈다…미국서 수조원대 LFP 배터리 공급 계약 체결",
+     "link": "https://www.hankyung.com/article/2026111680477"
+    },
+    {
+     "date": "2026-11-16",
      "source": "한국경제·경제",
      "title": "LG엔솔·삼성SDI, 美서 차세대 ESS 배터리 공개",
      "link": "https://www.hankyung.com/article/2026111574441"
@@ -31255,6 +31357,12 @@
      "source": "파이낸셜·증권",
      "title": "고수들, 삼성SDI 매수 2.8배 늘렸다…하이닉스는 순위권 밖으로 [1% 고수의 선택]",
      "link": "https://www.fnnews.com/news/202611150155375275"
+    },
+    {
+     "date": "2026-11-16",
+     "source": "연합인포맥스",
+     "title": "삼성SDI, 美주피터파워와 ESS 3년 공급 계약…수조원 규모",
+     "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4444880"
     },
     {
      "date": "2026-11-15",
@@ -34845,6 +34953,24 @@
   "키움증권(039490)": {
    "articles": [
     {
+     "date": "2026-11-16",
+     "source": "연합뉴스·경제",
+     "title": "키움증권, '고객의견 청취' 제22기 고객패널 모집",
+     "link": "https://www.yna.co.kr/view/AKR20261116051700008"
+    },
+    {
+     "date": "2026-11-16",
+     "source": "연합뉴스·경제",
+     "title": "키움증권 \"롯데관광개발, 3분기 영업익 전망치 하회…목표가↓\"",
+     "link": "https://www.yna.co.kr/view/AKR20261116021800008"
+    },
+    {
+     "date": "2026-11-16",
+     "source": "연합뉴스·경제",
+     "title": "[게시판] 캐시백을 증권계좌로…'키움증권 하나카드' 출시",
+     "link": "https://www.yna.co.kr/view/AKR20261116047800002"
+    },
+    {
      "date": "2026-11-09",
      "source": "연합뉴스·경제",
      "title": "키움증권, 롯데쇼핑 목표가↓…\"국내증시 하락에 자산효과 악화\"",
@@ -35545,24 +35671,6 @@
      "source": "아시아경제",
      "title": "키움증권, 연금저축 고객 거래유형별 혜택…최대 568만원",
      "link": "https://view.asiae.co.kr/article/2026070609353462163"
-    },
-    {
-     "date": "2026-07-03",
-     "source": "한국경제·증권",
-     "title": "금감원, 신한·키움증권 현장검사…JTBC 회사채 불완전판매 여부 점검",
-     "link": "https://www.hankyung.com/article/2026070225256"
-    },
-    {
-     "date": "2026-07-03",
-     "source": "이데일리·경제",
-     "title": "[마켓인]키움증권, 회사채로 최대 4000억 조달…증권업 호황에 투심 기대",
-     "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=01849926645510912"
-    },
-    {
-     "date": "2026-07-03",
-     "source": "연합뉴스·경제",
-     "title": "키움증권 \"은행주, 코스피 급락속 상대적 피난처\"",
-     "link": "https://www.yna.co.kr/view/AKR20260703023100008"
     }
    ]
   },
@@ -35946,6 +36054,12 @@
   },
   "한화(000880)": {
    "articles": [
+    {
+     "date": "2026-11-16",
+     "source": "연합뉴스·경제",
+     "title": "DB증권 \"한화, 목표가↓…내년 건설 실적개선·주주환원 기대\"",
+     "link": "https://www.yna.co.kr/view/AKR20261116022600008"
+    },
     {
      "date": "2026-11-14",
      "source": "연합뉴스·경제",
@@ -36652,6 +36766,12 @@
   },
   "제주항공(089590)": {
    "articles": [
+    {
+     "date": "2026-11-16",
+     "source": "한국경제·경제",
+     "title": "제주항공, ESG 통합 A등급 4년 연속 달성…사회 부문 A+ 유지",
+     "link": "https://www.hankyung.com/article/202611168249g"
+    },
     {
      "date": "2026-11-10",
      "source": "파이낸셜·증권",
@@ -38298,6 +38418,12 @@
   },
   "삼천당제약(000250)": {
    "articles": [
+    {
+     "date": "2026-11-16",
+     "source": "파이낸셜·증권",
+     "title": "삼천당제약, 당뇨 치료 부담 낮추는 '투트랙'…신약 개발·환아 지원 병행",
+     "link": "https://www.fnnews.com/news/202611160948091978"
+    },
     {
      "date": "2026-10-20",
      "source": "파이낸셜·증권",
@@ -41345,6 +41471,12 @@
   "대상(001680)": {
    "articles": [
     {
+     "date": "2026-11-16",
+     "source": "연합인포맥스",
+     "title": "&quot;美 상무장관, AI칩 규제 대상 축소 추진…가족 회사 고객도 영향권&quot;",
+     "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4444910"
+    },
+    {
      "date": "2026-11-14",
      "source": "연합뉴스·경제",
      "title": "[해수분해] 통영 굴의 미국행…바다 위 공중화장실이 점검 대상",
@@ -42057,12 +42189,6 @@
      "source": "한국경제·증권",
      "title": "대신증권, 연금저축·IRP 순입금 고객 대상 경품 지급 이벤트",
      "link": "https://www.hankyung.com/article/2026093036036"
-    },
-    {
-     "date": "2026-09-30",
-     "source": "파이낸셜뉴스",
-     "title": "수산자원공단, 완도수산고 학생 대상 진로체험",
-     "link": "https://www.fnnews.com/news/202609291416100245"
     }
    ]
   },
@@ -42710,6 +42836,12 @@
   },
   "롯데웰푸드(280360)": {
    "articles": [
+    {
+     "date": "2026-11-16",
+     "source": "한국경제·증권",
+     "title": "[오늘의 증권가 콜]티엘비, 하나머티리얼즈, 펌텍, NICE평가정보, 롯데웰푸드, 한국가스공사 등",
+     "link": "https://www.hankyung.com/article/202611168022i"
+    },
     {
      "date": "2026-11-12",
      "source": "연합뉴스·경제",
@@ -44553,6 +44685,12 @@
   "카카오뱅크(323410)": {
    "articles": [
     {
+     "date": "2026-11-16",
+     "source": "연합뉴스·경제",
+     "title": "[게시판] 카카오뱅크, 다이슨 할인·경품 추첨 '한달적금' 출시",
+     "link": "https://www.yna.co.kr/view/AKR20261116043300002"
+    },
+    {
      "date": "2026-11-11",
      "source": "연합뉴스·경제",
      "title": "카카오뱅크, 개인사업자 부동산담보대출 갈아타기 서비스",
@@ -45665,6 +45803,12 @@
   "코스메카코리아(241710)": {
    "articles": [
     {
+     "date": "2026-11-16",
+     "source": "파이낸셜·증권",
+     "title": "코스메카코리아 6%대 강세…화장품 ODM주 동반 상승 [종목NOW]",
+     "link": "https://www.fnnews.com/news/202611161016326283"
+    },
+    {
      "date": "2026-11-10",
      "source": "파이낸셜·증권",
      "title": "아로마티카 17%·코스메카코리아 15% 급락…뷰티주 약세 [종목NOW]",
@@ -46367,6 +46511,12 @@
   "남양유업(003920)": {
    "articles": [
     {
+     "date": "2026-11-16",
+     "source": "연합뉴스·경제",
+     "title": "남양유업, 베트남·인니 식품박람회 참가…수출 확대 추진",
+     "link": "https://www.yna.co.kr/view/AKR20261116044300030"
+    },
+    {
      "date": "2026-10-23",
      "source": "연합뉴스·경제",
      "title": "남양유업, B2B 고객사 대상 유제품 활용 레시피 시연회",
@@ -46642,6 +46792,12 @@
   },
   "금호건설(002990)": {
    "articles": [
+    {
+     "date": "2026-11-16",
+     "source": "뉴시스·경제",
+     "title": "금호건설, 수능 앞둔 본사∙협력사 임직원 자녀 격려 선물",
+     "link": "https://www.newsis.com/view/NISX20261116_0003869232"
+    },
     {
      "date": "2026-11-15",
      "source": "한국경제·증권",
@@ -48525,6 +48681,12 @@
   "오뚜기(007310)": {
    "articles": [
     {
+     "date": "2026-11-16",
+     "source": "연합뉴스·경제",
+     "title": "오뚜기, 정해인 출연 'X.O. 얇은피 왕만두' TV 광고 공개",
+     "link": "https://www.yna.co.kr/view/AKR20261116058300030"
+    },
+    {
      "date": "2026-11-14",
      "source": "연합뉴스·경제",
      "title": "[신상잇슈] 사조푸디스트 '케어포유 가루쌀 치킨'·오뚜기 '슈퍼레드 케첩'",
@@ -49748,6 +49910,12 @@
   },
   "삼성중공업(010140)": {
    "articles": [
+    {
+     "date": "2026-11-16",
+     "source": "파이낸셜·증권",
+     "title": "삼성중공업, 오세아니아 선주와 LNG운반선 1척 계약…3424억원 규모",
+     "link": "https://www.fnnews.com/news/202611160906292309"
+    },
     {
      "date": "2026-11-10",
      "source": "한국경제·경제",
@@ -51261,6 +51429,12 @@
   "삼양식품(003230)": {
    "articles": [
     {
+     "date": "2026-11-16",
+     "source": "파이낸셜·증권",
+     "title": "불닭, 내년엔 더 많이 판다…삼양식품 5%대 강세[종목 NOW]",
+     "link": "https://www.fnnews.com/news/202611160934332232"
+    },
+    {
      "date": "2026-11-13",
      "source": "파이낸셜·증권",
      "title": "삼양식품, 불닭 인기에 사상 최대 영업익…목표가 185만원 유지",
@@ -52371,6 +52545,12 @@
   "하나머티리얼즈(166090)": {
    "articles": [
     {
+     "date": "2026-11-16",
+     "source": "한국경제·증권",
+     "title": "[오늘의 증권가 콜]티엘비, 하나머티리얼즈, 펌텍, NICE평가정보, 롯데웰푸드, 한국가스공사 등",
+     "link": "https://www.hankyung.com/article/202611168022i"
+    },
+    {
      "date": "2026-10-22",
      "source": "연합뉴스·경제",
      "title": "유안타증권 \"하나머티리얼즈, 내년 최대 실적 전망…목표가↑\"",
@@ -53006,6 +53186,18 @@
   },
   "지슨": {
    "articles": [
+    {
+     "date": "2026-11-16",
+     "source": "한국경제·증권",
+     "title": "'AI 컨닝' 방지 대책에 지슨 '上'…세코닉스·나무가도 급등",
+     "link": "https://www.hankyung.com/article/2026111682976"
+    },
+    {
+     "date": "2026-11-16",
+     "source": "파이낸셜·증권",
+     "title": "지슨, AI 시험 부정행위 방지 수혜 기대에 상한가[종목NOW]",
+     "link": "https://www.fnnews.com/news/202611160929450200"
+    },
     {
      "date": "2026-08-13",
      "source": "아시아경제",
@@ -54923,6 +55115,18 @@
   "롯데관광개발(032350)": {
    "articles": [
     {
+     "date": "2026-11-16",
+     "source": "파이낸셜·증권",
+     "title": "롯데관광개발, 4분기 시작으로 영업 레버리지 확인 전망",
+     "link": "https://www.fnnews.com/news/202611160804196349"
+    },
+    {
+     "date": "2026-11-16",
+     "source": "연합뉴스·경제",
+     "title": "키움증권 \"롯데관광개발, 3분기 영업익 전망치 하회…목표가↓\"",
+     "link": "https://www.yna.co.kr/view/AKR20261116021800008"
+    },
+    {
      "date": "2026-11-10",
      "source": "한국경제·증권",
      "title": "\"롯데관광개발, 10월 역대 최대 실적…성장 여력 확인\"-메리츠",
@@ -55222,6 +55426,18 @@
   },
   "SK오션플랜트(100090)": {
    "articles": [
+    {
+     "date": "2026-11-16",
+     "source": "파이낸셜·증권",
+     "title": "실적은 잘 나왔는데…SK오션플랜트 목표가 5곳 줄하향",
+     "link": "https://www.fnnews.com/news/202611160829045397"
+    },
+    {
+     "date": "2026-11-16",
+     "source": "연합뉴스·경제",
+     "title": "증권가, SK오션플랜트에 \"M&A 이후 불확실\"…목표가 줄하향",
+     "link": "https://www.yna.co.kr/view/AKR20261116025100008"
+    },
     {
      "date": "2026-10-11",
      "source": "연합뉴스·경제",
@@ -56610,6 +56826,12 @@
   },
   "파라다이스(034230)": {
    "articles": [
+    {
+     "date": "2026-11-16",
+     "source": "한국경제·경제",
+     "title": "파라다이스, 2년 연속 ESG 등급 상승…통합 A등급 달성",
+     "link": "https://www.hankyung.com/article/202611168007g"
+    },
     {
      "date": "2026-10-23",
      "source": "한국경제·경제",
@@ -59513,6 +59735,12 @@
   "SK증권(001510)": {
    "articles": [
     {
+     "date": "2026-11-16",
+     "source": "연합뉴스·경제",
+     "title": "SK증권 \"코스닥, 정책 모멘텀 남아있다…시점은 불분명\"",
+     "link": "https://www.yna.co.kr/view/AKR20261116022400008"
+    },
+    {
      "date": "2026-11-13",
      "source": "연합뉴스·경제",
      "title": "[게시판] SK증권, ESG 평가 2년 연속 '통합 A등급' 획득",
@@ -59820,6 +60048,12 @@
   },
   "DB증권(016610)": {
    "articles": [
+    {
+     "date": "2026-11-16",
+     "source": "연합뉴스·경제",
+     "title": "DB증권 \"한화, 목표가↓…내년 건설 실적개선·주주환원 기대\"",
+     "link": "https://www.yna.co.kr/view/AKR20261116022600008"
+    },
     {
      "date": "2026-10-28",
      "source": "연합뉴스·경제",
@@ -61024,6 +61258,12 @@
   },
   "빙그레(005180)": {
    "articles": [
+    {
+     "date": "2026-11-16",
+     "source": "파이낸셜·증권",
+     "title": "\"메로나만 잘 팔리는 게 아니다\"…빙그레, 수출 확대로 성장 기대",
+     "link": "https://www.fnnews.com/news/202611160849137572"
+    },
     {
      "date": "2026-10-13",
      "source": "연합뉴스·경제",
@@ -63018,6 +63258,12 @@
   },
   "하나은행": {
    "articles": [
+    {
+     "date": "2026-11-16",
+     "source": "연합뉴스·경제",
+     "title": "[게시판] 하나은행, 수험생 응원 프로젝트…경품·상품권 증정",
+     "link": "https://www.yna.co.kr/view/AKR20261116047100002"
+    },
     {
      "date": "2026-11-11",
      "source": "연합뉴스·경제",
@@ -65036,6 +65282,12 @@
   },
   "롯데건설": {
    "articles": [
+    {
+     "date": "2026-11-16",
+     "source": "연합인포맥스",
+     "title": "본업 경쟁력 회복한 롯데건설, 현금흐름 개선 박차",
+     "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4444902"
+    },
     {
      "date": "2026-11-15",
      "source": "연합뉴스·경제",
@@ -67195,6 +67447,12 @@
   "DB손보(005830)": {
    "articles": [
     {
+     "date": "2026-11-16",
+     "source": "연합뉴스·경제",
+     "title": "DB손보, 인터넷 전용 미니암보험 '참좋은암보험' 출시",
+     "link": "https://www.yna.co.kr/view/AKR20261116036600002"
+    },
+    {
      "date": "2026-11-15",
      "source": "연합인포맥스",
      "title": "'빅5' 손보사 투자손익 급감에 3분기 실적 부진…메리츠 제친 DB손보",
@@ -68765,6 +69023,12 @@
   "테스(095610)": {
    "articles": [
     {
+     "date": "2026-11-16",
+     "source": "연합뉴스·경제",
+     "title": "IBK증권, 테스 목표가↓…\"증시조정 따른 멀티플 하락 반영\"",
+     "link": "https://www.yna.co.kr/view/AKR20261116017100008"
+    },
+    {
      "date": "2026-10-22",
      "source": "한국경제·증권",
      "title": "[오늘의 증권가 콜] LS ELECTRIC, 유니드, 삼성바이오, LIG디펜스, 테스, 한화솔루션 등",
@@ -69620,6 +69884,12 @@
   },
   "스타벅스(SBUX)": {
    "articles": [
+    {
+     "date": "2026-11-16",
+     "source": "연합인포맥스",
+     "title": "스타벅스, 헬로키티와 크리스마스·연말시즌 콜라보",
+     "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4444875"
+    },
     {
      "date": "2026-11-13",
      "source": "한국경제·증권",
@@ -71100,6 +71370,12 @@
   },
   "루닛(328130)": {
    "articles": [
+    {
+     "date": "2026-11-16",
+     "source": "파이낸셜·증권",
+     "title": "루닛, 적자 줄이고 현금 확보…美 사업 장기 성장 가시성도",
+     "link": "https://www.fnnews.com/news/202611160824077193"
+    },
     {
      "date": "2026-10-27",
      "source": "한국경제·증권",
@@ -73375,6 +73651,12 @@
   "스트래티지(MSTR)": {
    "articles": [
     {
+     "date": "2026-11-16",
+     "source": "연합인포맥스",
+     "title": "스트래티지 회장, 비트코인 추매 시사…&quot;하락장엔 주황색 점 더 필요&quot;",
+     "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4444879"
+    },
+    {
      "date": "2026-11-09",
      "source": "연합인포맥스",
      "title": "스트래티지 의장, 비트코인 추매 시사…&quot;점들을 연결하고 있다&quot;",
@@ -73580,6 +73862,18 @@
   },
   "삼표시멘트(038500)": {
    "articles": [
+    {
+     "date": "2026-11-16",
+     "source": "한국경제·경제",
+     "title": "삼표시멘트, ESG 전 부문 4년 연속 A등급 이상…\"업계 유일\"",
+     "link": "https://www.hankyung.com/article/202611157691i"
+    },
+    {
+     "date": "2026-11-16",
+     "source": "뉴시스·경제",
+     "title": "삼표시멘트, 시멘트업계 유일 ESG 전 부문 A등급",
+     "link": "https://www.newsis.com/view/NISX20261116_0003869152"
+    },
     {
      "date": "2026-11-02",
      "source": "연합뉴스·경제",
@@ -73911,6 +74205,18 @@
   "현대해상(001450)": {
    "articles": [
     {
+     "date": "2026-11-16",
+     "source": "연합뉴스·경제",
+     "title": "[특징주] 현대해상, 3분기 실적 실망감·저가매수세에 혼조세",
+     "link": "https://www.yna.co.kr/view/AKR20261116043100008"
+    },
+    {
+     "date": "2026-11-16",
+     "source": "연합뉴스·경제",
+     "title": "KB증권, 현대해상 목표가↓…\"투자손익 변동성 확대, 실적부진\"",
+     "link": "https://www.yna.co.kr/view/AKR20261116019600008"
+    },
+    {
      "date": "2026-11-15",
      "source": "연합뉴스·경제",
      "title": "현대해상, 3분기 누적 순익 7천808억…전년比 23%↑",
@@ -73957,7 +74263,37 @@
      "link": "https://view.asiae.co.kr/article/2026111209453832679"
     }
    ]
+  },
+  "HLB테라퓨틱스(115450)": {
+   "articles": [
+    {
+     "date": "2026-11-16",
+     "source": "한국경제·증권",
+     "title": "HLB테라퓨틱스, 각막염 신약 후보 美임상 3상 실패에 '下' 직행",
+     "link": "https://www.hankyung.com/article/2026111683386"
+    }
+   ]
+  },
+  "AT&T(T)": {
+   "articles": [
+    {
+     "date": "2026-11-16",
+     "source": "한국경제·증권",
+     "title": "월가 IB가 꼽은 변동장 피난처…AT&T 등 5종목[월가 업&다운]",
+     "link": "https://www.hankyung.com/article/202611156680i"
+    }
+   ]
+  },
+  "두산밥캣(241560)": {
+   "articles": [
+    {
+     "date": "2026-11-16",
+     "source": "연합뉴스·경제",
+     "title": "축사 분뇨 처리도 알아서…두산밥캣, 건설장비 자율작업 실증",
+     "link": "https://www.yna.co.kr/view/AKR20261116032600003"
+    }
+   ]
   }
  },
- "updatedAt": "2026-11-16T01:57:24+09:00"
+ "updatedAt": "2026-11-16T10:44:36+09:00"
 }
