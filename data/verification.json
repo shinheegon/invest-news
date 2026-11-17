@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-17T05:51:12+09:00",
+ "updatedAt": "2026-11-17T14:00:56+09:00",
  "cases": [
   {
    "name": "비나텍(126340)",
@@ -71017,6 +71017,76 @@
    "theme": "기타(이벤트성)",
    "status": "pending",
    "checks": []
+  },
+  {
+   "name": "파인텍(131760)",
+   "type": "leading",
+   "market": "韓",
+   "flagDate": "2026-11-17",
+   "signals": [
+    "3Q흑자전환+OLED추가수주4일연속포착",
+    "초소형시총74억",
+    "아직주가미반영"
+   ],
+   "theme": "디스플레이소재",
+   "status": "pending",
+   "checks": [],
+   "convScore": 7,
+   "convTier": "high",
+   "convSignals": [
+    "반복포착",
+    "구체촉발재",
+    "틈새레이더"
+   ],
+   "convStampedAt": "2026-11-17"
+  },
+  {
+   "name": "한울소재과학(091440)",
+   "type": "leading",
+   "market": "韓",
+   "flagDate": "2026-11-17",
+   "signals": [
+    "KT36억계약4일연속포착",
+    "45일공백후재점등",
+    "공시후주가미반영"
+   ],
+   "theme": "통신인프라(방산인접)",
+   "status": "pending",
+   "checks": [],
+   "convScore": 7,
+   "convTier": "high",
+   "convSignals": [
+    "반복포착",
+    "구체촉발재",
+    "틈새레이더"
+   ],
+   "convStampedAt": "2026-11-17"
+  },
+  {
+   "name": "세미파이브(490470)",
+   "type": "warning",
+   "market": "韓",
+   "flagDate": "2026-11-17",
+   "signals": [
+    "3Q역대최대수주발표셀온경계",
+    "당일추격비권고"
+   ],
+   "theme": "AI반도체설계(팹리스/IP)",
+   "status": "pending",
+   "checks": []
+  },
+  {
+   "name": "씨메스로보틱스(475400)",
+   "type": "warning",
+   "market": "韓",
+   "flagDate": "2026-11-17",
+   "signals": [
+    "3Q역대최대매출발표셀온경계",
+    "당일추격비권고"
+   ],
+   "theme": "로봇/휴머노이드",
+   "status": "pending",
+   "checks": []
   }
  ],
  "stats": {
@@ -71026,8 +71096,8 @@
   "miss": 164,
   "hitRate": 24.3,
   "avgD3ChangePct": 0.32,
-  "pending": 338,
-  "total": 725,
+  "pending": 342,
+  "total": 729,
   "byType": {
    "leading": {
     "verified": 163,
