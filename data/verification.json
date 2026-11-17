@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-17T14:00:56+09:00",
+ "updatedAt": "2026-11-18T04:44:14+09:00",
  "cases": [
   {
    "name": "비나텍(126340)",
@@ -71087,6 +71087,145 @@
    "theme": "로봇/휴머노이드",
    "status": "pending",
    "checks": []
+  },
+  {
+   "name": "에이텀(355690)",
+   "type": "leading",
+   "market": "韓",
+   "flagDate": "2026-11-18",
+   "signals": [
+    "내부자매수반복",
+    "장기공백후재점등",
+    "베트남법인구조개편흑자전환추진"
+   ],
+   "theme": "AI전력변환",
+   "status": "pending",
+   "checks": [],
+   "convScore": 4,
+   "convTier": "mid",
+   "convSignals": [
+    "반복포착",
+    "구체촉발재",
+    "⚠️열세테마",
+    "틈새레이더"
+   ],
+   "convStampedAt": "2026-11-18"
+  },
+  {
+   "name": "M83(476080)",
+   "type": "leading",
+   "market": "韓",
+   "flagDate": "2026-11-18",
+   "signals": [
+    "대형고객납품(네이버630억서버계약)",
+    "5개월침묵후재점등"
+   ],
+   "theme": "AI데이터센터 인프라",
+   "status": "pending",
+   "checks": [],
+   "convScore": 1,
+   "convTier": "low",
+   "convSignals": [
+    "구체촉발재",
+    "⚠️열세테마",
+    "틈새레이더"
+   ],
+   "convStampedAt": "2026-11-18"
+  },
+  {
+   "name": "MDS스피어(009810)",
+   "type": "leading",
+   "market": "韓",
+   "flagDate": "2026-11-18",
+   "signals": [
+    "실적턴어라운드(영업흑자전환)",
+    "쿤텍제휴",
+    "초소형주저인지도"
+   ],
+   "theme": "피지컬AI/방산SW보안",
+   "status": "pending",
+   "checks": [],
+   "convScore": 5,
+   "convTier": "high",
+   "convSignals": [
+    "반복포착",
+    "틈새레이더"
+   ],
+   "convStampedAt": "2026-11-18"
+  },
+  {
+   "name": "다이나믹솔루션(070120)",
+   "type": "discovery",
+   "market": "韓",
+   "flagDate": "2026-11-18",
+   "signals": [
+    "중국매직랩로보틱스휴머노이드유통MOU",
+    "4개월공백후재점등"
+   ],
+   "theme": "로봇/휴머노이드",
+   "status": "pending",
+   "checks": [],
+   "convScore": 5,
+   "convTier": "high",
+   "convSignals": [
+    "반복포착",
+    "승세테마"
+   ],
+   "convStampedAt": "2026-11-18"
+  },
+  {
+   "name": "가온칩스(399720)",
+   "type": "warning",
+   "market": "韓",
+   "flagDate": "2026-11-18",
+   "signals": [
+    "11/17장중22.8퍼센트급등",
+    "신규수주공시미확인",
+    "추격비권고"
+   ],
+   "theme": "AI반도체설계(팹리스/IP)",
+   "status": "pending",
+   "checks": []
+  },
+  {
+   "name": "대동기어(008830)",
+   "type": "warning",
+   "market": "韓",
+   "flagDate": "2026-11-18",
+   "signals": [
+    "수주잔고공시후17퍼센트급등이미반영",
+    "다수매체동시보도"
+   ],
+   "theme": "로봇/휴머노이드",
+   "status": "pending",
+   "checks": []
+  },
+  {
+   "name": "세미파이브(490470)",
+   "type": "warning",
+   "market": "韓",
+   "flagDate": "2026-11-18",
+   "signals": [
+    "3D-IC기술공개다수매체동시보도",
+    "확산속도빨라선행구간지남"
+   ],
+   "theme": "AI반도체설계(팹리스/IP)",
+   "status": "pending",
+   "checks": []
+  },
+  {
+   "name": "로보티즈(108490)",
+   "type": "warning",
+   "market": "韓",
+   "flagDate": "2026-11-18",
+   "signals": [
+    "3Q적자전환9퍼센트급락",
+    "로봇주실적경계령확산",
+    "이미전량반영"
+   ],
+   "theme": "로봇/휴머노이드",
+   "status": "pending",
+   "checks": []
   }
  ],
  "stats": {
@@ -71096,8 +71235,8 @@
   "miss": 164,
   "hitRate": 24.3,
   "avgD3ChangePct": 0.32,
-  "pending": 342,
-  "total": 729,
+  "pending": 350,
+  "total": 737,
   "byType": {
    "leading": {
     "verified": 163,
