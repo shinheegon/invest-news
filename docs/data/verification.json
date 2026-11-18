@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-18T04:44:14+09:00",
+ "updatedAt": "2026-11-18T13:20:56+09:00",
  "cases": [
   {
    "name": "비나텍(126340)",
@@ -71226,6 +71226,191 @@
    "theme": "로봇/휴머노이드",
    "status": "pending",
    "checks": []
+  },
+  {
+   "name": "자람테크놀로지(389020)",
+   "type": "leading",
+   "market": "韓",
+   "flagDate": "2026-11-18",
+   "signals": [
+    "K온디바이스AI정책랠리덤수혜",
+    "52주저점권테마내소외"
+   ],
+   "theme": "AI반도체설계(팹리스/IP)",
+   "status": "pending",
+   "checks": [],
+   "convScore": 5,
+   "convTier": "high",
+   "convSignals": [
+    "반복포착",
+    "승세테마"
+   ],
+   "convStampedAt": "2026-11-18"
+  },
+  {
+   "name": "아이엘(307180)",
+   "type": "leading",
+   "market": "韓",
+   "flagDate": "2026-11-18",
+   "signals": [
+    "SBS36주년다큐휴머노이드로봇출연",
+    "아이엘핸드상표출원",
+    "주가거의무반응"
+   ],
+   "theme": "로봇/휴머노이드",
+   "status": "pending",
+   "checks": [],
+   "convScore": 5,
+   "convTier": "high",
+   "convSignals": [
+    "반복포착",
+    "승세테마"
+   ],
+   "convStampedAt": "2026-11-18"
+  },
+  {
+   "name": "아이씨에이치(368600)",
+   "type": "leading",
+   "market": "韓",
+   "flagDate": "2026-11-18",
+   "signals": [
+    "글로벌EV업체向PU폼양산공급",
+    "메가톤급보도없음",
+    "CB오버행리스크주의"
+   ],
+   "theme": "로봇/휴머노이드",
+   "status": "pending",
+   "checks": [],
+   "convScore": 7,
+   "convTier": "high",
+   "convSignals": [
+    "반복포착",
+    "승세테마",
+    "구체촉발재"
+   ],
+   "convStampedAt": "2026-11-18"
+  },
+  {
+   "name": "에스비비테크(389500)",
+   "type": "leading",
+   "market": "韓",
+   "flagDate": "2026-11-18",
+   "signals": [
+    "하모닉감속기3Q매출+86.1%",
+    "고객사누적42억공급계약"
+   ],
+   "theme": "로봇/휴머노이드",
+   "status": "pending",
+   "checks": [],
+   "convScore": 7,
+   "convTier": "high",
+   "convSignals": [
+    "반복포착",
+    "승세테마",
+    "구체촉발재"
+   ],
+   "convStampedAt": "2026-11-18"
+  },
+  {
+   "name": "버넥트(438700)",
+   "type": "leading",
+   "market": "韓",
+   "flagDate": "2026-11-18",
+   "signals": [
+    "CES2027혁신상3관왕재확인",
+    "산업용AI스마트글래스VisionX"
+   ],
+   "theme": "피지컬AI/XR",
+   "status": "pending",
+   "checks": [],
+   "convScore": 3,
+   "convTier": "mid",
+   "convSignals": [
+    "반복포착"
+   ],
+   "convStampedAt": "2026-11-18"
+  },
+  {
+   "name": "도우인시스(484120)",
+   "type": "leading",
+   "market": "韓",
+   "flagDate": "2026-11-18",
+   "signals": [
+    "베트남공장가동률33→53%상승",
+    "3Q매출+127.8%흑자전환"
+   ],
+   "theme": "폴더블디스플레이부품",
+   "status": "pending",
+   "checks": [],
+   "convScore": 0,
+   "convTier": "low",
+   "convSignals": [],
+   "convStampedAt": "2026-11-18"
+  },
+  {
+   "name": "파두(440110)",
+   "type": "warning",
+   "market": "韓",
+   "flagDate": "2026-11-18",
+   "signals": [
+    "1년간+860%과열후조정국면",
+    "고점대비약75%하락"
+   ],
+   "theme": "AI반도체설계(팹리스/IP)",
+   "status": "pending",
+   "checks": []
+  },
+  {
+   "name": "한국피아이엠(448970)",
+   "type": "warning",
+   "market": "韓",
+   "flagDate": "2026-11-18",
+   "signals": [
+    "2025년10월부터매달반복급등락",
+    "테마피로감누적"
+   ],
+   "theme": "로봇/휴머노이드",
+   "status": "pending",
+   "checks": []
+  },
+  {
+   "name": "씨메스로보틱스(475400)",
+   "type": "warning",
+   "market": "韓",
+   "flagDate": "2026-11-18",
+   "signals": [
+    "3Q매출+183.8%호실적에도매도",
+    "실적발표후차익실현"
+   ],
+   "theme": "로봇/휴머노이드",
+   "status": "pending",
+   "checks": []
+  },
+  {
+   "name": "에이디테크놀로지(200710)",
+   "type": "warning",
+   "market": "韓",
+   "flagDate": "2026-11-18",
+   "signals": [
+    "개별공시없이+20.92%단일일급등",
+    "수개월째반복스토리다수매체노출"
+   ],
+   "theme": "AI반도체설계(팹리스/IP)",
+   "status": "pending",
+   "checks": []
+  },
+  {
+   "name": "삼성전기(009150)",
+   "type": "warning",
+   "market": "韓",
+   "flagDate": "2026-11-18",
+   "signals": [
+    "엔비디아CEO발표패키지기판계약",
+    "장초반7~8%대급등다수매체특징주보도"
+   ],
+   "theme": "AI데이터센터/반도체부품",
+   "status": "pending",
+   "checks": []
   }
  ],
  "stats": {
@@ -71235,8 +71420,8 @@
   "miss": 164,
   "hitRate": 24.3,
   "avgD3ChangePct": 0.32,
-  "pending": 350,
-  "total": 737,
+  "pending": 361,
+  "total": 748,
   "byType": {
    "leading": {
     "verified": 163,

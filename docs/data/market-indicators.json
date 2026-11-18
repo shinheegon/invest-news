@@ -1,22 +1,22 @@
 {
- "updatedAt": "2026-11-18T04:25:00+09:00", "session": "AM",
- "note": "11/18(수) AM — 코스피 11/17 종가 4,968.48(-2.59%)로 5,000선 붕괴 확정(9개월여 최저). 美 증시도 11/17(화) 3대지수 동반 하락(다우 -1.64%·S&P -1.20%·나스닥 -1.07%), VIX 25.90으로 급등 — 엔비디아 11/19 실적발표(황 前CEO 사임 후 첫 실적) 앞둔 경계감 + Fed 신임 의장 케빈 워시의 'AI 밸류에이션 역풍' 경고 + 12월 FOMC 금리 인상(25bp) 전망 우세가 복합 작용. 달러인덱스 19개월 최고, 원/달러 1,338원대로 추가 약세. 투자권유 아님.",
- "stock_fng": { "value": 31, "label": "Fear", "source": "https://www.benzinga.com/markets/market-summary/26/11/63331763/nasdaq-tumbles-2-5-as-nvidia-falls-further-investor-sentiment-weakens-fear-greed-index-remains-in-fear-zone" },
+ "updatedAt": "2026-11-18T13:10:00+09:00", "session": "PM",
+ "note": "11/18(수) PM — 이 브리핑은 한국장 정규마감(15:30) 이전 낮시간에 생성됨. 코스피·코스닥·원/달러는 12시대 장중 수치이며 최종 마감치가 아니다(다음 회차에서 갱신 예정). 전일(11/17) 美 증시 마감 후 엔비디아 3분기 실적이 시장 예상을 큰 폭 상회(매출 1,158억달러 +103%YoY, 가이던스도 상회)하며 발표 당일 코스피 5,000선 붕괴를 하루 만에 되돌리는 반등을 이끌었으나, 개장 초 +2.62%(5,098.82)에서 장중 5,133.14까지 오른 뒤 10시41분 다시 5,000선 아래(4,999.29)로 되밀리는 변동성 큰 하루. 투자권유 아님.",
+ "stock_fng": { "value": 25.2, "label": "Extreme Fear", "source": "https://en.macromicro.me/series/22748/cnn-fear-and-greed" },
  "indices": [
-  { "name": "코스피", "value": "4,968.48", "change": "-2.59%, 11/17 마감 · 9개월여 최저 · 외국인 약 1.45조 순매도", "source": "https://www.hankyung.com/article/202611172322i" },
-  { "name": "코스닥", "value": "650.06", "change": "-2.34%, 11/17 마감", "source": "https://view.asiae.co.kr/article/2026111715382905837" },
-  { "name": "S&P 500", "value": "7,327.78", "change": "-1.20%, 11/17(화) 마감", "source": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-november-17-dow-sp-500-nasdaq-nvidia-earnings-retail-sales-143848454.html" },
+  { "name": "코스피", "value": "4,999.30", "change": "+0.62%(+30.82p), 11/18 12:44 기준(장중·마감전) · 외국인 4거래일만 순매수 전환", "source": "https://kr.investing.com/indices/kospi" },
+  { "name": "코스닥", "value": "654.61", "change": "+0.70%(+4.55p), 11/18 12:14 기준(장중·마감전)", "source": "https://kr.investing.com/indices/kosdaq" },
+  { "name": "S&P 500", "value": "7,327.78", "change": "-1.20%, 11/17(화) 마감 · 엔비디아 실적 경계감", "source": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-november-17-dow-sp-500-nasdaq-nvidia-earnings-retail-sales-143848454.html" },
   { "name": "나스닥", "value": "24,247.70", "change": "-1.07%, 11/17(화) 마감", "source": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-november-17-dow-sp-500-nasdaq-nvidia-earnings-retail-sales-143848454.html" },
   { "name": "다우", "value": "50,764.34", "change": "-1.64%, 11/17(화) 마감", "source": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-november-17-dow-sp-500-nasdaq-nvidia-earnings-retail-sales-143848454.html" },
-  { "name": "VIX", "value": "25.90", "change": "+13.05%, 2거래일 연속 급등", "source": "https://home.saxo/en-ch/content/articles/options/volatility-jumps-at-the-front-before-nvidia---options-brief---17-november-2026-17112026" },
-  { "name": "美 10년물", "value": "5.10%", "change": "-0.04%p, 5%대 유지", "source": "https://www.gurufocus.com/news/9204463/us-treasury-yields-steady-as-investors-await-economic-data" },
-  { "name": "국고채 3년물", "value": "3.725%", "change": "-0.018%p", "source": "https://supple.kr/news/cmwkf9miopwcrjkunnuvbghf7" },
-  { "name": "달러인덱스(DXY)", "value": "103.6", "change": "19개월 최고 유지", "source": "https://view.asiae.co.kr/article/2026111715454798265" },
-  { "name": "원/달러", "value": "1,338.2", "change": "+2.5원, 19개월 최고", "source": "https://view.asiae.co.kr/article/2026111715454798265" },
-  { "name": "美 기준금리", "value": "3.75~4.00%", "change": "0 · 12/9 FOMC 25bp 추가 인상 확률 75~87%(CME FedWatch)", "source": "https://www.fool.com/investing/2026/11/16/theres-now-100-chance-fed-rate-hike-in-december-thats-not-worst-news-for-wall-street/" },
-  { "name": "한국 기준금리", "value": "3.00%", "change": "0 · 10월 동결, 11/26 금통위 예정", "source": "https://marketlog.co.kr/rate-decision-calendar-2026/" },
-  { "name": "美 CPI", "value": "3.9%", "change": "상승(나우캐스팅, 10월 실제치는 셧다운 영향 전년비 미산출)", "source": "https://www.stonex.com/en-gb/news-and-analysis/us-cpi-preview-will-inflation-fall-enough-to-put-a-fed-hike-in-doubt-2026-11-09/" },
-  { "name": "韓 CPI", "value": "2.8%", "change": "-0.1%p, 10월 발표", "source": "https://www.mt.co.kr/index.php/economy/2026/11/03/2026110308121520247" },
-  { "name": "금(Gold)", "value": "3,851", "change": "-0.39%", "source": "https://www.cnbc.com/select/the-price-of-gold-today-nov-17-2026/" }
+  { "name": "VIX", "value": "25.46", "change": "+11.13%, 11/17(화) 美마감 기준(엔비디아 실적 발표 전 경계감 반영분)", "source": "https://www.investing.com/indices/volatility-s-p-500" },
+  { "name": "美 10년물", "value": "5.10%", "change": "0, 5%대 지속", "source": "https://www.forbes.com/advisor/investing/treasury-rates/" },
+  { "name": "국고채 3년물", "value": "3.722%", "change": "-0.003%p, 11/18 장중", "source": "https://www.yna.co.kr/view/AKR20261118093300008" },
+  { "name": "달러인덱스(DXY)", "value": "103.7", "change": "2025년 4월 이후 최고 지속", "source": "https://www.vantagemarkets.com/market-news/us-dollar-index-highest-since-march-2025-fed-hike-bets-november-17-2026/" },
+  { "name": "원/달러", "value": "1,335", "change": "-2~3원, 11/18 장중(네고물량 영향)", "source": "https://www.tokenpost.kr/news/insights/440098" },
+  { "name": "美 기준금리", "value": "3.75~4.00%", "change": "0 · 12/9 FOMC 인상 확률 66~100%(소스별 상이, 인하 가능성은 거론 안 됨)", "source": "https://www.fool.com/investing/2026/11/16/theres-now-100-chance-fed-rate-hike-in-december-thats-not-worst-news-for-wall-street/" },
+  { "name": "한국 기준금리", "value": "3.00%", "change": "0 · 11/26 금통위, 25bp 인상(3.25%) 전망 우세(채권시장 전문가 다수, 신현송 총재)", "source": "https://kbthink.com/news-list/view.html?newsId=20261118083405515" },
+  { "name": "美 CPI", "value": "3.9%", "change": "0, 다음 발표 12/10(나우캐스팅 추정치, 셧다운 영향 공식 YoY 미산출)", "source": "https://www.stocktitan.net/articles/october-2026-cpi-preview-no-yearly-rate" },
+  { "name": "韓 CPI", "value": "2.8%", "change": "-0.1%p, 10월 발표(전월 2.9%)", "source": "https://www.korea.kr/briefing/policyBriefingView.do?newsId=156787698" },
+  { "name": "금(Gold)", "value": "3,893", "change": "-0.27%, 달러강세·美금리 상승 압박", "source": "https://goldify.pro/gold-price-in/2026/11/18" }
  ]
 }
