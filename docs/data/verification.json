@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-18T13:20:56+09:00",
+ "updatedAt": "2026-11-19T04:26:24+09:00",
  "cases": [
   {
    "name": "비나텍(126340)",
@@ -71411,6 +71411,59 @@
    "theme": "AI데이터센터/반도체부품",
    "status": "pending",
    "checks": []
+  },
+  {
+   "name": "아이크래프트(052460)",
+   "type": "discovery",
+   "market": "韓",
+   "flagDate": "2026-11-19",
+   "signals": [
+    "대형고객납품(네이버클라우드2091억스위치계약)",
+    "전년매출101.26%규모확정계약"
+   ],
+   "theme": "AI전력/데이터센터",
+   "status": "pending",
+   "checks": [],
+   "convScore": 1,
+   "convTier": "low",
+   "convSignals": [
+    "구체촉발재",
+    "⚠️열세테마",
+    "틈새레이더"
+   ],
+   "convStampedAt": "2026-11-19"
+  },
+  {
+   "name": "위너스일렉(479960)",
+   "type": "leading",
+   "market": "韓",
+   "flagDate": "2026-11-19",
+   "signals": [
+    "지분투자(헥사로보틱스40억원·10.5%)",
+    "로봇전략적투자"
+   ],
+   "theme": "로봇/휴머노이드",
+   "status": "pending",
+   "checks": [],
+   "convScore": 2,
+   "convTier": "low",
+   "convSignals": [
+    "승세테마"
+   ],
+   "convStampedAt": "2026-11-19"
+  },
+  {
+   "name": "코리아써키트(007810)",
+   "type": "warning",
+   "market": "韓",
+   "flagDate": "2026-11-19",
+   "signals": [
+    "기판수주2배+증설효과",
+    "한달새43%급등다수매체보도"
+   ],
+   "theme": "AI데이터센터/반도체부품",
+   "status": "pending",
+   "checks": []
   }
  ],
  "stats": {
@@ -71420,8 +71473,8 @@
   "miss": 164,
   "hitRate": 24.3,
   "avgD3ChangePct": 0.32,
-  "pending": 361,
-  "total": 748,
+  "pending": 364,
+  "total": 751,
   "byType": {
    "leading": {
     "verified": 163,
