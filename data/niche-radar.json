@@ -1,23 +1,23 @@
 {
- "updatedAt": "2026-11-19T03:47:45+09:00",
+ "updatedAt": "2026-11-20T03:58:51+09:00",
  "note": "원본 헤드라인의 반복 언급을 탐지한 조사 후보이며 투자권유가 아니다. 동일 기사 재실행은 한 번만 집계하고, 순수 악재 반복과 모호한 회사명은 제외한다.",
  "window": 30,
- "corpusToday": 580,
- "trackedCompanies": 686,
+ "corpusToday": 576,
+ "trackedCompanies": 692,
  "companies": [
   {
    "code": "001200",
    "name": "유진투자증권",
    "market": "KOSPI",
-   "cap": 3429,
+   "cap": 3366,
    "total": 15,
-   "recent": 4,
+   "recent": 3,
    "activeDays": 8,
    "firstSeen": "2026-11-09",
    "lastSeen": "2026-11-19",
-   "score": 28.1,
+   "score": 23.3,
    "riskMentions": 0,
-   "catalystMentions": 4,
+   "catalystMentions": 3,
    "samples": [
     {
      "date": "2026-11-19",
@@ -34,198 +34,30 @@
    ]
   },
   {
-   "code": "016610",
-   "name": "DB증권",
-   "market": "KOSPI",
-   "cap": 3659,
-   "total": 6,
-   "recent": 4,
-   "activeDays": 5,
-   "firstSeen": "2026-10-28",
-   "lastSeen": "2026-11-19",
-   "score": 26.5,
+   "code": "094480",
+   "name": "갤럭시아머니트리",
+   "market": "KOSDAQ",
+   "cap": 1687,
+   "total": 3,
+   "recent": 3,
+   "activeDays": 3,
+   "firstSeen": "2026-11-18",
+   "lastSeen": "2026-11-20",
+   "score": 19.1,
    "riskMentions": 0,
    "catalystMentions": 0,
    "samples": [
+    {
+     "date": "2026-11-20",
+     "title": "갤럭시아머니트리, 효성 계열사 무역거래로 '스테이블코인' 실증…결제시장 공략"
+    },
     {
      "date": "2026-11-19",
-     "title": "DB증권·솔라나 재단, 부산서 블록체인 해커톤 개최…토큰증권 사업모델 발굴"
+     "title": "갤럭시아머니트리 \"한·일 간 스테이블코인 무역송금 POC 완료\""
     },
     {
      "date": "2026-11-18",
-     "title": "DB증권·솔라나 재단, 부산서 블록체인 해커톤 개최…토큰증권 사업모델 발굴"
-    },
-    {
-     "date": "2026-11-17",
-     "title": "DB증권, 3분기 영업익 116억원…전년比 74%↓"
-    }
-   ]
-  },
-  {
-   "code": "121440",
-   "name": "골프존홀딩스",
-   "market": "KOSDAQ",
-   "cap": 3761,
-   "total": 11,
-   "recent": 2,
-   "activeDays": 11,
-   "firstSeen": "2026-10-29",
-   "lastSeen": "2026-11-18",
-   "score": 26.4,
-   "riskMentions": 0,
-   "catalystMentions": 0,
-   "samples": [
-    {
-     "date": "2026-11-18",
-     "title": "\"골프존홀딩스, 카운티 지분 현금화해야\"…美터톤, 추가 주주행동 검토"
-    },
-    {
-     "date": "2026-11-17",
-     "title": "\"골프존홀딩스, 카운티 지분 현금화해야\"…美터톤, 추가 주주행동 검토"
-    },
-    {
-     "date": "2026-11-09",
-     "title": "\"골프존카운티 매각 수용해야\" 터톤캐피탈, 골프존홀딩스에 주주서한"
-    }
-   ]
-  },
-  {
-   "code": "005960",
-   "name": "동부건설",
-   "market": "KOSPI",
-   "cap": 1700,
-   "total": 6,
-   "recent": 4,
-   "activeDays": 4,
-   "firstSeen": "2026-10-22",
-   "lastSeen": "2026-11-18",
-   "score": 24.5,
-   "riskMentions": 0,
-   "catalystMentions": 0,
-   "samples": [
-    {
-     "date": "2026-11-18",
-     "title": "동부건설, 3분기 영업익 146억…전년比 2072% 늘어"
-    },
-    {
-     "date": "2026-11-17",
-     "title": "동부건설, 완도군과 국립난대수목원 조성 지역상생 협약"
-    },
-    {
-     "date": "2026-11-17",
-     "title": "동부건설, 3분기 영업익 146억…전년比 2072% 늘어"
-    }
-   ]
-  },
-  {
-   "code": "347700",
-   "name": "스피어",
-   "market": "KOSDAQ",
-   "cap": 8238,
-   "total": 11,
-   "recent": 2,
-   "activeDays": 10,
-   "firstSeen": "2026-10-30",
-   "lastSeen": "2026-11-18",
-   "score": 24.4,
-   "riskMentions": 0,
-   "catalystMentions": 2,
-   "samples": [
-    {
-     "date": "2026-11-18",
-     "title": "스피어, 우주항공 수주 확대에 분기 최대 매출 \"영업익 흑자전환\""
-    },
-    {
-     "date": "2026-11-17",
-     "title": "스피어, 우주항공 수주 확대에 분기 최대 매출 \"영업익 흑자전환\""
-    },
-    {
-     "date": "2026-11-13",
-     "title": "[클릭 e종목]\"스피어, 누적 수주 2.1억달러…스타십 양산·니켈 사업 성장 기대\""
-    }
-   ]
-  },
-  {
-   "code": "280360",
-   "name": "롯데웰푸드",
-   "market": "KOSPI",
-   "cap": 12021,
-   "total": 7,
-   "recent": 3,
-   "activeDays": 6,
-   "firstSeen": "2026-10-28",
-   "lastSeen": "2026-11-18",
-   "score": 23.2,
-   "riskMentions": 0,
-   "catalystMentions": 2,
-   "samples": [
-    {
-     "date": "2026-11-18",
-     "title": "롯데웰푸드, 내년 10%대 이익 성장 기대…목표가 19만원 유지"
-    },
-    {
-     "date": "2026-11-17",
-     "title": "롯데웰푸드, 내년 10%대 이익 성장 기대…목표가 19만원 유지"
-    },
-    {
-     "date": "2026-11-17",
-     "title": "[오늘의 증권가 콜]티엘비, 하나머티리얼즈, 펌텍, NICE평가정보, 롯데웰푸드, 한국가스공사 등"
-    }
-   ]
-  },
-  {
-   "code": "001750",
-   "name": "한양증권",
-   "market": "KOSPI",
-   "cap": 2774,
-   "total": 12,
-   "recent": 3,
-   "activeDays": 6,
-   "firstSeen": "2026-11-04",
-   "lastSeen": "2026-11-18",
-   "score": 20.7,
-   "riskMentions": 0,
-   "catalystMentions": 0,
-   "samples": [
-    {
-     "date": "2026-11-18",
-     "title": "한양증권, 한국PR대상 IR 부문 단독 수상"
-    },
-    {
-     "date": "2026-11-17",
-     "title": "한양증권, 3분기 영업익 101억…전년比 46.7%↓"
-    },
-    {
-     "date": "2026-11-17",
-     "title": "[게시판] 한양증권, 한국PR대상 'IR 부문 우수상' 수상"
-    }
-   ]
-  },
-  {
-   "code": "188040",
-   "name": "바이오포트",
-   "market": "KOSDAQ",
-   "cap": 246,
-   "total": 6,
-   "recent": 2,
-   "activeDays": 6,
-   "firstSeen": "2026-10-26",
-   "lastSeen": "2026-11-18",
-   "score": 18.8,
-   "riskMentions": 0,
-   "catalystMentions": 2,
-   "samples": [
-    {
-     "date": "2026-11-18",
-     "title": "바이오포트, 해외시장 겨냥 신제품 확대…마케팅 투자 늘린다"
-    },
-    {
-     "date": "2026-11-17",
-     "title": "바이오포트, 해외시장 겨냥 신제품 확대…마케팅 투자 늘린다"
-    },
-    {
-     "date": "2026-11-10",
-     "title": "\"바이오포트, 히트 제품·글로벌 유통망으로 해외 성장 기대\""
+     "title": "갤럭시아머니트리 \"한·일 간 스테이블코인 무역송금 POC 완료\""
     }
    ]
   },
@@ -233,7 +65,7 @@
    "code": "010780",
    "name": "아이에스동서",
    "market": "KOSPI",
-   "cap": 4075,
+   "cap": 3897,
    "total": 4,
    "recent": 3,
    "activeDays": 3,
@@ -258,159 +90,23 @@
    ]
   },
   {
-   "code": "005180",
-   "name": "빙그레",
-   "market": "KOSPI",
-   "cap": 6879,
-   "total": 4,
-   "recent": 3,
-   "activeDays": 3,
-   "firstSeen": "2026-11-16",
-   "lastSeen": "2026-11-18",
-   "score": 18.6,
-   "riskMentions": 0,
-   "catalystMentions": 2,
-   "samples": [
-    {
-     "date": "2026-11-18",
-     "title": "\"메로나 다음은 붕어싸만코\"…빙그레, 50% 상승 여력↑"
-    },
-    {
-     "date": "2026-11-17",
-     "title": "'해외시장 성장' 빙그레 영업익 전년비 10.7% 증가"
-    },
-    {
-     "date": "2026-11-17",
-     "title": "\"메로나만 잘 팔리는 게 아니다\"…빙그레, 수출 확대로 성장 기대"
-    }
-   ]
-  },
-  {
-   "code": "355690",
-   "name": "에이텀",
+   "code": "315640",
+   "name": "딥노이드",
    "market": "KOSDAQ",
-   "cap": 582,
-   "total": 8,
-   "recent": 2,
-   "activeDays": 6,
-   "firstSeen": "2026-11-06",
-   "lastSeen": "2026-11-18",
-   "score": 17.8,
-   "riskMentions": 0,
-   "catalystMentions": 2,
-   "samples": [
-    {
-     "date": "2026-11-18",
-     "title": "에이텀, 베트남 법인 생산구조 개편 \"내년 흑자전환 추진\""
-    },
-    {
-     "date": "2026-11-17",
-     "title": "에이텀, 베트남 법인 생산구조 개편 \"내년 흑자전환 추진\""
-    },
-    {
-     "date": "2026-11-09",
-     "title": "에이텀 한택수 대표, 사재로 장내매수…\"지분 확대로 책임경영 강화\""
-    }
-   ]
-  },
-  {
-   "code": "034830",
-   "name": "한국토지신탁",
-   "market": "KOSPI",
-   "cap": 2462,
+   "cap": 430,
    "total": 5,
    "recent": 2,
    "activeDays": 5,
-   "firstSeen": "2026-10-23",
-   "lastSeen": "2026-11-18",
+   "firstSeen": "2026-10-27",
+   "lastSeen": "2026-11-20",
    "score": 17.3,
-   "riskMentions": 0,
-   "catalystMentions": 0,
-   "samples": [
-    {
-     "date": "2026-11-18",
-     "title": "한국토지신탁·삼도회계법인, '부동산 자산승계' 업무협약 체결"
-    },
-    {
-     "date": "2026-11-17",
-     "title": "한국토지신탁·삼도회계법인, '부동산 자산승계' 업무협약 체결"
-    },
-    {
-     "date": "2026-10-29",
-     "title": "한국토지신탁-간삼건축, 도심복합개발 신규 사업지 발굴"
-    }
-   ]
-  },
-  {
-   "code": "476080",
-   "name": "M83",
-   "market": "KOSDAQ",
-   "cap": 302,
-   "total": 5,
-   "recent": 2,
-   "activeDays": 5,
-   "firstSeen": "2026-11-02",
-   "lastSeen": "2026-11-18",
-   "score": 17.3,
-   "riskMentions": 0,
-   "catalystMentions": 2,
-   "samples": [
-    {
-     "date": "2026-11-18",
-     "title": "M83 자회사 피앤티링크, 네이버 서버 공급계약 체결…630억원 규모"
-    },
-    {
-     "date": "2026-11-17",
-     "title": "M83 자회사 피앤티링크, 네이버 서버 공급계약 체결…630억원 규모"
-    },
-    {
-     "date": "2026-11-05",
-     "title": "M83-디블라트, 딥페이크 판별 솔루션 '안티제니' 개발"
-    }
-   ]
-  },
-  {
-   "code": "003920",
-   "name": "남양유업",
-   "market": "KOSPI",
-   "cap": 2383,
-   "total": 6,
-   "recent": 2,
-   "activeDays": 5,
-   "firstSeen": "2026-10-21",
-   "lastSeen": "2026-11-17",
-   "score": 16.8,
    "riskMentions": 0,
    "catalystMentions": 1,
    "samples": [
     {
-     "date": "2026-11-17",
-     "title": "남양유업, 3분기 영업익 104% 증가…3개 분기 연속 이익 확대"
+     "date": "2026-11-20",
+     "title": "딥노이드, 암 전이 판독에 AI 접목…'전문의 정확도' 91.5%로 개선"
     },
-    {
-     "date": "2026-11-17",
-     "title": "남양유업 영업익 35억…전년비 104% 증가"
-    },
-    {
-     "date": "2026-11-16",
-     "title": "남양유업, 베트남·인니 식품박람회 참가…수출 확대 추진"
-    }
-   ]
-  },
-  {
-   "code": "315640",
-   "name": "딥노이드",
-   "market": "KOSDAQ",
-   "cap": 459,
-   "total": 4,
-   "recent": 2,
-   "activeDays": 4,
-   "firstSeen": "2026-10-27",
-   "lastSeen": "2026-11-18",
-   "score": 15.8,
-   "riskMentions": 0,
-   "catalystMentions": 2,
-   "samples": [
     {
      "date": "2026-11-18",
      "title": "딥노이드, 생성형 AI 원격판독 확대…폴스타헬스케어 등과 'M4CXR' 고도화"
@@ -418,10 +114,34 @@
     {
      "date": "2026-11-17",
      "title": "딥노이드, 생성형 AI 원격판독 확대…폴스타헬스케어 등과 'M4CXR' 고도화"
+    }
+   ]
+  },
+  {
+   "code": "016610",
+   "name": "DB증권",
+   "market": "KOSPI",
+   "cap": 3459,
+   "total": 6,
+   "recent": 2,
+   "activeDays": 5,
+   "firstSeen": "2026-10-28",
+   "lastSeen": "2026-11-19",
+   "score": 16.8,
+   "riskMentions": 0,
+   "catalystMentions": 0,
+   "samples": [
+    {
+     "date": "2026-11-19",
+     "title": "DB증권·솔라나 재단, 부산서 블록체인 해커톤 개최…토큰증권 사업모델 발굴"
     },
     {
-     "date": "2026-10-29",
-     "title": "딥노이드, 판독문으로 병변 위치까지 학습…'의료 AI 고도화' 기반 확보"
+     "date": "2026-11-18",
+     "title": "DB증권·솔라나 재단, 부산서 블록체인 해커톤 개최…토큰증권 사업모델 발굴"
+    },
+    {
+     "date": "2026-11-17",
+     "title": "DB증권, 3분기 영업익 116억원…전년比 74%↓"
     }
    ]
   },
@@ -429,7 +149,7 @@
    "code": "076080",
    "name": "웰크론한텍",
    "market": "KOSDAQ",
-   "cap": 228,
+   "cap": 225,
    "total": 4,
    "recent": 2,
    "activeDays": 4,
@@ -454,326 +174,10 @@
    ]
   },
   {
-   "code": "032350",
-   "name": "롯데관광개발",
+   "code": "000640",
+   "name": "동아제약",
    "market": "KOSPI",
-   "cap": 8020,
-   "total": 7,
-   "recent": 2,
-   "activeDays": 4,
-   "firstSeen": "2026-11-02",
-   "lastSeen": "2026-11-17",
-   "score": 14.3,
-   "riskMentions": 1,
-   "catalystMentions": 1,
-   "samples": [
-    {
-     "date": "2026-11-17",
-     "title": "롯데관광개발, 4분기 시작으로 영업 레버리지 확인 전망"
-    },
-    {
-     "date": "2026-11-17",
-     "title": "\"롯데관광개발, 3분기 부진 딛고 내년에도 고성장 지속할 것\"-하나"
-    },
-    {
-     "date": "2026-11-16",
-     "title": "키움증권 \"롯데관광개발, 3분기 영업익 전망치 하회…목표가↓\""
-    }
-   ]
-  },
-  {
-   "code": "490470",
-   "name": "세미파이브",
-   "market": "KOSDAQ",
-   "cap": 4090,
-   "total": 2,
-   "recent": 2,
-   "activeDays": 2,
-   "firstSeen": "2026-11-17",
-   "lastSeen": "2026-11-18",
-   "score": 12.7,
-   "riskMentions": 0,
-   "catalystMentions": 0,
-   "samples": [
-    {
-     "date": "2026-11-18",
-     "title": "세미파이브, 차세대 로직칩 개발…\"HBM 없이 AI반도체 제조\""
-    },
-    {
-     "date": "2026-11-17",
-     "title": "\"HBM 없어도 AI 반도체 만든다\"…세미파이브, 차세대 3D-IC 기술 공개"
-    }
-   ]
-  },
-  {
-   "code": "417010",
-   "name": "나노팀",
-   "market": "KOSDAQ",
-   "cap": 1021,
-   "total": 2,
-   "recent": 2,
-   "activeDays": 2,
-   "firstSeen": "2026-11-17",
-   "lastSeen": "2026-11-18",
-   "score": 12.7,
-   "riskMentions": 0,
-   "catalystMentions": 0,
-   "samples": [
-    {
-     "date": "2026-11-18",
-     "title": "[개장시황]美 AI 칩 규제·엔비디아 여파에 코스피 5010선 후퇴…옵토닉스·나노팀 급등"
-    },
-    {
-     "date": "2026-11-17",
-     "title": "[개장시황]美 AI 칩 규제·엔비디아 여파에 코스피 5010선 후퇴…옵토닉스·나노팀 급등"
-    }
-   ]
-  },
-  {
-   "code": "091340",
-   "name": "S&K글로벌",
-   "market": "KOSDAQ",
-   "cap": 301,
-   "total": 2,
-   "recent": 2,
-   "activeDays": 2,
-   "firstSeen": "2026-11-17",
-   "lastSeen": "2026-11-18",
-   "score": 12.7,
-   "riskMentions": 0,
-   "catalystMentions": 2,
-   "samples": [
-    {
-     "date": "2026-11-18",
-     "title": "S&K글로벌, 캐프 호조·인수 효과에 누적 영업익 33% 증가"
-    },
-    {
-     "date": "2026-11-17",
-     "title": "S&K글로벌, 캐프 호조·인수 효과에 누적 영업익 33% 증가"
-    }
-   ]
-  },
-  {
-   "code": "003000",
-   "name": "부광약품",
-   "market": "KOSPI",
-   "cap": 3907,
-   "total": 2,
-   "recent": 2,
-   "activeDays": 2,
-   "firstSeen": "2026-11-17",
-   "lastSeen": "2026-11-18",
-   "score": 12.7,
-   "riskMentions": 0,
-   "catalystMentions": 2,
-   "samples": [
-    {
-     "date": "2026-11-18",
-     "title": "SGC파트너스-부광약품 업무협약…바이오·헬스케어 투자 확대"
-    },
-    {
-     "date": "2026-11-17",
-     "title": "SGC파트너스-부광약품 업무협약…바이오·헬스케어 투자 확대"
-    }
-   ]
-  },
-  {
-   "code": "072770",
-   "name": "멤레이비티",
-   "market": "KOSDAQ",
-   "cap": 289,
-   "total": 2,
-   "recent": 2,
-   "activeDays": 2,
-   "firstSeen": "2026-11-17",
-   "lastSeen": "2026-11-18",
-   "score": 12.7,
-   "riskMentions": 0,
-   "catalystMentions": 2,
-   "samples": [
-    {
-     "date": "2026-11-18",
-     "title": "멤레이비티, AI 인프라 수요 타고 3분기 흑자전환…매출 165% 급증"
-    },
-    {
-     "date": "2026-11-17",
-     "title": "멤레이비티, AI 인프라 수요 타고 3분기 흑자전환…매출 165% 급증"
-    }
-   ]
-  },
-  {
-   "code": "013120",
-   "name": "동원개발",
-   "market": "KOSDAQ",
-   "cap": 1783,
-   "total": 2,
-   "recent": 2,
-   "activeDays": 2,
-   "firstSeen": "2026-11-17",
-   "lastSeen": "2026-11-18",
-   "score": 12.7,
-   "riskMentions": 0,
-   "catalystMentions": 0,
-   "samples": [
-    {
-     "date": "2026-11-18",
-     "title": "소방시설 차단한 채 아파트 입주…동원개발, 2심도 벌금형"
-    },
-    {
-     "date": "2026-11-17",
-     "title": "소방시설 차단한 채 아파트 입주…동원개발, 2심도 벌금형"
-    }
-   ]
-  },
-  {
-   "code": "052460",
-   "name": "아이크래프트",
-   "market": "KOSDAQ",
-   "cap": 783,
-   "total": 2,
-   "recent": 2,
-   "activeDays": 2,
-   "firstSeen": "2026-11-17",
-   "lastSeen": "2026-11-18",
-   "score": 12.7,
-   "riskMentions": 0,
-   "catalystMentions": 2,
-   "samples": [
-    {
-     "date": "2026-11-18",
-     "title": "아이크래프트, 네이버클라우드 2091억 스위치 공급계약에 12.52% 급등"
-    },
-    {
-     "date": "2026-11-17",
-     "title": "아이크래프트, 네이버클라우드 2091억 스위치 공급계약에 12.52% 급등"
-    }
-   ]
-  },
-  {
-   "code": "027360",
-   "name": "아주IB투자",
-   "market": "KOSDAQ",
-   "cap": 2974,
-   "total": 2,
-   "recent": 2,
-   "activeDays": 2,
-   "firstSeen": "2026-11-17",
-   "lastSeen": "2026-11-18",
-   "score": 12.7,
-   "riskMentions": 0,
-   "catalystMentions": 2,
-   "samples": [
-    {
-     "date": "2026-11-18",
-     "title": "아주IB투자, 연내 3350억 펀드 결성"
-    },
-    {
-     "date": "2026-11-17",
-     "title": "아주IB투자, 연내 3350억 펀드 결성"
-    }
-   ]
-  },
-  {
-   "code": "373200",
-   "name": "엑스플러스",
-   "market": "KOSDAQ",
-   "cap": 694,
-   "total": 2,
-   "recent": 2,
-   "activeDays": 2,
-   "firstSeen": "2026-11-17",
-   "lastSeen": "2026-11-18",
-   "score": 12.7,
-   "riskMentions": 0,
-   "catalystMentions": 0,
-   "samples": [
-    {
-     "date": "2026-11-18",
-     "title": "엑스플러스, 에너지·항만운송 진출 추진…내달 임시주총서 사업목적 추가"
-    },
-    {
-     "date": "2026-11-17",
-     "title": "엑스플러스, 에너지·항만운송 진출 추진…내달 임시주총서 사업목적 추가"
-    }
-   ]
-  },
-  {
-   "code": "001070",
-   "name": "대한방직",
-   "market": "KOSPI",
-   "cap": 301,
-   "total": 2,
-   "recent": 2,
-   "activeDays": 2,
-   "firstSeen": "2026-11-17",
-   "lastSeen": "2026-11-18",
-   "score": 12.7,
-   "riskMentions": 0,
-   "catalystMentions": 0,
-   "samples": [
-    {
-     "date": "2026-11-18",
-     "title": "전주시의회, 옛 대한방직 부지 개발 '자광 자금·실행력' 추궁"
-    },
-    {
-     "date": "2026-11-17",
-     "title": "전주시의회, 옛 대한방직 부지 개발 '자광 자금·실행력' 추궁"
-    }
-   ]
-  },
-  {
-   "code": "098120",
-   "name": "마이크로컨텍솔",
-   "market": "KOSDAQ",
-   "cap": 4015,
-   "total": 2,
-   "recent": 2,
-   "activeDays": 2,
-   "firstSeen": "2026-11-17",
-   "lastSeen": "2026-11-18",
-   "score": 12.7,
-   "riskMentions": 0,
-   "catalystMentions": 0,
-   "samples": [
-    {
-     "date": "2026-11-18",
-     "title": "초고수들은 18% 폭락한 마이크로컨텍솔을 왜 가득 담았을까"
-    },
-    {
-     "date": "2026-11-17",
-     "title": "초고수들은 18% 폭락한 마이크로컨텍솔을 왜 가득 담았을까"
-    }
-   ]
-  },
-  {
-   "code": "032800",
-   "name": "판타지오",
-   "market": "KOSDAQ",
-   "cap": 202,
-   "total": 2,
-   "recent": 2,
-   "activeDays": 2,
-   "firstSeen": "2026-11-17",
-   "lastSeen": "2026-11-18",
-   "score": 12.7,
-   "riskMentions": 0,
-   "catalystMentions": 2,
-   "samples": [
-    {
-     "date": "2026-11-18",
-     "title": "판타지오, 7~9월 매출 252억원…드라마 제작 성과 확대"
-    },
-    {
-     "date": "2026-11-17",
-     "title": "판타지오, 7~9월 매출 252억원…드라마 제작 성과 확대"
-    }
-   ]
-  },
-  {
-   "code": "094480",
-   "name": "갤럭시아머니트리",
-   "market": "KOSDAQ",
-   "cap": 1663,
+   "cap": 6106,
    "total": 2,
    "recent": 2,
    "activeDays": 2,
@@ -785,11 +189,111 @@
    "samples": [
     {
      "date": "2026-11-19",
-     "title": "갤럭시아머니트리 \"한·일 간 스테이블코인 무역송금 POC 완료\""
+     "title": "동아제약, 합병으로 국내 일반의약품 1위 도약…목표가 14만5000원"
     },
     {
      "date": "2026-11-18",
-     "title": "갤럭시아머니트리 \"한·일 간 스테이블코인 무역송금 POC 완료\""
+     "title": "동아제약, 합병으로 국내 일반의약품 1위 도약…목표가 14만5000원"
+    }
+   ]
+  },
+  {
+   "code": "0048J0",
+   "name": "KODEX 미국머니마켓액티브",
+   "market": "KOSPI",
+   "cap": 10424,
+   "total": 2,
+   "recent": 2,
+   "activeDays": 2,
+   "firstSeen": "2026-11-18",
+   "lastSeen": "2026-11-19",
+   "score": 12.7,
+   "riskMentions": 0,
+   "catalystMentions": 0,
+   "samples": [
+    {
+     "date": "2026-11-19",
+     "title": "\"달러 파킹 수요 늘어난다\"…KODEX 미국머니마켓액티브, 순자산 1조원 돌파"
+    },
+    {
+     "date": "2026-11-18",
+     "title": "삼성운용 'KODEX 미국머니마켓액티브' 순자산 1조원 돌파"
+    }
+   ]
+  },
+  {
+   "code": "299660",
+   "name": "셀리드",
+   "market": "KOSDAQ",
+   "cap": 507,
+   "total": 2,
+   "recent": 2,
+   "activeDays": 2,
+   "firstSeen": "2026-11-18",
+   "lastSeen": "2026-11-19",
+   "score": 12.7,
+   "riskMentions": 0,
+   "catalystMentions": 0,
+   "samples": [
+    {
+     "date": "2026-11-19",
+     "title": "셀리드 \"항암백신 'BVAC-C', 병용 임상 결과 국제 학술지 게재\""
+    },
+    {
+     "date": "2026-11-18",
+     "title": "셀리드 \"항암백신 'BVAC-C', 병용 임상 결과 국제 학술지 게재\""
+    }
+   ]
+  },
+  {
+   "code": "0139P0",
+   "name": "ACE 고배당주",
+   "market": "KOSPI",
+   "cap": 416,
+   "total": 2,
+   "recent": 2,
+   "activeDays": 2,
+   "firstSeen": "2026-11-18",
+   "lastSeen": "2026-11-19",
+   "score": 12.7,
+   "riskMentions": 0,
+   "catalystMentions": 0,
+   "samples": [
+    {
+     "date": "2026-11-19",
+     "title": "한투운용, ACE 고배당주 ETF 11월 분배금에 삼성전자 특별배당 반영"
+    },
+    {
+     "date": "2026-11-18",
+     "title": "한투운용, ACE 고배당주 ETF 11월 분배금에 삼성전자 특별배당 반영"
+    }
+   ]
+  },
+  {
+   "code": "253450",
+   "name": "스튜디오드래곤",
+   "market": "KOSDAQ",
+   "cap": 9258,
+   "total": 4,
+   "recent": 2,
+   "activeDays": 2,
+   "firstSeen": "2026-11-06",
+   "lastSeen": "2026-11-20",
+   "score": 11.8,
+   "riskMentions": 0,
+   "catalystMentions": 0,
+   "samples": [
+    {
+     "date": "2026-11-20",
+     "title": "한중 FTA 2단계 협상 타결에 미디어·엔터주 '들썩'…스튜디오드래곤 '上'"
+    },
+    {
+     "date": "2026-11-20",
+     "title": "스튜디오드래곤 상한가…한중 FTA에 드라마 공동제작 기대 [종목NOW]"
+    },
+    {
+     "date": "2026-11-06",
+     "title": "대신증권 \"스튜디오드래곤, 제작 물량 회복에 수익성 개선\""
     }
    ]
   }

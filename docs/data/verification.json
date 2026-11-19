@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-19T04:26:24+09:00",
+ "updatedAt": "2026-11-20T04:33:53+09:00",
  "cases": [
   {
    "name": "비나텍(126340)",
@@ -71464,6 +71464,19 @@
    "theme": "AI데이터센터/반도체부품",
    "status": "pending",
    "checks": []
+  },
+  {
+   "name": "스튜디오드래곤(253450)",
+   "type": "warning",
+   "market": "韓",
+   "flagDate": "2026-11-20",
+   "signals": [
+    "한중FTA실질타결수혜",
+    "2일연속상한가(이미반영)"
+   ],
+   "theme": "미디어/엔터(한한령해제)",
+   "status": "pending",
+   "checks": []
   }
  ],
  "stats": {
@@ -71473,8 +71486,8 @@
   "miss": 164,
   "hitRate": 24.3,
   "avgD3ChangePct": 0.32,
-  "pending": 364,
-  "total": 751,
+  "pending": 365,
+  "total": 752,
   "byType": {
    "leading": {
     "verified": 163,
