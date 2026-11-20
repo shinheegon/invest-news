@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-20T12:19:53+09:00",
+ "updatedAt": "2026-11-21T04:09:48+09:00",
  "cases": [
   {
    "name": "비나텍(126340)",
@@ -71497,6 +71497,27 @@
     "⚠️열세테마"
    ],
    "convStampedAt": "2026-11-20"
+  },
+  {
+   "name": "세미파이브(373170)",
+   "type": "leading",
+   "market": "韓",
+   "flagDate": "2026-11-21",
+   "signals": [
+    "3분기신규수주437%급증",
+    "구체촉발재"
+   ],
+   "theme": "AI반도체설계(팹리스/IP)",
+   "status": "pending",
+   "checks": [],
+   "convScore": 7,
+   "convTier": "high",
+   "convSignals": [
+    "반복포착",
+    "승세테마",
+    "구체촉발재"
+   ],
+   "convStampedAt": "2026-11-21"
   }
  ],
  "stats": {
@@ -71506,8 +71527,8 @@
   "miss": 164,
   "hitRate": 24.3,
   "avgD3ChangePct": 0.32,
-  "pending": 366,
-  "total": 753,
+  "pending": 367,
+  "total": 754,
   "byType": {
    "leading": {
     "verified": 163,
