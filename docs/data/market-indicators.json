@@ -1,23 +1,23 @@
 {
- "updatedAt": "2026-11-20T04:08:29+09:00",
+ "updatedAt": "2026-11-20T12:10:00+09:00",
  "session": "AM",
- "note": "11/20(금) AM — 전일(11/19) 코스피·코스닥 정규마감 확정치 + 밤사이 美증시(11/19 현지마감) 반영. 투자권유 아님.",
- "stock_fng": { "value": 27, "label": "Fear", "source": "https://www.benzinga.com/markets/market-summary/26/11/63419422/dow-tumbles-over-500-points-as-nvidia-falls-after-earnings-investor-sentiment-weakens-further-greed-index-in-extreme-fear-zone" },
+ "note": "11/20(금) AM 갱신 — 장 개장 후 실시간 반영(오전 11시10분 기준). 밤사이(11/19) 美증시 급락 여파로 코스피·코스닥 개장 직후 -4%대 급락, 5,000선·4,900선 잇따라 붕괴. 투자권유 아님.",
+ "stock_fng": { "value": 27, "label": "Fear", "source": "https://cfgi.io/stock-market-fear-and-greed-index/" },
  "indices": [
-  { "name": "코스피", "value": "5,137.89", "change": "+1.39%, 11/19 마감(수능한파 급락후 반전)", "source": "https://www.news1.kr/finance/general-stock/6359886" },
-  { "name": "코스닥", "value": "684.81", "change": "+3.32%, 11/19 마감", "source": "https://www.news1.kr/finance/general-stock/6359886" },
-  { "name": "S&P 500", "value": "7,323.63", "change": "-0.2%, 11/19 마감(5거래일 연속 하락)", "source": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-november-19-dow-sp-500-nasdaq-anthropic-ipo-live-141306032.html" },
-  { "name": "나스닥", "value": "24,429.88", "change": "+0.4%, 11/19 마감", "source": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-november-19-dow-sp-500-nasdaq-anthropic-ipo-live-141306032.html" },
-  { "name": "다우", "value": "50,198.17", "change": "-561.25pt(-1.1%), 11/19 마감", "source": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-november-19-dow-sp-500-nasdaq-anthropic-ipo-live-141306032.html" },
-  { "name": "VIX", "value": "25.5", "change": "고점권 유지(위험회피)", "source": "https://journalarta.com/en/2026/11/20/stock-market-today-dow-slides-1-34-and-vix-jumps-15-at-midday/" },
-  { "name": "美 10년물", "value": "5.07%", "change": "5%대 지속", "source": "https://www.riotimesonline.com/global-economy-briefing-november-19-2026/" },
-  { "name": "국고채 3년물", "value": "3.736%", "change": "상승", "source": "https://www.yna.co.kr/view/AKR20261118154551008" },
-  { "name": "달러인덱스(DXY)", "value": "103.95", "change": "+0.44%", "source": "https://www.riotimesonline.com/global-economy-briefing-november-19-2026/" },
-  { "name": "원/달러", "value": "1,330.0", "change": "-3.0원", "source": "https://www.snmnews.com/news/articleView.html?idxno=577673" },
+  { "name": "코스피", "value": "4,912.83", "change": "-4.38%(오전11:10, 전일 5,137.89 대비 급락)", "source": "https://www.fnnews.com/news/202611200855304073" },
+  { "name": "코스닥", "value": "660.98", "change": "-3.48%", "source": "https://www.fnnews.com/news/202611200855304073" },
+  { "name": "S&P 500", "value": "7,176", "change": "-2.02%, 11/19 마감(6거래일 연속 하락·2024년來 최장)", "source": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-november-19-dow-sp-500-nasdaq-anthropic-ipo-live-141306032.html" },
+  { "name": "나스닥", "value": "23,879", "change": "-2.25%, 11/19 마감", "source": "https://www.tradingkey.com/analysis/stocks/us-stocks/262313953-us-stock-nasdaq-falls-anthropic-ipo-debut-amd-short-report-tradingkey" },
+  { "name": "다우", "value": "약 49,980", "change": "-1,101pt(약-2.1%), 11/19 마감", "source": "https://www.nacionale.com/en/articles/why-is-stock-market-down-today-november-19-dow-1100-points-ai-stocks-anthropic-ipo" },
+  { "name": "VIX", "value": "28.44", "change": "+15.8%, 11/19 마감", "source": "https://247wallst.com/investing/2026/11/19/wall-streets-fear-gauge-went-from-16-61-to-28-18-in-a-single-day-in-november-why-it-keeps-snapping-back/" },
+  { "name": "美 10년물", "value": "5.08%", "change": "5%대 지속", "source": "https://tradingeconomics.com/united-states/government-bond-yield" },
+  { "name": "달러인덱스(DXY)", "value": "103.9", "change": "19개월來 최고권", "source": "https://www.newstong.co.kr/view3.aspx?seq=14829689" },
+  { "name": "원/달러", "value": "1,337.2", "change": "+1.7원(오전, 美 기술주 급락에 원화 약세)", "source": "https://www.job-post.co.kr/news/articleView.html?idxno=239745" },
   { "name": "美 기준금리", "value": "3.75~4.00%", "change": "0 · 12/9 FOMC 25bp 인상 베팅 90%대(인하 아님) · Fed 의장 케빈 워시 체제", "source": "https://www.cnbc.com/2026/11/18/federal-reserve-governor-christopher-waller.html" },
   { "name": "한국 기준금리", "value": "3.00%", "change": "0 · 11/26 금통위 주목, 신현송 총재 인상 시사", "source": "https://www.ekn.kr/web/view.php?key=20261012028154983" },
   { "name": "美 CPI", "value": "3.7%(헤드라인 MoM+0.4%)", "change": "10월 발표, 예상(0.3%) 상회", "source": "https://www.cnbc.com/2026/11/10/cpi-inflation-report-october-2026.html" },
   { "name": "韓 CPI", "value": "2.8%", "change": "10월, 예상(2.9%) 하회 · 11월도 2%대 후반 전망", "source": "https://www.etnews.com/20261103000267" },
-  { "name": "금(Gold)", "value": "3,740", "change": "-1.88%, 1년來 최저권", "source": "https://fortune.com/article/current-price-of-gold-11-18-2026/" }
+  { "name": "금(Gold)", "value": "3,674", "change": "-1.3%, 14개월來 최저(긴축 전망+달러 강세)", "source": "https://www.namdonews.com/news/articleView.html?idxno=929925" },
+  { "name": "WTI", "value": "83.21", "change": "-0.06%(보합, 호르무즈 우회 vs 공급과잉 상충)", "source": "https://www.newspim.com/news/view/20261120000048" }
  ]
 }

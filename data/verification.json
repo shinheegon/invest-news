@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-20T04:33:53+09:00",
+ "updatedAt": "2026-11-20T12:19:53+09:00",
  "cases": [
   {
    "name": "비나텍(126340)",
@@ -71477,6 +71477,26 @@
    "theme": "미디어/엔터(한한령해제)",
    "status": "pending",
    "checks": []
+  },
+  {
+   "name": "앤디포스(237880)",
+   "type": "leading",
+   "market": "韓",
+   "flagDate": "2026-11-20",
+   "signals": [
+    "신규R&D거점가동",
+    "신제품(ESS·데이터센터소재)"
+   ],
+   "theme": "AI전력/데이터센터",
+   "status": "pending",
+   "checks": [],
+   "convScore": -1,
+   "convTier": "low",
+   "convSignals": [
+    "구체촉발재",
+    "⚠️열세테마"
+   ],
+   "convStampedAt": "2026-11-20"
   }
  ],
  "stats": {
@@ -71486,8 +71506,8 @@
   "miss": 164,
   "hitRate": 24.3,
   "avgD3ChangePct": 0.32,
-  "pending": 365,
-  "total": 752,
+  "pending": 366,
+  "total": 753,
   "byType": {
    "leading": {
     "verified": 163,
