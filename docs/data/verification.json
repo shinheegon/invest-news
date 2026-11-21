@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-21T04:09:48+09:00",
+ "updatedAt": "2026-11-21T12:35:45+09:00",
  "cases": [
   {
    "name": "비나텍(126340)",
@@ -71453,6 +71453,45 @@
    "convStampedAt": "2026-11-19"
   },
   {
+   "name": "갤럭시아머니트리(094480)",
+   "type": "leading",
+   "market": "韓",
+   "flagDate": "2026-11-21",
+   "signals": [
+    "대형제휴사PoC완료(효성·광주은행)",
+    "테마확산전"
+   ],
+   "theme": "스테이블코인/핀테크 결제",
+   "status": "pending",
+   "checks": [],
+   "convScore": 2,
+   "convTier": "low",
+   "convSignals": [
+    "틈새레이더"
+   ],
+   "convStampedAt": "2026-11-21"
+  },
+  {
+   "name": "제주반도체(080220)",
+   "type": "discovery",
+   "market": "韓",
+   "flagDate": "2026-11-21",
+   "signals": [
+    "베트남OSAT합작법인설립(지분65%·259.6억원)",
+    "2028년웨이퍼물량대비선제캐파확보"
+   ],
+   "theme": "AI전력/데이터센터(후공정)",
+   "status": "pending",
+   "checks": [],
+   "convScore": -1,
+   "convTier": "low",
+   "convSignals": [
+    "구체촉발재",
+    "⚠️열세테마"
+   ],
+   "convStampedAt": "2026-11-21"
+  },
+  {
    "name": "코리아써키트(007810)",
    "type": "warning",
    "market": "韓",
@@ -71527,8 +71566,8 @@
   "miss": 164,
   "hitRate": 24.3,
   "avgD3ChangePct": 0.32,
-  "pending": 367,
-  "total": 754,
+  "pending": 369,
+  "total": 756,
   "byType": {
    "leading": {
     "verified": 163,
