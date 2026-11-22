@@ -3,6 +3,12 @@
   "SK하이닉스(000660)": {
    "articles": [
     {
+     "date": "2026-11-22",
+     "source": "파이낸셜뉴스",
+     "title": "\"삼성전자 SK하이닉스 내년에도 웃는다\"…무디스가 전망한 이유",
+     "link": "https://www.fnnews.com/news/202611220802359845"
+    },
+    {
      "date": "2026-11-21",
      "source": "한국경제·경제",
      "title": "SK하이닉스, 日키옥시아 전환사채 주식으로 전환",
@@ -715,17 +721,17 @@
      "source": "한국경제·증권",
      "title": "SK하이닉스, 16조원 규모 특별배당설에 \"확정된 바 없어\"",
      "link": "https://www.hankyung.com/article/2026102654976"
-    },
-    {
-     "date": "2026-10-27",
-     "source": "파이낸셜뉴스",
-     "title": "\"50조 풀릴까?\"…주가 떨어진 삼성전자·SK하이닉스의 승부수",
-     "link": "https://www.fnnews.com/news/202610270733520579"
     }
    ]
   },
   "삼성전자(005930)": {
    "articles": [
+    {
+     "date": "2026-11-22",
+     "source": "파이낸셜뉴스",
+     "title": "\"삼성전자 SK하이닉스 내년에도 웃는다\"…무디스가 전망한 이유",
+     "link": "https://www.fnnews.com/news/202611220802359845"
+    },
     {
      "date": "2026-11-21",
      "source": "한국경제·증권",
@@ -1439,12 +1445,6 @@
      "source": "news.mtn.co.kr",
      "title": "- 삼성전자(005930): 3Q 영업이익 107.4조원(사상최대)·HBM4 매출 전분기比 3배↑, \"내년 HBM 완판·2나노 수주 확대\" 밝혔으나, 오늘 美 A",
      "link": "https://news.mtn.co.kr/article/2026102911463093858"
-    },
-    {
-     "date": "2026-10-29",
-     "source": "한국경제·증권",
-     "title": "[마켓라이브] 삼성전자 컨콜 앞두고 반도체 강세…LG엔솔 -7%",
-     "link": "https://www.hankyung.com/article/202610292337i"
     }
    ]
   },
@@ -6115,6 +6115,12 @@
      "link": "https://www.hankyung.com/article/202611211609i"
     },
     {
+     "date": "2026-11-22",
+     "source": "연합인포맥스",
+     "title": "엔비디아 흔들릴 때 판을 뒤집을 기회 10년 전부터 준비한 진짜 대항마가 온다",
+     "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4445868"
+    },
+    {
      "date": "2026-11-21",
      "source": "한국경제·증권",
      "title": "엔비디아 때문에 이럴 줄이야…中 돌변에 삼전닉스 '날벼락'",
@@ -6815,12 +6821,6 @@
      "source": "한국경제·증권",
      "title": "뉴욕·상하이 증시, 엔비디아 실적 발표…AI주식 향방 좌우",
      "link": "https://www.hankyung.com/article/2026111574511"
-    },
-    {
-     "date": "2026-11-16",
-     "source": "파이낸셜·증권",
-     "title": "엔비디아 실적발표에 쏠리는 눈...앤스로픽 상장까지[주간증시전망]",
-     "link": "https://www.fnnews.com/news/202611150129458878"
     }
    ]
   },
@@ -18165,6 +18165,12 @@
   "LG전자(066570)": {
    "articles": [
     {
+     "date": "2026-11-22",
+     "source": "연합인포맥스",
+     "title": "류재철 LG전자 사장 &quot;한계 뛰어넘는 제조 혁신 지속&quot;",
+     "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4445879"
+    },
+    {
      "date": "2026-11-20",
      "source": "한국경제·경제",
      "title": "LG전자·화학·엔솔 등 주요 CEO 전부 유임",
@@ -18877,12 +18883,6 @@
      "source": "연합인포맥스",
      "title": "LG전자 인스타뷰 냉장고, 2016년 출시 이후 누적 판매 530만대 돌파",
      "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4426871"
-    },
-    {
-     "date": "2026-07-23",
-     "source": "한국경제·경제",
-     "title": "LG전자, 베트남 하이퐁서 '유리 파우더' 설비 첫 가동",
-     "link": "https://www.hankyung.com/article/2026072326711"
     }
    ]
   },
@@ -24041,6 +24041,12 @@
   "테슬라(TSLA)": {
    "articles": [
     {
+     "date": "2026-11-22",
+     "source": "연합뉴스·경제",
+     "title": "테슬라 돌풍에 對중국 자동차 무역적자 6조원 역대 최대",
+     "link": "https://www.yna.co.kr/view/AKR20261121043900003"
+    },
+    {
      "date": "2026-11-21",
      "source": "한국경제·경제",
      "title": "기술 설명 '고작 2쪽'…테슬라, 중국산 FSD 허용 요청 제동",
@@ -24753,12 +24759,6 @@
      "source": "아시아경제",
      "title": "아이씨에이치, 테슬라 '옵티머스' 로봇용 소재 퀄 테스트 완료…양산 공급 확정",
      "link": "https://view.asiae.co.kr/article/2026072414312151532"
-    },
-    {
-     "date": "2026-07-24",
-     "source": "뉴시스·경제",
-     "title": "머스크 신화 흔들리나…테슬라·스페이스X 동반 급락",
-     "link": "https://www.newsis.com/view/NISX20260724_0003721701"
     }
    ]
   },
@@ -26478,6 +26478,12 @@
   },
   "KB금융(105560)": {
    "articles": [
+    {
+     "date": "2026-11-22",
+     "source": "연합인포맥스",
+     "title": "KB금융, 인니 지주사 설립 속도…은행·증권·카드 모두 주주된다",
+     "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4445872"
+    },
     {
      "date": "2026-11-21",
      "source": "한국경제·경제",
@@ -30990,6 +30996,12 @@
   },
   "LG유플러스(032640)": {
    "articles": [
+    {
+     "date": "2026-11-22",
+     "source": "연합인포맥스",
+     "title": "LG유플러스, 'AI 역량 강화' 초점 조직개편 단행",
+     "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4445877"
+    },
     {
      "date": "2026-11-21",
      "source": "연합인포맥스",
@@ -39628,6 +39640,12 @@
   },
   "GS리테일(007070)": {
    "articles": [
+    {
+     "date": "2026-11-22",
+     "source": "연합뉴스·경제",
+     "title": "GS리테일 \"베트남서 중소 협력사 26억원 규모 수출상담 성과\"",
+     "link": "https://www.yna.co.kr/view/AKR20261122012000030"
+    },
     {
      "date": "2026-11-05",
      "source": "한국경제·경제",
@@ -77207,7 +77225,17 @@
      "link": "https://www.yna.co.kr/view/AKR20261120129400008"
     }
    ]
+  },
+  "코오롱(002020)": {
+   "articles": [
+    {
+     "date": "2026-11-22",
+     "source": "한국경제·경제",
+     "title": "㈜코오롱 대표에 현대차 출신 한용빈",
+     "link": "https://www.hankyung.com/article/2026112006661"
+    }
+   ]
   }
  },
- "updatedAt": "2026-11-22T02:19:25+09:00"
+ "updatedAt": "2026-11-22T11:00:13+09:00"
 }
