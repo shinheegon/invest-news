@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-23T03:17:06+09:00",
+ "updatedAt": "2026-11-24T07:26:34+09:00",
  "cases": [
   {
    "name": "비나텍(126340)",
@@ -71557,6 +71557,40 @@
     "구체촉발재"
    ],
    "convStampedAt": "2026-11-21"
+  },
+  {
+   "name": "이엠앤아이(481070)",
+   "type": "discovery",
+   "market": "韓",
+   "flagDate": "2026-11-24",
+   "signals": [
+    "경기도제조로봇이니셔티브주관기관신규선정",
+    "오늘신규공시"
+   ],
+   "theme": "로봇/휴머노이드",
+   "status": "pending",
+   "checks": [],
+   "convScore": 7,
+   "convTier": "high",
+   "convSignals": [
+    "반복포착",
+    "승세테마",
+    "구체촉발재"
+   ],
+   "convStampedAt": "2026-11-24"
+  },
+  {
+   "name": "위너스일렉(479960)",
+   "type": "warning",
+   "market": "韓",
+   "flagDate": "2026-11-24",
+   "signals": [
+    "D+5반복보도(누적6회)",
+    "선점구간소멸판정"
+   ],
+   "theme": "로봇/휴머노이드",
+   "status": "pending",
+   "checks": []
   }
  ],
  "stats": {
@@ -71566,8 +71600,8 @@
   "miss": 164,
   "hitRate": 24.3,
   "avgD3ChangePct": 0.32,
-  "pending": 369,
-  "total": 756,
+  "pending": 371,
+  "total": 758,
   "byType": {
    "leading": {
     "verified": 163,

@@ -1,24 +1,28 @@
 {
- "updatedAt": "2026-11-23T02:45:28+09:00",
+ "updatedAt": "2026-11-24T07:00:34+09:00",
  "note": "원본 헤드라인의 반복 언급을 탐지한 조사 후보이며 투자권유가 아니다. 동일 기사 재실행은 한 번만 집계하고, 순수 악재 반복과 모호한 회사명은 제외한다.",
  "window": 30,
- "corpusToday": 474,
- "trackedCompanies": 664,
+ "corpusToday": 584,
+ "trackedCompanies": 657,
  "companies": [
   {
    "code": "030610",
    "name": "교보증권",
    "market": "KOSPI",
    "cap": 8661,
-   "total": 16,
-   "recent": 3,
+   "total": 15,
+   "recent": 2,
    "activeDays": 11,
-   "firstSeen": "2026-10-25",
-   "lastSeen": "2026-11-22",
-   "score": 28.8,
+   "firstSeen": "2026-10-26",
+   "lastSeen": "2026-11-24",
+   "score": 24.4,
    "riskMentions": 0,
    "catalystMentions": 0,
    "samples": [
+    {
+     "date": "2026-11-24",
+     "title": "교보증권, 수제 간식 만들어 지역아동복지센터 전달"
+    },
     {
      "date": "2026-11-22",
      "title": "[게시판] 교보증권, 창립 77주년 기념식·나눔 활동 진행"
@@ -26,10 +30,6 @@
     {
      "date": "2026-11-21",
      "title": "[게시판] 교보증권, 창립 77주년 기념식·나눔 활동 진행"
-    },
-    {
-     "date": "2026-11-21",
-     "title": "'국내 1호 증권사' 교보증권, 창립 77주년…나눔활동도 이어가"
     }
    ]
   },
@@ -39,11 +39,11 @@
    "market": "KOSDAQ",
    "cap": 184,
    "total": 4,
-   "recent": 3,
+   "recent": 2,
    "activeDays": 4,
    "firstSeen": "2026-10-29",
    "lastSeen": "2026-11-23",
-   "score": 20.6,
+   "score": 15.8,
    "riskMentions": 0,
    "catalystMentions": 0,
    "samples": [
@@ -67,11 +67,11 @@
    "market": "KOSDAQ",
    "cap": 1798,
    "total": 3,
-   "recent": 3,
+   "recent": 2,
    "activeDays": 3,
    "firstSeen": "2026-11-21",
    "lastSeen": "2026-11-23",
-   "score": 19.1,
+   "score": 14.2,
    "riskMentions": 0,
    "catalystMentions": 0,
    "samples": [
@@ -95,11 +95,11 @@
    "market": "KOSDAQ",
    "cap": 1118,
    "total": 3,
-   "recent": 3,
+   "recent": 2,
    "activeDays": 3,
    "firstSeen": "2026-11-21",
    "lastSeen": "2026-11-23",
-   "score": 19.1,
+   "score": 14.2,
    "riskMentions": 0,
    "catalystMentions": 0,
    "samples": [
@@ -123,11 +123,11 @@
    "market": "KOSDAQ",
    "cap": 3289,
    "total": 3,
-   "recent": 3,
+   "recent": 2,
    "activeDays": 3,
    "firstSeen": "2026-11-21",
    "lastSeen": "2026-11-23",
-   "score": 19.1,
+   "score": 14.2,
    "riskMentions": 0,
    "catalystMentions": 0,
    "samples": [
@@ -146,58 +146,58 @@
    ]
   },
   {
-   "code": "005180",
-   "name": "빙그레",
+   "code": "004700",
+   "name": "조광피혁",
    "market": "KOSPI",
-   "cap": 6879,
-   "total": 8,
-   "recent": 2,
-   "activeDays": 6,
-   "firstSeen": "2026-11-16",
-   "lastSeen": "2026-11-22",
-   "score": 17.8,
-   "riskMentions": 0,
-   "catalystMentions": 2,
-   "samples": [
-    {
-     "date": "2026-11-22",
-     "title": "빙그레 '클린라벨' 출시…고급 아이스크림 공략"
-    },
-    {
-     "date": "2026-11-21",
-     "title": "빙그레 '클린라벨' 출시…고급 아이스크림 공략"
-    },
-    {
-     "date": "2026-11-20",
-     "title": "빙그레, 프리미엄 아이스크림 브랜드 '클린라벨' 출시"
-    }
-   ]
-  },
-  {
-   "code": "002020",
-   "name": "코오롱",
-   "market": "KOSPI",
-   "cap": 2375,
-   "total": 3,
+   "cap": 4495,
+   "total": 5,
    "recent": 2,
    "activeDays": 3,
-   "firstSeen": "2026-11-17",
-   "lastSeen": "2026-11-22",
-   "score": 14.2,
+   "firstSeen": "2026-10-29",
+   "lastSeen": "2026-11-24",
+   "score": 13.3,
    "riskMentions": 0,
    "catalystMentions": 0,
    "samples": [
     {
-     "date": "2026-11-22",
-     "title": "㈜코오롱 대표에 현대차 출신 한용빈"
+     "date": "2026-11-24",
+     "title": "\"박영옥, 조광피혁 주주제안은 주주가치 제고 목적 아니다\""
     },
     {
-     "date": "2026-11-21",
-     "title": "㈜코오롱 대표에 현대차 출신 한용빈"
+     "date": "2026-11-24",
+     "title": "\"12만원에 사 달라\" 주식농부 2심도 패소…조광피혁에 배상"
     },
     {
-     "date": "2026-11-17",
-     "title": "코오롱, 3Q 영업익 전년비 39% 급감…신차 판매 둔화"
+     "date": "2026-10-30",
+     "title": "조광피혁 \"일감몰아주기 의혹 사실 아냐\""
+    }
+   ]
+  },
+  {
+   "code": "032580",
+   "name": "피델릭스",
+   "market": "KOSDAQ",
+   "cap": 2256,
+   "total": 6,
+   "recent": 2,
+   "activeDays": 3,
+   "firstSeen": "2026-10-29",
+   "lastSeen": "2026-11-24",
+   "score": 12.8,
+   "riskMentions": 0,
+   "catalystMentions": 0,
+   "samples": [
+    {
+     "date": "2026-11-24",
+     "title": "금융위, '매출 허위 계상' 피델릭스·관계자에 과징금 3.7억"
+    },
+    {
+     "date": "2026-11-24",
+     "title": "금융위, '매출 등 허위계상' 피델릭스에 과징금 2억8690만원"
+    },
+    {
+     "date": "2026-10-30",
+     "title": "증선위, '허위 매출' 피델릭스에 감사인 지정 3년 등 조치"
     }
    ]
   },
