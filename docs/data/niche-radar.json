@@ -1,21 +1,21 @@
 {
- "updatedAt": "2026-11-24T07:00:34+09:00",
+ "updatedAt": "2026-11-24T14:50:57+09:00",
  "note": "원본 헤드라인의 반복 언급을 탐지한 조사 후보이며 투자권유가 아니다. 동일 기사 재실행은 한 번만 집계하고, 순수 악재 반복과 모호한 회사명은 제외한다.",
  "window": 30,
- "corpusToday": 584,
- "trackedCompanies": 657,
+ "corpusToday": 954,
+ "trackedCompanies": 664,
  "companies": [
   {
    "code": "030610",
    "name": "교보증권",
    "market": "KOSPI",
    "cap": 8661,
-   "total": 15,
-   "recent": 2,
+   "total": 16,
+   "recent": 3,
    "activeDays": 11,
    "firstSeen": "2026-10-26",
    "lastSeen": "2026-11-24",
-   "score": 24.4,
+   "score": 28.8,
    "riskMentions": 0,
    "catalystMentions": 0,
    "samples": [
@@ -24,12 +24,40 @@
      "title": "교보증권, 수제 간식 만들어 지역아동복지센터 전달"
     },
     {
-     "date": "2026-11-22",
-     "title": "[게시판] 교보증권, 창립 77주년 기념식·나눔 활동 진행"
+     "date": "2026-11-24",
+     "title": "[부고] 김춘오(교보증권 재경부장)씨 모친상"
     },
     {
-     "date": "2026-11-21",
+     "date": "2026-11-22",
      "title": "[게시판] 교보증권, 창립 77주년 기념식·나눔 활동 진행"
+    }
+   ]
+  },
+  {
+   "code": "267980",
+   "name": "매일유업",
+   "market": "KOSDAQ",
+   "cap": 2652,
+   "total": 5,
+   "recent": 3,
+   "activeDays": 3,
+   "firstSeen": "2026-11-17",
+   "lastSeen": "2026-11-24",
+   "score": 18.1,
+   "riskMentions": 0,
+   "catalystMentions": 0,
+   "samples": [
+    {
+     "date": "2026-11-24",
+     "title": "매일유업, 61억원 규모 자기주식 소각 결정"
+    },
+    {
+     "date": "2026-11-23",
+     "title": "매일유업·남양유업, 대리점 분야 공정거래협약 최우수 등급"
+    },
+    {
+     "date": "2026-11-23",
+     "title": "매일유업, 6년 연속 대리점 공정거래협약 최우수기업"
     }
    ]
   },
@@ -198,34 +226,6 @@
     {
      "date": "2026-10-30",
      "title": "증선위, '허위 매출' 피델릭스에 감사인 지정 3년 등 조치"
-    }
-   ]
-  },
-  {
-   "code": "267980",
-   "name": "매일유업",
-   "market": "KOSDAQ",
-   "cap": 2652,
-   "total": 4,
-   "recent": 2,
-   "activeDays": 2,
-   "firstSeen": "2026-11-17",
-   "lastSeen": "2026-11-23",
-   "score": 11.8,
-   "riskMentions": 0,
-   "catalystMentions": 0,
-   "samples": [
-    {
-     "date": "2026-11-23",
-     "title": "매일유업·남양유업, 대리점 분야 공정거래협약 최우수 등급"
-    },
-    {
-     "date": "2026-11-23",
-     "title": "매일유업, 6년 연속 대리점 공정거래협약 최우수기업"
-    },
-    {
-     "date": "2026-11-17",
-     "title": "매일유업, 3분기 영업이익 222억원…작년 동기 대비 11.6% 증가"
     }
    ]
   }
