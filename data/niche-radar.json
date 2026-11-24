@@ -1,24 +1,28 @@
 {
- "updatedAt": "2026-11-24T14:50:57+09:00",
+ "updatedAt": "2026-11-25T05:36:20+09:00",
  "note": "원본 헤드라인의 반복 언급을 탐지한 조사 후보이며 투자권유가 아니다. 동일 기사 재실행은 한 번만 집계하고, 순수 악재 반복과 모호한 회사명은 제외한다.",
  "window": 30,
- "corpusToday": 954,
- "trackedCompanies": 664,
+ "corpusToday": 579,
+ "trackedCompanies": 657,
  "companies": [
   {
    "code": "030610",
    "name": "교보증권",
    "market": "KOSPI",
    "cap": 8661,
-   "total": 16,
+   "total": 15,
    "recent": 3,
    "activeDays": 11,
-   "firstSeen": "2026-10-26",
-   "lastSeen": "2026-11-24",
-   "score": 28.8,
+   "firstSeen": "2026-10-29",
+   "lastSeen": "2026-11-25",
+   "score": 29.3,
    "riskMentions": 0,
    "catalystMentions": 0,
    "samples": [
+    {
+     "date": "2026-11-25",
+     "title": "[부고] 김춘오(교보증권 재경부장)씨 모친상"
+    },
     {
      "date": "2026-11-24",
      "title": "교보증권, 수제 간식 만들어 지역아동복지센터 전달"
@@ -26,10 +30,146 @@
     {
      "date": "2026-11-24",
      "title": "[부고] 김춘오(교보증권 재경부장)씨 모친상"
+    }
+   ]
+  },
+  {
+   "code": "038500",
+   "name": "삼표시멘트",
+   "market": "KOSDAQ",
+   "cap": 5979,
+   "total": 9,
+   "recent": 3,
+   "activeDays": 7,
+   "firstSeen": "2026-10-31",
+   "lastSeen": "2026-11-25",
+   "score": 24.2,
+   "riskMentions": 0,
+   "catalystMentions": 0,
+   "samples": [
+    {
+     "date": "2026-11-25",
+     "title": "삼표시멘트, 삼척서 김장 나눔 봉사…배추 1200포기 이웃에 전달"
     },
     {
-     "date": "2026-11-22",
-     "title": "[게시판] 교보증권, 창립 77주년 기념식·나눔 활동 진행"
+     "date": "2026-11-25",
+     "title": "삼표시멘트, 삼척 취약계층에 김장김치 1200포기 전달"
+    },
+    {
+     "date": "2026-11-24",
+     "title": "삼표시멘트, 삼척 취약계층에 김장김치 1200포기 전달"
+    }
+   ]
+  },
+  {
+   "code": "0153R0",
+   "name": "바로팜",
+   "market": "KOSDAQ",
+   "cap": 783,
+   "total": 12,
+   "recent": 2,
+   "activeDays": 10,
+   "firstSeen": "2026-10-28",
+   "lastSeen": "2026-11-25",
+   "score": 23.9,
+   "riskMentions": 0,
+   "catalystMentions": 2,
+   "samples": [
+    {
+     "date": "2026-11-25",
+     "title": "바로팜, 정우신약 인수 추진…약국 플랫폼 넘어 의약품 제조까지"
+    },
+    {
+     "date": "2026-11-24",
+     "title": "바로팜, 정우신약 인수 추진…약국 플랫폼 넘어 의약품 제조까지"
+    },
+    {
+     "date": "2026-11-12",
+     "title": "바로팜, 코스닥 상장 첫날 장 초반 26%대 급락"
+    }
+   ]
+  },
+  {
+   "code": "331380",
+   "name": "포커스에이아이",
+   "market": "KOSDAQ",
+   "cap": 738,
+   "total": 11,
+   "recent": 2,
+   "activeDays": 9,
+   "firstSeen": "2026-10-28",
+   "lastSeen": "2026-11-25",
+   "score": 22.4,
+   "riskMentions": 0,
+   "catalystMentions": 0,
+   "samples": [
+    {
+     "date": "2026-11-25",
+     "title": "\"스마트안경· AI 커닝 꼼짝마\" 포커스에이아이, '시험 보안사업' 본격화"
+    },
+    {
+     "date": "2026-11-24",
+     "title": "\"스마트안경· AI 커닝 꼼짝마\" 포커스에이아이, '시험 보안사업' 본격화"
+    },
+    {
+     "date": "2026-11-11",
+     "title": "포커스에이아이, 해병대 감시장비에 '모방학습 AI' 접목…국방시장 공략"
+    }
+   ]
+  },
+  {
+   "code": "0241D0",
+   "name": "KODEX 미국AI에이전트액티브",
+   "market": "KOSPI",
+   "cap": 349,
+   "total": 4,
+   "recent": 4,
+   "activeDays": 2,
+   "firstSeen": "2026-11-24",
+   "lastSeen": "2026-11-25",
+   "score": 21.5,
+   "riskMentions": 0,
+   "catalystMentions": 0,
+   "samples": [
+    {
+     "date": "2026-11-25",
+     "title": "KODEX 미국AI에이전트액티브, 美앤트로픽 19.4% 비중 편입"
+    },
+    {
+     "date": "2026-11-25",
+     "title": "\"상장 즉시 담았다\"…KODEX 미국AI에이전트액티브, 앤트로픽 19.4% 편입"
+    },
+    {
+     "date": "2026-11-24",
+     "title": "삼성운용, 'KODEX 미국AI에이전트액티브' ETF에 앤트로픽 편입"
+    }
+   ]
+  },
+  {
+   "code": "030210",
+   "name": "다올투자증권",
+   "market": "KOSPI",
+   "cap": 2013,
+   "total": 5,
+   "recent": 4,
+   "activeDays": 2,
+   "firstSeen": "2026-11-17",
+   "lastSeen": "2026-11-25",
+   "score": 21.0,
+   "riskMentions": 0,
+   "catalystMentions": 4,
+   "samples": [
+    {
+     "date": "2026-11-25",
+     "title": "이병철 회장, 다올투자증권 지분 매각 추진"
+    },
+    {
+     "date": "2026-11-25",
+     "title": "다올투자증권 \"계열사 다올저축은행 주식 222억원에 추가취득\""
+    },
+    {
+     "date": "2026-11-25",
+     "title": "[단독] 다올투자증권 M&A 매물로…이병철 회장 지분 매각 추진"
     }
    ]
   },
@@ -62,114 +202,170 @@
    ]
   },
   {
-   "code": "065060",
-   "name": "지엔코",
+   "code": "129920",
+   "name": "대성하이텍",
    "market": "KOSDAQ",
-   "cap": 184,
+   "cap": 748,
+   "total": 5,
+   "recent": 2,
+   "activeDays": 5,
+   "firstSeen": "2026-11-11",
+   "lastSeen": "2026-11-25",
+   "score": 17.3,
+   "riskMentions": 0,
+   "catalystMentions": 2,
+   "samples": [
+    {
+     "date": "2026-11-25",
+     "title": "스마트폰 접던 기술로 '로봇손' 만든다…대성하이텍, 新성장축 확보"
+    },
+    {
+     "date": "2026-11-24",
+     "title": "스마트폰 접던 기술로 '로봇손' 만든다…대성하이텍, 新성장축 확보"
+    },
+    {
+     "date": "2026-11-13",
+     "title": "대성하이텍, 이스라엘 블루버드와 군용 드론 국산화 추진"
+    }
+   ]
+  },
+  {
+   "code": "373110",
+   "name": "엑셀세라퓨틱스",
+   "market": "KOSDAQ",
+   "cap": 120,
+   "total": 3,
+   "recent": 3,
+   "activeDays": 2,
+   "firstSeen": "2026-11-24",
+   "lastSeen": "2026-11-25",
+   "score": 17.1,
+   "riskMentions": 0,
+   "catalystMentions": 1,
+   "samples": [
+    {
+     "date": "2026-11-25",
+     "title": "엑셀세라퓨틱스, 40억원 유상증자…㈜나모홀딩스 등에 3자 배정"
+    },
+    {
+     "date": "2026-11-25",
+     "title": "엑셀세라퓨틱스 40억 유상증자…대표 회사·서연씨엠씨 13억씩 인수"
+    },
+    {
+     "date": "2026-11-24",
+     "title": "엑셀세라퓨틱스, 40억원 유상증자…㈜나모홀딩스 등에 3자 배정"
+    }
+   ]
+  },
+  {
+   "code": "039980",
+   "name": "폴라리스AI",
+   "market": "KOSDAQ",
+   "cap": 618,
    "total": 4,
    "recent": 2,
    "activeDays": 4,
-   "firstSeen": "2026-10-29",
-   "lastSeen": "2026-11-23",
+   "firstSeen": "2026-11-06",
+   "lastSeen": "2026-11-25",
    "score": 15.8,
    "riskMentions": 0,
-   "catalystMentions": 0,
+   "catalystMentions": 2,
    "samples": [
     {
-     "date": "2026-11-23",
-     "title": "지엔코, 30억원 제3자배정 유상증자"
+     "date": "2026-11-25",
+     "title": "폴라리스AI, 공장 CCTV로 안전관리 SaaS 확대"
     },
     {
-     "date": "2026-11-22",
-     "title": "지엔코, 30억원 제3자배정 유상증자"
+     "date": "2026-11-24",
+     "title": "폴라리스AI, 공장 CCTV로 안전관리 SaaS 확대"
     },
     {
-     "date": "2026-11-21",
-     "title": "지엔코, 30억원 제3자배정 유상증자"
+     "date": "2026-11-07",
+     "title": "표정 짓고 대화 기억하는 휴머노이드…폴라리스AI 'U1', 로보월드서 눈길"
     }
    ]
   },
   {
-   "code": "376270",
-   "name": "HEM파마",
-   "market": "KOSDAQ",
-   "cap": 1798,
-   "total": 3,
+   "code": "069620",
+   "name": "대웅제약",
+   "market": "KOSPI",
+   "cap": 11563,
+   "total": 5,
    "recent": 2,
-   "activeDays": 3,
-   "firstSeen": "2026-11-21",
-   "lastSeen": "2026-11-23",
-   "score": 14.2,
+   "activeDays": 4,
+   "firstSeen": "2026-11-04",
+   "lastSeen": "2026-11-25",
+   "score": 15.3,
    "riskMentions": 0,
    "catalystMentions": 0,
    "samples": [
     {
-     "date": "2026-11-23",
-     "title": "HEM파마 \"나이스헬스디바이스코퍼레이션 주식 22억에 추가취득\""
+     "date": "2026-11-25",
+     "title": "중기부, 대웅제약·경희대 등과 맞손…바이오中企 해외진출 지원"
     },
     {
-     "date": "2026-11-22",
-     "title": "HEM파마 \"나이스헬스디바이스코퍼레이션 주식 22억에 추가취득\""
+     "date": "2026-11-24",
+     "title": "중기부, 대웅제약·경희대 등과 맞손…바이오中企 해외진출 지원"
     },
     {
-     "date": "2026-11-21",
-     "title": "HEM파마 \"나이스헬스디바이스코퍼레이션 주식 22억에 추가취득\""
+     "date": "2026-11-05",
+     "title": "\"대웅제약, 펙수클루 직판 전환 공백에 '동면'…목표가↓\"-삼성"
     }
    ]
   },
   {
-   "code": "408920",
-   "name": "메쎄이상",
+   "code": "468530",
+   "name": "프로티나",
    "market": "KOSDAQ",
-   "cap": 1118,
+   "cap": 6641,
    "total": 3,
    "recent": 2,
    "activeDays": 3,
-   "firstSeen": "2026-11-21",
-   "lastSeen": "2026-11-23",
+   "firstSeen": "2026-11-05",
+   "lastSeen": "2026-11-25",
    "score": 14.2,
    "riskMentions": 0,
-   "catalystMentions": 0,
+   "catalystMentions": 2,
    "samples": [
     {
-     "date": "2026-11-23",
-     "title": "메쎄이상 \"한산마케팅연구원 주식 74억원에 취득…지분율 100%\""
+     "date": "2026-11-25",
+     "title": "프로티나, 해외 4개사와 AI 항체 검증 협력 논의…연내 후속 미팅 추진"
     },
     {
-     "date": "2026-11-22",
-     "title": "메쎄이상 \"한산마케팅연구원 주식 74억원에 취득…지분율 100%\""
+     "date": "2026-11-24",
+     "title": "프로티나, 해외 4개사와 AI 항체 검증 협력 논의…연내 후속 미팅 추진"
     },
     {
-     "date": "2026-11-21",
-     "title": "메쎄이상 \"한산마케팅연구원 주식 74억원에 취득…지분율 100%\""
+     "date": "2026-11-05",
+     "title": "프로티나, 73억원 제3자배정 유상증자"
     }
    ]
   },
   {
-   "code": "372320",
-   "name": "큐로셀",
+   "code": "261780",
+   "name": "아리바이오랩",
    "market": "KOSDAQ",
-   "cap": 3289,
-   "total": 3,
+   "cap": 1636,
+   "total": 4,
    "recent": 2,
    "activeDays": 3,
-   "firstSeen": "2026-11-21",
-   "lastSeen": "2026-11-23",
-   "score": 14.2,
+   "firstSeen": "2026-11-10",
+   "lastSeen": "2026-11-25",
+   "score": 13.8,
    "riskMentions": 0,
    "catalystMentions": 0,
    "samples": [
     {
-     "date": "2026-11-23",
-     "title": "큐로셀 \"CAR-T 치료제 림카토에 내달부터 건강보험 적용\""
+     "date": "2026-11-25",
+     "title": "아리바이오, 30일 유증 납입 땐 아리바이오랩 최대주주"
     },
     {
-     "date": "2026-11-22",
-     "title": "큐로셀 \"CAR-T 치료제 림카토에 내달부터 건강보험 적용\""
+     "date": "2026-11-24",
+     "title": "아리바이오, 30일 유증 납입 땐 아리바이오랩 최대주주"
     },
     {
-     "date": "2026-11-21",
-     "title": "큐로셀 \"CAR-T 치료제 림카토에 내달부터 건강보험 적용\""
+     "date": "2026-11-10",
+     "title": "아리바이오랩, 최대주주 변경 초읽기...알츠하이머병 예방백신 개발 계획 공개"
     }
    ]
   },
@@ -226,6 +422,102 @@
     {
      "date": "2026-10-30",
      "title": "증선위, '허위 매출' 피델릭스에 감사인 지정 3년 등 조치"
+    }
+   ]
+  },
+  {
+   "code": "464080",
+   "name": "에스오에스랩",
+   "market": "KOSDAQ",
+   "cap": 1436,
+   "total": 2,
+   "recent": 2,
+   "activeDays": 2,
+   "firstSeen": "2026-11-24",
+   "lastSeen": "2026-11-25",
+   "score": 12.7,
+   "riskMentions": 0,
+   "catalystMentions": 0,
+   "samples": [
+    {
+     "date": "2026-11-25",
+     "title": "\"라이다 4개에서 2개로…\" 에스오에스랩에 열린 '북미 로보택시' 기회"
+    },
+    {
+     "date": "2026-11-24",
+     "title": "\"라이다 4개에서 2개로…\" 에스오에스랩에 열린 '북미 로보택시' 기회"
+    }
+   ]
+  },
+  {
+   "code": "900290",
+   "name": "GRT",
+   "market": "KOSDAQ",
+   "cap": 2662,
+   "total": 2,
+   "recent": 2,
+   "activeDays": 2,
+   "firstSeen": "2026-11-24",
+   "lastSeen": "2026-11-25",
+   "score": 12.7,
+   "riskMentions": 0,
+   "catalystMentions": 2,
+   "samples": [
+    {
+     "date": "2026-11-25",
+     "title": "GRT, 진관신소재와 최대 605억원 공급계약…인수 시너지 가시화"
+    },
+    {
+     "date": "2026-11-24",
+     "title": "GRT, 진관신소재와 최대 605억원 공급계약…인수 시너지 가시화"
+    }
+   ]
+  },
+  {
+   "code": "007460",
+   "name": "에이프로젠",
+   "market": "KOSPI",
+   "cap": 446,
+   "total": 2,
+   "recent": 2,
+   "activeDays": 2,
+   "firstSeen": "2026-11-24",
+   "lastSeen": "2026-11-25",
+   "score": 12.7,
+   "riskMentions": 0,
+   "catalystMentions": 2,
+   "samples": [
+    {
+     "date": "2026-11-25",
+     "title": "에이프로젠, 빅파마 기술이전 승부수…'관절염 신약' 임상 확대"
+    },
+    {
+     "date": "2026-11-24",
+     "title": "에이프로젠, 빅파마 기술이전 승부수…'관절염 신약' 임상 확대"
+    }
+   ]
+  },
+  {
+   "code": "090710",
+   "name": "휴림로봇",
+   "market": "KOSDAQ",
+   "cap": 5667,
+   "total": 2,
+   "recent": 2,
+   "activeDays": 2,
+   "firstSeen": "2026-11-24",
+   "lastSeen": "2026-11-25",
+   "score": 12.7,
+   "riskMentions": 0,
+   "catalystMentions": 1,
+   "samples": [
+    {
+     "date": "2026-11-25",
+     "title": "로봇으로 번진 엔비디아 훈풍...현대오토에버·휴림로봇 상한가"
+    },
+    {
+     "date": "2026-11-24",
+     "title": "휴림로봇, '글로벌 부품 제조사 자동화 공급망' 진입…한화로보틱스와 본계약"
     }
    ]
   }

@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-24T15:10:32+09:00",
+ "updatedAt": "2026-11-25T06:08:21+09:00",
  "cases": [
   {
    "name": "비나텍(126340)",
@@ -71591,6 +71591,201 @@
    "theme": "로봇/휴머노이드",
    "status": "pending",
    "checks": []
+  },
+  {
+   "name": "아이크래프트(052460)",
+   "type": "leading",
+   "market": "韓",
+   "flagDate": "2026-11-25",
+   "signals": [
+    "대형고객납품(네이버클라우드2091억)",
+    "7일째저빈도반복",
+    "재포착"
+   ],
+   "theme": "AI전력/데이터센터",
+   "status": "pending",
+   "checks": [],
+   "convScore": 2,
+   "convTier": "low",
+   "convSignals": [
+    "반복포착",
+    "구체촉발재",
+    "⚠️열세테마"
+   ],
+   "convStampedAt": "2026-11-25"
+  },
+  {
+   "name": "GRT(900290)",
+   "type": "leading",
+   "market": "韓",
+   "flagDate": "2026-11-25",
+   "signals": [
+    "지분인수+공급계약동시공시(605억)",
+    "오늘신규포착"
+   ],
+   "theme": "전자부품/MLCC 공급망",
+   "status": "pending",
+   "checks": [],
+   "convScore": 4,
+   "convTier": "mid",
+   "convSignals": [
+    "구체촉발재",
+    "틈새레이더"
+   ],
+   "convStampedAt": "2026-11-25"
+  },
+  {
+   "name": "세미파이브(373170)",
+   "type": "discovery",
+   "market": "韓",
+   "flagDate": "2026-11-25",
+   "signals": [
+    "3Q역대최대수주(1784억)",
+    "HBM없는3D IC기술공개",
+    "테마열세(hitRate14.9%)"
+   ],
+   "theme": "AI반도체설계(팹리스/IP)",
+   "status": "pending",
+   "checks": [],
+   "convScore": 7,
+   "convTier": "high",
+   "convSignals": [
+    "반복포착",
+    "승세테마",
+    "구체촉발재"
+   ],
+   "convStampedAt": "2026-11-25"
+  },
+  {
+   "name": "이엠앤아이(481070)",
+   "type": "leading",
+   "market": "韓",
+   "flagDate": "2026-11-25",
+   "signals": [
+    "경기도제조로봇이니셔티브재선정",
+    "누적16회반복(부상단계)"
+   ],
+   "theme": "로봇/휴머노이드",
+   "status": "pending",
+   "checks": [],
+   "convScore": 7,
+   "convTier": "high",
+   "convSignals": [
+    "반복포착",
+    "승세테마",
+    "구체촉발재"
+   ],
+   "convStampedAt": "2026-11-25"
+  },
+  {
+   "name": "삼성전자(005930)",
+   "type": "warning",
+   "market": "韓",
+   "flagDate": "2026-11-25",
+   "signals": [
+    "11/24美반도체훈풍전이급등완료",
+    "D+1재급락여진"
+   ],
+   "theme": "반도체(메모리)",
+   "status": "pending",
+   "checks": []
+  },
+  {
+   "name": "SK하이닉스(000660)",
+   "type": "warning",
+   "market": "韓",
+   "flagDate": "2026-11-25",
+   "signals": [
+    "11/24美반도체훈풍전이급등완료",
+    "D+1재급락여진"
+   ],
+   "theme": "반도체(메모리)",
+   "status": "pending",
+   "checks": []
+  },
+  {
+   "name": "한미반도체(042700)",
+   "type": "warning",
+   "market": "韓",
+   "flagDate": "2026-11-25",
+   "signals": [
+    "11/24+9.75%이미반영"
+   ],
+   "theme": "반도체(HBM장비)",
+   "status": "pending",
+   "checks": []
+  },
+  {
+   "name": "현대오토에버(307950)",
+   "type": "warning",
+   "market": "韓",
+   "flagDate": "2026-11-25",
+   "signals": [
+    "로봇테마동반랠리상한가"
+   ],
+   "theme": "로봇/휴머노이드",
+   "status": "pending",
+   "checks": []
+  },
+  {
+   "name": "휴림로봇(090710)",
+   "type": "warning",
+   "market": "韓",
+   "flagDate": "2026-11-25",
+   "signals": [
+    "엔비디아훈풍+한화로보틱스계약상한가"
+   ],
+   "theme": "로봇/휴머노이드",
+   "status": "pending",
+   "checks": []
+  },
+  {
+   "name": "KH바텍(060720)",
+   "type": "warning",
+   "market": "韓",
+   "flagDate": "2026-11-25",
+   "signals": [
+    "로봇테마동반랠리상한가"
+   ],
+   "theme": "로봇/휴머노이드",
+   "status": "pending",
+   "checks": []
+  },
+  {
+   "name": "에스오에스랩(464080)",
+   "type": "warning",
+   "market": "韓",
+   "flagDate": "2026-11-25",
+   "signals": [
+    "북미라이다계약당일+19%이미반영"
+   ],
+   "theme": "피지컬AI/모빌리티",
+   "status": "pending",
+   "checks": []
+  },
+  {
+   "name": "제주반도체(080220)",
+   "type": "warning",
+   "market": "韓",
+   "flagDate": "2026-11-25",
+   "signals": [
+    "11/24+6.53%이미반영"
+   ],
+   "theme": "AI전력/데이터센터(후공정)",
+   "status": "pending",
+   "checks": []
+  },
+  {
+   "name": "위너스일렉(479960)",
+   "type": "warning",
+   "market": "韓",
+   "flagDate": "2026-11-25",
+   "signals": [
+    "D+6누적7회선점구간소멸"
+   ],
+   "theme": "로봇/휴머노이드",
+   "status": "pending",
+   "checks": []
   }
  ],
  "stats": {
@@ -71600,8 +71795,8 @@
   "miss": 164,
   "hitRate": 24.3,
   "avgD3ChangePct": 0.32,
-  "pending": 371,
-  "total": 758,
+  "pending": 384,
+  "total": 771,
   "byType": {
    "leading": {
     "verified": 163,
