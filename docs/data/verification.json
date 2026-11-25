@@ -1,6 +1,118 @@
 {
- "updatedAt": "2026-11-25T14:25:38+09:00",
+ "updatedAt": "2026-11-26T05:27:44+09:00",
  "cases": [
+  {
+   "name": "GRT(900290)",
+   "type": "leading",
+   "market": "韓",
+   "flagDate": "2026-11-26",
+   "signals": [
+    "지분인수+공급계약동시공시(605억)",
+    "공시당일주가무반응",
+    "이틀째반복재확인"
+   ],
+   "theme": "전자부품/MLCC 공급망",
+   "status": "pending",
+   "checks": [],
+   "convScore": 7,
+   "convTier": "high",
+   "convSignals": [
+    "반복포착",
+    "구체촉발재",
+    "틈새레이더"
+   ],
+   "convStampedAt": "2026-11-26"
+  },
+  {
+   "name": "에스오에스랩(464080)",
+   "type": "leading",
+   "market": "韓",
+   "flagDate": "2026-11-26",
+   "signals": [
+    "엔비디아DRIVEAGXOrin공식파트너",
+    "북미빅테크첫계약(매출142.9%)"
+   ],
+   "theme": "피지컬AI/모빌리티(라이다)",
+   "status": "pending",
+   "checks": [],
+   "convScore": 4,
+   "convTier": "mid",
+   "convSignals": [
+    "구체촉발재",
+    "틈새레이더"
+   ],
+   "convStampedAt": "2026-11-26"
+  },
+  {
+   "name": "휴림로봇(090710)",
+   "type": "leading",
+   "market": "韓",
+   "flagDate": "2026-11-26",
+   "signals": [
+    "삼성전기EFEM자동화로봇공급본계약(한화로보틱스·울트라이노베이션)",
+    "체결일상한가후급락장에묻힘"
+   ],
+   "theme": "로봇/휴머노이드",
+   "status": "pending",
+   "checks": [],
+   "convScore": 9,
+   "convTier": "high",
+   "convSignals": [
+    "반복포착",
+    "승세테마",
+    "구체촉발재",
+    "틈새레이더"
+   ],
+   "convStampedAt": "2026-11-26"
+  },
+  {
+   "name": "아이크래프트(052460)",
+   "type": "leading",
+   "market": "韓",
+   "flagDate": "2026-11-26",
+   "signals": [
+    "대형고객납품(네이버클라우드2091억)",
+    "8일째저빈도반복",
+    "재포착"
+   ],
+   "theme": "AI전력/데이터센터",
+   "status": "pending",
+   "checks": [],
+   "convScore": 2,
+   "convTier": "low",
+   "convSignals": [
+    "반복포착",
+    "구체촉발재",
+    "⚠️열세테마"
+   ],
+   "convStampedAt": "2026-11-26"
+  },
+  {
+   "name": "안랩(053800)",
+   "type": "warning",
+   "market": "韓",
+   "flagDate": "2026-11-26",
+   "signals": [
+    "CIA·美국가정보국해킹보도반사수혜",
+    "이틀연속상한가권반복(이미반영)"
+   ],
+   "theme": "사이버보안",
+   "status": "pending",
+   "checks": []
+  },
+  {
+   "name": "다올투자증권(030210)",
+   "type": "warning",
+   "market": "韓",
+   "flagDate": "2026-11-26",
+   "signals": [
+    "경영권매각설16%급등(이미반영)",
+    "공식확인전해명기사반복"
+   ],
+   "theme": "금융/M&A",
+   "status": "pending",
+   "checks": []
+  },
   {
    "name": "비나텍(126340)",
    "type": "discovery",
@@ -71920,8 +72032,8 @@
   "miss": 164,
   "hitRate": 24.3,
   "avgD3ChangePct": 0.32,
-  "pending": 393,
-  "total": 780,
+  "pending": 399,
+  "total": 786,
   "byType": {
    "leading": {
     "verified": 163,
