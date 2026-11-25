@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-25T06:08:21+09:00",
+ "updatedAt": "2026-11-25T14:25:38+09:00",
  "cases": [
   {
    "name": "비나텍(126340)",
@@ -71786,6 +71786,131 @@
    "theme": "로봇/휴머노이드",
    "status": "pending",
    "checks": []
+  },
+  {
+   "name": "다올투자증권(030210)",
+   "type": "warning",
+   "market": "韓",
+   "flagDate": "2026-11-25",
+   "signals": [
+    "지분매각설급등16~24%",
+    "이미반영후발"
+   ],
+   "theme": "경영권매각테마",
+   "status": "pending",
+   "checks": []
+  },
+  {
+   "name": "대성하이텍(129920)",
+   "type": "warning",
+   "market": "韓",
+   "flagDate": "2026-11-25",
+   "signals": [
+    "中225억계약공시당일상한가",
+    "이미반영후발"
+   ],
+   "theme": "로봇/휴머노이드",
+   "status": "pending",
+   "checks": []
+  },
+  {
+   "name": "로보티즈(108490)",
+   "type": "warning",
+   "market": "韓",
+   "flagDate": "2026-11-25",
+   "signals": [
+    "엔비디아훈풍19.51%급등",
+    "이미반영후발"
+   ],
+   "theme": "로봇/휴머노이드",
+   "status": "pending",
+   "checks": []
+  },
+  {
+   "name": "레인보우로보틱스(277810)",
+   "type": "warning",
+   "market": "韓",
+   "flagDate": "2026-11-25",
+   "signals": [
+    "엔비디아훈풍17.41%급등",
+    "이미반영후발"
+   ],
+   "theme": "로봇/휴머노이드",
+   "status": "pending",
+   "checks": []
+  },
+  {
+   "name": "에이디테크놀로지(200710)",
+   "type": "warning",
+   "market": "韓",
+   "flagDate": "2026-11-25",
+   "signals": [
+    "외국인6일연속순매수",
+    "+7.67%이미반영"
+   ],
+   "theme": "AI반도체설계(팹리스/IP)",
+   "status": "pending",
+   "checks": []
+  },
+  {
+   "name": "한국피아이엠(448970)",
+   "type": "warning",
+   "market": "韓",
+   "flagDate": "2026-11-25",
+   "signals": [
+    "MIM부품기대감",
+    "상한가+29.87%이미반영"
+   ],
+   "theme": "로봇/휴머노이드",
+   "status": "pending",
+   "checks": []
+  },
+  {
+   "name": "대동기어(008830)",
+   "type": "warning",
+   "market": "韓",
+   "flagDate": "2026-11-25",
+   "signals": [
+    "현대차로봇협력기대",
+    "11.17%급등후되돌림-4.37%"
+   ],
+   "theme": "로봇/휴머노이드",
+   "status": "pending",
+   "checks": []
+  },
+  {
+   "name": "유진로봇(056080)",
+   "type": "warning",
+   "market": "韓",
+   "flagDate": "2026-11-25",
+   "signals": [
+    "공시없는이상급등20.63%",
+    "대주주248억블록딜리스크"
+   ],
+   "theme": "로봇/휴머노이드",
+   "status": "pending",
+   "checks": []
+  },
+  {
+   "name": "아이씨에이치(368600)",
+   "type": "leading",
+   "market": "韓",
+   "flagDate": "2026-11-25",
+   "signals": [
+    "ESS난연PU폼공급확대신규뉴스",
+    "3Q영업손실91%축소"
+   ],
+   "theme": "ESS소재/로봇관절PU폼",
+   "status": "pending",
+   "checks": [],
+   "convScore": 7,
+   "convTier": "high",
+   "convSignals": [
+    "반복포착",
+    "승세테마",
+    "구체촉발재"
+   ],
+   "convStampedAt": "2026-11-25"
   }
  ],
  "stats": {
@@ -71795,8 +71920,8 @@
   "miss": 164,
   "hitRate": 24.3,
   "avgD3ChangePct": 0.32,
-  "pending": 384,
-  "total": 771,
+  "pending": 393,
+  "total": 780,
   "byType": {
    "leading": {
     "verified": 163,

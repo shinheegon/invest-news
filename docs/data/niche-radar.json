@@ -1,21 +1,21 @@
 {
- "updatedAt": "2026-11-25T05:36:20+09:00",
+ "updatedAt": "2026-11-25T13:51:14+09:00",
  "note": "원본 헤드라인의 반복 언급을 탐지한 조사 후보이며 투자권유가 아니다. 동일 기사 재실행은 한 번만 집계하고, 순수 악재 반복과 모호한 회사명은 제외한다.",
  "window": 30,
- "corpusToday": 579,
- "trackedCompanies": 657,
+ "corpusToday": 948,
+ "trackedCompanies": 664,
  "companies": [
   {
    "code": "030610",
    "name": "교보증권",
    "market": "KOSPI",
    "cap": 8661,
-   "total": 15,
-   "recent": 3,
+   "total": 16,
+   "recent": 4,
    "activeDays": 11,
    "firstSeen": "2026-10-29",
    "lastSeen": "2026-11-25",
-   "score": 29.3,
+   "score": 33.6,
    "riskMentions": 0,
    "catalystMentions": 0,
    "samples": [
@@ -24,12 +24,68 @@
      "title": "[부고] 김춘오(교보증권 재경부장)씨 모친상"
     },
     {
-     "date": "2026-11-24",
-     "title": "교보증권, 수제 간식 만들어 지역아동복지센터 전달"
+     "date": "2026-11-25",
+     "title": "[게시판] 교보증권, 대한민국 지속가능성보고서상 5년 연속 수상"
     },
     {
      "date": "2026-11-24",
-     "title": "[부고] 김춘오(교보증권 재경부장)씨 모친상"
+     "title": "교보증권, 수제 간식 만들어 지역아동복지센터 전달"
+    }
+   ]
+  },
+  {
+   "code": "051500",
+   "name": "CJ프레시웨이",
+   "market": "KOSDAQ",
+   "cap": 2475,
+   "total": 6,
+   "recent": 5,
+   "activeDays": 2,
+   "firstSeen": "2026-11-10",
+   "lastSeen": "2026-11-25",
+   "score": 25.3,
+   "riskMentions": 3,
+   "catalystMentions": 2,
+   "samples": [
+    {
+     "date": "2026-11-25",
+     "title": "식자재 납품하려고 복지시설에 기부금…CJ프레시웨이, 제재 착수(종합)"
+    },
+    {
+     "date": "2026-11-25",
+     "title": "식자재 납품하려고 복지시설에 기부금…CJ프레시웨이, 제재 착수"
+    },
+    {
+     "date": "2026-11-25",
+     "title": "공정위, CJ프레시웨이 '부당 고객유인' 심의 착수"
+    }
+   ]
+  },
+  {
+   "code": "030210",
+   "name": "다올투자증권",
+   "market": "KOSPI",
+   "cap": 2013,
+   "total": 6,
+   "recent": 5,
+   "activeDays": 2,
+   "firstSeen": "2026-11-17",
+   "lastSeen": "2026-11-25",
+   "score": 25.3,
+   "riskMentions": 0,
+   "catalystMentions": 5,
+   "samples": [
+    {
+     "date": "2026-11-25",
+     "title": "이병철 회장, 다올투자증권 지분 매각 추진"
+    },
+    {
+     "date": "2026-11-25",
+     "title": "다올투자증권, 경영권 매각 추진 소식에 16% 급등"
+    },
+    {
+     "date": "2026-11-25",
+     "title": "다올투자증권 \"계열사 다올저축은행 주식 222억원에 추가취득\""
     }
    ]
   },
@@ -146,34 +202,6 @@
    ]
   },
   {
-   "code": "030210",
-   "name": "다올투자증권",
-   "market": "KOSPI",
-   "cap": 2013,
-   "total": 5,
-   "recent": 4,
-   "activeDays": 2,
-   "firstSeen": "2026-11-17",
-   "lastSeen": "2026-11-25",
-   "score": 21.0,
-   "riskMentions": 0,
-   "catalystMentions": 4,
-   "samples": [
-    {
-     "date": "2026-11-25",
-     "title": "이병철 회장, 다올투자증권 지분 매각 추진"
-    },
-    {
-     "date": "2026-11-25",
-     "title": "다올투자증권 \"계열사 다올저축은행 주식 222억원에 추가취득\""
-    },
-    {
-     "date": "2026-11-25",
-     "title": "[단독] 다올투자증권 M&A 매물로…이병철 회장 지분 매각 추진"
-    }
-   ]
-  },
-  {
    "code": "267980",
    "name": "매일유업",
    "market": "KOSDAQ",
@@ -226,6 +254,34 @@
     {
      "date": "2026-11-13",
      "title": "대성하이텍, 이스라엘 블루버드와 군용 드론 국산화 추진"
+    }
+   ]
+  },
+  {
+   "code": "464080",
+   "name": "에스오에스랩",
+   "market": "KOSDAQ",
+   "cap": 1436,
+   "total": 3,
+   "recent": 3,
+   "activeDays": 2,
+   "firstSeen": "2026-11-24",
+   "lastSeen": "2026-11-25",
+   "score": 17.1,
+   "riskMentions": 0,
+   "catalystMentions": 0,
+   "samples": [
+    {
+     "date": "2026-11-25",
+     "title": "에스오에스랩, 엔비디아와 글로벌 라이다 시장 공략"
+    },
+    {
+     "date": "2026-11-25",
+     "title": "\"라이다 4개에서 2개로…\" 에스오에스랩에 열린 '북미 로보택시' 기회"
+    },
+    {
+     "date": "2026-11-24",
+     "title": "\"라이다 4개에서 2개로…\" 에스오에스랩에 열린 '북미 로보택시' 기회"
     }
    ]
   },
@@ -422,30 +478,6 @@
     {
      "date": "2026-10-30",
      "title": "증선위, '허위 매출' 피델릭스에 감사인 지정 3년 등 조치"
-    }
-   ]
-  },
-  {
-   "code": "464080",
-   "name": "에스오에스랩",
-   "market": "KOSDAQ",
-   "cap": 1436,
-   "total": 2,
-   "recent": 2,
-   "activeDays": 2,
-   "firstSeen": "2026-11-24",
-   "lastSeen": "2026-11-25",
-   "score": 12.7,
-   "riskMentions": 0,
-   "catalystMentions": 0,
-   "samples": [
-    {
-     "date": "2026-11-25",
-     "title": "\"라이다 4개에서 2개로…\" 에스오에스랩에 열린 '북미 로보택시' 기회"
-    },
-    {
-     "date": "2026-11-24",
-     "title": "\"라이다 4개에서 2개로…\" 에스오에스랩에 열린 '북미 로보택시' 기회"
     }
    ]
   },
