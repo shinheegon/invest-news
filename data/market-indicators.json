@@ -1,23 +1,23 @@
 {
-  "updatedAt": "2026-11-26T19:00:00+09:00",
-  "session": "PM",
-  "note": "11/26(목) PM — 어제(11/25) 코스피 -6.16%(4,697.51) 폭락 후 오늘 한국은행이 기준금리를 3.00%→3.25%로 0.25%p 인상(신현송 총재, 5대2 찬성)하며 성장률 전망을 대폭 상향(2026년 3.3%→3.9%, 2027년 2.9%→4.1%)했다. 코스피·코스닥은 오전 저가매수세로 반등(장중 한때 +2%대)했으나 금리인상 발표 직후 상승폭이 축소됐고, 공식 종가는 가용 소스로 독립 확인되지 못해 장중 수치로 표시한다(09:50 KST 기준). 美 증시는 추수감사절 휴장(직전 11/25 종가: 다우 +0.33%, S&P500 -0.25%, 나스닥 -0.62% — 장중 다우 -1,100p 폭락 후 급반등하는 롤러코스터 장세). 엔비디아는 S&P가 신용등급을 '부정적 관찰대상'에 등재했고 데드크로스가 임박했다. 투자권유 아님.",
-  "stock_fng": { "value": 9, "label": "Extreme Fear", "source": "https://tyriantrade.com/social/home/post/5240558e-793e-4298-a795-b511c8232956" },
+  "updatedAt": "2026-11-27T07:30:00+09:00",
+  "session": "AM",
+  "note": "11/27(금) AM — 美 증시는 추수감사절(11/26) 휴장, 직전 거래일(11/25) 종가 기준(다우 +0.33%·S&P500 -0.25%·나스닥 -0.62%, 장중 나스닥100 -4.6%까지 밀렸다가 급반등하는 롤러코스터 장세)이 그대로 유지된다. 한국은 전일(11/26) 코스피 -6.16%(11/25) 급락 후 하루 만에 소폭 반등해 4,711.21(+0.29%)·코스닥 655.71(+0.78%)로 마감했다. 투자권유 아님.",
+  "stock_fng": { "value": 9, "label": "Extreme Fear", "source": "https://www.lookonchain.com/feeds/84208" },
   "indices": [
-    { "name": "코스피", "value": "4,787.70", "change": "+1.92%(장중 09:50, 금리인상 발표 후 탄력 둔화)", "source": "https://www.jnilbo.com/news/articleView.html?idxno=90000086826" },
-    { "name": "코스닥", "value": "669.51", "change": "+2.90%(장중 09:50)", "source": "https://view.asiae.co.kr/article/2026112609333242498" },
-    { "name": "다우존스", "value": "50,182.95", "change": "+0.33%(11/25 종가, 美 추수감사절 휴장)", "source": "https://mlq.ai/news/dow-erases-1100-point-drop-to-close-up-164-as-nasdaq-pares-46-ai-rout/" },
+    { "name": "코스피", "value": "4,711.21", "change": "+0.29%(11/26 종가, 전일 -6.16% 폭락 후 반등분 대부분 반납)", "source": "https://www.seoul.co.kr/news/economy/securities/2026/11/26/20261126500256" },
+    { "name": "코스닥", "value": "655.71", "change": "+0.78%(11/26 종가)", "source": "https://supple.kr/news/cmwx6nlobnae1kwp8w5dv24w2" },
+    { "name": "다우존스", "value": "50,182.95", "change": "+0.33%(11/25 종가, 美 추수감사절 휴장으로 변동없음)", "source": "https://mlq.ai/news/dow-erases-1100-point-drop-to-close-up-164-as-nasdaq-pares-46-ai-rout/" },
     { "name": "S&P 500", "value": "7,182.78", "change": "-0.25%(11/25 종가)", "source": "https://www.washingtontimes.com/news/2026/nov/25/ai-rout-dragging-wall-street-lower-sp-500-slumps-27/" },
-    { "name": "나스닥", "value": "23,585.80", "change": "-0.62%(11/25 종가)", "source": "https://mlq.ai/news/dow-erases-1100-point-drop-to-close-up-164-as-nasdaq-pares-46-ai-rout/" },
+    { "name": "나스닥", "value": "23,585.80", "change": "-0.62%(11/25 종가, 장중 나스닥100 -20%대 베어마켓 터치 후 회복)", "source": "https://mlq.ai/news/dow-erases-1100-point-drop-to-close-up-164-as-nasdaq-pares-46-ai-rout/" },
     { "name": "VIX", "value": "26.36", "change": "고변동성 지속(美 휴장으로 갱신 제한적)", "source": "https://www.benzinga.com/markets/equities/26/11/63575350/vix-plunge-jensen-huang-return-history-sp500-forward-returns" },
     { "name": "美 10년물", "value": "4.92%", "change": "0(美 휴장)", "source": "https://tradingeconomics.com/united-states/government-bond-yield" },
     { "name": "달러인덱스(DXY)", "value": "103.85", "change": "0(美 휴장)", "source": "https://piqmarkets.com/story/dollar-holds-near-103-85-ahead-of-us-pce-and-gdp-data" },
-    { "name": "원/달러", "value": "1,344.0", "change": "금통위 인상 발표 후 1,340원선 붕괴(원화 강세 전환)", "source": "https://www.yna.co.kr/view/AKR20261126095700002" },
+    { "name": "원/달러", "value": "1,342.70", "change": "-1.3원(11/26 종가, 금통위 인상 발표 후 장중 1,340원선 붕괴)", "source": "https://m.news.nate.com/view/20261126n04268" },
     { "name": "美 기준금리", "value": "3.75~4.00%", "change": "0 · 12월 FOMC 인상확률 99.8%(CME 페드워치)", "source": "https://www.koreatimes.com/article/11632830" },
     { "name": "한국 기준금리", "value": "3.25%", "change": "+0.25%p(금통위 5대2 인상, 2026-11-26)", "source": "https://www.hankyung.com/article/2026112616136" },
-    { "name": "美 CPI", "value": "3.8%(10월 PCE·Fed 선호지표 기준)", "change": "근원 3.3%(전월 3.1%)", "source": "https://www.cnbc.com/2026/11/25/fed-preferred-inflation-gauge-pce-october-2026.html" },
-    { "name": "韓 CPI", "value": "2.8%", "change": "0 · 금통위 2027년 전망 2.4%", "source": "https://www.newspim.com/news/view/20261103000090" },
-    { "name": "WTI", "value": "83.68", "change": "+2%(후티, 사우디 최대 정유시설 공격 보도에 급등)", "source": "https://www.news1.kr/world/usa-canada/6366301" },
-    { "name": "금(Gold)", "value": "3,589.38", "change": "+1.18%(안전자산 수요 재부각)", "source": "https://www.gukjenews.com/news/articleView.html?idxno=3438450" }
+    { "name": "美 CPI", "value": "3.8%(10월 PCE·Fed 선호지표 기준)", "change": "근원 3.3%(전월 3.1%, 예상 3.2% 상회)", "source": "https://invezz.com/news/2026/11/25/us-pce-rises-3-8-in-october-experts-say-fed-rate-hike-in-december-a-done-deal/" },
+    { "name": "韓 CPI", "value": "2.8%", "change": "0 · 금통위 2027년 전망치 유지", "source": "https://www.newspim.com/news/view/20261103000090" },
+    { "name": "WTI", "value": "83.68", "change": "0(美 휴장, 전일 후티 정유시설 공격 보도에 +2% 급등분 유지)", "source": "https://www.news1.kr/world/usa-canada/6366301" },
+    { "name": "금(Gold)", "value": "3,565.41", "change": "-0.4%(안전자산도 현금확보용 매도에 15개월 최저 터치)", "source": "https://www.seoul.co.kr/news/economy/finance/2026/11/26/20261126500259" }
   ]
 }
