@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-26T05:27:44+09:00",
+ "updatedAt": "2026-11-26T13:31:27+09:00",
  "cases": [
   {
    "name": "GRT(900290)",
@@ -72023,6 +72023,59 @@
     "구체촉발재"
    ],
    "convStampedAt": "2026-11-25"
+  },
+  {
+   "name": "유일로보틱스(077460)",
+   "type": "leading",
+   "market": "韓",
+   "flagDate": "2026-11-26",
+   "signals": [
+    "166억원로봇국책과제2건동시선정",
+    "구체촉발재(정부R&D)"
+   ],
+   "theme": "로봇/휴머노이드",
+   "status": "pending",
+   "checks": [],
+   "convScore": 4,
+   "convTier": "mid",
+   "convSignals": [
+    "승세테마",
+    "구체촉발재"
+   ],
+   "convStampedAt": "2026-11-26"
+  },
+  {
+   "name": "나무가(190510)",
+   "type": "discovery",
+   "market": "韓",
+   "flagDate": "2026-11-26",
+   "signals": [
+    "현대모비스向북미휴머노이드카메라단독공급",
+    "오늘신규포착"
+   ],
+   "theme": "로봇/휴머노이드",
+   "status": "pending",
+   "checks": [],
+   "convScore": 4,
+   "convTier": "mid",
+   "convSignals": [
+    "승세테마",
+    "구체촉발재"
+   ],
+   "convStampedAt": "2026-11-26"
+  },
+  {
+   "name": "KH바텍(060720)",
+   "type": "warning",
+   "market": "韓",
+   "flagDate": "2026-11-26",
+   "signals": [
+    "삼성CES2027휴머노이드공개설에상한가(11/24)",
+    "이미급등후강세지속·후발진입주의"
+   ],
+   "theme": "로봇/휴머노이드",
+   "status": "pending",
+   "checks": []
   }
  ],
  "stats": {
@@ -72032,8 +72085,8 @@
   "miss": 164,
   "hitRate": 24.3,
   "avgD3ChangePct": 0.32,
-  "pending": 399,
-  "total": 786,
+  "pending": 402,
+  "total": 789,
   "byType": {
    "leading": {
     "verified": 163,

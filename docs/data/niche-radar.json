@@ -1,9 +1,9 @@
 {
- "updatedAt": "2026-11-26T04:53:00+09:00",
+ "updatedAt": "2026-11-26T13:03:49+09:00",
  "note": "원본 헤드라인의 반복 언급을 탐지한 조사 후보이며 투자권유가 아니다. 동일 기사 재실행은 한 번만 집계하고, 순수 악재 반복과 모호한 회사명은 제외한다.",
  "window": 30,
- "corpusToday": 572,
- "trackedCompanies": 625,
+ "corpusToday": 945,
+ "trackedCompanies": 630,
  "companies": [
   {
    "code": "051500",
@@ -30,34 +30,6 @@
     {
      "date": "2026-11-26",
      "title": "공정위, CJ프레시웨이 '기부금 영업' 제재 착수…과징금 최대 200억"
-    }
-   ]
-  },
-  {
-   "code": "030610",
-   "name": "교보증권",
-   "market": "KOSPI",
-   "cap": 8661,
-   "total": 18,
-   "recent": 6,
-   "activeDays": 12,
-   "firstSeen": "2026-10-29",
-   "lastSeen": "2026-11-26",
-   "score": 44.4,
-   "riskMentions": 0,
-   "catalystMentions": 0,
-   "samples": [
-    {
-     "date": "2026-11-26",
-     "title": "교보증권, '대한민국 지속가능성보고서상' 5년 연속 수상"
-    },
-    {
-     "date": "2026-11-26",
-     "title": "[게시판] 교보증권, 대한민국 지속가능성보고서상 5년 연속 수상"
-    },
-    {
-     "date": "2026-11-25",
-     "title": "[부고] 김춘오(교보증권 재경부장)씨 모친상"
     }
    ]
   },
@@ -226,6 +198,34 @@
     {
      "date": "2026-11-24",
      "title": "삼성운용, 'KODEX 미국AI에이전트액티브' ETF에 앤트로픽 편입"
+    }
+   ]
+  },
+  {
+   "code": "035760",
+   "name": "CJ ENM",
+   "market": "KOSDAQ",
+   "cap": 11557,
+   "total": 9,
+   "recent": 2,
+   "activeDays": 7,
+   "firstSeen": "2026-10-28",
+   "lastSeen": "2026-11-26",
+   "score": 19.3,
+   "riskMentions": 0,
+   "catalystMentions": 0,
+   "samples": [
+    {
+     "date": "2026-11-26",
+     "title": "CJ ENM, 티빙·피프스시즌이 효자로…이익 레버리지 '본격화'"
+    },
+    {
+     "date": "2026-11-25",
+     "title": "CJ ENM '들썩'…실적 뛰고 한한령 해제 수혜"
+    },
+    {
+     "date": "2026-11-11",
+     "title": "CJ ENM, 글로벌 수익모델 확대 승부수"
     }
    ]
   },
@@ -454,6 +454,34 @@
    ]
   },
   {
+   "code": "013890",
+   "name": "지누스",
+   "market": "KOSPI",
+   "cap": 1421,
+   "total": 4,
+   "recent": 2,
+   "activeDays": 3,
+   "firstSeen": "2026-11-05",
+   "lastSeen": "2026-11-26",
+   "score": 13.8,
+   "riskMentions": 0,
+   "catalystMentions": 2,
+   "samples": [
+    {
+     "date": "2026-11-26",
+     "title": "\"지누스 살아난다…현대백화점, 전 사업부 동반 흑자 기대\""
+    },
+    {
+     "date": "2026-11-24",
+     "title": "온라인서 성장한 지누스, 오프라인 마케팅 강화"
+    },
+    {
+     "date": "2026-11-05",
+     "title": "몸집 줄인 지누스의 반전…현대百 3분기 실적 효자로"
+    }
+   ]
+  },
+  {
    "code": "261780",
    "name": "아리바이오랩",
    "market": "KOSDAQ",
@@ -534,6 +562,34 @@
     {
      "date": "2026-10-30",
      "title": "증선위, '허위 매출' 피델릭스에 감사인 지정 3년 등 조치"
+    }
+   ]
+  },
+  {
+   "code": "253450",
+   "name": "스튜디오드래곤",
+   "market": "KOSDAQ",
+   "cap": 9258,
+   "total": 6,
+   "recent": 2,
+   "activeDays": 3,
+   "firstSeen": "2026-11-06",
+   "lastSeen": "2026-11-26",
+   "score": 12.8,
+   "riskMentions": 0,
+   "catalystMentions": 0,
+   "samples": [
+    {
+     "date": "2026-11-26",
+     "title": "\"스튜디오드래곤, 中 시장 재개방 준비된 기업…목표가↑\"-대신"
+    },
+    {
+     "date": "2026-11-26",
+     "title": "\"中 시장 재개방 수혜 기대…스튜디오드래곤 목표가 29%↑\""
+    },
+    {
+     "date": "2026-11-20",
+     "title": "한중 FTA 2단계 협상 타결에 미디어·엔터주 '들썩'…스튜디오드래곤 '上'"
     }
    ]
   },
