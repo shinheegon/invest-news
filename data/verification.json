@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-27T13:36:07+09:00",
+ "updatedAt": "2026-11-28T05:00:29+09:00",
  "cases": [
   {
    "name": "GRT(900290)",
@@ -72097,6 +72097,60 @@
     "승세테마"
    ],
    "convStampedAt": "2026-11-27"
+  },
+  {
+   "name": "에스엠코어(007820)",
+   "type": "discovery",
+   "market": "韓",
+   "flagDate": "2026-11-28",
+   "signals": [
+    "SK하이닉스向반도체OHT내년양산계획",
+    "로봇팹전환구체촉발재",
+    "오늘신규포착"
+   ],
+   "theme": "반도체 공장 로봇팹 전환",
+   "status": "pending",
+   "checks": [],
+   "convScore": 4,
+   "convTier": "mid",
+   "convSignals": [
+    "승세테마",
+    "구체촉발재"
+   ],
+   "convStampedAt": "2026-11-28"
+  },
+  {
+   "name": "라온로보틱스(232680)",
+   "type": "discovery",
+   "market": "韓",
+   "flagDate": "2026-11-28",
+   "signals": [
+    "국내유일웨이퍼진공로봇고객사",
+    "로봇팹전환구체촉발재",
+    "오늘신규포착"
+   ],
+   "theme": "반도체 공장 로봇팹 전환",
+   "status": "pending",
+   "checks": [],
+   "convScore": 2,
+   "convTier": "low",
+   "convSignals": [
+    "승세테마"
+   ],
+   "convStampedAt": "2026-11-28"
+  },
+  {
+   "name": "제닉스로보틱스(381620)",
+   "type": "warning",
+   "market": "韓",
+   "flagDate": "2026-11-28",
+   "signals": [
+    "AMR확대소식에+29.98퍼센트급등",
+    "이미반영완료후발위험"
+   ],
+   "theme": "반도체 공장 로봇팹 전환",
+   "status": "pending",
+   "checks": []
   }
  ],
  "stats": {
@@ -72106,8 +72160,8 @@
   "miss": 164,
   "hitRate": 24.3,
   "avgD3ChangePct": 0.32,
-  "pending": 403,
-  "total": 790,
+  "pending": 406,
+  "total": 793,
   "byType": {
    "leading": {
     "verified": 163,

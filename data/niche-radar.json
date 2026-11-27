@@ -1,23 +1,51 @@
 {
- "updatedAt": "2026-11-27T13:02:06+09:00",
+ "updatedAt": "2026-11-28T04:26:37+09:00",
  "note": "원본 헤드라인의 반복 언급을 탐지한 조사 후보이며 투자권유가 아니다. 동일 기사 재실행은 한 번만 집계하고, 순수 악재 반복과 모호한 회사명은 제외한다.",
  "window": 30,
- "corpusToday": 875,
- "trackedCompanies": 634,
+ "corpusToday": 557,
+ "trackedCompanies": 617,
  "companies": [
+  {
+   "code": "001510",
+   "name": "SK증권",
+   "market": "KOSPI",
+   "cap": 3694,
+   "total": 17,
+   "recent": 7,
+   "activeDays": 10,
+   "firstSeen": "2026-11-04",
+   "lastSeen": "2026-11-28",
+   "score": 45.7,
+   "riskMentions": 0,
+   "catalystMentions": 1,
+   "samples": [
+    {
+     "date": "2026-11-28",
+     "title": "SK증권, 차기 각자 대표이사 후보에 박삼규·최창훈 추천"
+    },
+    {
+     "date": "2026-11-28",
+     "title": "SK증권, 차기 각자 대표이사 후보에 박삼규, 최창훈 추천"
+    },
+    {
+     "date": "2026-11-28",
+     "title": "SK증권, 차기 각자 대표이사 후보에 박삼규 최창훈 추천"
+    }
+   ]
+  },
   {
    "code": "051500",
    "name": "CJ프레시웨이",
    "market": "KOSDAQ",
    "cap": 2380,
    "total": 12,
-   "recent": 11,
+   "recent": 6,
    "activeDays": 3,
    "firstSeen": "2026-11-10",
    "lastSeen": "2026-11-26",
-   "score": 53.5,
-   "riskMentions": 9,
-   "catalystMentions": 4,
+   "score": 29.3,
+   "riskMentions": 6,
+   "catalystMentions": 2,
    "samples": [
     {
      "date": "2026-11-26",
@@ -30,90 +58,6 @@
     {
      "date": "2026-11-26",
      "title": "공정위, CJ프레시웨이 '기부금 영업' 제재 착수…과징금 최대 200억"
-    }
-   ]
-  },
-  {
-   "code": "030210",
-   "name": "다올투자증권",
-   "market": "KOSPI",
-   "cap": 2321,
-   "total": 7,
-   "recent": 6,
-   "activeDays": 3,
-   "firstSeen": "2026-11-17",
-   "lastSeen": "2026-11-26",
-   "score": 31.7,
-   "riskMentions": 0,
-   "catalystMentions": 6,
-   "samples": [
-    {
-     "date": "2026-11-26",
-     "title": "다올투자증권, 경영권 매각설에 &quot;구체적으로 결정된 사항 없어&quot;"
-    },
-    {
-     "date": "2026-11-25",
-     "title": "이병철 회장, 다올투자증권 지분 매각 추진"
-    },
-    {
-     "date": "2026-11-25",
-     "title": "다올투자증권, 경영권 매각 추진 소식에 16% 급등"
-    }
-   ]
-  },
-  {
-   "code": "001510",
-   "name": "SK증권",
-   "market": "KOSPI",
-   "cap": 3694,
-   "total": 14,
-   "recent": 4,
-   "activeDays": 9,
-   "firstSeen": "2026-11-04",
-   "lastSeen": "2026-11-27",
-   "score": 30.6,
-   "riskMentions": 0,
-   "catalystMentions": 1,
-   "samples": [
-    {
-     "date": "2026-11-27",
-     "title": "SK증권, 차기 각자 대표이사 후보에 박삼규·최창훈 추천"
-    },
-    {
-     "date": "2026-11-27",
-     "title": "SK증권, 차기 각자 대표이사 후보에 박삼규, 최창훈 추천"
-    },
-    {
-     "date": "2026-11-27",
-     "title": "SK증권, 차기 각자 대표이사 후보에 박삼규 최창훈 추천"
-    }
-   ]
-  },
-  {
-   "code": "035760",
-   "name": "CJ ENM",
-   "market": "KOSDAQ",
-   "cap": 12215,
-   "total": 9,
-   "recent": 3,
-   "activeDays": 7,
-   "firstSeen": "2026-11-06",
-   "lastSeen": "2026-11-27",
-   "score": 24.2,
-   "riskMentions": 0,
-   "catalystMentions": 0,
-   "samples": [
-    {
-     "date": "2026-11-27",
-     "title": "CJ ENM, 티빙·피프스시즌이 효자로…이익 레버리지 '본격화'"
-    },
-    {
-     "date": "2026-11-26",
-     "title": "CJ ENM, 티빙·피프스시즌이 효자로…이익 레버리지 '본격화'"
-    },
-    {
-     "date": "2026-11-25",
-     "title": "CJ ENM '들썩'…실적 뛰고 한한령 해제 수혜"
     }
    ]
   },
@@ -174,86 +118,86 @@
    ]
   },
   {
-   "code": "038500",
-   "name": "삼표시멘트",
+   "code": "001290",
+   "name": "상상인증권",
+   "market": "KOSPI",
+   "cap": 834,
+   "total": 7,
+   "recent": 3,
+   "activeDays": 5,
+   "firstSeen": "2026-10-31",
+   "lastSeen": "2026-11-28",
+   "score": 21.2,
+   "riskMentions": 0,
+   "catalystMentions": 0,
+   "samples": [
+    {
+     "date": "2026-11-28",
+     "title": "상상인증권, '사람 살리는 금융' 캠페인 동참"
+    },
+    {
+     "date": "2026-11-28",
+     "title": "[게시판] 상상인증권 주원 대표이사, '사람 살리는 금융' 캠페인 동참"
+    },
+    {
+     "date": "2026-11-27",
+     "title": "[게시판] 상상인증권 주원 대표이사, '사람 살리는 금융' 캠페인 동참"
+    }
+   ]
+  },
+  {
+   "code": "035760",
+   "name": "CJ ENM",
    "market": "KOSDAQ",
-   "cap": 6065,
+   "cap": 12215,
    "total": 9,
    "recent": 2,
    "activeDays": 7,
-   "firstSeen": "2026-10-31",
-   "lastSeen": "2026-11-25",
+   "firstSeen": "2026-11-06",
+   "lastSeen": "2026-11-27",
    "score": 19.3,
    "riskMentions": 0,
    "catalystMentions": 0,
    "samples": [
     {
-     "date": "2026-11-25",
-     "title": "삼표시멘트, 삼척서 김장 나눔 봉사…배추 1200포기 이웃에 전달"
+     "date": "2026-11-27",
+     "title": "CJ ENM, 티빙·피프스시즌이 효자로…이익 레버리지 '본격화'"
     },
-    {
-     "date": "2026-11-25",
-     "title": "삼표시멘트, 삼척 취약계층에 김장김치 1200포기 전달"
-    },
-    {
-     "date": "2026-11-24",
-     "title": "삼표시멘트, 삼척 취약계층에 김장김치 1200포기 전달"
-    }
-   ]
-  },
-  {
-   "code": "032350",
-   "name": "롯데관광개발",
-   "market": "KOSPI",
-   "cap": 9160,
-   "total": 10,
-   "recent": 2,
-   "activeDays": 7,
-   "firstSeen": "2026-11-02",
-   "lastSeen": "2026-11-26",
-   "score": 18.9,
-   "riskMentions": 0,
-   "catalystMentions": 2,
-   "samples": [
     {
      "date": "2026-11-26",
-     "title": "롯데관광개발, 목표가 반토막에도…\"성장세는 유효\""
+     "title": "CJ ENM, 티빙·피프스시즌이 효자로…이익 레버리지 '본격화'"
     },
     {
      "date": "2026-11-25",
-     "title": "롯데관광개발, 목표가 반토막에도…\"성장세는 유효\""
-    },
-    {
-     "date": "2026-11-21",
-     "title": "롯데관광개발, 코스타 크루즈 한국 단독 공식 총판 계약 체결"
+     "title": "CJ ENM '들썩'…실적 뛰고 한한령 해제 수혜"
     }
    ]
   },
   {
-   "code": "004960",
-   "name": "한신공영",
-   "market": "KOSPI",
-   "cap": 1195,
-   "total": 8,
+   "code": "040300",
+   "name": "YTN",
+   "market": "KOSDAQ",
+   "cap": 953,
+   "total": 4,
    "recent": 3,
-   "activeDays": 4,
-   "firstSeen": "2026-11-18",
-   "lastSeen": "2026-11-26",
-   "score": 18.7,
+   "activeDays": 3,
+   "firstSeen": "2026-10-31",
+   "lastSeen": "2026-11-28",
+   "score": 18.6,
    "riskMentions": 0,
-   "catalystMentions": 0,
+   "catalystMentions": 3,
    "samples": [
     {
-     "date": "2026-11-26",
-     "title": "한신공영, 3분기 누적 영업이익 649억원…작년 대비 15%↑"
+     "date": "2026-11-28",
+     "title": "유진그룹 \"YTN 인수 의혹 허위\"…뉴스타파 상대 손배소 예고"
     },
     {
-     "date": "2026-11-26",
-     "title": "'내실경영' 한신공영 3분기 영업익 14.9% 증가"
+     "date": "2026-11-27",
+     "title": "유진그룹, YTN 인수 개입 의혹 전면 부인…\"허위 보도 법적 대응\""
     },
     {
-     "date": "2026-11-25",
-     "title": "한신공영, 3분기 누적 영업이익 649억원…작년 대비 15%↑"
+     "date": "2026-11-27",
+     "title": "유진그룹, YTN 인수 개입 의혹 부인…뉴스타파에 법적 대응 예고"
     }
    ]
   },
@@ -286,30 +230,30 @@
    ]
   },
   {
-   "code": "373110",
-   "name": "엑셀세라퓨틱스",
-   "market": "KOSDAQ",
-   "cap": 125,
-   "total": 4,
-   "recent": 3,
-   "activeDays": 3,
-   "firstSeen": "2026-11-24",
-   "lastSeen": "2026-11-26",
-   "score": 18.6,
+   "code": "016610",
+   "name": "DB증권",
+   "market": "KOSPI",
+   "cap": 3387,
+   "total": 7,
+   "recent": 2,
+   "activeDays": 6,
+   "firstSeen": "2026-11-16",
+   "lastSeen": "2026-11-28",
+   "score": 18.3,
    "riskMentions": 0,
-   "catalystMentions": 2,
+   "catalystMentions": 0,
    "samples": [
     {
-     "date": "2026-11-26",
-     "title": "엑셀세라퓨틱스 \"中 아크로바이오와 20억원 전략적 투자 유치 협약\""
+     "date": "2026-11-28",
+     "title": "[인사] DB증권"
     },
     {
-     "date": "2026-11-25",
-     "title": "엑셀세라퓨틱스, 40억원 유상증자…㈜나모홀딩스 등에 3자 배정"
+     "date": "2026-11-27",
+     "title": "[인사] DB증권"
     },
     {
-     "date": "2026-11-25",
-     "title": "엑셀세라퓨틱스 40억 유상증자…대표 회사·서연씨엠씨 13억씩 인수"
+     "date": "2026-11-19",
+     "title": "DB증권·솔라나 재단, 부산서 블록체인 해커톤 개최…토큰증권 사업모델 발굴"
     }
    ]
   },
@@ -318,12 +262,12 @@
    "name": "현대차증권",
    "market": "KOSPI",
    "cap": 4149,
-   "total": 11,
+   "total": 8,
    "recent": 2,
-   "activeDays": 7,
-   "firstSeen": "2026-10-29",
+   "activeDays": 6,
+   "firstSeen": "2026-10-30",
    "lastSeen": "2026-11-27",
-   "score": 18.4,
+   "score": 17.8,
    "riskMentions": 0,
    "catalystMentions": 0,
    "samples": [
@@ -342,16 +286,44 @@
    ]
   },
   {
+   "code": "034830",
+   "name": "한국토지신탁",
+   "market": "KOSPI",
+   "cap": 2439,
+   "total": 5,
+   "recent": 2,
+   "activeDays": 5,
+   "firstSeen": "2026-11-17",
+   "lastSeen": "2026-11-28",
+   "score": 17.3,
+   "riskMentions": 0,
+   "catalystMentions": 0,
+   "samples": [
+    {
+     "date": "2026-11-28",
+     "title": "마포로1구역 25지구 재개발 한국토지신탁과 신탁방식으로 추진"
+    },
+    {
+     "date": "2026-11-27",
+     "title": "마포로1구역 25지구 재개발 한국토지신탁과 신탁방식으로 추진"
+    },
+    {
+     "date": "2026-11-21",
+     "title": "수원 매탄1구역, 한국토지신탁 사업시행자 지정…488가구로 탈바꿈"
+    }
+   ]
+  },
+  {
    "code": "290690",
    "name": "아리바이오홀딩스",
    "market": "KOSDAQ",
    "cap": 1298,
-   "total": 7,
+   "total": 4,
    "recent": 2,
-   "activeDays": 5,
-   "firstSeen": "2026-10-29",
+   "activeDays": 4,
+   "firstSeen": "2026-10-30",
    "lastSeen": "2026-11-27",
-   "score": 16.3,
+   "score": 15.8,
    "riskMentions": 0,
    "catalystMentions": 0,
    "samples": [
@@ -366,34 +338,6 @@
     {
      "date": "2026-10-31",
      "title": "아리바이오홀딩스, 오는 12월 그린플러스 인수 후 경영진 재편 검토"
-    }
-   ]
-  },
-  {
-   "code": "001290",
-   "name": "상상인증권",
-   "market": "KOSPI",
-   "cap": 834,
-   "total": 5,
-   "recent": 2,
-   "activeDays": 4,
-   "firstSeen": "2026-10-31",
-   "lastSeen": "2026-11-27",
-   "score": 15.3,
-   "riskMentions": 0,
-   "catalystMentions": 0,
-   "samples": [
-    {
-     "date": "2026-11-27",
-     "title": "[게시판] 상상인증권 주원 대표이사, '사람 살리는 금융' 캠페인 동참"
-    },
-    {
-     "date": "2026-11-25",
-     "title": "상상인증권, 신안건설산업 정상화에 480억원 DIP 금융 주선"
-    },
-    {
-     "date": "2026-11-17",
-     "title": "상상인증권, 3분기 순이익 37억원…전기 대비 42%↑"
     }
    ]
   },
@@ -426,30 +370,58 @@
    ]
   },
   {
-   "code": "272450",
-   "name": "진에어",
-   "market": "KOSPI",
-   "cap": 3983,
-   "total": 6,
+   "code": "468530",
+   "name": "프로티나",
+   "market": "KOSDAQ",
+   "cap": 7874,
+   "total": 5,
    "recent": 2,
    "activeDays": 4,
-   "firstSeen": "2026-11-06",
-   "lastSeen": "2026-11-27",
-   "score": 14.8,
+   "firstSeen": "2026-11-05",
+   "lastSeen": "2026-11-28",
+   "score": 15.3,
    "riskMentions": 0,
-   "catalystMentions": 0,
+   "catalystMentions": 2,
    "samples": [
     {
-     "date": "2026-11-27",
-     "title": "초대형 LCC '통합 진에어'…부산 본사 시대 연다"
+     "date": "2026-11-28",
+     "title": "프로티나, 유럽 제약사와 11억원 계약…염증성 질환 임상 2상에 바이오마커 적용"
+    },
+    {
+     "date": "2026-11-28",
+     "title": "프로티나, 유럽 빅파마와 11억 계약…바이오마커 글로벌 임상 2상 첫 적용"
     },
     {
      "date": "2026-11-25",
-     "title": "[오늘의 증권가 콜] 목표주가 42.9% 상향한 진에어 vs 50% 떨어진 파두"
+     "title": "프로티나, 해외 4개사와 AI 항체 검증 협력 논의…연내 후속 미팅 추진"
+    }
+   ]
+  },
+  {
+   "code": "016250",
+   "name": "SGC E&C",
+   "market": "KOSDAQ",
+   "cap": 510,
+   "total": 3,
+   "recent": 2,
+   "activeDays": 3,
+   "firstSeen": "2026-11-05",
+   "lastSeen": "2026-11-28",
+   "score": 14.2,
+   "riskMentions": 0,
+   "catalystMentions": 2,
+   "samples": [
+    {
+     "date": "2026-11-28",
+     "title": "SGC E&C, 1200억원 규모 용인 반도체 캠퍼스 신축 수주"
     },
     {
-     "date": "2026-11-13",
-     "title": "진에어·에어서울·에어부산 합병 인가…내년 3월17일 통합 LCC 출범"
+     "date": "2026-11-27",
+     "title": "SGC E&C, 1200억원 규모 용인 반도체 캠퍼스 신축 수주"
+    },
+    {
+     "date": "2026-11-05",
+     "title": "SGC E&C 이희송 부사장, 해외건설 공로 동탑산업훈장"
     }
    ]
   },
@@ -482,150 +454,30 @@
    ]
   },
   {
-   "code": "0015N0",
-   "name": "아로마티카",
-   "market": "KOSDAQ",
-   "cap": 976,
-   "total": 3,
-   "recent": 2,
-   "activeDays": 3,
-   "firstSeen": "2026-11-10",
-   "lastSeen": "2026-11-26",
-   "score": 14.2,
-   "riskMentions": 0,
-   "catalystMentions": 2,
-   "samples": [
-    {
-     "date": "2026-11-26",
-     "title": "아로마티카, 해외 매장 3600개로 확대…내년 해외 비중 50%"
-    },
-    {
-     "date": "2026-11-25",
-     "title": "아로마티카, 해외 매장 3600개로 확대…내년 해외 비중 50%"
-    },
-    {
-     "date": "2026-11-10",
-     "title": "아로마티카 17%·코스메카코리아 15% 급락…뷰티주 약세 [종목NOW]"
-    }
-   ]
-  },
-  {
-   "code": "0227L0",
-   "name": "HANARO 미국에이전틱AI TOP2+",
+   "code": "004960",
+   "name": "한신공영",
    "market": "KOSPI",
-   "cap": 101,
-   "total": 2,
+   "cap": 1195,
+   "total": 8,
    "recent": 2,
-   "activeDays": 2,
-   "firstSeen": "2026-11-25",
+   "activeDays": 4,
+   "firstSeen": "2026-11-18",
    "lastSeen": "2026-11-26",
-   "score": 12.7,
+   "score": 13.8,
    "riskMentions": 0,
    "catalystMentions": 0,
    "samples": [
     {
      "date": "2026-11-26",
-     "title": "NH아문디, 'HANARO 미국에이전틱AI TOP2+' ETF에 앤트로픽 편입"
+     "title": "한신공영, 3분기 누적 영업이익 649억원…작년 대비 15%↑"
     },
-    {
-     "date": "2026-11-25",
-     "title": "NH아문디, 'HANARO 미국에이전틱AI TOP2+' ETF에 앤트로픽 편입"
-    }
-   ]
-  },
-  {
-   "code": "380550",
-   "name": "뉴로핏",
-   "market": "KOSDAQ",
-   "cap": 701,
-   "total": 2,
-   "recent": 2,
-   "activeDays": 2,
-   "firstSeen": "2026-11-25",
-   "lastSeen": "2026-11-26",
-   "score": 12.7,
-   "riskMentions": 0,
-   "catalystMentions": 0,
-   "samples": [
     {
      "date": "2026-11-26",
-     "title": "뉴로핏, 美 서틀메디컬과 기술 통합 파트너십 소식에 '급등'"
+     "title": "'내실경영' 한신공영 3분기 영업익 14.9% 증가"
     },
     {
      "date": "2026-11-25",
-     "title": "뉴로핏, 美 서틀메디컬과 기술 통합 파트너십 소식에 '급등'"
-    }
-   ]
-  },
-  {
-   "code": "290740",
-   "name": "액트로",
-   "market": "KOSDAQ",
-   "cap": 879,
-   "total": 2,
-   "recent": 2,
-   "activeDays": 2,
-   "firstSeen": "2026-11-25",
-   "lastSeen": "2026-11-26",
-   "score": 12.7,
-   "riskMentions": 0,
-   "catalystMentions": 0,
-   "samples": [
-    {
-     "date": "2026-11-26",
-     "title": "액트로, 주당 1.0주 무상증자 결정"
-    },
-    {
-     "date": "2026-11-25",
-     "title": "액트로, 주당 1.0주 무상증자 결정"
-    }
-   ]
-  },
-  {
-   "code": "277410",
-   "name": "인산가",
-   "market": "KOSDAQ",
-   "cap": 205,
-   "total": 2,
-   "recent": 2,
-   "activeDays": 2,
-   "firstSeen": "2026-11-25",
-   "lastSeen": "2026-11-26",
-   "score": 12.7,
-   "riskMentions": 0,
-   "catalystMentions": 2,
-   "samples": [
-    {
-     "date": "2026-11-26",
-     "title": "인산가, 말레이시아 죽염 유통 확대…현지 기업과 협약"
-    },
-    {
-     "date": "2026-11-25",
-     "title": "인산가, 말레이시아 죽염 유통 확대…현지 기업과 협약"
-    }
-   ]
-  },
-  {
-   "code": "052260",
-   "name": "현대바이오랜드",
-   "market": "KOSDAQ",
-   "cap": 1019,
-   "total": 2,
-   "recent": 2,
-   "activeDays": 2,
-   "firstSeen": "2026-11-25",
-   "lastSeen": "2026-11-26",
-   "score": 12.7,
-   "riskMentions": 0,
-   "catalystMentions": 0,
-   "samples": [
-    {
-     "date": "2026-11-26",
-     "title": "현대바이오랜드, 건기식 유통사업 재편한다…매출 24% 규모"
-    },
-    {
-     "date": "2026-11-25",
-     "title": "현대바이오랜드, 건기식 유통사업 접는다…매출 24% 규모"
+     "title": "한신공영, 3분기 누적 영업이익 649억원…작년 대비 15%↑"
     }
    ]
   },
@@ -654,86 +506,98 @@
    ]
   },
   {
-   "code": "040300",
-   "name": "YTN",
-   "market": "KOSDAQ",
-   "cap": 953,
-   "total": 3,
+   "code": "330590",
+   "name": "롯데리츠",
+   "market": "KOSPI",
+   "cap": 10114,
+   "total": 2,
    "recent": 2,
    "activeDays": 2,
-   "firstSeen": "2026-10-31",
-   "lastSeen": "2026-11-27",
-   "score": 12.2,
+   "firstSeen": "2026-11-27",
+   "lastSeen": "2026-11-28",
+   "score": 12.7,
+   "riskMentions": 0,
+   "catalystMentions": 0,
+   "samples": [
+    {
+     "date": "2026-11-28",
+     "title": "금리 인상에 롯데리츠 목표가 14% 하향…\"호텔 임대수익이 방어\""
+    },
+    {
+     "date": "2026-11-27",
+     "title": "금리 인상에 롯데리츠 목표가 14% 하향…\"호텔 임대수익이 방어\""
+    }
+   ]
+  },
+  {
+   "code": "351320",
+   "name": "넥사다이내믹스",
+   "market": "KOSDAQ",
+   "cap": 2094,
+   "total": 2,
+   "recent": 2,
+   "activeDays": 2,
+   "firstSeen": "2026-11-27",
+   "lastSeen": "2026-11-28",
+   "score": 12.7,
    "riskMentions": 0,
    "catalystMentions": 2,
    "samples": [
     {
-     "date": "2026-11-27",
-     "title": "유진그룹, YTN 인수 개입 의혹 전면 부인…\"허위 보도 법적 대응\""
+     "date": "2026-11-28",
+     "title": "넥사다이내믹스, AI 서버 755억 추가 수주…하반기 누적 1000억 넘어"
     },
     {
      "date": "2026-11-27",
-     "title": "유진그룹, YTN 인수 개입 의혹 부인…뉴스타파에 법적 대응 예고"
-    },
-    {
-     "date": "2026-10-31",
-     "title": "﻿유진이엔티, 방미통위에 YTN 변경승인처분 취소 절차 보류 요청"
+     "title": "넥사다이내믹스, AI 서버 755억 추가 수주…하반기 누적 1000억 넘어"
     }
    ]
   },
   {
-   "code": "464080",
-   "name": "에스오에스랩",
+   "code": "115180",
+   "name": "큐리언트",
    "market": "KOSDAQ",
-   "cap": 1360,
-   "total": 3,
+   "cap": 4568,
+   "total": 2,
    "recent": 2,
    "activeDays": 2,
-   "firstSeen": "2026-11-24",
-   "lastSeen": "2026-11-25",
-   "score": 12.2,
+   "firstSeen": "2026-11-27",
+   "lastSeen": "2026-11-28",
+   "score": 12.7,
    "riskMentions": 0,
    "catalystMentions": 0,
    "samples": [
     {
-     "date": "2026-11-25",
-     "title": "에스오에스랩, 엔비디아와 글로벌 라이다 시장 공략"
+     "date": "2026-11-28",
+     "title": "큐리언트, 유증 초과 청약에 '급등'…\"다음은 지수편입\" [종목+]"
     },
     {
-     "date": "2026-11-25",
-     "title": "\"라이다 4개에서 2개로…\" 에스오에스랩에 열린 '북미 로보택시' 기회"
-    },
-    {
-     "date": "2026-11-24",
-     "title": "\"라이다 4개에서 2개로…\" 에스오에스랩에 열린 '북미 로보택시' 기회"
+     "date": "2026-11-27",
+     "title": "큐리언트, 유증 초과 청약에 '급등'…\"다음은 지수편입\" [종목+]"
     }
    ]
   },
   {
-   "code": "0241D0",
-   "name": "KODEX 미국AI에이전트액티브",
+   "code": "451800",
+   "name": "한화리츠",
    "market": "KOSPI",
-   "cap": 314,
-   "total": 4,
+   "cap": 8019,
+   "total": 2,
    "recent": 2,
    "activeDays": 2,
-   "firstSeen": "2026-11-24",
-   "lastSeen": "2026-11-25",
-   "score": 11.8,
+   "firstSeen": "2026-11-27",
+   "lastSeen": "2026-11-28",
+   "score": 12.7,
    "riskMentions": 0,
    "catalystMentions": 0,
    "samples": [
     {
-     "date": "2026-11-25",
-     "title": "KODEX 미국AI에이전트액티브, 美앤트로픽 19.4% 비중 편입"
+     "date": "2026-11-28",
+     "title": "한화리츠, 한화손보 서소문 사옥 815억에 매입 추진…총자산 2.2조 전망"
     },
     {
-     "date": "2026-11-25",
-     "title": "\"상장 즉시 담았다\"…KODEX 미국AI에이전트액티브, 앤트로픽 19.4% 편입"
-    },
-    {
-     "date": "2026-11-24",
-     "title": "삼성운용, 'KODEX 미국AI에이전트액티브' ETF에 앤트로픽 편입"
+     "date": "2026-11-27",
+     "title": "한화리츠, 한화손보 서소문 사옥 815억원에 매입 추진"
     }
    ]
   }
