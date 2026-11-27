@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-27T04:57:18+09:00",
+ "updatedAt": "2026-11-27T13:36:07+09:00",
  "cases": [
   {
    "name": "GRT(900290)",
@@ -72076,6 +72076,27 @@
    "theme": "로봇/휴머노이드",
    "status": "pending",
    "checks": []
+  },
+  {
+   "name": "오픈엣지테크놀로지(394280)",
+   "type": "discovery",
+   "market": "韓",
+   "flagDate": "2026-11-27",
+   "signals": [
+    "국내AI반도체기업IP라이선스67억원(매출41.7%)",
+    "SK하이닉스이후역대2위규모",
+    "6개월간조용하다재점화"
+   ],
+   "theme": "AI반도체설계(팹리스/IP)",
+   "status": "pending",
+   "checks": [],
+   "convScore": 5,
+   "convTier": "high",
+   "convSignals": [
+    "반복포착",
+    "승세테마"
+   ],
+   "convStampedAt": "2026-11-27"
   }
  ],
  "stats": {
@@ -72085,8 +72106,8 @@
   "miss": 164,
   "hitRate": 24.3,
   "avgD3ChangePct": 0.32,
-  "pending": 402,
-  "total": 789,
+  "pending": 403,
+  "total": 790,
   "byType": {
    "leading": {
     "verified": 163,
