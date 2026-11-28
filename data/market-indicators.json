@@ -1,23 +1,23 @@
 {
-  "updatedAt": "2026-11-28T04:40:00+09:00",
-  "session": "AM",
-  "note": "11/28(토) AM — 코스피·코스닥 11/27(금) 확정 종가 기준(코스피 +4.34%·코스닥 +8.13%, 나흘째 반등 랠리 지속). 美 증시는 추수감사절(11/26) 휴장 후 11/27 반일장(블랙프라이데이, 13:00 ET 조기마감) 확정치 — S&P500·나스닥 모두 AI 저가매수세에 상승, 주간 기준 S&P +5.6%·나스닥 +6.7%. 다우는 11/27 반일장 수치가 출처 간 혼선이 있어 직전(11/25) 확정 종가로 표기. 투자권유 아님.",
+  "updatedAt": "2026-11-28T12:55:00+09:00",
+  "session": "PM",
+  "note": "11/28(토) PM — 오늘은 한국·미국 모두 휴장(주말)이라 신규 종가는 없음. 아래는 11/27(금) 확정 종가 기준 그대로 유지(변동 없음). 美 10년물·DXY는 11/27 저녁 기준에서 큰 변화 없음. 다음 거래일(한국 11/30 월·美 11/30 월)부터 신규 갱신. 투자권유 아님.",
   "stock_fng": { "value": 9, "label": "Extreme Fear", "source": "https://www.lookonchain.com/feeds/84208" },
   "indices": [
-    { "name": "코스피", "value": "4,915.68", "change": "+4.34%(+204.47p, 11/27 확정 종가)", "source": "https://kr.headtopics.com/news/530764982854588686156-90230063" },
-    { "name": "코스닥", "value": "708.99", "change": "+8.13%(+53.28p, 11/27 확정 종가, 12거래일만 700선 회복)", "source": "https://view.asiae.co.kr/article/2026112715341452393" },
-    { "name": "다우존스", "value": "50,182.95", "change": "+0.33%(11/25 확정 종가, 11/27 반일장 수치 출처 혼선으로 보류)", "source": "https://mlq.ai/news/dow-erases-1100-point-drop-to-close-up-164-as-nasdaq-pares-46-ai-rout/" },
+    { "name": "코스피", "value": "4,915.68", "change": "+4.34%(+204.47p, 11/27 확정 종가·휴장으로 변동없음)", "source": "https://kr.headtopics.com/news/530764982854588686156-90230063" },
+    { "name": "코스닥", "value": "708.99", "change": "+8.13%(+53.28p, 11/27 확정 종가·휴장으로 변동없음)", "source": "https://view.asiae.co.kr/article/2026112715341452393" },
+    { "name": "다우존스", "value": "50,774.94", "change": "+1.18%(11/27 반일장 확정)", "source": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-major-indexes-140450439.html" },
     { "name": "S&P 500", "value": "7,298.34", "change": "+1.61%(11/27 반일장 확정, 주간 +5.6%)", "source": "https://www.newspim.com/news/view/20261128000012" },
     { "name": "나스닥", "value": "24,129.50", "change": "+2.31%(11/27 반일장 확정, 주간 +6.7%)", "source": "https://www.fnnews.com/news/202611280329020279" },
-    { "name": "VIX", "value": "26.80", "change": "11/26 종가, 전일(11/25) 33.70에서 급락(공포 완화)", "source": "https://www.tokenpost.kr/news/economy/445501" },
+    { "name": "VIX", "value": "26.80", "change": "11/26 종가, 전일(11/25) 33.70에서 급락(공포 완화) · 주말 변동 없음", "source": "https://www.tokenpost.kr/news/economy/445501" },
     { "name": "美 10년물", "value": "4.88%", "change": "+3.8bp(11/27)", "source": "https://qsgcap.substack.com/p/qsg-daily-report-friday-november-754" },
     { "name": "달러인덱스(DXY)", "value": "103.82", "change": "0(11/27 저녁 기준 횡보)", "source": "https://www.tokenpost.kr/news/economy/445501" },
     { "name": "원/달러", "value": "1,337.90", "change": "-4.8원(11/27 15:30 기준가, 증시 반등·월말 네고 물량에 하락)", "source": "https://www.yna.co.kr/view/AKR20261127077500008" },
     { "name": "美 기준금리", "value": "3.75~4.00%", "change": "0(유효금리 3.88%) · 12월 FOMC(12/9) 인상(25bp) 확률 97.8~100%로 거의 고착", "source": "https://www.kitco.com/news/article/2026-10-27/fomc-rate-decision-could-mark-return-dissenters-offer-clues-december" },
     { "name": "한국 기준금리", "value": "3.25%", "change": "0(11/26 금통위 3.00%→3.25% 인상 후 유지, 노무라는 '인상 사이클 사실상 끝'으로 평가)", "source": "https://news.jkn.co.kr/post/1127039" },
     { "name": "美 CPI", "value": "2.8%(10월 근원, YoY 6개월 최고)", "change": "헤드라인은 정부shutdown 데이터공백으로 4%대 추정 · Fed선호 PCE는 3.8%(근원3.3%)로 재가속", "source": "https://www.axios.com/2026/11/10/cpi-october-inflation-fed" },
-    { "name": "韓 CPI", "value": "2.8%", "change": "0(10월 확정치, 예상 0.3%p 하회한 완만한 둔화 · 11월 수치는 12/1 발표)", "source": "https://www.hankyung.com/article/2026112332227" },
-    { "name": "WTI", "value": "85.92", "change": "+2.72%(11/27, 1월물, 호르무즈 유조선 피격·사우디 아람코 자잔 정유시설 피격에 3주 하락세 종료)", "source": "https://www.etoday.co.kr/news/view/2652488" },
+    { "name": "韓 CPI", "value": "2.8%", "change": "0(10월 확정치 · 11월 수치는 12/1(월) 발표 예정)", "source": "https://www.hankyung.com/article/2026112332227" },
+    { "name": "WTI", "value": "85.92", "change": "+2.72%(11/27, 1월물, 호르무즈 유조선 피격·사우디 아람코 자잔 정유시설 피격에 3주 하락세 종료) · 11/26 사우디 아람코 자잔 추가 피격으로 상승압력 지속 가능", "source": "https://www.etoday.co.kr/news/view/2652488" },
     { "name": "금(Gold)", "value": "3,678.10", "change": "+4.02%(11/27, COMEX 12월물, 전일 15개월 최저권에서 급반등)", "source": "https://www.cbci.co.kr/news/articleView.html?idxno=631424" }
   ]
 }
